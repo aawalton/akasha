@@ -1,0 +1,273 @@
+---
+id: e4054a6d-372b-57b4-b0d4-87ff198769ec
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Chapter 13: Lots and Lots and Lots of Grubs"
+slug: 0020-book-6-chapter-13-lots-and-lots-and-lots-of-grubs
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 20
+ownLength: 2696
+unit: words
+ownProgress: 2696
+publishedAt: 2025-06-12
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2351770/book-6-chapter-13-lots-and-lots-and-lots-of-grubs"
+royalRoadId: "2351770"
+removedAt: "2026-07-03T13:47:39.928Z"
+---
+
+You have got to be kidding me, Arthur thought. Though to his own surprise, he felt more anticipation than exasperation.
+
+His patience with Whitaker had long since worn thin. It would be nice to put the man in his place.
+
+Crag was an enormous beast. He looked a lot like a flying mountain with outstretched claws.
+
+Though Brixaby had grown quite a bit recently, he was still tiny in the other dragon's shadow. But he wasn't flying away. Instead, he trembled with eagerness.
+
+Around him, Arthur heard people letting out warning shouts, dragons let out dismayed roars, and Arthur swore he heard at least one exasperated huff. Everyone but Whitaker and his dumb dragon knew this was not the time or place.
+
+But Arthur and Brixaby hadn't picked this fight, and they weren't going to run. They turned to face their foe.
+
+Crag was an Orange, which meant his natural magic tended toward changing materials from one state to another.
+
+He proved he was more than just bulk and a mean set of claws when, a moment later, the air seemed to harden around them like living crystal, encasing Brixaby's wings. But they didn't fall because, at the same time, it was as if a ghostly hand surrounded them, keeping them tightly in place.
+
+The hand would be Whitaker's telekinesis card, though Arthur wasn't sure if that was part of their linked cards or his own. It didn't matter.
+
+Instantly, Brixaby mentally reached for Arthur's Phase In, Phase Out card. Just like Arthur's clothes went with him when he phased out, Arthur sitting on top of his dragon was also included with the card's activation.
+
+They fell out of Whitaker's grip and Crag's hardened air.
+
+Out the other side, Brixaby inhaled a huge lungful of air and shouted at the incomers, "You think your petty trick will stop me?!"
+
+The full force of his Stunning Shout warped the air in front of him.
+
+Crag's head snapped to the side as if he had been slapped.
+
+Right at the exact moment a ghostly impression of a hand tried to snatch Arthur from Brixaby's back.
+
+But the big orange dragon had faltered with the impact of the Stunning Shout, and Whitaker's concentration was broken. Arthur's rear had barely left Brixaby's neck before he sank down
+
+Arthur gasped and settled firmly back in place. It had happened so fast that Brixaby hadn't even noticed.
+
+Suddenly, a green-tinted shield surrounded Arthur and Brixaby—there was nothing restraining about it. It was entirely defensive.
+
+Other dragons were flying between the two, yelling at both Whitaker and Arthur to stop... as if they hadn't done anything except defend themselves.
+
+Arthur rolled his eyes but sat in place, mature and dignified.
+
+Meanwhile, it looked like Whitaker was having a tantrum from within the confines of his own shield. He shouted something Arthur couldn't hear, and even with the green tinge, his cheeks looked flushed with rage.
+
+Crag roared and scratched fruitlessly against the shield. His claw strikes actually created sparks. There had to be a card power behind that.
+
+Brixaby, meanwhile, hovered in place and radiated pure smugness, as if daring the other dragon to come within striking range.
+
+Arthur took that moment of relative calm to look around.
+
+The eruption hadn't stopped for their little drama. In fact, it had significantly expanded from when he was last here. The edges were now so far away that he could barely see the card's effects on the distant fighters.
+
+Below, the land had been utterly consumed. There were no trees, no buildings, only a carpet of worm-like scourgelings. A sickly purple-gray haze hung in the air, which was an indication of the deadened land underneath. This place had been wholly desiccated.
+
+The only bit of good news was that the demi-scourgling had not made an appearance, though the eruption cone had a bulge in the throat as if something very large was trying to crawl out and had gotten stuck halfway.
+
+They still had time before it emerged, though not much.
+
+That was when he realized he couldn't feel any mental pressure at all. Looking around, he saw the distant shimmer of a bluish shield at least a quarter of a mile out. It encircled all the new arrivals with what had to be Legendary power. Arthur suspected this was what kept the force of the scourgling's mind magic out.
+
+And it seemed the shield user wasn't the only one who was unafraid to use their power. There was a flex within the air all around them. Suddenly, everyone's shouts across a large gap of airspace were just as loud as if they stood next to one another.
+
+"Settle down, you—"
+
+"I have the right—"
+
+"Stop!"
+
+"You're all wasting time—"
+
+This was followed by a brief silence as everyone realized they could hear each other quite easily.
+
+Then a male voice drawled out, "Settle down, children."
+
+He sounded familiar. Arthur looked around until he spotted one of the leaders from Buck Moon—Ismael. His dragon, Marv, had his neck lifted in an attitude of unconscious authority. The two of them acted as if they led this group of Legendaries.
+
+Whitaker, though, would have none of it.
+
+"I have the right to punish a traitor to my hive!" he exclaimed, still bellowing.
+
+"Whitaker, if you don't shut up, I'll portal you back to that hovel you call a hive," Rose said. "Now, can you two set this aside and be adults?"
+
+Arthur shot her a look. That was deeply unfair. Whitaker was the one acting like a fool.
+
+She caught his gaze and winked.
+
+Well, it was time to set himself apart in the eyes of the other leaders. Arthur channeled his inner Brixaby. "I'm happy to take care of the demi-scourgling, then deal with Whitaker at my leisure."
+
+"You little shit—" Whitaker began.
+
+Ismael shouted over him. "That's enough! Whitaker, I'll use small words with you: Play nice or we will make you."
+
+The man sputtered, and his dragons turned to flex his claws in Marv's direction. The other dragon ignored him.
+
+However, it seemed as if everyone had calmed down. Ismael, too, looked like he wanted to move on.
+
+"Sitrep," he said.
+
+What? Arthur thought.
+
+An older woman who sat not on her red dragon's neck, but strangely, on top of his head, spoke.
+
+"Our best bet is to get at this thing before it fully emerges from the cone. I don't think our lower rankers will be a help here," she added with a roll of her eyes to the distance. As if those poor people had any choice with all the mind magic in the air.
+
+Another man with a higher voice said, "Our hive seers say that this mind magic comes from all the scourglings, not just the demi-scourge. I don't think that the lower ranks will be able to move in to clean up whatsoever."
+
+Arthur winced. If that was the case, it wouldn't be safe to bring in Wing Purple after this was all done for some discreet shard harvesting. What a shame.
+
+Another man Arthur vaguely thought was from Flower Moon spoke. "If it's that bad, we need to call the King. This land is already gone."
+
+"He's right," chimed a woman near him. "If that shield fails, we're going to be at risk of the mind magic, too. It might be enough to take over one of us. I don't fancy fighting our own."
+
+That started a barrage of agreements and disagreements.
+
+Whitaker cut across them all. "Speaking of fighting our own, where is dear Chester?" His voice radiated sarcasm, and he glared at Arthur.
+
+There was a brief silence as everyone looked around and realized they were down more dragons than they thought.
+
+"Desmond and Sybil are gone as well," Ismael said. "Is Blood Moon not joining us?"
+
+Rose stared at Arthur. He knew that this was his time.
+
+So much for keeping quiet...
+
+"Myself and my dragon, Brixaby, now rule Blood Moon hive," Arthur said. "Desmond and Sybil elected to stay back to manage the hive in my absence."
+
+He didn't talk about Chester. He didn't need to. With the exception of Whitaker, these weren't unintelligent people, and they put it together real quick.
+
+He heard a few intakes of breath, exclamations, and oaths. None of them seemed overly upset, just shocked.
+
+"You rule Blood Moon, card stealer?" asked the man with the higher-pitched voice.
+
+"It is my hive now," Brixaby drawled out, and Arthur swore he saw one of the brown dragons give a convulsive shudder.
+
+Just like that, the faint approval he felt for keeping his temper while Whitaker didn't evaporated.
+
+"We can settle this later," said Rose. "Whatever we need to do, we should decide quickly. That demi-scourgling is going to appear soon."
+
+That restarted the argument.
+
+"Someone needs to call in the king. This has gone out of control—"
+
+"No, we need to fight."
+
+"Forget about this backwater nowhere. That kid and his card-stealing dragon just took over an entire hive. The king needs to be alerted about him!"
+
+"The king is already aware," Arthur said, cutting that argument off before it could gather steam.
+
+This was met with another brief silence.
+
+People exchanged glances, but quite a few stared at Arthur instead. Assessing.
+
+It was pretty easy to guess that a few of the junior leaders were wondering what it would take to challenge him for Blood Moon.
+
+Again, Ismael was the one to take control. "Let's have a quick vote. By a show of hands, who elects to call the king? And who to fight?"
+
+The majority chose to fight, which raised Arthur's estimation of them slightly.
+
+He nearly swore at the next command. "Those who have their own mental shields, go and knock out as many of these Common scourglings as you can before the land is past the point of no return. The rest of us will attack the demi-scourgling and then help clean up the rest. It's going to be a long day."
+
+****
+
+"Could have had another Legendary card," Arthur grumbled, though he kept it mostly to himself.
+
+He was annoyed, but the silver lining was that Whitaker was on the team set to fight the demi-scourge.
+
+Arthur wasn't afraid of him or his ugly dragon, but fighting a Legendary-ranked scourgling was no small thing, and Whitaker was not above taking potshots. Arthur didn't want to be watching his back.
+
+With a sigh, he focused on the task ahead of him.
+
+Even a Common scourgling could be a danger to those who got unlucky. Though these looked extremely... pathetic.
+
+They were shaped like large, pale grubs. The only way he could tell which side was the head was that it was the part with the rings of gnashing teeth, and their fat, awkward bodies were riddled with sores. They had bristling black triangular outcroppings to serve as legs to help scoot them along the ground whenever they undulated forward.
+
+Because they were each as large as a donkey cart, every undulation took them at least a few feet. Given enough time, they could cover a fair bit of ground.
+
+The whole area was utterly carpeted with them.
+
+Still...
+
+"This is weird," Arthur muttered.
+
+"This is a harvest!" Brixaby corrected, with much more enthusiasm than Arthur expected from him.
+
+The dragon then dove down low to use his Stunning Shout on a wide swath below. Dozens of scourgelings died at once—the force of the shout bursting whatever gooey organs they had.
+
+Brixaby practically flipped around on his own tail to fly back over the same area for a quick shard collection. He ended up with an entire clawful of Commons, with an occasional Uncommon, all of which he tossed into his Personal Space.
+
+Arthur had been worried he would be disappointed about not fighting the demi-scourge, but the dragon had clearly found a way to console himself.
+
+With his Purple speed at work, he completed two strafes and collection runs before the other three Legendaries, who had peeled off to fight the Commons, had completed only one of their own.
+
+Arthur frowned. "This is the only scourgling type so far. Even that last eruption had stronger fighters. You think they're going for quantity over quality?"
+
+"It appears to be working for them," Brixaby said dryly.
+
+That was true.
+
+His dragon dove for another easy strafing run.
+
+There was no love lost with the other scourglings. Each time one was killed, its still-alive neighbor moved to start chewing on it. In fact, Brixaby lost more than a few shards to the other scourglings.
+
+Whatever gap they made in the crowd was quickly closed by other bodies pressing in. The glimpses of ground Arthur caught underneath looked to be dead land.
+
+It would take years of intensive work to restore this whole area alone, and there were increasingly more eruptions.
+
+Arthur tried not to think about that and instead kept an eye out. It would be easy for higher ranks to hide in this group and then toss spells at them just as Brixaby and the others dipped for another run.
+
+But... no. The longer it went on, the more it seemed like these scourglings had no way to defend themselves at all. They certainly didn't seem to care when their own kind was killed because it provided them with another meal.
+
+Meanwhile, more and more scourglings poured out of the eruption. Not only from the top but also from fissures that opened along the sides.
+
+Slowly, Arthur relaxed his tense watch and joined the fun.
+
+As Brixaby roared out with another Stunning Shout, Arthur peppered a strip of scourglings on his own with shrapnel. The scourgling's grub-like hides were thin, and the metal penetrated easily.
+
+Brixaby dove down low, and Arthur took another long look at the thing. It seemed there was something pulsing just underneath the thin skin. The organs? Or was it digesting whatever it had eaten? Hopefully, not people.
+
+He shuddered and looked away. The ground was covered with them as far as his eye could see.
+
+It was going to take the rest of the day, at minimum, and probably the rest of the Legendaries, to kill all of them.
+
+A sudden shriek not only split the air but also seemed to go straight through his skull.
+
+Brixaby's wings shuddered, though he quickly recovered before they lost much height.
+
+They both turned to look toward the eruption.
+
+Give some tiny credit to Whitaker: from the looks of it, he had used his Telekinesis to pull the demi-scourgling out of the mouth of the eruption.
+
+Like the others, it was a large, disgusting grub. It wiggled in the air like a worm on a hook while the other Legendaries struck at it with their various card powers.
+
+This is going to be over quick, Arthur thought with satisfaction.
+
+There was another shriek through the air and straight to his mind, bypassing his shields.
+
+But this time it was less pain and more... something else. A command? A wordless order. Of... change?
+
+He didn't quite understand and was reeling with the shock that the thing could communicate at all.
+
+That was when the answering cry came, both audible and mental. It beat at his shields and came from all around him.
+
+Then a new sound echoed in the air, like thousands, maybe a million pieces of cloth being ripped at the same time.
+
+Looking down, Arthur saw the thin skin of the scourglings splitting down the middle.
+
+Something emerged from within, struggling out and upward.
+
+"Brix! Climb! They can fly!" Arthur yelled.
+
+Out of the grubs—no, caterpillars—emerged the real scourglings.
+
+They looked much like giant red and black butterflies, with each wing stretching ten feet across on either side.
+
+The edges of those wings were deadly sharp, and foul green pollen poured out from their segmented bodies.
+
+It wasn't an easy rebirth. Arthur saw two that were close together get hit, and one was cut in half by a sweep of a scourge-butterfly wing.
+
+As one, the entire uncountable flock left their shells and took to the air to attack the Legendary dragons and their riders.

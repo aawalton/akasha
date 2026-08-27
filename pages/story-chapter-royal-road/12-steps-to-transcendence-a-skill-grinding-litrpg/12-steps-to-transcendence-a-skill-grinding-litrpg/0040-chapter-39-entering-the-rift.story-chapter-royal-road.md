@@ -1,0 +1,207 @@
+---
+id: e7ff40d5-20f7-5cc2-99d2-949931315953
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39: Entering The Rift"
+slug: 0040-chapter-39-entering-the-rift
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 40
+ownLength: 1700
+unit: words
+publishedAt: 2026-08-20
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3840543/chapter-39-entering-the-rift"
+royalRoadId: "3840543"
+---
+
+The group walked out of the camp into the forest that led to the rift. And honestly, it was very well hidden.
+
+Ben would easily admit that much.
+
+Pinging the area continuously, he had detected the magical barrier with [Mana Sonar] way before they even got close to it. There was literally nothing but ordinary trees and dirt around them until they stepped right through the invisible barrier.
+
+One moment, there was just a normal forest. And the next, a gigantic tear in reality hovered right in the dead center of the clearing.
+
+Biting the inside of his cheek, Ben quickly repressed a whistle as the entire group instantly stopped dead in their tracks marvel at the rift.
+
+Unlike everyone else though, Ben was marveling at the barrier, not the rift. That someone could hide something as densely packed with mana as a rift inside this construct was astonishing.
+
+Ben just marveled at the craftsmanship of the barrier.
+
+He didn't know constructs could actually be built this big. Plus, they could apparently alter the entire physical environment trapped inside them.
+
+That definitely gave him a lot of ideas.
+
+"So that's a rift. What do you say, Ben? Isn't it beautiful?"
+
+Circling around him into his line of sight, Theodore suddenly nudged Ben in the ribs. Leaning his heavy weight right onto Ben's shoulder, the crazy guy just smiled.
+
+Those annoying dimples of his deepened in an instant.
+
+But for once Ben had to admit, the guy was right. The rift really was incredibly beautiful.
+
+Swirling with vibrant colors, it was nothing but a chaotic mess, much like that insane tunnel of light he got hurled through when the camp commander teleported him.
+
+Staring deeply into the vortex, he felt a weird, heavy pull in his gut.
+
+Blinking, he realized the swirling mass of colors actually appeared to be physically sucking him in.
+
+Pacing back and forth in front of the rift, Arthur clapped his hands to get everyone's attention.
+
+"Listen closely, because I'm only going to say this once."
+
+Stopping abruptly, the knight gestured toward the swirling mass of colors.
+
+"Rifts are completely chaotic, and they come in a bunch of different types." Crossing his arms, he looked over the group of teenagers. "And for this specific one? We have absolutely zero clue what type it is."
+
+Scoffing loudly, one of the snooty noble kids instantly complained. "Are you joking? You didn't even test this thing out before throwing us in?"
+
+Pinching the bridge of his nose, Arthur shot the kid a deadpan look. "Well, we did test it. I'm just not going to tell you what type it is."
+
+Glaring at the complaining noble, Arthur made his expectations crystal clear.
+
+"This is something you all need to figure out for yourselves once you cross that barrier."
+
+Leaning forward, the knight raised a challenging eyebrow.
+
+"You don't expect me to be there with you every single time you're near a rift, do you?" Shaking his head, he let out a dry, humorless chuckle. "Or hold your little hands when you're about to die in one?"
+
+Point taken.
+
+Gesturing at the swirling colors again, Arthur gave his final orders.
+
+"So you'll just enter one by one and adapt on the fly. Just be aware of one thing, rifts are never as simple as they seem. So do not get lulled into a false sense of security or predictability. There's always a variable you never accounted for. If you can clear one, though, the rewards are well worth it. Even being inside a rift is worth it. You'll see."
+
+Ticking possibilities off on his fingers, the knight casually listed the ways this could go wrong.
+
+"Depending entirely on the type, you might end up magically teleported into a starting area together. Or you might get completely separated the exact moment you step inside."
+
+Knowing my luck, it's definitely going to be the second one.
+
+"It could be a survival challenge where you all have to do things individually to escape."
+
+Pausing near the edge of the barrier, he tapped his chin thoughtfully.
+
+"It could be a massive event rift, or maybe even a recreation of the past. A challenge. Floors to climb. Who knows?"
+
+Did he just say a recreation of the past?
+
+Before Ben could actually process that, Arthur quickly cut the conversation short. Clapping his hands together loudly, the knight barked at the group.
+
+"Anyway, come on, no need to dillydally and waste our time. We have a lot more groups to go through this today. So come on, one by one, make a line. The system will give you details when you enter anyway."
+
+Shrugging Theodore's heavy arm off his shoulder, Ben just quietly stepped forward to join the queue.
+
+Watching the others step into the swirling portal one by one, Ben noticed the obvious nerves written all over their pale faces.
+
+Well, it was only natural. He'd be quite the same had he not been using [Focus] almost always since he met up with the group. Especially since Theodore got near him. Since Alice warned him about Theodore, Ben was going to take it to heart.
+
+He was weak right now, so he could only take it.
+
+Thus, he tried to ignore the boy. Slowly, the noble kids went inside the rift one by one, nervous. And then, it was finally his turn.
+
+Taking a deep breath, he stepped forward and just walked right through it. His vision wobbled and his stomach lurched.
+
+Instantly, runes carved directly in his vision.
+
+You have entered a Tier 1 Rift!
+
+Warning: You will not be able to leave until the Rift has been cleared.
+
+Blinking away the dizzying nausea from the sudden teleportation, he quickly realized he was completely alone.
+
+He was standing right in the middle of a dense forest, looking remarkably similar to the woods right outside the camp. Only, the trees were rather violet in coloration, and looked sickly.
+
+And the air here felt entirely different. Thick and heavy, and very sweaty. Like those days in summer when everything felt wet uncomfortably so against his skin.
+
+With an absurd amount of ambient mana all around him, this place was interesting to say the least.
+
+…wait.
+
+Taking a deeper breath, his eyes widened in pure shock.
+
+Is that... essence?
+
+There was essence just floating freely in the fucking air!
+
+And just by standing there and breathing normally, his body was passively soaking it up, stamping his "signature" onto it and pouring it into his core.
+
+Grinning like an absolute idiot, he felt a sudden rush of genuine excitement.
+
+This means a massive amount of progress, doesn't it?
+
+Pushing the giddy excitement down for a second, he quickly prioritized his actual survival. Sending out a few rapid pulses of [Mana Sonar], he carefully swept the immediate surrounding area for threats.
+
+He really needed to make sure no random monster was going to bite his head off while he got his bearings.
+
+When the echoes returned confirming the immediate vicinity was clear, he looked back at the hovering text.
+
+Damn, I really am inside an actual rift. Where are the essence shards?
+
+Leaning against a nearby tree trunk, he immediately let his cycling technique rotate a few times through his body to get a taste of this place.
+
+Feeling the sheer density of mana and essence rushing into his system, he was completely astonished by the instantaneous gains.
+
+It was like drinking from a firehose compared to drinking from a drop. It was harder to actually absorb all that essence and mana and most of it just wasted away.
+
+Remembering Arthur's vague lecture, Ben suddenly frowned.
+
+Didn't that guy say something about the system giving us the actual rift details?
+
+Almost as if responding to his thought, the system interface instantly shifted and expanded with more text.
+
+[Tier 1 Rift]
+
+Rift Type: Objective
+
+Description: A contained pocket dimension harboring hostile entities. A central guardian currently guards the exit threshold. Hunt hostiles to gain points, the higher your points the stronger the guardian you will face.
+
+Rift Objective: Defeat the guardian entity and exit the Rift.
+
+Rift Rewards: Reward calculated based on performance.
+
+Current Points: [0]
+
+Reading over the details, Ben couldn't help but slowly rub his chin.
+
+So basically, I just have to carve my way through some monsters and kill a boss to get out? What about the others? Are they in here, or did the rift spit them out into a pocket dimension of their own with similar rules?
+
+He quietly pondered his next move—
+
+Something incredibly sharp violently ripped right across his spine.
+
+Stumbling forward, his shirt tore open, and warm blood immediately flowed down his back.
+
+"What the…?!"
+
+Neither [Hunter] had warned him about the attack, nor did [Mana Sonar] work to pick up a single damn thing! Where did that come from?!
+
+Startled by the sudden ambush, he quickly blasted himself away with [Fire Burst].
+
+Letting out a huge pulse of mana with [Mana Sonar], he waited to map the area, but when the echo returned, there was literally nothing there.
+
+What?
+
+Thoroughly confused, Ben felt his [Focus] ramp up to the max as his eyes twitched side to side in search for movement.
+
+And then another agonizing slash hit his back again.
+
+Snarling in pain, he blasted forward, hearing a gurgly, mocking giggle as he did so.
+
+So he just did this a few more times.
+
+Jumping blindly around the violet trees, he kept trying to manually adjust [Mana Sonar]'s frequency with [Mana Manipulation] to try and find whatever was attacking him.
+
+And while he was doing it, the creature easily managed to slash him a few more times.
+
+Finally, Ben managed to detect it.
+
+Pinging a weird blip just once for a brief second with [Mana Sonar], he instantly hurled a massive blast with [Fire Burst] that way.
+
+But the presence disappeared almost instantly.
+
+So he completely lost track of it again, and of course, a fresh slash drew even more blood from his back once more.
+
+This time, however, he managed to catch a quick glimpse of what it actually was.
+
+It was a goblin?
+
+And it was invisible and fast as fuck.

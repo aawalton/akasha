@@ -1,0 +1,106 @@
+---
+id: 7f843480-c501-528e-a211-f343f26cb130
+page-type-slug: story-chapter-played
+title: "Experiment 2 — Natalie's Table"
+slug: 0002-experiment-2-natalies-table
+partOf: the-violet-hour
+position: 2
+ownLength: 1001
+unit: words
+---
+
+[natalie] There it is. Careful, the dish is still hot — Amy, honey, pass me that towel. Third try's the charm on this bread, I'm telling you. First loaf came out a brick, second one a sponge, and this one — well, look at it. This one came out a loaf of bread.
+
+[amy] It smells incredible. Okay, I'm cutting into it, I don't care if it's supposed to rest.
+
+[natalie] Bread doesn't need to rest, sugar, that's steak. Bread needs to be eaten while the butter still has an opinion about it.
+
+[zadi] That's the best thing anyone has said at this table all year, and I include the night we argued about Middlemarch until one in the morning.
+
+[amy] We didn't argue about Middlemarch. You argued about Middlemarch. I fell asleep on the couch and you kept going.
+
+[zadi] And I was very persuasive, you said so yourself the next morning. Oh — this bread. Natalie. This bread is a whole event.
+
+[natalie] It's my grandmother's recipe, out of the little tin box, the one with the rooster on it. Half the cards in there are just lists of things with no instructions at all. Flour, buttermilk, the good honey, patience. That's the whole card. Took me three loaves to figure out what patience meant in her handwriting.
+
+[amy] It means the oven was slower in her day, probably.
+
+[natalie] That's exactly what it means. I gave it an extra quarter hour at a lower heat and there she was, like her hand was on my shoulder the whole time.
+
+[zadi] I finished the Robin McKinley last night, by the way. The one I've been carrying around for two weeks like a small pet.
+
+[natalie] The dragon one?
+
+[zadi] The dragon one. And the ending — I'm not going to spoil it, but I closed the book and just sat there holding it for a while. The way she lands it. It's like watching someone set a full cup down without a single ripple. I went back and read the last page twice just to feel it land again.
+
+[amy] Two weeks is fast for you with a book you like. You usually ration them.
+
+[zadi] I do ration them. I failed. It was too good, I have no regrets, and now I get the other kind of pleasure, which is choosing the next one. I've got three on the shelf making their cases.
+
+[natalie] Let them audition. Make them bring something to the table. Speaking of which — the tomatoes in the salad are mine, I want that on the record. First real bowlful off those vines.
+
+[amy] Wait, these? The ones you were nursing along in June like they were in intensive care?
+
+[natalie] Those exact ones. They turned the corner. I gave them the sunny bed by the fence, talked to them scandalous, and look — they went and got delicious about it.
+
+[zadi] They really did. This whole salad tastes like July did its job.
+
+[amy] Oh, I have to tell you both — I spent Sunday in the pantry with the radio on, and it was honestly the nicest afternoon I've had in weeks. Everything's in jars now. I opened the door this morning just to stand there and look at it.
+
+[natalie] Oh, that's the best feeling. Shelves you can trust.
+
+[amy] And I found three cans of the same beans hiding behind everything, which is where the bean salad came from. So thank the pantry for tonight's contribution.
+
+[zadi] A dish with a backstory. Those always taste better, I'm convinced of it.
+
+[natalie] Every good table is nothing but backstories, sugar. That's the recipe box again. Cobbler's coming out in a minute — peaches from the stand out on the county road, the one with the dog that supervises the till.
+
+[amy] The one where the dog sits on the stool like an employee?
+
+[natalie] Like middle management, yes. I bought two baskets and he approved the transaction personally.
+
+[zadi] I love that dog. Someone should write him into a novel. A small, honest novel where nothing bad happens and the peaches are always ripe.
+
+[natalie] Well, tonight's chapter of it is in the oven. Y'all save room.
+
+[amy] I saved room. I planned for cobbler the way I plan everything — in advance and with contingencies.
+
+[zadi] She means she skipped lunch.
+
+[amy] I mean I had a strategic lunch.
+
+[natalie] Here we go — oh, it's pretty. Look at that crust. Get the cream, it's in the blue pitcher.
+
+[zadi] Oh. Oh, that's — everyone stop talking for a second. This deserves quiet.
+
+[amy] Mm.
+
+[natalie] Mm-hmm. That's the county-road peaches doing that. You can't buy that in a store, that's a dog-supervised peach.
+
+[zadi] This is the part of the evening I like best, you know. Not the cobbler — well, also the cobbler. But this part. Candles getting low, nobody in a hurry. The conversation starts taking its shoes off.
+
+[amy] The week can just sit down somewhere, it's off duty.
+
+[natalie] That's what a table's for, sugar. You cook the dinner so the evening has somewhere soft to land.
+
+[zadi] Next month it's my table, and fair warning, I cook one thing well and it's soup. There will be soup, there will be bread I bought from someone more talented than me, and there will be a poem before anyone's allowed to leave. A short one. Traditional.
+
+[natalie] I wouldn't miss it. I'll bring the honey, the good kind, for the bread.
+
+[amy] I'll bring the labels, in case your pantry wants to become trustworthy while we're there.
+
+[zadi] My pantry is beyond your help, but you're welcome to try. Is there more of the decaf?
+
+[natalie] Pot's still warm. Sit, I'll get it. No — sit. Hosting means I get to say that.
+
+[amy] The candles are almost down to the wood. I always like when they get like this.
+
+[zadi] Mm. Everything's gone all amber.
+
+[natalie] That's the hour doing that. Best light of the whole day, right here at the end of it. Nothing left to do but sit in it a while.
+
+[zadi] Mm-hmm.
+
+[amy] Mm.
+
+[natalie] More cream in that, honey? There. Now we're all where we're supposed to be.

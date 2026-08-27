@@ -1,0 +1,201 @@
+---
+id: 0c3bbf46-b0dc-5b18-8b5b-91e1a1f91032
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero [Hero] Chapter 65 (End of Book 1)"
+slug: 0007-the-level-zero-hero-chapter-65-end-of-book-1
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 7
+ownLength: 2817
+unit: words
+publishedAt: 2023-02-18
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1117044/the-level-zero-hero-chapter-65-end-of-book-1"
+royalRoadId: "1117044"
+---
+
+It was Kallistus Kal. The [Hero King]. The Savior of Sibylla. The Destroyer of Deveral. One of three otherworlders in all of Vacuos. Well, there were four now that Amelia was here. But that was besides the point— Grat-ra’zun just couldn’t believe his eyes.
+
+The Elder Dragon gaped at the figure wreathed in a gold and purple aura. Kallistus hovered high in the air, wisping with magic. The arcane which flowed through every living creature in Vacuos. But also— depraved, tainted magic.
+
+That which was corrupted by the Void.
+
+“You— how…?” Grat-ra’zun asked, staring at the [Hero King].
+
+The dragon quickly muttered a healing spell, but his scales refused to regrow. He looked down to see a black blotch staining his wounds— glowing and rippling with a vile power. It caused him to wince, and he spoke through gritted teeth.
+
+“Why are you here?”
+
+Kallistus didn’t give an immediate answer. He turned away from Ammon, before descending past both Rakash and Si-Vus. They bowed at him, and he landed right before Grat-ra’zun. The [Hero King] walked on the molten rock surface as his glinting boots lit aflame, but he didn’t burn from the heat.
+
+“How did the Sect of Abyssal Thorns convert you?” the Elder Dragon snarled. “You are not even from this world!”
+
+And Kallistus just closed his eyes. “My allegiance is to myself. I do not care for this world, nor do I obey the Sect of Abyssal Thorns.”
+
+The [Hero King] sighed, raising his longsword. He trudged through the burning rubble as his golden armor sizzled. His blade shimmered, and he eyed the Elder Dragon.
+
+“As for why I am here… you know just as well as I do.” He pointed his blade at Grat-ra’zun. “Show me the rift.”
+
+“Show you the— what are you talking about?” The dragon narrowed his eyes.
+
+Kallistus shook his head. “I sensed it. I know you closed it— the rift in space, created by the Fal-Deus.”
+
+And that took Grat-ra’zun off-guard. “You know of the Fal-Deus?”
+
+“Yes,” Kallistus said. His blade glimmered, and the dragon’s eyes went wide. “Now show it to me!”
+
+The [Hero King] yelled and swung down with a powerful slash. It tore the earth open, cleaving off a large chunk of Mount Arkais. A landslide of molten stone fell down the side of the mountain as Grat-ra’zun took to the skies.
+
+“[Golem Creation: Greater Earth—]” he started.
+
+“Voiding.” Ammon’s voice reverberated throughout the air.
+
+The world flickered, changing color as the Elder Dragon’s eyes grew wide. His Skill refused to work— his connection to the World System abruptly cut off. He glanced up just in time to see a trident shooting straight down at him. He caught the projectile, only for Rakash to crash into the dragon’s snout.
+
+Grat-ra’zun reeled, before unleashing a blast of flames. It engulfed the troll and reduced him to a charred figure, but that wasn’t enough to defeat him. Before the dragon could finish him off, there was another flash of light.
+
+Looking down, the Elder Dragon saw golden chains shooting up from Kallistus. They caught Grat-ra’zun before he could fly out of the way. He roared, clawing at them— trying to break free. But they shimmered with a purple glow. And they crackled as a sharp pain jolted across his body. They shredded his scales, ripping holes into his wings. The more he struggled, the tighter they grew.
+
+He let out a shriek, tumbling out of the air. And Kallistus yanked him down, back into the molten rocks. The dragon braced himself, and moments later, felt the searing pain of the lava burning his scales. He couldn’t escape. He was trapped. He was… defeated.
+
+Si-Vus landed behind his King, carrying the healing body of Rakash, while Ammon remained hovering in the air. The Arcane Archsorcerer continued maintaining the Voiding, ridding the Elder Dragon of his Skills. If Grat-ra’zun could somehow stop that spell…
+
+The [Hero King] marched straight through this area as the golden glow faded from his armor. All that wreathed him now was the tainted magic from before. Even he was affected, but he could still draw from a different power. And he kicked Grat-ra’zun’s snout into the ground.
+
+“You have nowhere to run.” Kallistus spoke as the chains receded. His metal boots held the Elder Dragon down, and he raised a knuckle. “Now open the rift.”
+
+“D-Damn you!” Grat-ra’zun mustered out, but he couldn’t open his jaw. A trickle of flames shot out of his nostrils, but it bounced off the [Hero King] like it was water.
+
+“I said: open it.”
+
+A purple sphere flashed before the hands of Kallistus— a twisting orb that warped with space. The dragon thrashed and struggled, trying to break free… then paused as he caught sight of the glow. He tried to speak, but he felt his will being overpowered as Kallistus spoke a single word.
+
+“Obey.”
+
+“I-I…” Grat-ra’zun found himself speaking, even as he tried to resist. “I-I did not close the rift… and I could not even open it if I wanted to!” he exclaimed through a clenched jaw.
+
+That made Kallistus pause. He tilted his head curiously and spoke simply. “Then tell me who did this. Who is the one who can show me the Void?”
+
+“It was… I…” The dragon’s mouth moved. But this time, he resisted. “I will never tell you anything, slave to the Void!”
+
+“I am no slave.” Kallistus shook his head. “I am the Void’s Heir. And I shall claim what is mine. Now speak.”
+
+He pressed the sphere against the Elder Dragon’s snout. An intense pain ripped through Grat-ra’zun. It wasn’t a physical scar. He felt it mentally— it was practically crushing his mind. He shrieked in pain as his entire body twitched, and words began to involuntarily leave his mouth.
+
+“H-her… n-n-name…” he started.
+
+Kallistus snapped his brows together. He leaned forward, waiting. But the Elder Dragon refused to continue. That made the [Hero King] click his tongue.
+
+“Obey!” He pressed the sphere harder against the dragon’s scales. “Who is she? Where can I find her?”
+
+Grat-ra’zun fought back. But even with his will shattered, he refused to give in without a fight. He writhed in pain, but his body didn’t respond. His wings refused to fly. And he couldn’t help but let out a weak gasp.
+
+“W-Win…drip…” he said.
+
+Kallistus drew closer. “And her name?”
+
+The Elder Dragon’s mind reeled as he opened his mouth. “Her name is—”
+
+“[Superior Blooming Deathhowl]!” a voice shouted, interrupting Grat-ra’zun.
+
+The [Hero King] narrowed his eyes and spun around as the purple sphere dissipated. He braced himself for an attack. But it never came. Instead, a whistling arrow ripped across the sky, striking Ammon out of the air. The Arcane Archsorcerer screamed as half his body was blown apart by the glowing projectile.
+
+“Who—” Kallistus snapped his gaze to the side, before blinking at a figure standing atop the crater.
+
+An elf nocked an arrow into his bow as he chuckled with a wild smile. “Hello, [Hero King]. My name is Jax the Forsaken Archer, and I believe you have my quarry.”
+
+Kallistus blinked. “You’re… why are you—”
+
+And Grat-ra’zun roared as the purple dome fell apart. “[Golem Creation: Greater Earth Elemental]!”
+
+A giant pillar fell from the sky, crashing right next to the [Hero King]. Kallistus turned to face the Greater Earth Elemental as it loomed over him, before cracking open and taking on the form of a massive wyvern. It let out a roar and swiped its tail at him, knocking him back.
+
+The Elder Dragon spread his wings wide and took to the skies. Rakash and Si-Vus moved to intercept him, but the Greater Earth Elemental unleashed a dust breath at them, keeping them back. Jax blinked as Grat-ra’zun scooped him up and took to the skies.
+
+They flew away from Mount Arkais as Kallistus swung up at the Greater Earth Elemental. The [Hero King] cleaved through its tail, but the tail quickly regrew. They battled far in the distance as the dragon’s weak wings barely carried him forward.
+
+“What are you doing? Let me go!” Jax protested, thrashing about. “I could have taken them on!”
+
+But Grat-ra’zun shook his head, glancing back once. There was an explosion of gold and purple energy as he sighed. “That Greater Earth Elemental is nearly as strong as I, but it cannot hold them back for long.”
+
+And that made the elf pause. “...what in the Thrones are you talking about? The [Hero King] isn’t supposed to be that strong.”
+
+“I will explain later.” Grat-ra’zun looked down at himself— eyeing his injuries. His wings beat slower and slower as the purple stain on his scales refused to vanish. He just let out a sigh. “What matters now is that we need to find Amelia.”
+
+“I… see.” For whatever reason, the Forsaken Archer didn’t question it. He just nodded. “Very well, then.”
+
+And the two left the burning remains of Mount Arkais behind them.
+
+—--
+
+The Greater Earth Elemental collapsed as Kallistus dealt the final blow. It was an SSS-rank threat, so it hadn’t been easy to defeat, even with Rakash and Si-Vus at his side. But the [Hero King] simply shook his head and looked up at a returning figure.
+
+Ammon knelt hurriedly and closed his eyes. “I apologize, my King. But they escaped. I cannot find them. I have failed you.”
+
+Kallistus sighed as he sheathed his sword. “It is no matter. We know our target is in Windrip. So we have gotten what we came here for.”
+
+The [Hero King]’s plan worked out exactly as he thought it would. He had sent six of his most loyal and powerful compatriots to wear down the Elder Dragon for his arrival. But he hadn’t expected the amount of sacrifice needed for this outcome.
+
+Ivory, Delmer, and Usil were dead. Kallistus had hoped they would survive. But that Elder Dragon was stronger than expected. It was a necessary sacrifice, but still a terrible loss.
+
+“We shall mourn the fallen when we return,” the [Hero King] said, spinning around. “For now, let us—” he started.
+
+But there was a flash of dark light. He froze, and his three servants raised their heads. They stared at the twisting space ahead of them— at the distortion that rippled across the very center of the remains of Mount Arkais.
+
+“That’s…” Kallistus Kal’s eyes went wide.
+
+And he heard the familiar echoing voice.
+
+—--
+
+The battle was over. But its effects lingered. The shockwave of this clash would ripple all across Vacuos. Both literally and metaphorically, and in various different ways.
+
+While some would directly feel its immediate consequences, others felt a far weaker impact. In a farm right at the edge of Wolfwater, this was felt through a small tremor. The house shook for a few moments as the gathered figures at the dining table raised their heads.
+
+“What was that?” Noele asked, blinking.
+
+“It’s just an earthquake,” Nolan said as he shook his head. “There have been quite a few around these parts over the last five years.”
+
+“Who cares about all that— I need more!” Nicole exclaimed, raising an empty bowl.
+
+Garron nodded, surprised at how decent the food turned out. “I’d like another serving too, please.”
+
+And Amelia just smirked back at them. “I told you I could cook without the [Chef] Class.”
+
+It only had a small impact here. But the ripple effect spread far beyond this farm. It spread across all four continents, before reaching even further. Far away. Above the clouds, and towards the stars.
+
+Beyond the spinning planet. A figure lay dormant, hovering just before the moon. It hadn’t moved in eons. Trapped in stasis, it was programmed only to act when the World System’s control was threatened.
+
+A few errors weren’t enough to awaken the slumbering figure. It was only designed to act when there were consistent repeated anomalies. And with the most recent rift that ripped through space, the threshold was crossed. Its programming finally activated.
+
+[Initializing Defense Protocol…]
+
+The figure twitched. The sun’s rays washed over it as it heard the call of the World System.
+
+[Awaken: Guardian Angel Z357.]
+
+And a dozen eyes opened all at once.
+
+End of Book 1
+
+Author's Notes:
+
+And that's it! The end of Book 1!
+
+Since writing this chapter three weeks ago, I've taken the time to look back at all the old chapters and reflect on the book as a whole while making edits along the way. And I made quite a lot of edits because I realized I failed to capture part of the essence of the story-- the slice of life elements. After all, Amelia is a story that's meant to focus on Amelia's struggle to quite literally reintegrate into society after being alone for so long. She's depressed, jobless, and she can't quite fit in no matter what she does. And I feel like I neglected this aspect a little too much throughout the book.
+
+It was a mistake I think I made when rewriting the first three chapters of Amelia over and over again. The first draft I wrote of Amelia looked very different from the current draft of Amelia that went up on RoyalRoad/ScribbleHub/HFY with the only similarity being Ar'elith's death. In the first draft, Amelia's personality was a lot more of a 'Cutesy OP Girl being cute and OP in another world', but I realized I absolutely hated that premise. I cannot stand adult women who act like little girls, so I wrote another draft. For the second draft, the story was a lot more slice of life focused with scenes of Amelia reacting to both sleeping and eating for the first time since returning from the Fractured Realm. But I felt like this draft focused too much on the slice of life elements, and it failed to capture the OP MC elements. There was also the fact that those chapters sucked since I very much struggle writing slice of life well, so I started a third draft. With the third draft, I felt like the plot was going nowhere and it was just a 'monster of the week' type of story, and I scrapped it as well.
+
+The second final draft-- which is the draft you see here on RoyalRoad/ScribbleHub/HFY-- was more coherent. I ended up having Amelia kill Ar'elith first, then Zolan a chapter later, while tying it all back into her character arc and the plot, as opposed to having her kill both Ar'elith and Zolan for no reason in the initial chapter 1. I also had her System be less 'glitched', unlike the initial premise which had her getting no Class options had all, she now got only a single Class option. I thought this version was significantly better than all the previous versions I wrote, and I still think that. Unfortunately, this focus on the 'plot' ended up detracting my attention from the slice of life elements I wanted to initially explore when I started Amelia.
+
+There was also the fact that some of the introspective slice of life events I thought happened in the story didn't actually happen here on RoyalRoad/ScribbleHub/HFY, but happened in the previous drafts instead. As said before, her relaxing and enjoying sleeping and eating was initially the main focus on chapter 2. There was also a lot more introspection on what she wanted here in Vacuos, with more time spent on her exploring what she could be doing instead of just fighting. I had thought these scenes happened, but they didn't. They only happened in the patreon/unpublished drafts.
+
+All in all, I think there are things I could have done better in Amelia. The main thing being the focus on worldbuilding-- this was just something I omitted entirely at first because... like, I wanted to drip feed the worldbuilding, I guess, but I realize now I wasn't even drip feeding it. I was neglecting it entirely. I've made some edits for the final draft that will hopefully fix some of these problems, and it will be going up on Amazon and Audible in May-- about 5,000 words added, and 2,000 words removed. Obviously, the story can't be perfect, but my goal is always to keep improving as an author.
+
+If you've enjoyed this story so far, consider leaving me a review or a rating. This is probably the last time I'm going to ask for reviews. Anyone who has enjoyed the story so far would've already reviewed it, so honestly, it doesn't really matter either. In any case, thank you all for reading as always <3
+
+Also, join my subreddit and discuss the latest chapters here! Reddit - Dive into anything
+
+And consider donating to my patreon and reading up to 15 chapters ahead! MelasDelta | Creating Web Serials / Web Comics | Patreon
+
+Join my discord too!
+
+Or follow me on twitter!

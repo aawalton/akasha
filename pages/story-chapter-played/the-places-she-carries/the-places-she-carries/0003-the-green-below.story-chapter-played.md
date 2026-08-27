@@ -1,0 +1,466 @@
+---
+id: 00b753f2-a0e0-5669-b348-6521de0ffb08
+page-type-slug: story-chapter-played
+title: "The Green Below"
+slug: 0003-the-green-below
+partOf: the-places-she-carries
+position: 3
+ownLength: 7961
+unit: words
+---
+
+The Thornwild did not begin where the stair ended.
+
+Wren had expected a threshold -- a line in the dirt, a change in the light, a moment where she could say *here, this is where I entered the forest*. There was none. The waymarker at the stair's base stood in a small clearing of beaten earth and leaf litter, unremarkable, and beyond it the trees started -- not densely, not dramatically, but in the way trees start everywhere: one, then another, then enough that you stopped counting and started navigating.
+
+She checked the compass. The needle still oscillated, the slow five-degree swing she had noticed at the stair's base. North was a suggestion, not a fact. She closed the case and pocketed it and started walking south by the angle of the light, which came through the canopy in long, slanting shafts that she could orient by if she paid attention to the sun's position. She would pay attention. That was, it turned out, the only thing she was qualified to do.
+
+The transition woodland was not what she had imagined.
+
+She had expected the Thornwild she had seen from the escarpment edge -- the green ocean, the breathing canopy, the vast and slightly wrong beauty that had shimmered under [Wayfinder's Eye] like a whole continent asking to be noticed. This was not that. This was a forest. An actual forest, with individual trees she could walk around and spaces between them and a floor she could see. The oaks were familiar -- wider-trunked than the managed timber on the plateau, shaggier, with rough bark fissured deep enough to press her thumb into, but recognizable. The ash trees were taller, reaching for the canopy gaps with the aggressive verticality of a species that has learned that light is a competition. And between them, scattered at first and then increasingly common, trees she did not know.
+
+Ghost elms.
+
+She had read her father's notes. She had heard Hesta describe them -- *silver-green bark, appears almost white in moonlight, wood slightly resonant*. But Hesta's description and her father's notes had not prepared her for the experience of standing next to one and understanding that it was a living thing with a specific, undeniable presence.
+
+The bark was smooth. Not the rough, fissured texture of the oaks and ash -- smooth in the way that certain stones are smooth, as if the tree had been polished by something patient. The color was not silver or green but both at once, a pale surface that shifted in the filtered light depending on the angle: silver where the light fell directly, green where it caught the reflected tint of the canopy above, and in the shade a ghostly off-white that explained the name better than any description could. She reached out and touched it.
+
+The bark was cool. Cooler than the air, which was humid and warm and heavy with the smell of leaf mold and growing things. Under her palm, the surface was fine-grained and faintly textured, like sanded wood that had been sealed with something she could not identify. And when she pressed -- gently, the way she would press against a wall to check if it was solid -- the trunk hummed.
+
+Not audibly. Not a sound she heard with her ears. A vibration that traveled through her palm and up her wrist and settled somewhere in the bones of her forearm, a low, sustained resonance like the memory of a note played on a string too thick to hear. The ghost elm was vibrating at a frequency below her hearing but above her nerve endings' ability to ignore.
+
+She pulled her hand away. The vibration lingered in her fingers for three seconds, then faded.
+
+"Oh," she said, to no one. "That's -- oh."
+
+She touched the tree again. The hum returned. She moved her hand six inches higher on the trunk and the hum changed -- fractionally, a shift in frequency so slight she would not have noticed if she had not been paying attention with the specific, total attention that was both her gift and her compulsion. The bark's resonance varied along the trunk. Different spots, different notes. The tree was not a single hum but a chord, and the chord changed depending on where you listened.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY LOGGED
+  Location: Upper Basin — Transition Woodland
+  Type: Flora Identification (Acoustic Property)
+-------------------------------------------------------------
+
+  Ghost Elm (*Ulmus pallida*)
+  Native to the upper Thornwild. Silver-green bark.
+  Wood produces sub-audible resonance detectable by touch.
+  Resonant frequency varies along the trunk, suggesting
+  internal structural variation.
+
+  +40 XP
+  Observation: +2 proficiency
+  Identification: +2 proficiency (first use)
+-------------------------------------------------------------
+```
+
+The notification arrived as warmth behind her eyes and a settling in her chest -- the System acknowledging what her hands already knew. She read it, noted the new skill activation (*Identification: first use*), and filed both away. Forty experience points. She did not calculate what she needed for the next level. The numbers would take care of themselves. What mattered was the tree.
+
+She stood with her palm on the ghost elm for another minute, mapping the chord. Then she pulled her journal from the side pocket of her pack and sketched the trunk -- the bark pattern, the location of two knotholes, an annotation showing where the resonance shifted -- and she wrote, in careful hand: *Ghost elm. First encounter. The bark hums. Different places, different notes. Ask the Rimfolk if they know why.*
+
+She closed the journal and kept walking.
+
+---
+
+The forest thickened as she moved south.
+
+The oaks and ash fell away over the first half-mile, replaced by the ghost elms' increasing dominance and an understory that grew denser and more unfamiliar with every hundred paces. Ferns she had never seen before -- broad-fronded, waist-high, growing in dense stands that she had to push through or navigate around. Low shrubs with leaves that were dark on top and pale underneath, turning the light green-silver as the breeze moved through them. Vines that climbed the ghost-elm trunks in spiraling patterns she caught herself studying, tracing the helix with her eyes before she realized she had stopped walking.
+
+The air was different here. Warmer. The humidity had weight -- she could feel it settling on her arms, dampening the fabric of her sleeves, collecting in the creases of her elbows. Every breath was thick with scent: the sweet, complicated exhale of the Thornwild she had smelled from above, richer now, closer, layered with the sharper notes of crushed fern and damp bark and something floral she could not identify. The sweet undertone was there too -- the one that was not quite honey, not quite anything, the one that sat at the back of her throat like a word she could not pronounce. Stronger down here. Not unpleasant. But present in a way that felt deliberate, as if the forest had chosen this scent and was wearing it.
+
+Sounds arrived without warning. The bird from the stair -- three ascending notes and a descending trill -- was closer now, perhaps twenty meters to her left, and she could hear the breath between its phrases, the tiny intake that preceded each call. Other birds, deeper in, calling in patterns she would need days to map. The creak of branches adjusting to their own weight. The rustle of something small moving through the fern-bed to her right -- she stopped and watched, but the ferns trembled once and were still, and whatever it was had decided she was not worth investigating.
+
+Her boots sank into the forest floor. Not mud -- the transition woodland was well-drained, the limestone bedrock channeling water downward through a million tiny fissures -- but a thick, spongy layer of decomposing leaves that compressed under her weight and rebounded when she lifted her foot. She could feel each step through her soles: the leaf layer, the firmer soil beneath, the occasional root that pushed up hard enough to make itself known. Her road-warden's boots were adequate. Not good. The sole's flat tread was designed for packed earth, not for the yielding, uncertain surface of a forest floor that had never been walked on by anyone who maintained it.
+
+[Wayfinder's Eye] shimmered.
+
+She had been feeling it since the waymarker -- a background hum of attention that rose and fell as she walked, highlighting features with the gentle insistence of a guide who had too many things to show and not enough time. Moss patterns on the north face of a boulder that told a story about moisture and wind direction. A fallen ghost-elm branch that had been on the ground long enough for the bark to begin separating from the wood, revealing the pale heartwood beneath, and the heartwood was scored with fine parallel lines she could not explain. A cluster of small white flowers growing at the exact boundary where ghost-elm root met oak root, as if they needed both species to survive.
+
+She stopped at the flowers. They were tiny -- each bloom no wider than her thumbnail, five petals, growing in a loose cluster of perhaps twenty at the base of a ghost elm where an oak root crossed within a hand's breadth. She crouched and looked closer. The petals were not white but a faint, warm cream, and each had a single thin line of pale green running from base to tip, like a vein.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY LOGGED
+  Location: Upper Basin — Transition Woodland
+  Type: Flora Identification (Ecological Observation)
+-------------------------------------------------------------
+
+  Boundary bloom (unregistered species).
+  Grows exclusively at the junction of ghost-elm and oak
+  root systems. No specimens observed more than 0.3m from
+  a cross-species root contact point.
+
+  +45 XP
+  Identification: +2 proficiency
+  Environmental Reading: +2 proficiency (first use)
+-------------------------------------------------------------
+```
+
+A new skill -- Environmental Reading -- had activated. She felt it as a slight deepening in the way she perceived the flower's context: not just the bloom itself but its relationship to the roots, to the soil, to the space it occupied. The flower was not a thing alone. It was a relationship between two trees, expressed in petals.
+
+She noted it in her journal. She sketched the bloom, measured its approximate distance from each root system, and added: *Only where ghost-elm meets oak. Why? Mycorrhizal? Shared nutrient? Something the Wayfinder system considers an ecological observation rather than pure identification. The System draws a distinction between what a thing is and how it relates.*
+
+She stood. Her knees protested -- the forest floor was uneven for crouching -- and she adjusted her pack and checked the sun's angle through the canopy. She had been walking for perhaps two hours. The light had shifted from the long morning slant to something closer to overhead, which meant midday was approaching.
+
+She needed water. She needed to eat. She needed to find a place to camp before the light failed, because she had no idea how quickly it would fail under a canopy this dense, and she was not going to find out the hard way.
+
+She kept walking south.
+
+---
+
+She heard the camp before she saw it.
+
+Not sound in the way she had been cataloging sounds -- bird calls, branch creaks, the furtive rustle of unseen animals. This was a different category. A rhythmic, percussive sound, regular and purposeful, that cut through the forest's layered murmur like a voice through conversation. Chopping. Someone was chopping wood.
+
+Wren stopped. She was perhaps half a mile south of the stair's base, in a section of the transition woodland where the ghost elms were dominant and the understory had thinned to a manageable scatter of ferns and low shrubs. The chopping came from the southeast, and between the strokes she could hear something else -- a voice, high and animated, carrying through the trees with the unselfconscious volume of someone who had never worried about being overheard in a forest.
+
+"-- the lateral root, no, not that one, the *other* lateral -- Theron, look, it's exactly what I said, the soil changes right here, you can see the color, it goes from that brown to that other brown, the sandier one, and the root follows the sandy line because -- well, I don't know *why* yet, but it does, every time, and I've been watching for --"
+
+The voice was male, young, and it did not pause for breath or consensus. It simply continued, a one-sided conversation with someone who was either not responding or not being given the opportunity to.
+
+Wren moved toward it. She did not try to be quiet -- she was not a Ranger, she had no stealth skills, and announcing her presence seemed both more honest and more practical than emerging unannounced from the undergrowth. She walked at a normal pace, her pack creaking, her boots crunching on leaf litter, and the voice stopped mid-sentence.
+
+A pause. Then a different voice -- lower, rougher, carrying the compressed patience of someone who had been listening to the first voice for a very long time.
+
+"Someone on the track. Stay."
+
+"I wasn't going to --"
+
+"Stay."
+
+Wren stepped through a screen of ferns into a clearing.
+
+It was not large -- perhaps fifteen paces across, bounded on three sides by ghost elms and on the fourth by a low limestone ridge that rose waist-high from the forest floor, its face stained green with moss. Against the ridge, leaning at angles that suggested long use and competent construction, stood three lean-tos of bent wood and oiled hide. A fire pit occupied the clearing's center, ringed with flat stones, cold now but blackened from regular use. Drying racks stood between the lean-tos, strung with herbs she could smell from the clearing's edge -- a sharp, clean scent that cut through the Thornwild's heavy sweetness. Bundles of dried plants hung from the lean-to frames. A wooden block near the fire pit held a hatchet, buried blade-down in the chopping surface.
+
+Two people stood in the clearing, looking at her.
+
+The older man was in his fifties, weathered in the way Wren's father was weathered but with a different quality -- Callum's weathering was road-worn, a product of wind and sun on open ground; this man's was forest-worn, as if the canopy had pressed its texture into his skin over decades. He was not tall. He was built like a tree that had learned to grow in thick soil -- compact, rooted, wide in the shoulders with hands that could have wrapped around a ghost-elm trunk and had clearly done so many times. His hair was grey-black and cropped close. He wore a coat of ghost-elm bark cloth, grey-green, with pockets sewn into the front that bulged with tools and plant samples. His boots were not boots -- they were wrapped leather, shaped to the foot, dark with use. He held a gathering knife in his right hand, the blade curved and sharp, and he was looking at Wren with the expression of a man who had already decided what she was and was waiting for her to confirm it.
+
+Beside him -- slightly behind, slightly to his left, vibrating with the suppressed energy of someone who had been told to stay and was obeying only technically -- stood a young man. Early twenties, perhaps. Taller than the older man by half a head, lean in the way people are lean when they spend more energy than they consume and do not mind. His hair was brown and untidy, falling over his forehead in a way that suggested he cut it himself and did not consider the result important. He was holding a root -- an actual root, dug from the earth, still trailing soil and fine hair-like filaments -- and his hands were covered in dirt to the wrists. His eyes, which were dark and restless, moved from Wren's face to her pack to her boots to her face again with the rapid assessment of someone cataloging everything they saw and composing the report aloud.
+
+"You came down the Warden's Stair," the young man said. "Nobody uses the Warden's Stair. Wardens don't even use the Warden's Stair. The last person who used the Warden's Stair was --"
+
+"Hadley." The older man's voice was a single stone dropped into a pool. The ripple silenced everything.
+
+The young man closed his mouth. He did not look chastened. He looked like a pot with a lid put on it, still boiling underneath.
+
+The older man studied Wren. His eyes were dark, nearly black, and they conducted a different kind of assessment than Hadley's -- not cataloging but weighing. She felt measured in a way that reminded her of the supply post counter, of Sera's hands weighing a provision barrel before sealing it.
+
+"Theron Blackroot," he said. "Rimfolk. This is my camp." He nodded at the young man. "Hadley Wynn. He gathers for me and talks." A beat. "Mostly talks."
+
+"Wren Galley," Wren said. "From Millhaven."
+
+"I know who you are."
+
+The words landed with the particular flatness of a man who did not waste syllables on surprise. Wren waited. She had learned, from years of sitting in the supply post while wardens and traders passed through, that the person who spoke first after a flat statement was the person who had lost the conversation.
+
+Theron waited too.
+
+They stood in the clearing, fifteen paces apart, and neither spoke, and the Thornwild breathed around them in its slow, vast rhythm.
+
+It was Hadley who broke. He had lasted perhaps twelve seconds, which Wren suspected was a personal record.
+
+"You're the Wayfinder," he said, and the word carried the specific enthusiasm of someone who had been waiting to say it aloud. "The unprecedented class. Theron told me about your Naming Day -- well, he told me the name, he didn't tell me anything else, he never tells me anything else, but I asked the Millhaven traders and they said you walked into the Thornwild and I said *when* and they said *today or tomorrow probably* and --" He stopped. Took a breath. "Can I see it? The class? Not see it -- can you do something? Does it do things?"
+
+"Hadley."
+
+"I'm asking a question. You're always telling me to ask better questions. That was a question."
+
+Theron's expression did not change. He looked at Wren the way her father looked at the fourth switchback -- assessing the damage, calculating the risk, deciding whether the repair was worth the effort.
+
+"The Stair is sound through the third turn," he said. "How did you manage the fourth?"
+
+"Carefully," Wren said.
+
+Something moved behind Theron's eyes. Not a smile. A recognition that she had answered a practical question practically, which was the minimum passing grade in whatever test he was administering.
+
+"Sit down," he said. "Not on the ground. There." He pointed with the gathering knife at a flat stone near the fire pit, waist-high, worn smooth on top. "You're carrying too much weight and your left shoulder strap is torquing your spine."
+
+Wren sat. He was right -- her left shoulder strap was slightly too loose, and the pack had been pulling her right for the last hour. She had been compensating without noticing. Her father would have caught it sooner.
+
+Theron sheathed his knife and crossed to the lean-to farthest from Wren. He moved through the camp the way her father moved through the supply post -- without looking, without deciding, his body navigating a space his muscles had memorized. He returned with a clay cup of water, drawn from a covered jug, and held it out.
+
+She drank. The water was cold and clean and tasted faintly of the limestone it had been filtered through, and the taste was so exactly like Millhaven well-water that her throat closed for a moment before she swallowed.
+
+"Thank you," she said.
+
+Theron sat on the stone opposite her, across the cold fire pit. He set his elbows on his knees and looked at her with the unhurried attention of a man who had been looking at things in forests for longer than she had been alive.
+
+"I'm going to tell you to go back," he said. "And you're not going to go."
+
+"No."
+
+"No." He nodded, as if she had confirmed something he had already written down. "The Wayfinder girl from Millhaven. Sera's daughter. Callum's daughter. The unprecedented class." He said *unprecedented* the way other people said *unproven* -- not with contempt, but with the weary caution of someone who had outlived several things that were supposed to be special. "You've come to explore the Thornwild."
+
+"Yes."
+
+"You know what it does to people."
+
+She thought about the sweet smell. The oscillating compass. The acoustic distortion that had made the bird sound close when it was far and her own footsteps sound muffled when they should have been crisp.
+
+"Some of it. I know what I've read. I know what I've heard."
+
+"What you've read." Theron's mouth did something that was not quite a frown. "There's nothing written about the Thornwild that's accurate more than a season at a time. What you've heard is closer. Who told you?"
+
+"My father. He's a road-warden."
+
+"Callum. I know him. He walks the plateau and doesn't come down. Smart man." Theron paused. "I gather in the upper basin. Five miles in, no deeper. My father gathered here. His mother before him. We know the first five miles the way your father knows his circuit -- by feel, by repetition, by the accumulated mistakes of three generations. I have never gone deeper than five miles."
+
+He let the number sit. Five miles. The basin was eighty miles long.
+
+"People have gone deeper," he said. "Survey teams from the Cartographer's Office. Explorers. One Ranger I knew personally -- Deel, his name was, Level 23, been in worse places than this. He went twelve miles in and came back after four days. He could not remember the last two. He thought he had been gone for an afternoon."
+
+Wren said nothing. She watched Theron's face.
+
+"I am not telling you horror stories," he said. "I am telling you what I know. The upper basin -- these first five miles -- is forest. Real forest, with real seasons, real growth, real death. Things are where you leave them, mostly. The paths shift, but slowly, and if you learn the landmarks you can navigate. Below five miles, it changes. The Rimfolk call the deep forest the Crying Forest, because on certain nights you can hear it weep. I have heard it. It is not a metaphor."
+
+He looked at her pack, her boots, her hands.
+
+"You are sixteen years old. You have a class no one has ever held. You have no combat skills, no defensive abilities, and no one to pull you out if you go too deep and forget which direction is home. I am telling you to go back."
+
+"I know you are."
+
+"And?"
+
+"And I hear you." She met his eyes. She did not argue. She did not explain. She let the silence sit the way she would let it sit with Sera, when her mother was not saying something and wanted Wren to know exactly what she was not saying. "I hear what you're telling me. The upper basin, the first five miles. I'll learn it. I'll learn the landmarks and the paths and the patterns. I'm not planning to walk twelve miles south tomorrow."
+
+"What are you planning?"
+
+She looked around the camp. The lean-tos, the drying racks, the bundles of herbs. The flat stones around the fire pit, smooth from years of sitting. The gathering knife at Theron's belt, the curved blade designed for cutting stems without crushing the plant. The way the camp was oriented -- the lean-tos backed against the ridge for shelter, the clearing open to the south for light, the fire pit centered for warmth distribution.
+
+"I'm planning to pay attention," she said. "And to ask you things. If you'll let me."
+
+Theron looked at her. The weighing expression had not changed, but something underneath it had shifted -- a settling, a recalibration, like a scale adjusting to a weight it had not expected.
+
+"Hadley," he said, without turning.
+
+Hadley materialized from wherever he had been standing -- Wren had almost forgotten he was there, which was remarkable given his apparent inability to be unnoticed. He was still holding the root.
+
+"Show her the spring. Get her water. If she wants to camp, the flat ground east of the ridge is sound." He paused. "Don't talk her to death."
+
+"I never talk anyone to death. I talk them to moderate discomfort at most."
+
+Theron looked at Wren. "You'll eat with us tonight. I have questions."
+
+It was not an invitation. It was a statement of intent from a man who had decided, provisionally and with reservations, that she was worth the effort of asking.
+
+---
+
+Hadley Wynn talked the way water flowed downhill -- constantly, naturally, following the path of least resistance, which in his case was whatever thought arrived most recently.
+
+"The spring is this way -- it's not really a spring, it's more of a seep, water comes through the limestone here because the bedrock dips, you can see the dip if you look at the ridge-line, see how it drops about a foot right there? That's where the water table meets the surface. Theron's grandfather found it, or maybe his father, I forget, but someone found it and that's why the camp is here. Water is -- water is the whole thing, out here. You know that, right? Your father's a warden. Wardens understand water. My father was a Gatherer, same as me, and the first thing he taught me was -- actually, the first thing he taught me was how to tell if a mushroom would kill you, because I was five and I put one in my mouth before he could stop me. But the second thing was water."
+
+He led her east along the base of the ridge, through ferns that he pushed aside with a familiarity that spoke of repetition -- this was a path he walked daily, and the ferns, beaten flat by his passage, had learned to lean away from the route. His hands moved as he talked, gesturing with the root he still had not put down, drawing shapes in the air that illustrated his points or failed to.
+
+"Your class," he said, turning to face her while still walking backward, which he did without stumbling. "Wayfinder. I asked the traders about it and nobody could tell me anything useful, which usually means it's either very boring or very interesting, and since the System has never made it before I'm guessing interesting. What does it do? In practical terms. Not the System description -- I've heard that. 'Forms Sympathetic Bonds with locations through sustained genuine attention.' That's the description. What does it *do*?"
+
+Wren opened her mouth to answer. Hadley continued.
+
+"Because I'm a Gatherer, right? Level 7, which is fine, it's not impressive but it's fine, and what being a Gatherer does, in practical terms, is it makes my hands know things my brain doesn't. I can feel whether a root is mature by the way it sits in the soil. I can tell if a mushroom is edible by the way it gives when I press the cap. That's not knowledge. That's the System turning my body into a tool. So when I hear 'sustained genuine attention,' I think -- is it turning your attention into a tool? Or is it something else?"
+
+He stopped walking. They had reached the spring -- a patch of dark, wet stone at the ridge's base where water seeped through a crack in the limestone and collected in a natural basin the size of a cooking pot. The water was clear. A thin film of green moss grew at the basin's lip.
+
+"It's something else," Wren said.
+
+Hadley looked at her. His restless eyes settled for the first time since she had met him, holding on her face with a focus that was startling in its contrast to his constant motion.
+
+"Tell me," he said.
+
+She dipped the cup Theron had given her into the spring basin. The water was cold enough to ache.
+
+"I notice things," she said. "I've always noticed things. The System gave the noticing a name and -- a weight. When I pay attention to a place, really pay attention, the System recognizes it. The place... opens. Not metaphorically." She thought about the Warden's Shelf. The hour of attunement. The stone's age pressing into her palms. "It shows me what it is. And I carry it."
+
+She touched her chest -- the place where the Warden's Shelf sat, cool and quiet and steady. "I have a bond. One place. A ledge on the escarpment. I bonded with it on the way down. I can feel it now -- the stone, the air, the sound. It's here." She pressed her hand flat against her sternum. "Like a second heartbeat."
+
+Hadley stared at her. For the first time since she had arrived, he was silent for a full five seconds.
+
+"That's not a tool," he said finally. "That's a relationship."
+
+"Yes."
+
+He nodded, slowly, processing in the way she was beginning to understand was his default -- not quietly, not internally, but visibly, his face showing the work the way a stream shows the stones beneath it.
+
+"Can I show you something?" he asked. "It's not far. It's this root." He held up the root he had been carrying since she first saw him, the one trailing soil and fine filaments. "I've been trying to figure out why it grows the way it grows, and nobody cares, which is fine, but you seem like you might actually care, and it's -- it's really interesting, Wren. It's genuinely interesting."
+
+She looked at the root. It was pale, thick as her thumb, with a distinctive spiral pattern in the filaments -- the fine hair-roots twisting in a consistent clockwise helix.
+
+"Show me," she said.
+
+---
+
+The root belonged to a ghost-elm sapling, waist-high, growing in a gap between two older trees. Hadley dropped to his knees beside it with the unselfconscious ease of someone who spent most of his working life at ground level.
+
+"Here," he said, pointing. "Look. The root system." He had partially excavated it -- carefully, the soil pulled back to reveal the sapling's roots without cutting them. The main root drove straight down, which was normal. But the lateral roots -- the ones that spread outward from the trunk -- did something she had not expected. They spiraled. Not gently, not in the loose wave pattern she had seen in oak roots on the plateau. They corkscrewed through the soil in tight, regular helixes, and the direction of the helix matched the filament pattern on the root in his hand.
+
+"Every ghost-elm root does this," Hadley said. "Every one. Saplings, old trees, doesn't matter. The laterals spiral clockwise in the top eighteen inches of soil and then -- look, look here --" He pointed deeper, where the excavation reached its limit. "They straighten out. Below eighteen inches, straight as an arrow. Theron's known this for decades. His grandmother knew it. Nobody knows why."
+
+Wren crouched beside him. She studied the root pattern. The spiral was regular -- she counted the turns, estimated the pitch, compared it to the filament pattern on the detached root Hadley held. Identical geometry. The spiral was structural, not environmental. It was not a response to soil conditions or obstacles. It was how ghost-elm roots grew, the same way the tree's bark hummed at frequencies that varied along the trunk.
+
+"The resonance," she said.
+
+Hadley's head turned. "What?"
+
+"The bark hums. I felt it earlier, on one of the older trees. The resonance varies along the trunk." She pointed at the spiral roots. "These roots are drilling. Not for water -- there's water everywhere here, the limestone seeps. They're drilling for something else. The spiral creates torque, and torque against the soil would produce --" She stopped. She was thinking out loud, which was Hadley's mode, not hers, and the thought was not formed enough to say. But the shape was there: the root spiraled, the bark hummed, the frequency varied by location, and the roots drilled in a pattern that matched the bark's resonance in a way she could almost but not quite articulate.
+
+[Wayfinder's Eye] shimmered.
+
+Not on the root. On the soil around the root. A gentle, warm pulse in the earth itself, concentrated where the spiral roots had turned through it. She leaned closer. The soil at the helix boundary -- the exact point where the root had passed through on its spiral path -- was a slightly different color than the surrounding earth. Darker. Richer. As if the root's passage had changed the soil's composition.
+
+"The soil is different where the roots spiral," she said.
+
+Hadley looked where she was looking. "I -- that's -- wait. That's not --" He scraped at the boundary soil with his thumbnail. "It's finer here. Finer grain. The root is grinding the soil as it turns."
+
+"Or feeding it."
+
+They looked at each other. Hadley's face was doing something she recognized -- the look of a person who had just been shown a detail they had walked past a thousand times without seeing, and who was now reassembling everything they thought they knew to accommodate it.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY LOGGED
+  Location: Upper Basin — Transition Woodland
+  Type: Ecological Process (Root-Soil Interaction)
+-------------------------------------------------------------
+
+  Ghost-elm lateral roots spiral clockwise through the upper
+  soil layer. Soil at the spiral boundary shows altered
+  composition (finer grain, darker color). The roots may be
+  processing or enriching the soil through mechanical action
+  combined with sub-audible resonance.
+
+  +55 XP (significant observation, multi-factor)
+  Environmental Reading: +3 proficiency
+  Observation: +2 proficiency
+-------------------------------------------------------------
+```
+
+Fifty-five points. The discovery was weighted -- multi-factor, the System called it, meaning she had connected two separate observations (the resonance and the root pattern) into a single insight. The Environmental Reading skill jumped. She could feel it as a slight clarification in the way she perceived the relationship between root and soil, tree and earth. Not new knowledge. A deepening of existing attention.
+
+Hadley was staring at the notification shimmer that only Wren could see. Or rather, he was staring at the space above her head where he correctly guessed a notification had appeared, because her eyes had gone briefly unfocused in the way that meant the System was talking.
+
+"You got something," he said. "A discovery? Does it say what the soil change means?"
+
+"Not exactly. It says the roots may be processing or enriching the soil. It's a hypothesis, not an answer."
+
+"The System gives *hypotheses*?"
+
+"For me it does." She paused, considering. "I think the Wayfinder class -- the System is learning how to talk to it. The notifications are getting more detailed, but they're not -- definitive. It's like the System is thinking out loud."
+
+Hadley grinned. It was the first full grin she had seen from him -- wide, unguarded, the grin of someone who had found a fellow traveler on a road he had been walking alone.
+
+"That's what I do," he said. "Think out loud. The System is thinking out loud at you. That's -- I like that enormously."
+
+---
+
+They returned to camp as the light began to change.
+
+Wren had not noticed the shift happening. Under the canopy, the transition was not the slow amber deepening she knew from the plateau, where the sun's descent painted the sky in stages she could read like a clock. Here, the light simply... dimmed. The green-gold filtering through the leaves lost its gold component by degrees, shifting toward a cooler, bluer green, and the shadows -- which had been shallow and diffuse all day, cast by leaves rather than solid objects -- deepened and merged until the forest floor existed in a permanent, gentle twilight.
+
+She needed to make camp. Hadley had shown her the flat ground east of the ridge -- a patch of level earth under a canopy gap that would let her see the sky, crucial for orientation. She set up her tarp between two ghost-elm saplings, using the rope her mother had insisted on and which she was now quietly grateful for. She laid her bedroll on a pile of dry ferns that Hadley gathered for her without being asked, announcing each armful's provenance as he deposited it: "These are from the northeast patch -- they're drier because the ridge blocks the morning moisture -- and these are the stiff ones, they're better for insulation, the soft ones compress too much --"
+
+She was smiling. She had been smiling for the last hour and had not noticed until now.
+
+The fire was Theron's domain. He built it in the pit with the economy of a man who had built ten thousand fires and no longer needed to think about the process. Kindling from a dry-box he kept under his lean-to. Small sticks, arranged in a pattern that looked careless and was not. A single match, struck and applied. The flame caught, grew, steadied.
+
+"Not ghost-elm," Hadley said, when Wren looked at the woodpile. "Ghost-elm doesn't burn. The wood hums louder when you put a flame to it and the frequency puts the fire out. Everybody learns that once."
+
+"What happens if you heat it without burning it?" Wren asked.
+
+Hadley blinked. "I -- what?"
+
+"The resonance changes with where you touch the bark. If the frequency is structural -- part of the wood's makeup -- then temperature would change it too. Heat expands. The resonant frequency would shift."
+
+Hadley turned to Theron. "Has anyone ever -- ?"
+
+"No," Theron said. He was looking at Wren.
+
+She filed the thought. Not now. A project for another day.
+
+Theron cooked. He produced dried meat from a wrapped bundle, a root vegetable Wren did not recognize, and a handful of herbs from the drying rack that he crushed between his palms and scattered into the water he heated in a clay pot. The smell that rose from the pot was savory and grounding -- a counter to the Thornwild's pervasive sweetness, sharp and herbal and specific.
+
+"Thornwild sage," he said, when she leaned closer. "Hesta stocks it in Millhaven. It grows on the escarpment face and the first mile of the basin. Clears the head. Counteracts the disorientation, at least for mild exposure."
+
+"The sweet smell," Wren said.
+
+Theron looked at her. "You can already smell it."
+
+"I could smell it from the plateau."
+
+He nodded slowly. "Most people don't notice it until they've been down here a day or two. Your class is making you sensitive." He stirred the pot. "The sweetness is the Thornwild's -- signature, I suppose you'd call it. It's strongest deep in, fainter at the edges. The Rimfolk use it as a gauge. If the sweet smell is getting stronger, you're going deeper than you planned."
+
+He served the food in clay bowls -- the root vegetable cut into chunks, the dried meat rehydrated in the herbed water, the broth sharp and good. Wren ate with the focused gratitude of someone who had been walking for hours and had not realized how hungry she was until the food was in front of her. The root was starchy and mild, with a faint nuttiness. The meat was chewy and salted. The broth was the best thing she had tasted since her mother's kitchen.
+
+They ate in silence for several minutes. The fire crackled. The forest's evening sounds began -- different from the day sounds, lower-pitched, more cautious. An insect chorus started somewhere to the south, a layered drone that rose and fell like breathing.
+
+Theron set down his bowl.
+
+"You said you hear things," he said. "You said you bonded with a place on the escarpment and you carry it."
+
+"Yes."
+
+"What do you hear now?"
+
+Wren closed her eyes.
+
+The Warden's Shelf was there -- the cool, quiet presence behind her breastbone, fainter now, a full day's walk from the physical location, but steady. The stone's patience. The rowan's stubborn roots. The sound of the Thornwild's breath as heard from a curved stone ceiling. She carried it, and it carried her, and the carrying was a line of connection between where she sat and where she had been that the distance could attenuate but not sever.
+
+But there was something else. Newer, less defined, not a bond but a -- sensitivity. The transition woodland around her, the ghost elms with their humming bark, the boundary blooms and spiraling roots, the fire pit's flat stones and the ridge's green-stained limestone and the spring that seeped through rock. The camp. The forest. The first mile of the Thornwild, pressing against her awareness with a gentle, persistent pressure that said: *we are here, and you are here, and you are paying attention, and we know.*
+
+"I hear the forest trying to decide what to make of me," she said. "I hear the place I bonded with -- the Warden's Shelf, on the escarpment -- and I hear this place, these trees, this camp, noticing that I'm noticing."
+
+She opened her eyes. Theron was watching her with an expression she could not entirely read. It was not the weighing look from before. It was something quieter. Something that had moved past assessment and into recognition, the way her father's face had moved past assessment at her Naming Day.
+
+"The Rimfolk have a name for the Thornwild's deep forest," he said. "The Crying Forest. On certain nights -- still nights, warm nights -- the forest weeps. I have heard it. My grandmother heard it. Her grandmother heard it. The weeping comes in a cycle. Every seventeen days. One night of weeping, and the next morning the forest is different. Thicker. More of the same. More of the --" He gestured, a short, sharp motion. "Sameness."
+
+He looked at the fire. "I am telling you this because you are going deeper than the five miles I know. I know this because you are Sera Galley's daughter and Callum Galley's daughter and you have a class the System invented for whatever you are about to do. I cannot stop you. I am not sure I should." He paused. "But when you go deeper, listen for the weeping. And if you hear it, come back. Come back to this camp, or to the stair, or to anywhere that is not the place where the forest is crying. Do you understand?"
+
+"I understand."
+
+"You don't. But you will." He picked up his bowl and stood. "You can camp here as long as you like. The east ground is sound. Hadley trades upward to Millhaven twice a month -- he can carry letters."
+
+"Letters," Wren repeated, and something in her chest tightened. She had not thought about letters. She had not thought about her mother's face or her father's compass or the millwheel's sound for hours, because she had been paying attention to ghost-elm bark and boundary blooms and root spirals, because the Thornwild was vast and new and her attention had expanded to fill it the way water fills a vessel, leaving no room for the things she had not poured in.
+
+Hadley could carry letters. She had not written one.
+
+"I'll write tonight," she said. "Thank you."
+
+Theron nodded. He carried his bowl to the spring, washed it, and disappeared into his lean-to without another word.
+
+---
+
+She lay in her camp east of the ridge, her tarp drawn overhead, her bedroll warm beneath her, and she listened.
+
+The forest at night was a different animal. The insect chorus had deepened, a layered harmonic of clicks and chirps and sustained tones that created a wall of sound so dense it registered almost as silence -- a sound so continuous that her brain stopped processing it as sound and started processing it as texture, like the grain of the dark. An owl called, distant, two low notes that dropped like stones into the insect-sound and vanished. Small things moved through the leaf litter around her camp, their passage marked by the faintest rustle.
+
+She could feel the Warden's Shelf. Fainter, more distant -- the sensory echo dimmed by miles and the intervening mass of the escarpment, but present. The coolness of sheltered stone. The gathered sound. The rowan's roots.
+
+And beneath it, rising from below and around her like warmth from the ground, the transition woodland's awareness. Not a bond. Nothing formalized, nothing the System would recognize. But a pressure, gentle and vast, that said: you are here, you came down the stair, you touched the ghost-elm and felt it hum, you crouched by the boundary bloom and saw what it was, you let the roots teach you their geometry. You are paying attention. We are paying attention back.
+
+She pulled her journal from beside her bedroll and wrote by the faint light that filtered through the canopy gap above her tarp -- starlight, the first she had seen since descending into the forest, a handful of cold points in a dark sky framed by ghost-elm branches.
+
+*Day 1 in the basin. The Warden's Shelf is steady in my chest. The forest is not what I expected -- it is more specific. Individual trees, individual roots, individual relationships. The ghost elms hum. The roots spiral. I met Theron Blackroot and Hadley Wynn. Theron told me to go back. Hadley showed me a root.*
+
+She paused. Added:
+
+*Hadley asked what my class does. I said it turns attention into a relationship. He understood immediately. Theron asked what I hear. I told the truth. He told me about the Crying Forest. Seventeen-day cycle. I don't know what that means yet.*
+
+She turned to a fresh page and began a letter.
+
+*Dear Mum and Dad --*
+
+*I made it down the stair. The fourth switchback is worse than Dad said, but I managed. I'm camped at a Rimfolk site at the basin's edge, with a forager named Theron Blackroot and a gatherer named Hadley Wynn. They're feeding me. The food is not as good as yours. (It's close.)*
+
+*The Thornwild is -- I don't have the words yet. I will by the time I come home. The trees here hum. The roots grow in spirals. The flowers grow only where two different trees meet. Everything is paying attention to everything else, and the System is learning how to tell me about it, and I am learning how to listen.*
+
+*I'm safe. I have water. I have the compass and the tarp and the rosemary. (I haven't opened the rosemary. I like knowing it's there.)*
+
+*Hadley trades to Millhaven twice a month. He'll carry letters. Write back.*
+
+*Before winter. I promise.*
+
+*Wren*
+
+She folded the letter and slid it into her journal and lay back on her bedroll and listened to the Thornwild breathe. The insect chorus rose and fell. The owl called again, closer now, or perhaps the forest's acoustics had shifted. A ghost-elm creaked overhead, the kind of sound a tree makes when it adjusts to its own weight, patient and slow.
+
+The Warden's Shelf hummed in her chest. The forest hummed around her. She lay between two hums -- one she had earned, one she had not yet -- and the space between them was the distance she would travel tomorrow and the day after and the day after that, one step at a time, one discovery at a time, until the map in her head matched the land under her feet.
+
+She slept. The Thornwild breathed. Nothing disturbed her.

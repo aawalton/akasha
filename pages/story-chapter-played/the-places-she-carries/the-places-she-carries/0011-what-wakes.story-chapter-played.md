@@ -1,0 +1,610 @@
+---
+id: 10add5b7-0fad-5a5c-840f-527f11d93b20
+page-type-slug: story-chapter-played
+title: "What Wakes"
+slug: 0011-what-wakes
+partOf: the-places-she-carries
+position: 11
+ownLength: 8425
+unit: words
+---
+
+Two.
+
+She sat at the threshold stone in the dark before dawn, her palms flat on the limestone. The stone's dawn vibration had not yet begun -- the sun was still below the eastern canopy, the temperature gradient between stone surface and stone interior not yet steep enough to set the crystal lattice singing. She was sitting in the minute before the stone spoke. In the held breath.
+
+The settlement around her was a collection of dark shapes in the grey pre-light. The gathering hall columns. The prayer-notch, its moss-darkened lip invisible at this distance but present in her awareness as a small specific warmth northeast. The healer's house, its south window catching the first suggestion of light. Three bonds running through her chest in their triad formation, the chord that was not harmony the way music was harmony but the way a wall was harmony -- three stones bearing weight together.
+
+She had been sitting here before dawn every day since the depth advance. Not for discoveries. Just to be here when the stone woke up. The way, she imagined, the healer had pressed her palm to this surface every morning for decades -- not to accomplish something. To say hello.
+
+The vibration began.
+
+Low. Brief. The thirty-second thermal response as the first light touched the ruins' canopy and the temperature differential between surface and interior crossed whatever threshold set the crystal lattice moving. She felt it through her palms and through the bond simultaneously -- two versions of the same event, one physical, one relational, arriving at slightly different speeds the way thunder arrives after lightning.
+
+The stone said hello.
+
+She lifted her palms. She opened her journal to the margin column and wrote:
+
+*Day 16. Two remain.*
+
+---
+
+The path between the healer's house and the threshold stone was worn into the ground.
+
+She had not seen it before. Or she had seen it and not understood what she was seeing -- a slight depression in the soil, perhaps ten centimeters deep, running northwest from the healer's threshold to the gathering hall's entrance and then curving south to the threshold stone. The wear pattern was too regular to be water drainage. Too narrow to be a cart path. It was a human-width track, compressed into the earth by the daily passage of feet over years, decades, a lifetime.
+
+The healer's route.
+
+She followed it, her own feet fitting into the depression with an ease that felt less like coincidence than recognition. The track's depth varied -- shallower where tree roots had disrupted the soil, deeper where the path crossed open ground between structures. At the gathering hall entrance the depression was deepest: a smooth, compacted section of earth perhaps fifteen centimeters below the surrounding grade, worn by the combination of foot traffic from multiple directions converging on a single point.
+
+The healer had walked this path every morning. From her house to the gathering hall to the threshold stone. Preparation, practice, presence. In that order, in that direction, every day. The path preserved her routine the way the mortar-bowl wear preserved her hands.
+
+Wren crouched at the deepest section and pressed her palm to the compacted earth. Warm. Not the stone's warmth -- a different quality, the heat-retention of soil that had been compressed beyond its natural porosity, holding the day's warmth longer than the loose earth beside it.
+
+The [Wayfinder's Eye] shimmer played across the depression in a thin line of grey-green.
+
+She held her attention on it. Not reaching for a discovery -- just holding, the way she held the bond, the way the stone held its warmth. The shimmer brightened along the path's length, tracing the route the healer had walked, illuminating the depression as a single continuous feature rather than a series of worn spots.
+
+The settlement had a circulatory system. The paths between its structures were not accidental -- they were the tracks of daily life, the routes that purpose wore into the ground, and the ground had kept them the way it kept everything: not by trying, but by being ground, by receiving pressure and holding its shape.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY LOGGED
+  Location: Varethen -- Threshold Stone (via Settlement Path)
+  Type: Architectural / Archaeological
+  Healer's Daily Route: Depression path connecting healer's
+  house, gathering hall, and threshold stone. Preserved in
+  compacted earth. Daily passage across a lifetime.
+-------------------------------------------------------------
+
+  The settlement remembers how it was used.
+  Discovery 14/? toward depth advance.
+
+  +43 XP (Discovery: Architectural)
+  Surveying: +2 proficiency
+-------------------------------------------------------------
+```
+
+Fourteen. Faster than the days before -- the stone was showing her more now, at Familiar depth, as if the bond's increased legibility had made both of them more fluent. She held the number without calculating forward. She had stopped predicting after Day 14, after the arithmetic had stopped cooperating with her preference for certainty. The discoveries came when the stone was ready to show them. Not faster than that.
+
+She spent the rest of the morning at the threshold stone's northern face.
+
+The mineral banding she had documented on Day 13 -- the twelve dark layers below the first wear surface, each three millimeters, representing four thousand years of geological deposition -- extended around the stone's circumference. But the northern face showed something the southern and eastern faces did not: a discontinuity. A place where the banding sequence broke, the dark layers interrupted by a pale intrusion of different mineral composition, roughly the width of her palm, running vertically through the horizontal strata.
+
+A fault line. Not in the catastrophic sense -- the stone was intact, had always been intact. But sometime in its four-thousand-year history, a narrow vein of different mineral had pushed through the existing layers, filling a crack that had formed and healed in a single geological event. The vein was paler than the surrounding limestone. Denser. When she tapped it with her fingernail, it rang at a different pitch than the stone around it -- higher, brighter, a sound that stood out from the limestone's deep bass the way a single voice stands out from a choir.
+
+The stone had healed itself.
+
+Four thousand years ago, before anyone had built anything here, the limestone had cracked and sealed the crack with its own mineralogy, and the seal was stronger than the original. The fault line was not a weakness. It was the place where the stone had practiced holding itself together.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY LOGGED
+  Location: Varethen -- Threshold Stone
+  Type: Geological Feature (Northern Face)
+  Healed Fault: Mineralized vein, vertical, pale intrusion
+  through horizontal banding. Self-sealed crack. The repair
+  is denser than the original.
+-------------------------------------------------------------
+
+  The stone has done this before. Held through a break.
+
+  Discovery 15/? toward depth advance.
+
+  +46 XP (Discovery: Geological)
+  Surveying: +2 proficiency
+-------------------------------------------------------------
+```
+
+Fifteen. She sat back on her heels and looked at the northern face for a long time. The healed fault line ran from the stone's base to a point just below the handprint -- the healer's palm-impression, worn smooth at the southern edge. The fault line and the handprint were on opposite sides of the stone, the geological history and the human history occupying different faces of the same four-thousand-year-old thing.
+
+She thought about what the stone had been through. Cracked and sealed before anyone arrived. Built around by people who chose it for its position, its weight, its quality of being already here. Pressed into daily by a healer's palm for decades. Abandoned. Grown over. Compressed by the Thornwild's slow occupation. And through all of it -- the crack, the building, the wearing, the abandonment, the forest -- still here. Still warm at midday. Still singing at noon.
+
+---
+
+Theron found her at the stone in the early afternoon.
+
+He came through the ruins from the west, following what she now recognized as the drainage channel he had been studying -- a shallow cut in the ground running from the settlement's western edge toward the central clearing, designed to carry rainwater away from the foundations. He had been working on it for days, mapping its path, understanding how the builders had managed water in a place where the water table rose with every season.
+
+"My father talked about the west drainage," he said.
+
+She looked up.
+
+"He was born here. Left when he was three." Theron crouched at the channel's edge, running his thumb along the stone lining. "He didn't remember the buildings. He didn't remember the people. But he remembered a channel in the ground that his mother let him wade in when it rained." He paused. "He called it the little river."
+
+Wren looked at the drainage channel. It was perhaps twenty centimeters wide, lined with flat stones set on edge, running straight for four meters and then curving gently south toward the tree line. In a heavy rain, it would carry perhaps an inch of water. To a three-year-old, it would be a river.
+
+"Did he ever come back?" she said.
+
+"No." Theron did not look at her. He was studying the stone lining, the way the flat rocks had been set at consistent angles to direct flow. "He said the forest took it. He said there was nothing to come back to."
+
+She had heard this before -- on Day 5, at the east structure, when Theron had said the same words in the same register. *He was wrong,* she had said then. She did not say it again. He knew.
+
+"The drainage is still functional," Theron said. He stood. "The channel is silted but the gradient is correct. If you cleared the silt, water would flow the right way." He looked at the settlement around them -- the walls standing plumb, the prayer-notch with its cave-pearl fern, the threshold stone warm in the afternoon light. "I don't know what that means," he said. "That the drainage still works."
+
+"It means the builders were good at drainage," Wren said.
+
+He looked at her. His face did the thing -- the brief internal adjustment, the quiet recalibration that was his version of surprise. Then, for the first time in the days she had known him, Theron Blackroot laughed. A short sound, more air than voice, the laugh of a man who was not used to laughing and was surprised to find himself doing it.
+
+"Yes," he said. "They were good at drainage."
+
+He walked north toward camp. She watched him go, carrying the sound of his laugh in the space behind her sternum where the bonds lived. It fit there, she thought. Alongside the warmth.
+
+---
+
+She went into the gap in the late afternoon.
+
+The compression was familiar now -- the thinning of the bond's presence as she crossed the ghost-elm perimeter's dead section, the [Dormant] signature contracting at her sternum, the sense of effort that was not her effort but the bond's. She had learned to work inside it the way she had learned to work in the rain: not comfortable, not preferred, but possible, and the possibility was what mattered.
+
+The gap's acoustic properties had changed since her last visit.
+
+She noticed it at the boundary -- the quality of sound inside the gap was different from outside, had always been different, the thin dry air conducting differently than the resonance-rich air of the settlement. But today the difference was more pronounced. The ghost-elms on the living side hummed at their pre-pulse bass frequency, the low bracing tone she had noted on Day 9. Inside the gap, the hum was absent. And in its place: a vibration she had not felt before.
+
+Not in the air. In the ground.
+
+She crouched and pressed her palm to the earth inside the gap. The vibration was there -- faint, regular, at a frequency below the threshold of hearing but above the threshold of touch. She had felt something similar at the threshold stone: the pre-tremor, the anticipation of the pulse running through the substrate. But this was not anticipation. This was something arriving. Something already in the ground, traveling through the rock below the soil, approaching from the south.
+
+The dead tree conducted it.
+
+She stood and placed her hand against the dead tree's stripped bark. The vibration was stronger here -- not louder, but more organized, channeled through the wood the way the ghost-elms channeled their resonance through their root network. The dead tree was not resonating. It was being used. Something was moving through it the way electricity moved through wire: not because the wire wanted to conduct, but because it was the path of least resistance.
+
+The corruption had a precursor tremor. And the dead tree -- the breach point, the gap's origin -- was its antenna.
+
+She pulled her hand away. The vibration continued in her fingertips for a moment, then faded.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY LOGGED
+  Location: Varethen -- Corruption Gap
+  Type: Resonance Phenomenon
+  Pre-Pulse Tremor: Sub-audible vibration in the gap's
+  substrate. The dead tree conducts it -- not by resonance
+  but by structural availability. The corruption's precursor
+  signal, arriving through the path of least resistance.
+-------------------------------------------------------------
+
+  The gap is not waiting. It is receiving.
+  Discovery 16/? toward depth advance.
+
+  +58 XP (Discovery: Resonance -- Compression Multiplier)
+  Surveying: +3 proficiency
+-------------------------------------------------------------
+```
+
+Sixteen. And the compression multiplier again -- the System recognizing the effort of holding the bond while surveying the thing that was compressing it. She stood inside the gap and felt the precursor tremor in the ground beneath her and the bond's compression at her sternum and thought about what it meant that the corruption was already arriving, two days before the pulse, sending advance signals through a dead tree that had once been a living part of the ward.
+
+She went back to the settlement. She sat at the threshold stone and held the bond open and let it recover from the compression, the warmth spreading to its full diameter, the [Dormant] signature settling back into its geological patience.
+
+Two days.
+
+---
+
+One.
+
+She sat at the threshold stone before dawn on Day 17 and the vibration was different.
+
+Not the usual thirty-second thermal response. Shorter. The dawn light reached the canopy and the stone's surface warmed and the crystal lattice set itself vibrating, but the vibration stopped after twelve seconds. Not faded -- stopped, as if something had interrupted it. As if the stone's thermal response, which had run for thirty seconds every dawn for four thousand years, had been compressed by something in the substrate that was taking up vibrational space.
+
+The precursor tremor. It was here now, not just in the gap. In the ground beneath the settlement, beneath the threshold stone, a low persistent vibration that had not been there yesterday and was there now and would be there tomorrow and would be stronger tomorrow because the pulse was closer.
+
+She sat with her palms on the stone and felt both vibrations simultaneously: the stone's own frequency, which was the sound of limestone at dawn, and the corruption's precursor, which was the sound of something approaching through the earth. Two signals in the same medium. The stone was trying to sing its morning song and the ground was humming a different note and neither could quite drown the other out.
+
+She wrote in her journal:
+
+*Day 17. One remains.*
+
+*Dawn vibration: 12 seconds (normal: 30). The precursor is occupying vibrational space in the substrate. The stone cannot sing its full morning because something else is in the way.*
+
+She read what she had written. She added:
+
+*This is what compression feels like from the stone's side.*
+
+---
+
+The cloud cover arrived mid-morning.
+
+Not the hard-edged weather she had seen on Day 5, the high wind from the plateau that had taken two days to reach the basin floor. This was different: a uniform grey ceiling moving in from the south, low and heavy, the kind of cloud that settled into a basin and stayed. The light changed -- flattened, lost its dimension, made the ruins look more ancient, as if the grey light removed the present tense and left only the past.
+
+And the stone's thermal response changed with it.
+
+She had been sitting at the northern face, studying the healed fault line, when she felt it -- a shift in the bond's quality. Not the [Dormant] signature, which was its usual patient self. Something in the stone's surface temperature. The cloud cover had eliminated the direct sun that drove the noon singing and the dawn vibration, and without that thermal driver, the stone's frequencies were different.
+
+She pressed her palm to the stone and felt it not singing. Not the silence of absence -- the silence of a different mode. The stone's crystal lattice, deprived of direct thermal input, had settled into a state she had not observed before: a low, steady baseline frequency that was neither the dawn vibration nor the noon singing but something underneath both. The stone's resting tone. The sound it made when nothing was making it make sound.
+
+She sat with it for an hour. The resting tone did not change. It did not fluctuate with the breeze or respond to the temperature shifts of the cloud cover. It was constant in a way the other frequencies were not -- a fundamental, the note that everything else was built on, the thing the stone was when it was not being made to be anything else.
+
+This was the first time the stone had shown her something that required cloud cover to see. A discovery that existed only in the absence of the conditions that produced every other discovery.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY LOGGED
+  Location: Varethen -- Threshold Stone
+  Type: Acoustic / Environmental
+  Resting Tone: Cloud-cover baseline frequency. The stone's
+  fundamental -- present at all times, audible only when
+  thermal frequencies are absent. Not silence. The sound
+  beneath all other sounds.
+-------------------------------------------------------------
+
+  You had to stop looking for it to find it.
+
+  Discovery 17/? toward depth advance.
+
+  +48 XP (Discovery: Acoustic)
+  Surveying: +2 proficiency
+-------------------------------------------------------------
+```
+
+Seventeen.
+
+She read the notification and did not calculate. She sat with the stone's resting tone in her palms and the cloud cover pressing down above the canopy and the precursor tremor running through the substrate beneath her and she held all three layers of vibration simultaneously -- parsing the signal, separating the stone's own voice from the corruption's approaching voice.
+
+---
+
+Theron noticed the dawn ritual.
+
+She had not expected him to comment. He had been present for every dawn sitting, at a distance -- she had heard his lean-to creak, heard the quiet sounds of a man who woke when she woke and chose not to accompany her. He had given her the mornings the way Hadley had given her the gap: as her own, not requiring company.
+
+But at midday, while the cloud cover pressed down and the precursor tremor ran through the ground like a sentence she could not quite read, Theron sat beside her at the threshold stone.
+
+"The healer used to do this," he said.
+
+She looked at him.
+
+"Sit at the stone before dawn." He was not looking at her -- he was looking at the handprint, at the healer's palm impression worn into the stone's southern face. "My grandmother said the healer sat there every morning. Before the fire. Before anything else. Just -- sat." He paused. "My grandmother thought she was praying."
+
+"Was she?"
+
+Theron considered this. "My grandmother was a Rimfolk woman who understood prayer as something you did to the land. If the healer was sitting at a stone every morning before light, my grandmother would have called it prayer regardless of what the healer called it."
+
+Wren looked at the handprint. At the stone around it, warm and patient and humming its resting tone beneath the cloud cover. At the healed fault line on the northern face, the place where the stone had cracked and sealed itself four thousand years ago.
+
+"I don't know what I'm doing," she said. "When I sit here. I'm not praying. I'm not surveying. I'm not working. I'm just -- "
+
+"Being here," Theron said.
+
+"Yes."
+
+He was quiet for a moment. Then: "The healer used to do this." Said differently this time. Not historical context. Recognition. A pattern he had seen before and was seeing again and was deciding what to do with the seeing.
+
+He stood. He looked at the settlement -- at the walls, the channels, the structures that had outlived the people who built them by three centuries. He looked at the sky.
+
+"Tomorrow is Day 18," he said.
+
+"Yes."
+
+"I've lived through many pulses." He said it the way he said true things -- without drama, as weight placed on a scale. "This one is different. The gap is larger than it was last cycle. The precursor is earlier." He looked at the ground, as if he could feel what she felt through the bond. He could not. But he had decades in this forest and knew what the ground felt like before a pulse. "I will be at the ruins when it comes."
+
+She looked at him.
+
+"Not at camp," he said. "Here. At the settlement." He paused. "I have not been here for a pulse before. I have always been upslope, or at camp, or elsewhere. But this time I think I should be here."
+
+She did not ask why. She did not need to. His father had been born here. The drainage channel still worked. The walls still stood plumb. Tomorrow the pulse would come through this ground and the corruption's precursor would become the corruption itself and the settlement that had held for three centuries would either hold for one more night or it would not.
+
+Theron was going to be here when it happened. Not because Wren needed him. Because Varethen did.
+
+"Thank you," she said.
+
+He nodded, once, and went north.
+
+---
+
+She went into the gap one more time in the afternoon.
+
+The precursor tremor was stronger. She felt it the moment she crossed the dead perimeter -- the vibration in the substrate had organized into something she could almost track directionally, approaching from the south-southeast, through the rock, through the soil, through the dead tree that stood at the gap's apex conducting the signal into the air above the settlement. The ghost-elms on the living side were bracing harder now. Their bark-shimmer had pulled in tighter, the grey-green pressed close to the wood, the trees holding their resonance against themselves like fists around something precious.
+
+She walked to the dead tree and placed her hand against it.
+
+The vibration shook her teeth.
+
+Not painfully. But the dead tree's stripped wood conducted the precursor at a frequency that set her jaw humming, a physical experience she had not expected from a sub-audible phenomenon. The corruption's advance signal was stronger here than anywhere else, and the tree, which had no living resonance to filter or resist it, was transmitting everything.
+
+She held her hand there. She held the bond -- the [Dormant] signature compressing at her sternum, the warmth contracting, the effort of maintaining presence in a space that was increasingly occupied by something else. She felt the compression and the precursor simultaneously and understood, for the first time, that they were the same thing: the corruption's energy, arriving through the substrate, pressing on the bond the way it pressed on the air, filling the space with a signal that left less room for everything else.
+
+The shimmer at the gap's edges was different. Dimmer. The bond-potential she had seen on previous visits -- the thin grey-green that showed the gap was not entirely dead, that resonance persisted even in suppressed space -- was fainter now. The precursor was not just traveling through the gap. It was deepening it. The corruption's advance wave was expanding the suppression field in preparation for the main event, the way a river swells before a flood.
+
+She pulled her hand from the tree. Held the compression for a moment longer. Felt the bond strain and hold and strain and hold, the [Dormant] quality at her sternum dimming but not extinguishing, the geological patience she had felt since Day 6 refusing to yield its space entirely even as the space contracted.
+
+She stepped back across the ward boundary and the compression eased and the warmth returned and she stood on the living side and breathed.
+
+One day.
+
+---
+
+She did not sleep well.
+
+The precursor tremor ran through the ground beneath her bedroll -- faint, at the edge of perception, the kind of vibration you stopped noticing after a while and then noticed again each time you surfaced from near-sleep. She lay in the dark and felt it and felt the bond network running through her and thought about the morning.
+
+She had seventeen discoveries. She had thought she would know, by now, whether seventeen was enough. She did not know. The system had not told her how many Known depth required at an anchor. It had told her Familiar took nine, where standard bonds took four to six. If the same ratio held -- roughly double -- then Known at an anchor would take somewhere between sixteen and twenty-four. She was inside that range. But she did not know where inside it she was.
+
+She thought about Maret's story. About Fell at the fen, at Familiar depth, present when the pulse came. About what it meant to be at Familiar depth at a bonded location during the pulse. About the distinction between Familiar and Known, between a bond that was open and a bond that was understood.
+
+She thought about the healer. Standing at the threshold stone every morning, palm to limestone, in the minute before dawn. Doing it for decades. Not because of a deadline. Because it was what she did.
+
+Wren lay in the dark and felt the precursor tremor and the bond and the sound of the Thornwild's pre-pulse silence -- the gaps between the insect voices wider now, the bass hum of the ghost-elms lower and tighter, the whole forest holding itself in the way the stone held its resting tone: present, fundamental, waiting.
+
+She did not try to sleep. She let the not-sleeping be what it was. Information.
+
+---
+
+Zero.
+
+She was at the threshold stone before the sky showed light.
+
+The dawn vibration did not come.
+
+She sat with her palms on the limestone in the dark, in the minute before dawn, and the minute passed and the sky lightened and the stone did not vibrate. The thermal gradient was there -- she could feel the surface warming as the pre-dawn light reached the canopy, the slight differential between surface and interior that had been enough, every other morning, to set the crystal lattice singing.
+
+The precursor had taken the stone's voice.
+
+Not destroyed it. Occupied its frequency. The corruption's advance signal, running through the substrate at the same vibrational range as the stone's thermal response, was louder now -- not louder in the audible sense but louder in the physical sense, more present, more organized, occupying the vibrational space the stone needed in order to sing. The stone was still there. Its crystal lattice was still capable of the dawn response. But the response could not be heard through the precursor's noise.
+
+She held her palms to the stone and felt both: the stone's attempted vibration, a ghost of its usual frequency, the thermal expansion pushing against the crystal structure but producing no audible result. And beneath it, through it, around it, the precursor -- not the stone's signal, not the stone's frequency, not the stone's four-thousand-year-old habit of greeting the morning. Something else. Something arriving.
+
+She did not write in her journal. She sat with the stone and held it and felt it trying to speak and failing and trying again and failing and she held that, too.
+
+The sky lightened. The cloud cover from yesterday had not lifted -- if anything it was lower, the grey ceiling pressing down on the basin, the light flat and dimensionless. Day 18. The pulse day.
+
+*Day 18,* she wrote, when she could write. *Dawn vibration: absent. Precursor occupying thermal frequency range. The stone cannot sing.*
+
+She looked at the margin column.
+
+*Zero.*
+
+---
+
+The morning was grey and still.
+
+She worked.
+
+Not urgently -- she had stopped working urgently somewhere around Day 15, when the arithmetic had stopped mattering and the stone had started showing her things she had not known to look for. She worked the way she had always worked: wide-aperture attention, slow movement, the quality of presence that was not grasping but witnessing.
+
+The threshold stone's western face had a feature she had not examined: a shallow depression, roughly oval, at the stone's midpoint, approximately the size of a cupped hand. She had seen it and catalogued it as natural erosion -- the kind of wear that water makes on limestone over centuries, the slow dissolution of mineral by rainfall. But this morning, in the flat grey light of Day 18, she looked at it differently.
+
+The depression was not smooth. Its interior surface was textured -- fine parallel grooves running the length of the oval, spaced at intervals too regular to be natural. She ran her fingertip along the grooves and felt them catch, the way a fingertip catches on the teeth of a comb. Not deep. Not dramatic. But deliberate.
+
+Someone had carved this.
+
+Not the healer's handprint -- that was a different kind of mark, wear rather than carving. This was intentional: a shallow bowl cut into the stone's western face, the grooves perhaps for grip, perhaps for drainage, perhaps for some purpose she could not reconstruct from the artifact alone. The carving was old -- older than the handprint, older than the settlement, possibly as old as the stone itself. The grooves' edges had been softened by the same dissolution that had shaped the depression, the carved lines becoming gentle channels, the intentional becoming naturalized.
+
+Someone had been here before the builders. Someone had found this stone and marked it. And the stone had held the mark the way it held everything -- patiently, without preference, for as long as the mark lasted.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY LOGGED
+  Location: Varethen -- Threshold Stone
+  Type: Archaeological / Pre-Settlement
+  Carved Depression: Western face, pre-settlement carving
+  with parallel grooves. Older than the settlement itself.
+  Someone marked this stone before anyone built around it.
+-------------------------------------------------------------
+
+  The stone has been known before.
+
+  Discovery 18/? toward depth advance.
+
+  +44 XP (Discovery: Archaeological)
+  Surveying: +2 proficiency
+-------------------------------------------------------------
+```
+
+Eighteen.
+
+She sat back and looked at the carving. At the stone around it. At the handprint on the southern face and the healed fault line on the northern face and the mineral banding on the eastern face and now this -- a pre-settlement carving on the western face. Four features on four faces. The stone had been showing her one face at a time, one layer of its history at a time, in the order the stone chose rather than the order she had planned.
+
+She had come here to earn a bond. She was sitting in the ruins of a gathering hall on the morning the Crying Forest would pulse, looking at a mark in stone left by someone whose name no one would ever know, and the stone was still showing her things.
+
+She thought about what Known depth meant. At Familiar, the bond was more legible, more present. At Known, the bond was understood. Not in the intellectual sense -- not the way she understood geology or architecture or drainage. Understood in the way you understood a person you had spent enough time with to stop being surprised by them. To know what they would do before they did it. To recognize their silences as well as their speech.
+
+She did not know the threshold stone that way yet. But she was closer than she had been yesterday. Eighteen discoveries. Each one a different angle on the same four-thousand-year-old thing. Each one the stone choosing to show her something about itself, and her choosing to sit there long enough to receive it.
+
+She pressed her palm to the western face, over the carving, and felt the stone's resting tone beneath her hand. The fundamental. The sound beneath all other sounds. She held it and breathed with it and did not reach for anything and did not try to understand and did not count the hours left before the pulse.
+
+The bond shifted.
+
+Not like Familiar -- not the qualitative change from knowing a word to knowing what it means. This was different. Deeper. Quieter. The bond did not deepen in a flash or a rush or a notification. It deepened the way the stone's resting tone underlay its other frequencies: gradually, then completely, then always having been there.
+
+She felt the stone the way you feel a room you have lived in for years. Not its features -- its presence. The specific quality of being this stone and no other stone. The weight that was not mass but identity, the warmth that was not temperature but recognition. She knew the stone now. Not everything about it -- she would never know everything about it; it was four thousand years old and she was sixteen. But she knew it the way the healer had known it. The way whoever carved the western face had known it.
+
+She knew what it was.
+
+And the sleeper woke.
+
+The [Dormant] trait -- the deep, patient warmth she had carried since Day 6, the sleeping weight at her sternum that had been present without identity, that had compressed without breaking, that had stirred once in the gap and settled back into its ancient rest -- moved. Not the way it had stirred before. Not a sleeper turning in sleep. A sleeper opening its eyes.
+
+The warmth expanded.
+
+Not at her sternum -- everywhere. The bond's quality changed from a point of warmth to a field of warmth, from something she carried to something she stood inside. The threshold stone's resting tone, which she had felt through her palms and through the bond as a low continuous frequency, became louder. Not in volume. In presence. In the quality of being undeniably here, the way a mountain is undeniably here, the way bedrock is undeniably here. The stone's identity, suppressed for three centuries by abandonment and the Thornwild's slow occupation, was rising through the [Dormant] compression the way a voice rises through silence -- not fighting the silence, not breaking through it, but filling the space the silence had held open.
+
+The stone's name was its history.
+
+Four thousand years of holding. Cracking and sealing. Being built around. Being worn smooth. Being abandoned. Being pressed by roots and weather and the slow chemical patience of a forest that wanted this space. Holding through all of it. Not because it tried. Because it was stone, and stone held.
+
+Everything else would leave. The stone would stay.
+
+```stat-screen
+-------------------------------------------------------------
+  BOND DEEPENED
+  Location: Varethen -- Threshold Stone
+  Previous Depth: Familiar
+  New Depth: Known
+-------------------------------------------------------------
+
+  [Dormant] -- RESOLVED
+
+  The sleeper wakes.
+
+  What slept in this stone was not a power or a secret or
+  a message for you. What slept was the stone itself -- its
+  full identity, its oldest self, the self it was before
+  anyone built around it and the self it will be after
+  everything built around it is gone. Four thousand years
+  of holding. Not endurance as effort. Endurance as nature.
+
+  Trait Revealed: [Enduring]
+  Family: Elemental
+  Stat Bonus (Known): +2 ADP / +1 VIT
+
+  Signature Revealed at Base Strength:
+
+  [FOUNDATION STONE]
+
+  This is the oldest continuously present feature at this
+  site. What was built around it was built because this
+  stone was here first. The signature is structural
+  centrality -- everything connects to it. When the stone
+  is fully Known, the cluster that hangs from it inherits
+  its stability.
+
+  Cluster Anchor upgraded: Known-depth anchor provides
+  structural resonance buffer to all connected nodes.
+  Triad relay at full fidelity.
+
+  Discoveries at depth advance: 18
+  Next threshold (Intimate): Additional discoveries required.
+
+  ---- TRIAD CHORD: FULL RESONANCE ----
+  [Enduring] (ADP/VIT) + [Tended] (EMP) + [Kept] (RSV)
+  Three Elemental nodes. Anchor awake. The cluster speaks
+  as one voice for the first time.
+
+  +150 XP (Bond Deepened -- Known)
+  Active Bonds: 5 (Warden's Shelf [Glimpsed],
+               Warden's Eye [Glimpsed],
+               Varethen -- Threshold Stone [Known],
+               Varethen -- Prayer-Notch [Glimpsed],
+               Varethen -- East Secondary Structure [Glimpsed])
+  Network Connections: 10
+
+  +12 Surveying Proficiency (depth milestone)
+-------------------------------------------------------------
+```
+
+She read the notification with her hands on the stone and the stone awake under her hands.
+
+[Enduring].
+
+Not what she had expected -- she had expected something dramatic, something ancient, a signature that spoke of the four thousand years of geological memory she had spent two weeks uncovering. Instead: [Enduring]. A word so simple it almost meant nothing. Except that it meant everything, because it was the word the stone would use for itself if stones used words. Not dramatic. Not ancient. Just: *I am still here. I have always been still here. I will continue to be still here.* The most unremarkable fact in the world, stated by a four-thousand-year-old piece of limestone that had outlasted everything built on top of it.
+
+The signature -- [Foundation Stone] -- settled into the bond network with a weight she felt through the entire triad. The prayer-notch's [Tended] quality brightened, the small persistent life suddenly aware that its foundation was awake. The healer's house's [Kept] quality deepened, the structural endurance now anchored to something that had endured longer than anything else at this site. The chord that had been three notes became three notes with a ground beneath them, a bass note so low she felt it in her feet rather than her ears.
+
+The triad was awake. Not just relay-enabled -- *awake*, the way the stone was awake, the way a building is awake when its foundation holds and its walls bear weight and its roof keeps rain. The cluster was doing what the settlement had done: holding, because the thing at its center held.
+
+She sat at the threshold stone on the morning of Day 18 with the pulse approaching through the ground beneath her and the stone awake for the first time in three centuries and the triad singing its chord through her chest, and she did not move.
+
+She held.
+
+---
+
+The pulse arrived at midday.
+
+There was no warning beyond the warnings she had been counting for eighteen days. The insect chorus, which had been thinning since Day 11, went silent. The ghost-elms' bass hum, which had been tightening for a week, stopped. The precursor tremor, which had been running through the substrate for three days, organized itself into a single directional signal and pushed north through the basin floor at a speed she could track by the way the settlement's stones responded: south to north, a wave front passing through the ground like a ripple through water, silent, invisible, present only in the way everything it touched changed for a moment.
+
+The bond network flexed.
+
+She felt it in all five connections simultaneously -- the Shelf's cool patience sharpening into something defensive, the Eye's watchful attention pivoting south-southeast toward whatever it had been watching for twelve days, the threshold stone's newly awake presence bracing beneath her, the prayer-notch holding its small life close, the healer's house's structural memory locking its weight against the ground.
+
+Ten connections. All of them live. All of them carrying the same information: the pulse was here.
+
+The corruption came through the gap first.
+
+She felt it -- not through her eyes or her ears but through the bond, through the [Enduring] trait's new sensitivity to the stone's substrate. The corruption's energy threaded through the gap where the dead tree stood, where the ward was breached, where the suppression field had been deepening for days. It did not arrive as a wall. It arrived as fingers -- thin tendrils of resonance distortion reaching through the gap and into the settlement's margin, probing the way water probes a crack, finding the paths of least resistance.
+
+The threshold stone's signature flared.
+
+[Foundation Stone]. The signature she had read in the notification ten minutes ago became a physical event -- a pulse of structural identity radiating outward from the stone through the substrate, through the cluster's connective tissue, through the triad relay at full fidelity. Not a wall. Not a ward. A declaration. *I am here. I am the foundation. Everything built on me holds because I hold.*
+
+The corruption's tendrils reached the signature's radius and -- stopped.
+
+Not dramatically. Not with a flash or a sound or a visible event. The tendrils, which had been threading through the substrate toward the settlement's center, encountered a space that was already occupied. The threshold stone's awakened presence, radiating through the substrate at its resting tone's frequency, was not pushing the corruption back. It was filling the space the corruption needed in order to advance. The way the precursor had filled the stone's vibrational space and silenced its dawn singing -- the stone was now filling the corruption's vibrational space and silencing its advance.
+
+The same principle. In reverse.
+
+Wren sat at the stone's base and held the bond and felt the pulse move through the basin. The corruption's main wave followed the tendrils -- stronger, wider, the full energy of the Crying Forest's eighteen-day cycle pouring through the gap and into the settlement's margin. The ghost-elms braced. The living trees' bark-shimmer compressed to its tightest, the grey-green pressed against the wood, the resonance held inward against the pressure. The dead tree conducted the main wave the way it had conducted the precursor: without filtering, without resisting, a path of pure conduction.
+
+And the triad sang.
+
+She did not ask it to. The three nodes -- [Enduring] at the threshold stone, [Tended] at the prayer-notch, [Kept] at the healer's house -- relayed the corruption's signal through three different lenses simultaneously. The anchor received the raw signal through the substrate and passed it to the prayer-notch, which translated it through the [Tended] quality -- the quality of ongoing care, of living continuity, of attention that did not stop -- and passed it to the healer's house, which received it through the [Kept] quality -- the quality of structural integrity, of holding without maintenance, of original intention preserved in stone -- and reflected it back to the anchor, where [Enduring] received the twice-filtered signal and held it.
+
+The corruption's energy entered the triad as distortion. It exited as information.
+
+She understood, in that moment, what the bond network was for. Not protection -- not a shield, not a ward, not a wall. Translation. The corruption was energy without identity. The triad gave it identity by passing it through three different modes of persistence -- endurance, care, integrity -- and what came out the other side was not corruption anymore. It was a readable signal. A thing she could feel and understand rather than a thing that simply pressed.
+
+The pressure was immense. She felt it in her sternum, in her palms, in the ground beneath her. The stone was holding and the bond was holding and the triad was holding and she was at the center of all three, the point where the holding converged, and the convergence was not comfortable. It was the most uncomfortable thing she had ever felt -- not pain, not fear, but the specific discomfort of being asked to contain more than you were built to contain. The stone was four thousand years old and had been asked to contain the pulse's energy and the awakened signature's expansion and the triad's relay and the corruption's pressure all at once. She was sixteen and had been asked to contain the stone.
+
+The Holding.
+
+She felt it. Not as an event -- as a possibility. The bond, at Known depth, with the stone awake, with the corruption threading through the pulse and the pulse threading through the bond and the bond threading through her -- the Holding was right there. The place where Fell and the fen had become one thing. The edge where presence became fusion. She could feel the gravity of it, the way the bond wanted to pull her in, the way the stone's awakened identity was so large and so present and so close that the boundary between her and it was thin, was permeable, was --
+
+She held.
+
+Not the stone. Herself. She held the distinction between the person sitting at the stone and the stone she was sitting at. She held her name and her age and her pack with the rosemary in the pocket and her father's soft-cracked journals and her mother's cramped handwriting and the sound of Theron's laugh in the afternoon and the weight of a fifteen-year-old girl sitting at an inn asking questions. She held all the things that were her and not the stone and she did not let them go.
+
+The stone held too.
+
+Not by pulling her in. By being complete without her -- the way it had been complete for four thousand years, the way it would be complete after she left. The Holding's gravity had nothing to close around.
+
+The pulse passed.
+
+Not suddenly -- it ebbed, the way a wave ebbed, the energy moving north through the basin and the corruption's tendrils withdrawing from the settlement's margin and the ghost-elms' bark-shimmer expanding outward again, slowly, the grey-green returning to its normal ambient radiation. The dead tree stopped conducting. The substrate settled. The insect chorus did not resume -- it would take hours, perhaps a day, for the forest's counting voices to return.
+
+A notification arrived, quiet and brief, in the space the pulse left behind:
+
+```stat-screen
+-------------------------------------------------------------
+  LEVEL UP
+  Wren Galley -- Wayfinder
+  Level 4 --> Level 5
+-------------------------------------------------------------
+
+  +3 Free Stat Points (unallocated)
+
+  Surveying: Apprentice threshold reached (30+ proficiency).
+  Survey efficiency improved. Detail resolution increased.
+
+-------------------------------------------------------------
+```
+
+She read it and let it go. It was true and it was earned and it was not the thing that mattered right now.
+
+But the stone sang.
+
+Not the dawn vibration, not the noon singing, not the resting tone. Something she had not heard from it before. A frequency that was purely its own, that it had been holding in reserve for the three centuries of its dormancy, that it had given up when the settlement emptied and the forest came and the identity was set aside for safekeeping. The stone sang the song it sang when it was fully itself, awake and known and held by someone who knew it. The [Foundation Stone] signature at its full base strength, a vibration that ran through the substrate and through the cluster and through the triad and through the ten connections of the bond network and arrived in Wren's chest as a single, absolute certainty:
+
+*I am still here.*
+
+She sat at the stone and held that certainty and closed her eyes. The ruins were quiet around her. The cloud cover pressed down. The ghost-elms held their grey-green shimmer. Somewhere at the gap's edge, the corruption's suppression field had stopped growing.
+
+Not retreated. Not shrunk. But the boundary that had been advancing at one degree per four days had encountered the threshold stone's signature radius and stopped. The gap was the same size it had been at dawn. The corruption had not gained ground during the pulse. For the first time in however many cycles Theron had counted, the pulse had come through and the gap had not expanded.
+
+She looked at the stone. She looked at her palms on its surface. She looked at the space around her -- the settlement, the ruins, the three centuries of abandonment that had not erased the fact of habitation -- and she understood that what she had done was not dramatic or heroic or even unusual. She had sat at a stone and paid attention for two weeks and the stone had shown her what it was and she had held what it showed her. That was all. That was enough.
+
+---
+
+She stood. Her legs did not cooperate immediately -- she had been sitting for hours, and the pulse had taken something from her that was not physical but registered in the body anyway. She steadied herself against the threshold stone. The limestone was warm under her hand, warmer than it had been in weeks, the awakened signature radiating through the surface. She breathed. The settlement was very quiet.
+
+Theron was at the drainage channel's edge, where it met the tree line. His face was toward the ruins, his hands at his sides. He had been there through the pulse -- she knew this without having seen him arrive, the way she knew the stone's position without looking. He had stood at his father's settlement while the forest wept and the corruption pressed and the stone held, and he had watched.
+
+She walked to him. She stood beside him and looked at the settlement and for a while neither of them spoke.
+
+"The gap didn't grow," he said.
+
+"No."
+
+He looked at the threshold stone. At the handprint. At the stone that was still singing, faintly, its awakened frequency settling into the substrate the way a new note settles into a chord.
+
+"Good drainage," he said.
+
+She looked at him. His face was doing the thing again -- the internal adjustment, the private recalibration. But something else, too. Something around his eyes that she had not seen before. She did not name it. She did not need to.
+
+They walked back to camp in the quiet that comes after a held breath releases, the Thornwild around them settling into whatever the forest would be after the pulse, the stones of Varethen warm at their backs, the bond in Wren's chest singing a four-thousand-year-old song to no one in particular.
+
+She opened her journal at the fire.
+
+*Day 18. The stone woke. The pulse came. The gap held.*
+
+She did not write more. There would be time for notation, for the careful record, for the arithmetic of XP and proficiency and the margin column that had counted down to zero and found, at zero, that the number was not an ending but a hinge.
+
+She closed the journal. She put her hand in the pocket of her jacket and felt the rosemary there, still faintly fragrant, still carrying the scent of a kitchen in Millhaven where her mother hung it in bunches from the ceiling.
+
+She was still here, too.

@@ -1,0 +1,187 @@
+---
+id: 3e781459-5def-5c4f-952e-a41f3ab1b5a8
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Chapter 8: A Debt Owed"
+slug: 0015-book-6-chapter-8-a-debt-owed
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 15
+ownLength: 2520
+unit: words
+ownProgress: 2520
+publishedAt: 2025-04-25
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2229153/book-6-chapter-8-a-debt-owed"
+royalRoadId: "2229153"
+removedAt: "2026-07-03T13:47:30.883Z"
+---
+
+****
+
+Two Days Prior
+
+****
+
+Arthur left the king's room, curling his hands into fists to keep them from visibly trembling. Catching the man up on the current events of the kingdom had been emotionally draining. After all, hardly any of it had been good news.
+
+When finally lucid, King Elizar was remarkably self-contained. In fact, he took the news with eerie calm. Perhaps he had expected it before the worst of the madness had taken him.
+
+The only hint of emotion he had shown had been at Marion's prompting when he asked if he remembered anything from the last few decades.
+
+"It felt like I was in a dream," the king had mused. "And finally, I am waking up. But as perpetually confusing and unpleasant as that dream had been—" his voice broke, and he shook his head, gathering himself again. "Well, I'm uncertain if the reality upon waking is any better."
+
+Eventually, the king had requested time to think about all that had been said.
+
+Arthur had excused himself while Marion had stayed behind. As the king's healer, he had wanted to monitor the man.
+
+Arthur was unsurprised to see the king's dragon, Lung Bei, waiting outside the room.
+
+"You don't want to be with the king?" he asked, surprised. He knew that Brixaby would want to be at his side for a moment like this.
+
+Lung Bei shook her snaky head. "He said he needs to rest and think. I know him, and this is the truth. I will be with him when he wishes to speak again—Elizar has never been one to come to a quick conclusion."
+
+The man certainly had been quick to condemn him the first time they'd met, but then again he had been in the throes of his madness. Arthur kept his private opinion to himself.
+
+"You have done a great service to your kingdom today," Lung Bei continued. "But make no mistake, your debt has not been repaid."
+
+He figured as much. "I suppose it will be repaid when Brixaby and I become Mythics."
+
+"That will help," she said dryly. "I do not believe you understand how much myself and the others lost staving off the Scourge-Gods to give you time." She suddenly thrust her long neck forward, sniffing him. "But I see you have taken another step closer to your goal. Very good. Tell me, exactly how far along are you?"
+
+Speaking frankly of the cards in his heart deck felt very wrong. It was something people only shared with close friends or those he trusted completely. Lung Bei was neither of those.
+
+But she was also a creature who had the sheer power to wipe him from existence. She and the other Mythics had helped him, and most importantly, she wanted him and Brixaby to ascend ranks.
+
+"I have three of the five cards I need," he said. "Master of Skills, Master of Body Enhancement, and Master of Cards. Brixaby has Call of the Void, Call of the Heart, and now Call of Life."
+
+"Well balanced," she said with a hint of approval. "Yet you seem troubled."
+
+He couldn't help it. He barked out a laugh. "Yes, I'm troubled. I can't gather all the cards I need and also be the leader of Blood Moon hive. It's too much."
+
+"And yet, you must," she said calmly.
+
+Arthur grit his teeth and gestured behind him to the king's room. "The king said he'll give me some time before he'll send word to the other hive leaders about what happened. We both know once they figure out that I've taken Chester's place, they'll be testing me and the hive. But it's all so stupid—our fight is with the scourglings. We don't have time to play politics."
+
+And I don't think I'm cut out for it, he added silently.
+
+It felt like he may as well have spoken aloud. Lung Bei instantly understood.
+
+"Arthur, do you think that the journey to greatness is easy, or that those who succeed have done so with their hands held along the way?"
+
+He rocked back, stung. "I'm not asking for my hand to be held or any other special consideration. I'm asking for the people in Blood Moon hive to be safe. The other two leaders are useless, and a leadership battle from the other Legendaries would tear us apart. We can't afford it. The kingdom as a whole can't afford it! But you know the other leaders—surely, you have someone in mind who would make a good leader for the hive. That way, Brixaby and I can collect the cards we need, someone else has a chance to lead, and Blood Moon is strengthened."
+
+She blinked. "What makes you think the other hives do not have their own internal strife and struggles? That they are not, also, in crisis?"
+
+That briefly stumped him. He just assumed other hive leaders had their situations more in hand than he did. Then again, he doubted Wolf Moon was being well managed right now with Valentina's death and Whitaker at the helm.
+
+"Buck Moon seemed to be running well." In truth, it was the only other kingdom hive he'd had much experience with.
+
+Her reply was acidic. "Ah yes, if a heretical system leading to rank stagnation is 'run well', I suppose they are. The leaders there are more than happy to be at the top and keep things exactly as they were. If I were to present them with Mythic cards right now, not one would take it. They live too comfortably."
+
+Arthur raised his eyebrows. A question formed on his lips, but she cut him off before he could speak.
+
+"And if your next question is to ask for myself or the other Mythics to simply fetch the cards for you... we cannot."
+
+"I wasn't going to phrase it like that," Arthur grumbled. In fact, he'd hesitated to ask for that favor because he didn't want to be more in debt to the King's Mythic dragon than he already was. Still, he felt there was more to it. "But any one of you has more power than ten of the Legendaries combined. So I have to ask why?"
+
+"A number of reasons. I will not leave my Elizar's side, and it will take me time to regain my strength."
+
+Her mention of regaining strength made him briefly wonder if Brixaby's new Life card could help. But that felt like opening the door that led to a dark path. What if it did help and the king or Lung Bei then decided they needed that card's power going forward?
+
+That was a quick way to end up with a Mythic ranked Chester.
+
+Lung Bei broke into his thoughts with an emphasis that startled him. "You must hold Blood Moon. The hives are a wheel of safety around our kingdom, and it would be a disaster if one spoke went dark. But," she added with a sigh, "it would be a catastrophe for the entire world to have a weakened Mythic that was carried up the ranks."
+
+"What do you mean by that?" Arthur asked.
+
+She fixed him with a look. "Each card is a test."
+
+Arthur blinked in surprise, opened his mouth to ask another question, but then shut it again. Instead, he thought back to each Legendary card he'd added to his heart deck. He had grown in a different way with every single one of them.
+
+Of course, he had only been a child when he added his Master of Skills, and it had certainly carried him far—and continued to do so. His Master of Body Enhancement had added an entirely new suite of skills he had never thought of. With his running and climbing combined, he had easily overwhelmed Reginald earlier. Catching him had almost been effortless.
+
+With the addition of his Master of Cards, he had more insight into card magic than he'd ever had before. He would change again when he finally added his Master of Combat. Needing to kill off one's cousin in cold blood would do that.
+
+That was a reminder that part of his growth was what he'd had to go through in order to gain each card. Would he be the person he was today if someone had simply handed him the three Master cards in a set?
+
+"I think I see what you mean," he said and let out a breath that felt like a sigh.
+
+He had one more important task to complete while he was here to see the king. It was the one he'd been looking forward to the least. He and Brixaby had quite a few discussions on the necessity of this.
+
+What finally swayed Arthur was that there was no way to hide that he and Brixaby had killed Chester and Blood Drop. The next logical question would be what happened to their cards.
+
+"I have three Legendary cards to turn over to you," Arthur said, formally.
+
+Then, with a motion that broke his greedy heart, he took the three Legendaries out of a specialized pocket he'd quickly sewn in with a much unused Tailoring skill. The cards were too magically heavy to hold even in his Personal Space.
+
+Lung Bei looked pleased, as if Arthur had passed a test.
+
+"From the previous leaders, I assume?"
+
+Arthur nodded. "They each had a few Rare-ranked cards in addition—these were supportive cards for their own health. I had Marion look them over, and he didn't see how they would assist the king with his, uh, problems." He quickly stumbled over the last bit and hoped she wasn't sensitive to it. Quickly, he nodded to the Legendary cards. "I think you'll find these to be interesting."
+
+In fact, it had been the contents of the cards that had swayed Brixaby. He valued powerful cards more than anyone, but even he realized that if he was found to have these... they'd both be in big trouble.
+
+Cataclysmic Firestorm
+
+Elemental
+
+Legendary
+
+The wielder of this card will be able to summon ever-hungry beings of living fire. These summons are flames that are unable to be put out by anyone but the wielder. These summons feed on all living matter, including magic. They will cleanse the earth in front of them. The cast of each summon requires an initial cost of mana, depending on the size. However, once cast, they will maintain themselves through feeding.
+
+Ultimate Astral Projection
+
+Knowledge
+
+Legendary
+
+The wielder of this card will be able to freely project a perfect copy of their own consciousness to any point they have previously traveled to before. This copy will be invisible as well as silent, and unable to interact physically with the world around them. However, the copy will be able to observe their surroundings without any vulnerability to their physical selves. The wielder does not have to be asleep to perform Ultimate Astral Projection. However, using this card does require exceptional concentration, and the wielder may be unable to accomplish complex tasks while managing an astral projection. This card does not require mana.
+
+Silver-Tongued Mind
+
+Mind
+
+Legendary
+
+The wielder of this card will be granted enhanced persuasion skills in all aspects of business. This includes, but is not limited to, increasing or decreasing the value of objects in the eye of the beholder, subtle mental pressure when haggling, and influencing contract negotiations in favor of the wielder.
+
+The third card had been the most tempting. It had also been the one Brixaby wanted to keep.
+
+Arthur suspected it had been a big reason why Blood Moon prospered despite failures in its leadership and disquieting rumors. There were very likely a lot of merchants who had been persuaded to give the hive—and Chester—very favorable deals.
+
+He was also very, very lucky that the final strikes against Chester and Blood Drop had been quick and decisive, and Chester hadn't had the time to set these cards on him. The Cataclysmic Firestorm summons ate magic, so Arthur may not have even been able to Phase Out if one had been set on him... not that Chester should have ever used one near any civilization, especially his own hive. The card had loose definitions on the wielder's ability to control those fire summons.
+
+He may have been able to use the Silver-Tongued Mind on his own people to convince them that the blood price was not such a bad deal after all.
+
+Astral Projection had posed the biggest silent threat. If Arthur had stayed in the hive for much longer, he would have gained more attention. Perhaps enough for Chester to have spied on him using that card. He would have then easily learned his secrets.
+
+Yes, he'd been very fortunate to escape the man's direct notice until the end.
+
+"Ah, so you have learned your lesson from the first time you visited us," Lung Bei said, with amusement in her voice.
+
+She reached out with her giant claws and plucked the cards up with surprising delicacy.
+
+There was no expression as she brought the cards up to eye level to read them.
+
+"I see," she said quietly. Two of the cards instantly disappeared into what Arthur assumed was some kind of Personal Space.
+
+Then, to his shock, she pushed one card back to him. He took it. It was Cataclysmic Firestorm.
+
+"A reward for honesty, and congratulations for your new leadership. However, before you become too comfortable in my favor, I will remind you, I have been to Blood Moon hive."
+
+Which meant she could use the Astral Projection card on him. That wasn't a comforting thought, but he always assumed a Mythic-ranked dragon had several ways of spying if they wanted.
+
+****
+
+Arthur explained the bare bones of what had happened, focusing mostly on what the king had said about giving him some time before he alerted the other hive leaders.
+
+He did not tell them about the Cataclysmic Firestorm card, or that he had given it to Brixaby that night to hide.
+
+The dragon did not have room in his cores for another Legendary-ranked card and wouldn’t for a bit of time. Arthur could have probably added it to his own heart deck with a bit of meditation and some rearrangement, but he didn’t want to.
+
+That card was horrific.
+
+He suspected this was another test from Lung Bei to see what he and Brixaby would do with pure destructive power.
+
+Using it for combat was out of the question. He supposed he could still use it for leverage somehow with the other Legendary leaders, either as a bribe to leave him alone or a threat to do the same. Or he could wash his hands of the problem by selling it to a noble who would hopefully keep it locked in a private card library for display and not against his neighbors.
+
+But he wasn’t going to do any of that. After all, Arthur had a Master of Cards in his set. If a card with that sheer amount of potential was not one he could see himself using, he would adjust it until it was.

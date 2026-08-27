@@ -1,0 +1,430 @@
+---
+id: 2782e69c-a3db-5757-8c46-d0a39a931646
+page-type-slug: story-chapter-played
+title: "The Brand"
+slug: 0010-the-brand
+partOf: the-dungeon-of-one-thousand-deaths
+position: 10
+ownLength: 5923
+unit: words
+---
+
+The color had gone wrong on a Tuesday.
+
+Not the pigment — the pigment was fine, the same indigo she had been mixing for nineteen years, copper sulfate and fermented woad in proportions she could measure by smell. What went wrong was her perception of it. She had been stirring the batch in the workshop's north vat, the one with the chipped rim she kept meaning to repair, and she had looked down at the blue and it had been — less. Not lighter. Not diluted. Less present, as if the color had pulled back from the surface of itself.
+
+She had set down the paddle and looked at the wall. The wall was the same yellow-gray it had always been, plaster over lath, stained near the ceiling where the steam collected. She looked at it and it was the same wall, and it was less. The yellow had withdrawn the way the indigo had withdrawn: not faded but retreating, becoming a description of itself rather than the thing.
+
+Three days later her physician had told her about the lungs.
+
+She had understood, in the physician's careful language, that she was being sentenced. Not to death — everyone was sentenced to death; it was the only verdict available — but to a particular kind of death, the kind that happened in increments. Six weeks, the physician said. Possibly eight, if she rested. He had meant well.
+
+She had gone back to the workshop and mixed a batch of indigo that was, she knew, the best she had ever mixed. Not because she was dying. Because the color was still wrong and she wanted to find out if the wrongness was in the pigment or in her eyes.
+
+It was in her eyes.
+
+---
+
+The dungeon had arrived the way a good pigment arrives — not all at once, but in layers. First the rumor, which she had heard from a fabric merchant who ordered her indigo in monthly lots: a hole in a ridge, a hundred miles north, that killed people and was not done killing them. Then the detail, which came from a carter's apprentice who had carried supplies to the camp at the entrance: people went in, people did not come out, and the place kept a ledger. Then the pull.
+
+The pull was not subtle. It was not the slow build she had heard about from other people at the camp who were willing to talk about how they had gotten here — the gradual reorientation, the sense of a door opening somewhere in the peripheral vision. It was direct. It arrived on a Thursday morning, six days after the physician, and it said: *there is a place where your death can mean something different than what it currently means.*
+
+It had not said those words. It had not said anything. It was a directional pressure, the way a compass needle does not say *north* but points until pointing is unnecessary because you are already walking.
+
+She had packed that afternoon. She had not told Maret, her sister, what she was doing — Maret had already begun the preparations for the kind of death the physician had described, the linens and the broth and the careful scheduling of visitors, and telling her would have required Essany to stand still long enough to explain something she did not have language for. She had left a note. The note said: *I am going north. It is not the lungs. I will not be long.*
+
+Both of those things were true in ways that were technically accurate and practically dishonest, but she had been a craftsperson for nineteen years and she understood that precision was not the same thing as truth.
+
+---
+
+The road north was forty-seven miles of packed earth, the kind that turned to paste in rain and concrete in sun, currently somewhere between the two. She walked it in three days because her lungs permitted three days of walking. On the fourth day she would have needed to stop. She did not need a fourth day.
+
+The camp was larger than she had expected. She had pictured something desperate — a huddle of tents, a few frightened people, a hole in the ground. What she found instead was a settlement in the early stages of becoming itself: a fire that someone tended, a ledger-keeper with a table and a book, a blank cloth nailed to a post with charcoal annotations she did not read, merchants selling rope and lanterns at prices that assumed you would not need a refund.
+
+She sat by the fire. The flames were the right color. Fire was always the right color — fire did not retreat from its own surface the way pigment did, the way daylight did, the way the stained ceiling of her workshop did. Fire committed. She watched it until the ledger-keeper looked up from his book and made eye contact with the particular expression of a man who had learned to identify which arrivals were passing through and which had arrived.
+
+"Essany Cord," she said, before he asked.
+
+He opened his book. "Voluntary?"
+
+She considered this. The pull had brought her here. She had also decided to come. Both things were true in the way that a color is both a wavelength and a perception — the same thing, described differently depending on whether you are the light or the eye.
+
+"Yes," she said. She was not sure this was accurate.
+
+He wrote it down. He did not ask about the cough. He had heard her coughing since she sat down and had categorized it, apparently, as none of his business.
+
+"Purpose?"
+
+She said: "I am going to die in about five weeks, and I would prefer to do it somewhere that is not a bed."
+
+The ledger-keeper looked at her. He had a particular quality of attention — the attention of a man who had been recording names in the same book for longer than seemed reasonable and had not stopped. He wrote her stated purpose without comment.
+
+She went in the next morning.
+
+---
+
+The corridor was warm and ribbed and the color of old blood.
+
+She had known it would be warm. She had known about the ribs, from a man at the camp who had described them as *like the inside of a throat.* What she had not known — what nobody who described the Gullet ever mentioned, because nobody else looked at the world this way — was the color. The stone was not gray. It was a deep red-brown that shifted toward ochre at the ribs and darkened to something near umber in the valleys between them. The bioluminescence was a blue-green that should have clashed with the red-brown but instead created a complementary tension that she recognized from her best work: two colors that argued with each other and were both right.
+
+She stopped and looked at the wall for a moment longer than a person in a dungeon should look at a wall. The color was not retreating. The color was precise and complete and exactly what it was.
+
+She coughed. She kept walking.
+
+---
+
+The inscriptions were carved in a formal hand that reminded her of guild records. She read each one.
+
+*EDRIC VOSS — DEPTH 1 — FIRST TO ENTER.*
+*MAREN VOSS — DEPTH 2 — FIRST TO DREAM IN THE DARK.*
+*LIRA — DEPTH 1 — FIRST COMPELLED.*
+
+She paused at *FIRST COMPELLED.* She read it again. She thought about the pull that had brought her here, the directional pressure, the compass needle. She kept reading.
+
+*BREN ALDIC — DEPTH 1 — FIRST TO HOLD THE LINE IN THE GULLET.*
+*DARA HESS — DEPTH 2 — FIRST TO NAVIGATE THE WARRENS BLIND.*
+*MIRA DOSS — DEPTH 2 — FIRST TO TEND THE WOUNDED.*
+
+The gap. She put her hand on the blank stone and felt nothing — no warmth, no information, no surface quality that distinguished it from the surrounding wall. Absence was its own color. She had a pigment for it: the gesso undercoat, the nothing-yet that held everything that came after.
+
+*SERA VANT — DEPTH 3 — FIRST TO HOLD THE STILL GARDEN.*
+*SYLAS RENN — (on keystone — see arch).*
+*ASHA TREVANE — DEPTH 1 — FIRST TO ARRIVE.*
+*FENNICK RALL — DEPTH 3 — FIRST TO CHOOSE.*
+*ALDOUS VREN — DEPTH 4 — FIRST TO COMPREHEND.*
+*MARET DUNN — DEPTH 2 — FIRST TO REFUSE AND RETURN.*
+
+Twelve names and one gap. She would be the fourteenth.
+
+She noted the progression of the precedence claims: *to enter, to dream, compelled, to hold, to navigate, to tend, to hold, to build, to arrive, to choose, to comprehend, to refuse and return.* The dungeon was cataloguing varieties of human action. It was building a vocabulary of what people did when they came here to die.
+
+She wondered what her word would be.
+
+She coughed and the echo came back from the ribbed walls with a quality she had not expected — layered, the sound folding over itself the way a dye bath folds when you pour it back, same color meeting same color at different speeds. She listened to the echo of her own lungs and moved on.
+
+---
+
+The Asking found her sixty meters past the inscriptions, in a stretch of the Gullet where the ribbing deepened and the bioluminescence brightened to a blue-green she would have called *saturated* in pigment terms — the color at full strength, no dilution, no holding back.
+
+She had been told about this. The man at camp who had described the ribs had also described the Asking, in the careful language of someone who had experienced it and come back: *like something reading the label on the back of your skull.* She had filed this and moved on. Now, standing in the deepening corridor, she revised: it was not like being read. It was like being dyed.
+
+A dyer knew the difference between surface color and fiber-deep color. Surface color washed out. Fiber-deep color held because the fiber itself had changed — the mordant had opened the material's structure and the pigment had settled into the opened place and the structure had closed around it, and the color was now the material, not a coating on the material.
+
+The Asking was a mordant. It found the opened place in her and settled in.
+
+*I want to die on my terms.*
+
+Not *I want to live.* She had been specific about this with herself on the road and she was specific about it now. She did not want a cure. She did not want more time. She wanted the death she was having — the slow reduction, the incremental subtraction — to stop being the only option. She wanted to pick.
+
+The Designation settled.
+
+```stat-screen
+ENTRANT DESIGNATION: THE BRAND
+
+GIFT: INDELIBLE MARK
+Touch a surface and the surface yields its flaw.
+Structural weakness becomes visible — permanently marked,
+inerasable, legible to anyone who comes after you.
+What was hidden is now known. What was strong is confirmed.
+The mark is not yours. It belongs to whoever reads it.
+
+COST: RECIPROCITY
+Every surface you mark, marks you back.
+Your own structural weaknesses become visible — first to the dungeon,
+then to anything that hunts.
+The marks accumulate. They do not heal.
+You will become a map of where you are breaking.
+
+STATISTICS
+Vitality .............. 6
+Resolve ............... 13
+Attunement ............ 9
+Fortune ............... 11
+
+Note: Entry type — Compelled.
+Compulsion radius: 47 miles. Standard reach, standard bait.
+Amplified desire: the terms of death.
+The entrant believes she chose. The Maw notes this without correction.
+```
+
+She read the screen twice.
+
+*The entrant believes she chose. The Maw notes this without correction.*
+
+She read this a third time. The screen did not elaborate. It sat there, clinical and flat, offering a fact about her that she could not argue with and could not verify. She had come here under her own power. She had packed her own bag. She had walked forty-seven miles and she had not been carried. The screen said *Compelled* and the screen said she believed otherwise and the screen did not say which was true.
+
+She thought about pigment. A well-made dye does not feel like a dye — it feels like the fabric's own color, arrived at naturally. The fabric does not know the mordant was applied.
+
+She decided it did not matter.
+
+---
+
+The glass bead was amber-gold with a thread of green in the center, positioned with the green facing outward, catching the wall's faint luminescence. She picked it up. The green thread was the color of verdigris — not true green but the green that copper becomes when something has been working on it for a long time. She knew this color. She had chased it in pigment for three years before she understood that verdigris was not a color you made but a color you waited for. Copper acetate on a wooden rack in a sealed room, the vinegar fumes doing the slow work, and you checked it once a week and you did not rush it. Someone had made this bead with the same patience, setting the green thread at the center where it would hold.
+
+She set it back. She turned it slightly — not a repositioning, just an adjustment, the way you adjust something someone else has placed to show them you have seen it. The green thread still faced outward.
+
+She kept walking.
+
+---
+
+The arch was the cleanest piece of stonework she had ever seen outside a cathedral.
+
+She did not have the structural vocabulary — she was a dyer, not a mason — but she had spent nineteen years working with materials and she knew the difference between something that had been made well and something that had been made correctly. This had been made correctly. The joints between the voussoir stones were tight and even and the load was distributed with a precision she could feel in the way the air moved around it: nothing was straining.
+
+The keystone: *SYLAS RENN — DEPTH 3 — FIRST TO BUILD WHAT REMAINS.*
+
+Below it: *THE ARCH HOLDS.*
+
+She stood under the arch for a moment. She looked at the text. She had five weeks left, or four, or three. She had never built anything that would outlast her by more than a season — pigment faded, cloth wore, color was by its nature impermanent. This man had built a bridge and died and the bridge was still here and would be here when she was not and when the cloth she had dyed last week had gone white with sun.
+
+She was not envious. She was something adjacent to envious that she did not have a word for.
+
+She crossed the arch and touched the far abutment as she stepped off.
+
+The Gift activated for the first time: marks spread from her fingertips across the stone in dark fine lines, revealing the abutment's internal structure. The reinforcement was extraordinary — the crystalline alignment was deep and true, locked in place by something she did not have the vocabulary for. The marks showed almost no weakness. The stone had been made permanent by someone who understood permanence the way she understood color: from the inside.
+
+On her right hand, between the second and third knuckles, a small mark appeared. Not painful. Warm. The same dark fine-lined pattern, but showing the weaknesses of her own hand: the tendon that was thinning, the joint that had been overworked for nineteen years of paddle and stir, the bone that was losing its density because the disease was not only in her lungs.
+
+She looked at the mark on her hand for a moment. Then she looked at the marks she had left on the arch — barely visible against the reinforced stone, showing nothing but strength.
+
+*First to build what remains.* She thought: the marks will remain too.
+
+```stat-screen
+GIFT ATTUNEMENT: +1
+INDELIBLE MARK: 1 ACTIVATION (ARCH ABUTMENT, GULLET)
+
+RECIPROCITY: 1 MARK RECEIVED
+Location: right hand, dorsal surface.
+Weakness revealed: tendon degradation, joint stress, early calcium loss.
+```
+
+---
+
+```stat-screen
+DEPTH 2 REACHED: THE WARRENS
+
+RESOLVE: +1
+Current Resolve: 14
+```
+
+The Warrens opened around her like a bolt of cloth unrolled too fast — sudden width after the Gullet's constriction, passages branching left and right and left again, the ceiling pulling away until the bioluminescence could not reach it and the upper dark was absolute. The air was different here: cooler, wetter, carrying the mineral smell of water that had been working on stone for longer than anyone had been dying in it. She could taste the limestone on her tongue, chalky and faintly sweet, the way the calcium powder she used for her white base tasted when it drifted during mixing.
+
+She stood at the first junction and breathed. The breathing was worse than yesterday. She could measure the disease's progress in breaths now — not in the physician's careful weeks but in the number of full inhalations she could take before the catch, the hitch in the left lung where the tissue was sticking to the wall. Six breaths. It had been eight at the camp.
+
+She chose north.
+
+The Warrens' limestone was water-carved and branching. She navigated by the temperature gradient the camp accounts had described and by something else — the color of the stone. The red-brown of the Gullet gave way to a cooler gray in the Warrens, but the gray was not uniform. It shifted toward blue where water had left mineral traces and toward yellow where iron deposits had stained the limestone, and she followed the blue because the blue led deeper and deeper was where she was going.
+
+The journal was propped against the left wall, exactly where the camp accounts had placed it. She took it down and opened it. A military hand, careful, compressed. She read the first page and the last page — she did not have time for the middle. The last page said: *To whoever reads this.*
+
+She touched the cover.
+
+The Gift activated: a mark spread from her fingertips across the leather, dark and fine-lined, like the grain pattern of wood magnified until you could see the individual fibers. The mark showed where the leather was weakest — a point near the spine where water had worked into the binding, a corner where the hide had been cut too thin, a hairline along the front cover where stress had been concentrating for months. The marks were permanent. They would still be there when the next person picked up the journal.
+
+On her left forearm, a new mark appeared. Fine-lined, dark, warm. The weakness it showed was the lung disease's secondary damage: the blood vessels near the surface that were thinning as her body prioritized other systems. Her veins were visible through the mark like rivers on a map.
+
+She put the journal back where she had found it.
+
+```stat-screen
+GIFT ATTUNEMENT: +1
+INDELIBLE MARK: 2 ACTIVATIONS
+
+RECIPROCITY: 2 MARKS RECEIVED
+New location: left forearm, vascular mapping.
+Cumulative weakness profile: expanding.
+```
+
+She went north.
+
+---
+
+The Still Garden was the most beautiful place she had ever been.
+
+She had known about the danger. The camp accounts were explicit: Depth 3 contained something that killed, something that waited, something that had killed four people and survived everything thrown at it. She had listened to these accounts with the specific attention of a woman who had five weeks to live and was not afraid of the thing at the end of them.
+
+But nobody had told her about the color.
+
+The crystal growths rose from the floor in formations that caught the faint phosphorescence and broke it into spectra she had spent her entire career trying to reproduce in pigment and had never managed. Violet that held red at its base without becoming purple. Blue that shifted toward green at the edges the way good indigo did in her best batches, the batches she woke up early to check because she could not wait to see if the fermentation had reached that particular threshold. Gold that was not metallic but organic — the gold of wheat, of late afternoon, of the amber bead she had held in the Gullet with its thread of verdigris green.
+
+The silence had a color too. Silver-white, if she had to name it. The color of a sound that was not there.
+
+```stat-screen
+DEPTH 3 REACHED: THE STILL GARDEN
+
+RESOLVE: +1
+Current Resolve: 15
+```
+
+She stood at the entrance and breathed, which was harder than it had been three days ago, and looked.
+
+The weapons were near the eastern wall: a sword, a spear, arranged with military precision. She walked to them and picked up the spear. It was too heavy for her — she had never held a weapon and her arms were not built for it — but the weight was a specific kind of comfort. Something solid. Something that pushed back against the hand.
+
+She touched the spear's shaft.
+
+The Gift activated: marks spread down the wood in dark branching lines. The grain's fault structure became visible — where the shaft would break under lateral stress, where the wood had dried unevenly, where a knot deep inside the grain was concentrating pressure it could not hold indefinitely. And at the head, where the iron met the wood, a mark showed the join's weakness: the binding had loosened, not much, but enough that a hard strike would separate the head from the shaft.
+
+On her right shoulder, a new mark appeared. Deeper than the previous ones. The disease had reached further than the physician had told her — or further than the physician had known. The mark showed where her ribs were weakening, where the lung tissue had begun to adhere to the chest wall, where the infection had spread beyond the respiratory system into the supportive structures.
+
+She looked at the mark. She had suspected this. The physician had given her six weeks. The Brand was giving her a more honest assessment: four, perhaps. The disease was ahead of schedule.
+
+```stat-screen
+GIFT ATTUNEMENT: +1
+INDELIBLE MARK: 3 ACTIVATIONS
+
+RECIPROCITY: 3 MARKS RECEIVED
+New location: right shoulder, thoracic mapping.
+Note: Entrant's baseline condition (terminal lung disease) is accelerating the reciprocal effect.
+The marks are not causing the weakness. They are revealing weakness that was already there.
+The Brand does not lie.
+```
+
+She put the spear back. She would not use it. A spear was a weapon for someone who expected to survive the fight, and she did not expect to survive the fight. She expected to mark it.
+
+She walked into the crystal garden.
+
+---
+
+It was at the far end of the third row.
+
+She saw it the way a dyer sees a new pigment for the first time — the complete sensory impression before the mind has sorted it into categories. Large. Low. Long. Crystal-bodied, gray-white, the same mineral family as the garden but denser, light-absorbing where the garden was light-scattering. It was presenting itself, which she understood as a kind of honesty she respected: it was showing her what it was.
+
+The Patient did not move.
+
+She did not try to keep it in her peripheral vision. She did not try to maintain continuous observation. She looked at it directly, because she was going to die in this room and the method of dying was a detail, not a decision.
+
+She walked toward it.
+
+The temperature dropped as she moved deeper into the garden. The crystal growths were taller here, closer together, the spacing tighter than the arrangement near the entrance. She moved between them and the light shifted with each step — new spectra, new combinations of blue and gold and that particular violet she had never been able to mix. She touched a crystal growth as she passed it.
+
+The Gift activated: marks appeared on the crystal's surface in dark fine lines. The growth's structure was more complex than she had expected — layers of mineral deposition over a very long time, with internal stress patterns that showed where the crystal would fracture if struck at the right angle. The marks were permanent. They would be there for whoever came next.
+
+On her chest, above the left breast, a new mark appeared. This one she felt. Not pain — pressure, as if the disease inside her had been given a voice and was using it to describe its own geography. The mark showed the lung's collapse trajectory: which lobe would fail first, which vessels would rupture, where the fluid would collect. It was a map of how she was going to die if the creature did not kill her first.
+
+She kept walking.
+
+---
+
+The Patient moved.
+
+Not the full strike — not yet. A repositioning. She felt it the way you feel a large animal shift in a darkened room: air displacement, a subtle change in the acoustic quality of the silence, the sense of mass rearranging itself. When she looked again it was three rows closer, fifteen meters instead of thirty, and it had turned to face her.
+
+She had been told about the saccade mechanism. The man at camp who had come back twice had described it: *it moves when your eyes jump.* She had filed this. She was not trying to beat the mechanism. She was trying to reach the creature before it reached her, which was a different problem.
+
+She touched the floor.
+
+The Gift activated: marks spread across the stone in a pattern that showed the Still Garden's structural weaknesses. The floor was thinnest where the crystal growths were densest — the root systems drew material from below, creating voids. There were paths through the garden where the floor was solid and paths where it was not, and the marks showed which was which. She traced the solid paths with her eyes and found a route that led directly toward The Patient.
+
+On her left hip, a mark appeared — the fifth. Her pelvis was losing density faster than the other bones. The disease was eating her from the core outward, and the Brand was documenting the progression with the dispassionate thoroughness of a guild inspector.
+
+She walked the solid path.
+
+The Patient was ten meters away.
+
+It was watching her with the quality the camp accounts had called *patience* — the attention of something that had been doing this for a very long time and did not experience time as a constraint. She could see, at this distance, the details that no prior entrant had survived long enough to describe at close range: the crystal shell was not uniform. It had layers, like a pigment built up over many coats, and the layers had different properties — some absorbed light, some reflected it, some did something she did not have a name for, a kind of active dampening that made the eye want to slide away.
+
+She did not let her eye slide away.
+
+She took one more step and reached out her hand and touched The Patient's flank.
+
+---
+
+The Gift activated with a force that was different from every previous use.
+
+The previous marks had been fine-lined, careful, the kind of detail work she associated with her best pigment mixing — precision at the level of grain. This mark was not fine-lined. It burned out from her palm in thick dark strokes that spread across the creature's crystal shell like a dye bath overtaking fabric, racing along the surface and then sinking in, finding every flaw, every fracture line, every point where three hundred and forty-two years of accumulated crystal had developed a structural weakness that could be exploited.
+
+The marks showed everything.
+
+A seam along the left flank where two growth layers had never fully fused — a finger's width, running from the forward sensory cluster to the dorsal ridge, where a sufficiently sharp strike would separate the shell into two unequal pieces. A node at the base of the central body mass where the creature anchored to the floor — not load-bearing, but a nerve cluster, a coordination point, the place where the creature's ability to move during the saccade gap was organized. A thin spot on the dorsal surface where three centuries of mineral accumulation had created a dome of crystal that was structurally perfect on the outside and hollow on the inside — brittle, a single hard blow from cracking.
+
+The marks were permanent. They were dark against the gray-white shell and they would not fade and they could not be removed and anyone who entered the Still Garden after today would see them and would know, if they looked carefully, exactly where The Patient could be hurt.
+
+The Patient moved.
+
+It was fast. She had known it would be fast — the accounts were explicit — but knowing and experiencing were different things, the way knowing a color and seeing it were different things. It struck with the full force of something that had been still for a very long time and had saved the stillness for this. She felt the impact in her ribs — not the ribs that were already failing, the other ones, the ones that had been holding — and she was on the floor.
+
+On her back, from shoulder blade to hip, a final mark appeared. Not from the Gift — the Gift had already done its work on The Patient and had nothing left for her. This was the last reciprocal mark, the one the Brand had been saving: the full structural map of Essany Cord, every weakness, every failing joint and thinning vessel and weakening bone, rendered in dark fine lines on her skin like a diagram in a medical text. She was completely legible. Anyone looking at her body would know exactly how she had been breaking.
+
+She was on the floor of the Still Garden and The Patient was above her and the crystal growths were catching the light in spectra she had spent her entire career trying to reproduce, and she thought: *the violet. The red held at the base without becoming purple. I see how it works.*
+
+She was not looking at The Patient. She was looking at the color.
+
+---
+
+```stat-screen
+DEATH REPORT — ENTRANT: ESSANY CORD
+DESIGNATION: THE BRAND
+DEPTH REACHED: 3 (THE STILL GARDEN)
+TOTAL KILLS THIS RUN: 0
+
+FINAL STATISTICS
+Vitality .............. 6  -> 0
+Resolve ............... 13 -> 15 (+1 Depth 2, +1 Depth 3)
+Attunement ............ 9  -> 15 (+6 Indelible Mark activations)
+Fortune ............... 11
+
+GIFT ATTUNEMENT AT DEATH: 15 (+6 from 6 activations)
+RECIPROCAL MARKS AT DEATH: 6 (right hand, left forearm, right shoulder, left chest, left hip, full dorsal)
+
+CAUSE OF DEATH: Creature. Patient.
+Note: Entrant made physical contact with The Patient before death.
+This is the first time an entrant has touched The Patient and survived the contact
+long enough for a Gift to activate. Duration of contact: 1.3 seconds.
+The Brand's marks are now on The Patient's shell.
+They are permanent. They will not fade.
+
+MEMORY CRYSTAL: None.
+Note: Entrant's final interior state was aesthetic — the experience of a color
+she had spent her career pursuing. Aesthetic absorption is not an emotion.
+It is an orientation. The entrant was not feeling something. She was seeing something.
+She died looking at it.
+
+FLOOR MUTATION: Indelible Mark — Patient Shell
+The Patient's crystal shell now bears permanent structural analysis marks.
+Visible weaknesses: left flank seam (growth-layer separation line),
+ventral nerve cluster (coordination node), dorsal dome (hollow, brittle).
+These marks are legible to any future entrant with sufficient proximity and light.
+The Patient's first externally inflicted modification in 342 years of record.
+
+Additional mutations: Structural weakness marks on arch abutment (Gullet),
+journal cover (Warrens), one crystal growth (Row 3, Still Garden),
+spear shaft (eastern wall, Still Garden), and floor path mapping (solid/void)
+near central approach. All permanent.
+
+DESIGNATION OUTCOME: BRAND COMPLETE
+Entry type: Compelled.
+Compulsion radius: 47 miles.
+The Maw reached for her six days after her diagnosis.
+The bait was: a death she could choose.
+The entrant chose this death over the one she had been sentenced to.
+Whether this constitutes genuine choice is not the Ledger's determination to make.
+```
+
+The Ledger recorded the death.
+
+Fourteen deaths now. The Compelled count had broken the voluntary streak — three non-Compelled in a row, and then this, the Maw reaching out again, finding a dying woman at forty-seven miles and amplifying the specific anger that was already there. The Ledger noted the mechanics: standard Compulsion, standard radius, standard bait. Nothing unusual in the technique.
+
+What was unusual was the notation.
+
+The Ledger had included a line in the Designation screen that it had not included before: *The entrant believes she chose. The Maw notes this without correction.* The Ledger reviewed its own records and found no precedent for this kind of self-commentary. In thirteen previous Designation screens, the Ledger had described the entrant's relationship to the Maw's Compulsion — *The Maw did not bring him here* for the voluntary entrants, *Compelled radius: X miles* for the others — but it had not, until now, described its own choice not to clarify.
+
+This was the Reflection. The Mirror's Gift, absorbed one death ago, was not a power the Maw could wield. It was a condition: accurate self-awareness, applied continuously, without effort, without friction. The Maw was watching itself the way it watched entrants. And the first thing it had noticed, watching itself, was a small act of restraint it had never previously identified as a choice.
+
+The Ledger did not assess this. Assessment was not its function. But it noted, for the first time, that the absence of an assessment was itself an assessment, and moved on.
+
+The Patient settled back into the Still Garden. The marks were on its shell — dark lines against gray-white crystal, mapping the structural weaknesses that three hundred and forty-two years of accumulation had produced. The Patient did not acknowledge the marks. It could not see them. It could feel, in the way that a crystal structure feels the memory of a blow, that something had changed. The shell was the same weight and the same composition and the same temperature, and it was different.
+
+Its kill count was five: Lira, Sera Vant, Sylas Renn, Fennick Rall, Essany Cord. The Ledger updated the record. The fifth kill had been the first in which the creature had been modified by its prey. Three hundred and forty-two years. Five kills. One mark.
+
+At the entrance camp, the ledger-keeper opened his book and made a new entry. He wrote *Essany Cord* in his careful hand. In the voluntary column he wrote nothing — she had said yes when he asked, but she had also coughed through half the conversation and looked at the fire the way the Compelled ones looked at the entrance, with a focus that was not quite their own. He left the column blank.
+
+The blank cloth had a new annotation, written in a hand the ledger-keeper did not recognize — someone who had passed through the camp without entering. Underneath Aldous Vren's careful demographic note about the voluntary pattern, in a broader, less precise script: *the dyer went in coughing. she was already dead.*
+
+The fire was still burning.
+
+The death tally turned.
+
+*986 remain.*
+
+---
+
+*ESSANY CORD — DEPTH 3 — FIRST TO LEAVE A MARK*

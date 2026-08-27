@@ -1,0 +1,163 @@
+---
+id: 42c9be2c-1019-5996-b864-b520f7735a8d
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch25: Skill Grind (1)"
+slug: 0032-b6-ch25-skill-grind-1
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 32
+ownLength: 1946
+unit: words
+ownProgress: 1946
+publishedAt: 2026-02-10
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3034129/b6-ch25-skill-grind-1"
+royalRoadId: "3034129"
+removedAt: "2026-07-03T13:48:01.083Z"
+---
+
+Brixaby stepped through the portal into the pocket space, looked around, and flicked his tongue out in displeasure. “Why are there not any buildings?”
+
+Arthur, following behind, took his own look around. The sky was blue and clear, the temperature not too hot or too cold, and there were several flat areas nearby bracketed by gently rolling hills.
+
+Hale had explained that each dimensional pocket space had its boundaries, and naturally, the ones created with Legendary-level shards were much larger than the rest. The spaces created with Common shards were only as big as a couple of blocks within a city.
+
+“There aren’t any buildings because this is a fresh dimensional space,” Arthur told his dragon. “We’ll have to sleep outside, but it’s not like there’s any weather, bugs, or animals,” he added, “that’s why we brought our own food.”
+
+“If there is not any weather then how do other humans use these to grow their crops?” Brixaby grouched.
+
+In answer, Arthur pointed to a nearby stream. “Hale said there was a certain amount of water in every dimensional space. They don’t create deserts, just land like this. I assume they use some kind of irrigation.” He looked around and took a deep lungful of fresh air. “There’s no predators, parasites, and even no weeds... just empty land at the perfect growing temperature.”
+
+As he spoke, the portal closed behind them. They were alone.
+
+Brixaby looked around, snorted, then moved about twenty feet to the left to a flattish area and withdrew the huge furnace he’d had custom made. It landed with a thud and a puff of dust.
+
+Arthur took a few steps back. “How did you fit all that in your Personal Space?”
+
+“I nearly didn’t.” Brixaby used a claw to open one of several doors on the furnace—Arthur supposed there were official names for them, but he didn’t know too much about blacksmithing. It was Brixaby’s thing.
+
+Then the dragon started withdrawing ingots and tools as well as enchanting books. “I had to be creative with my packing,” he said smugly. He started arranging all his goodies in an order that made sense to him, muttering to himself.
+
+Arthur left him to it.
+
+Turning, he looked back at the place the portal had been. Cressida had stood right on the other side. Time would be moving fast for her. He would be gone only ten hours to her, but just under two months for himself.
+
+Arthur shook his head and forced himself not to dwell on that. He had to focus.
+
+With that in mind, he withdrew a long, sturdy wooden table from his own Personal Space, as well as a matching chair. This would be his workspace... at least until Brixaby got the furnace going and the smoke drove him to put the table somewhere else.
+
+He’d also packed a tent, blankets and pillows for sleeping, and enough food to feed both of them for double the time he planned to be here, just in case.
+
+Sitting at the table, he considered his next steps.
+
+There were almost too many things he wanted to focus on. He’d only scratched the surface of what his Master of Body Enhancement card could do. Right now, he used it to—well, enhance—his existing skills when in reality it could provide many all by itself. He could use his cooking class to create additional physical and mental boosts at the right time and even had ideas to get the card to allow him to heal faster without the aid of another card.
+
+He also had a lot more exploration to do with his Master of Skills card. There were so many skills he wanted to advance! He had the idea to combine skills as well, like he had done with his Knifework skill in his Cooking class. If he could give his telepathic blocking skills a magical aspect as well... he’d never have to worry about the Mind Singer again.
+
+Too bad he couldn’t think of a way to train that skill without subjecting his mind to attack.
+
+Two months seemed to be so long, but in reality, it was much too short.
+
+He couldn’t focus on it all, so in the end, he decided he needed to buckle down on his Master of Cards, the card trio (Card Repair, Card Sympathy and Card Shard Insight), as well as his Card Smithing class.
+
+Arthur already had a short amount of time to work on his Card Smithing skills right before he left New Houston, but that had fallen by the wayside when he had to infiltrate Blood Moon hive. Now he had the opportunity to make up for lost time.
+
+But how? Work on enhancing his existing cards?
+
+I need to have a solid foundation before I alter my own cards, he thought. Start small.
+
+With that in mind, he pulled his supply of Common shards out of his Personal Space.
+
+The Common shards seemed big and clumsy compared to the elegant slivers that had been the Legendary shards. To his surprise, he could vaguely feel the amount of magic bound up with them.
+
+The Commons were like a shallow puddle compared to the ocean that were the Legendaries. They also felt unexpectedly fragile. As if he left them for too long, that puddle would dry up in the sun.
+
+That probably wasn’t wrong, considering that Common cards not in a heart deck or a card anchor had to be maintained much more rigorously than the higher-ranked cards. Else, they would degrade and go rotten.
+
+Arthur started arranging the shards on the table, then placed them in rough order to build himself a new card.
+
+Soon, however, he stopped. Something didn’t feel right.
+
+Breaking the half-done card, he started to arrange the pieces in a whole new way. He even swapped the corners around so they sat at different points. Though he couldn’t say why this suddenly felt right when the previous configuration hadn't.
+
+Whenever he gained new levels in his skills, it was as if his Master of Skills card whispered new bits of wisdom in his ear. He was so used to it by now that he hardly noticed it any longer. This had been happening since he accepted the card at twelve years old. By now, he just accepted it as a fact of reality.
+
+Now, though, he felt like both his Master of Skills and Master of Cards were whispering something that he was just out of range to hear. Quieting his mind, he sank into his Meditation skill. His fingers arranged the pieces, it seemed, without him exactly knowing why.
+
+Suddenly, a new thought bloomed in his mind. He couldn’t tell if it came from himself, one of his cards, or even his Card Smithing class.
+
+‘What do I want this card to be?’
+
+He didn’t really care. It was a Common and would very likely never be part of his permanent set. Only a tool to use for experimentation.
+
+Then he thought of Brixaby’s mild annoyance that there was no ready-built shelter in the pocket dimension.
+
+“I need something to help me build a shelter. Perhaps something with an earth base...” he muttered.
+
+That thought cemented itself into place, and he realized that if that was his actual intent, he had the order of the shards all wrong.
+
+Arthur broke them apart again and started to re-piece them back together, this time building from the four corners inward. Even though each was a wildly different shape, and he had gone through three different configurations, they all fit together like a perfectly cut jigsaw puzzle.
+
+As he worked, he fell into half a trance. So, it was almost a shock when he slid the last piece into place. Every connected shard flashed into brilliant light.
+
+“That is much attention for a mere Common,” Brixaby said. The dragon’s head was just above him, the tip of his muzzle almost touching Arthur’s forehead.
+
+Arthur almost fell out of his chair in surprise. Brixaby snorted a gust of warm, moist air on him in amusement.
+
+Irritated, he went to push the muzzle away, but Brixaby’s neck was so strong that his head didn’t even budge.
+
+“How long have you been hovering like that?” Arthur demanded.
+
+“Nearly twenty minutes, but you have been working for hours.”
+
+“What? I have?” That couldn’t be right. It had felt to him like perhaps fifteen minutes in total. Then again, his sense of time wasn’t accurate right now.
+
+Arthur glanced around and saw the shadows cast on the ground had moved and lengthened considerably. In fact, the hourglass in the sky that was the sun was on the verge of setting.
+
+Brixaby’s equipment was nearby, completely set up. A massive amount of metal bars and tools were all arranged in perfect order. The top of the furnace was faintly smoking.
+
+Before he could fully take in how much time had passed—and how irritatingly neat his dragon naturally was—the card shards locked into place. That pulled his attention back down, and he saw and felt with his Master of Cards how all the shards merged and formed, each separate piece adding its own bit of power.
+
+A magical construct that was a new card was formed into the world.
+
+Grown From The Earth
+
+Earth
+
+Common
+
+Using a high amount of mana, the wielder of this card will be able to raise structures from the earth itself. Depending on mana usage, the building may be made of local stone, compacted soil of various materials, and clay. This card cannot create any new materials, the wielder must be able to use what is already available within their local area. Depending on mana availability, the wielder may cast this card numerous times to increase the size of the earthen structure. This card does not unlock mana.
+
+New Skill level gained: Card Intuition (Card Smith class)
+
+Level: 19
+
+New Skill level gained: Card Manipulation (Card Smith class)
+
+Level: 15
+
+“Wow,” Arthur breathed. “I’d always been taught that making new cards from shards was random, but I’d wondered... I did this, Brixaby. It’s almost exactly what I wanted.”
+
+His dragon snorted, “Yes, yes. You spent an entire day to create a Common. Well done.”
+
+“It’s progress,” Arthur said, “And now you won’t have to sleep without a roof over your head.”
+
+That seemed to please him. “I suppose that is all well and good.” His tongue flicked out. “Still, we have other matters to attend to.”
+
+Arthur blinked. “What?”
+
+“I have grown yet again, and you must become used to my new magnificent self in the air.”
+
+Arthur looked around deliberately. “I know we used Legendary shards to build this place, but it doesn’t mean there’s a lot of room to fly.”
+
+“That makes it all the more challenging!” He lowered his head and spoke in a more urgent voice. “As a Purple, my flying skills ought to be second to none, and you must keep up with me.”
+
+Ah. Brixaby was worried about keeping up with the other Purples. But... he wasn’t wrong.
+
+Now he wasn’t focused on the card, Arthur realized he was stiff from sitting. He’d only packed that basic wooden chair.
+
+Besides, the new card would be there for him to use when he needed it. It wasn’t like there wasn’t anyone to take it. Not even any wind to blow it off the table.
+
+This day had been a good start.
+
+Nodding, he stood and walked over to get on Brixaby, as usual foregoing a dragon saddle.
+
+Above them, the hourglass sun set, and the hourglass moon rose to the east, with just a little less sand in it than before.

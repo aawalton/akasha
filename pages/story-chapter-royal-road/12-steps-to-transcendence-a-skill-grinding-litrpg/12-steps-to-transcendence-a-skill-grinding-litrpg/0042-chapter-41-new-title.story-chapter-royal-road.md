@@ -1,0 +1,217 @@
+---
+id: 9ba898d9-5884-572c-8fb8-d448e08bcd41
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41: New Title"
+slug: 0042-chapter-41-new-title
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 42
+ownLength: 1938
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3858110/chapter-41-new-title"
+royalRoadId: "3858110"
+---
+
+Waiting and waiting, Ben kept his eyes glued to the empty trees, but the stupid monkey never made a move. Sighing heavily, he just let the [Mana Cannon] disperse safely into the air.
+
+He definitely didn't need to blow his own arm off by accident.
+
+Dropping down against a thick root, he immediately flooded his body with mana. He pushed all of it straight into his [Regeneration] skill to finally start healing his battered skin.
+
+All the while, [Mana Sonar] kept pinging constantly in the background.
+
+Catching a tiny distortion in the air, he instantly knew the monkey was making its move.
+
+Gotcha.
+
+He slammed his good arm forward the second the blur entered his range. Grabbing the invisible beast right by its scrawny neck, he squeezed tight.
+
+The monkey shrieked loudly and slammed its dagger right into his forearm.
+
+Fuck!
+
+Pain flooded his system as [Focus] was entirely working on [Mana Cannon] to load it up quickly. Ignoring the searing pain, Ben just clamped down even harder.
+
+And as the monkey thrashed wildly in his grip, mana ripped out of him.
+
+[Mana Cannon].
+
+Blasting the point blank shot right through the monkey's skull, he completely vaporized the top half of its head. Blood and gore splattered over his arm and face and much of his chest.
+
+[Mana Cannon Lvl 1 > Lvl 3]
+
+[Tier 2 Shadow Monkey slain. Essence gained. Title usurped.]
+
+Dropping the headless corpse, Ben wiped the blood and brain matter off his face.
+
+It was absolutely everywhere. So disgusting. [Focus] calmed his nerves, and he stared at the floating text.
+
+…wait, a Tier 2?
+
+Since when did he get strong enough to just casually grab a Tier 2 monster by the neck? Or maybe this was just a really weak Tier 2 beast? But this was supposed to be a Tier 1 rift!
+
+Why the hell were there Tier 2 monsters just roaming around? Did a Tier 1 rift have stronger beasts than he assumed? If the normal mobs were Tier 2, then what about the actual guardian boss monster?
+
+Was it going to be a Tier 3?
+
+That would seriously suck.
+
+Rubbing his temples, Ben felt completely confused by the whole setup. And checking the notifications again, he noticed the usurped title.
+
+He remembered getting the [Hunter] title from a monster back in the day, which let him gauge an opponent's worth.
+
+So what exactly was he supposed to get from an invisible assassin monkey?
+
+Hopefully something that actually helps me stay alive.
+
+Opening his status menu, he finally checked the details.
+
+Titles:
+
+From what the system put into his brain regarding this title, it would passively obscure his presence in shadows, making him naturally harder to notice.
+
+Well, that was actually incredibly useful. He definitely wasn't going to complain about being harder to spot in this forest.
+
+Looking at the (1/100) next to [Lurker], however, he was confused. What did that mean? And why did [Hunter] not have it? Was it because [Hunter] was Unique, whatever that meant?
+
+All this made him wonder, just what exactly were Titles? This one had an ability of its own too much like [Hunter] did. An effect, if you would. It was pretty interesting and made him curious.
+
+Actually, do I need the Title equipped for its effect to work?
+
+Ben had no idea.
+
+Well, I guess I'll wait and see.
+
+He was unsure if switching [Hunter] with [Lurker] was a good idea, even if [Hunter] had been a bit useless in the rift so far. Still, he'd keep an eye on his Titles to see if anything changed.
+
+Dismissing the floating text, he let out a long breath, finally having some time to relax. But he still kept his [Focus] on [Mana Sonar] and [Hunter] just in case. Even if they'd been rather useless for detecting this monkey, that didn't have to be the case for everything else.
+
+He hoped.
+
+Using [Regeneration] to heal himself as he explored, he eventually found a small river nearby and immediately stripped off his clothes to wash them.
+
+They were bloody and dirty as fuck.
+
+I need me some kind of 'keeps your clothes clean' Title.
+
+Now wouldn't that be a wonderful Title to have? Scrubbing the fabric against the rocks, he noticed his wounds were already looking a lot better.
+
+The healing worked incredibly well, but it was just really, really slow.
+
+Waiting as his clothes dried he patched himself up with [Regeneration] and checked the notification he'd gotten while he healed himself.
+
+[Regeneration Lvl 5 > Lvl 6]
+
+So yeah, that was definitely nice.
+
+Checking on his clothes, he found they hadn't fully dried yet, so he quickly threw together a small fire and dried them over the flames until it was at least wearable again.
+
+Tossing his pants and shirt back on, he decided it was finally time to explore some more. Thankfully nothing bothered him while he healed and washed up. At least, nothing entered his [Mana Sonar]'s range, but he wasn't counting on that as it'd proved to be quite unreliable once already.
+
+He wouldn't be shocked if it happened again.
+
+Wandering deeper into the forest, or what he thought was deeper into the forest given that he had no idea where he was and also didn't have a sense of direction in this place, Ben actively looked around to see what else was up with this forest.
+
+There was nothing much in this forest, or rift in general. But scouting ahead through the ferns, he eventually managed to spot another monkey. But this one didn't seem to be invisible or running around like a hyperactive freak.
+
+It was just sitting there, totally oblivious as it ate some dead beast at its feet.
+
+Is that… a big beetle?
+
+Ben made a disgusted face. Deciding to test his luck, Ben tried to sneak past its line of sight to get a surprise attack in, using the ferns to hide himself. Reaching into his belt, he grabbed the dagger he'd looted from the first monkey earlier.
+
+It was actually a pretty good dagger. It seemed to be made out of some kind of weird bone-like material. And despite being a bit dirty, it looked pretty nice.
+
+Sneaking behind the monkey, he readied himself. Activating his skill, he burst forward in an absolute instant as fire violently exploded from his feet with [Fire Burst].
+
+Slamming into the creature, he drove the bone dagger straight into the monkey's neck from the side. The beast shrieked loudly, but its shriek was abruptly cut out by a wet gurgle as Ben ripped the dagger out through the front.
+
+Tearing through flesh, he completely severed its windpipe and everything else in the way.
+
+Hitting the dirt, the monkey fell over, twitching and crying as it died.
+
+[Tier 1 Monkey slain. Essence gained.]
+
+Reading the new notification, Ben just smiled.
+
+Well that was easy!
+
+Doing the exact same thing a few more times, he managed to effortlessly kill a handful of other monkeys around the area. Though they were just simple monkeys, and not the shadow ones.
+
+Wiping monkey blood off his new dagger, he looked through his notifications and found out that all of these guys were just simple Tier 1 mobs.
+
+So was that first one he killed just special? He was honestly just curious about that. Like, what was so special about it? Why was it a Tier 2, and why did it take so damn long to kill it?
+
+Not to mention, how was it so insanely fast compared to these regular ones?
+
+And what was it doing near him, onto him so fast just as he entered the rift? Were rifts just structured like that?
+
+Wondering to himself, he thought about whether he'd get another cool Title if he found and killed another one of those special invisible shadow monkeys.
+
+Well, only time will tell.
+
+Thinking of Titles, he decided to bring up his Title menu again just to check.
+
+Titles:
+
+Scanning the text, his eyes immediately caught on the bottom line. Staring at it, Ben stopped walking entirely.
+
+His unequipped Title had randomly gone up from one to three out of a hundred.
+
+...What?
+
+Had he used it? Were those numbers meant to show progress?
+
+So what was Equipping for, then?
+
+So many questions, and he had no answers. Such a shame. Deciding to test his luck a bit more, Ben kept his [Mana Sonar] pulsing out in steady waves to detect more beasts. It honestly gave him a mild headache given how long he spread his awareness using it.
+
+Catching three distinct pings up ahead, he immediately slowed his pace to a crawl.
+
+More monkeys, it seemed like.
+
+Dropping down low, he crept through the ferns. He really didn't want to alert another shadow freak if one happened to be hiding in the group. Peeking through the broad leaves, he spotted three regular, dumb-looking monkeys scratching themselves.
+
+Just regular Tier 1s again?
+
+Gripping his bone dagger tightly, he almost triggered [Fire Burst] to end them quickly, but stopping himself at the last second, a completely different idea popped into his head.
+
+What if he just... didn't kill them right away?
+
+Remembering the weird notification from his Title menu, he wanted to test a crazy theory. Moving at a painfully slow pace, Ben began to circle around them.
+
+He deliberately stayed in the darkest patches of shade, and the monkeys just kept picking bugs off each other, totally oblivious to his presence.
+
+Okay, so far so good.
+
+Taking a deep breath, he actually stepped out slightly from behind a thick tree and positioned himself directly in the peripheral vision of the closest monkey, completely relying on the shadows to hide him.
+
+This is so stupid.
+
+If they noticed him, he'd just have to blast them to pieces and move on.
+
+But the monkey just blinked its beady little eyes, and went right back to chewing on a dead beetle. It seriously couldn't see him at all. And when he checked, sure enough, the number had moved again.
+
+[Lurker (4/100)]
+
+Score!
+
+Grinning like an idiot, Ben took another calculated step into an even shallower patch of shade and practically waved his free hand around, pushing his luck as far as it could reasonably go.
+
+The monkeys chattered loudly at each other, but one of them seemed to have noticed something. Its eye flicked in his direction, but slipped over him and fell on the shaking ferns. It was still completely oblivious.
+
+[Lurker (5/100)]
+
+Retreating slowly back into the thicker ferns, he let out a massive sigh of relief. He didn't want to push it too far and end up with three monkeys clawing his face off.
+
+Putting some serious distance between himself and the monkeys, he sat down on a mossy log to think.
+
+Opening his status menu again, he stared directly at the Title section in pure confusion. He honestly couldn't wrap his head around how this system decided to reward him.
+
+So the numbers were definitely an experience bar, of sorts, or some kind of milestone tracker. But he didn't even have [Lurker] equipped right now!
+
+Does the effect really work passively in the background?
+
+If so, that meant Equipping Titles was for something else entirely, and since he'd only had one Title before, it'd been automatically Equipped. Deciding to quickly test out his theory, Ben equipped [Lurker] and went back to the monkeys.
+
+Sure enough, they couldn't spot him so long as he stayed a bit hidden in the shadows. And [Hunter] still worked when he focused on them, deeming them weak and unworthy.

@@ -1,0 +1,23 @@
+---
+id: bcc7f1f6-34fe-5e51-9a54-b19695a1f377
+page-type-slug: story-chapter-royal-road
+title: "Merry Christmas and Happy Holidays! + Small Update"
+slug: 0033-merry-christmas-and-happy-holidays-small-update
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 33
+ownLength: 284
+unit: words
+publishedAt: 2023-12-26
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1455469/merry-christmas-and-happy-holidays-small-update"
+royalRoadId: "1455469"
+---
+
+Today, I woke up sick for Christmas lmao. So sorry for the tiny bit late of an update. But as you all have noticed, Amelia hasn't been posting on RoyalRoad at all, however it has been posting on Patreon, and that's because I've been adding back to the reward chapters again. Currently, we're up to 21 chapters ahead, but we should be at 25 chapters ahead by January. And that means Amelia will resume its public release on RoyalRoad starting the new year! Hope you guys are as excited for chapters to resume as I am :)
+
+Art was commissioned by my good friend Azrie. Check out her novels here: Amazon.com: Azrie: books, biography, latest update
+
+And preorder her upcoming book about an OP MC inspired by Amelia, Arc, here: Amazon.com: Arc the SS Tier Heroine Book 1: An OP MC Isekai LitRPG eBook : Azrie: Kindle Store
+
+Also, this December officially marked my fourth year since I started writing for the first time. That is the length of a full bachelor's degree in University, so it's quite surreal to me to realize that. In total, I have written just under 3,500,000 words across all my stories, which is quite a decent amount. I also finally had my Salvos comic launch this year after years of working on it, and I have an Amelia comic coming out soon. But most of all, I think I've finally settled into a good work-life balance where I'm no longer no-lifing chapters like I used to back in 2022 or 2021, so I'm quite happy with what I've accomplished so far.
+
+As always, thank you all for reading, and I hope you guys have a wonderful new year.

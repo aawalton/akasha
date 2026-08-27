@@ -1,0 +1,51 @@
+---
+id: bb3f159f-ac6d-5791-bed0-f45748713cae
+page-type-slug: story-chapter-royal-road
+title: "Fanart and Maps!"
+slug: 0181-fanart-and-maps
+partOf: arkendrithyst
+position: 181
+ownLength: 137
+unit: words
+ownProgress: 137
+publishedAt: 2021-02-22
+link: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/635597/fanart-and-maps"
+royalRoadId: "635597"
+markedReadAt: "2026-06-29T22:13:01.861Z"
+---
+
+FANART! WOOOOOO!!!
+
+Spoilers for End of Book 2:
+
+A battle between Ophiels, the Daydropper Queen, and Archmage Tenebrae's floating castle !
+
+By henodus2. My very first fanart! https://www.deviantart.com/henodus2/art/Cloud-Castle-X-Daydropper2-846305195
+
+A remake of the cover, by Joan_Ninja_Hen of https://www.royalroad.com/fiction/26135/auntie-toasts-the-vrmmorpg !
+
+Erick, as of chapter 120! (Spoilers, obviously)
+
+From a patron who has yet to tell me how they want to be credited!
+
+ALSO FROM henodus2!!! https://www.deviantart.com/henodus2
+
+Jane, as of chapter 62! (Again, spoilers)
+
+From the same person as before!
+
+Erick and Ophiel! A 3D model, by BananaInMyPants! Thank you!
+
+The Headmaster, Kirginatharp, Second to Rozeta! Another awesome artwork by henodus2!
+
+Erick and (3) Ophiel! Thank you so much!By TobinKusuma https://www.royalroad.com/profile/221176
+
+Maps! (Spoilers, obviously)
+
+The world, Veird:
+
+The continent, Glaquin:
+
+The city, Ar'Kendrithyst:
+
+And now! A new cover by Asviloka! They write books! Look here: https://www.royalroad.com/profile/108594/fictions THANK YOU SO MUCH!

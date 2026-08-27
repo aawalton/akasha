@@ -1,0 +1,330 @@
+---
+id: 22ecb5ae-c4d4-5acd-a79e-6b4040f3b4a2
+page-type-slug: story-chapter-played
+title: "What Grows Here"
+slug: 0020-what-grows-here
+partOf: the-places-she-carries
+position: 20
+ownLength: 3438
+unit: words
+---
+
+One.
+
+Day 37 began with the stone singing.
+
+Not the compressed greeting of the precursor days, the thirty seconds shaved to eighteen and then to nothing. The full voice. The crystal lattice expanding with the dawn temperature, the mineral structure vibrating at the frequency Wren had learned to feel as the stone's name for morning. Thirty seconds of thermal song, uninterrupted, the substrate clear and open the way a valley is open after fog lifts.
+
+She sat with her palms on the limestone and let the vibration run its course. The bond network was quiet -- not the taut quiet of precursor days but the settled quiet of a system at rest. The triad's relay hummed beneath her awareness, the three nodes exchanging their steady signal: [Enduring], [Tended], [Kept]. The ghost-elms' shimmer was wide, the bark-light extending past its pre-pulse radius, the trees still radiating the energy the holding had poured into the substrate.
+
+One. The margin column counting up.
+
+She opened her journal and wrote for three pages without stopping.
+
+Survey the gap's new boundary. Map the retreated strip -- what was there, what condition, what grew. Check the threshold stone's enhanced signal against the pre-pulse baseline. Document the ghost-elms' expanded shimmer radius. Return to Hearthstone for a comparative reading of the central foundation. Calculate the bond-at-distance range at post-pulse signal strength. Revisit the prayer-notch and the healer's house to see if the triad nodes had shifted. Plant the ghost-elm seedpods -- Maret's grandmother had germinated fifty, forty-three survived, and the seedpods needed limestone soil, dressed-stone shade, clean water. All three were here. The southwestern boundary was the strategic planting site but the seedpods should be distributed, not clustered. And Brecca's third pass needed documenting -- the joints she was pressing were holding differently, a quality Wren could feel through the substrate when she walked past the gathering hall, a steadiness that had not been there before Hearthstone.
+
+She stopped writing. Three pages. Fourteen items. A schedule that would fill the next eighteen days if she worked every daylight hour.
+
+Her mother's voice, from the letter that was still in her journal three pages back: *I hope you let them need you without turning it into a project.*
+
+She closed the journal on the list.
+
+---
+
+Breakfast was flatbread and the last of Hadley's dried apple. He had been making supply calculations for two days, quietly, the way Hadley was quiet only when the numbers were not good.
+
+"We have ten days at current consumption," he said. "Fourteen if I forage. Twenty if I forage and walk to the basin cache."
+
+"The basin cache is a three-day round trip," Theron said.
+
+"Two if I take the ridgeline." Hadley was already mapping it, his hands drawing the route in the air, the trail appearing in gesture the way trails appeared on paper. "I know the path. I have walked it forty times."
+
+"Not alone," Theron said.
+
+"I have walked it alone thirty of those times." He looked at the provisions. "I will leave tomorrow if Maret's planting is done today."
+
+Wren listened. The supply problem was real. Five people consumed more than two, and the settlement had been provisioned for Wren and Theron and occasional Hadley. Maret had brought food for three days. She had been here five.
+
+"After the planting," Maret said. She was holding the ghost-elm seedpods in her lap, the small dark pods resting in a cloth she had carried from the Rim. "Plant first. Eat later."
+
+Hadley looked at her. "That is not how provisioning works."
+
+"That is exactly how provisioning works." Maret touched a seedpod. "My grandmother planted during a famine. She said you plant when the ground is ready, not when the pantry is full. The ground does not wait for you to be comfortable."
+
+Hadley opened his mouth, closed it, and began calculating again. Wren saw the moment when the logistics yielded to the sixty-three-year-old woman holding seeds in her lap as if they were already trees.
+
+---
+
+The gap's new boundary was visible.
+
+Not dramatically -- not a line in the earth, not a scar. But the strip where the corruption had retreated was different from the ground on either side. The corrupted soil to the south was grey and compacted, the organic matter stripped by years of resonance distortion. The healthy ground to the north was dark and layered, the leaf litter and root systems doing the slow work of soil-building. Between them: a band of earth that was neither.
+
+Wren knelt at the edge. Through the bond she could feel it -- the absence of the corruption's signal where the signal had been, the substrate vibrating at the threshold stone's frequency where yesterday it had been occupied. The ground was not corrupt. But it was not well. It had the texture of something recently released -- tight, leached, waiting.
+
+She pressed her palm flat and closed her eyes.
+
+The substrate here had been under corruption for years. The limestone bedrock was intact -- stone did not die the way soil died -- but the upper layers were stripped. No mycorrhizal network. No root system. No moisture-retention structure. The ghost-elms' shimmer reached the strip's edge but did not extend into it. The ward-line's resonance, which had held the corruption at seven degrees for twenty-six days, now held at six -- and the released strip lay between the old boundary and the new, unprotected by either the stone's signature or the corruption's claim.
+
+She pulled out her journal and opened it to a fresh page -- past the three-page list she had closed on this morning.
+
+*Day 37. Gap boundary survey. Retreated strip: approximately 3 meters wide at widest point, southwestern arc. Soil condition: leached, compacted, low organic matter. No root penetration. No mycorrhizal activity detectable through bond signal. Limestone bedrock intact. Ghost-elm shimmer does not extend into strip. Substrate resonance: present but faint -- threshold stone's frequency, attenuated by distance and soil degradation.*
+
+*The ground is not corrupt. It is empty.*
+
+She sat with that for a moment. Empty ground. Ground that had been held by something possessive for years and was now held by nothing. Not freed -- vacated. The corruption had not left because it chose to. It had been pushed back by the holding's resonance, by five people standing at a stone before dawn. And now this strip of earth was waiting to see what would claim it next.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY
+  Varethen -- Corruption Retreat Zone
+-------------------------------------------------------------
+
+  Geological / Ecological: The gap's one-degree retreat
+  has exposed a band of formerly corrupted soil.
+  Substrate resonance present but degraded. Soil
+  structure viable for recovery but requires biological
+  reintroduction -- root systems, organic matter,
+  moisture retention. The retreat zone is unclaimed
+  territory: neither the corruption's possessive imprint
+  nor the settlement's protective resonance currently
+  holds it.
+
+  +58 XP
+  +2 Surveying proficiency
+
+  Cumulative XP: 1999 / 2573 (Level 6)
+  Surveying: 69 (Journeyman)
+
+-------------------------------------------------------------
+```
+
+She let the notification settle. Fifty-eight points for kneeling in damaged dirt. The System valued the observation, not the drama.
+
+---
+
+Theron was already south of the tree line when she found him.
+
+He was standing in the drainage channel's extension -- the section he had been clearing since Day 28, the buried stonework emerging from the earth in segments as he worked southward. But he was not clearing. He was standing still, his trowel at his side, looking at something in the ground.
+
+"Theron?"
+
+"Come look at this."
+
+She climbed down into the channel. The stone lining continued here, dressed blocks set in the same mortared pattern as the settlement's retaining walls, the same hands or the same tradition. But the channel curved. She had assumed it ran straight south -- all of Theron's clearing had followed a straight line. Here, at the edge of the newly uncorrupted strip, the channel bent east.
+
+And met another channel.
+
+The junction was buried under a decade of leaf-fall and compacted soil, but the stonework was unmistakable. Two channels meeting at a dressed-stone junction box -- a distribution point, the kind of thing you built when you needed water to go in more than one direction. The eastern channel ran under the uncorrupted strip and disappeared into the corrupted soil beyond.
+
+"I did not know this was here," Theron said. His voice was careful. The voice of a man whose inherited knowledge had just expanded. "My father cleared the main channel every spring. He never went this far south."
+
+"Because this was in the gap."
+
+"Because this was in the gap." Theron knelt beside the junction. His hand found the dressed stone, the mortar, the familiar weight of his grandmother's tradition beneath his fingers. "The channel goes east. Into the corrupted ground. Wherever it was going, whatever it was feeding -- the corruption took it."
+
+"Until yesterday."
+
+Theron looked at her. "The strip. The retreated ground."
+
+"The junction is in the retreated strip. One more degree of retreat and the eastern channel might clear entirely."
+
+Theron was quiet for a long time. He touched the junction stone. The automatic gesture, the man whose hands needed stone when his mind needed to think. But this time the gesture carried something Wren had not seen in him before: the look of a man who had found a piece of his family's work that even his family had forgotten.
+
+"My grandmother never mentioned a junction," he said. "She knew the main channel. She cleared it every spring. She never said it branched."
+
+"Maybe she did not know."
+
+"Or maybe she knew and did not say. Because what was the point of knowing about a branch that went into dead ground?" Theron stood up. His face was quiet and full. "We will clear it," he said. "When the strip is stable. We will find where it goes."
+
+---
+
+Brecca was on her fourth pass of the gathering hall.
+
+Wren had felt it through the substrate all morning -- a steadiness in the dressed stone that had not been there a week ago. Not the threshold stone's deep geological patience. Something warmer. Something that had the quality of hands.
+
+She found Brecca at the north wall, pressing a joint with her thumb. The clay was wet, mixed that morning from the stream's grey limestone wash. Brecca applied it the way she applied everything: with her full weight behind it, her body angled into the wall, her attention entirely on the place where her thumb met the stone.
+
+"Brecca."
+
+"Mmm."
+
+"Can I try something on the wall?"
+
+Brecca stepped back. Her hands were clay-grey to the wrists, her sleeves pushed above her elbows, her face carrying the focused absence of someone who had been working for hours and had not yet returned to conversation.
+
+Wren placed her fingertips against the joint Brecca had just pressed. She closed her eyes and felt the bond's signal run through the substrate, through the retaining wall's dressed stone, through Brecca's fresh joint. Then she engaged Detail Notation.
+
+The mark sank in.
+
+Not into the surface -- past it. The way it had sunk into the threshold stone's [Foundation Stone] signature, merging with the named presence, giving the stone a vocabulary it had not possessed. But the threshold stone's signature was geological: four thousand years of mineral identity. This was different. The mark sank into something that was not geological at all. Something warm. Something intentional. Something that had the quality of a person's full attention pressed into clay and stone over and over until the stone began to hold the attention back.
+
+Wren opened her eyes.
+
+"Brecca," she said. Her voice sounded odd to her. "You are not repointing."
+
+Brecca looked at her. "What?"
+
+"The joints. What you are doing to them. It is not repointing." Wren pressed her fingers harder against the stone. The Detail Notation mark was still sinking, still merging, still finding depth where depth should not have been. "The stone is holding your attention. The way the threshold stone holds the bond. You are pressing intention into the joints, and the joints are keeping it."
+
+"I am pressing clay into joints," Brecca said. "That is what repointing is."
+
+"Not like this." Wren pulled her hand back. The mark had settled. She could feel it through the bond -- a small, warm signature nested in the retaining wall's dressed stone, layered into Brecca's joint work, holding its shape the way the [Foundation Stone] signature held its shape. Not the same scale. Not the same age. But the same quality. "The stone is listening to you. And you are listening back."
+
+Brecca stared at her. Then she looked at her hands. The clay-grey fingers, the calluses from three weeks of pressing stone.
+
+Wren felt it through the bond -- a settling in the substrate, the dressed stone around Brecca's joints shifting from passive material to something held. The retaining wall recognized what was happening before the System did.
+
+And the notification arrived.
+
+```stat-screen
+-------------------------------------------------------------
+  CLASS MANIFESTATION
+  Brecca Vane
+-------------------------------------------------------------
+
+  The System has observed sustained, intentional material
+  engagement exceeding existing class parameters.
+
+  Class assigned: [Stonekeeper]
+
+  This class has no prior holders on record.
+
+  The Stonekeeper attends to the relationship between
+  intention and material. Where the Mason shapes stone
+  to purpose and the Builder raises structure from plan,
+  the Stonekeeper listens to what the stone already
+  holds and presses care into what it will become.
+
+  Starting abilities:
+    [Stone Listening]   -- Passive. Perceive structural
+      intention in worked stone. Range: touch.
+    [Pressed Intention] -- Active. Imbue worked joints
+      with durability proportional to the attention
+      invested. Duration: permanent while maintained.
+
+  Starting stats:
+    VIT 10 | END 10 | DEX 9 | ADP 9
+    PER 8  | ATT 8  | EMP 7 | FOC 9
+    MEM 7  | PRE 8  | RSV 8 | PTH 7
+
+  Level 1.
+
+-------------------------------------------------------------
+```
+
+Brecca read the notification twice. Her hands were shaking. Not from fear -- from the thing that comes after years of waiting.
+
+"Stonekeeper," she said. The word sat in her mouth like a stone she was testing the weight of. "Not Mason."
+
+"Not Mason," Wren said.
+
+"Not Builder. Not Warden. Not Tiller or Cook or Keeper." Brecca's voice was climbing. "Stonekeeper. The System has never --"
+
+"The System has never issued it before," Wren said. "Like Wayfinder."
+
+Brecca looked at her. The shaking had not stopped, but something in her face shifted. The envy that had lived behind her eyes since Millhaven -- the hunger for certainty, the ache of not knowing -- did not disappear. But it rearranged. It became something else. Recognition.
+
+"You saw it," Brecca said. "Before the System did. You said I was listening."
+
+"You were."
+
+Brecca looked at her hands. Clay-grey to the wrists. The hands that had repointed and pressed and held. The hands the System had been watching.
+
+"I was," she said.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY
+  Gathering Hall -- Stonekeeper Manifestation Site
+-------------------------------------------------------------
+
+  Social / Resonant: Witnessed the first [Stonekeeper]
+  class manifestation in System history. The Detail
+  Notation interaction with Brecca Vane's pressed joints
+  revealed a non-geological intention signature -- human
+  attention held in worked stone through sustained
+  material engagement.
+
+  +48 XP
+
+  Cumulative XP: 2047 / 2573 (Level 6)
+  Surveying: 69 (Journeyman)
+
+-------------------------------------------------------------
+```
+
+Wren did not look at the notification.
+
+---
+
+The seedpods went into the ground at the settlement's western margin, where the limestone soil was thin and the dressed-stone shade from the gathering hall fell in the afternoon. Not the gap's southwestern boundary. Not a strategic position. Maret chose the spot by kneeling and pressing her hand against the earth and staying there for a long time.
+
+"Here," she said.
+
+"Why here?" Hadley asked.
+
+"Because the ground said yes."
+
+They planted twelve. Maret showed them how: a thumb-width depression, the pod pressed in point-down, a thin layer of limestone dust mixed with stream silt, a palm pressed flat on top. Not tamped. Pressed. The way you press a hand against a friend's shoulder.
+
+"My grandmother germinated fifty," Maret said. "Forty-three survived. She said the ones that survived were the ones she talked to."
+
+"You talk to seeds," Hadley said.
+
+"I talk to everything." Maret pressed the last seedpod into its depression. "The question is whether it listens."
+
+Brecca planted three of the twelve. Her hands in the earth had a different quality now -- not tentative, not forceful. She held each seedpod a beat longer than necessary, her thumb finding the soil's grain before pressing down. The [Pressed Intention] still settling at the edges of her awareness, the new class finding its way into hands that had been working without it for three weeks and would now work with it for the rest of her life.
+
+---
+
+Hadley found Wren at the fire that evening, after the others had settled into the quiet rhythm of post-planting tiredness.
+
+"The insects," he said. "I have been counting."
+
+Wren looked up from her journal. She had been writing -- not the fourteen-item list, but a single paragraph about Brecca's face when the notification appeared.
+
+"Counting what?"
+
+"Voices. In the chorus. After the first pulse, it took thirty-two hours for the full chorus to return. After the second pulse, fourteen." He held up his journal. Not a formal record -- a page of tally marks grouped in clusters of five, with times scratched in the margin. "But it is not just faster. The pattern is different. The low voices came back first, last time. This time the high voices came back first. The ones that live closest to the ghost-elms."
+
+"The shimmer," Wren said. "The ghost-elms' expanded shimmer. The insects within the shimmer's range would recover first."
+
+"Yes. And look." He pointed to a cluster of tallies. "These are the voices between the ghost-elms and the gap. The boundary insects. Last time they came back last. This time they came back third. Before the mid-canopy voices." He paused. "The boundary is healthier than the interior."
+
+Wren sat with that. The gap's retreat had not just opened ground. It had changed the recovery pattern -- the ecosystem rewriting its own sequence based on the new boundary conditions. Hadley had seen it because Hadley counted everything, the way Maret counted breaths and Theron counted degrees and Brecca counted joints.
+
+"You should write that down," Wren said.
+
+Hadley smiled. "I did."
+
+---
+
+The letter was where she had left it, tucked between journal pages, folded once. She unfolded it at the fire's edge after Hadley had gone to his bedroll and Brecca was asleep against the gathering hall wall and Maret was counting notches by touch and Theron was a shape at the tree line, looking south.
+
+*Dear Mum,*
+
+She read the whole thing. Three paragraphs. She had written it on Day 28, after Hadley returned with word of Maret's arrival. She had written about the settlement, the threshold stone, the bond. But mostly she had written about people. Brecca's hands on the wall. Theron's silence that meant he was thinking. Hadley's narration of everything he saw. The healer's dried chamomile that still smelled like care.
+
+No survey data. No stat screens. No XP tallies. Not a single number in three paragraphs.
+
+She folded the letter and put it back. She would give it to Hadley before his supply run.
+
+She opened to a fresh page.
+
+*Day 37. One. The stone sang this morning. Full voice, thirty seconds, uninterrupted. First post-pulse dawn.*
+
+*The retreated strip needs roots. Mycorrhizal network, moisture retention, something alive in the soil. The System called it unclaimed territory. I think it is just waiting for someone to plant.*
+
+*Theron found a junction in the drainage channel. A branch going east, into ground that was dead until yesterday. His grandmother never told him about it. Some things wait until the ground is ready to give them back.*
+
+*Brecca is a Stonekeeper. The System made something new for her, the way it made something new for me. I saw it in her joints before the notification came. The stone was holding her attention. She was holding it back.*
+
+*Maret planted twelve seedpods. She chose the spot by asking the ground. Hadley counted insects and found a pattern nobody else heard.*
+
+*I wrote a list this morning. Fourteen items. A plan to fill every hour until the next pulse. I closed the journal on it. Not everything needs a schedule. Some things just need someone to show up.*
+
+She paused. The fire was embers. The insect chorus was full -- every voice returned, the forest counting at its natural pace.
+
+*Two tomorrow.*
+
+She closed the journal. The margin column was counting up. And for the first time, she did not need to plan what the numbers were counting toward.

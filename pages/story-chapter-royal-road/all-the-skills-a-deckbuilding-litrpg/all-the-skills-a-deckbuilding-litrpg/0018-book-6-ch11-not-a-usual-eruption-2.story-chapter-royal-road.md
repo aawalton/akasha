@@ -1,0 +1,223 @@
+---
+id: c39729a2-f4b8-5879-b68c-3da4198b2722
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Ch11: Not A Usual Eruption (2)"
+slug: 0018-book-6-ch11-not-a-usual-eruption-2
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 18
+ownLength: 2303
+unit: words
+ownProgress: 2303
+publishedAt: 2025-05-16
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2282718/book-6-ch11-not-a-usual-eruption-2"
+royalRoadId: "2282718"
+removedAt: "2026-07-03T13:47:36.192Z"
+---
+
+Arthur felt a stab of pure horror. The portals were high in the sky, but the stunned dragons were falling fast. They had seconds before they hit the ground.
+
+Brixaby took off alone to intercept them. He didn't have time to wait for Arthur, but there was no way he could make it in time.
+
+There was a roar from nearby. Cinderwood, who had remained largely unnoticed during the meeting, had likely been waiting for Arthur's attention to ask something.
+
+Her roar, however, had power.
+
+New Counterfeit spell obtained: General Empowerment
+
+Remaining Time: 59 Minutes 59 Seconds
+
+Along with that came another notification, not from his Counterfeit Siphon card but from his Master of Body Enhancement.
+
+Alert!
+
+All Body Skills, including Strength, Perception, Balance, and Endurance, have been increased by 25 percent. This effect lasts for 30 minutes.
+
+Cinderwood had an area-of-effect empowerment skill, and he saw the results immediately. The little Common Purples, who had been a part of Griff's wing, suddenly shot forward toward the falling dragons. They were even faster than usual. Brixaby, too.
+
+Brixaby, in fact, was one of the first to reach a floundering teal blue. The other dragon was much larger than Brixaby, who let out an audible oof as he zipped under to break his fall. He sank, wings beating fiercely. The top two were hampered by the other, larger dragon practically laying across him.
+
+The little Common Purples had it worse, but they were used to working in a group to get a task done. Three or four of them together were able to help break falls.
+
+Another couple of Purples squeaked, "Leader!"
+
+"I will help the Leader!"
+
+"Hold on, Leader!"
+
+They zipped under the teal blue that Brixaby was trying to steady in the air. They were still falling, but at a much slower, controlled pace.
+
+However, not everyone was so lucky. One rider who had been knocked completely senseless slipped out of her saddle.
+
+Cinderwood roared again, and abruptly, the timer on Arthur's empowerment was refreshed.
+
+That falling rider was caught by a pillow of warm air, thrown upward by a Red who had broken ranks from the rest of his wing on the ground.
+
+More began breaking from the ground and started flying up to meet the falling. Their speed and strength were heightened by Cinderwood, who continued to throw out empowerment charms.
+
+This had all happened so fast that Arthur hadn't had time to process it, and it wasn't like he could help catch house-sized dragons. Brixaby was managing that all by himself, so Arthur turned to his own crew who had been left behind.
+
+"Horatio! Get on Sams and tell the Greens to close that portal!"
+
+No one else had come back through the portal within the last handful of seconds, but it was very obvious that something was wrong on the other side.
+
+Horatio leapt up on Sams, and the two winged their way to the portal Greens.
+
+As Brixaby was currently busy, Arthur turned to Cressida. "Can Joy give me a ride to the ground? I need to speak to those dragons."
+
+"Of course," Cressida said. "What do you think happened to them on the other side?"
+
+He didn't answer, though he suspected he knew. There were no visible wounds. They'd been mind-stunned. He wasn't so worried about them, but for the ones that didn't come back.
+
+By the time Joy got them to ground level, Brixaby was carefully landing with the teal blue dragon slung over his back.
+
+Both the dragon and his rider seemed to be waking up, but the dragon was still so out of it that he only weakly flapped his wings. Mist gathered at the sharp edges of his scales as if he wanted to send out a card power, but wasn't sure exactly where.
+
+People were gathered around. Some were there to help, but it seemed many more were there to gawk. The crowd was growing so thick that Cressida and Arthur had a hard time finding a place to dismount.
+
+Irritated, Cressida inhaled a breath and roared out, "Let the leader through!"
+
+Joy took up her call, roaring quite loudly and deeply for her age, spreading her wings to knock some people aside. That was enough to get the crowd's attention, and they immediately parted for Arthur.
+
+Arthur rushed forward and jumped to catch the neck ridge of the teal blue dragon. The rider was just coming around, her head lolling back and forth. She seemed confused. Arthur shook her shoulder.
+
+"Report! What did you see over there?"
+
+"I don't..." She started, her voice fuzzy. Then her gaze focused on Arthur, and her eyes widened. "I don't know. I felt—I felt like something struck the side of my head, like a hammer. I had to get away, but I couldn't—we couldn't..."
+
+She suddenly lurched from Arthur's grasp and twisted to the other side of her dragon's neck, throwing up her breakfast. Thankfully, she'd been quick enough not to get anything on her dragon, who was coming around too and also looking nauseous.
+
+Brixaby was interrogating the dragon. "Did you hear singing?"
+
+Arthur caught his breath. So, he and Brixaby had the same worries.
+
+"Singing?" the teal blue asked. "No, why?"
+
+Brixaby and Arthur exchanged a glance. Not the Mind Singer then, but some other terror.
+
+Arthur nodded, jumped back to the ground, and turned to Cressida. "Get them healers, as well as everybody else who needs it. Brixaby and I have to scope this out."
+
+"What?" she asked, alarmed. "You're not going over there!"
+
+"I have to," he said, then added ironically, "I'm the leader, aren't I?"
+
+"Then Joy and I will go with you."
+
+"You can't," he said. He caught her hand and held it. "Brixaby and I have our area of effect Mental Resistance skills, but it's not as powerful as the internal skills. Cressida," he said when she opened her mouth to argue, "we don't have much time."
+
+Her eyes looked almost wild, but then, at her words, she visibly mastered herself.
+
+"Go," she said. "Be safe."
+
+Their eyes met, and something passed between them.
+
+"I will," Arthur promised.
+
+A moment later, a shadow of a dragon passed directly over their heads.
+
+Arthur looked up to see Cinderwood coming in for a landing. She was a two-winged dragon and not as maneuverable as one of the zippy Purples. Additionally, she was elderly, her joints stiff, and her scales were a washed-out, paler pink than usual. She had been blasting out that area of effect support skill, and there was a good possibility that it had taken a lot out of her. However, she still managed to wheel and land in a clear spot.
+
+She then approached him, brushing people away as if they were annoying bugs.
+
+"I suppose you are playing hero and going there?" she demanded, without greeting.
+
+Arthur suspected this was more than a guess. Joy, another pink, had heightened intuition. Perhaps Cinderwood had something of the same.
+
+"Yes."
+
+"Then let me help you where I can," she said. Without waiting for his reply, she stepped forward and breathed over him and Brixaby. Her draconic breath smelled of pine trees, slightly charred.
+
+And with that, he got another double alert.
+
+New Counterfeit spell obtained: General Empowerment
+
+Remaining Time: 59 Minutes 59 Seconds
+
+Alert! You have received directed skill and general card boosts. All skills and card effects will be 25% more efficient and productive for the next 30 minutes.
+
+Brixaby looked at the pink and said, "I can see why you were a part of a retinue before."
+
+"I have my uses," Cinderwood said dryly.
+
+The elderly pink stepped back, and now she was breathing hard. "Though, I may not be able to do that again for some time. I am not a young dragon anymore."
+
+"Get some rest," Arthur said, "but I have a feeling that we're all going to be tired by the end of this. Brixaby?"
+
+Brixaby opened the dark portal.
+
+Creepiness aside, Arthur had never been so grateful that Brixaby had this power.
+
+The prospect of mind-controlled dragons entering through one of the shimmer green portals to attack his hive was horrific.
+
+His hive.
+
+He'd have to think about that change of mindset more closely later, when he had the time.
+
+The dark rower said nothing when Brixaby directed him, yet seemed to realize that the two of them were in a hurry. The boat ride was swift, and soon they were pulling up to the next pier that would lead them to the eruption site.
+
+"Focus on your Mental Resistance and Telepathic Blocking skills," Arthur said.
+
+Brixaby turned to give him a look. "What is it that Soledad says? Don't teach my grandmother to suck eggs?"
+
+"Yes," Arthur admitted as he mounted up on his dragon. "But I don't know what that means. I just nod along so I don't look like I'm stupid."
+
+Brixaby huffed. "That woman would be quite annoying if Equinox were not turning out to be such a powerful dragon."
+
+Arthur's eyebrows rose at that. There was nothing wrong with Equinox, of course, but he wondered what Brixaby saw in the little hatchling that he didn't.
+
+They emerged from the other side of the portal into a scene of devastation. The sun was setting, casting the sky in orange fire and red blood, with a tall cone of a scourge eruption dominating the background. Yet the sky was empty of scourglings and dragons.
+
+Arthur took all this in at a glance. The moment they fully emerged, he was hit with intense mental pressure from all sides.
+
+Even though he had been ready for something like this, he still gasped. Under him, Brixaby grunted as if he had been gut-punched. His wings stilled for a moment, and they dipped a few feet before he regained his altitude. However, Arthur's mental shielding, boosted by Cinderwood's support, still held firm. He could imagine how hard it would be, how it could easily stun an unprepared, unprotected mind.
+
+Once the first shock had passed, the mental pressure and attack seemed to focus into an unnatural need to flee. Arthur ignored it, recognizing that the emotion was coming from outside of him. Still, it was unsettling.
+
+And there were no dragons around.
+
+"Where is everybody?" he peered down and saw, to his horror, that the ground beneath them was a living carpet of worm-like scourglings, crawling over each other. Tall trees were being ripped up by the roots and fallen over to disappear under the living blanket. He could easily imagine how quickly a fallen dragon would disappear, too.
+
+"Look." Brixaby pointed with his snout to the east. Arthur followed his gaze and saw a diffuse cloud of dragons in the distance. They were punctuated by bright flashes of elemental fighting. In fact, the more he looked in every distant direction, the more he saw.
+
+"They have ceded the land to the scourgelings," Brixaby growled, "and have chosen instead to fight at the edges, to prevent more expansion."
+
+"I don't think that there was any choice," Arthur said. "That mental command—I bet it started vague, and people began moving from the eruption cone without knowing why. Then, as the eruption strengthened, it pushed them further out and stunned whoever was left."
+
+And his hive, arriving late for the eruption, had gotten the full brunt of it.
+
+The need to flee was still battering at his skills, and he bet that emotion was coming straight from the volcano. A demi-scourge was getting ready to erupt, and it didn't want anybody to interrupt it.
+
+He and Brixaby had strong shields, thanks not only to Arthur's Master of Skills but also to the amount of time he'd spent practicing against the Mind Singer.
+
+Arthur glanced up and saw that several portals were open to other hives. There weren't any attending Greens. They must be on the other side of the portal.
+
+"That explains why no other Legendary rank leader has come yet."
+
+"What do you mean?" Brixaby asked.
+
+"Everybody got pushed out so fast that they didn't have time to return through the portals like our people. No one has reported in on what's happened yet."
+
+"They could if they had their own portal cards," Brixaby said.
+
+Arthur shrugged. "Most portal cards are short-hop teleports—Common and Uncommon rank. This eruption might be far out in the kingdom boundaries."
+
+Or maybe the Legendary rankers did know what was going on here, and they'd chosen not to come, he thought with a grimace.
+
+Brixaby took a long look downward. The eruption had been running unchecked. The farmland was gone, as well as anybody who had been on it. But far from grieving, the dragon trembled at the sight of all those scourglings there—scourglings he could kill and harvest.
+
+"We have to warn the other hive leaders," Arthur said regretfully.
+
+Arthur knew how he felt. With their strong shields, they'd be protected for some time, and he suspected that those worm-like scourglings were lower ranked. Easy prey and easy to harvest. But...
+
+"We have to warn the other hives," Arthur said.
+
+He didn't want to do this. The moment word officially got out that he was in the kingdom, it would complicate his life and possibly endanger Blood Moon. But he and Brixaby could not take on an entire eruption alone, much less an emerging demi-scourgling.
+
+Well, they might be able to, with Brixaby's Call of Life card.
+
+That fight would take time. And meanwhile, more and more land would be desiccated by the scourglings.
+
+Arthur had a choice between duty and greed. He very reluctantly chose duty.
+
+"Brixaby, pick a portal up there. Let's go through and start yelling out a warning."
+
+And hope that portal doesn't lead us back to Wolf Moon Hive, he silently added.

@@ -1,0 +1,97 @@
+---
+id: 55a0e20a-9a92-52f1-a3dc-8d736d05e60f
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 190"
+slug: 0028-the-level-zero-hero-chapter-190
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 28
+ownLength: 1505
+unit: words
+publishedAt: 2023-11-08
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1402014/the-level-zero-hero-chapter-190"
+royalRoadId: "1402014"
+---
+
+“Give it up,” the voice thundered throughout the vast expanse of broken space. “Cease your pointless struggle. You fight for a life that no longer exists. You are suffering for nothing.”
+
+Amelia heard the rumbling words as the icy rock beneath her feet quaked, cracked, then shattered. She raised her head and leapt away from the collapsing asteroid, before landing on a nearby moon, crawling with purple twisted creatures— crawling with voidlings. She didn’t respond. For the sake of her sanity, she couldn’t respond. So instead, she focused on her surroundings— on her survival.
+
+The horde of voidlings charged at her, and she raised her rusty blade. With a single swing of the sword, she wiped out the innumerable force. But she didn’t have a spare moment to breathe as she heard a cacophony of shrieks.
+
+Looking up, Amelia saw three colossal creatures tearing their way through the expanse of empty space towards her. Each one of them took on a different shape and size— one with many eyes, one with a single wing, and one with a dozen limbs— but they all had one thing in common: they could have crushed the girl in a single strike.
+
+She gritted her teeth, watching them approach as they burrowed through the nearby asteroids heading straight towards her without stopping. A weak white aura overcame her figure as she took on a wide stance. Exhaling slowly, she sheathed her sword and faced the approaching monsters.
+
+Amelia knew what they were. They were voidbeasts. The most dangerous creatures in this broken world. They couldn’t be taken lightly, because a single mistake could cost her her life.
+
+And she jumped out of the way as the first voidbeast reached her. It crashed into the ground beneath her, splitting the moon in half as she eyed the second charging monster. In a single motion, she unsheathed her blade and sliced off the second voidbeast’s single wing. It roared in pain and crashed into the first as she dove straight towards the third.
+
+Amelia screamed and unleashed a flurry of strikes, slicing apart the many limbs of the third voidbeast as it tried to strike her now. She sprinted across its body as she dug her blade down, trying to cut the colossal creature in half. But her eyes flickered as she saw a glint coming from behind.
+
+She turned around just in time to see the first voidbeast unleashing a purple blast her way. The attack would have struck the third voidbeast. But none of them cared about each other— not in the slightest.
+
+The explosion engulfed Amelia and the third voidbeast. Her vision blurred as her world spun, before she came crashing down into the remains of an asteroid, inhaling a sharp breath. Her ears rang, and her body ached. She tried to rise to her feet, but her legs failed her.
+
+Amelia raised her head weakly as she saw a bright light just ahead of her. The first voidbeast was towering over her, its single eye staring into her soul as the ringing vanished, and the booming voice from before was all she heard.
+
+“I truly do not understand you.”
+
+The first voidbeast screeched, before unleashing another purple beam straight down at Amelia. But she clenched a fist and smashed the ground beneath her feet, falling out of the way of the blast just in time.
+
+As she rapidly fell towards the unending space beneath her, she looked up and heard the rumbling voice.
+
+“As a child, your mother told you that only you held your life in the palm of your hands.”
+
+The three voidbeasts cast their gazes down towards the falling woman. They were injured and enraged, but Amelia was also hurt. She tightly gripped the hilt of her sword with both her hands as they leapt down at her.
+
+“As a child, your father told you to chase your dreams— that your future was only ever as bright as you believed.”
+
+Amelia shouted in defiance and swung up with a flash of light. Even from afar, her slash reached all three of the voidbeasts. And it was the third voidbeast, already delimbed and injured, that fell first.
+
+“But now as you look, all that awaits you is darkness. Your life on Earth is ruined, and your future here is bleak. While you may blame me for your misery, and you may believe me to be your tormentor, it is I who is your savior.”
+
+The second voidbeast descended upon Amelia— its wing was ripped off, but its speed unhindered. It swiped down at her with a glinting claw, and she barely parried the attack with her rusty blade. Somehow, the metal held up against the sheer force of the strike.
+
+And as the world of broken space reverberated from the clash, the voice continued.
+
+“You have realized it yourself, haven’t you? Surely you must remember your very last moment back on Earth— that memory of the day I stole you from your world.”
+
+Amelia closed her eyes as an image flashed in her mind. For a moment, she was thrust back into that moment. A moment she relived time and time again in her head. She heard the soft Christmas music playing from the car’s radio, and she heard her mother’s laughter. She remembered the look on her father’s face as her sister cracked a silly joke.
+
+It was supposed to be a family vacation. A holiday trip where they all got together for the first time in months.
+
+And then came the blaring horn of a truck.
+
+Amelia remembered craning her neck back— looking to the side as she saw the bright headlights approaching at extreme speed. But before she could process what happened, she was met with what felt like an eternity in darkness. Like she had been forced to sleep for days on end, until she was finally allowed to wake up.
+
+But when she regained her bearings, she was not in the car with her family. She was… here.
+
+“That day was the day you were fated to die. No one would survive that crash except for your sister. But I saved you. I have given you a chance at a new life. And yet—”
+
+Amelia returned to reality as she looked back up to face the second voidbeast. It screeched, swinging down at her, and they briefly traded blows as they both fell endlessly in space. But with each clash of blade and claw, she moved faster, her strikes growing more precise. And after unleashing an onslaught of attacks onto the creature, it crumbled apart, dead.
+
+She turned to the last voidbeast as it hovered over her, its eyes glowing with a purple aura.
+
+“You have rejected my grace. You have chosen to spit in the face of your savior. And why? Because you believe that you can return to your family? Because you believe that I am lying?”
+
+The final voidbeast unleashed another beam of purple energy at Amelia, sending her flying back as she blocked the attack. She crashed through a massive moon, before catching herself amidst a group of asteroids. She looked up as she panted tiredly, watching the colossal creature barrel its way towards her.
+
+“Your mother is dead. Your father is dead. And your sister will never be able to walk again. There is nothing left for you except for me.”
+
+Amelia took in a shaky breath as the final voidbeast began to conjure up another beam— purple particles already gathering just before its eye, forming a sphere. Her breathing slowed as she floated there, the white aura wisping off her threatening to fade away. She opened and closed her mouth for a moment, staring in silence.
+
+And for the first time since Amelia heard the voice of the Void, she finally spoke.
+
+“You…” Her jaw worked slowly as the beam of purple energy shot out towards her. She lowered her blade and clenched a fist. The white aura covering her body coalesced on that hand as she whispered softly. “LIAR!”
+
+And Amelia swung out with her fist— a powerful punch that dissipated the purple beam, before striking the final voidbeast even from afar, ripping the colossal creature apart. The nearby asteroids were blown apart from the impact as the entirety of the world of broken space shook from the strike.
+
+“You…” the voice hesitated for a moment, taken aback by her show of force. But it boomed once again. “How dare you accuse me of such petty tricks! I—
+
+And Amelia interrupted the voice of the Void.
+
+“I do not care what you say,” Amelia bellowed as she raised her rusty blade, her cloak billowing behind her with the wind. “I will return to my world— I will see my family again. And I…”
+
+Her eyes flashed with a white light as the white aura returned to her, stronger than before— like a blazing fire. The broken world around her trembled as she resolved herself.
+
+“I will make you pay for what you’ve done!”

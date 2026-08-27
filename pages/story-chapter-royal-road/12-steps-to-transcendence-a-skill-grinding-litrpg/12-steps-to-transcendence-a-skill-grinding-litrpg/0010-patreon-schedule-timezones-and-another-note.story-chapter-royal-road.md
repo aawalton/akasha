@@ -1,0 +1,25 @@
+---
+id: ca150b29-827f-5cba-8954-d9e59bfa4ce6
+page-type-slug: story-chapter-royal-road
+title: "Patreon, Schedule, Timezones, and another note."
+slug: 0010-patreon-schedule-timezones-and-another-note
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 10
+ownLength: 277
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3705330/patreon-schedule-timezones-and-another-note"
+royalRoadId: "3705330"
+---
+
+Not a chapter. Sorry about that.
+
+Schedule is going to be daily as long as we're on our RS run (a man can dream), and then Monday-Friday 22:03 UTC my time, which might end up different for you, who knows, just check the fiction page for the scheduled chapter, or the table below and correct me if I butchered it. We'll figure it out as the story goes. While Patreon schedule will be daily for the foreseeable future even after RS run, with Royal Road getting some bonus chapters here and there whenever I'm feeling particularly generous.
+
+Oh, and yeah, I do have a Patreon! It's 17 chapters ahead, too ;] The goal is to eventually get it 25 chapters, and then 30, and we'll see after that. I only have one Patreon tier, though, so you get everything.
+
+Lastly, we've already had a few high ratings, which I like, and a few low ratings, which I do not mind as the story goes on as it's readers' right to rate whatever they want, but they do weigh heavily, and it matters especially at the start. So if you like the story so far, at least for now, please consider rating however you see fit :]
+
+You may change your rating as we go on with the story, I do not mind in the slightest.
+
+The daylight savings folks are on their own, just check the fiction page scheduled chapter whenever y'all decide to change time again, I might've gotten something wrong. I'm not looking up more timezones, just correct me in comments and I will update the table. If you need more timezones added here, comment.

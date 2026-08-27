@@ -1,0 +1,196 @@
+---
+id: ffe13adc-cb92-5d76-b920-ce501b40bc56
+page-type-slug: story-chapter-played
+title: "Six of Six (What She Knows)"
+slug: 0021-six-of-six-what-she-knows
+partOf: tower-and-the-star
+position: 21
+ownLength: 3530
+unit: words
+---
+
+She had been awake since 3 AM.
+
+Not unable-to-sleep. Not running the anxious calculation of someone trying to get back under. Just: awake, because the thing she was holding was too large for the body to file away in the dark, and the body knew it, and she didn't try to fix it. She lay in the Transition Hall's faint ambient light with the notification in her accessible queue and the party breathing around her and the Floor 20 door at the far end of the hall, a shape slightly different from the stone around it.
+
+At some point the light shifted — the Tower's environmental systems, whatever internal cycle governed the slow brightening that passed for morning in Transition Halls. She sat up. She ran the morning inventory: HP full, MP full, party signal present and quiet through the Conductor. She ate the remaining ration from the carry stack. She pulled out the notebook.
+
+She did not open it.
+
+She sat with it in her lap for the length of it would take to write an entry. She looked at the party instead.
+
+This was new. Not the watching — she had been watching for twenty floors, the Conductor running as a permanent low-hum beneath everything, each Aspect's frequency as familiar as the sound of their voices. What was new was the not-writing. She had used the notebook as a processing tool since Floor 7, the clinical habit she'd picked up from watching Miriam: experience in, notation out, data structured and available and no longer spinning. This morning the notebook was in her lap and she was not reaching for it. The watching was the thing itself, not raw material for something else.
+
+Dayo was up. She hadn't announced it — she never announced it, the Steadfast register in the Conductor simply shifted from the restful quality of deep sleep to the present quality of someone who had finished sleeping and decided to get up. She was running the morning armor check in the methodical way she'd been running it since Floor 7, each buckle, each articulation point, each weight-bearing surface. The check was complete. She moved toward the supply cache to get her ration allocation.
+
+The Floor 20 door was at the far end of the hall. Miriam was still asleep near the left wall; Nadia on her side with the dulcimer case within arm's reach; Vesper in the corner where she'd been when Solenne fell asleep, now still and quiet.
+
+Dayo got her ration and moved back toward her pack.
+
+She placed herself so that the path between where she stood and where the supply cache was would, if Miriam woke and went to the cache, pass through the space where Dayo was now standing. Not a barrier — Dayo was not facing the door, not in a combat-ready posture, not performing protection. She was standing in a spot from which she could see the hall's full width, and the spot happened to be positioned so that Miriam's natural path to the cache ran close. It was the position calculus. It was integrated in the way that things become when you've learned them all the way through, past the stage of deliberate application, into the stage where the body knows it without being asked.
+
+Solenne had watched Dayo work through that lesson on Floor 7. The cost of it then: she had moved when she shouldn't have, and Miriam had been in the wrong position, and the fight had been recoverable but harder than it needed to be, and Dayo had stood in the debriefing with the specific quality she brought to understanding that she'd gotten something wrong. That was two years ago in the Tower's compressed emotional timeline of floors. It was seven years ago in the way these things settle into the body.
+
+The lesson was done. The lesson was Dayo now.
+
+Solenne looked at her for the length of one full Conductor read — Steadfast, present, grounded, available — and looked away.
+
+---
+
+Tomás came back from the floor entry before most of the party was fully awake. He had the advance-scout quality, the particular briskness that meant he had already been somewhere and returned with information, and he went directly to his notation station and added two lines to the preliminary notes without sitting down. Then he stood looking at what he'd written.
+
+He said, to no one specifically: "The morning brief in twenty minutes."
+
+Not an order. A schedule. He said it the way he said most things — as a data point he was releasing into the shared space, available for use or not. He sat down and continued writing, and Nadia woke up, and Miriam made the clinical notebook entry she made every morning (HP, MP, status, three lines), and Vesper began the packing configuration for Floor 20 entry.
+
+The dulcimer strap was on the case. Nadia ran the daily check — strings, body, structural integrity — and the strap was part of the check now, a new element in the sequence: she ran her fingers along the attachment points at the stress angles, tugged once to confirm the fit, let it settle. The instrument was intact. She did not play. She set it back in the case and fastened the case.
+
+The morning configuration assembled itself around her.
+
+When Tomás began the brief, everyone was present. He had the full-floor schematic open on the portable notation surface — Floor 20, the Crystal Salt Desert, the encounter data from his advance scout pass, the thermal and visual conditions at entry. He gave the biome information first: salt crystal formations at varying heights, ground surface alternating between packed salt flat and loose crystal granulate, visibility corridors variable, ambient light high-contrast (crystal surfaces catch and redirect light; shade pools between formations are sharp-edged). He gave the encounter projection: Saltback Predators as the primary encounter type, surface-ambush behavior, crystalline hide. He described their movement pattern across the salt flat, the tell he'd observed on the advance pass — a particular stillness before the burst, a quarter-second of the surface doing something wrong.
+
+He was thorough. He was precise. He had been doing this for twenty floors and it was as natural as breathing.
+
+He paused.
+
+It was a working pause — not the pause of someone who had finished, but the pause of someone who was deciding how to word something. Nadia's hand rested on the dulcimer case beside her. Her finger found the tension of the lowest string without any particular intention. One note. It sustained for a moment — barely audible, in the range where sound and silence negotiate — and dissolved. She did not look up. Tomás had not stopped. She had not started. The note was just briefly there, in the space where Tomás was deciding how to say the next thing.
+
+"Resonant Stalkers," Tomás said. "Level 18-19. They track bond-aura at 60 meters." A beat. He was looking at his notation surface, not the party. "The divergence analysis has them at a density higher than the documentation suggests for this range."
+
+He sat with that. He did not say what the divergence implied. He was done with the brief.
+
+Solenne ran the Conductor: Clearvoiced, present, the forward-lean quality settling — not gone, but released. She recognized it: this was the thing he'd been holding since last night, the notation he'd made in the dark and gone back to sleep with. He had decided when to say it, and the brief was when. She understood. He knew what the density divergence might mean — a population that had grown past its documented floor range, creatures that hunted bond-aura in an environment where her party had more bond-aura than most — and he had chosen not to speculate aloud. The information was placed. He had given them the shape of it. The interpretation would come when they had the floor in front of them.
+
+She did not ask. She had her own thing she was not yet saying, and she understood the pattern from inside it.
+
+---
+
+Vesper was packing.
+
+The supply cache inventory was methodical, the same sequence she ran in every Transition Hall: what to use, what to carry, what to leave for the cache's default resupply. Raw materials at the bottom, in-progress projects in the middle section, finished projects at the top. The finished-projects section was thinner now than it had been when they left Floor 19 — the dulcimer strap was on the case, the stack was shorter. She worked through the inventory with the economical attention she brought to all of it.
+
+Then she got to the in-progress section.
+
+Solenne had never watched Vesper work through the in-progress section with her full attention before. She had watched it peripherally — the Artificer signal through the Conductor, the quality of specific-orientation that meant she was working a problem — but she had not tracked the physical detail of what Vesper did with things she had not finished.
+
+The in-progress section went near the bottom. Always near the bottom, tucked into the lower range of the accessible stack, where it didn't generate the particular internal friction of visible unfinished work. Vesper moved things to the bottom automatically, the way you close a tab you haven't read yet.
+
+She picked up an in-progress project. Looked at it. Set it back down in the carry stack — not in the bottom range. In the upper-middle. Not at the surface, but visible. Within reach.
+
+She picked up another one. The same consideration. The same placement decision. Upper-middle. Visible.
+
+A third.
+
+Solenne counted four in-progress items that ended up in the visible range rather than the buried range. Not a dramatic reorganization — the carry stack still had the same weight and volume. But the things Vesper hadn't finished were now in the range she would see each time she opened the pack, rather than the range where she had learned to not see them.
+
+Solenne looked away before Vesper looked up.
+
+---
+
+Miriam's clinical notebook was open.
+
+She was sitting against the wall with the notebook in her lap, not writing. The morning assessment was done — Solenne had seen her complete it twenty minutes ago, three lines, the data captured and closed. This was a different use. She was looking at a page in the middle of the notebook, the angle of the light catching the paper at the edge of legibility.
+
+Solenne recognized the margin notation. Not the words — she couldn't read the words from here — but the placement of it: a narrow entry in the right margin of a page that had main text above it, the notation added after the fact, at a different point in time than the main record. That was the notation from the rest floor after encounter two on Floor 19. The one Miriam had added about the aggro-draw technique from encounter two — except Solenne had read the tone of that entry when Miriam made it, and it was not just data. It was: I asked for the Mana Vial directly. It worked because I asked. Record kept.
+
+She was sitting with what she'd written about herself on the day she changed.
+
+The clinical notebook was a recording tool. She had been using it for twenty floors to transform experience into data — to make the things that happened into something she could reference rather than something she had to feel again. This morning it was doing something different: not transforming, just holding. She was reading without moving, present in what she had already written, the tool used in reverse. Not to process. To be with.
+
+The notebook in Solenne's lap was still closed. She understood the difference.
+
+---
+
+The message from Brennan arrived mid-morning.
+
+Not a verbal message — the System's party-to-party messaging function, the same one they used for floor-to-floor coordination. Brief: *Saw you cleared Floor 19 on the scoreboard. If you have time before you go up — sharing intel on 20.*
+
+They had time. They were not in a hurry.
+
+He found them in the hall — or they found each other, the way parties sometimes occupied the same Transition Hall in overlapping windows when their schedules aligned. Team Ironwall was on the same rest cycle, one floor behind. Brennan came in with the compact efficiency he always had, two of his party members staying near the entry, Hex visible at the back in a posture that read as available-but-not-in-this.
+
+He looked at the party the way he looked at things he'd been tracking for a long time.
+
+"Floor 13," he said. "We were in the same hall. You had a formation problem — the bracket wasn't holding for open field." He said it neutrally, as information. "You've changed since then."
+
+It was not an assessment. It was something closer to: I've been paying attention, and what I'm paying attention to has shifted. He was not in the habit of empty courtesy — she had learned this about him across multiple Transition Hall encounters — so the observation meant something. She filed it without responding.
+
+"Apex contact faction," he said. "Two to three weeks. The votes are secured — they've been building the coalition since Floor 17. Expect a formal approach."
+
+She had known this was coming. The two-week window she'd been given at the Floor 15 rest node was already at its edge. She had been carrying it alongside everything else: the chord, the locked room, the notification, the party she hadn't told yet. Now it had a harder number. Two to three weeks, which at their current pace was Floor 23 or 24. Before the Proving Gate.
+
+"What do they want?" She asked it because he might have more than she had.
+
+"What everyone wants when they find a Harmony party making this kind of progression." He looked at the party behind her — the specific sweeping look of someone who was mapping something. "Access. Proof of concept. They've been arguing internally for eight months about whether Harmony-based mechanics can be reliably reproduced or if it's an emergent property. You exist. That settles one side of the argument."
+
+He didn't give her advice about what to do with it. He wasn't that kind of person. He gave her the information and let her use it.
+
+"Anything specific on Floor 20?" she asked.
+
+"Resonant Stalkers." He said it with a slight pause, the same beat Tomás had used. "Density's higher than I expected. I've got 4 encounters logged at 55-60 meters. They're staying close to the formation — not aggressive, but present." He said: "At 60 meters, with your bond-aura signature, you're going to light up for them consistently. They're not a high-damage encounter on their own but they don't break off easily."
+
+She understood. She said: "Thank you."
+
+He nodded. He went back to his party.
+
+She stood in the middle of the Transition Hall for a moment after he left.
+
+The Apex contact faction: two to three weeks. Six of Six: she was going to tell them at Floor 20's rest floor, which at their current pace was today. Both clocks were running simultaneously, and they were running in the same direction — toward a moment of disclosure — and she had not chosen to tell them because the clock was pressing her, and she was also running out of time to wait, and both things were true at once. She had been managing information for twenty floors. Not because the pressure forced it but because the party she had been watching this morning was the party she'd been building toward, and the rest floor was today.
+
+She did not write this down either. She would tell them, and then it would be out, and then they would have it together. All of it.
+
+---
+
+Vesper was in a small alcove near the supply cache when the Prita message came through — the same System messaging function, the Tower's way of letting parties communicate across floors. She read it, and her hands stilled in the Workframe pattern, and then she sent back: *Give me a few minutes.*
+
+Solenne was nearby but not listening. She was doing her own prep, the final pre-floor configuration: gear check, status review, the short mental inventory that preceded stepping through any door. She caught the Artificer signal through the Conductor: a slight inward shift, the quality of someone stepping out of the working-forward register and into something more attentive to the present.
+
+She moved away to give Vesper the space.
+
+What she heard, after a few minutes, was nothing. The hall had the particular quality of a space where a conversation was happening in silence — not the absence of speech but the fullness of two people who had chosen not to fill the air. Vesper's hands were still in her lap. The Workframe was not running.
+
+When Vesper came out of the alcove, her carry configuration was complete. She went directly to the pre-floor check without speaking.
+
+Solenne didn't ask. She had enough from the Conductor: Artificer, present, slightly different than the working-mode quality. The inward-facing register. Something had been said or not-said and it was sitting where it needed to sit.
+
+Weeks later, she would learn what Prita had asked: *What did it feel like when you handed it over?*
+
+Vesper had thought about it. She had said: "Different."
+
+And Prita had said: *Show me where the words end.*
+
+And Vesper had let *different* be the answer. She had not found a more precise word. She had not translated the difference into something reportable. She had let the insufficient word stay insufficient, which was its own kind of precision — the honesty of stopping where the language stopped.
+
+The Workframe stayed quiet for the rest of the morning.
+
+---
+
+The hall was almost ready.
+
+Dayo had her armor done. Tomás had the formal notation stowed and the preliminary Floor 20 notes open on the carry configuration — not for consultation, just accessible. Nadia's dulcimer case was on her back, the strap seated correctly, the instrument not swinging. Miriam's notebook was closed. Vesper had the carry stack complete.
+
+Solenne watched all of them.
+
+She was still holding the notification in the accessible queue — had not opened it since 3 AM, did not need to open it, had it memorized in the way that things you've read in the dark in the middle of the night become memorized. One hundred and nine of one hundred and fifty. The Locked Room on Floor 17, Quadrant NW, Alcove 7-B. The paper from Vasic in her inner pocket since Floor 11. Four pairs with names, and the fifth one still pending, and the rest floor was today.
+
+She had a picture of the telling: the rest floor's particular quality of cleared space, the party in the configuration they used for non-tactical conversations — not a formation, just six people in a room — and she would pull up the full notification and say: here is what we've been building toward. She knew how each of them would receive it. She had been watching them receive things for twenty floors.
+
+She did not feel ready in the way she used to want to feel ready — the anxious-specific readiness of someone who had rehearsed the moment until it had the shape she needed it to have. She had not rehearsed this. She was going to walk through the door and work the floor and stop at the rest node and say it, and the saying would be what it would be. She had already made the decision — had made it, she understood now, somewhere around the third floor observation, somewhere around the moment she watched Dayo stand in exactly the right position without knowing why. It was not a decision she had arrived at. It was a decision she had been inside of and was finally acknowledging.
+
+The Tower's light had moved to its full morning quality. Everything in the hall was in its place.
+
+Nadia took two steps and stopped — testing the dulcimer case on her back, the weight distribution, the way the strap sat across the shoulder. She took two more steps. She didn't stop again. It was just there.
+
+Solenne picked up her pack.
+
+"Okay," she said. "Let's go."
+
+The party assembled. The door at the end of the hall was already open — she didn't remember who had opened it, or if the Tower had opened it, or if doors like this were always open and you just had to walk toward them. They walked toward it.
+
+Floor 20. Crystal Salt Desert. The particular brightness of a floor where the light came from inside the things rather than from above. The first formations rising from the salt flat ahead, crystal surfaces catching and splitting the light into angles that didn't exist in natural geometry. The air different from Ash Plain — dry and clean and with a mineral sharpness that registered as something different from anything they'd walked into before.
+
+Tomás said: "Formation three."
+
+They went into formation three.
+
+The door closed behind them.

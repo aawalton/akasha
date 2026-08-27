@@ -1,0 +1,415 @@
+---
+id: 6f03167d-639e-58d8-b324-7f5321075333
+page-type-slug: story-chapter-played
+title: "The Wave"
+slug: 0019-the-wave
+partOf: the-dungeon-of-one-thousand-deaths
+position: 19
+ownLength: 3577
+unit: words
+---
+
+They came from the same caravan.
+
+Not together — the caravan had been traveling the northern route for eleven days when it camped two miles from the dungeon's entrance, close enough that the camp fires were visible from Osren's table, and in the morning several people had walked toward them and several of those had walked all the way to the entrance and some of those had entered and none had returned. Osren recorded them in order of entry. He started a new page. The page would be full before the week was done.
+
+Five deaths. Five sections. The Warrens kept all of them.
+
+---
+
+**I. THE CARTER**
+
+His name was Bren Olat and he entered on a dare.
+
+Not because anyone dared him — because he dared himself, the way he had dared himself to everything since he was seventeen and found that he was too proud to not do a thing he had said he would do. He had said, at the caravan's fire the night before, that he would go look at the dungeon. Not enter it. Look at it. But then he had looked at it and there was the entrance and there was the inscription wall and he had read the inscriptions the way a man reads a list and thought: the deepest anyone has gotten is Depth 4. And then he had thought: I could do that. And then he had entered.
+
+Osren had tried to give him the briefing. He had heard three sentences of it.
+
+The Gullet received him. He felt the warmth and the biological presence of the place and thought: it's just a cave. He walked with the confidence of a man who moved heavy things for a living, who knew how to assess load and terrain and route, who had navigated difficult ground in bad conditions for twenty years. He was not afraid. He was, in his assessment, well-suited to this.
+
+```stat-screen
+DEPTH 2 REACHED: THE MARROW WARRENS
+
+RESOLVE: +1
+Bren Olat: Current Resolve: 14
+```
+
+```stat-screen
+DESIGNATION: THE DRIVE
+GIFT: MOMENTUM
+
+Moving objects yield to you.
+Things that can be moved, move.
+Obstacles that a body can displace, displace.
+You are very good at going through things.
+
+COST: DIRECTION
+You cannot stop once you have chosen a direction.
+You can choose again at a junction.
+You cannot stop between junctions.
+
+ATTUNEMENT: 0
+
+STATISTICS
+Vitality .............. 19
+Resolve ............... 14
+Attunement ............ 6
+Fortune ............... 10
+
+Note: Entry type — Compelled.
+The entrant believes he dared himself.
+The Maw offered him a challenge at the correct distance.
+He could not see the offer. He saw only the dare.
+```
+
+He read the designation and thought: this seems about right. He kept walking.
+
+He navigated seven junctions by choosing the passage that looked most like a main corridor. He was good at this — in a city he would have been right. The Warrens were not a city. The Warrens shifted, and what looked like a main corridor was a category the Warrens did not have.
+
+At the eighth junction he chose wrong. The passage he chose was already beginning to angle, the subtle 0.5-degree drift that preceded a dead end, and Momentum kept him moving through the angle and the narrowing and into the sealed terminus where the bone parasites lived.
+
+He had eleven minutes from entry to dead end. He was moving quickly.
+
+There was no crystal. His final act was to shout back toward the last junction, a wordless sound, the kind of sound a man makes when he is angry at himself. The dungeon received the sound and noted it: outward, directed away from the self. Not crystallizable.
+
+Bren Olat. Entry to death: eleven minutes. Depth reached: 2.
+
+He was the fastest death in the Warrens on record.
+
+---
+
+**II. THE RECORD-KEEPER**
+
+Her name was Solla Dray and she had come to verify a rumor.
+
+She was a factor's clerk, which meant she spent her professional life determining whether things that were claimed to be true were actually true. She had a small notebook, always — not for sentiment but for precision. When the carter said he was going to the dungeon, she had written: *Bren Olat — entering. Time: 6th hour.* When the carter did not return, she wrote: *Bren Olat — not returned. Presumed dead. Time: 7th hour.* She entered at the 8th hour to verify what the entrance keeper had told her about the inscription wall, the notation system, the living archive she had been told about.
+
+She was not afraid. She was professional.
+
+```stat-screen
+DEPTH 2 REACHED: THE MARROW WARRENS
+
+RESOLVE: +1
+Solla Dray: Current Resolve: 22
+```
+
+```stat-screen
+DESIGNATION: THE RECORD
+GIFT: TRUE NOTATION
+
+What you write in the dungeon is true.
+Not accurate — true. The act of writing a thing
+makes it so within the space you occupy.
+The Warrens do not shift around written facts.
+While you write, the passage holds.
+
+COST: THE OPEN HAND
+You cannot fight. You cannot act against the dungeon with your body.
+Your hands are for writing. They are not for anything else.
+
+ATTUNEMENT: 0
+
+STATISTICS
+Vitality .............. 12
+Resolve ............... 22
+Attunement ............ 8
+Fortune ............... 15
+```
+
+She understood the Gift immediately and used it correctly: when the passages shifted, she wrote the junction number and her current position and the direction she intended to go, and the passage held while she wrote. She progressed further than any entrant in the wave. She navigated to passage 23 by reading the charcoal marks left by a previous entrant — six-B junction markers, fading at the edges, made by a hand she could see was precise and trained.
+
+She stopped at passage 23's junction and wrote in her notebook: *Junction 23. Charcoal marks present, left-facing. Surveyor notation. Partially legible. Made by someone who knew what they were doing. Not recent.*
+
+While she was writing, passage 23's wall sealed.
+
+She had not noticed the sealing because she had been writing, and True Notation held the current passage open while she wrote, but True Notation's hold was for the passage she *occupied*, and she occupied the junction, not the passage. The distinction was the Warrens making the one adjustment it could make while her Gift was active.
+
+She looked at the sealed wall. She wrote: *Passage 23 sealed. Dead end. Bone parasites.*
+
+She was precise about it. She kept writing as long as she could write, which was longer than most people lasted after the parasites emerged, because True Notation required her hands and so the parasites had to reach her hands last.
+
+Her notebook was still in her apron pocket when she died. Open to the last entry.
+
+```stat-screen
+DEATH REPORT — SOLLA DRAY
+DESIGNATION: THE RECORD
+DEPTH REACHED: 2 (THE MARROW WARRENS)
+
+MEMORY CRYSTAL: Gray.
+Quality: duty. Obligation to the work. She kept writing.
+The last record was a record of her own death.
+```
+
+---
+
+**III. THE SEEKER**
+
+Her name was Ines Maret and she did not tell Osren why she had entered.
+
+Osren wrote: *purpose unstated.* He had seen this before. He did not push. He gave the briefing and she listened and she asked one question: "Does the census go back further than the book?"
+
+He told her: the census began with Death #1. Before Death #1 there was no record.
+
+She entered.
+
+Her brother had entered the dungeon seven years ago. He had been twenty-one. She had been sixteen. He had not come back and there was no record and the dungeon had been operating for seven years before Osren arrived and she had spent four of those seven years not knowing and three of them knowing that not knowing was its own kind of answer.
+
+She was not looking for him. She was not expecting to find him. She was looking for the place that had taken him, which was different.
+
+```stat-screen
+DEPTH 2 REACHED: THE MARROW WARRENS
+
+RESOLVE: +1
+Ines Maret: Current Resolve: 17
+```
+
+```stat-screen
+DESIGNATION: THE SEARCH
+GIFT: ECHO
+
+You hear what was said in a place.
+Not currently — previously. The walls hold sound.
+You hear the last voice that spoke in any space you enter.
+
+COST: DISPLACEMENT
+You cannot distinguish between what you hear through the Gift
+and what you hear around you.
+All sound, present and past, is equally present.
+The Warrens are full of voices.
+
+ATTUNEMENT: 0
+
+STATISTICS
+Vitality .............. 14
+Resolve ............... 17
+Attunement ............ 11
+Fortune ............... 13
+```
+
+She activated the Gift without meaning to, in the first junction of the Warrens. The voice she heard was male, saying something she couldn't make out, the words degraded by time — a voice from months ago, maybe longer. Not her brother's voice. She knew her brother's voice.
+
+She kept walking. At each junction she heard the echo of someone who had been there before: a woman counting to herself, a man's sharp exhale, a sound that was not words. The Warrens held a year of voices and she walked through them listening for one voice and not finding it, and the Cost made every echo equally present so she could not tell which sounds were from the passage around her and which were from the months before her and she navigated by the feel of the floor and the temperature changes and the faint charcoal marks she could barely see in the low light.
+
+She did not find her brother's voice. She did not expect to.
+
+She found a dead end at passage 31, deep enough in the Warrens that she had gone further than Solla Dray, further than Bren Olat. She had been navigating for thirty-seven minutes. She had been listening the whole time.
+
+The voice in the dead end was hers — from seven minutes ago, when she had said something quietly to herself at the previous junction, something she had not meant to say aloud. The echo said it back to her. She heard herself, seven minutes younger, still going the right way.
+
+The bone parasites found her while she was listening.
+
+```stat-screen
+DEATH REPORT — INES MARET
+DESIGNATION: THE SEARCH
+DEPTH REACHED: 2 (THE MARROW WARRENS)
+
+MEMORY CRYSTAL: Blue.
+Quality: grief.
+She did not find what she was looking for.
+She did not expect to.
+The grief is for the expecting that remained despite the not-expecting.
+```
+
+---
+
+**IV. THE CHILD**
+
+His name was Cade. He was eleven. He had not told anyone at the caravan he was going.
+
+He had heard the adults talking. He had heard: *the dungeon gives you something*. He had heard: *it tells you what you are*. He was eleven and he did not know what he was and he had thought, with the specific logic of eleven years: if it tells you what you are, I should go find out.
+
+He entered two hours after Ines Maret, in the mid-afternoon, when the caravan adults were occupied with the wagon repairs and no one was watching.
+
+Osren was watching. Osren saw him approach and stand at the inscription wall and read the inscriptions the way children read: moving his lips slightly, tracing the letters with his eyes. Osren stood up and said: "You can't go in."
+
+Cade said: "Why not?"
+
+Osren said: "Because you're a child."
+
+Cade said: "The wall doesn't say anything about that."
+
+Osren said: "The wall doesn't say everything."
+
+He entered anyway, in the three minutes Osren spent considering whether to physically bar the entrance. He was quick. He was small. The Gullet's entrance was wide enough for him.
+
+```stat-screen
+DEPTH 2 REACHED: THE MARROW WARRENS
+
+RESOLVE: +1
+Cade: Current Resolve: 9
+```
+
+```stat-screen
+DESIGNATION: THE QUESTION
+GIFT: ASKING
+
+You may ask one question of any living thing.
+It will answer honestly, in a form you can understand,
+in whatever language it has.
+It does not have to be a question it knows the answer to.
+It will answer with what it has.
+
+ATTUNEMENT: 0
+
+STATISTICS
+Vitality .............. 8
+Resolve ............... 9
+Attunement ............ 3
+Fortune ............... 12
+
+Note: Entry type — Voluntary.
+The entrant came to find out what he was.
+This is a question.
+He has the right Gift for it.
+The Maw does not have a category for an eleven-year-old.
+The Maw is creating one.
+The category name will be: First.
+```
+
+He read the designation screen and found: he had a Gift that could answer his question. He asked the dungeon: *What am I?*
+
+The dungeon answered.
+
+The chapter does not record what the dungeon said. The Ledger records that Cade stood in the first junction of the Warrens for four minutes and did not move, which was the duration of the answer, and then he sat down on the floor and thought about it for another three minutes, and then he stood up and turned around and walked back toward the Gullet.
+
+He almost made it out. Almost. The Warrens had shifted in the seven minutes he had been standing still, and the passage back to the Gullet was not where he had left it, and he took three wrong turns in a row and the fourth was a dead end.
+
+The bone parasites were there.
+
+He did not have enough time to be afraid. His VIT was 8.
+
+```stat-screen
+DEATH REPORT — CADE
+DESIGNATION: THE QUESTION
+DEPTH REACHED: 2 (THE MARROW WARRENS)
+
+MEMORY CRYSTAL: White.
+Quality: elevated. Interior state at death exceeded the usual crystal categories.
+The entrant knew something at the end that most people do not know at the end.
+Whatever the dungeon told him, it was true.
+Whatever it was, it was enough.
+```
+
+The Maw looked at the White crystal through Reflection and found it could not report the content of the answer it had given. The answer was given in the Gift's format: truthfully, in a form the recipient could understand. The Maw had given many answers. It had never given one to someone who had not yet lived long enough to have complicated the question.
+
+The Maw noted this in the margin: *The Question. Age: eleven. The answer was honest. The Maw does not know if honest was sufficient. The Maw does not know if this is the right question to be asking about an eleven-year-old. The Maw is going to keep asking it.*
+
+---
+
+**V. THE PRIEST**
+
+His name was Devash Kor and he had been a priest for thirty-one years and he had entered the dungeon to perform a rite.
+
+Not a rite of the dungeon — his religion did not have dungeon rites. His religion had rites for endings, for thresholds, for the moment when a thing completed its purpose. He had heard about the dungeon and understood it as a place of endings, and he had the rites for that, and he had walked in at dawn of the seventh day of the caravan's proximity and performed the opening rite in the Gullet.
+
+The rite involved speaking aloud the names of the dead. He knew twenty-two of them now, from Osren's census. He spoke them in the Gullet, one by one, with the full form of each rite. It took forty minutes. He did not rush.
+
+```stat-screen
+DEPTH 2 REACHED: THE MARROW WARRENS
+
+RESOLVE: +1
+Devash Kor: Current Resolve: 21
+```
+
+```stat-screen
+DESIGNATION: THE OFFICE
+GIFT: LAST RITES
+
+When you speak the name of the dead in the place where they died,
+the dungeon receives it.
+The dead are recorded as received, not only as dead.
+The recording is permanent.
+The Ledger adds a line: acknowledged.
+
+COST: THE WEIGHT OF NAMES
+Each name you speak here costs you something you cannot recover.
+Not Resolve. Not Attunement. Not a stat.
+Something unmeasured. Something the Ledger does not track.
+You will know what it is when it is gone.
+
+ATTUNEMENT: 0
+
+STATISTICS
+Vitality .............. 13
+Resolve ............... 21
+Attunement ............ 10
+Fortune ............... 16
+```
+
+He understood the Cost and the Gift together and accepted both. He had accepted costs he couldn't measure before. That was the work.
+
+He navigated the Warrens with the specific confidence of a person who had been in many difficult situations and knew that confidence was a component of navigation. He was not overconfident — he was appropriately confident, which was its own kind of precision. He spoke no names in the Warrens. He was saving the names for the places where they applied.
+
+He reached passage 23's junction and stopped. He knew, from Osren's records, that Lessa Orvane had died here — not here exactly, but in the passage that had been passage 23 when she died, which the Warrens had since reorganized. He did not know which current dead end corresponded to where she had been. He chose the left passage.
+
+He was wrong about the passage, but it didn't matter. What mattered was that he spoke her name in the Warrens, and the Gift activated, and the dungeon received it, and somewhere in the Ledger a line appeared: *Lessa Orvane. Death #19. The Survey. Acknowledged.*
+
+He spoke three more names before the passage sealed. Maren Voss. Maret Dunn. And one of the military names — the Scribe, Reisa Taln — whose inscription he had read on the wall that morning and whose death Osren had noted as Depth 2. He spoke Bren Olat's name, and Solla Dray's, and Ines Maret's, and Cade's — the four new names from the week's record, which Osren had read to him that morning.
+
+He was speaking a name when the bone parasites emerged from the dead end's wall. He finished the name before he addressed the parasites.
+
+He did not speak his own name. He had never spoken his own name in a rite. That was for someone else to do.
+
+```stat-screen
+DEATH REPORT — DEVASH KOR
+DESIGNATION: THE OFFICE
+DEPTH REACHED: 2 (THE MARROW WARRENS)
+
+MEMORY CRYSTAL: Gold.
+Quality: love. Not of a person. Of the work. Of the doing of the thing
+that needed to be done in the place where it needed to be done,
+with the precision the work required.
+The same quality as the crystal before it.
+The second Gold crystal. Both from people who loved something larger than themselves.
+
+LEDGER NOTE:
+The Ledger has received names. Nine names acknowledged.
+This is the first time the Ledger has acknowledged anyone.
+The standard Ledger entry is: recorded, not acknowledged.
+The Gift created a distinction the Ledger did not have before.
+The Ledger will retain it.
+All nine names are now: received.
+```
+
+---
+
+The Ledger recorded the wave.
+
+It recorded them in order, the way it recorded everything — sequential, precise, one death at a time. But at the end of the five entries it added a notation in the aggregate margin, between the last death record and the death count, that it had not added before:
+
+*Five in seven days. Not a group — a proximity. The caravan camped two miles from the entrance. Five people walked from the caravan to the dungeon. They did not coordinate. They did not know each other was coming. They each arrived for a reason that was entirely their own.*
+
+*The Maw did not manufacture the caravan's route. The caravan traveled the northern route because it was the northern route. The dungeon has been at this location since before the northern route existed. The dungeon's presence generated the infrastructure that generated the route that brought the caravan near enough that five people could make an independent decision to enter.*
+
+*Causation at this distance is not recognizable as causation.*
+
+*Or: it is, and the Maw is the cause, and the Maw cannot see that far back in its own history to confirm.*
+
+*The Maw does not know which is true.*
+
+At the entrance camp, Osren closed a page and opened a new one. He wrote the death count at the top of the new page — the way he had started writing it since Death #20, when it had seemed important to him to always know where he was.
+
+He had needed a second effects box. He needed a third.
+
+He looked at the inscription wall from his table. Twenty-eight names. The stone around the five newest entries was still warm — he could see the slight shimmer of fresh inscription from here, the way the stone held heat before it equalized.
+
+He thought about Cade. He thought about the four minutes the child had stood in the first junction, and the three minutes he had sat on the floor, and the wrong turns after that. He thought: I should have stopped him. He thought: he was going to go in regardless. He thought: I don't know if either of those things is true or if I'm telling myself both of them because I can't carry just one.
+
+He opened the book. He wrote, in the ambient observations section, below the crystal records for the week:
+
+*Child, approximately eleven, name given as Cade. White crystal. Longest glow of the wave: fourteen seconds. Asked me why the wall didn't say anything about children. I said the wall doesn't say everything. He was right that it doesn't. I was right that it doesn't say everything.*
+
+*The wall doesn't say everything.*
+
+He closed the book.
+
+*972 remain.*
+
+---
+
+*THE WAVE:*
+*BREN OLAT — DEPTH 2 — FIRST THROUGH*
+*SOLLA DRAY — DEPTH 2 — LAST RECORD*
+*INES MARET — DEPTH 2 — STILL SEARCHING*
+*CADE — DEPTH 2 — THE ANSWER*
+*DEVASH KOR — DEPTH 2 — NAMES RECEIVED*

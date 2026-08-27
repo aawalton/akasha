@@ -1,0 +1,133 @@
+---
+id: 94bda7c8-989f-5b0b-8083-11137dfed22a
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 134"
+slug: 0017-the-level-zero-hero-chapter-134
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 17
+ownLength: 1510
+unit: words
+publishedAt: 2023-06-02
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1233316/the-level-zero-hero-chapter-134"
+royalRoadId: "1233316"
+---
+
+Amelia was fast.
+
+Jax couldn’t keep up with her. The moment she stepped out of Brynn’s inn, she vanished. He was certain that it took her longer to walk out of the room from when she first heard the aftershocks of the explosion than it took her to arrive at her destination.
+
+Even the Forsaken Archer hadn’t yet reached the battlefield. He could see the smoke rising up ahead in between the two hills. The valley had been torn apart— an armored caravan had been stopped by a landslide, and a large crater had been burrowed open right next to it.
+
+A legion of soldiers fled the scene, running away as fast as they could as they screamed in terror. Jax leapt over them. He barely paid them any mind. That was the expected reaction when faced with someone as insanely overpowered as Amelia.
+
+And he was in a rush. He didn’t want to miss out on seeing her in action. After all, he had only seen her in battle against him. He never had a chance to observe and analyze the brown-haired human in a fight against someone else.
+
+“Perhaps I can use that information to defeat her in a duel one day…” Jax whispered softly to himself.
+
+He knew it was a day that was far off. In fact, he was very much aware that it might not even ever happen. Still, it was good to dream— to strive for greatness.
+
+He chuckled to himself as he landed right before the valley. He saw the recognizable, billowing cloak Amelia wore just ahead. She was facing down a high-leveled [Mage] standing atop an armored wagon. Jax shook his head.
+
+“Perhaps one day…”
+
+—--
+
+I stared at the woman dressed in dark robes standing before me. She looked like a wizard of sorts— she even had a long pointy hat that sparkled in the darkness. It was morning, but the column of smoke rising to the sky blotted out the sun, casting a dark shadow over the caravan.
+
+Unlike Rokh the annoying dead guy and Seth the other annoying dead guy, I didn’t know this woman’s name. She hadn’t introduced herself. But even after seeing what I did to the both of them, she still insisted on stopping me from freeing Guildmaster Evan.
+
+I sighed as I raised my sword. “Let’s get this over with…”
+
+But before I could do anything, a voice cried out. I glanced back, looking at Giles— the man I had just saved.
+
+“B-be careful!” he said as he stumbled forward. “Eloise the Dark Wizard is incredibly powerful. She’s an S-ranked mercenary— she doesn’t even work with a group because of her overwhelming magical prowess!”
+
+Eloise and I both looked his way. Giles gritted his teeth, averting his gaze.
+
+“I know you’re a strong [Warrior], but you must always be careful of these tricky [Mages]...”
+
+“A tricky [Mage], huh?” The Dark Wizard tilted her head curiously. “My, my. I am surprised that that is the reputation I have gained. I am quite a direct combatant if I must say so myself.”
+
+I narrowed my eyes as I stared at her. “You’re S-ranked?”
+
+“Indeed, I am.” She nodded in response. “I am surprised that you could not infer that yourself. Is this your first time meeting an S-ranked individual like me?”
+
+“No,” I said as I shook my head. I took a step forward, gesturing vaguely at her. “I’ve fought some S-ranked guys before— but you’re just…”
+
+I paused. Eloise raised a brow. She peered curiously at me as I scratched my chin. I thought about all the S-ranked threats I had fought. I thought about the black lightning bolt she had conjured earlier— the one which I deflected to save Giles.
+
+And I shrugged. “You’re just so much weaker than them. I thought you were only A-ranked, to be honest.”
+
+And that made the Dark Wizard blink as Giles physically recoiled. He pointed at me, trying to work his jaw.
+
+“W-w-what do you mean by that?” he asked, gesticulating wildly at me. “Eloise is the Dark Wizard! I’ve heard that she’s at least Level 63—”
+
+“Well, I have no idea what level Jax was at when I fought him,” I cut him off as I cocked my head back in thought. “But he was way stronger than this.”
+
+Eloise frowned as she hopped off the armored wagon. “Jax? Do you mean the Forsaken Archer?”
+
+She looked me up and down suspiciously. I nodded casually, waving a hand off.
+
+“Yeah, that’s him,” I said simply. “I mean— he’s kinda weak too. But compared to you? He’s way stronger.”
+
+“That’s because he’s one of the highest-leveled adventurers in the entire world.” Eloise pursed her lips as she stared at me in disbelief. “Some even say that he is the highest-leveled adventurer. How could you have possibly defeated him…?”
+
+I waved a hand dismissively at the Dark Wizard. “It was easy. I just punched him in the face, and it was over.”
+
+“That’s it?” she asked, wide-eyed.
+
+“That’s it,” I repeated after her.
+
+Giles rubbed his temples as he collapsed back to the ground. He stared at me, a shell-shocked expression on his face. “You can’t be serious… right?”
+
+“If you really want to—” I started as I glanced past the abandoned convoy. “You could ask Jax about it yourself.”
+
+“What?” Giles blinked.
+
+Eloise’s eyes went round as she spotted the figure standing at the very edge of the battlefield. He wore a hooded cloak, but the hood was down, revealing his pointed ears. He had a bow slung around his shoulders as his arms were crossed over his chest.
+
+“That’s… Jax?” she whispered softly.
+
+And the Forsaken Archer clicked his tongue. “Oi, Amelia! I came here to watch a fight, not to listen to you run your mouth!”
+
+Eloise took a step back as she stared at him. “Impossible…”
+
+Meanwhile, Giles just lowered his head. He looked back, before walking slowly away from me.  “I… I should go check on my team…”
+
+“Yeah, you do that,” I said flatly. I turned to face Jax as he harrumphed in the distance. “Anyways, I kicked your ass, right?”
+
+The elf held his chin high as he scoffed. “It was a grueling and hard-fought battle. A legendary duel between the two strongest individuals in all of Vacuos! Both sides incurred grievous wounds, and it was looking like it could be anyone’s victory. But at the very last moment, I—”
+
+“Jax.” I glared at him, and he flinched.
+
+He cleared his throat, looking away from me. “...and Amelia prevailed in the end.”
+
+Well, while he embellished the story somewhat, he ended up telling the truth in the end. So I nodded— not approvingly, but accepting that that was the best I could get out of him. I turned to Eloise as I gestured at him.
+
+“See?”
+
+“I… I…” The Dark Wizard just stared as she tried to work her jaw. Even just earlier, after seeing me defeat a pair of high-leveled soldiers with ease, she still wore a calm look on her face. But now, she couldn’t even find the right words to say.
+
+I crossed my arms at her as I waited expectantly. “So are you still going to get in my way? Or are you actually going to do the sensible thing and step aside?”
+
+“But my contract…” Eloise hesitated. She glanced between me and the Forsaken Archer, before pausing. For whatever reason, she seemed to stare at him longingly— as if she knew him.
+
+However, Jax didn’t return that gaze. He just wore the same disgruntled look he always wore when he wasn’t fighting. He noticed the way she was staring at him, before his brows snapped together.
+
+“What?” he asked.
+
+Eloise winced. She looked away from him as she bit her lower lip. I didn’t know what was wrong with her, but that seemed like it was enough to convince her. She finally raised her hands in the air, defeated.
+
+“I surrender,” she sighed.
+
+“Thank you.” I nodded at her as I sheathed my blade.
+
+I wasn’t going to question it. I was just glad that she wasn’t going to get in my way too. I walked past her as she hung her head, and I came to a halt right before the armored wagon. I glanced back once. I could see Giles in the distance, applying healing potions to his injured men, and Jax just milling about with a bored look on his face.
+
+I turned back to the armored wagon and reached out for the enchanted metal doorway. I ripped it right off with ease as a sliver of light poured into the dark room. A figure shifted within— chained and ragged.
+
+A bloodied face peeked out of the shadows, staring up at me. But despite the state he was in, I still recognized him. His eyes went wide as he saw me, and I proffered him a hand.
+
+“Amelia…?” Guildmaster Evan asked.
+
+“Hey,” I said as I nodded at him. “I’m here to save you.”

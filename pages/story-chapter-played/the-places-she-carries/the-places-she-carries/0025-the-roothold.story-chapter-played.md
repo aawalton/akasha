@@ -1,0 +1,258 @@
+---
+id: e4a97e12-ae2f-5d78-81f7-aea2d0952a8c
+page-type-slug: story-chapter-played
+title: "The Roothold"
+slug: 0025-the-roothold
+partOf: the-places-she-carries
+position: 25
+ownLength: 2596
+unit: words
+---
+
+The basin path ran south through limestone that had learned her gait.
+
+The substrate felt different than it had in late summer. More present. The Vael resonance ran beneath her boots in a continuous warm thread, and the limestone's response to her weight was not the indifference of unknown ground but something she could only describe as familiarity. She had walked this path enough times that her gait had worn a pattern into her own perception, and now the ground confirmed what she expected of it.
+
+The Eye's basin appeared on her left after forty minutes. She did not stop. She glanced at the pool — still, greenish-silver, the thermal mist lower than before as the season cooled the water toward the air's temperature — and felt the bond confirm: present, attending SSE, transmitting. The circuit was running. She was not the endpoint.
+
+She continued south.
+
+The corruption boundary appeared two hours out from the settlement. The path did not stop at it — the limestone shelf continued south, visible under the grey compacted earth the way the channel ran under Theron's corruption boundary. She stepped over the line where the soil changed color and the insect chorus dropped away and walked through silence.
+
+She had walked through corrupted ground before. It still felt like holding her breath — not from fear but from the particular attention required when the substrate beneath you stops confirming what you expect. No Vael. No insect sound. No bond-awareness of anything living nearby. The limestone still ran underfoot but it carried nothing. She noted that, and kept walking.
+
+---
+
+Hearthstone appeared at midday.
+
+The ghost-elm ring first — the trees twice the girth of Varethen's perimeter trees, root systems forming interlocking ridges that rose above the surface as a continuous raised boundary. The gap in the ring where the path entered. Then the clearing: the drainage grid's channels still visible in the limestone, the garden terraces to the east with their denser autumn growth, the central clearing's open sky.
+
+And the Greenwater on three sides, running lower than in late summer — the seasonal turn showing in the river's width, the banks exposed another half-meter. The white-noise underlayer of the water was quieter. A different quality of silence in the clearing than she remembered.
+
+She stopped at the ring gap and let herself feel it.
+
+Not the compass pull of first visit — that had been directional, pointing her toward the central foundation. This was something different. A resonance that rose from the ground and met the Vael resonance in her body the way two strings tuned to the same note reinforce each other into a single, fuller sound. The limestone bedrock beneath Hearthstone was carrying the Vael at full strength. Not the thread she had felt at the Eye's basin, not the attenuated signal at 3-4 miles' distance. This was the resonance as it ran in the bedrock below her feet at Varethen every morning — the same signal, the same warmth, the same geological substrate.
+
+The Vael did not diminish with distance. The geological formation carried it intact from Varethen to Hearthstone to whatever lay beyond.
+
+She placed her palm on the ring gap's left gate post — a ghost-elm timber, old, the bark smooth with decades of contact — and opened Detail Notation.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY
+  Vael Resonance -- Full-Strength Propagation
+-------------------------------------------------------------
+
+  Geological / Resonant: The Vael resonance carried
+  by continuous limestone substrate does not attenuate
+  over distance. Signal strength at Hearthstone (est.
+  6+ miles SSE of Varethen) is equivalent to signal
+  strength at Varethen's foundation layer.
+
+  The substrate is not a transmission medium with
+  loss. It is a resonant body -- the signal is not
+  carried through it, it is distributed throughout
+  it. Every point on the connected formation holds
+  the full signal.
+
+  Implication: any bonded location on the same
+  geological formation receives the Vael at full
+  strength regardless of distance from Varethen.
+
+  +67 XP
+  +1 Surveying proficiency
+
+  Cumulative XP: 2433 / 2573 (Level 6)
+  Surveying: 81 (Journeyman)
+
+-------------------------------------------------------------
+```
+
+She held that for a moment. Then she crossed the ring gap and walked to the central foundation.
+
+---
+
+The seven marks were there.
+
+Detail Notation marks did not fade or move. They were in the stone itself — her notation, compressed into the limestone surface the way Brecca's [Pressed Intention] compressed warmth into mortar. She could read them the way she read any Detail Notation: by touching the surface and letting the recorded information surface against her current perception.
+
+She placed her hand on the central foundation's east face and read the first mark.
+
+The mark held exactly what she had recorded on Day 27: the foundation's density, the "more present" quality, the sense of intentional reinforcement exceeding anything she had found at the construction sites she had visited with Maret. The mark's recorded perception was Apprentice-level Surveying, no Vael, no knowledge of what intentional reinforcement actually was.
+
+She read the same stone now, at the same surface, through Journeyman Surveying with the Vael active in the substrate.
+
+The difference was the directionality.
+
+On Day 27 she had recorded the foundation as exceptional — dense, intentional, "the kind of certainty I can feel in the gathering hall walls" before she knew Brecca's class or what pressed intention meant. Now she could read what the intention was doing. The reinforcement radiated outward from the foundation's core, yes. But it also radiated downward. Into the bedrock. Into the limestone formation that ran north to Varethen and east to wherever the channel's terminus pointed and SSE toward — something.
+
+She held the Detail Notation and let the ten minutes run.
+
+At minute four she felt it.
+
+Not from above. From below. The Vael resonance in the bedrock was running through the same geological formation that connected Varethen to the Eye to Hearthstone. And here, at the central foundation, the formation did something it did not do at Varethen or at the Eye's basin. The bedrock responded. Not to Wren. To the transmission.
+
+The Eye was sending SSE. The signal arrived at Hearthstone's bedrock. And here, at the central foundation, the signal did not terminate. It went deeper. Down through the limestone's three-layer formation, past the builders' intentional reinforcement, into something the builders had not built but had built over. Something that was already here when they arrived. Something that received the Eye's signal and passed it further down, into a depth she could not read, toward a terminus she could not reach.
+
+Hearthstone was a relay.
+
+Whatever the Eye had been attending to for its entire existence was deeper than the builders' work. Deeper than the corruption. The Eye was sending its signal into the bedrock toward something that was genuinely unreachable at her current depth — not because the corruption blocked it but because the ground itself went further than her bond could follow.
+
+The ten minutes ended.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY
+  Hearthstone -- Signal Relay Confirmed
+-------------------------------------------------------------
+
+  Resonant / Geological: The Warden's Eye's SSE
+  transmission reaches Hearthstone's central
+  foundation and continues downward through the
+  limestone formation. The foundation does not
+  terminate the signal -- it relays it. The Eye's
+  transmission target lies at depth, below the
+  builders' intentional reinforcement, below the
+  corruption layer.
+
+  The builders placed their foundation stones over
+  an existing substrate feature. The feature predates
+  construction. Its nature and depth are not
+  resolvable at current bond depth or Surveying
+  proficiency.
+
+  The geological system was here before the settlers.
+  The settlers built to participate in it.
+
+  +100 XP
+  +2 Surveying proficiency
+
+  Cumulative XP: 2533 / 2573 (Level 6)
+  Surveying: 83 (Journeyman)
+
+-------------------------------------------------------------
+```
+
+She sat with her hand on the foundation for a long time after the resolution ended. The Vael hummed. The transmission ran through the bedrock beneath her. The Greenwater moved on three sides, quieter than in summer.
+
+*The builders built one thing, in pieces.* Theron had said it. She had agreed. But she had been thinking too small. The builders had not built the one thing. They had built around it. Over it. Onto it. They had discovered a geological system that already existed — the Eye, the substrate, the relay beneath Hearthstone — and they had constructed human settlements at the nodes, to participate.
+
+The corruption had interrupted the human part. It had not touched what was below.
+
+---
+
+She spent the afternoon on the remaining six marks.
+
+The well: unchanged. Clean. Functional. The mark confirmed the water table had not moved.
+
+The drainage grid: three channels had more debris than on Day 27 — autumn leaves, seed husks, the ordinary accumulation of a site with no one tending it. But the limestone underneath was sound. The watershed design was intact.
+
+Brecca's interlocking corner: she understood this mark differently now. On Day 27 she had recorded the corner's technique — mortarless, the limestone dressed to fit precisely, the way the two walls met at an angle that distributed weight outward rather than compressing downward. She had not known, on Day 27, that this was the technique that predated Brecca's class by three hundred years, that Brecca would arrive and recognize the quality gap in her own work. Reading the mark now, she could feel the intentional reinforcement in the corner's stones — less than the central foundation, but present. The builders had pressed intention into the load-bearing junctions.
+
+Theron's wall: the external retaining wall's foundation was good. Dry-stack, no settlement. The builders had read the ground correctly — no subsidence in three hundred years.
+
+The market street: the north-south worn limestone was the same. Foot-traffic worn. No intentional reinforcement there — the market street was where the settlers had walked, not where they had worked. The distinction was visible now that she knew what to look for.
+
+The river gate: the limestone gate posts were load-bearing and had been dressed to conduct water away from their foundations. A practical decision, not an intentional one.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY
+  Detail Notation -- Comparative Reading
+-------------------------------------------------------------
+
+  Survey / Temporal: Seven marks placed Day 27 (no
+  Vael, Apprentice Surveying) read against current
+  perception (Vael active, Journeyman Surveying,
+  [Keen Survey] Lv5). Comparison reveals intentional
+  reinforcement distribution: present in load-bearing
+  nodes (central foundation > interlocking corners >
+  threshold-equivalent stones), absent in wear
+  surfaces (market street, worn paths).
+
+  Builders applied intentional reinforcement
+  selectively -- to structure, not to use. The
+  settlement's bones were pressed. Its skin was left
+  to ordinary wear.
+
+  +40 XP
+  +1 Surveying proficiency
+
+  Cumulative XP: 2573 / 2573 (Level 6)
+  Surveying: 84 (Journeyman)
+
+-------------------------------------------------------------
+```
+
+```stat-screen
+-------------------------------------------------------------
+  LEVEL UP
+  Level 6
+-------------------------------------------------------------
+
+  Wren Galley has reached Level 6.
+
+  Cumulative XP: 2573 / 3200 (Level 7)
+  Next threshold: 627 XP
+
+  Attribute points available: 6
+  Free skill point available: 1
+
+-------------------------------------------------------------
+```
+
+She refreshed five of the seven marks. The river gate and market street she let expire; the information was complete and she would not need to return for those. The central foundation, the drainage grid, Brecca's interlocking corner, Theron's wall, the well. Renewed for another thirty days.
+
+---
+
+The pull came while she was eating.
+
+She had found the same sheltered angle on the central clearing's east side, out of the wind, the foundation visible across the clearing. She was eating the dried fruit she had packed — pulling pieces apart by texture without looking at them, setting aside the ones that had stuck together — and she was thinking about the relay beneath the foundation and the thing that was too deep to reach. The pull arrived not as a sound or a sensation but as a question she had not asked.
+
+*What are you waiting for?*
+
+Not the bond asking. Herself asking. She had stood at this site on Day 27 and chosen seeing without holding. She had been right to. She had not known enough to bond well. She knew more now. The Hearth Slot in her bond network had been empty since her first bond at the threshold stone opened it.
+
+She looked at the central foundation across the clearing.
+
+The Hearth Slot was for home. For the place that held the center of a Wayfinder's working life. The place you returned to, that oriented everything else. The threshold stone was the place she returned to every morning. Varethen was where she worked.
+
+Hearthstone was not home.
+
+She said it clearly to herself. Not dismissively — the site deserved more than dismissal. But clearly. Hearthstone was a relay node in something she did not yet understand. She had come to read marks, not to stay.
+
+The question changed. Not *what are you waiting for* but *what will you bring back*. She had the relay confirmation. The comparative reading. The understanding that the builders had built over something rather than built it. She had enough.
+
+She ate the rest of her meal and watched the Greenwater catch the afternoon light. Somewhere below her feet, the Eye's transmission was still running, patient and continuous, into a depth that had been waiting since before the settlers arrived.
+
+She would come back. When she knew more. When she had more to offer the bond than a sixteen-year-old who had read the surface of something vast and not yet touched its depth.
+
+---
+
+She walked the return journey in a day and a half.
+
+The first night she camped in a limestone alcove three hours north of Hearthstone, the Vael in the bedrock beneath her and the pulse math running in her head.
+
+Both observed intervals were 18 days. Pulse 2 at Day 36, pulse 3 projected at Day 54. Drift from original 17-day cycle: one day. Stable, as far as she could measure. But two data points were not a pattern. The third pulse would be the test.
+
+If it arrived on Day 54, both intervals were 18. Stable drift. She would tell the others: the stone had found a new rhythm, one day slower than the original.
+
+If it arrived on Day 55 or later — if the night of Day 54 passed without the pulse — then the drift was growing. And that was something every settlement in the basin needed to know.
+
+She held that question in the dark. Not with fear. With the specific attention of someone whose job was to measure things and report what she found.
+
+On the morning of Day 45, she packed her camp and walked north.
+
+The settlement appeared in the late afternoon: ghost-elm perimeter, threshold stone's position marked by the substrate beneath her feet before she could see it, four people's worth of smoke from the fire pit. She walked through the ring gap and Theron looked up from the channel and Hadley lifted a hand from the journal and Brecca turned from the gathering hall wall.
+
+She set down her pack.
+
+"The foundation is a relay," she said. "The Eye's transmission does not end at Hearthstone. It goes deeper, into something below the builders' work. Something the settlers found and built over, on purpose." She looked at Theron. "The builders did not make the system. They joined it."
+
+Theron was quiet. He turned the trowel over in his hands.
+
+"The pulse," she said. "Both intervals have been eighteen days. The third pulse is in nine days. If it arrives on schedule, the drift is stable. If it arrives late — if Day 54 passes without it — the drift is growing." She looked at each of them. "I wanted to tell you before the pulse. So you know what to watch for."
+
+Hadley opened his journal to a new page.
+
+There was a pulse to watch for, and nine days to watch for it in.

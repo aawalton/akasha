@@ -1,0 +1,35 @@
+---
+id: a8eebbce-7585-5678-b378-585a13bead4a
+page-type-slug: story-chapter-royal-road
+title: "Amelia Book 1 is now out on Amazon KU and Audible!"
+slug: 0015-amelia-book-1-is-now-out-on-amazon-ku-and-audible
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 15
+ownLength: 366
+unit: words
+publishedAt: 2023-05-16
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1214834/amelia-book-1-is-now-out-on-amazon-ku-and-audible"
+royalRoadId: "1214834"
+---
+
+IT'S FINALLY OUT!
+
+Amelia the Level Zero Hero Book 1 is now available on Amazon KU and Audible for your reading and listening pleasure!
+
+I am so excited about this release. First of all, I have Mare Trevathan who narrated Blue Mage Raised by Dragons and Godking's Legacy— two RoyalRoad classics— as the narrator of the audiobook. Secondly, I have taken into account the feedback and critique I received while posting there, and I have made edits to hopefully make the story better for the book release. I have added about 5,000 words of new scenes, and I have removed like 3,000 words of fluff as well. I have also had the book proofread and whatnot for its release, so hopefully that caught most of the typos and mistakes...
+
+Since you guys have already read the story, please check it out and give it a rating or a review. You don't need to buy the book to rate or review it. If I get 100 ratings by the end of the week, I'll post extra chapters for Amelia over the weekend for both Patreon and Public!
+
+Of course, if you have Kindle Unlimited, give it a download. It's free that way. And if you can afford it, consider giving it a buy as well. Seriously, the ebook is being self-published by myself. Unlike other RoyalRoad authors, I did not opt to go with a big indie publisher, so I hope you guys would be willing to support me and give the book a try <3
+
+And if the book does well, I'll commission even more art. Look at this!
+
+And look at what I have as a WIP too!
+
+And this was all for book 1! I have book 2 covers in the works too...
+
+I have big things planned for Amelia if the book does well on Amazon. So please, support me and rate/review/download/buy the books on Amazon and Audible now!
+
+Kindle: Amelia The Level Zero Hero Book 1: An OP MC Isekai LitRPG - Kindle edition by Lewis, V.A., Delta, Melas. Humor & Entertainment Kindle eBooks @ Amazon.com.
+
+Audible: Amelia the Level Zero Hero: A LitRPG Adventure by V.A. Lewis - Audiobook - Audible.com

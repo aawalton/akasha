@@ -1,0 +1,131 @@
+---
+id: 4a2cbd60-4b40-522e-9fed-3454b0f57fc8
+page-type-slug: story-chapter-royal-road
+title: "B2 Chapter 1 - Egoist"
+slug: 0004-b2-chapter-1-egoist
+partOf: apocalypse-healer-path-of-death-progression-litrpgvolume
+position: 4
+ownLength: 2003
+unit: words
+publishedAt: 2025-02-01
+link: "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/2041779/b2-chapter-1-egoist"
+royalRoadId: "2041779"
+---
+
+Blood spears sizzled through the air, whipping past Zachariah to strike their targets. Two spears shattered the skulls of bronze-skinned Orcs while the rest tore through the chests of smaller, azure-skinned ones. The spears exploded upon impact, tearing through flesh and scattering gore.
+
+David watched the bodies collapse lifelessly to the ground with a satisfied smile but dispersed the kill notifications with a grunt as Zachariah’s voice rang out.
+
+“What’s taking you so long back there? Daydreaming?”
+
+“I’m experimenting,” David grunted, “Shut up. I’m a fucking Healer trying to be a wannabe Mage.”
+
+“Oh, really? I didn’t think you remembered.”
+
+Zachariah’s voice cut through the battlefield, overshadowing the monsters’ desperate screams. Did he have to remind me every time? David thought irritably. He was a healer, but that wasn’t all. A Lifeweaver was much more than just a healer; it was a combatant’s calling.
+
+“If you’re busy cursing me in your mind, you might as well cast [Blessing] on me. We’d be much faster that way,” Zachariah shouted as a silver streak swept through the battlefield, cutting several Orcs in two.
+
+A grunt escaped David’s lips, but he started moving again. He cast [Blessing] on both himself and Zachariah, augmenting their strength, before adding [Symphony Control] to the fray. A black dove materialized above Zachariah and screeched loud enough to pull away the attention of several Orcs looking at David.
+
+“Bastard!” Zachariah shouted, though there was a hint of playfulness in his voice.
+
+David summoned the Obsidian Blade from his mind space. The dark blade manifested in his hand, glowing crimson with a cast of [Holy Touch] as he closed the distance to Zachariah. His friend looked busy cutting down the masses of Orcs swarming him. He weaved around the massive clubs threatening to squash him and dispatched three Orcs with swift, deadly thrusts.
+
+Zachariah’s swordsmanship was simple, swift, and deadly to a fault. David could only guess how many years of training and battles Zachariah had endured to wield his blade with such precision.
+
+Having someone like Zachariah by his side was a fortune. Yet, David sometimes felt it was a curse as well. After all, his friend was a man from the future—someone who, despite all his knowledge, couldn’t explain why the Earthen Union or the world’s awakening had changed so drastically.
+
+David tried to make sense of the last 24 hours, but nothing added up. If not even the regressor could fathom the changes, how was he supposed to?
+
+Therefore, he decided to give up. For now, he told himself, he would experience everything from scratch. Together.
+
+David appeared behind the Orcs attacking Zachariah and started cutting them down. His soulbound weapon sliced through the air, severing an Orc’s neck before beheading another. Blood spurted from the monsters’ necks, prompting David to invoke the Law of Blood. Words of Power rolled from his lips.
+
+The Orcs turned toward him—some snarling at the sight of their fallen brethren, others reacting to the echoes of his ancient words. David just smiled. He threw the Obsidian Blade at one Orc and cast [Blood Aegis] to halt another’s charge. A third Orc barreled toward him, but David moved swiftly, evading the incoming wooden club. He lowered his body and pressed his feet firmly into the ground, his arms shooting upward to use the monster’s momentum against it.
+
+Grasping the Orc’s outstretched arm, David hurled it over his shoulder. A sickening crunch resounded, but he didn’t care if something in his or the Orc’s body broke. He cast [Restore] on himself, glimpsed a new kill notification, and retrieved the Obsidian Blade.
+
+The soulbound blade reappeared in his hand as he cleaved downward, piercing the throat of the Orc lying on the ground without hesitation. Words of Power continued to spill from his lips as the pools of blood around him stirred in response.
+
+The blood rippled, then erupted. Spikes of crimson burst from the pools, impaling the remaining monsters’ thighs and abdomens.
+
+David thrust the Obsidian Blade into the carcass of the strongest Orc near him and accessed his storage device to retrieve a set of bearded axes. He coated the axe blades in [Holy Touch] and advanced into the masses of screaming monsters, his heartbeat swallowing the sounds of the world around him.
+
+***
+
+Zachariah and David left the Familia with bulging pouches of shimmering currency slates, their weight a testament to the successful raid.
+
+“Dealing with the Orc Village was worth it,” David remarked, glancing at their spoils. The World Awakening was still fresh, yet it had already begun to reshape their reality. According to the life-updated map, the first Rifts had taken only a few hours to materialize. The nearby regions had been reshaped, spawning settlements outside the Pantheon’s control. The Orc Village, teeming with hundreds of Orcs, had emerged several kilometers north of Arc.
+
+David glanced at Zachariah and smiled wryly. If not for the regressor, he might have gone mad already. Then again, sanity felt like a distant memory. Regardless, he was grateful Zachariah had been there to “explain” things—if one could call it that.
+
+The transcendent organizations of the cosmos are reshaping the Earthen Union with their Modifications, David recalled Zachariah saying. The thought lingered, heavy with implications he barely understood. Forces other than the Pantheon—enemies of the Pantheon—were investing their resources in the Earthen Union, altering it to their needs.
+
+“You take the money,” Zachariah said, handing over his pouch. “I hope the Artificer finishes your Blood storage soon. We’re going to need it.”
+
+He tilted his head. “Or you could get your act together and properly master the Law of Blood. Learn to replenish Blood mid-combat while the Blessing of the World is still active. If not—”
+
+“I know, I know,” David groaned. “If not, it’ll be tens of times harder later. The Blessing is my best chance to grow strong enough to face the future, which—by the way—neither of us can predict at this point.”
+
+Zachariah’s glare was sharp enough to cut steel. “Don’t remind me of that. I’m still processing that everything’s happening much sooner than it should. Even my foes are stronger than they used to be. Those idiots from Pandemonium…”
+
+“At least we won’t have to take many breaks now that I have enough corpses to replenish my Source,” David shrugged. “Maybe we’ll reach the Silver Rank at this rate. I didn’t think wiping out the Orc Village would be this easy with just the two of us.”
+
+As much as Zachariah annoyed him, David couldn’t deny the man’s skill. His fighting was brutal yet mesmerizing, each motion precise and deadly. The regressor wielded his blade with an efficiency born of years of battles and training.
+
+David had tried to mimic Zachariah’s techniques but failed miserably. Forced to adapt his tactics within seconds, he’d felt death breathing down his neck more times than he cared to count. Still, Zachariah’s knowledge of the Laws and the System was invaluable, and he’d taught David just about everything he could.
+
+Their teamwork wasn’t bad either. Zachariah was a remarkable melee fighter, and healing him wasn’t too taxing. A simple cast of [Restore] after each battle was usually enough.
+
+“You saved me from certain death, but that doesn’t mean I’ll sugarcoat my words,” Zachariah said suddenly, his tone cutting. “Your fighting style is arse. I haven’t seen anyone fight as selfishly as you in years.”
+
+David slowed, confused by the accusation, before cocking an eyebrow. “What do you mean?”
+
+“I’m not talking in Common, am I?!” Zachariah’s stare sent a chill down David’s spine. “Most Orcs are muscle-heads. The Bronze Ranks we fought in the Orc Village certainly were. I could have taken them all down alone without getting a scratch.”
+
+David’s gaze drifted to Zachariah’s left arm, where an Orc’s club had struck during the fight.
+
+“You pushed the Orcs onto me to lessen your burden. That would’ve made sense if you’d been acting as support. In fact, if you’d used your crimson shield to protect me or refreshed [Blessing] the moment it wore off, everything would have been perfectly fine. We could’ve wiped out the village twice as fast.”
+
+Zachariah stopped abruptly in the market square and fixed David with a piercing glare.
+
+“You fight like an egoist.”
+
+“Don’t get me wrong,” Zachariah said with a sigh. “I am also selfish and focus mostly on my own fight. That’s why I lost too many good people in the past. It’s the reason I started fighting alone. But if we keep fighting as a team, we must address how we work together.”
+
+David nodded slowly, though some of Zachariah’s comments felt off. He could faintly grasp where the man was coming from.
+
+“I’m not sure you can pull it off,” he admitted honestly. “If you focus only on your enemies—let’s just say the Orcs from earlier—how would you ensure I’d be safe? I mean… you don’t expect me to protect myself from the onslaught of enemies and pay full attention to supporting and healing you, right?”
+
+He could have added that he didn’t trust Zachariah enough to shift to full support, but it didn’t seem necessary.
+
+Zachariah groaned, then nodded after a pause. “It works with Orcs and other less intelligent monsters, but you have a point. If we fight multiple, powerful enemies—intelligent entities—I might not be able to protect you. One might stall me while the others would kill you and tear you apart. But that doesn’t mean it will always be the two of us. We can adjust our fighting style a little while it’s just us. However, something needs to change once we expand our group.”
+
+Expand the group? David considered adding Melach and Torb but noticed something in Zachariah’s eyes—a look that suggested he had other plans.
+
+It would work with Torb and Melach, but more?
+
+David’s lips formed a thin line. Torb and Melach were already often in danger because he lost himself in combat, but then a faint memory surfaced—one of the Fang Den and the other Protectors. Could he have rescued them? He didn’t think so. The Alpha Fang and Beta Fangs nearly killed everyone. It was a stroke of fortune that they survived in the first place.
+
+“So, what’s the plan now?”
+
+Zachariah glanced at him. “What do you mean? We should return to the Wilderness as soon as possible. The Blessing of the World won’t last forever.”
+
+David’s lips twitched. So, what was this talk all about?
+
+“Don’t look at me like that. I was just trying to be honest with you. If I don’t tell you what I think, you won’t be able to improve—if you think my words make sense, that is.” Zachariah shrugged. “A Cleric is the backbone of any group. They protect, support, and heal. But you’re different. Your Class gives you the versatility to do it all—fight, defend, and heal. That’s why it’s so important to develop your potential.”
+
+David studied Zachariah closely. Something about him had shifted since the World Awakening. A tension, a burden he hadn’t fully revealed.
+
+“You’re strong, and you should keep fighting. But if you can protect people, ensure they survive… you should,” Zachariah added, his voice softer now.
+
+For a fleeting moment, David caught something in Zachariah’s eyes. Was it sadness? Regret? Guilt? Frustration? He couldn’t tell, but it irked him.
+
+“If you’re so keen on rescuing people, why didn’t you become a Cleric? I didn’t pick the Class because I wanted to. It was forced on me due to the circumstances. But you’re different. You had a choice.”
+
+Zachariah winced at that, the look in his eyes intensifying. “My magical abilities are average at best. I’m just not good at controlling Magical Skill Runes,” he sighed. “My skills should have been enough to solve most problems in the first year of the integration if I followed my destined path… but everything’s changed.”
+
+David raised an eyebrow at that.
+
+“So, I’m better than you? That’s crazy,” he chuckled, ignoring the sharp glare Zachariah threw at him.

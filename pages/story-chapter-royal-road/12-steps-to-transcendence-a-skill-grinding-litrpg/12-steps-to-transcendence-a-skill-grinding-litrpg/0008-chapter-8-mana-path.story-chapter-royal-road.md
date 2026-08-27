@@ -1,0 +1,321 @@
+---
+id: 68602ff2-24ad-509b-8374-42e1b2691880
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: Mana Path"
+slug: 0008-chapter-8-mana-path
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 8
+ownLength: 2632
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701729/chapter-8-mana-path"
+royalRoadId: "3701729"
+---
+
+"You did what?"
+
+Duncan spat on the dirt floor and stared at him as if he had grown a second head.
+
+Jeez, say it, don't spray it.
+
+Ben wiped a drop of spit from his cheek and gave the giant man the flattest look he could manage.
+
+"I poured a hundred percent of my essence into Mana."
+
+Duncan sputtered and waved his huge hands in the air.
+
+"Why the hell would you do that?!"
+
+Because mana is awesome, obviously.
+
+Before Ben could actually voice that perfectly logical reasoning, a loud smack echoed through the tent.
+
+Duncan rubbed the back of his head and glared down at the healer. "Hey!"
+
+Hannah crossed her arms and ignored the whining giant.
+
+"Like you're the one to talk, you Strength path maniac!"
+
+Duncan scowled, muttered something under his breath, and looked back at Ben. Ben met his gaze, keeping his expression completely unamused.
+
+Hannah sighed and turned her attention back to Ben. She clearly wasn't happy with his life choices.
+
+Still, Ben had his reasons, and they made sense to him.
+
+Admittedly, Duncan hadn't been the best influence.
+
+The man was very strong, frighteningly so. Ben had seen it himself last month, when a stray beast wandered too close to their camp, and Duncan stepped forward to obliterate the monstrosity with a single punch.
+
+It was an insane display of violence that had made a deep impression on Ben.
+
+Today, he finally learned the secret behind that: Duncan was a Strength path maniac, dumping every single drop of his essence into a single path.
+
+Ben wanted that same kind of overwhelming power.
+
+He just wanted it with mana.
+
+A balanced approach always looked good in theory, but 'balanced' usually just meant average. Here, being a jack of all trades wouldn't cut it. Since waking up in this harsh world, Ben realized the only thing that mattered was strength, and real strength never came from playing it safe.
+
+If he didn't take risks, if he didn't have a clear physical weakness to push himself, how would he ever grow? Extreme danger demanded an extreme answer. He had to be ruthless with his strengths to make up for his weaknesses.
+
+So, he chose his path and planned to stick with it until the end.
+
+"Make sure you allocate some essence to the Constitution path when you advance to Tier 2."
+
+Hannah pinched the bridge of her nose and shot him a stern glare, snapping him out of his thoughts.
+
+"We were already going to teach you, but I guess it's gonna be a priority now. Unless Duncan manages to beat [Mana Reinforcement] into you so you can eventually combine it with your [Physical Conditioning], your body will literally explode."
+
+Wait, what?
+
+"Your body wouldn't be able to handle the sheer amount of mana trapped inside a frail vessel. Got it?"
+
+Ben nodded and thought about it. They would help him for now, so he was safe. Later, he could probably figure out something by combining it with a mana skill.
+
+Maybe some kind of mana body tempering? Sure, why not?
+
+So why would he waste his precious essence on anything besides mana?
+
+Seeing the clear dismissal in his eyes, Hannah shook her head in defeat.
+
+"Men."
+
+She snorted.
+
+"Anyway, we will keep up your physical training. And over the next month, we'll expose you to the different affinities."
+
+Ben perked up right away, forgetting all about the horrible physical training part.
+
+"What about the caravan?"
+
+He tilted his head, remembering they were supposed to take him away when they got here. Hannah scoffed and suddenly looked a whole lot older.
+
+"I highly doubt that'll arrive anytime soon."
+
+Falling back into his daily grind, Ben found his brutal routine had somehow gotten even worse. Duncan had officially invited the other soldiers to join in on the daily beatdowns. They called it sparring, but it was just a polite word for getting his ass kicked by different elements.
+
+Facing off against a wide variety of affinities, Ben took the beatings like a champ.
+
+No matter how many times he got hit by earth or splashed with water, nothing ever happened.
+
+His core didn't react at all.
+
+Hannah sighed in frustration and finally decided to step in herself.
+
+"There are only a few affinities left to test."
+
+She tapped her chin and looked him up and down.
+
+"It's possible you might have one of mine. The only other option is probably fire, but we'll have to ask Logan to test that one. And I don't think you have a space affinity, and we can't bother the commander anyway."
+
+"Logan who?"
+
+Ben frowned, unable to place the name at all.
+
+"My vice captain. Fire affinity is the rarest of the common ones. So we only have him."
+
+So that's the asshole's name.
+
+"Anyway, time to fight me, kid."
+
+Hannah cracked her knuckles and stepped into the clearing, smiling brightly in a way that was scary.
+
+"Wait, she can fight?"
+
+Duncan snorted and slapped his knee, clearly amused. "'Course she can. She's a soldier for a reason, even if she's specialized as a healer. Though, yeah, she isn't that strong—"
+
+Hannah shut Duncan's mouth with kinetic energy.
+
+Ben swallowed hard and stared at the smiling woman, feeling extremely nervous. She wouldn't beat him up too bad, would she?
+
+She really did beat him up badly.
+
+"Okay, I completely deserved that."
+
+Ben rubbed his swollen cheek and groaned from where he lay in the dirt. She was unbelievably strong. She hadn't even touched him once!
+
+Using her kinetic energy, Hannah had literally just tossed him around like a ragdoll.
+
+She blasted him with invisible forces, slamming him into the ground again and again until he couldn't get back up.
+
+She snorted at how pathetic he looked, then walked over and sat beside him. She reached out and started using her life mana to heal his bruised face.
+
+"I'm going to beat you up on a regular basis from now on."
+
+"Why?"
+
+Ben stared at her, feeling completely betrayed. He couldn't believe what he was hearing.
+
+"Because nobody else in the camp has a kinetic or life affinity."
+
+She applied a soothing warmth to his cheek, but she didn't look sorry at all.
+
+"I need to constantly expose you to my magic to see if your core reacts to either of them."
+
+Ben nodded slowly. He had to admit, it made a lot of sense.
+
+Accepting his grim fate, he decided to check his notifications while she worked her healing magic.
+
+[Focus Lvl 1 > Lvl 5]
+
+[Physical Conditioning Lvl 1 > Lvl 3]
+
+Ben read the notifications and felt a wave of satisfaction. He didn't understand why [Focus] was leveling up faster than his other skills, but he wasn't about to complain. Over the past few days, his skills had been improving steadily. Still, when he looked at his status, he couldn't help but feel annoyed that [Mana Sense] hadn't leveled up at all.
+
+Even though it had only been five days since he advanced, Ben could see real changes in his body.
+
+"Ow."
+
+Ben winced at the sudden sting of healing and snapped out of his thoughts as Hannah finished patching him up.
+
+"Did I hit you too hard?"
+
+She looked down at him with a frown, and for a moment, she seemed a little concerned.
+
+"No, I was just distracted."
+
+Shaking his head, he immediately voiced his burning questions.
+
+"My skills have leveled up quite a bit, so why is [Mana Sense] so slow? And why is [Focus] leveling up so fast compared to everything else? Even [Physical Conditioning] is fast…"
+
+Sighing tiredly, she stood back up.
+
+"That's because [Mana Sense] requires mana for you to sense. So far, you've only been watching or kind of 'feeling' other people's mana. You need to have your own mana first before you can improve that skill. It usually takes about a week for a human body to get used to Tier 1. You're on the slower side. But, in theory, you should be able to feel your own mana very soon."
+
+She brushed the dirt off her pants and looked at him.
+
+"You gained it mostly because of your heavy investment into the Mana path."
+
+"Ohhh."
+
+Blinking in realization, Ben finally understood the missing puzzle piece.
+
+"Yeah. So get a handle on your mana quickly!"
+
+"I get it, don't yell at me, old lady!"
+
+A vein popped on her forehead. "As for [Focus] and [Physical Conditioning], there is a reason. You are in what we call the calibration phase."
+
+Ben decided it was best not to antagonize her any further.
+
+"What's the calibration phase?"
+
+"Basically, when you advanced to Tier 1, the system just registered skills you were already good at. Your body was already in better shape before you even got [Physical Conditioning], but you can only officially gain new skills, or level up any skills you had beforehand, upon advancing to Tier 1. Because [Focus] is an innate skill you got upon system awakening, it has been with you for a while, and you have a ton of banked progress that's just catching up."
+
+"So there's no way to gain new skills while at Tier 0? Or level them up?"
+
+"Well, I wouldn't say that's completely true, even though technically, yes, you can't get new skills while at Tier 0. But there are ways to experience skills, even if you don't have them, so people use those methods to get some experience."
+
+"I see."
+
+After they talked a bit more, she left Ben sitting in the dirt, thinking over everything he'd learned that day.
+
+In the days that followed, sparring with Logan actually turned out to be surprisingly effective. After taking blast after blast of scorching fire mana, something finally resonated with it deep inside Ben's core.
+
+Ben had a fire affinity.
+
+And thus, his new training regimen under the older warrior officially began. Logan rarely spoke a word during their daily sessions. Knowing Ben wasn't actually a skinwalker, the scarred man had dropped the open hostility.
+
+But Logan still always wore an intimidating frown that made any casual conversation utterly impossible.
+
+Not that Ben wanted to chat anyway. He still wanted to punch Logan in the face at least once. He promised himself he would, and Ben always kept his word.
+
+For some reason, the older man took it upon himself to help Ben expand his arsenal and decided to teach him a variation of one of his own signature skills.
+
+Logan wanted to teach him a skill called [Fire Burst], which sent a powerful burst of fire straight from the heels.
+
+"Why the heels, of all places?"
+
+Ben found himself wondering.
+
+Logan shrugged his shoulders and explained his reasoning.
+
+"It's primarily a movement skill."
+
+The warrior crossed his arms and stared down at him.
+
+"I think it will suit you, so that's what I'm going to teach you. Besides, it will make you put yourself in danger to attack anything, and danger works wonders for your skill growth, quite literally."
+
+And so, that was the start of Ben's nightmare as he tried to learn the skill. Logan stopped sparring with him and focused only on teaching him [Fire Burst].
+
+The training regimen for it turned out to be absolute hell. If Duncan was a strict brute, Logan was a certified lunatic.
+
+Every morning started with exhausting laps around the camp until Ben's lungs practically gave out. He'd been doing that before, for sure, but not with a literal fire behind his ass forcing him to move forward!
+
+Logan ran behind him with what Ben guessed was his mana flaring. Fire mana, to be exact. And it was very hot.
+
+But on the second day, after surviving that hellish routine, a sudden breakthrough occurred regarding his mana. Ben could suddenly feel it.
+
+Then came the actual mana channeling practice.
+
+Logan made him stand barefoot on solid rock and told him to push his fiery mana down into his feet. This caused a lot of burned skin and very painful blisters.
+
+Ben could do it, for sure. Controlling mana was easy, almost like breathing, but it hurt like hell when the mana he was supposed to be moving was scorching hot!
+
+He told the man so, and this was his only reply:
+
+"It's only easy because you're manipulating it internally and you have [Mana Sense] to help you. That, and the Duncan effect of one path craziness. Still, that's a good thing. It means we can skip many steps. Don't expect to have an easy time controlling mana outside your body, however. Now keep moving it down your legs exactly as I'm telling you to!"
+
+When Ben actually had some free time, he spent his evenings by the campfire with the regular soldiers. He'd gotten to know a few of them.
+
+He lost badly at cards and listened to the men tell wildly exaggerated stories about their past adventures and monster hunts. Most of the time, he just tried to focus on the strange energy bubbling in his chest and ignore his sore feet.
+
+All that time obsessively moving mana inside him finally paid off, but not in the way he expected.
+
+After a few days, he gained some levels in [Mana Sense] and a lot more in [Focus]. As both skills got better, it became easier and easier to move mana internally.
+
+But the progress on the actual fire skill he wanted to acquire remained painfully slow. Logan made him jump off boulders, demanding he use a burst of fire to cushion his fall.
+
+Most of the time, Ben just ended up face first in the dirt.
+
+It was an exhausting cycle of burning his feet and bruising his ego. As he rubbed his blistered soles, Ben glared at the smoking rock under his feet.
+
+Damn it.
+
+This was completely ridiculous.
+
+Logan let out a heavy sigh and pinched the bridge of his nose.
+
+"This would have been far easier if I had a memory shard for the skill."
+
+A what now?
+
+Ben tilted his head, ignoring the throbbing pain in his feet.
+
+"But unfortunately, we don't have the equipment for recording those. And there are no monsters nearby that drop them, so you're out of luck there, too."
+
+Ben blinked quickly and latched onto that interesting bit of information.
+
+"What exactly is a memory shard?"
+
+Scowling deeply, Logan just pointed a stern finger back at the scorching rock.
+
+"Focus on your training, kid."
+
+Asshole.
+
+With no one to help, Ben came up with his own theories about memory shards over the next few days, but he couldn't figure out anything conclusive.
+
+So he decided not to bother the grumpy man for more details and instead threw himself back into the grind, spending days blowing dirt under his feet.
+
+He got burned over and over and practically destroyed his blanket in the process when, one night, he woke up from a nightmare with fire mana already bursting from his feet out of instinct.
+
+But on the fifth day, something finally changed. As he channeled mana down his legs, the heat pooled in his heels without burning him.
+
+Then the blast went off. An explosion launched his legs forward.
+
+Unfortunately, his upper body didn't follow along. Pulled hard by his heels, his legs shot straight up. His center of balance completely evaporated in a split second. With his feet pointing at the sky, gravity took over.
+
+Oh shit!
+
+He landed right on his face.
+
+He groaned pitifully and didn't even try to get up. But right on cue, a notification appeared in his vision.
+
+Would you like to learn the skill: [Fire Burst]?
+
+He spat out the dirt and mentally screamed his confirmation.
+
+YES!
+
+Congratulations! You have learned the skill: [Fire Burst]!

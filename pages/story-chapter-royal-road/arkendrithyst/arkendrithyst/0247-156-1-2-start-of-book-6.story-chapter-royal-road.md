@@ -1,0 +1,419 @@
+---
+id: 771ee170-e52e-5741-89f0-2c1b475ea45a
+page-type-slug: story-chapter-royal-road
+title: "156, 1/2, Start of Book 6"
+slug: 0247-156-1-2-start-of-book-6
+partOf: arkendrithyst
+position: 247
+ownLength: 5093
+unit: words
+ownProgress: 5093
+publishedAt: 2021-10-10
+link: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/764747/156-12-start-of-book-6"
+royalRoadId: "764747"
+markedReadAt: "2026-06-29T22:15:44.737Z"
+---
+
+“So, yeah. That happened.” Erick said, “And now I’m going to take a nap. We can leave afterward.”
+
+Erick and Poi had both gotten back to the temporary house in Holorulo not ten minutes ago, whereupon Erick instantly launched into a brief summary of what had physically happened, both to him and to Yggdrasil, when he summoned his [Familiar] to the lake. He also showed off the transformed Quest box for the Worldly Path somewhere inside of that explanation. He did not speak of his thoughts, or his emotions, because, as he was pretty sure he had already said twice—
+
+Erick said to Jane, “Yes; it’s naptime. Talk to Poi if you want to know more. I am beat.”
+
+He was fine, Status-wise. He had slowly, methodically, put another 65 points into both Willpower and Focus, bringing up his new maximum Mana to 13,560, and his Mana Regeneration (and Health Regeneration) to 56,820 per day, or 15 to 16 mana per second. That was while he was Resting, of course.
+
+Which he felt he really needed to get to—
+
+Actual resting, that was. Not just Meditation. He was not okay; not emotionally, not mentally. He felt drained, probably because he had been—
+
+Oh? He felt Drained. Was that another aspect of a [Gate]-summon? Such summons Drained the caster? Or was the weakness he was feeling just because Yggdrasil was a World Tree, still very much attached to him, and Yggdrasil had needed more than what Erick had given him in order to grow? Probably no way to know, for sure.
+
+Ah. Erick realized his mind was wandering again.
+
+He barely even remembered what he had said to Jane or Nirzir. Oh, and look at that, Teressa was there, too. Erick almost giggled a bit; how could he not have noticed the giant woman in his presence?
+
+Jane frowned at her father, more concerned than angry, though anger was her default setting and there was certainly some of that going on. She said, “There’s no reason for us to leave today if you’re feeling bad. We can take another day.”
+
+“Nope!” Erick said, “Yggdrasil said he needed to sleep, too, so when I’m done with my nap, he might be done with his own. Then, I’m gonna go wake him up and try to leave him with some treasure to safeguard. I’d love to be able to have him handle holding onto our stuff while we’re on this Path.”
+
+“Okay? Sure, dad.” Jane said, “We’re going to talk more about what happened out there, right? When you wake up?”
+
+“Sure.” Erick said, “See you all in a bit.”
+
+And then he went to his room and crashed.
+
+- - - -
+
+Erick woke up to the feeling of a presence lurking nearby. Someone was in the room with him.
+
+First, came panic, then came mana sense and Hunter’s Instincts as he opened his eyes and—
+
+Oh.
+
+It was Yggdrasil’s [Scry] eye. It was floating right above him. Three meters wide. Iridescent and staring; unblinking. Watching him sleep.
+
+Hovering just above his bed.
+
+Erick rolled over and faced the ephemeral eye. It shimmered slightly, visible even without Meditation running.
+
+Once Erick’s heart calmed down, he said, “Hello, Yggdrasil.”
+
+Yggdrasil spun a bit in recognition of his name.
+
+Erick willed relaxing thoughts into his mind; puppies and babies and sunrises and coffee…
+
+He shut his eyes tight as he stretched, and sighed out. A few seconds passed, and he began to switch up his spellwork. He turned off [Hunter’s Instincts], and turned on everything else. First thing first: a recast of his daily [Personal Ward], spending 13,000 mana in the process, almost emptying himself in order to defend himself. His primary defensive layer was now worth just over 160,000 points of absorption. After a few minutes of passively regenerating, he began recasting his Ophiel, spending a pittance of mana in order to gain [Familiar]s that were each packed with 13,560 of their own mana. Then he began running [Lodestar] and [Greater Lightwalk].
+
+He opened his eyes again.
+
+Yggdrasil was still way, way too big.
+
+Erick said, “I’m gonna need you to make your eye smaller when you’re around me, big guy. You’re too conspicuous.”
+
+Yggdrasil’s eye went perfectly still for a moment, and then it broke into ambient mana. The eye came back much smaller, but still iridescent white.
+
+“Perfect,” Erick said.
+
+Yggdrasil hopped down through the air, to land on Erick’s shoulder.
+
+It was time to get up, apparently.
+
+And then Erick got up. According to the water clock in the corner of the room, he had been asleep for barely an hour. As he left his bedroom behind, with Yggdrasil’s eye on his right shoulder, Ophiel alighted upon his left. The rest of Ophiel had already lightstepped away, outside to play in the wind, or to stand guard on the corner of nearby buildings like usual.
+
+Poi, Teressa, Jane, and Nirzir, were all doing their own things, with most of them talking to other people with [Telepathy], and only Teressa reading a book. She could carry plenty of those things in her own bag, so that’s what she had done; she was prepared for down time.
+
+All the rest of their stuff had already gone into a boulder that then went out into a hiding spot.
+
+But now…
+
+Erick entered the room with Jane and Poi, saying, “I’m going to move the hiding spot to Yggdrasil and see him up close and personal. Anyone want to come with me?” He raised his voice, saying, “Teressa! Nirzir? Want to come see Yggdrasil?”
+
+Poi said, “Not me. Some other time, when he is not so young and loud. No one else should go, either.”
+
+Jane looked to her father, saying, “We discussed it while you were sleeping. I’ll go some other day.”
+
+Teressa stepped out of the library, saying, “The only person who should have personal contact with a young arbor is their creator. I’m pretty sure that goes the same for World Trees, too.”
+
+“Yes; that.” Jane said, “We asked around, and that’s what Treehome suggested.”
+
+Nirzir came out of her room, acting quiet. Erick could tell by the slump of her shoulders that she wanted to go, but she had likely been talked down by Poi, or the others.
+
+Erick looked to the young girl, and to be sure, asked, “Not you, either?”
+
+“It is not my place.” Nirzir said, “But I thank you for the invitation, all the same.”
+
+“Okay.” Erick looked to his people, and to the one extra in their midst, and said, “I guess I can understand that. Then… I’ll leave the stuff where it is, in case you all need to get at it.”
+
+Poi nodded, “Thank you, sir. We’ll be here when you get back.”
+
+Erick looked around, paused, then said, “I’ll be right back.”
+
+And then he lightstepped away.
+
+- - - -
+
+Erick flashed into existence upon the solid stone coast of the lake, his sunform raised around him for a brief moment. And then he pulled his sunform back. He felt pretty safe at the moment.
+
+Yggdrasil loomed ahead, dominating the land.
+
+The nascent World Tree already looked very much the part.
+
+Erick took in the brilliance of it all, just standing there for a minute or five, gazing at the glowing green leaves, and the expansive branches…
+
+At some point he switched from taking in the beauty, to nailing down specifics.
+
+The lake was three kilometers across, and Yggdrasil was at least two across, though that measurement got a bit funky in some of the areas…
+
+Erick started in the middle, and then he looked down.
+
+The lake’s waters ringed a thick white trunk, at least 350 meters wide, that rose from off-center of the lake. Down below, thanks to an Ophiel on scene, Erick saw that the trunk widened out under the water’s surface.
+
+Yggdrasil glowed, slightly; all of him glowed, actually.
+
+It was a faint white glow that wasn’t readily apparent above the waters, unless you noticed that there weren’t many shadows upon the tree, but below the lake’s surface the glow was much more visible. Down in the depths, Yggdrasil was a white brightness upon the abyss.
+
+Following the trunk, Erick found Yggdrasil’s roots. His first impression was of an artful tangle of a dozen trains, all flowing out of the trunk like snakes released from a massive pipe. Those massive roots, some fifty meters wide, some only thirty, arced into the shadowed water and buried themselves into the stone below. Those glowing white roots, and many, many smaller roots, resurfaced from the lake bottom here and there, a hundred, two hundred, even thousand meters away from the dig-in point, to gracefully arc into the dark waters, bringing light to the depths, before digging back into the dirt below.
+
+There was a lot of space for fishes and other aquatic life to live down there. Erick would experiment with trying to [Teleport Other] some fish from the lake at Candlepoint, to this lake here; maybe that’s all [Gate] actually required. But he’d do that later, when he was feeling 100% and after he had a talk with Yggdrasil, since, apparently, Yggdrasil was talking, now.
+
+Erick turned his sights upward, to the Ophiel flying inside of Yggdrasil’s boughs. He suspected that the vision above the waters was more impressive than whatever was happening down below.
+
+Above the choppy waters, branches began to split from the thick trunk at about 90 meters above the water’s surface. They extended outward like weighty roads in the sky, some of them almost as thick as the main trunk itself. Now that he looked a bit closer, every single large branch was almost like a spread of lightning, originating from the trunk and striking out. Where the ‘lightning’ ended, glowing green leaves grew. Each leaf resembled green fire, captured in the form of a maple-like leaf, but spikier.
+
+Every part of Yggdrasil glowed, which meant that there were no great shadows among those boughs. In fact, there might not be any shadows on Yggdrasil, at all. He was definitely using [Greater Lightwalk] and [Lodestar] as a protective measure, just like Erick.
+
+The canopy of Yggdrasil extended upward like any oak tree normally would, except this ‘oak’ was maybe two kilometers tall. In all other ways, Yggdrasil could have been an artist's impression of an oak. The central area was mostly devoid of the endpoints of branches, so it was therefore mostly devoid of leaves, while the outside was a layer of glowing leaves a good few hundred meters thick.
+
+It was actually very open in the interior. The main trunk bent this way and that, but not much, while shooting off lightning-like branches as it stretched upward. Now that Erick was seeing it, fully formed…
+
+There was lots of space in Yggdrasil...
+
+In fact, there was one nice crook in the center that would be perfect for a two story getaway. The location was about a kilometer and a half off of the ground, but that was fine. Maybe Erick could build a nice little three-story house up there! Or maybe a nice mage tower? Not today, though.
+
+In most ways, Yggdrasil resembled a very large oak, but one would have to disregard Yggdrasil’s main feature, if they wanted to believe he was just a simple, large tree.
+
+A fifty-meter thick ring of rainbow light surrounded the entirety of Yggdrasil. That spellwork was the product of [Kaleidoscopic Radiance] taken to an extreme form. Erick had included that spell with Yggdrasil because he wanted Yggdrasil to be able to support himself, both as a plant and to mark him as a Light Essence creature, to further support his growth. But since [Kaleidoscopic Radiance] supported the existence of all Light Essence creatures, it might not be long before the first light slimes started growing around here.
+
+But the ring of rainbows was over two hundred meters from the ground, so maybe it wouldn’t be that bad?
+
+Nah.
+
+It would be ‘that bad’, for sure.
+
+It might take a while, but Yggdrasil’s variant [Kaleidoscopic Radiance] was a large spell. Soon enough, there would be Light Essence slimes growing up around here. There were probably some Light Essence monsters back at Candlepoint’s lake, too; Erick just hadn’t heard about them.
+
+Hmm.
+
+This was a concern because of Erick’s bargain of trade with the Headmaster, which precluded him from making another Light Essence dungeon for a period of 10 years. Erick imagined that he would probably have to have a conversation about that with the old dragon sooner, rather than later.
+
+“All in all,” Erick said, “You’re huge and beautiful. A bit larger than I thought you’d be at this young age, but they always grow up faster than you expect them to grow up.”
+
+Yggdrasil’s [Scry] eye lifted off of Erick’s shoulder and floated forward, as if inviting Erick in. Ophiels had already flitted inward, singing nonsense violin songs, filling the air with gentle sounds. Erick briefly wondered what sort of animals and otherwise would come to live in Yggdrasil, or if he would keep them all away...
+
+And then Erick stepped upon the light, and followed.
+
+Yggdrasil was much, much bigger, once Erick got underneath the boughs. The scale of it all had been hard to grasp until Erick got inside. He felt a bit giddy; a bit happy and weirded out at the same time. He chuckled as he reached Yggdrasil’s trunk. From a distance the bark looked almost smooth, but up close Erick saw that it was faintly textured, with tiny fissures all across the surface. White glows radiated from within those shallow cracks. It looked similar to the bark of a young oak tree.
+
+He put a hand upon the surface and it was like touching body-temperature stone. White glows rippled out from the point of contact. Erick smiled, as he said, “Hello, my big beautiful boy. How are you feeling now?”
+
+“I am good.” Yggdrasil’s voice was that of a small child, and this time it wasn’t nearly that loud. “Are you good, father?”
+
+Erick giggled with pure joy, and said, “I am doing great. I needed that nap.”
+
+“I needed nap, too.” Yggdrasil said, “I still need nap. I like watch you. I need you talk more.”
+
+His words were a bit… incomplete. A bit misleading, maybe? That was something that would improve with time, for sure.
+
+“And I need to talk to you more, too.” Erick said, “Now that you’re talking, I can talk to you like I talk to Ophiel. Now that you’re on both sides of the world, we can talk wherever we are.” He took his hand off Yggdrasil’s trunk and glanced upward, into the center of Yggdrasil’s crown. Erick started stepping upward, staying alongside the trunk as he said, “I have many things to talk about, but what would you like to talk about?”
+
+“I like being new place. Your dream word of worlds give good thought. I like that. I like water here. Water different. Sky nice. I grew self at other lake. Sky there nice. Dry without me. I don’t like dry. I make it rain.”
+
+“Oh? You grew your other body?” He was doing a lot on his own, wasn’t he? Erick asked, “Are you still raining over there how I asked you to rain? Or are you doing your own thing, now?”
+
+“Doing normal rain. Rain in evening. Clouds lots. I miss some days. Shadow people yell about missing rain. But I like day. Light good. I like rainbow. I love you.”
+
+Erick smiled wide. He was above the second major layer of outward branches, almost to the center of Yggdrasil’s canopy, but he stopped. Yggdrasil’s declaration of love was that of a child; pure and wholesome, and it had caught Erick far off guard. Fortunately, Erick had an easy, true response, “I love you, too, Yggdrasil.”
+
+Yggdrasil said, “I want cast spells Ophiel. I want help you. How I do that?”
+
+“Do you want to help me, first? Or do you want to cast spells, first?”
+
+“They same, yes?”
+
+“A person can help another with simple words, or with actions that are not based in magic. But people like you and me will most often be helping others with magic, so, in that way, the two things you want are inexorably linked.” Erick asked, “Do you understand?”
+
+“Yes.” Yggdrasil clarified, “How I help you like Ophiel help you? Kill enemies? Save your life? Keep you safe?”
+
+Well.
+
+That was… Slightly worrying?
+
+Ophiel twittered in curious guitar twangs; he had heard it too.
+
+Erick decided that now was the time to make sure that Ophiel was raised right, for sure.
+
+Erick patiently said, “When I made Ophiel, I made him so that I would have a versatile helper to follow me around, to do what I could not do because I am only one small person. When I made you, I wanted a defensive structure to protect me, and other people. You were to be my safe space, Yggdrasil, and so I made you with defense in mind.” He had walked around while he talked, but it didn’t take long to find the spot he was looking for. There was a nice crook in the main trunk, about two thirds of the way up from the water’s surface. The main trunk rose toward the south west before becoming like any other branch, while a large branch squiggled north east. At the split, the ‘land’ was mostly flat. Erick stepped down onto Yggdrasil at this spot, and then sat down. “There is so much more to keeping someone safe than killing everyone else. Killing should always be the very last resort, and I work very hard to try and prevent as much death as possible. But I am very small, and the things that threaten me are wide and varied, and so I sometimes have to respond with lethal force. But you are very big. Nothing should be able to threaten you, therefore you should not threaten anyone else. The use of force to solve a problem is a very large topic that you are too young to fully grasp right now, so we’ll have this conversation again when you’re older. Maybe in a month. Maybe in two months. For now, I will say this: I would much prefer if I could run to you for defense against the other large things out there. I don’t like the idea of you killing things to protect me.”
+
+For a long moment, Yggdrasil was silent, then he asked, “So not like fish?”
+
+“...What do you mean by that?”
+
+“Fish eat whatever jaws catch.” Yggdrasil said, “Some fish kill more than eat.”
+
+“Are you talking about monsterized fish? One with little gems inside their chests?”
+
+Another long moment.
+
+“Different fish?”
+
+Erick gently smiled, said, “I’ll paint some lightpictures for you.” He cast a lightward into the air, bringing forth two images of fish, but one was larger, with a core inside its chest. “Here we have two fish. The smaller one will eat smaller fish, but will stop when it is full. The larger one is a monster, which will kill because it wants to kill. That spot inside the larger one? Do you see it? Near the heart. That is called the core, or the rad. It has a few different names. But that is a crystallization of mana that marks a monster as a monster. Do you understand?”
+
+“… No.”
+
+“Let’s leave that for another time, then. Let’s back up.” Erick asked, “Do you understand that I don’t want you killing unless it is necessary? Killing is almost never necessary.”
+
+“I… I understand. No kill. Only help. How can help?”
+
+Erick nodded. “We will work through some spells, and in doing so, I will get a feel for how you can best help me, and you will learn how to do that helping. Do you understand?”
+
+“Yes. Show me.”
+
+Erick smiled, saying, “First, I will protect myself with a [Prismatic Ward] from Ophiel, and then we can play around with your spellwork, okay?”
+
+“I do [Prismatic Ward]! Here!”
+
+A hundred meter sphere of dense air popped up around Erick, enveloping him and a great deal of the branch he was sitting upon. It was too large. Perhaps Yggdrasil got a massive size modifier to his magic? Erick didn’t know, which was why there was a need for experimenting.
+
+Ophiel twittered in unsure guitars as he hopped off of Erick’s shoulder and landed on Yggdrasil’s branch. Almost experimentally, Ophiel tapped the gently glowing bark with a wing, and then he tapped the dense air.
+
+“That looks good, Yggdrasil.” Erick asked, “How much mana did you put into that working?”
+
+“… Lots?”
+
+Erick smiled. “That is very good, but I’d like you to let me show you how I would defend myself, okay?”
+
+“Okay!”
+
+Erick explained what he was doing while he had an Ophiel cast a 10,000 mana [Prismatic Ward] around himself. It was much smaller than Yggdrasil’s sphere, and it only had permissions for himself, Ophiel, and Yggdrasil; Erick had no idea what sort of permissions Yggdrasil had declared for his own cast of [Prismatic Ward], and he said as much.
+
+Yggdrasil said, “I let fish into [Prismatic Ward]. Should I not?”
+
+“[Prismatic Ward] is one of your most defensive spells. You should only use it on an area that you, or those precious to you, inhabit.” He added, “But normal, harmless fish should be able to move around inside a [Prismatic Ward]. Do some fish stay outside that density? The larger ones, perhaps?”
+
+“All fish small.”
+
+Erick laughed. “The less small ones, then. Do the less small fish stay outside the density?”
+
+“Yes! Are monsters?”
+
+“Not always.”
+
+“Hmm. Complicated.” Yggdrasil said, “How I protect from complicated?”
+
+Erick smiled, saying, “Now that is a very large question, too. First, let’s see how you can cast, and then I’ll help you learn some basic defensive techniques using some of the new magics that I have recently created, and some of the ones you are already using.”
+
+“Yes!”
+
+Erick relaxed, and expanded his senses out to Yggdrasil—
+
+It was like dissolving into sleep, where everything became an impression, and nothing was as Erick knew it to be. The sky was a rainbow. The land was dark liquid. The air was an ocean, and also a lake. Erick saw absolutely everywhere, all around himself, like he was possessed of many, many eyes. Erick pulled back after the disorientation became too much; he was only in there for less than a minute.
+
+He was laying down on Yggdrasil’s upper branch, for some reason. He must have blacked out for a moment there, for only moments had passed.
+
+Erick said, “That was more disconcerting than I was expecting. Bear with me, while I try to understand what I was seeing.”
+
+“I liked that. Try again?”
+
+Huh?
+
+“Why did you like that?”
+
+“World turned solid.” Yggdrasil questioned, “You my coffee?”
+
+Erick laughed, then said, “Nothing like a shot of coffee to wake you up in the morning, right?”
+
+“Right! You say!”
+
+Erick didn’t think he said that that often, but he wasn’t going to split hairs with a child.
+
+Erick returned to Yggdrasil.
+
+The world dissolved into dreams, and Erick knew this was not going to be easy. He realized that spending some time with Yggdrasil needed to become a priority, but that would have to happen later. He decided to spend a few hours at this, and then it was time to go confront some dragons. Erick pulled back again, back into his own body.
+
+He went back and forth like that a few times, each experience gaining him more of an understanding of the dreamscape—
+
+Oh.
+
+Hmm.
+
+The dreams were getting thicker. The world was becoming more impressionist.
+
+Erick pulled back, and asked, “Yggdrasil. Are you feeling sleepy?”
+
+“… Yes.” Yggdrasil said, “Being awake hard. Coffee not coffee.”
+
+Best cut this short for today, then. Erick said, “I’m going to cast a few spells through you, and help you gain an understanding of them, and then I’m going to let you sleep, okay?”
+
+“… Okay.”
+
+Erick took control of Yggdrasil like he would Ophiel.
+
+It was like using his fingers to move an ocean.
+
+And what was even stranger, was that he could move an ocean with just his fingers.
+
+Erick weathered the strangeness, and he designated a spot directly ahead of himself. With a cast, [Spatial Denial] took hold of the air—
+
+The spell blossomed outward, spreading across the entirety of Yggdrasil, flowing into the lake below, and beyond. When the spell finally finished spreading it was twice as wide as the lake, and it was still a spherical cast. Erick’s own [Spatial Denial] had a radius of half a kilometer. With a little bit of math to figure out the volume multiplier…
+
+Erick’s eyes went a little wide. Yggdrasil’s cast of [Spatial Denial] was over 220 times the volume of his own. Going off of the flat area of effect, instead, Yggdrasil’s [Spatial Denial] covered about 36 times the area of Erick’s cast of the same spell. That was impressive.
+
+Erick said, “This is [Spatial Denial]. It will prevent people from [Teleport]ing into your space.”
+
+“OH! I use. Yes. Stop pesky blippers. I use right now.”
+
+Yggdrasil canceled the [Spatial Denial] in front of him and recast the spell, himself, filling out the lake with the spell. He had Shaped it, a bit. And all on his own.
+
+Well then.
+
+Erick said, “Very good. Yes; to stop pesky blippers, and yet, you must leave a hole in the center somewhere, so that I, or Jane, or Poi, or Teressa, can retreat to this location, if we get in trouble.”
+
+“I understand.”
+
+The [Spatial Denial] vanished, then came back, with a large space cut out of the working where Yggdrasil had cast his [Prismatic Ward]; around where Erick was right now.
+
+Erick asked, “Are you okay for mana?”
+
+“I have mana.”
+
+Erick nodded, then continued, “This next one is [Unmoving Air]…”
+
+Erick spent a good twenty minutes going through some defensive spellwork, talking about the strengths and weaknesses of each spell, important edge cases, and various necessities that needed to be taken into account. For instance, Ophiel couldn’t fly if [Unmoving Air] was cast around the space, so [Unmoving Air] shouldn’t really be used unless there was a need to stop some pesky [Air Body].
+
+“Pesky dirt body always around me.” Yggdrasil said, “Poking and stealing. I use [Unmoving Stone] now.”
+
+“… Oh?” Erick was concerned, but… ‘dirt body’ was a problem for Yggdrasil to solve. Maybe. For now, anyway. When Erick got back to Spur and Candlepoint, he’d see what was happening there. Erick said, “You need to stop whoever is doing that, but don’t kill them. [Unmoving Stone] should be a good counter against them.”
+
+“I understand.”
+
+They didn’t get far past a few more spells.
+
+Yggdrasil’s greenery began to fade; the brilliant fire of the leaves becoming more mundane. The glowing white bark under Erick’s butt was turning grey. Yggdrasil was getting very tired, but he wasn’t willing to stop, either.
+
+So Erick put an end to the day, saying, “We’ve had a big day, Yggdrasil. Is it time for another nap for you, okay?”
+
+“I awake!”
+
+“Yes, you are awake, but I know you are sleepy. Do you want to sleep?”
+
+“But when I sleep… you gone?”
+
+“Yes, I have to move on. I’m not big and strong like you, so I have to be proactive toward the threats laid against me. But if anyone threatens you, you let me know, okay? You let me know what happens to that dirty body person.”
+
+“No one threaten me.”
+
+“Don’t let anyone hurt you, either, but in that same way, try not to hurt anyone else in turn.”
+
+“I know these words. I like helping fishes get away from other fishes.”
+
+Erick smiled, for many different reasons. Yggdrasil’s words were improving, for one.
+
+“You’re sure to encounter plenty of different types of fishes on this side of the world. New friends, of all sorts. I hope you befriend everyone.” Erick patted the bark next to him, saying, “I love you, Yggdrasil.”
+
+“Love you, father.”
+
+“Good night.”
+
+“Good night.”
+
+Erick smiled wide, happy as could be. And then he turned to light, and stepped away.
+
+- - - -
+
+Erick stepped into the dining room, feeling great. He said to Poi, “That went well.”
+
+Poi said, “Seems like it did.”
+
+“It’s time to leave.”
+
+Soon, they were ready. The boulder with their stuff would remain in the dirt, and not with Yggdrasil, since Erick decided that Yggdrasil was too young to understand such a burden. And then, wrapped in light, Erick, Jane, Teressa, and their guest, Nirzir, lightstepped out of the house, headed to the north.
+
+Leaving behind Songli felt like leaving behind friends who he would likely see again. It was a nice sort of feeling.
+
+Anyway.
+
+Ophiel had already scouted out their destination.
+
+Clan Pale Cow and their Warlord Niyazo were situated about 350 kilometers from Ooloraptoor. They had been traveling toward that central meeting place for the last week. Erick hoped that they wouldn’t mind the sudden, unexpected visit, but he expected it to go well enough.
+
+He could have messaged ahead, but, according to the travel guide [Telepathy] was taboo unless a war was going on, and even then it was considered ‘wrong’, somehow. Poi was probably in for a specific kind of shunning, but if the man was worried about that, he never said.
+
+Erick could have sent a letter, but he would have needed to use their bird-assisted mail system in order to send that letter. Apparently, [Teleport] was similarly taboo. They still got their cows to the markets of Songli through [Teleport], but only butchered meats; not the cows themselves. Food was fine to transport, just not living people.
+
+Hence, Erick decided to show up unannounced.
+
+Who knew what would actually happen! Erick expected answers about dragons, or at least a direction in which to seek them. In order to get those answers, Erick was prepared to respond with assistance (within reason) for whatever problems Clan Pale Cow was having. He wasn’t hiding who he was, this time.
+
+If need be, and if diplomacy failed, he was very much planning on bulldozing his way through whatever problems were foolish enough to get between him and the dragons.
+
+That was the last resort, though.

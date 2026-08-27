@@ -1,0 +1,285 @@
+---
+id: 531df9fd-0bb2-5eac-a75e-40d6f8dca8a2
+page-type-slug: story-chapter-played
+title: "The Weight of Cold"
+slug: 0004-the-weight-of-cold
+partOf: breath-of-the-wild
+position: 4
+ownLength: 4464
+unit: words
+---
+
+He left the old man's campfire before dawn.
+
+The sky was grey-pink at the edges, the stars still visible overhead, and the Plateau was quiet in the particular way of a place holding its breath between night and morning. The old man was asleep — or pretending to sleep, which was the same thing with the old man. The fire had been tended in the night. It was always tended.
+
+Link ate an apple in the dark, checked the slate, and walked north. Toward the mountain. Toward the two remaining shrine glows, amber against the grey slope, pulsing with the patient certainty of things that had been waiting for ten thousand years and could wait a few more hours.
+
+The cold found him before the snow did.
+
+He was halfway up the northern slope when the air changed — not gradually but in a line, as though someone had drawn a border on the hillside and the weather on either side had agreed to stay separate. One step: the Plateau's mild autumn warmth, grass and birdsong and the faint smell of wildflowers. The next step: silence, and a chill that pressed against his face like a flat hand.
+
+His breath clouded. The first time it had done that since waking.
+
+The grass thinned. Frost appeared on the blades — delicate, crystalline, catching the grey morning light in tiny flares. Then the grass gave way to rock, and the rock gave way to snow, and the snow was ankle-deep and the cold was no longer a suggestion. It was an instruction.
+
+His fingers stiffened first. Then his jaw, the muscles tightening involuntarily, his teeth wanting to chatter. The numbness started in his toes and climbed — calves, knees, a spreading absence of sensation that replaced the world's usual hum of warmth with nothing. The cold did not attack. It withdrew. Heat left his body the way water left a cracked vessel, steadily, in every direction, without violence.
+
+The slate's vitals flickered.
+
+Not a chime. Not a notification. The heart display at the screen's edge pulsed — a fractional dimming, so brief he might have imagined it. Then again. A quarter-heart's worth of warmth, gone. Drained by the air itself. No enemy. No impact. The mountain was taking from him, and the mountain was patient, and the mountain had all day.
+
+He stopped. Reached into his pack and pulled out the doublet — the old man's gift, dark blue, quilted, heavier than his threadbare shirt. He'd carried it since the cabin. He pulled it on over his shirt and fastened the front, and the cold receded. Not gone — contained. The doublet pushed back against it the way a wall pushes back against wind, and the margin between what the cold wanted and what the doublet allowed was narrow but real.
+
+He could function in this margin. He could climb.
+
+Before the snow deepened, he built a fire in the lee of a rock shelf. The last of the spicy peppers from the lowland went into the pot — three of them, bright red, their sharp heat rising in the cold air like a challenge. The cooking was quick now. He knew the rhythm: ingredients in, lid on, patience. The slate chimed.
+
+```stat-screen
+    COOKING
+    ---
+    Spicy Sauteed Peppers
+    Ingredients: Spicy Pepper x3
+    Hearts: +3 | Effect: Cold Resistance (Lv 1) | Duration: 6:30
+    ---
+```
+
+He ate standing up, the heat of the peppers spreading through his chest and outward through his arms, a warmth he carried inside that the mountain couldn't reach. Doublet on the outside, peppers on the inside. Two layers between himself and the cold. He stamped the fire out and kept climbing.
+
+The path — if it was a path — wound between boulders and stunted pines, the trees smaller and more hunched the higher he went. The snow deepened. His boots broke through the crust with each step, and the effort of pulling free became the rhythm of the climb: crunch, sink, pull, step. Repeat. His calves burned. His lungs worked harder than they should have, the cold air thinner here, drier, carrying less of whatever lungs needed.
+
+A wind came up. Not the Plateau's gentle breeze but a mountain wind — constant, directional, pressing against his right side with the flat insistence of something that wanted him to stop. Snow lifted from the ground in thin, horizontal sheets. His eyes watered. The amber glow of the shrine was visible above him, pulsing through the white, and he fixed his gaze on it and climbed toward it the way he'd climbed toward the first light in the corridor — because the alternative was staying where he was, and staying was not something his body knew how to do.
+
+---
+
+The shrine was buried in snow.
+
+Its amber glow pulsed through a drift that had built against its entrance, warm light leaking from beneath white powder. He brushed the snow from the pedestal and placed the slate. The chime sounded — the same two-note tone, but muffled here, absorbed by the snow and the silence. The ground opened. The elevator descended.
+
+The shrine's interior was warm.
+
+Not warm the way the lowland shrines had been — not the engineered absence of temperature. This one was actively warm, and the reason was immediately clear: water. Channels of it, running through the stone floor in carved paths, pooling in basins, flowing from sources he couldn't see. The air was humid. The blue-gold light reflected off the water's surface and scattered across the ceiling in shifting, restless patterns.
+
+He approached the rune pedestal.
+
+The transfer was different again. Magnesis had been expansion — a new sense. Bombs had been force — the addition of destruction. This was structure. The vibration ran through his palm and settled in his awareness as a geometric certainty: water surfaces were no longer just wet. They were potential.
+
+```stat-screen
+    SHEIKAH SLATE UPDATED
+    ---
+    Rune Acquired: CRYONIS
+    Create a pillar of ice from a water surface.
+    ---
+```
+
+He pointed the slate at the nearest pool. A targeting reticle appeared on the water's surface — blue, precise, pulsing. He activated.
+
+The water erupted.
+
+Not upward gradually but all at once, crystallizing in a heartbeat — a rectangular pillar of ice, chest-high, angular, geometric. Not natural ice — too clean, too deliberate, too perfectly rectangular. Sheikah ice. The sound was a cracking-crystalline noise, like a lake freezing in fast-forward. Frost spread outward from the pillar's base in a ring, and the air above it shimmered with cold.
+
+He touched the pillar. Solid. Load-bearing. Cold beneath his fingertips, but a different cold than the mountain — engineered cold, precise, without the mountain's patient malice. He pressed his weight against it and it didn't move. He climbed onto it, stood on top, and felt the ice hold him the way stone holds a person. Certain. Unquestioning.
+
+The substance that had been draining his warmth outside was now his building material.
+
+---
+
+Three rooms. Three problems. The rhythm was familiar now: each slightly harder, each building on the last.
+
+The first: a water gap too wide to cross. He created a pillar in the centre — stepped onto it, the ice solid and cold beneath his boots. Then a second pillar farther out. Then a third at the far edge. Three steps across water, each one solid, each one temporary. When he created a fourth, the first dissolved behind him — cracking apart and sliding back into the pool with a sound like exhaling. Three was the limit. He was learning the rune's boundaries the same way he'd learned the mountain's: by reaching them.
+
+The second: a gate, partially submerged, blocking the corridor. He created a pillar beneath it. The ice formed under the gate's lower edge and lifted — stone grinding against crystal, the gate rising on a column of ice. He ducked underneath. The pillar held the gate for as long as the ice existed. Architecture from water. Temporary, functional, real.
+
+The third: a water channel feeding a mechanism. The flow turned gears that moved a platform in a repeating loop — always in the wrong position when he needed to cross. He placed a pillar in the channel, blocking the flow. The water diverted. The gears stopped. The platform settled into place. He crossed. Flow, diverted. Problem, redirected. The most abstract puzzle yet, and the satisfaction of it hummed in his chest like the rune itself.
+
+---
+
+The monk was waiting.
+
+He walked toward it knowing what would come. Third time. Same posture, same robes, same ancient stillness. He stood before the platform and watched the figure without expectation. The words arrived.
+
+*Your resourcefulness in overcoming this trial speaks to the promise of a hero.*
+
+The dissolution. The gold light, spreading, softening. The body unmaking itself with that terrible gentleness. The sphere of warmth drifting to his slate.
+
+He watched the monk's face — what remained of a face, dried skin over ancient bone — as the glow reached it. He watched until the face was light and the light was nothing and the platform was empty. He did not look away.
+
+```stat-screen
+    SHRINE OF TRIALS
+    ---
+    Keh Namut Shrine
+    Trial: Cryonis Trial
+    ---
+    Spirit Orb acquired.
+    Spirit Orbs: 3/4
+    ---
+```
+
+Three of four. One more.
+
+The elevator carried him up. The cold was waiting at the surface, pressing against the shrine entrance like a patient animal. He pulled the doublet tighter and stepped into the snow.
+
+---
+
+The elevator rose. The shrine's warmth fell away below him, and the mountain's cold crashed back like a wave breaking over a wall — sudden, total, pressing against every exposed inch of skin. He pulled the doublet tighter. The pepper warmth in his chest was fading. The cold noticed.
+
+The descent from the mountain was its own kind of trial.
+
+The snow was deeper on the southern face — thigh-deep in drifts, the footing uncertain, the ground beneath the snow alternating between rock and ice without warning. His boots punched through the crust with each step, and the effort of pulling free and stepping again was constant and cumulative. His legs burned. His stamina felt finite in a way it hadn't on the lowland.
+
+The cold eased as he descended. Incrementally, the way it had arrived — a border crossed in reverse, the mountain's grip loosening by degrees. The snow thinned to frost. The frost thinned to dew. The rock warmed beneath his boots and the first bird called past the treeline — tentative, testing the silence the way a swimmer tests water. Then another. Then a third, bolder, its call carrying across the slope with the confidence of a creature that owned this altitude. The Plateau's sounds reassembling around him as the mountain released its hold.
+
+The lowland was warm. After the mountain's insistent chill, the temperate air felt luxurious — a gift, not a default. His body loosened. Muscles he hadn't known were clenched against the cold released their grip, and the relief was physical and total. He pulled the doublet open at the collar and let the warm air find his chest.
+
+He passed through a stand of pines where the light filtered green and amber and the ground was soft with needles. Two creatures were rooting through a camp near a stream — squat, red-skinned, grunting over a pile of mushrooms. He drew the sword from the shrine's chest — a short blade, light, adequate — and the Traveler's Sword from his belt.
+
+The fight was brief. He used the runes without thinking about it — Magnesis to pull a metal shield from the camp's weapon rack before the creatures noticed him, the shield clanging across the dirt and startling them into confusion. Then he was among them, sword work clean and efficient, the body-memory guiding his feet and hands with a precision that was becoming less surprising and more familiar.
+
+The camp had a bow. Hung from a post near the fire pit — simple wood and cord, a traveler's weapon like the sword. He tested the draw. The string bit into his fingers and his shoulders accepted the tension the way they accepted sword weight: without surprise. His body knew bows. He slung it across his back beside the Guardian Sword. A quiver lay in the grass nearby — ten arrows, maybe twelve. He took them.
+
+The second creature threw a rock. He sidestepped, closed the distance, and the Traveler's Sword connected with a sound he'd heard before but hadn't registered as wrong. A thin sound. High-pitched. The blade vibrating differently than it should.
+
+He looked at the sword. A crack ran along the blade — hairline, following the grain of the metal, starting at the tang and climbing toward the edge. It had been forming for days. Through the shrine puzzles, through the creature camps, through the mountain climbing where he'd used the flat as a pry bar against frozen stones. The sword had been telling him it was tired, and he hadn't been listening.
+
+He sheathed it carefully and switched to the Guardian Sword — the blue-white Sheikah blade from the second shrine. Lighter. Sharper. Twenty points of attack where the Traveler's had five. The upgrade was real. He tried not to think about what it meant that he was already relying on its replacement.
+
+---
+
+The fourth shrine was on the Plateau's western edge, past the forest, on a bluff overlooking the lowland. No snow. No cold. The air was temperate and the grass was green and the contrast after the mountain was almost disorienting — warmth, birdsong, the smell of earth and growing things. His body relaxed muscles he hadn't known were clenched.
+
+Same pedestal. Same descent. Same blue-gold architecture. But this shrine felt different — not in design but in Link's awareness of it. Four shrines now. He knew the ritual. Slate on pedestal, chime, descent, trial, monk, dissolution. The pattern had become liturgy.
+
+The rune pedestal waited.
+
+This transfer was the strangest. Not perception, not force, not structure. The vibration ran through his palm and settled into his awareness as something he had no word for — a relationship with time itself, or with the version of time that objects experienced. The chamber changed. Not visually, not physically — but objects gained a property they hadn't had before. A yellow shimmer at their edges, faint, visible only to this new awareness. The boulders, the platforms, the mechanisms — they all glowed at the margins, announcing themselves as things that could be acted upon. Things that could be paused.
+
+Four runes now. Four new layers on the world. Metal glowed pink. Water was architecture. Explosions were tools. And now time could be stopped. He was running out of ways the Plateau could surprise him, and the running-out felt less like loss and more like competence.
+
+```stat-screen
+    SHEIKAH SLATE UPDATED
+    ---
+    Rune Acquired: STASIS
+    Freeze an object in time. Kinetic energy stored during freeze.
+    ---
+```
+
+A boulder rolled toward him on the chamber's sloped floor — repeating, looped, following a track carved for this purpose. He pointed the slate. Activated.
+
+The boulder stopped.
+
+Not gradually. Not with the elastic resistance of friction or weight. It stopped the way a word stops when someone holds their breath — mid-syllable, suspended, glowing yellow. The boulder was there, physical, solid, but time had released its grip. It hung in its trajectory like a caught thought.
+
+He walked past it. Three seconds later, the yellow faded. The boulder resumed rolling as though nothing had happened. It didn't know it had been paused. Time didn't know there was a gap.
+
+---
+
+Three rooms. Three problems. The rhythm was the same, but the rune bent it in new directions.
+
+The first: the rolling boulder, blocking a corridor. He froze it, walked past, watched the yellow glow from the other side. When the freeze released, the boulder resumed its roll — mid-revolution, mid-trajectory, as though the intervening seconds had been removed from its experience. Everything else in this world moved, broke, burned, dissolved. This was the first thing he could make stop. The boulder didn't know it had been paused. The gap in its timeline was invisible to it. He thought about the place where he'd woken — the basin, the blue water, the voice — and wondered how long his own gap had been.
+
+The second: a seesaw platform. A boulder on one end, a metal cube on the other. He froze the cube with Stasis. Hit it. Once, twice, three times, five — each strike storing energy, visible as an arrow growing longer and brighter with each blow, pointing in the direction of accumulated force. The colour shifted: yellow to orange to red. He stepped back. Released.
+
+The cube launched.
+
+It flew — actually flew, a solid metal object rocketing across the chamber, trailing yellow light, and slammed into the far wall with a sound that shook the floor. The boulder-end of the seesaw dropped. The platform on Link's side catapulted upward. He rode the momentum, grabbed the ledge above, and pulled himself onto the next level.
+
+Physics bent to will. The satisfaction was enormous and specific — the feeling of having discovered something the world could do that the world didn't know it could do.
+
+The third: moving platforms, cycling between positions on a track. Never in the right place when he needed to cross. He timed the freeze — caught a platform at the apex of its swing, locked it in place for three seconds, and sprinted across. The platform resumed its cycle the moment he stepped off. The world didn't care about his convenience. Stasis forced it to care, briefly.
+
+Then the final chamber. No Guardian Scout. No combat. Just the monk, waiting on its platform, the way monks had been waiting since before he was born.
+
+---
+
+He stood before the fourth monk and paused.
+
+Not because he didn't know what would come — he knew precisely. The words, the glow, the dissolution, the orb. He paused because this was the last one on the Plateau, and the last one felt like it deserved a moment before it began.
+
+He waited in the silence of the completed trial. The shrine hummed. The blue-gold light pulsed. The monk sat in its ancient stillness, patient beyond anything Link could comprehend, and he stood before it and let the silence hold.
+
+The words came.
+
+*Your resourcefulness in overcoming this trial speaks to the promise of a hero.*
+
+He had heard them four times now. They had not changed. But he had changed enough to hear what they were actually saying. Not *you passed a test*. Something older. *I waited for you.* The promise was not his — it was theirs. Made ten thousand years ago. Kept in the dark. Fulfilled now, in this room, with this dissolution and this gift.
+
+The gold light spread through the monk's hands. The body softened, came apart, dissolved into radiance. The sphere formed. It drifted to his slate.
+
+```stat-screen
+    SHRINE OF TRIALS
+    ---
+    Owa Daim Shrine
+    Trial: Stasis Trial
+    ---
+    Spirit Orb acquired.
+    Spirit Orbs: 4/4
+    ---
+```
+
+Four of four.
+
+The counter was full. The warmth in his slate was heavy — four gifts, four dissolutions, four people who had spent ten thousand years preparing to end. He carried them all. He didn't know what the orbs were for. He knew they cost everything the monks had.
+
+---
+
+On the path toward the summit, he passed a lone creature picking through a ruin. He tried the new rune — pointed the slate, activated Stasis. The slate pulsed once, a flat tone. Nothing happened. The creature kept picking at the rubble, oblivious. The rune didn't work on living things. Only objects. He filed this away and kept walking.
+
+---
+
+The Traveler's Sword broke on the way to the summit.
+
+He was clearing rocks from a path — prying loose a stone that had wedged between two boulders — when the crack he'd noticed earlier finished its work. The blade separated from the hilt along the stress line, a clean fracture, the two pieces falling away from each other with a metallic clarity that sounded nothing like the branch snapping in his first fight. The branch had been a dry pop, comic in its finality. The bone club had been a dull split. This was a surrender — the metal giving its best and reaching its limit.
+
+He looked at the hilt in his hand. Empty. The blade in the snow.
+
+He picked it up. Turned it over. The fracture was clean — a stress line that had been building since the first hard impact, invisible until the swing that made it visible. His grip had worn the leather wrapping smooth in exactly the shape of his hand. No other hand would have fit. The sword had given him everything it had.
+
+Everything here had a shelf life. Even the things he trusted.
+
+He tucked the hilt into his belt — he didn't know why, it was useless now — and drew the Guardian Sword. Twenty attack. Blue-white Sheikah metal. It hummed in his hand, alive with the shrine's own energy. A better weapon in every way. It would also break. He was learning to hold things without believing they would stay.
+
+The summit was above him. He climbed.
+
+Mount Hylia's peak was a narrow ridge of exposed rock, scoured clean by wind that never stopped. The cold was sharper here than anywhere on the mountain — a thin, high cold that cut through the doublet and the pepper-warmth beneath it and reached the bones. His breath came in white plumes that the wind tore apart before they'd finished forming.
+
+He stood on the ridge and looked.
+
+His legs shook from the climb. His forearms ached from the places where he'd gripped rock and pulled. The cold had found every gap in the doublet — the collar, the cuffs, the place where the fabric met his trousers — and set up permanent residence. His fingers were numb. His face was raw. The effort of standing upright against the wind was continuous and nontrivial.
+
+The world opened below him like a book.
+
+He could see everything from here — every landmark, every direction, every mile of the kingdom he was about to enter. The fire mountain to the northeast, its smoke a constant column against the sky. The dark castle to the north, its tendrils coiling upward, patient and wrong. The twin peaks to the southeast — two mountains leaning toward each other across a river valley, their symmetry too precise for accident. Forests. Plains. Lakes catching the afternoon light like scattered mirrors. A world built to scale that exceeded his experience.
+
+But this time the view was different from the one that had overwhelmed him on his first day. He could name things now. The broken temple below — the one with the statue, where the old man's face had gone raw with grief. The eastern abbey — the dome, the dark eye, the machine he had measured and deferred. The old man's cabin, trailing smoke. The four shrine entrances, their amber glows dimmed now, their trials completed, their monks dissolved.
+
+The Plateau beneath him looked small. Curated. A garden he'd outgrown in four days. Four shrines, evenly spaced. One guide who knew everything. One sealed perimeter. Someone had built this place as a curriculum for one student, and the student had finished the coursework, and the edge of the garden was no longer a wall but a door.
+
+Beyond it: everything.
+
+He stood on the summit until the wind made his eyes water. Then he descended.
+
+---
+
+The old man's fire was burning when he arrived.
+
+Of course it was. Perfectly tended, the logs arranged with geometric precision, the coals banked exactly right. The old man was standing — not sitting, standing — near the fire, and when he saw Link coming through the grass his face did something Link hadn't seen before. A tightening around the eyes. A breath, held and released. His hands, normally so steady, pressed flat against his thighs as though anchoring themselves.
+
+"You have what I asked for," the old man said. It was not a question. His voice was steady but the steadiness was work — a thing he was choosing, not a thing that came naturally. Something underneath the words was shaking.
+
+Link stopped at the edge of the firelight. Four Spirit Orbs in the slate. Four runes. The Guardian Sword on his hip, humming. The Traveler's Sword hilt tucked into his belt, useless, kept for reasons he couldn't explain.
+
+"Come to the Temple of Time at dawn," the old man said. "We'll make the trade."
+
+He turned away. Tended the fire — moving one log a quarter-turn, exactly, opening the draw. The same precise movements as always. But his hands were trembling. Very slightly. In the fingers.
+
+Link sat by the fire. The warmth after the mountain cold was its own kind of mercy — the heat spreading through his doublet and his skin and into the deep cold that the summit had planted in his bones. He ate food the old man had prepared. He didn't ask why the old man's hands were shaking. He didn't have the language for the question, and the old man didn't have the composure for the answer.
+
+They sat in the firelight, the two of them, the way they had every night since Link had woken. Four nights. It felt longer. It felt like a life — the only life he had, built from fires and shrines and the old man's careful, measured company. Tomorrow the trade. Tomorrow the paraglider. Tomorrow the sealed edge of the Plateau would become a launching point instead of a wall, and everything beyond it — the fire mountain, the dark castle, the twin peaks, the forests and plains and lakes he'd seen from the summit — would become reachable. The old man tended the fire. Link watched the flames. The Plateau was quiet around them — the birds settled, the wind calm, the shrine glows dimmed to nothing. Everything was finished. Everything was about to begin.
+
+The old man's back was to him, hooded, firelit. His hands were still trembling. He had waited a hundred years for this moment — the hero returning with proof that he could be trusted with the truth. Tomorrow he would reveal everything. Tonight, he tended the fire, and the boy who didn't remember him sat across the flames, alive and growing, and the trembling in the old man's hands was not weakness.
+
+It was a century of patience, finally allowed to end.
+
+Link closed his eyes. The fire cracked. The stars turned.
+
+Tomorrow.

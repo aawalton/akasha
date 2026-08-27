@@ -1,0 +1,207 @@
+---
+id: cf87f0f3-f54c-5c31-b01e-e1403bef3305
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch38: Let's Stop The Eruption"
+slug: 0045-b6-ch38-let-s-stop-the-eruption
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 45
+ownLength: 2655
+unit: words
+publishedAt: 2026-03-26
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3196948/b6-ch38-lets-stop-the-eruption"
+royalRoadId: "3196948"
+---
+
+If Arthur could have pulled Cressida into the power of his time card and extend the moment, he would have. But that was impossible.
+
+Reluctantly—very reluctantly—he pulled away from Cressida and carefully studied her face. She was flushed, her eyes sparkled, and she wore a silly grin that Arthur suspected he was mirroring. She was so beautiful.
+
+He also saw the lines of strain around her eyes from her recent healing. He saw, too, an echo of the creeping realization that neither of them could afford to indulge.
+
+Cressida was the one to sigh and look away. “The alarms,” she said simply.
+
+“The alarms,” he agreed heavily. Then, almost more reluctantly than stopping kissing her, he looked around . . . and noticed he was the focus of quite the audience.
+
+It made sense, as he was the leader of the hive and always subject to some attention, but he still wanted to punch the smirk off Horatio’s face. Instead, Arthur gathered the shreds of his dignity and looked to Marion.
+
+“She’ll be okay?” Maybe he should have double-checked before swooping down at her, but he had to be absolutely sure.
+
+“She will recover,” Marion confirmed. “But I insist that she stay on bed rest through the rest of the day.”
+
+“What?” Cressida barked and practically levitated off the bed in outrage. “But there’s an eruption! I’m healed, right? If you can’t fix my wounds all the way, find someone who can!” She looked around the large cavern. Strands of her hair still clung lankly to her face, giving her a bloodless, unhealthy pallor.
+
+Marion fixed her with a disapproving look. “You are healed physically. But that curse you were struck with has been quite a shock to your life force. That, I can’t do much about.”
+
+She opened her mouth to argue, but he spoke over her. “Even if I cleared you—and I won’t—I don’t think that your dragon will allow you to fight either.”
+
+They all knew that Joy was intelligent enough to say no to her rider. Some Commons and Uncommons could be overridden by stronger personalities, but Joy was a Rare and not a pushover.
+
+Either Cressida must have known that or she was feeling a lot worse than she let on, because she sagged back onto the bed. She looked up at Arthur hopefully. “I don’t suppose your dragon could lend me some life force with that card of his.” Though the sullen note in her voice said she knew that wasn’t possible.
+
+“He hasn’t had a lot of practice with it yet, without causing runaway tumors,” Arthur admitted.
+
+She gave him a hairy eyeball. “But you’re going to this eruption?”
+
+“I have to.”
+
+“Even though no one knows if there’s a demi-scourgling or not, and you just faced your cousin—”
+
+“I came out of that fight a lot better than I should have,” Arthur told her with a grimace, thinking again of that little problem that was waiting for him in his Personal Space. He needed more than five free minutes to himself without having to create an entire pocket universe to do it.
+
+Cressida wasn’t happy. Her lips pressed together. “So you’re leaving me behind. Again.”
+
+He opened his mouth to argue with her—except that he was, technically, doing just that. It wasn’t fair, but neither were the circumstances.
+
+Luckily, she didn’t expect him to explain himself. She cut him off. “I know, I know. It’s just . . . I want to be with you. I want to guard your back and help you. I—”
+
+Cressida suddenly stopped, and a glint came to her eye, one Arthur didn’t trust at all because he recognized it from his own expression when he was about to do something insane.
+
+Cressida reached to press her hand over her heart.
+
+“Cress, no,” Arthur said. “You don’t need to give me my healing card back. Keep it for now. She still needs it, right?” He looked to Marion for help.
+
+The healer reached up to adjust his glasses. It was a tick Arthur noticed he had whenever he was feeling unsure or anxious about something. “Yes, you should keep the card. It’s the most natural way to heal.”
+
+“Wouldn’t just . . . letting a wound heal be the most natural way to heal?” Horatio asked pedantically, but everyone ignored him.
+
+“I know I need the stupid healing card for now,” Cressida said firmly. Though the determined glint in her eye hadn’t faded for a second. Her expression twisted into a wince as she pulled out a card. Then she held it out to Arthur.
+
+It was her Shield card. Her original card.
+
+A Bubble Shield
+
+Rare
+
+Combat
+
+The wielder of this card will be able to summon a spherical shield consisting of mana around themselves and their allies. The card wielder may adjust the size of the shield at will, though true mastery will only come with experience. As this shield is created by mana, the size and strength of opponents will determine ongoing mana cost.
+
+Arthur took a step back, holding a hand up as if to ward her off. “Cressida, c’mon, you can’t give me this.” He had seen this card once before, or at least a projection of it, back when she was trying to bond with Joy. But to take it out of her heart . . .
+
+From the expression on her face, she was in deep pain. First cards were always special, as they were the ones that had grown along with the heart as the person and the card grew together.
+
+Despite all the cards he had added to his heart, Master of Skills, his first, was still the one he depended on the most.
+
+“Cressida, you can’t,” he said again.
+
+She only pressed the card into his hands. It was still warm from her body heat.
+
+“Take it.” Her voice as rough, as if she had been screaming. “I can’t join you in this next fight, but the card of my heart can. Take it and let it keep you safe.”
+
+Arthur wanted to protest further, but there was a movement within the gathered people behind him. Griff, his captain of Wing Purple, stepped up and snapped a salute to Arthur.
+
+“Sir, the hive has been alerted to a second eruption,” he said formally, as if the grating sound of alarms wasn’t echoing and re-echoing off every stone wall. “What are your orders for Wing Purple?”
+
+Arthur sent one last agonized look to Cressida, who mouthed Go at him before resting back against her pillows.
+
+Arthur turned to Griff. “Wing Purple is to join the fight, of course.”
+
+Griff nodded. “And Cinderwood of the wild dragons wishes to know if they can come, too.”
+
+“All of them can. This is a double eruption, and we’re going to need every single fighter who has a card.” With that in mind, and with his own mental grimace, he added Cressida’s card to his heart.
+
+“I’ll keep it safe,” he promised her. “And I’ll return it back to you.”
+
+Turning away from her for a final time, he mentally put on the mantle of a leader. “Marion, I need you to stay here. You and Asha should help heal who you can—prioritize those who can be fixed up quickly and returned to the fight.”
+
+“Yes, Arthur,” Marion said.
+
+“Horatio, go out and help organize the wings. Anyone who returns from the first eruption who is still capable of sending so much as a dirty look at scourglings is to help us with the second eruption.”
+
+To Arthur’s surprise, his friend snapped off a quick salute. “Yes, sir. It will be done.” Then he turned and jogged out.
+
+His time in the pocket dimension really had helped him mature. Or maybe that was Soledad’s doing.
+
+Arthur started his own march out of the healing hall. Griff fell into step next to him.
+
+“What have the scouts reported?” Arthur asked. Word of the second eruption must have come through the seers, which would have then sent scouts to confirm. That was standard practice.
+
+“Looks like the epicenter will be hitting right outside the city of Tallinn.”
+
+The name meant nothing to Arthur, but he nodded as if it did. People were watching, and they would take heart if they thought he knew what he was doing. “That’s good news. An eruption outside the city will let more people evacuate.”
+
+Around him, people rushed back and forth. He and Griff joined the flow of the crowd and went outside. Wing Purple was arrayed close by, and the wild dragons—the ones without riders—stood nearby, though they were loosely organized and not in any sort of formation.
+
+Arthur cast a glance over them. He recognized some of the hatchling purples that had been sent with Horatio’s group, now grown after returning from the pocket dimension. From the looks of things, some of the wild dragons had paired off with unbonded people who had gone along to support the group. He had hoped something like that would happen.
+
+Part of him—a large part—wanted to stay and chat with Wing Purple. See how the hatchlings had grown and matured, and who had paired off with whom and find out what their new combined cards were.
+
+But he couldn’t be seen micromanaging one group when he had an entire hive to take care of.
+
+With that in mind, he strode over to Brixaby. He was, Arthur saw, standing off by himself. Not even Joy was with him. However, he stood proudly and looked very dapper in his self-made armor, which glinted in the sun, dent-free and well polished. Arthur suspected he had spent time in his own Personal Space mending what damage he could from the Rowantree Estate.
+
+“Joy will be staying at the hive to support her rider,” Brixaby said. Then he gave Arthur a closer look. “But it seems that you are taking some of her power with you.”
+
+He could sense that? Of course he could. He had access to Arthur’s heart, just as Arthur had access to the cards in his dragon’s core.
+
+“I’ve always wanted to see what it would be like to fight with a shield of my own,” Arthur said, slightly embarrassed but also proud.
+
+If only he could stay with Cressida in Joy’s place . . .
+
+Brixaby’s tongue shot out, snakelike, as if he were tasting the card. He must have approved because he nodded. “Excellent. Let us take to the air and lead the hive.”
+
+Shortly after, he and Brixaby were buzzing up into the sky. If it were feasible, Arthur would have had Brixaby open his own portal to the dark rower’s world and carry the people and fighters from the hive through. But that would be inefficient, as they could only do one trip at a time, and people needed to be able to return to the hive if they were injured.
+
+The green portal dragons ascended and opened the way to the second eruption. Arthur gestured his people through.
+
+There were cheers and whoops, mainly from Wing Purple, and Arthur grinned.
+
+That grin faded as he glanced up and saw Desmond’s and Sybil’s dragons lounging on the high ledge above. No doubt their partners were sitting back in their chairs and drinking wine, leaving it up to Arthur to lead.
+
+So he would lead.
+
+He and Brixaby darted through the portal, and he turned his attention to the eruption ahead.
+
+When they emerged from the other side, Arthur had a moment where he wondered if they had somehow gotten there early—was there such a thing as portaling through time? There had to be a card for that—or worse, perhaps the exhausted portal dragons had directed them to the wrong place entirely.
+
+Below was a swampy, humid, flat landscape. There wasn’t so much as a single mountain on the horizon. Not a hint of a growing scourge-eruption cone.
+
+Though the wavering tops of trees and the rising dust clouds were indications that there was a massive earthquake. Those heralded an oncoming eruption.
+
+Four other portals had opened in the sky and were disgorging people. Four portals when there were eleven other hives. It seemed the majority were still caught up in the first eruption.
+
+Arthur looked down again. Nope. No sign of an eruption mound at all. Not even a building higher than two stories.
+
+Brixaby suddenly pointed. “There!”
+
+It was not the start of a building cone. Instead, the earth had opened into a giant tear in the ground, so deep that it was black inside. As Arthur watched, the land shuddered, and the tear ripped open further under the foundations of a building that slowly tipped into it. A moment later, it was swallowed in the darkness.
+
+And out of the tear came the scourglings.
+
+They were crawling up claw over claw. Shaped like wolves with powerful hunched shoulders, once they reached the top, each diseased-looking scourgling shook itself like a dog and then leapt forward to run down escaping civilians.
+
+Thankfully, several purples were already swooping forward—not to kill the scourglings, as there were other people with combat cards who could better do the job—but to save who they could.
+
+“What’s going on?” Arthur demanded, looking around. “Where’s the eruption cone?”
+
+Brixaby only shrugged.
+
+Arthur opened his mouth, but Griff and Horatio were already barking out orders to the emerging dragons. More purple pairs swooped downward to save people and direct evacuations. The others with more devastating cards were already aiming their powers at the cracks.
+
+The captains had things well in hand, so Arthur signaled Brixaby to ascend higher and stay out of the way. They were shortly joined by Horatio and Sams, and the yellow dragon looked grim.
+
+“It’s a crack eruption,” Sams explained.
+
+Arthur gave him an odd look. “It’s . . . a what now?”
+
+“Explain!” Brixaby barked, much less politely.
+
+“They’re somewhat unusual. I’m not surprised you haven’t seen one before.” He shook his head from side to side. “There will be no cone. Instead, that rip there will widen until it is as large as a canyon, with scourglings spilling out all the while. A crack eruption means there is most certainly a Legendary demi-scourgling at the bottom, waiting to emerge. It is what is pushing the lessers out into the world.” He looked directly at Arthur. “You should send word to the other Legendaries and have them prepare.”
+
+His words were punctuated by the sound of snapping wood and metal as two buildings fell into the widening rip.
+
+Arthur looked on, frowning. He shouldn’t have to send word to the other Legendaries. By all rights, they should already be here, overseeing just as he was—not sitting in comfort and relying on the lesser ranks to send them notice.
+
+Desmond and Sybil should be here, too, he thought with a spurt of anger. If he were a punitive man, he would order them to arrive and see if they had the strength to stop the demi-scourgling. Let them prove that they still deserved the Legendary cards in their hearts. Maybe it would snap them out of their apathy. Something had to.
+
+And if they failed, this entire town would be destroyed. No, he couldn’t risk it.
+
+Across the swaths of flat forest, Arthur saw the rise of buildings that indicated a greater city. It was not far enough away to be untouched by a regular eruption. A demi-scourgling would have the power to decimate it if it wasn’t properly stopped.
+
+Then another thought struck him.
+
+Arthur closed his hand into a fist and smiled. “Brix, we’ve been grinding our skills hard. What do you say about putting what we’ve learned to the test?”
+
+“Take on the demi-scourgling ourselves?” Brixaby sounded excited. “I could use another powerful card.”
+
+Arthur shook his head. “Not just the Legendary. I think we can stop this entire eruption.”

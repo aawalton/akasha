@@ -1,0 +1,291 @@
+---
+id: 485ce2d4-e602-589e-b741-61cf5e09f82d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: Bad News"
+slug: 0020-chapter-19-bad-news
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 20
+ownLength: 2140
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3748209/chapter-19-bad-news"
+royalRoadId: "3748209"
+---
+
+Gasping for air, Ben shot straight up. He immediately braced his body for the agonizing, burning pain of a dozen different bleeding injuries.
+
+Wait.
+
+Blinking rapidly, he looked down at his own completely pristine hands.
+
+There was absolutely no pain at all.
+
+His left arm wasn't swollen anymore either, and he could move it too! His legs felt normal as well, and he felt extremely refreshed.
+
+Sitting in a surprisingly soft bed, he looked around a massive, incredibly luxurious canvas tent.
+
+I actually lived.
+
+Letting out a massive sigh of relief, he slumped back against the fluffy white pillows. The annoying noble girl's guards had obviously brought him to the healer.
+
+Taking a deep, completely pain free breath, he mentally pulled up his system interface. He needed to see exactly what he had gained from that absolute nightmare of a fight.
+
+A small cascade of notifications instantly filled his vision.
+
+[Focus Lvl 7 > Lvl 8]
+
+[Mana Reinforcement Lvl 5 > Lvl 6]
+
+[Unarmed Combat Lvl 6 > Lvl 7]
+
+[Fire Burst Lvl 9 > Lvl 10]
+
+Scanning the list, his eyes instantly locked onto the very last notification.
+
+Oh, damn. Logan was not kidding when he said danger works wonders for skill growth.
+
+But he also wondered if this trend of gaining levels this fast would continue, given that these were just common rank skills.
+
+Still, [Fire Burst] had hit level 10!
+
+Hitting level 10 was a massive milestone for any common skill. After all, it was the threshold at which they evolved. He eagerly waited for the system prompt to appear and ask him for an evolution path.
+
+And he waited.
+
+And waited.
+
+...Huh?
+
+Staring blankly at the empty air, he swiped the notifications away and opened his full status sheet.
+
+[Fire Burst] was sitting pretty at level ten, but there was absolutely no evolution option anywhere to be found.
+
+Don't tell me...
+
+His right eye twitched slightly.
+
+Was this actually an uncommon ranked skill?
+
+Of course, it was. That explained exactly why it had taken him so incredibly long to learn it back in the village. Common skills evolved right at level 10, but uncommon ones obviously had a much higher threshold to reach first.
+
+Damn you, Logan!
+
+He mentally cursed him for tossing him such a ridiculously hard skill without any warning. Then he thanked him for an uncommon skill. Sighing heavily, he shifted his attention to the rest of his growing skill list.
+
+He had a few other skills rapidly approaching their own evolutionary thresholds.
+
+[Mana Sense] and [Physical Conditioning] were both incredibly close to the edge. Pushing [Mana Sense] to evolve soon was definitely his top priority.
+
+But [Physical Conditioning] was a completely different story.
+
+Tapping his chin thoughtfully, he stared at the passive skill. He had been actively holding off on doing anything with it for a while now. He wanted to milk as many free levels out of it as he physically could before messing with it.
+
+But now that it was getting this high, it was becoming a real risk.
+
+He originally planned to merge it directly with [Mana Reinforcement].
+
+If he let [Physical Conditioning] hit its threshold and evolve all on its own, he might completely lose the chance to combine them into something better.
+
+Yeah, I should probably just combine them soon. I'm going to have to see if I can level up [Mana Reinforcement] some more.
+
+But that was also a bad idea given that [Physical Conditioning] and [Mana Reinforcement] kind of went hand in hand. Using one typically involved or improved the other. So trying to level up [Mana Reinforcement] might just make [Physical Conditioning] level up as well.
+
+Getting greedy with a few extra levels just wasn't worth ruining a perfectly good skill synergy.
+
+So maybe he'd just merge them soon.
+
+Shifting the heavy canvas flap aside, a young man suddenly stepped into the tent. He looked to be in his early twenties, sporting a ridiculously gentle and non threatening expression.
+
+Ben immediately tensed up. He was ready to fight at a moment's notice despite lying in a soft bed. Raising both of his hands defensively, the young man offered a placating smile.
+
+"Easy there. You're perfectly safe now."
+
+He took a slow step forward.
+
+"I just want to talk. There is nothing life threatening to worry about anymore, I promise."
+
+Narrowing his eyes, Ben let his tense shoulders drop.
+
+"Who are you?"
+
+"My name is Marcus." The man dropped his hands and gestured loosely to himself. "I am the healer who patched you up."
+
+Leaning back against the pillows, Ben let out a small breath.
+
+"Right. Thanks for that."
+
+Pulling a wooden chair up to the bedside, Marcus sat down with a heavy sigh.
+
+"You are very welcome, but we do have a slight problem to discuss."
+
+Of course, they did. Nothing in his life was ever completely free of complications. Crossing his arms, Ben simply waited for the inevitable bad news.
+
+"The poison you took from that goblin arrow is incredibly mundane." Marcus tapped his own shoulder lightly. "Any competent healer can flush it out in five minutes."
+
+He offered a wry, apologetic smile.
+
+"If they catch it early enough."
+
+...Ah.
+
+"You spent an entire day letting that poison sit completely untreated." Marcus pointed directly at Ben's left arm. "It has not only spread, it's completely rooted itself into your body. More specifically, around the puncture wound."
+
+Frowning deeply, Ben glanced down at his miraculously pain free limb.
+
+"So? It doesn't hurt anymore."
+
+"Because I stopped it from spreading and healed what surface damage I could." Marcus shook his head. "But I cannot safely flush it out of your system without extreme measures. You should be thankful Arthur brought you in when he did, because any more late and it would've been really bad."
+
+Well, that sounded incredibly ominous.
+
+"To completely remove it with external healing at this late stage, I would essentially have to cut your entire arm off and much of your shoulder and regenerate it from scratch."
+
+Ben stared blankly at him.
+
+Yeah, screw that.
+
+Seeing the utter deadpan look on his face, Marcus let out a short laugh.
+
+"I assumed you wouldn't want that." He leaned forward slightly, resting his elbows on his knees. "So, I would advise you to just wait it out. It will either slowly go away on its own over a very long time. It might flare up from time to time though, you're going to have to get yourself healed again in that case, or it will get worse."
+
+...Huh?
+
+"Oh, and by the way, I noticed you don't have shoes, so I got you some new boots!"
+
+Sighing heavily, Ben slipped out from under the heavy canvas flaps of the tent. Needing to wash off the lingering smell of blood and sweat, he decided a midnight stroll was his absolute best option.
+
+And he really needed a minute to actually relax without a healer hovering over him.
+
+Creeping through the quiet camp, he kept his footsteps as light as physically possible.
+
+He stuck to the deepest shadows, easily avoiding the scattered patrols of sleeping guards, because he really didn't want to deal with their questioning. He just wanted some alone time right now.
+
+Or so he thought.
+
+"You shouldn't be out of bed."
+
+Freezing in place, Ben felt his heart hammer against his ribs.
+
+He hadn't heard a single footstep. Not even a rustle of grass.
+
+Wait.
+
+Turning around slowly, he found Arthur standing barely five feet away from him. The massive guard's expression was completely unreadable in the moonlight.
+
+It was a completely sobering reminder of just how ridiculously outmatched he still was. He couldn't even sense the guy sneaking up right behind him.
+
+Raising both hands, Ben forced a sheepish, innocent smile onto his face.
+
+"I was just going out for a quick walk." He gestured vaguely toward the treeline. "Maybe grab a bath in the nearby stream."
+
+The man didn't immediately respond.
+
+Instead, the guard's eyes narrowed slightly, sweeping up and down Ben's perfectly healed body.
+
+"You've been cycling. You seem ambitious. Not even the noble kids work as hard as you seem to be doing."
+
+...Huh?
+
+Keeping his face entirely blank, Ben didn't confirm or deny it.
+
+Sighing softly, Arthur crossed his thick arms over his chest.
+
+"The woods are dangerous at night." The guard jerked his chin toward the distant sound of running water. "Don't go out too far."
+
+Nodding quickly, Ben didn't waste a single second before turning and walking away.
+
+So that's the guy who saved me? Arthur, right?
+
+Arthur POV
+
+Watching the kid disappear into the trees, Arthur let out a slow, measured breath.
+
+Just who the hell is this kid?
+
+He could clearly sense the lingering residue of ambient mana clinging to the boy's skin. And it was the obvious, tell tale sign of a recently used cycling technique.
+
+But it wasn't just any common technique.
+
+It felt incredibly rigid, highly structured, and ruthlessly efficient.
+
+That's Central Plains military property…
+
+Only their soldiers were taught to forcefully cycle essence with that specific kind of disciplined rhythm. So seeing a supposedly random commoner casually throwing it around put him entirely on edge.
+
+Rubbing his scarred jaw, he felt a familiar, cold knot of suspicion tighten in his gut.
+
+Nobles like Lady Alice thought cultivation was a clean, elegant right of birth. But Arthur intimately knew the ugly truth.
+
+Remembering the agonizing screams of the mage's laboratory, he scowled into the darkness. He had barely survived those horrific experiments just to forcefully tear open his own mana channels.
+
+Therefore, his own path to power had been forged in literal blood and dark alchemy, not sitting in a plush meditation room.
+
+And he didn't trust this situation for a second.
+
+I need to keep a very close eye on him.
+
+Kicking a stray rock, Ben trudged through the dense underbrush toward the river.
+
+So the poison isn't entirely gone.
+
+At least he was somewhat safe for the time being. Though he absolutely didn't intend on staying with these people for much longer.
+
+They were nobles. And nobles obviously meant politics, backstabbing, and a whole lot of annoying drama.
+
+He hated politics. Be it something as petty and small as school politics he had to deal with as a student, or something bigger, he hated it all.
+
+Therefore, he'd rather not get dragged into their messy upper class problems.
+
+He'd already shown them far too much of his hand, he didn't want to get roped into something he didn't want.
+
+Reaching the edge of the stream, he quickly scanned the surroundings to confirm the area was actually safe.
+
+Finding nothing but crickets, he stripped down and waded into the freezing cold water. Sitting there for a moment, he let out a long sigh.
+
+Damn, I miss hot showers.
+
+Scrubbing the grime off his skin, he wistfully missed the simple conveniences of his old world.
+
+He missed his parents. His sister. He missed Duncan and Hannah, too. Though the time he spent with them had been small, they'd grown on him quite a bit.
+
+And maybe even Logan, to some very small extent.
+
+They were the closest thing he actually had to a family in this new world. And now they were just gone.
+
+He didn't even know if they were still alive.
+
+Being stuck in an entirely different Region, he was miles away from anything familiar. And he definitely wasn't strong enough to casually cross the regional wall by himself.
+
+He didn't have strong enough connections to have someone help him cross them, either.
+
+Not that it matters.
+
+Smiling bitterly, he splashed a handful of icy water onto his face.
+
+What will a weak Tier 1 nobody like me do anyway?
+
+He just wanted to know they were safe.
+
+Sitting there in the freezing water, he made a silent vow to himself. He was going to get stronger.
+
+For no reason at all. Yep. There is no reason. I just want to see how far I can go.
+
+"Hey."
+
+A sudden voice brought him out of his head. Ben immediately zeroed in on the source of the noise.
+
+"Are you actually that kid who saved the Lady?"
+
+A figure stepped out from the shadows of the tree line.
+
+"I heard you got beaten up so badly you couldn't even recognize your own mother. How are you already up and about today?"
+
+…Huh? Where did that come from so suddenly?
+
+Turning fully to face the intruder, Ben gave him the blandest look he could muster.
+
+It was a young boy, probably a bit older than him. And judging by the nasty, arrogant smirk plastered on the kid's face, this wasn't a friendly midnight chat.
+
+Of course, that had to be the case.
+
+He clearly didn't have the best of intentions.

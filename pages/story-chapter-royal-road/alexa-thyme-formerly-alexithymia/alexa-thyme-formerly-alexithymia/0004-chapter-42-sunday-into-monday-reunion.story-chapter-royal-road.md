@@ -1,0 +1,209 @@
+---
+id: 7e816c26-296c-59aa-9fef-25955b0c794e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42  Sunday into Monday Reunion"
+slug: 0004-chapter-42-sunday-into-monday-reunion
+partOf: alexa-thyme-formerly-alexithymia
+position: 4
+ownLength: 2557
+unit: words
+publishedAt: 2022-11-25
+link: "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1048956/chapter-42-sunday-into-monday-reunion"
+royalRoadId: "1048956"
+---
+
+Chapter 42
+
+Sunday into Monday Reunion
+
+Sunday was spent relatively quietly. At least quiet per Alexa’s standards. She and Luke spent all day together. Surprisingly, she even got him to go to the gym with her. Though, as usual she was well out of his league in terms of strength and conditioning. But she did make for the best spotter.
+
+Luke was aware from his parents that something had happened. Something major between the girls. Something so big that Alexa dropped the pack. At first Luke was confused by that statement, as he had no clue what dropping the pack meant.
+
+Then he saw the sad way former pack members would congregate to where they were.
+
+The moment they did, Alexa would see them and beckon them over. No words, as Alexa was clearly in the state where she didn’t trust herself to speak. The girls, or rather former members of her pack seemed to understand this, as they too were quiet.
+
+Still they would come over to her, and she would place her hand on their foreheads. Then a faint glow of energy would be seen, and the entire posture of the former pack member would brighten entirely.
+
+This was new, as Luke didn’t remember being able to see Alexa’s power on display like that before. He wanted to question her about it, but realized she was on mental fumes.
+
+Once or twice he even thought about stepping in, to stop her. As she was that close to checking out. The sight of how listless and dull her eyes were getting caused a level of panic to form in him. A level of panic he hadn’t experienced in quite some time. Every time in the past when she got this way, it always reminded him of the time she almost checked out completely.
+
+It was good that she saw the triggers, that she was the one to initiate her own recovery session. That was good, as it showed growth. That was something they worked hard as a family to achieve. That was also why those two words were all she needed to say, write, or express for her brother to drop everything and be there for her.
+
+Still, it was clear that even this trip to the gym was beginning to be more emotionally draining, than beneficial for her. That was why after the fifth such interruption, he mouthed the two-word escape code to her. Princess Bride?
+
+Alexa who had mostly been going through the motions to that point, had her face light up if only slightly. Then she nodded.
+
+That was it, the two wiped down the equipment they just used. Then made their way back to Luke’s room.
+
+This time Frank was up, and already at his desk.
+
+“Hey Frank. This is my sister again. You still don’t mind if we watch the Princess Bride again, do you?” Luke asked, mainly out of social etiquette than anything.
+
+Frank hearing this asked the only question he could. “Again?”
+
+Luke just smiled slightly at that.
+
+“Yes and thank you.” Alexa said.
+
+Her words were so cold that they sent a shiver down Luke’s spine. But this was good, these were the first words she spoke all day. Up until this point he had been the one making suggestions, “maybe we should eat.” Or “you know we should work out.”
+
+All things that she needed to do.
+
+Now they were back to square one. Then Luke’s roommate Frank gave him a lifeline.
+
+“Why are you watching that old movie?”
+
+Alexa for her part, filled in a role that she had done thousands of times before, when hearing the same question. With a perfect level of faux shock and outrage, she replied. “This is inconceivable.”
+
+Luke seeing the spark of life return to Alexa’s eyes, found himself smiling as he returned his own line. “My dear sister, you keep saying this word, but I don’t think you know what it means.”
+
+Huff.
+
+Then like that, Alexa huffed off into the room to sit down on Luke’s bed again. This time he had the wherewithal to make it. Or at least, Alexa had the wherewithal to make Luke’s bed, almost as if she anticipated coming back.
+
+Frank for his part looked confused. “What?”
+
+“Princess Bride man. Haven’t you seen it?” Luke offered.
+
+“No.”
+
+“You can join us.” Alexa said, patting the part of Luke’s bed that was to her right.
+
+Frank just looked confused for a second. Then back to Luke. “Thanks, but I’ll pass for now.”
+
+“Suit yourself.” Luke said, as he went over and fulfilled his duties of turning on the movie and being there for his little sister.
+
+Luke would like to point out that Frank eventually did join the watching of the movie.
+
+“Hey that’s pretty cool.” Frank said, as he slowly began first making his way over to Luke’s side of the room. Then watching the movie from a standing position.
+
+“Shh.” Alexa said, as she was in full immersion mode.
+
+Finally, Frank opted to use Luke’s desk chair as a place to sit. Alexa for her own part was able to sit up straight the entire time. This was good, as it showed she was no longer in her near catatonic state.
+
+Also, Luke did send a few texts throughout the day to both his parents and to Captain Johnston. Both of whom had different follow-on questions, ones that Luke swore he would get to, once his sister was back in her room.
+
+“Can we start over?” Frank asked.
+
+“Yes, but only once this is over.” Alexa said.
+
+“What?” Frank asked.
+
+But Luke just shook his head. “It’s a thing. You can’t stop watching. Just restart and watch until completion.”
+
+Frank just looked at the two of them like they were crazy, but sat through both play throughs. He sat through the ending of the first airing. Then everyone went for a brief bathroom break, before coming back and watching the second showing.
+
+“Okay, that was pretty cool.” Frank said.
+
+Alexa nodded, then stood to get up.
+
+“You heading back?” Luke asked.
+
+Alexa nodded. Then she said the two words that made this whole wasted Sunday worth it, “thank you.”
+
+Frank for his part, seemed impressed with the classic.
+
+“I honestly didn’t think it would be that good.”
+
+“Not many people do.” Luke replied.
+
+With that the two went back to their evenings. Luke had to answer numerous questions, while Frank had to study for a test.
+
+The night passed in a whirlwind of activity.
+
+Then the next day Luke arrived early to class. Well early for him, he was fifteen minutes early, which meant he saw the tail end of a procession of pack members meeting with Alexa.
+
+The pack members would walk up to Alexa, who would then place her palm on their foreheads. Then she would then send a green streak of energy into the pack members, well former pack members.
+
+It was clear that the former pack members were a little agitated at first, but then seemed to calm down immensely.
+
+Luke watched as Alexa did this for each former member of her pack. Again, he still had no clue what happened. All he knew was that he should not ask, that Alexa would tell him if she needed to. Other than that, this was her thing.
+
+Luke watched as Alexa treated each member of the pack.
+
+Then the last person to be seen was Julie.
+
+As she approached, Alexa raised a slightly trembling hand. It was brief, the tremble lasted only a second, as if she was warring with a part of her mind. But she did so anyways. Then as she did with all the others, Alexa cast her green light of energy. As soon as the energy entered Julie, she visibly relaxed.
+
+Of course, Luke noticed the glare the other girls all gave Julie.
+
+Again, Luke was mildly aware that Alexa had gone on a weekend trip with Julie. It was also clear that whatever happened with the pack dissolving revolved around Julie somehow. But Luke knew not to ask. In fact, if Luke had his way, he would have avoided the entire situation, if at all possible.
+
+Unfortunately, it wasn’t avoidable as Luke was now going to be the one male in a room full of former werewolves. With his only protection being that his sister was still looked on favorably by the rest of the pack, despite having broken up said pack.
+
+Why did he want to be here? Oh, right. He wanted to be fully awoken so he could fulfill his ultimate dream.
+
+With the healing procession done, Alexa entered the room.
+
+Julie made her way to the door but was stopped by a wall of angry glares.
+
+Luke knew women were evil, that their glares were painful when applied correctly. But he had never seen a time when they literally had a wall form, barring someone passage by just glaring. But that is what happened. All the girls glared at Julie until she seemed to shrink in on herself. Then once she was visibly cowed, the other girls made sure to enter the classroom first. Purposefully cutting her off.
+
+Again, it was some weird power play, one that Luke was so glad he didn’t have the necessary components to understand. Maybe it is that women’s intuition thing? Luke had no clue, but he could only look on, as the girls all went in before Julie.
+
+Then it was just the two of them. Luke gestured for Julie to enter, but Julie just shook her head, as tears began to form.
+
+Seeing that she was about to cry, Luke did what anyone in his shoes would do. He moved on and pretended like he didn’t see anything.
+
+A second later, Julie entered behind him, only to see what Luke saw. That Julie’s seat at Alexa’s left was taken. In fact, all the seats were taken. Well all seats, but Luke’s seat to Alexa’s right.
+
+Luke paused taking in everything, but then noticed how Julie sat herself in the far corner of the room, at least one empty seat separating her from the rest of the classroom.
+
+Seeing that, Luke looked to his sister, then to Julie. With a gesture towards Julie, Alexa nodded her consent.
+
+That was how Luke found himself sitting next to his ex-girlfriend.
+
+“You don’t need to sit here.” Julie said, a slightly defensive tone to her voice.
+
+Luke wanted to answer that with an “oh, but I do.” But decided against such a remark.
+
+Instead, Luke just sat down and prepared to take notes.
+
+Ms. Tutlidge was in rare form today, as she was five minutes late to class.
+
+“Sorry class. There was a slight change of plans. Today we will have a special guest speaker. From the Tri-State Inspection Squad. I would like to introduce Progenitor Bullford. He has come here today to discuss a few things about werewolf society.” Ms. Tutlidge said, gesturing to the large muscular man who had to duck to enter the classroom door.
+
+“Thank you, Ms. Tutlidge. Today, I have been asked to come here and talk about what it means to be a Progenitor. There are many steps needed to become a Progenitor. Looking around I can see that you all are well on your way to being Progenitors yourselves. The first component that you all likely know is that you need to eradicate the wolf. Which a quick glance shows that this is the case for all of you. Well, most of you.” Bullford said the last part locking gazes with Luke.
+
+Luke for his part just grimaced at the sudden attention and stare from the powerful individual. An individual who could, if he wanted, tear him in half if he were so inclined.
+
+Fortunately for Luke, Mr. Bullford continued his explanation of the requirements for being a Progenitor.
+
+“The next major step is to break free of your bonds of a pack. Know that this isn’t as easy as you might think. Humans are pack creatures, and werewolves are doubly so. But this is the second major hurdle to becoming a Progenitor. If you can be either the lone wolf, or propel yourself to be the leader of others, you will make it, so you are well on your way to being a Progenitor.”
+
+A slight pause.
+
+“That said, I am aware of some of the events that transpired over the weekend. I wanted you to know I am going to make my services available for you all. You can use me as a reference to either help you achieve your independence. Or if you wish, I can walk you through the process of creating your own bonds. Or I can even allow you to join my own pack. I am currently a lone alpha, but this is a service I, along with the TSI team are willing to offer you, during this period of transition.”
+
+That was it, there was a question-and-answer session. Luke paid attention, but most of what was said was well over his own head.
+
+In the end, Bullford gave out cards to everyone, even Luke. Then he said what empty classroom he would be in, then left.
+
+“Right. Well, now that we have that taken care of. Can anyone tell me what your homework was?” Ms. Tutlidge asked.
+
+Alexa of course raised her hand.
+
+Seeing that, Luke was both happy and annoyed by the gesture. He was happy that his sister was back to being her old self. Or at least back to being the smart know it all, but annoyed that she had to do it in the class they shared.
+
+Still, this was a good thing. At least that was what Luke told himself.
+
+“Oh, I almost forgot. Tomorrow, we will have two special guests on campus…” Ms. Tutlidge said, almost as an afterthought.
+
+“Tomorrow, we will be graced by not one, but two Supers. Judge and Warder.”
+
+Gasps.
+
+With that, Luke heard the best news he had heard in all his life. For the first time ever, he would have the chance to meet his idols in person. This was going to be epic. He could finally confess his love for Judge before everyone. With so many witnesses Warder, retired though he might be, would never be able to do anything to him. At least not at first.
+
+The more Luke thought about that, the more he decided he needed to come up with a more subtle plan, maybe a letter. An epic love letter showing Judge why he would be perfect for her.
+
+“What are you grinning about?” Julie asked.
+
+“I get to meet Judge. I am going to tell her how amazing she is, and how I have always felt about her.”
+
+With that, Julie just stared at Luke like he was crazy. This was the same look Alexa gave him when he told her his true feelings. This must be the creepy factor that so many women talk about, Luke thought to himself. With that realization, Luke made a note to try to tone it down slightly, in his letter. He knew he had to do this right, and he would likely only get one chance to do this correctly.
+
+With all night to prepare, Luke made a plan.

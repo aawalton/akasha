@@ -1,0 +1,189 @@
+---
+id: 361a462d-8e55-540e-a28a-b279654b6789
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch28: Skill Grind (4) (Brixaby)"
+slug: 0035-b6-ch28-skill-grind-4-brixaby
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 35
+ownLength: 2561
+unit: words
+ownProgress: 2561
+publishedAt: 2026-02-19
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3072075/b6-ch28-skill-grind-4-brixaby"
+royalRoadId: "3072075"
+removedAt: "2026-07-03T13:48:06.334Z"
+---
+
+Brixaby
+
+Brixaby was both satisfied and... unsatisfied with his progress.
+
+He hated to admit it—even within the depths of his own mind—but the progress of his skills were falling behind.
+
+It was ridiculous. Outrageous! The ability to grow powerful by rapidly leveling skills had been one of the main reasons he had chosen to bond with Arthur.
+
+Dim though his memories were back then, and even as little as he understood as a hatchling, he knew that the sheer potential Arthur had in his Legendary cards could not be matched. And should he link with him, those skills and abilities would become Brixaby's own.
+
+That had been a very, very long time ago. Certainly Brixaby would have made the same choice a hundred times over. In many ways, Arthur was only beginning his journey, yet he had grown mightily.
+
+They had nearly singular control of a hive—the other two Legendaries did not count except as possible future wells for his own power. They were certainly not threats.
+
+When Arthur had first proposed using this pocket place to grind skills, Brixaby assumed he would be working completely on his blacksmithing skill and class. Certainly, he had come far. Though... he'd made his largest level leap back in Free Mesa hive when he had reached level 50 with his Chainmail Weaving skill.
+
+From there... he had stalled out.
+
+But level 50 in any skill was an accomplishment. He would dare any dragon to snort at that. It... had just not given him exactly what he needed. He should have focused on leveling the entire class instead of a singular skill.
+
+He had picked the wrong path, and correcting it was a little more difficult than he had imagined it would be.
+
+He had hit all the easy gains, and in order to truly progress within his craft, he would need to buckle down for more than this two-month vacation. Crafting was the work of a lifetime.
+
+Part of him rebelled against that. He was the rightful leader of a hive. He should have exactly what he wanted when he wanted. And if what he wanted was more time... well, he should have that too! As well as the best materials to work with!
+
+Which was all well and good, except some of the materials he needed to work at a higher level were simply not at hand. Blood Drop and Chester had all but bankrupted Blood Moon hive, and Arthur needed as many extra cards and shards as they could scrape up for his own Card Smithing skills.
+
+Brixaby could not fault his own rider's progress. Cards were the main source of power within the world, being able to manipulate that power... Arthur was definitely pursuing the correct path.
+
+Brixaby simply needed to find a new path of equal power for himself.
+
+For the first few weeks in this place, he focused on an Enchanting class, which enabled him to fold in his blacksmithing skills.
+
+That was all well and good. Now he was able to make small metal discs with basic mental blocking abilities. The enchantments required physical contact with the skin to work. He tested these himself by swallowing one.
+
+The metal discs were non-toxic to dragons and tiny enough not to matter. However he suspected a human being would not be able to choke it down, and he could not make it small enough for their little throats.
+
+It could be worn as a necklace, but if it bounced at all, then at the moment it was physically separated from contact, that person would be left vulnerable.
+
+That would never do.
+
+Perhaps we could place it under the skin, he thought. Swallowing it was much preferable, as it lasted two days before passing through a dragon's gut. Then the disc could be sanitized and swallowed again with little fuss.
+
+Or at least, fuss from the dragons. He suspected even if he was able to miniaturize it further, the humans would be squeamish. Well, he still had a few weeks to work on the problem.
+
+Though, as interesting as the craft and class could be, enchanting was merely a means to an end. It was not what spoke to his soul.
+
+He found himself putting down his tools more and more often and looking up at the sky. He wanted to fly.
+
+Additional flying skills? he mused to himself.
+
+Today’s enchanting session was going nowhere. Brixaby took to the air and dashed forward at top speed, simply to feel the air rushing against his scales.
+
+It was most satisfying, though he couldn’t shake the feeling he was wasting time. He was already one of the fastest, most powerful, agile, and impressive dragons in the air. Yes, any boost to his skills would be welcome—hadn’t he just been thinking of Arthur’s potential? And the beauty of their bond was that Arthur’s potential could easily become Brixaby’s—but he had no clear idea for a new flying trick.
+
+None, at least, that would be useful for combat.
+
+Combat!
+
+The thought startled him so much that he stopped his forward charge and hovered for a moment. One clawed hand reached out to scratch at his chin scales. He did not worry about the venom claws. Even if he didn’t have complete control over his own skill, his Tanky Constitution would have protected him.
+
+Unfortunately, Master of Skills and Master of Body Enhancement did not include combat skills. There was an entire card for that. One which Arthur needed to steal from his cousin.
+
+That would only be a matter of time. Meanwhile, they had found several skills that were combat-adjacent. Arthur’s toughened skin, as an example.
+
+He wanted something like that.
+
+He wanted flying combat. And Brixaby was not content waiting for Arthur’s inevitable victory over his cousin to start.
+
+Ah, but how to start, exactly? His link to Master of Skills would form no combat skills, so he must be sly.
+
+He hadn’t forgotten his victory over the demi-scourgeling. Surely there was a skill for accurate dropping?
+
+Brixaby resumed flying around the dimensional space, this time with purpose. Head down, he scanned back and forth. The landscape varied from field to forest to lake. Most of it was arable and meant for growing crops.
+
+However, there were a few small rocky hillocks.
+
+He landed and started to gather different rocks in his Personal Space. However, he soon stopped. These rocks were… odd.
+
+Cocking his head, he brought one of the rocks closer to his eye. Once, these stones would have been larger than himself. Now he had to be careful not to crumble some of them between his claws. Others stayed perfectly intact. They were a variety of colors: reddish, greenish-pale, sand, and a glittering mix of all that and more.
+
+“Hmm,” he murmured. They were mere rocks, barely worth his attention. And yet… hadn’t one of the enchanting books spoken of stone?
+
+Without another thought, Brixaby retreated into his Personal Space.
+
+He had built up a library along one wall. Unlike Arthur, he shelved each book carefully so that he could find them at a glance. This was a good thing because since his recent growth, he’d had a bit of trouble reading. His eyes were larger, but the pages were so very, very tiny.
+
+Working with extreme care, he used the tip of a claw to pull one of the books from the shelf.
+
+Despite his best efforts, the corner of the cover tore under his razer sharp claws. Brixaby hissed under his breath, closed his eyes, and reminded himself that there was no time in this Personal Space. He could afford to move slowly and carefully.
+
+Arthur had picked up some odd phrases after he was alone for several months in the dark heart challenge.
+
+One of those stuck with Brixaby for a long time afterward: Slow is smooth, smooth is fast.
+
+So Brixaby made sure to move slowly as he used the very edge of his claw to turn the pages. A couple still ripped, but they could be fixed once he returned to Blood Moon Hive and paid somebody with a bookbinding card.
+
+Normally, he would go for such a skill himself, but by then, time would once again be of the essence. And loathe though he was to admit it, he may no longer have the dexterity for such small crafting projects. Best to leave that to the humans.
+
+He finally got to the chapter he was looking for and eagerly began to read. Because of Arthur's Mental Bookshelf card, he was able to remember it. The only reason he had not the first time was that he barely skimmed over the pages. One needed to use intent to memorize.
+
+This chapter was about carving enchantment runes into different varieties of stone. He was only a little surprised to see that many of the types of rock listed were also available in this dimensional space. It felt like it had been made for him.
+
+“Granite, quartz, limestone, jade...” he read aloud, matching the types of rocks he had seen with the descriptions and illustrations in the book. There were certainly more types on the pages than he had seen at a cursory glance, but this was extremely useful.
+
+“Quartz is for the mind.” He snapped the book shut, replaced it on the shelf with an extreme amount of care, and then exited his Personal Space.
+
+He was again standing before the pile of rocks. It seemed that the ones that had crumbled unsatisfactorily between his claws had been the sandstone. Well, he had not been interested in it anyway.
+
+He tossed those pieces aside and carefully stored a chunk of mottled granite. Under it lay a dirty crystal of quartz. He picked it up, turning it this way and that so it caught the light. It was about the size of a human head, clear at points with streaks of dirty yellow.
+
+According to the book, this unremarkable crystal could hold enchantments much easier than simple metal.
+
+He shoved it into his Personal Space for later and went to see what other valuable stone this place had for him.
+
+It was not long before he received a notification:
+
+New Skill Gained: Rock Identification (Geology Class)
+
+Due to experience and linked card bonus traits, you automatically start this skill at level 5.
+
+“I would rather receive Gem Identification,” he said, but he supposed this wasn't the worst skill to have. Especially as a few moments later, he was able to spot more quartz he had somehow missed, and these had veins of glittering goldish pyrite running through them. It did nothing for his enchanting, but they were pleasing to look at. He tossed those into his Personal Space as well. Then he hefted an armful of granite and took to the sky.
+
+With them, he targeted unlucky bushes from various altitudes. Brixaby did not toss down the chunks of granite, as that would only level up his throwing skill, of which he had some minor gains. The joints of a dragon's shoulders and elbows did not work quite like a human's and were not optimal for throwing. Instead, he simply dropped the rock and observed how it fell and what made it drift off course. The wind, mostly.
+
+It was not long before he picked up another notification.
+
+New Skill Gained: Targeted Drop (Construction Class)
+
+Due to experience and linked card bonus traits, you automatically start this skill at level 5.
+
+Construction?
+
+He supposed, from the many craters he had created from the higher drop points, it could be considered somewhat of a moving earth skill.
+
+Perhaps when Arthur got his combat card, the class would be changed to a more appropriate one.
+
+Thanks to the quartz, he now had a solid lead on where to go with his enchanting—and he was sorely tempted to start now— but he was still unsatisfied with his flying gains today.
+
+He hissed, and as he wasn’t paying attention, two of his top wings rubbed against each other, creating an irritating sort of chirp, much like crickets in summer.
+
+He hated it when they did that.
+
+Then he paused, tilted his head and thought. He flapped his wings down, extending the downstroke just a touch more than was typically comfortable. His wings had lengthened over the last growth spurt. It helped him dig into the air currents and improved his overall agility. His two wings could not clap together on the downstroke, but there was an odd twist of wind he had noticed once or twice. Something to do with his overall shape when his top wings were pointed completely down and his bottom pair were up. He did it again, extending his tail out to its full length. He had some control over the back ridges, and if he pointed one to the right and one to the left as he moved quickly, there was a shrieking sound in the air. Faint, but noticeable.
+
+Brixaby sensed potential. It was more than generating an annoying sound. He had no intention of creating a sonic blast and therefore attracting the attention of every enemy out in the field.
+
+No, the noise was proof that he was doing something substantial to the air—cutting it and manipulating it, perhaps.
+
+Why then couldn't he make the air work for him combatively?
+
+Brixaby turned and dived, heading for one of the bushes he had used as a target. It looked ragged, especially after he swept near it with his wings, cupping the air and trying to generate force from wind alone.
+
+It took him a long, long time to work out the trick of it. Each wing had to be in perfect position. Not tilted to make sound or turned to cut against the air, but flapping together in perfect sync like a two winged dragon with enormous sail-like width. And to push the air forward, he himself had to stop abruptly midair from high speed, which created great force on his joints. But if he did it just right, he could create a wall of wind in front of him that was enough to strip many of the leaves from the bushes.
+
+He did not expect to receive a skill from it. In his mind, this was combative only.
+
+So, when on one of his last attempts he was actually able to knock an entire sapling over, snapping it at the trunk with the wind alone, he was doubly surprised when he received a notification:
+
+New Skill Gained: Trick Stop (Flying)
+
+Due to experience and linked card bonus traits, you automatically start this skill at level 5.
+
+He supposed he would take it, even if the card relegated it to mere trick flying.
+
+He would have continued to practice more had his joints not been protesting. But this... this had potential. It was a skill that required no mana, only his dexterity and mastery of the air.
+
+His size was now immense for a Purple, and his shape was, as Arthur put it, rather normal. (Although everything else was extraordinary.)
+
+The point was, if he could do this, if he could master this, so could the others. Perhaps there was a way Wing Purple could become more than rescuers and looters.
+
+Brixaby returned to the camp he and Arthur had set up, his mind awhirl with possibilities.

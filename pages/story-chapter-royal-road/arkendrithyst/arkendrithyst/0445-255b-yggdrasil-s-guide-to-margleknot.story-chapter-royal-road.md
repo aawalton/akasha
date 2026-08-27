@@ -1,0 +1,315 @@
+---
+id: afd17909-ddbe-5ca5-a4ad-45722a53c901
+page-type-slug: story-chapter-royal-road
+title: "255b, Yggdrasil's Guide to Margleknot"
+slug: 0445-255b-yggdrasil-s-guide-to-margleknot
+partOf: arkendrithyst
+position: 445
+ownLength: 2177
+unit: words
+ownProgress: 2177
+publishedAt: 2023-10-13
+link: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1372414/255b-yggdrasils-guide-to-margleknot"
+royalRoadId: "1372414"
+markedReadAt: "2026-06-29T22:23:33.915Z"
+---
+
+Yggdrasil’s Guide to Margleknot:
+
+For the use of Erick Flatt, Wizard of Benevolence.
+
+Just a nice little primer! I put some major places in lists in the front, but check out the expanded lists in the back if you want more information on any location, or even more locations. If you can imagine it, it’s probably out there, or we at least have a connection to the places you’re imagining.
+
+Love, Yggdrasil/Margleknot
+
+Layer 0:
+
+Mana-based places:
+
+1. The Fae Enclave:
+
+The heart of Margleknot, a towering, crystalline palace where the ruling Fae council resides.
+
+Key Fae Council Members:
+
+Lady Aelorika: The wise and just leader of the Fae council, known for her intricate floral crown and affinity for nature magic.
+
+Lord Eldraki: A mischievous trickster Fae with a penchant for illusion magic.
+
+Lady Seraphaka: A regal and elegant Fae with control over light and shadow. Wears white and gold and black.
+
+Lord Dakka: A fae of war and death always in favor of more war and death to solve any problem. Wears rusted metals.
+
+2. The Arcane University:
+
+A sprawling complex of spires and libraries, where wizards from across the universe gather to study and research magic.
+
+Archmage Steeltalent: The head of the university, a master of various magical disciplines and a scholar of ancient spells. Steel magic.
+
+Professor Elarizoza: An eccentric mage who specializes in magical creatures and runs a popular course on summoning. Eldritch talent / not magic, not really.
+
+3. The Astral Bazaar:
+
+A bustling marketplace where traders from different dimensions sell exotic goods and rare artifacts.
+
+Ephiz: A mischievous air elemental who runs a shop filled with enchanted trinkets and flying devices.
+
+Kaelin the Starstrider: An otherworldly merchant who deals in celestial items and star-infused potions.
+
+4. The Dragon District:
+
+‘Dragon’ or ‘Power’ is a category of powerful people, and one of the few places in the city that is strictly unable to be lived within unless one is a True Wizard. Only True Wizards can survive the magical eddies produced by the powerful magics of the people who live there. All incredibly powerful people are asked to live there, or not in the city at all, because the dragon district is where excess magic is gathered and channeled into the Yggdrasil system to power all the rest of the city.
+
+Your home is in the Old Dragon District, reserved for those with special status or true power.
+
+Elder Lionshard: The ancient platinum dragon who oversees general mana mining missions and is a living encyclopedia of all knowledge.
+
+Lyra Vonaldar: A rogue elven thief who runs the Black Crystal Tavern, a favorite spot for dragon dealings, and one of the few places that is solid enough for non Wizards to visit.
+
+Originally not a majority dragon district, but instead a place for all powers, the dragons took it over millions of years ago, because it was THE place to be for all who aspire to true power. The dragons are welcoming to all who want true power from them, as long as you abide by their power, but the dragons are not all welcoming to each other.
+
+Danarin Slinker, green dragon who wants to take down Arethra Striker and take her land.
+
+Arethra Striker, a blue dragon who wants to eat Danarin for his temerity at encroaching upon her flower garden.
+
+Danarin and Arethra are neighbors. They are your neighbors.
+
+Shadow. A fae-dragon constantly trying to get her home universe released from Enclave lockdown. She lives by the wall of the Dragon District, in her hovel near the Black Crystal Tavern. Trust her to do what is best for her unless she is playing a different role, in which case she might be even less trustworthy.
+
+5. The Celestial Observatory:
+
+A tower reaching high into the sky, where scholars study the movements of stars and planets.
+
+Astrologer Moonarcher: An oracle who can predict events by observing celestial patterns, sought after by rulers and adventurers alike.
+
+Orin Darkcaller: A dark mage who uses cosmic energy to connect worlds to each other.
+
+One of the very few unequivocally Good Places in Margleknot
+
+6. The Nexus Garden:
+
+A serene oasis filled with magical flora, where gods and mortals meet for discussions and celebrations.
+
+Cascadio, the Radiant Sun: A god of light who often presides over gatherings, sharing his wisdom and warmth with all.
+
+7. The Mirage Opera House:
+
+A grand theater where enchanting performances combine magic, music, and storytelling.
+
+Lyrinka Melodyweaver: A talented bard who uses her harp to weave illusions and emotions into her music.
+
+Maestro Inga: A fire mage who orchestrates fire-based displays and pyrotechnics for dramatic performances.
+
+8. The Elemental Foundry:
+
+A complex dedicated to harnessing and refining elemental energies for various purposes.
+
+Forgekeeper Tom Firebeard: A master blacksmith who channels fire magic to create legendary weapons and artifacts.
+
+Aqua Sylph: An elemental being who controls water and assists in crafting potions and magical elixirs.
+
+9. The Whispering Library:
+
+A serene sanctuary filled with books that can communicate and share their knowledge.
+
+Librarian Arcanknot: A sentient book with vast knowledge of spells, history, and the cosmos, always eager to share stories.
+
+10. The Timeless Forest; the Universal Network:
+
+A central square. The veils between dimensions are thin here.
+
+Chronomancer Raeliaka: The wizard in charge of keeping the gate network functional. Mostly she just makes sure the Margleknot system stays comfortable.
+
+Margleknot (Yggdrasil): ‘Hello new-father. Welcome to my larger self.’
+
+11. The Mortal Lands:
+
+The main hub of Margleknot.
+
+Everyone has lands and places here.
+
+Gods visit and work here, mostly, since this is where their followers live.
+
+Tech-based places
+
+1. Quantum Nexus Hub:
+
+A sprawling, futuristic tower at the center of Margleknot, where quantum engineers and researchers manipulate space-time for various purposes.
+
+Dr. Aria Quantum: The brilliant quantum physicist who oversees the hub, known for her breakthroughs in dimensional manipulation and her enigmatic demeanor.
+
+2. Aetherium Bazaar:
+
+A bustling marketplace where traders from across the galaxy exchange advanced technology, rare energy sources, and cybernetic enhancements.
+
+If you want a manaminer, come here.
+
+Kallax Cybervox: A charismatic cyborg merchant with intricate neural implants, dealing in cutting-edge cybernetics and neural interface tech.
+
+3. Neural Nexus Plaza:
+
+A central hub for neural networking and virtual reality experiences, where individuals can share thoughts, dreams, and simulations.
+
+Nara Synapse: The neural architect overseeing the plaza, responsible for maintaining the harmony of virtual realms and safeguarding against rogue AI.
+
+4. Bio-Genus Gardens:
+
+A living biotech laboratory where genetic engineers craft sentient plant and animal hybrids, creating sustainable ecosystems within the city.
+
+Dr. Orion Gene: A visionary geneticist who walks the line between scientist and artist, known for creating astonishing new species.
+
+5. Plasma Resonance Arena:
+
+An arena where high-energy plasma battles are fought between augmented gladiators and combat drones, showcasing technological prowess.
+
+Voss Striker: A former space marine turned plasma champion, revered for his combat skills and the shard-based modifications enhancing his abilities.
+
+6. Galactic Archives Repository:
+
+An immense digital repository of knowledge and records from various galaxies, accessible via neural interfaces and holographic displays.
+
+Archivist Lyra Vega: A dedicated archivist who navigates the depths of the digital archives, unearthing forgotten histories and uncovering hidden truths.
+
+7. Quantum-Tech Foundry:
+
+A factory producing advanced weaponry and technology.
+
+Xoe Quantumforge: A master engineer responsible for designing groundbreaking weapons and devices, with a reputation for pushing the boundaries of technology.
+
+8. Nebula Nexus Observatory:
+
+An observatory equipped with cutting-edge telescopes and scanners, allowing scientists to explore distant galaxies and phenomena.
+
+Dr. Noval Stia: An astrophysicist and explorer known for her discoveries of new celestial objects and her charismatic approach to space education.
+
+9. Zero-G Atrium:
+
+A towering atrium where anti-gravity technology allows low-gravity-based life to exist.
+
+Captain Theron Starwing: A spacefaring pilot turned tour guide, sharing tales of interstellar adventures and teaching visitors about the wonders of space travel.
+
+10. Quantum Labyrinth Arcade:
+
+An interactive arcade where holographic games blur the lines between reality and virtual worlds, offering mind-bending challenges.
+
+Pixelia - A skilled game designer who creates immersive holographic experiences. Her work is a blend of art, entertainment, and exploration.
+
+Other Places (gods are allowed to hold courts here):
+
+1. The Ethereal Grove:
+
+A mystical forest where the trees are intertwined with enchantments, creating a haven for creatures from different realms.
+
+2. The Crystal Spire Observatory:
+
+A remote observatory perched high atop a floating island, offering breathtaking views of the cosmos and hosting stargazing events.
+
+3. The Elemental Nexus:
+
+An ancient temple at the convergence of elemental energies, where skilled mages can enhance their abilities and learn new techniques.
+
+4. The Whispering Caverns:
+
+A vast underground network of caves where the walls seem to resonate with whispers of forgotten knowledge and secrets.
+
+5. The Luminous Lagoon:
+
+A bioluminescent body of water that shines with the light of a thousand stars, said to grant visions to those who immerse themselves.
+
+6. The Mirage Peaks:
+
+A range of floating mountains that shift and change appearance, creating an otherworldly landscape for explorers and adventurers.
+
+7. The Twilight Market:
+
+A bustling market that only opens during the twilight hours, where merchants sell rare items from distant dimensions under the fading sun.
+
+8. The Enigma Gardens:
+
+Gardens filled with puzzles and riddles that change daily, attracting those who seek mental challenges and riddle-solving.
+
+9. The Singing Sands Desert:
+
+A desert where the shifting sands create haunting melodies, and ancient ruins buried beneath hold clues to forgotten histories.
+
+10. The Starwell Sanctuary:
+
+A sanctuary nestled within a pocket dimension, where visitors can meditate and connect with the stars, gaining cosmic insights.
+
+11. The Chrono Archipelago:
+
+A cluster of islands each frozen in different periods of time, offering a glimpse into various eras and histories.
+
+12. The Glimmering Glade:
+
+A glade that changes with the seasons, where each tree bears leaves of a different color and magical properties.
+
+13. The Dreamer's Haven:
+
+A floating island where dream magic is strong, allowing visitors to enter shared dreamscapes and experience collective fantasies.
+
+14. The Veilweaver's Atelier:
+
+A hidden workshop where skilled weavers create intricate tapestries that can temporarily transport individuals to distant realms.
+
+15. The Echoing Abyss:
+
+A bottomless chasm that resonates with echoes of lost civilizations, holding ancient artifacts and guarded by spectral beings.
+
+Evil-aligned places:
+
+1. The Dread Arenas:
+
+One main arena and countless smaller venues where enslaved fighters are forced to battle for entertainment, their lives controlled by oppressive overseers.
+
+Baron Darakarakaro: The sadistic overseer of the arena, who revels in the suffering of the enslaved fighters and uses dark magic to enhance their battles.
+
+2. The Cursed Asylum:
+
+A sprawling facility where those with dangerous abilities are discarded or banished, and where mind mages rule completely because they’re the only ones who can survive down there.
+
+Dr. Torment Malaqua: A twisted scientist who conducts unethical experiments on inmates, seeking to amplify their powers for his own nefarious purposes.
+
+3. The Corrupted Void Sanctuary:
+
+A hidden sanctuary where a cult worships cosmic entities, conducting dark rituals that threaten the fabric of reality.
+
+High Priestess Kidderdane: The charismatic leader of the cult, who believes that the cosmic entities will bring about a new order through chaos and destruction.
+
+4. The Slaver's Den:
+
+A fortified stronghold where slave traders capture and subjugate individuals from across dimensions, exploiting them for labor.
+
+Captain Shackle: A brutal slaver captain who leads raiding parties and maintains a network of connections to buy and sell enslaved beings.
+
+5. The Wraithborne Tower:
+
+A towering fortress where necromancers and dark sorcerers experiment with raising the dead and wielding forbidden magic. They harvest the War Zone for people who die all the time, and turn them into slaves for sale in the darker parts of Margleknot. Their main buyers are the arenas and the Slaver’s Den.
+
+Necromancer Morbion Blackthorn: A malevolent sorcerer who commands legions of undead minions and seeks to conquer Margleknot through dark magic.
+
+6. The Veiled Syndicate Hideout:
+
+A hidden lair where skilled thieves and assassins plot heists, kidnappings, and covert operations for their own gain.
+
+Whisperblade Windamander: A enigmatic rogue who leads the Veiled Syndicate, known for his impeccable stealth skills and mastery of poisons.
+
+7. The Corrupted Archive:
+
+A forbidden library where ancient tomes of dark magic, forbidden rituals, and Malevolent spells are preserved.
+
+Nothanganathor was here for a while.
+
+Archivist Kevoida: A secretive mage who curates the Corrupted Archive, seeking to harness its forbidden knowledge for her own ambitions.
+
+Layer 1:
+
+The War Zone. The Tides. The Crush. The Fractal Wastes. The Battle.
+
+Only the most foolish or powerful should ever step into layer 1 of Margleknot.
+
+If someone attempts to violently enter Margleknot, I dump them here instead. If they can survive the Fractal Wastes and make it to a gate leading to Margleknot, then they are worthy of being in Margleknot. Most people are allowed inside Margleknot, though.
+
+If someone breaks the laws then the Fae Enclave is empowered to dump people into Layer 1 at their discretion.
+
+You can probably survive here, but you should not go here unless you need to, and you shouldn’t need to, father.

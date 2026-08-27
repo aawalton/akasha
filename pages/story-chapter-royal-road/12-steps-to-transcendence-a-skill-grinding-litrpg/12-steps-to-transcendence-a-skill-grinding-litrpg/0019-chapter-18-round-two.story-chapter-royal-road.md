@@ -1,0 +1,283 @@
+---
+id: ab342116-0601-571f-a889-25b8127ab4ad
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18: Round Two"
+slug: 0019-chapter-18-round-two
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 19
+ownLength: 2412
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3743738/chapter-18-round-two"
+royalRoadId: "3743738"
+---
+
+Ben slammed his feet into the monster's scarred face and unleashed a massive [Fire Burst] right at it.
+
+Orange flames spread outward, briefly illuminating the dark woods. He gagged as the sickly smell of burning dead flesh filled his nose.
+
+But he didn't hear the crack of a skull breaking as he expected.
+
+Because the towering troll had shifted its weight back just before the worst of the blast hit. It was almost like the damn thing remembered having its head blown off last time.
+
+The [Fire Burst] pushed Ben backward, but suddenly, moving faster than expected, two huge gray hands grabbed his ankles.
+
+...Huh?
+
+His mind barely registered the sudden shift before the troll swung him like a baseball bat and hurled him into the dark trees.
+
+The power of the throw sent him flying through the cold air. Wind roared in his ears as everything spun into a dizzying blur of dark green and brown.
+
+Oh, you have got to be kidding me!
+
+Ben flailed wildly, trying to steady himself. He was about to crash into a tree! And given how beaten up he was, that would probably break every bone in his body.
+
+Pouring his dwindling mana into his feet, he fired another [Fire Burst]. The thrust jerked him upward, straining his core muscles to the limit.
+
+He missed the thick tree trunk by mere inches, and shot up into the night sky. Riding the momentum, he rose higher and higher above the thick forest canopy.
+
+He just needed to get out of its ridiculous melee range.
+
+Trying to fight a super fast reanimated corpse on solid ground was basically suicide.
+
+Especially with his left arm out of commission. Hovering in the cold night air, he looked down.
+
+A burst of violet light lit up the trees far below.
+
+His eyes went wide.
+
+The damn thing was copying his [Fire Burst] skill to propel itself upward, fire shooting from its hands. Like some kind of nightmare rocket, the troll shot out of the tree canopy on a pillar of violet flames.
+
+Are you freaking kidding me right now?!
+
+Gritting his teeth, he fired another blast from his feet, turning sharply to his left. His original plan was ruined. He couldn't just run away and hide in the trees.
+
+If he bailed now, the troll would just drop back down and then brutally kill the girl.
+
+Honestly, he wasn't any kind of hero material, and held no such fantasies either. But he also wasn't the kind of jerk who'd leave a defenseless girl to get torn apart.
+
+So he had to hold its attention a little longer.
+
+He needed to get it as far away from her as physically possible.
+
+Ben pushed more mana into his legs and shot forward through the night sky. He glanced back to see how far apart they were.
+
+The troll was right behind him, riding a huge wave of violet fire.
+
+How the hell is a giant, heavy corpse flying faster than me?
+
+Physically, it made no sense.
+
+But logic clearly didn't matter when it came to magically reanimated monsters.
+
+Crashing into him, the troll slammed its massive shoulder straight into his chest. The blow knocked the air from his lungs. Spinning out of control, Ben couldn't even manage to fire off a stabilizing blast to steady himself.
+
+They both fell straight into the dark forest below.
+
+Ben crashed through thick branches and leaves, throwing his arms over his face to protect his eyes.
+
+Thank the stars for his Tier 1 body. If he were still Tier 0, he'd have died many times over by now.
+
+He hit the ground hard, pain shooting through his battered body. Coughing up blood, he forced himself to roll aside just as a fist smashed into the spot where his head had been.
+
+Chunks of dirt exploded outward, stinging his skin like shrapnel. Scrambling awkwardly to his feet, Ben didn't even bother brushing the debris off his face. The fight started up again right away.
+
+Ben darted around the troll. Bouncing from spot to spot, he sent out quick, sharp bursts from his feet to dodge the monster's wide punches.
+
+A giant fist completely destroyed a thick tree trunk right where his chest had been a mere seconds prior. Ben propelled himself straight at the monster's wide blind spot.
+
+He drove his flaming, mana reinforced foot directly into its ribs. The orange fire burned the dead flesh, leaving a blackened mark, and then a blast punched a hole through.
+
+But the troll didn't even react.
+
+The troll swung its huge arm and clipped Ben's right shoulder. The blow spun him around and sent him skidding across the dirt.
+
+Damn it, nothing is doing any real damage!
+
+Dark burn marks spread over his arms and legs. Too many quick, uncontrolled explosions were hurting his own limbs, never mind the violet fire.
+
+Growing increasingly reckless, Ben started taking really stupid risks. He shot toward the troll's face, dodged a punch, and smashed his knee into its jaw, feeling a satisfying crunch.
+
+But the troll grabbed his right arm and squeezed tightly.
+
+Pain shot through his upper arm as the creature threw him across the ground like a broken toy. Crashing hard through a thick wall of bushes, Ben dragged himself to his feet.
+
+Blood ran from a dozen throbbing cuts as his vision swam with large, dark spots.
+
+[Focus Lvl 6 > Lvl 7]
+
+[Mana Reinforcement Lvl 4 > 5]
+
+[Unarmed Combat Lvl 5 > 6]
+
+[Fire Burst Lvl 8 > Lvl 9]
+
+The notifications briefly flashed at the very edge of his blurred vision, but he didn't even acknowledge them. Because something deep inside his brain had suddenly shifted.
+
+The pain vanished at once. The fatigue disappeared. Even the emotions repressed by [Focus] melted away into absolute nothingness.
+
+He slipped into a strange trance, his mind separating from his body.
+
+He stared blankly at the towering monster, its body burning as it charged at him, but he felt no fear.
+
+No anger, frustration, or pain touched him. He felt nothing at all.
+
+He stepped to the left, letting a punch miss his ear. He saw the next attack coming and ducked under the troll's arm. Planting his left foot, he kicked the troll's stomach hard, using [Fire Burst] for extra force.
+
+The force of the kick made the troll's dead, rotting flesh cave in.
+
+But he didn't stick around to admire his handiwork. He instantly blasted backward with [Fire Burst], dodging a sudden eruption of violet fire from the ground beneath him.
+
+The entire fight changed rhythm in a fraction of a second.
+
+He was fighting on a terrifyingly even footing, though he wasn't even aware of it.
+
+His movements were precise, with no wasted energy or panic. He dodged every attack the troll made, and every small opening in its guard was met with a burst of orange fire.
+
+He was still getting injured, of course.
+
+A sharp claw scratched his cheek, leaving a warm line of red blood. A glancing hit from a huge, sweeping knee badly bruised his ribs even more.
+
+But his mind simply didn't care.
+
+He felt totally disconnected from his injuries.
+
+He moved like a machine, carrying out a violent yet precise dance of fire and blood. Deep within this bizarre, silent moment of tranquility, something unusual happened.
+
+A complex runic inscription suddenly materialized in the darkness of his mind. He didn't know what it meant or where it came from, and he couldn't read the strange, sharp lines, either.
+
+But his mind understood its purpose right away. Without thinking, his body began acting on its own.
+
+Standing still, he intentionally let the troll's next punch connect with his right shoulder. The heavy impact threw him backward through the dark air.
+
+But his collarbone didn't break as he thought it would. Because when the troll's fist hit him, he instinctively absorbed its kinetic energy and dampened the impact.
+
+He channeled kinetic energy into his body. The hit was strong, but it wasn't nearly strong enough to break anything important or cause any real harm.
+
+As he flew through the air, he wondered what was happening. Using the kinetic energy he absorbed, he stilled his spinning body midair.
+
+He balanced himself in the space between the trees.
+
+Firing off a precise [Fire Burst], he shot back at the troll like a missile. Both of his flaming, reinforced feet slammed into the monster's chest with crushing force.
+
+The hit sent the troll crashing into a tree. Landing on the dirt floor, Ben immediately prepared to absorb the next hit. Whatever was happening, this new feeling was amazing.
+
+He felt unstoppable.
+
+Then, without warning, the trance ended. Ben blinked hard and stared at his own shaking hands.
+
+What... what the hell just happened?
+
+The agony of a dozen different bleeding injuries abruptly flooded back into his brain. He instantly lost his grip on the strange kinetic energy absorbing feeling, and that momentary lapse in concentration cost him everything.
+
+A burning fist slammed into his chest before he could raise his arm to block or blast away with [Fire Burst]. He crashed into the ground, bounced like a skipped stone, then tumbled across it.
+
+Desperately digging his fingers into the dirt to stop his momentum, he finally skidded to a halt. With wide eyes, he groaned in pain, unable to move a single muscle no matter what he did. His vision grew blurry, and a wave of tiredness hit him.
+
+His blurry vision was rapidly fading into darkness.
+
+Is this how it ends?
+
+He stared blankly at the sky.
+
+Is this really the end? Am I going to die here in the dirt like an idiot? What a fitting way to go...
+
+Suddenly, a shadow blocked the faint moonlight above him. The towering troll stood over his broken body.
+
+Sickly violet fire flickered in the troll's hollow eye sockets.
+
+He couldn't even muster the energy to roll away as its fire propelled fist crashed down on him.
+
+A sudden flash of silver light broke the darkness. Ben opened his blurry eyes and saw an armored man with broad shoulders standing over him.
+
+Holding a massive greatsword in one hand, the armored man blocked the descending strike. He held the crushing weight back like it weighed nothing at all.
+
+Ben wanted to chuckle… Lady Luck hadn't abandoned him after all.
+
+Arthur POV
+
+Arthur flicked the gore from his broadsword, sending a streak of black, burning blood into the dirt. After sheathing the heavy blade on his back, he looked down at the unconscious kid lying in the mud.
+
+Damn, this kid looks terrible.
+
+Stepping over a burning tree branch, he stopped right next to the battered boy.
+
+"How incredibly lucky of you."
+
+Sarah appeared, carrying Lady Alice safely in her arms. The guard looked around the burning forest, eyes wide. Arthur let out a huge sigh of relief.
+
+For a hired guard like him, losing a noble child meant certain death.
+
+Working for House Vane was supposed to be an easy, well paid job. The noble families sent their kids to the edge of the Western Plains for survival expeditions. It was meant to be safe and carefully managed so the kids could learn.
+
+But today, everything had gone completely wrong.
+
+They searched for hours, almost tearing the forest apart looking for the girl. When they found only dead ends, the guards panicked.
+
+When night fell, her distress beacon finally reached them. They rushed through the dark woods to her location.
+
+There, they immediately found a kid fighting a fully reanimated troll.
+
+Arthur had almost rushed in to decapitate the undead bastard immediately.
+
+But then he noticed something strange and stopped.
+
+The kid wasn't just fighting out of panic. He was completely blank, moving with an unusual, perfect rhythm that went beyond his physical limits.
+
+He was in a real Trance.
+
+And Trances were incredibly rare, bordering on actual myth for the most common of fighters.
+
+Stopping someone in a state of pure enlightenment like that was a big taboo among fighters. So Arthur made himself stay hidden in the trees, respecting the kid's golden opportunity.
+
+Surviving a life and death fight was impressive for any kid. Doing it while in a real Trance showed true talent.
+
+He decided he would only step in if things got completely out of control.
+
+Of course, the moment the boy snapped out of his Trance, he lost right away. It was a peak stage Tier 1 troll, so that made sense. The boy was only an early stage Tier 1. That he lasted as long as he did was strange.
+
+"What the hell actually happened here?" Sarah crouched down next to him, her eyes inspecting the dead troll.
+
+"This kid fought the troll alone. He is an unknown, but he was in a Trance, so I respected it and waited."
+
+Alice scowled and pulled herself out of Sarah's protective grip.
+
+"He is my savior! Not just some random person!" She puffed out her cheeks. "If it weren't for him, I'd be dead!"
+
+Arthur bowed his head a little and didn't argue.
+
+"Yes, my lady."
+
+Sarah looked at both of them and gently touched Alice's shoulder.
+
+"Can you tell us what happened, Lady Alice?"
+
+The girl waved her hand sharply and explained how she had been captured and how the boy helped her escape. Arthur listened quietly, filtering out the unnecessary fluff.
+
+The story was simple enough, but it still seemed suspicious to him.
+
+Lady Alice gets kidnapped, and then a random talented kid just happens to show up and save her?
+
+Sure. That sounds likely.
+
+The timing was just way too convenient.
+
+"He needs healing right away!" Alice pointed at the unconscious boy. "He seemed terribly unwell even before the monster attacked!"
+
+Arthur finally knelt down and took a closer look at the kid's body.
+
+He pulled back the torn cloth of the boy's ruined shirt and frowned.
+
+Purple veins spread out from a nasty wound on his left shoulder.
+
+He knew right away what it was.
+
+"Goblin poison." He grunted. "Pretty common."
+
+Tracing the dark, swollen lines with his armored finger, his frown deepened.
+
+"It's usually treatable, but this looks like it's been in his body for a long time now."
+
+He stood up and easily lifted the bleeding kid over his shoulder.
+
+"The damage might already be done. Let's get him back to Marcus and see what he thinks."

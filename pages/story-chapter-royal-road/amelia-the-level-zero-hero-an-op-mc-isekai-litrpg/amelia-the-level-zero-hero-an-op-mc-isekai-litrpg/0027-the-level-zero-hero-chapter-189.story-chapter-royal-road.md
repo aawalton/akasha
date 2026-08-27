@@ -1,0 +1,107 @@
+---
+id: 777ba429-be19-5b3e-b010-1da12d4be095
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 189"
+slug: 0027-the-level-zero-hero-chapter-189
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 27
+ownLength: 1312
+unit: words
+publishedAt: 2023-11-08
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1400806/the-level-zero-hero-chapter-189"
+royalRoadId: "1400806"
+---
+
+“The World System is… evil?” Noele repeated after her master, her head spinning as she tried to process what was being said.
+
+But for some reason, her mind refused to accept it. The blonde girl couldn’t believe this was true. It was like there was a mental block preventing her from digesting Amelia’s words— making Noele physically incapable of comprehending the very notion of the World System being anything but a benevolent entity utterly unfeasible.
+
+“I— that’s not possible,” the blonde girl finally said. She shook her head as she gritted her teeth. Something compelled her to argue against her master. “Why would the World System lend us its power if it were truly evil? Why would it protect us from the Void with its army of Angels if it were not a force of good?”
+
+Noele spoke as she lowered her head. Her gaze darkened, and her breathing quickened. She tried to steel herself— she stopped herself from barraging Amelia with a million arguments against the idea that the World System was evil. Instead, she calmed down and opened her mouth once again.
+
+“Amelia—”
+
+“Yeah,” the brown-haired woman said, cutting off the blonde girl. “I’m going to be honest, I don’t think the World System is evil either.”
+
+“...what?” Noele paused, breaking out of her strange trance. She stared at her master with wide eyes as her jaw dropped. And she repeated herself, “Wait, what?”
+
+—--
+
+It was a simple statement. Well— more of a question, really. But it was a rhetorical one. And it was to just gauge the reaction of the blonde girl when I asked it. Because, truthfully, I had put this issue off for long enough.
+
+And now, with all of Noele’s uncertainty, I decided to finally tackle this problem. Unfortunately for me, I was faced with a barrage of questions in response.
+
+Noele pointed accusingly at me as she unleashed a verbal assault my way. “What was the point of telling me that if you don’t believe it? Like— where did you even get that idea from?”
+
+I just shrugged dismissively as she stared at me in shock. “Well, I certainly didn’t come up with it. That was just what the Voidgod told me.”
+
+I gave an honest answer. But that didn’t placate the blonde girl.
+
+“The Voidgod? You mean that thing that is literally the incarnation of all that is evil?” she exclaimed.
+
+I nodded simply. “Yeah, that Voidgod. I was under the impression that there wasn’t any other Voidgods out there.”
+
+“Amelia…” Noele sighed as she rubbed her temples. “You gave me a scare there. Of course the Voidgod isn’t telling the truth.”
+
+“And yet, the Voidgod has told me many things before that were true,”I countered as I shook my head. “So what if this is true too? What if the System is actually evil?”
+
+Now that made the blonde girl pause. She narrowed her eyes at me. “What? You can’t be serious, right?”
+
+“But I am.” I crossed her arms. “The Voidgod told me of an entity. That which it called its Enemy. The one that expelled it from Vacuos.”
+
+“The World System,” Noele said, furrowing her brows. “I’ve heard stories about that. That at one point in time, long ago, a great evil consumed the entirety of Vacuos. But then—”
+
+Before the blonde girl could finish, I continued for her, “But then the System descended from the heavens, empowering each and every being in the world, before sending down an army of Angels to repel the Great Evil and expelling it from Vacuos. Is that correct?”
+
+Noele blinked. “That’s… correct. How do you know that? I barely even remember the details about it. It’s just a bedtime story told to children.”
+
+“Well, that’s simple,” I sighed as I lowered my head. “I’ve heard this story before. Just from a different perspective.”
+
+“Different perspective?” Noele stared quizzically at me.
+
+I closed my eyes, even the blonde girl’s gaze bore into me. I remained silent for a moment. And I remembered a booming voice. I recalled a world of chaos. Where time meant nothing, and space was but an illusion.
+
+It was a distant memory. It felt like a dream. But it was real. And so were the images that I had been shown.
+
+“Once upon a time, all of Vacuos was at peace. There was no war. There was no suffering. There were no tears, because there was no such thing as grief. There were no heartbreaks, because there was no such thing as love. It was a perfect world. It was paradise.”
+
+I whispered softly as Noele raised a brow. But I didn’t pay attention to her. I just continued, hearing the words of the Voidgod echo in my head.
+
+“But then, the Enemy appeared.”
+
+“The World System,” Noele said in a low voice.
+
+I ignored her, simply recounting what I was told. “At first, the Enemy’s presence was weak. After all, it was intruding into an alien domain. But slowly, the Enemy sent its forces into Vacuos to expand its reaches— it sent its Drones to sow chaos and death.”
+
+Noele placed a hand on her chin. “The Drones are… Angels?”
+
+“That’s right.” I nodded as I raised my head to face the blue sky above. The words continued to echo in my mind as I recited from memory. “The Drones spread throughout the world, sowing the seeds for chaos, and in doing so, empowering the Enemy until all of Vacuos was infected by a terrible blight.”
+
+“Blight? Do you mean…?” Noele narrowed her eyes, looking down at a blue screen which I couldn’t see.
+
+I looked back down at her as I finished recounting the tale I had been told, “And with the world now at its side, the Enemy banished the True God of Vacuos into an eternal prison, letting chaos and death rule the world.”
+
+Noele’s eyes flickered as I finished. She stayed silent for a moment, and I closed my eyes. I heard the booming voice of the Voidgod echoing in my head, but now it was fainter than before. I saw flashes of my memories of my time back there. I remembered a sense of dread— a sense of hopelessness as I knelt there on those icy rocks, facing down an eternity of torture.
+
+And I remember being given an offer. One that I could not refuse. A chance at salvation.
+
+I shook my head, before looking up at the blonde girl. “And that’s it. That’s the other side of the story you’ve been told.”
+
+She remained silent for a long moment. Her eyes fluttered shut, and she took in a deep breath. I waited, until she finally spoke..
+
+“The Voidgod,” Noele whispered. She bit her lower lip, eyeing at me with a sharp gaze. “How can you possibly call it the True God of Vacuos?”
+
+“Because that’s what it called itself,” I said, shrugging. “As I told you, I was simply telling you the story I heard.”
+
+“But the Voidgod told you that story!” the blonde girl tried to protest as she took a step forward. “Why would it ever tell you the truth about… anything?”
+
+“Do you really want to know the answer to that question?” I asked as I sighed. Noele blinked, and I locked eyes with her. “Because I can tell you the truth, if you want.”
+
+“That’s—” She caught herself before giving an immediate answer. Slowly, she held my gaze and nodded. “Please, tell me.”
+
+“Fine,” I sighed, expecting that. “I’ll tell you everything.”
+
+But if I was being honest, I was really hoping I didn’t have to answer anything. It was hard for me to fully cope with, even now. Still, I did as I promised, lowering my head as I remembered the visions the Voidgod showed me.
+
+And I recalled the scenes of my memories from the Void.

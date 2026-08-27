@@ -1,0 +1,400 @@
+---
+id: 427792c6-fa26-5fb2-bce5-40352678269e
+page-type-slug: story-chapter-played
+title: "Full Chord"
+slug: 0014-full-chord
+partOf: tower-and-the-star
+position: 14
+ownLength: 5518
+unit: words
+---
+
+The Transition Hall between Floor 11 and Floor 12 was functional.
+
+That was the word Solenne kept arriving at, trying on different ones and returning to it. The light was the standard amber — sourceless, even, nowhere near the warm golden-green of the rest node alcove they had left this morning, nowhere near the particular quality of the Floor 10 Hall that had felt like something new being formally recognized. The walls were smooth black stone without bioluminescent growth or the memory of recent violence. The System terminal in the middle of the space displayed the usual information: Floor 12 ahead, party status all green, inventory access available.
+
+Functional.
+
+The word was not a complaint. After three hours in the Fungal Canopy's elaborate beauty and twelve minutes of the Spore Anchor's continuous spawn cycles, functional was its own kind of gift.
+
+Vesper had claimed the south corner within two minutes of their arrival. The Field Forge was already cycling, its familiar deployment sequence running through the phases Solenne could have described with her eyes closed: the Workframe's precision choreography, the Forge Kit's measured deployment, the thirty-second initialization before the temperature signature reached working parameters. The hum was a specific hum. The party recognized it the way people recognize the sound of a kettle nearing boil — not consciously attended to, just known.
+
+Nadia had found a spot near the west wall and drawn a face on a cluster of calcium deposits with chalk from her bandolier pockets. She was throwing knives at it. Not with the focused precision of training or the controlled mechanics of Stumble — with the particular rhythm of someone working through something physical and slightly mindless, a motion that required enough attention to occupy the hands without requiring the brain. Dave and Dave Jr. and four of the unnamed ones. She retrieved them after every throw, reloaded, threw again. The calcium face was accumulating damage. It had not, she noted without turning around, been named yet.
+
+Dayo was sitting with her back against the east wall, the First Boss Coat's plating catching the amber light. She had taken it off. This was unusual — Dayo did not often remove armor on a rest day, her body having recalibrated over ten floors to treat the weight as baseline. Now it sat on the floor beside her left knee, and she was running a maintenance cloth over the left shoulder guard's interior surface. Not because it needed cleaning. The action was its own explanation if you knew where to look.
+
+Nadia retrieved the knives from the calcium face's nose and chin. She turned to reload the bandolier, caught Dayo's eye across the Hall, and looked away again without saying anything. Dayo's cloth kept moving.
+
+The eighth dent in the left shoulder guard was new.
+
+Solenne had noted it during the Spore Anchor fight, when a tendril had caught Dayo mid-repositioning and put her into the eastern wall with a force that left a mark in both surfaces. Dayo had not slowed down. She had checked her armor gap, confirmed the underlying padding was intact, and returned to the next tendril. That was the documentation — Dayo's version of note-taking, a running record in metal and composite.
+
+Solenne looked at the distance to the Floor 12 door and quietly did not think about the Spore Anchor fight's bonus objectives, which they had narrowly missed on two of three criteria. She looked at her own notebook instead. The new section: *Floor 11. Adaptive enemies. The shape worked.*
+
+Three lines. She had been adding to them intermittently all morning. The fourth was recent: *Six tendrils, 400 HP each. New formation held. Miriam's reserve margins held (within recalculated estimates).*
+
+She did not write the fifth line yet, which would have been about the MP costs that Miriam was too careful to flag and that Solenne had been tracking through the Harmony Conductor with the focused attention of someone running two parallel analyses. One was tactical. The other was the kind that wore Miriam's voice in her head and said *the per-encounter cost is higher here,* the memory of last night's clinical assessment delivered with the particular flatness that meant it was important.
+
+She would write the fifth line later. When she had figured out what to do with it.
+
+Tomás was not in the Hall.
+
+This was not alarming. He had scouted the approach to Floor 12 before the party had finished resupplying at the Spore Anchor's drop site — a three-sentence report delivered without invitation and without embellishment, concluded with *I'll confirm the first two chambers before we move.* He did this the way he did everything: having already calculated that the information would be useful and then producing it. The party had stopped expressing surprise at this somewhere around Floor 6.
+
+Miriam was writing in the clinical notebook. She sat in the north section of the Hall, close enough to the System terminal that its amber display softened the light on the left side of her face. Her locs were up in the same practical coil they had been in since Floor 11, and the medic's wrap on her right forearm had fresh notes in blue ink from this morning. She wrote with the same quality of attention she applied to everything that mattered — unhurried, complete, going back twice to add information she had not included on the first pass.
+
+She had not shared what she was writing.
+
+Solenne watched the notebooks around the room — Miriam's, and her own — and thought about what it meant that two of them were doing this, keeping separate records of the same experience. The thought was interesting and not yet useful. She filed it for later.
+
+---
+
+Vasic arrived from below.
+
+Not silently — that was the first thing. She came through the lower door with a pace that the Hall's architecture carried to their ears in fragments: footfall, a pause, footfall again. The sound reached Tomás's empty position before it reached Solenne, and Solenne noticed in the half-second before the door opened that she had not thought *Tomás is not here* so much as *there is an approach from the lower corridor and no one is covering that quadrant.*
+
+The door opened.
+
+The woman who stepped through it was mid-forties, compactly built, dressed in the layered practical gear of someone who had been climbing for a long time and had arrived at efficiency by elimination — every unnecessary thing already discarded or never packed. Climber's efficiency: not the sculpted efficiency of someone training for it, but the unselfconscious efficiency of someone who had forgotten any other way to move. She carried a pack that sat high and close to her spine. Her jacket had a frayed left cuff. The right boot had a streak of trail mud along the welt that had dried there and not been addressed.
+
+The System Scholar insignia was a pin on her collar — not prominent, not displayed. Positioned practically, the way you might position a keycard.
+
+She held a physical notebook.
+
+Solenne's Arcane Analysis activated before she chose to activate it — the skill's passive recognition triggering on an entity whose status it could not immediately classify. The overlay resolved:
+
+```stat-screen
+[ARCANE ANALYSIS — Approaching Entity]
+Dr. Petra Vasic
+  Classification: System Scholar (Certified)
+  Aspect Type: NONE DETECTED
+  — Harmony-keyed Aspects: 0/6
+  — Resonance signature: absent
+  — Non-Harmony Awakened (Advanced)
+  Level: INSUFFICIENT DATA
+  Threat Assessment: N/A
+  Note: Approaching from Floor 11 transit.
+    Party position: registered.
+```
+
+Absent. No Resonance signature. Not Harmony-keyed.
+
+The Harmony Conductor stayed quiet. Solenne had grown accustomed, over ten floors, to the faint ambient quality the Conductor generated when it perceived another Aspect in range — not loud, not intrusive, but present, a background hum of recognition. There was nothing here. The woman approaching across the Transition Hall moved through the Conductor's field like a shape through water, producing ripples but no resonance. Whatever she was, she was not what they were.
+
+Vasic stopped three meters from Solenne. She looked at the party — a single, measured sweep, the quality of attention Solenne recognized from her own analytical processing: not hostile, not casual, precise. Taking inventory.
+
+She said: "Dr. Petra Vasic. System Scholars." Her voice was even — the voice of someone who had introduced herself to many people in many hallways and had stripped the introduction down to what was functionally necessary. "I've been hoping to speak with your party. Is this a reasonable time?"
+
+Nadia threw a knife. It hit the calcium face between the eyes.
+
+"Sure," she said, not turning around. "We're very approachable."
+
+---
+
+Dayo was on her feet by the time Vasic had taken her second step into the Hall.
+
+She had not announced this. She had not made a sound — the armor cloth went back into her kit, the First Boss Coat came off the floor, and she had it on and was standing with the coat settled on her frame before Nadia had finished her sentence. She moved to a position slightly left of Solenne's elbow, close enough to constitute presence without constituting crowding, and she stood there and watched Vasic the way she watched anything she had not yet classified as either threat or non-threat.
+
+She did not reach for the bracer. But her right hand was aware of where it was.
+
+Vasic looked at Dayo with a quality that was not assessment — more like recognition, something seen and noted. Her eyes moved on before Dayo had made any particular response to being observed.
+
+"I study Harmony Aspects," Vasic said, addressing Solenne but angling the notebook so it was legible as an object — open, already written in, small dense text that Solenne could not read from here. "Specifically, the emergence of composite resonance perception in multi-Aspect parties. Your team's profile is of significant research interest." A brief pause. "I have questions, if you're willing."
+
+*Composite resonance perception.*
+
+The phrase landed in Solenne's awareness like a variable she had been carrying without a name. The Harmony Conductor's deep channel — the one that ran underneath information, the one she felt through the Trueweave Aspect rather than through the tactical feed — was what Vasic was describing. The experience of perceiving multiple Aspects simultaneously. The quality that had been growing floor by floor, that had arrived fully during the Resonance Surge, that she had not found words for in any of the three languages she had studied.
+
+Vasic had words for it.
+
+Solenne became conscious of three things happening simultaneously: her own response — the specific intellectual pleasure of encountering a name for something she understood — and Tomás not being in the Hall, and the fact that she was the one Vasic had addressed first and had not stopped addressing.
+
+"Yes," Solenne said. "What would you like to know?"
+
+---
+
+Vasic asked about Harmony activation rate.
+
+Specifically: how many deliberate Harmony Skill activations per floor, averaged across the last three floors, and whether the frequency had changed as the party's RES values developed. She wrote while Solenne answered. The writing was efficient — shorthand Solenne did not recognize.
+
+The question was easy to answer. Solenne had been tracking exactly this in her notebook, and the numbers came readily: per floor, which skills, the trend in activation confidence. She was two sentences into the explanation when she noticed something.
+
+Vasic was not writing the numbers down.
+
+She was writing *around* them — making marks that were not numerical notation, filling in columns that appeared to be preexisting. As if the numbers were confirmation rather than information. As if she had already estimated them.
+
+Solenne finished the answer. She did not flag what she had noticed. She filed it, added it to the analysis running underneath the conversation, and waited to see what came next.
+
+"RES variance," Vasic said. "Within the party. I have some data from party interaction records, but direct confirmation would be useful." She named a range — fourteen to twenty-one, as a question.
+
+It was not quite correct. Close. The direction of the inaccuracy suggested she had Miriam's and Solenne's values nearly right and was less certain about Tomás and Nadia. Which meant her data had been assembled from partial sources. Which meant she had been assembling data for a while before this conversation.
+
+Miriam had put down her pen.
+
+Solenne felt this through the corner of her attention — Miriam going still the way she went still when she was watching something with her full clinical equipment. Not alarmed. Observing.
+
+"The range is accurate," Solenne said, which was true without being a full confirmation. "May I ask where your records came from?"
+
+Vasic's eyes moved to her — direct, the measurement quality more visible now. "Other Harmony-observable parties," she said. "Your group's public movement records. Tower System logs where available." A beat. "You're the highest-RES party at Floor 11."
+
+"How many parties are you tracking?"
+
+"Enough to establish a baseline." The non-answer was delivered with precision — Vasic knew she was not answering the question and wanted Solenne to know she knew. It was not evasion. It was a form of honesty about the limits of disclosure.
+
+Solenne found this, despite herself, interesting.
+
+---
+
+Nadia had turned around.
+
+Sometime in the first two minutes of the conversation she had stopped throwing knives and turned to face the room. She was leaning against the west wall now with her arms folded, the green scarf bright against the plain black stone, watching Vasic with the quality of attention she brought to things that required a verdict. Not hostile. Deciding.
+
+Vasic did not appear to notice. She was asking about composite resonance perception — when Solenne had first experienced it, how it manifested, whether it was active or passive, whether it was directional.
+
+Solenne answered. She watched herself answer — specifically, she watched the speed at which the answers arrived, the way Vasic's vocabulary unlocked descriptions she had been carrying without an adequate container, the particular intellectual pleasure of talking to someone who understood what she was describing well enough to ask the next question in the right place.
+
+She answered three questions before she caught herself.
+
+The fourth question was going to be about the Harmony Conductor. She was, she realized, fully prepared to answer it — and that was the problem.
+
+She scaled back.
+
+The scaling back was small — a slight compression of the fourth answer, holding the Surge's full quality and the Six of Six perception off to the side, offering the edges rather than the center. She was not certain Vasic noticed. She was not certain Tomás would not notice, if he had been in the Hall. She held the partial answer and felt the gap between what she had nearly said and what she had said, and catalogued that gap as information about herself.
+
+"The perception is active during Harmony Skill activation," she said, "and has passive elements that strengthen at higher RES values. The range extends with —" She paused. "It's difficult to describe accurately."
+
+Vasic wrote something. She did not press on the difficulty. Instead she moved to the next question: "Has the perception included anything your party experienced as new information? Information you did not have through other means."
+
+Solenne thought of the two seconds in the Floor 10 chamber. The shape of the full chord. *Almost.*
+
+"Yes," she said carefully. "In one instance."
+
+Vasic looked up from the notebook. It was the first time she had fully stopped writing. She looked at Solenne with the measurement quality fully forward, and underneath it — very briefly — something that looked like the expression of a person arriving at the thing they had been navigating toward.
+
+---
+
+Miriam closed her clinical notebook.
+
+Not put it away. Closed it, both hands flat on the cover for a moment, the gesture of a diagnostician who had arrived at a conclusion. She looked at Vasic with the quiet attention of someone who had been taking inventory for the last ten minutes and was done taking it.
+
+Vasic glanced at her. A brief acknowledgment — another marker on whatever map she was building — and returned to Solenne.
+
+"The coordination mechanics," she said. "In combat, when Harmony Skills engage. I've seen reports of call-and-response patterns in Harmony pairs. Whether that's deliberate communication or something else."
+
+"Both," Solenne said. "It develops over time. The deliberate part becomes less deliberate as the mechanism gets more established." She considered. "Like any other skill."
+
+"Like any other skill," Vasic repeated. She wrote it. Then she looked at the notebook for a moment, and the look had a quality that was private — the internal processing of something that had just confirmed something else. Then she looked up, and the measurement quality was back, and the private quality was gone.
+
+She produced a folded piece of paper from her jacket's inner pocket. One fold. She held it out toward Solenne.
+
+"I said I had questions," she said. "I also have something you should see. Or —" A brief hesitation, the first Solenne had observed. "More accurately: something you will encounter, and it would be better if you had context before you do."
+
+Solenne took it.
+
+The paper was standard weight, slightly warm from the jacket pocket. Folded once. She opened it.
+
+The System tag was visible immediately — not a stamped notation but an ambient display, the faint amber overlay of System-recognized documentation:
+
+```stat-screen
+[SYSTEM REFERENCE DOCUMENT]
+  Origin: UNKNOWN
+  Classification: Reference
+  Contents: [COORDINATES — FLOOR 17,
+    QUADRANT NW, ALCOVE 7-B]
+```
+
+The coordinates were there. Floor 17, quadrant NW, alcove 7-B — specific in the way that architectural documentation was specific, bearing and alcove designation rather than vague directional description. Below the System tag, in the lower half of the paper, a set of notations in script she did not recognize. Small, precise characters arranged in columns that might be numerical or might be a writing system she had never encountered. Her linguistics training activated immediately and produced nothing useful — no Indo-European cognates, no Semitic root structures, no familiar morphological patterns. Something without a known ancestor.
+
+She looked at Vasic. "What is this?"
+
+"Coordinates for a locked room," Vasic said. "The lock will not open for any standard Skill or System key available to any current climber." A pause. "But I have reason to believe your party is — specifically — different in ways the System will recognize."
+
+Solenne looked at the notation again. The script was not Tower architectural text — she had seen Tomás's copies of the text from the sealed spaces on Floors 5, 6, and 8, and this was not the same. Different stroke patterns. Different character density. Same principle of being a thing that should not exist in a physical artifact and did anyway.
+
+"Where did you get this?" she said.
+
+"Research," Vasic said. The non-answer again, the same precision of deliberate incompleteness. She was already moving — not away, but closing the notebook, capping the pen, the motion of someone who had said what she came to say. "Floor 17. Northwest quadrant. The alcove is marked 7-B in the Tower's partition system." She looked at Solenne directly, and the measurement quality was gone. What was left was something more difficult to name — not warm exactly, but less guarded. "Don't lose it."
+
+She looked at the party — the full sweep again, taking inventory. At Dayo, standing near Solenne's elbow with the First Boss Coat on and her hands steady. At Nadia, against the west wall, arms folded, the expression of someone who had made a decision and was sitting with it. At Miriam, still and watching. At Vesper, who had stopped working at the Field Forge and was looking at Vasic with the focused expression she brought to problems she was calibrating.
+
+"Thank you for your time," Vasic said.
+
+She moved toward the lower door with the same efficient motion she had arrived with.
+
+Dayo did not move from Solenne's elbow until Vasic was through the door.
+
+---
+
+The Hall was quiet for a moment.
+
+Then Tomás stepped through the upper door.
+
+He stopped just inside the threshold. He looked at the door Vasic had used, at the party's positions, at the paper in Solenne's hand. He had been gone for forty minutes. He had not been in the Hall for any of the conversation.
+
+"You had company," he said. Not a question.
+
+"System Scholar," Solenne said. "She asked about composite resonance perception and handed me this." She held up the paper.
+
+Tomás looked at it. He crossed the Hall, and Solenne held it out, and he read it — the System tag, the coordinates, the notation she couldn't identify. He spent longer on the notation than the coordinates. His eyes tracked the characters in the columns the way he tracked terrain — reading shape, direction, pattern.
+
+"She asked about Harmony activation rate," Solenne said, watching him. "RES variance. Composite perception." She paused. "In that order."
+
+Tomás looked up from the paper.
+
+"She asked about composite resonance perception," he said, "before she asked whether you had it."
+
+The phrase landed in the room with the flat clarity of a true thing precisely stated.
+
+"Yes," Solenne said. "She did."
+
+"She already knew you had it." He returned the paper. "The questions were confirmation. Not inquiry."
+
+Nobody said anything for a moment.
+
+Vesper, at the Field Forge, set down the casing she had been examining. She looked at the coordinates Solenne was still holding. "Floor 17," she said. Her voice had the focused quality it carried when she was running a practical assessment. "Northwest quadrant, alcove 7-B." She looked at the notation. "The bearing is extremely precise for someone who claims not to know what's there."
+
+---
+
+Nadia had pushed off from the west wall.
+
+She moved to stand near the group, though not quite in it — slightly outside the radius, her arms still folded, the green scarf catching the amber light. She looked at the paper. She looked at Solenne. She looked at the door Vasic had left through.
+
+"So," she said. "To summarize." The timing in her voice was active — not the timing of a prepared joke, but the real-time timing of someone finding the shape of a thing through speech. "The Tower was built for us specifically. The System traveled an unknowable distance to put us in Chicago at the exact right time. And *now* a stranger shows up, asks precisely targeted questions confirming things she already knew, and hands us coordinates for a floor we haven't reached yet, with a note in a language nobody alive can read." She paused. The pause was precise. "I feel like we're being studied for a paper we didn't consent to peer review."
+
+Dayo made a sound — not quite a laugh, something shorter, something that acknowledged the accuracy without committing to whether the accuracy was funny.
+
+"She had a notebook," Miriam said.
+
+Everyone looked at her.
+
+"A physical one," Miriam continued, in the measured sentences of someone reporting rather than editorializing. "Writing things during the conversation. But she wasn't writing what Solenne was answering — she was writing around it. Filling in categories she had already established." A pause. "She was interested in whatever Solenne said about the one instance. The perception that carried new information." Miriam looked at Solenne. "The one you didn't fully answer."
+
+"I scaled back," Solenne said.
+
+"I noticed." Miriam said it without judgment. "She noticed too."
+
+Another silence. The amber light did not change.
+
+"She didn't ask where we were going," Miriam added.
+
+This landed differently from the rest. She said it without emphasis, the tone of someone adding an observation to a list rather than delivering a conclusion. Then she opened her clinical notebook and picked up her pen.
+
+Solenne looked at the paper. The coordinates — Floor 17, quadrant NW, alcove 7-B — in System-tagged precision. Below it, the script she could not read, the notation that was not Tower architectural text, arranged in columns that her linguistics training classified as *structured* without being able to classify anything else.
+
+A second writing system.
+
+The Tower had a first one — the text built into the sealed spaces on Floors 5, 6, and 8, the six qualities in a language no one alive should be able to read. And now there was a second. From a source that was not the Tower. From a woman who had researched them specifically enough to know what questions to ask in what order, who had information Solenne could not trace to any public source, who had left them coordinates and notation they could not yet use and had said *it would be better if you had context before you do.*
+
+Solenne turned the paper over. The back was blank.
+
+"She's going to come back," Nadia said.
+
+Solenne looked up. "You think so?"
+
+"She didn't say she was done." Nadia's voice had settled out of the joke-timing into something more direct. "She said she had questions — past tense, asked and answered. But she didn't close the loop on why she was giving us the paper." She glanced at the door. "Someone who knows that much doesn't show up once. That's not what you do when you know that much. You — you build a relationship with the data."
+
+Nadia had a way of arriving at things through the route of the absurd. This was not the absurd route. This was something else — the route of someone who had been studying what it meant to perform while someone watched, and had recognized the shape of that performance in the woman who had just walked out of the Hall.
+
+Solenne filed this. She filed all of it: the question ordering, Miriam's three observations, Tomás's one precise reframe, Vesper's note about the bearing. She felt the weight of the paper in her hand and the fact of Floor 17 being three floors away and the script she could not read and would not be able to stop thinking about.
+
+"Level up," Nadia said, and her Status Window chimed.
+
+---
+
+The notification arrived mid-thought — the System's characteristic timing, its interpretations of significant moments not always coinciding with what Solenne would have called significant. Both Nadia and Miriam, simultaneously, which was either meaningful or efficient.
+
+```stat-screen
+[LEVEL UP — Nadia Volkov-Baptiste]
+Level: 9 → 10
+  Class Auto-Bonus: +3 AGI, +3 INT, +1 RES
+  Milestone: Jester Flourish (Passive, Tier II)
+    — Successful Stumble: +10% AGI for 8s
+    — Pattern Break: free activation once per floor
+  Free Points: +3 (unallocated)
+
+  AGI: 25 → 28
+  INT: 24 → 27
+  RES: 17 → 18
+  HP: 218 → 232
+  MP: 385 → 408
+
+  Class Aptitude Assessment:
+  "The one who sees the absurd and names
+   it before anyone else does. Not because
+   she is careless — because she is paying
+   very close attention."
+```
+
+```stat-screen
+[LEVEL UP — Miriam Osei-Bonsu]
+Level: 9 → 10
+  Class Auto-Bonus: +3 WIS, +2 RES, +1 VIT
+  Milestone: Mending Touch — Maximum (Tier I)
+    — WIS x 3.4 + RES x 2.9 HP per cast
+    — Partial curse removal unlocked
+    — Note: Tier I ceiling reached.
+
+  WIS: 28 → 31
+  RES: 21 → 23
+  VIT: 16 → 17
+  HP: 268 → 280
+  MP: 400 → 420
+```
+
+Nadia read her Class Aptitude Assessment. She read it twice. Solenne watched her read it, watched the specific quality of attention she brought to the last sentence — *because she is paying very close attention* — and watched what the sentence did to her face, which was not a joke and was not nothing and was very quickly sealed off behind the expression of someone who had decided that whatever this was, she was not addressing it in a Transition Hall in front of five other people.
+
+Miriam read hers. She looked at the ceiling. "Tier I ceiling," she said. "The highest I can go without class evolution." She said it as a fact, not a complaint, and clicked her pen.
+
+She wrote something in the clinical notebook. Then she closed it.
+
+"Congratulations," Vesper said, to both of them, and she had been watching Nadia with the particular quiet attention she brought to watching Nadia — the Artificer's patient observation, the quality of a craftsperson studying a material that would be important later — and she did not look away when Nadia noticed, which was a thing Vesper had not been doing until very recently.
+
+Nadia noticed.
+
+She made a face at Vesper that was technically a smile and was actually a flag: *I see you seeing me, I don't have words for this right now, we are going to be fine.* Vesper received it. The quality of her attention settled.
+
+"We should move," Dayo said. Not urgently — she was still working through the armor cloth on the eighth dent's edges, methodical. But the word *should* had a specific weight in Dayo's voice, heavier than *could* and lighter than *need to,* the weight of someone looking at the door to Floor 12 and doing the math on how far they were from Floor 17.
+
+Solenne looked at the paper in her hands.
+
+Floor 17. NW quadrant. Alcove 7-B. Script she could not read.
+
+She folded it once, along the existing crease, and put it in the inner pocket of her utility belt where she kept the compass that no longer pointed north.
+
+"She knew the questions to ask," Solenne said, not to anyone in particular, thinking out loud the way she thought in her notebook. "She knew the answer to the first two before she asked them. The third one — the new information question — she didn't know. She leaned in." She paused. "She's been studying us. She's been studying Harmony users in general, but she specifically came to us. Which means we're — either the clearest example of something she's tracking, or the only example."
+
+"Both seem bad," Nadia said.
+
+"Both seem useful," Solenne said. "For her. For whatever she's working toward." She looked at the door Vasic had used. "The question is whether useful to her is useful to us."
+
+Tomás, by the upper door, said nothing. He was looking at the spot on the wall where Vasic had been standing during the conversation, his expression carrying the quality of a person reviewing a record and finding that everything added up to a conclusion he had not yet reached.
+
+"One more thing," Solenne said. "For what it's worth." She had been sitting with this since the conversation ended, the small thing she had noticed and had not had the right frame for until just now. "She called it 'Full Chord.'"
+
+Nobody spoke.
+
+"When she asked about composite resonance perception," Solenne said. "That was her term — what she was describing with it. She said it once and shifted back to 'composite resonance perception' for everything after. But 'Full Chord.'" She looked at the group. "She knows what it sounds like when it works."
+
+The amber light held. The System terminal hummed at its operational baseline. Floor 12's door waited at the end of the Hall, and behind it the Calcite Labyrinth, and seven floors beyond that something in a locked room they could not yet open.
+
+Dayo stood up.
+
+She put the armor cloth away. She checked the left shoulder guard's alignment, satisfied herself with what she found, and rolled her neck once. The movement was economical and final, the motion of someone concluding a rest and beginning the next thing.
+
+"Let's go," she said.
+
+Nadia pulled Dave Jr. from the calcium face's right temple. She looked at the face, which had been hit fourteen times and had developed a certain character from it.
+
+"You know," she said, putting the knife back in the bandolier, "the recursive thing about all of this is that she was studying us the exact same way we study the Tower." She looked at the upper door, where they were headed. "We catalog the architecture, we ask questions to confirm things we partially already know, we track patterns in the data, and we try to understand something that hasn't decided to fully explain itself yet." A pause. "So either Dr. Vasic is also a climber, in the broader sense, or the universe is operating on exactly one pattern and we are it."
+
+She picked up the green scarf from where it had pooled on the floor and wrapped it around her neck.
+
+"The universe," Nadia said, "has extremely consistent taste."
+
+Tomás opened the upper door.
+
+Solenne went through it with the paper in her pocket and the notation running in the back of her mind, the second writing system that was not Tower architectural text and was not any language she knew, filed under *things I do not understand yet but will,* next to *Almost* and *the shape of the full chord* and the particular quality of Vasic's expression when she had said *One instance* and heard the word back.
+
+The Calcite Labyrinth waited.
+
+Solenne's pen was in her hand before she remembered reaching for it.

@@ -1,0 +1,36 @@
+---
+id: e7c360cd-9c98-59c3-aa10-abb9055d2f78
+page-type-slug: story-chapter-played
+title: "The Leash and the Stair"
+slug: 0011-the-leash-and-the-stair
+partOf: dragons-and-dungeons
+position: 11
+ownLength: 1197
+unit: words
+---
+
+I chose patience first. We melted the four of us into the black at the foot of the broken stair, out of the cold blue lantern-wash and into the wet-stone dark where the torchlight from above did not reach, and we waited. "We hold outside the entrance a beat," I said low. "If any come, we silence them as they come. If they do not, we find them, wherever they hide." And I did the thing Tygryth had taught me a few hours and a whole lifetime ago: I went still, and listened with the sense instead of the ears.
+
+And the sense answered. Two of them, coming down. I felt them before a single footfall rounded the curve of the stair — two small knots of intent descending, loose and unhurried, the texture of men who were annoyed rather than alarmed. One was grumbling; I could not hear it yet, but I could feel the shape of grumbling. They had no idea I existed. They rounded the curve into the dark with their torch held high, ruining their own night-eyes, and walked straight into the ambush with the bored faces of men sent to check a dropped pot. It was over in a breath and made almost no sound: Tygryth took the torch-bearer out of the light before the light could show him anything, and the second turned toward the wrongness at his shoulder and found the black-scaled girl already there. She put him down hard and silent against the wet stone, and the dropped torch hissed out in a puddle, and the dark was ours again.
+
+But Wren crouched over the bodies and pulled the thread of it loose. "This one was talking as he came down." She had gone tight. "They were sent. Somebody up there said go see why the dock's gone quiet and bring word back." She looked up the stair. "Which means in a few minutes, when no word comes back up, somebody up there knows."
+
+A soft clock, started. Not a horn, not yet — just a silence above that would, before long, curdle into suspicion. Tygryth's hand found my shoulder. "No one else comes. The bell did not wake the house — but those two were its question, and we just failed to answer it. We have the time it takes a careless man to grow uneasy. Spend it climbing." His gold eyes glinted. "You are the one who can see in the dark now, monk. Lead."
+
+So we went up — predators, for once, into the drowned shrine.
+
+The broken stair climbed out of the water-rot into the first reach of the sanctuary: a vast half-flooded hall, its floor a black sheet of standing water broken by the stubs of fallen columns, torch-glow pooling gold and lonely against drowned stone. And everywhere — cut into every pillar, every lintel, every surface the water had not eaten — the closed eye. The sigil over and over, lids sealed, carved by people who had made a religion of keeping a thing asleep.
+
+And the sense gave me the map, the way Tygryth had promised it would. Eyes half-lidded, breathing low, I felt the shape of the house above and around me. Ahead and up, across the flooded hall and through a torchlit archway, a loose scatter of intent: several men, maybe a half-dozen, idle and spread — off-duty rangers, cage-hands, the ordinary cruelty of the place. Higher and inward, one dense, cold, disciplined knot that made the others feel like sparks beside a coal — still, patient, aware in a way the others were not. I did not need a name to know it. The Warden. And below: beneath my feet, beneath the standing water, beneath everything, that slow tired ache I had felt clear across the river, stronger now, vast and dim and unbearably patient — a cold dead spot in the shape of something enormous that had stopped struggling.
+
+The black-scaled girl had gone rigid beside me again, staring at the floor as if she could burn through it, every line of her straining down toward the ache. The pull had her. I felt it take her — felt her take a step toward the black water without deciding to, her whole body strung downward like a hooked thing, the obsidian crawling up her wrists wanting to dig. Three hundred years of her own blood was down there in the dark, and every instinct she had ever survived on was screaming one syllable: down, now, go.
+
+"Up first," I said, even and low. "Remove the threat, then free the one who is threatened."
+
+My voice caught her by the back of the skull, and she stopped with one foot already in the water, shaking — not with fear this time, but with the whole weight of her hauling against a leash she held in her own two hands. She had never done this. She had never once in her life wanted a thing so badly and not lunged at it. She dragged her foot back out of the water, slow, her breath sawing through her teeth, and rounded on me, amber eyes blown wide and wild. "Up. Fine. Up first." Her claws flexed and did not move. "But you look at me, monk, and you promise me — when the keepers are cold, we come back down. We come back down for him." Her throat worked, and the next part barely made it past, raw, the most naked thing she had said since the cage. "That's my blood under this floor. I am not walking away from it. I am walking around it. There's a difference, and I am holding onto it with everything I've got — so give me your word, and give it to me now, before I lose my grip on this and tear the floor open myself."
+
+I gave it to her without hesitation, and I meant it to the bone. "Of course, my lady. We must set him free. Until then, we will stand between him and his tormentors until they can torment him no more."
+
+The shaking stopped. Not because the hunger left — it did not, it was still vast and downward under her feet — but because all of it, every straining ounce, found the one thing her line had never had in three hundred years: somewhere to stand. She had watched me keep my word to a dead slaver who did not deserve it; she knew I would keep it to her blood, bone-certain, no test left to run. Something in her chest unclenched its last locked turn and settled onto my promise like a claw finding the rail at the edge of a long fall. She breathed, once, all the way down.
+
+"Then I'm yours to point," she said, amber steady now, no wildness left, only something that had decided. The ghost of teeth. "Not owned. Aimed. There's a difference, and you're the first one who's ever earned the second." She turned to face up the stair, toward the keepers, the leash anchored to my word and the hunger banked cold behind it. "Lead. I'm right behind you."

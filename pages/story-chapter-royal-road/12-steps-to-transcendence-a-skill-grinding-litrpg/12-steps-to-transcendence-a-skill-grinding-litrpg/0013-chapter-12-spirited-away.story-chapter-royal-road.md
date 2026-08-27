@@ -1,0 +1,293 @@
+---
+id: 54313508-8cb5-500d-a9f3-2ba73bf9d86e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12: Spirited Away"
+slug: 0013-chapter-12-spirited-away
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 13
+ownLength: 2114
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3716673/chapter-12-spirited-away"
+royalRoadId: "3716673"
+---
+
+Ben was dreaming.
+
+It was a strange one.
+
+He floated through a tunnel full of colorful lights. Tiny specks surrounded him, shining like stars. When he reached out to touch one, it burst apart like a firework. Then, just like that, the dream changed, as dreams tend to do.
+
+He was somewhere else now. This time, he was inside a familiar, pitch black void.
+
+A single door stood open ahead. His body moved forward by itself, and panic rose inside him. Wasn't this the door Duncan had warned him not to open?
+
+He stepped inside and carefully looked into the darkness.
+
+The first thing he heard was the rattle of chains—
+
+Ben woke up with a start and gasped for air. What just happened? Was he dreaming? He tried to remember, but the details slipped away no matter how hard he tried.
+
+He groaned in pain and coughed his lungs out. Then it all came back to him: the wyvern and the teleportation.
+
+He lay flat on the dirt, staring up at the gently swaying trees. Cool earth pressed against his back, and each slow breath filled him with the deep scent of the forest.
+
+The wind whispered through the trees and birds chirped in the distance.
+
+It was incredibly peaceful out here.
+
+He didn't want to move at all.
+
+Thinking about Duncan, Hannah, and the others hurt more than his bruised ribs anyway. He wasn't even sure if they were still alive.
+
+The worry he felt completely overshadowed his physical pain. A naive child in him desperately believed they were alright, while the cold, rational part of him knew the terrible truth.
+
+How could they have survived that?
+
+Even though the old commander was strong, they were up against a wyvern. He didn't know exactly how powerful it was, but if it was strong enough to make Duncan react as he did, then it was worrying.
+
+His thoughts quickly spiraled into despair.
+
+It seemed like whenever he got close to calling something home, it was ripped away from him.
+
+He had already lost his mother, father, and sister back on Earth. He was just casually ripped away from them and thrown into this world. Then, as Benjamin, he lost his whole new village.
+
+Now he had lost Hannah and Duncan too.
+
+Not to mention Logan. He never even got the chance to punch the man in the face.
+
+Because he was completely powerless.
+
+He was just way too weak to do a damn thing.
+
+Grinding his teeth, he pulled up his status, trying to distract himself from the totally depressing thoughts.
+
+He had actually gained a few levels throughout the whole mess.
+
+[Tier 1 Goblin slain. Essence gained.]
+
+[Tier 1 Goblin slain. Essence gained.]
+
+[Tier 1 Goblin slain. Essence gained.]
+
+…
+
+[Tier 1 Forest Wolf slain. Essence gained.]
+
+There were quite a few of these notifications. He'd killed a few.
+
+[Mana Sense Lvl 5 > Lvl 7]
+
+[Fire Burst Lvl 5 > Lvl 7]
+
+[Physical Conditioning Lvl 7 > Lvl 8]
+
+And right below that, a new notification blinked at him.
+
+Would you like to learn the skill: [Mana Reinforcement]?
+
+...Huh?
+
+How did he even end up with this?
+
+Sure, he had been trying so hard to reinforce his body with mana for who knows how long, but why did the system not give it to him earlier?
+
+If only he had this skill yesterday, maybe he wouldn't have been completely useless. Ben closed his eyes, let out a silent sigh, and chose yes.
+
+Congratulations! You have learned the skill: [Mana Reinforcement!]
+
+He checked his updated status sheet.
+
+Name: Benjamin
+
+Tier: 1
+
+Skills (5/10):
+
+Focus - Lvl 4
+
+Physical Conditioning - Lvl 8
+
+Mana Sense - Lvl 7
+
+Fire Burst - Lvl 7
+
+Mana Reinforcement - Lvl 1
+
+All his core skills had gained quite a lot of levels in a very short time.
+
+Danger really does work wonders, just like Logan said.
+
+Dismissing the runes, he went back to staring at the swaying leaves above. He looked completely melancholic, drowning in his own messy head.
+
+A disgusting sniffling sound suddenly interrupted his gloomy thoughts.
+
+Ben noticed a goblin sneaking through the bushes holding a dagger, and adrenaline rushed through him.
+
+He pushed past the pain in his arms and legs and stood up. He used [Fire Burst] to launch himself at the monster before it could see him right away,
+
+He swung his leg high and slammed his burning heel onto the goblin's head.
+
+The goblin's skull caved in from the kick, but it screamed and fought back anyway. It swung its dagger wildly, cutting a jagged line across Ben's leg.
+
+Hot blood sprayed out right away.
+
+Ben swore loudly and used [Fire Burst] again, blasting himself backward to get away.
+
+He rolled over the rough ground and hurried to create some distance between them. The goblin turned its ugly face toward him and got back up quickly.
+
+Then the goblin charged at him, moving shockingly fast.
+
+Ben pulled his knees to his chest and then used [Fire Burst] very close to the goblin's head.
+
+The goblin's head exploded in a shower of blood and gore. The force of the blast didn't spare Ben either. Caught in the recoil, he was hurled backward once more, the ground rushing up to meet him.
+
+[Tier 1 Goblin slain. Essence gained.]
+
+Lying flat on his back, he just breathed heavily into the empty forest.
+
+Why was he lying there?
+
+Because his legs hurt!
+
+Sure, his body healed much faster since reaching Tier 1, but even besides his legs, everything else still hurt like an absolute bitch!
+
+His left shoulder was the worst. It didn't feel dislocated or broken, but it was definitely in bad shape.
+
+It just hurt so damn much.
+
+Even through the intense pain, he stayed silent.
+
+[Focus] simply wouldn't let him. And he was way too messed up in the head right now to even consider turning it off.
+
+Honestly, he didn't trust himself to handle the emotional fallout, so he kept the skill active. It probably wasn't healthy, but it was just too fresh for him.
+
+Desperately needing something else to put his attention on, he decided to play with his newest skill.
+
+He'd done it so many times trying to learn the skill that it felt like second nature. Drawing mana from his core, he sent it to his injured body and strengthened everything.
+
+He did what he had done hundreds of times before. He focused on reinforcing and strengthening his body.
+
+​More specifically, he focused on his shoulder and legs. Even if it was only temporary, this trick would help him move for a little while. He took a deep breath and pushed himself to his feet.
+
+This time, moving and putting weight on his legs was much easier. Even his shoulder barely hurt.
+
+He crouched anyway and patted through the goblin's filthy blood soaked rags.
+
+He hoped to find some kind of magical loot, but of course, his luck was terrible.
+
+Searching the creature's pockets turned up nothing except a few oddly shaped rocks and a handful of dirt. While he did that, he noticed for the first time how humanoid the goblin was.
+
+It made him think. Were there other intelligent races in this world? Did goblins count?
+
+Honestly, he barely felt anything about killing it or the monsters back at the camp. He wondered if that was just [Focus] or if he truly didn't care.
+
+Sighing heavily, he shifted his gaze to the dagger lying in the grass where the monster had dropped it. It was honestly a piece of junk, nicked along the dull edge and covered in dark stains, but he reached out and snatched it up anyway.
+
+After all, he was completely unarmed right now besides [Fire Burst], and a crappy piece of metal was still better than having nothing else to defend himself with.
+
+He limped to a nearby tree and spotted a sturdy, low branch. Using the dagger, he cut off a short, thick stick.
+
+He dropped to the ground and grabbed his injured leg. The goblin's dagger had left a deep cut, and blood still ran down his calf.
+
+Damn, that's really deep.
+
+Pulling his knee tightly to his chest, he carefully aimed his other heel right at the bleeding spot.
+
+[Focus].
+
+Breathe in, breathe out.
+
+He clamped down on the wood under his teeth.
+
+[Focus].
+
+Breathing out—
+
+[Focus].
+
+—Ben used [Fire Burst], feeding it a very small amount of mana to instantly cauterize his skin.
+
+He let out a long, muffled groan of pain and still felt the searing heat, even with [Focus] turned up as high as it would go.
+
+As soon as the wound was fully cauterized, he let go of his leg and fell back. The chewed-up wood slipped from his mouth and dropped onto the dirt while he caught his breath.
+
+He lay flat on his back and watched the calm leaves swaying above him.
+
+After a heavy sigh, he pushed himself to his feet. He glanced around, then began heading toward the water.
+
+After all, where there is water, there are usually people downstream.
+
+It didn't take him long to find the water.
+
+Pushing through a patch of thick bushes, he found a decent sized stream cutting smoothly through the forest. He sat down hard on the bank and began washing his bare feet and bruised legs right away.
+
+The cool, rushing water felt wonderful on his skin.
+
+He scrubbed off the worst of the dried dirt and monster grime, taking care to avoid his newly cauterized wound.
+
+It honestly looked completely disgusting.
+
+The wound had sealed tight, but the skin had melted into a nasty blackened crust of burnt flesh and red blisters. He definitely didn't want to get whatever weird bacteria was floating in this stream inside of
+
+But then again, that goblin's dagger was literally covered in stains. If he was going to catch some kind of horrible alien disease, that crappy piece of metal had probably already doomed him.
+
+Hang on.
+
+Pausing his scrubbing, Ben stared down at his own hands.
+
+He was Tier 1 now, wasn't he? His body should be stronger and heal faster than an ordinary person.
+
+Does advancing in Tiers give you magic immunity to diseases?
+
+He honestly had no idea.
+
+He washed away the last bit of dried blood and let himself relax, if only a little. Then, staring blankly at the rippling water, he found the forest's peaceful quiet incredibly suffocating.
+
+Now that nothing was trying to kill him, his mind filled with thoughts he didn't want.
+
+He honestly couldn't stop thinking about Hannah.
+
+Did Duncan manage to get her to safety in time?
+
+She had already lost an arm and was bleeding badly before the huge watchtower fell. He had no idea if anyone had been able to help her.
+
+She could heal, which left Ben confused. Why hadn't she healed herself? He didn't think she had run out of mana. Something else must be holding her back.
+
+And what about Logan?
+
+He pictured the cocky guy somehow surviving after being launched into the sky, maybe crashing into a thick tree or using some strange skill to break his fall.
+
+Then there was the old commander.
+
+Ben realized he didn't even know the old man's real name.
+
+He imagined the old guy unleashing some crazy spatial attack and wiping out the wyvern before it could roast the camp.
+
+Yeah, they probably made it.
+
+They were all incredibly strong fighters, right?
+
+He leaned his head back against a mossy rock, and an empty feeling took over his chest.
+
+[Focus] kept everything extreme away, but it couldn't stop the cold, hard logic. His brain ruthlessly crushed every single hopeful scenario he just invented.
+
+That wyvern was a literal natural disaster. The old man had probably used up a huge amount of mana just to open that teleportation portal for him.
+
+They're dead. All of them are gone, and it's entirely your fault.
+
+[Focus].
+
+He stood up and followed the rushing water downstream. And just as he predicted, it didn't take him long at all to stumble upon a settlement.
+
+Peeking through the dense treeline, he saw a cluster of crude, wooden huts built right along the riverbank. He felt a massive wave of pure relief wash over him.
+
+Finally, people.
+
+He stepped forward, eager, but his relief vanished right away. The figures walking around in the camp weren't human. They were short, dressed in filthy rags, and had green skin.
+
+It was a goblin settlement. He just hoped they wouldn't notice him.
+
+They noticed him. Heads turned his way. He was spotted right away.
+
+Shit.

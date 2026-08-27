@@ -1,0 +1,253 @@
+---
+id: 29869598-fa08-546d-a2a1-6ff26694ddd1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29: Spar"
+slug: 0030-chapter-29-spar
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 30
+ownLength: 1837
+unit: words
+publishedAt: 2026-08-09
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3792772/chapter-29-spar"
+royalRoadId: "3792772"
+---
+
+Alice POV
+
+Being kidnapped by a pack of filthy goblins was already deeply humiliating for a noble of her stature, but getting literally packaged up to be shipped off by some overgrown troll was just downright insulting.
+
+But honestly, she couldn't entirely blame herself for getting captured in the first place.
+
+That wretched goblin shaman possessed some bizarre skill that completely disrupted her own abilities. Keeping her perpetually locked under that magical suppression was the only reason those little monsters managed to drag her away.
+
+And naturally, the shaman was a higher Tier than her. And she was Tier 2. Despite that, it took her a few days to recover to full strength.
+
+So getting completely overpowered in that specific scenario was practically expected.
+
+She easily admitted she was genuinely thankful for her commoner savior. But more importantly, she was incredibly relieved Ben had the actual brain cells to run away instead of fighting the goblin chief.
+
+If that reckless 'guy' had tried to fight a Tier 3 chief, he absolutely would have died on the spot.
+
+And then she would have inevitably become troll food.
+
+Shaking her head, she focused her thoughts back on the incredibly frustrating boy himself.
+
+It was genuinely hilarious how fundamentally terrible he was at basic magical theory. He quite literally understood absolutely nothing about how it all actually worked.
+
+But the very second he finally grasped a concept, he weaponized it flawlessly.
+
+He was an absolute sponge for knowledge.
+
+And truthfully, she really liked that specific trait about him. Dangling crucial bits of magical information just out of his reach was incredibly fun.
+
+Teasing him with her superior education was easily the best part of her day.
+
+Because he always, always wanted more information.
+
+But those dark eyes staring into her soul every time she withheld information was honestly just creepy. Looking into them had genuinely unsettled her at first. He just had this intense, entirely unnatural piercing quality to his stare.
+
+It felt exactly like he was completely dissecting you on a table just to figure out how your organs functioned.
+
+And his face definitely never helped the situation at all. A blank, totally expressionless features, he looked practically dead half the time.
+
+It was like there was absolutely nothing going on behind those eyes. Head empty. Zero thoughts. But then, every so often, a strange and highly calculating shine would flash through his pupils.
+
+Thinking it over, she easily deduced he had to be running some kind of constant perception or mental skill.
+
+It makes perfect sense.
+
+Whatever.
+
+It really didn't matter in the grand scheme of things.
+
+He was shockingly good at just brute forcing his will directly onto mana. As far as she knew, mana simply wasn't something you could just bend to your whims at these Tiers.
+
+It was naturally willful and highly resistant to being bossed around.
+
+Therefore, you strictly had to guide it using mental containers or precise visualization techniques. Or more importantly, skills. But he was actually doing a frankly surprising amount of work just violently shoving it right out of his body.
+
+Watching him do it was deeply confusing at first, but she figured he had probably just recently stepped into the ascenders' world. Still, she found it amusing when he absorbed anything and everything she told him about mana, and how quickly he adapted to that information.
+
+And that's what she'd been doing when Brian arrived.
+
+Clenching her hands into tight fists, Alice glared daggers at the obnoxious boy standing in front of them.
+
+She was absolutely furious.
+
+Just when she was actually making genuine progress teaching Ben, this arrogant little pig had to ruin everything.
+
+How dare he?
+
+Glaring intensely, she silently cursed the current political climate.
+
+House Vane used to be one of the undeniable pillars of the kingdom. But recently, their status had been steadily and noticeably decreasing. Losing favor with the elders was causing serious ripples throughout the hierarchy.
+
+And worse, many of their former allies were actively converting to House Sterling, essentially reducing them to a mere vessel house, reversing the situation.
+
+Gritting her teeth, she remembered a time when a brat like Brian would have trembled just looking at her.
+
+Now, he somehow had the actual gall to throw mana near her.
+
+It was entirely unacceptable.
+
+Shifting her gaze, she looked anxiously back at Ben.
+
+Would he really be able to beat someone like Brian in a straight spar?
+
+Despite confidently declaring Ben had killed things Brian would weep at, she was genuinely apprehensive.
+
+He is just a commoner, after all.
+
+Brian was officially sitting at peak Tier 1.
+
+He had received the best tutors, relentless mana training, and extensive skill coaching since he could walk.
+
+Ben had absolutely none of those advantages.
+
+Sure, the idiot had somehow managed to survive that massive troll, and she logically knew that monster was nearing peak Tier 1 itself. But he had only accomplished that while locked in a Trance.
+
+And even then, he had ultimately lost that fight anyway.
+
+If Arthur hadn't intervened, Ben would currently be dead.
+
+Biting her lower lip, she watched Brian confidently step forward and dramatically raise his hand.
+
+"You finally accepted that spar? Good, good. You do know to follow the words of your betters. Then I will go first. Witness the power of a Rare skill—"
+
+A massive boom violently drowned out the rest of Brian's sentence.
+
+Flinching backward, Alice watched in pure astonishment as Ben instantly closed the distance.
+
+He had rocketed forward on a literal explosion of fire from his own feet.
+
+[Fire Burst].
+
+Widening her eyes, she watched Ben reach for Brian. He was being very aggressive. He didn't hesitate for a single fraction of a second.
+
+Stumbling backward as he dodged frantically, Brian looked completely startled by the sudden violence. Panicking openly, the noble frantically hurled blasts of wind at his attacker.
+
+The attacks were undeniably powerful, backed by years of memory shard usage to experience the skill, as well as being taught by tutors.
+
+But they were completely wild and entirely uncoordinated.
+
+Ducking smoothly under a slicing gale, Ben moved through the haphazard barrage.
+
+It was obvious Brian had never actually fought for his life before.
+
+But Ben clearly had.
+
+Narrowing her eyes, she analyzed Ben's movements as he blasted around Brian, dodging his attacks as he looked for openings with those intense eyes of his.
+
+He has been trained.
+
+Gasping softly, she realized just how incredibly wrong her initial assumptions had been. She had honestly believed he was just some random, magically gifted villager.
+
+But that was undeniable, military grade training he was displaying right now.
+
+It was easily on par with the combat drills noble heirs received.
+
+Who exactly taught him?
+
+Movement like that didn't come from practicing alone. He had to have sparred with someone stronger constantly, and that put him an advantageous position. As Brian technically was stronger.
+
+Frowning deeply, she realized she needed to learn a lot more about this mysterious commoner.
+
+Blasting neatly inside Brian's guard the moment he got an opening, Ben ignored the flailing wind magic.
+
+He pulled his arm back and drove a punch directly into Brian's face.
+
+Brian crashed into the dirt.
+
+Clutching his rapidly swelling cheek, he stared up from the ground in total, uncomprehending shock as his wind attacks fizzled out.
+
+He simply couldn't believe a commoner had actually hit him.
+
+Scrambling up from the dirt, Brian clutched his rapidly bruising cheek.
+
+He looked absolutely furious.
+
+Brushing the dust off his expensive clothes, he pointed a finger right at Ben's face.
+
+"How dare you!"
+
+Spitting out the words, Brian puffed out his chest like an angry pigeon.
+
+"You filthy, uneducated peasant! That was a sneak attack!"
+
+Blinking slowly, Ben just tilted his head to the side.
+
+He genuinely looked completely baffled by the accusation.
+
+"What do you mean?"
+
+Dropping his hands to his sides, the commoner gave a casual shrug.
+
+"You wanted a spar. I gave you a spar."
+
+Slapping a hand over her mouth, Alice desperately held back the bubbling laughter.
+
+She really should have expected this exact outcome.
+
+Of course, Ben didn't know how things worked.
+
+He had absolutely zero clue how spars actually functioned among noble children. He clearly thought a spar was just a slightly less lethal and more controlled street fight.
+
+But nobles absolutely hated getting physically hurt, especially those that weren't warriors or mages chasing the truth of the Door. Not every Noble House's focus was on the Path of Ascension, or personal strength in general.
+
+And the overly protective parents of these kinds of Noble Houses definitely didn't want them getting bruised by other people.
+
+So, noble spars were basically just glorified, flashy pissing contest of egos. They existed solely to showcase who had the biggest and most powerful skills. There was absolutely no actual fighting involved.
+
+None.
+
+Unless it were a Noble House that prided itself on their warriors, of course. Which, to be fair, majority of the Noble Houses were, excluding theirs.
+
+And that completely explained why Brian had practically wet himself when Ben rocketed into his personal space.
+
+The noble had expected an exchange of attacks.
+
+Instead, he got a fist right to the jaw.
+
+Rubbing his swelling face, Brian practically sneered at the confused boy.
+
+"A spar is a demonstration of magical supremacy and skill control!"
+
+Gesturing wildly, the noble brat looked like he was about to pop a blood vessel.
+
+"It is a showcase of aristocratic power, not a tavern brawl! We take turns displaying our magical heritage!"
+
+Crossing his arms, Brian let out a deeply obnoxious, entirely condescending scoff.
+
+"But of course, a lowly commoner like you wouldn't know anything about proper etiquette."
+
+Did he seriously just say that out loud?
+
+Losing her battle with self control, Alice completely cracked. She just burst out laughing right in front of them.
+
+Clutching her stomach, she genuinely couldn't help herself.
+
+It was just way too damn funny.
+
+Whipping his head around, Brian glared directly at her. His entire face rapidly turned the color of a squashed tomato.
+
+"That was not a real spar!"
+
+Stomping his foot like a literal toddler, Brian pointed aggressively at Ben again.
+
+"We are going to have another spar! We will do it properly at the Arena! Since the other Houses are here and they actually do those barbaric spars instead of what we do, an Arena has been built. We will do it in front of everybody! I will formally challenge you!"
+
+Sniffing haughtily, he turned his nose up at the sky.
+
+"If you wanted a barbaric physical spar like that, you should have just told me!"
+
+Spinning on his heel, Brian stomped away hurriedly.
+
+Sighing heavily, Alice wiped a tear of mirth from her eye.
+
+That had easily been the highlight of her entire week.
+
+Standing perfectly still, Ben just blinked.
+
+Dropping his gaze, he just stared at the retreating noble's back, then his blank eyes fell on her.
+
+"…What just happened?" He asked in a deadpan.

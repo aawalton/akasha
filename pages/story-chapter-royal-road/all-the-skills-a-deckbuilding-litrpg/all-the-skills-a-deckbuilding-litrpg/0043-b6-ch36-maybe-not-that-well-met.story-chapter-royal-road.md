@@ -1,0 +1,147 @@
+---
+id: 6c62b6a6-1f9a-5a4b-925b-ec054fec2277
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch36: Maybe Not That Well Met"
+slug: 0043-b6-ch36-maybe-not-that-well-met
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 43
+ownLength: 1735
+unit: words
+publishedAt: 2026-03-19
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3170269/b6-ch36-maybe-not-that-well-met"
+royalRoadId: "3170269"
+---
+
+“What?” Arthur bent, gripping his cousin’s shoulders and practically shaking the man. “What do you mean, Penn? What’s going on around here?”
+
+Penn only grimaced and shook his head.
+
+Brixaby snorted. “He has nothing useful for us.” Then he extended one claw toward Penn’s heart.
+
+Arthur knew what his dragon was about to do, and at that moment, he was struck by a wave of conflicting emotions. Most, he found, were tinged with relief.
+
+Brixaby would take on the responsibility—and the guilt—of killing his cousin. He had told himself over and over that he had been ready to confront Penn, and certainly, he had been ready to fight him . . . but he still hesitated to steal the card he desperately needed right out of the man’s heart. Did that make him a coward?
+
+All he had to do was . . . nothing.
+
+Penn might have been physically beaten and suffering from whatever the Mind Singer had done to him, but he wasn’t an idiot. He was aware of Brixaby’s capabilities because he looked straight at Arthur and said, “If your pet takes my cards, he’ll die.”
+
+Truth rang through his voice.
+
+Arthur reached up and snatched Brixaby’s claw before he could touch Penn’s chest. The black-stained claw was so big that he couldn’t even close his hand all the way around it.
+
+“Stop,” Arthur said. “This is my duty.”
+
+And he had a bad feeling about why he and Brixaby had won that fight so handily. Looking hard at Penn, he mentally reached for his Master of Cards.
+
+Sometimes, Arthur felt like he could spend an entire lifetime learning the depths of each Legendary card. Master of Cards was his newest, so he’d had the least experience finding its limits and uncovering its surprises. He had inklings of what he wanted to do, and it should be possible, but he had not directed it to quite this degree before.
+
+Penn met his gaze and did not flinch or look away, as if he knew what Arthur was up to.
+
+And Arthur . . . well, he couldn’t quite see the cards in Penn’s heart, but by focusing his Master of Cards, he immediately got a good feel for their essence, as well as their type.
+
+Penn’s heart deck was obscured by scarring. Below that was a mass of razor-edged teeth held open by a spring. The briefest touch would make it snap shut.
+
+Despite himself, Arthur backed up a step.
+
+“Trap cards,” he heard himself say. “How many do you have in there? Five? More?”
+
+Penn’s smile was empty. “As many as she could fit into me.”
+
+Arthur had seen an expression like that before from his own father. That was enough to tell him what had happened to his cousin.
+
+He had so many questions about the estate, about the Mind Singer, about Penn himself. All he could say, in a sharp, shocked whisper, was, “She took your Master of Combat.”
+
+That empty smile briefly flashed into a snarl. “She took them all. She sang to me, made me take them out of my heart and present them to her like a gift.” Penn looked like he wanted to spit to the side. “Then she filled up my heart with traps.”
+
+“If that is the case,” Brixaby said, completely without pity, “then this boy is truly useless to us.”
+
+Arthur ignored him, still focused on his cousin. “The Mind Singer’s not here?”
+
+Penn scoffed. “Of course not.”
+
+No, she wouldn’t be, Arthur thought, in dismay. She had wrecked Arthur’s ancestral home and left behind someone that she knew he must face, with his heart full of trap cards.
+
+“Arthur!” Brixaby tilted his head to the side, as if his sharp hearing picked up something. “Joy and her rider are still fighting above to buy us time. We must help them.”
+
+Yes, Arthur thought with a feeling like grief, it’s time.
+
+He looked at Penn and said, “You either come with us voluntarily, or I’ll leave you here for the Mind Singer.”
+
+“Or you can put me out of my misery,” Penn said, again with that empty smile.
+
+Arthur was willing to bet that one of those trap cards would activate if Penn was killed—the effect would somehow rebound on him. But that wasn’t the reason he didn’t want to grant his cousin’s wish.
+
+Arthur took a deliberate look around the grand hall, or what was left of it. “You really want to end it here? Let the state of this place be your legacy?”
+
+Penn half stood in his anger, only a growl from Brixaby keeping him from lunging at Arthur. “Why don’t you fix it, then? You’ve taken everything else from me.”
+
+Arthur ignored that. “I don’t want the Rowantree Estate. You’re the heir here, not me. Maybe there’s a way we can get it back to how it . . . how it used to be.”
+
+Though thanks to the Mind Singer, the people were lost. In his experience, people made the home, not the place or things.
+
+Something flashed in Penn’s eyes. It was a flicker of hope that was extinguished a moment later. He shook his head. “That’s so kind of you,” he said, his voice dripping with sarcasm. “Arthur, the little lost cousin, come to save me from myself. The hero everyone needs.”
+
+Arthur wasn’t exactly sure what he was talking about, but every moment spent here was another that Cressida and Joy were fending off the Mind Singer’s thralls alone.
+
+“I can take you to the hive and away from this place. We can remove those cards out of your heart, if it’s possible.” Arthur held out his hand.
+
+Brixaby made a noise of protest. He might have a point. His cousin had no reason to trust him, and Arthur had less than zero reasons. Penn was now a man littered with traps in his heart. Maybe that’s why he instantly took Arthur’s hand.
+
+Nothing snapped out at him.
+
+However, that action was just enough consent for Arthur to store him in his Personal Space. After all, he had promised to transport Penn, he just hadn’t told him exactly how. Maybe Penn wanted to get out of here more than he was letting on.
+
+I don’t blame him, Arthur thought.
+
+Suddenly, all the remaining room in the great hall was gone as a pink dragon emerged from the shadows. Cressida had used her shadow-teleport card.
+
+Arthur glanced up at her with a question on his lips—until he caught sight of her and froze.
+
+Perhaps he’d become far too accustomed to his friends following him and Brixaby on their crazy adventures and coming out unscathed.
+
+Because when he saw Cressida slumped semiconscious over Joy’s neck, covered in her own blood, it was as if the world stopped.
+
+Arthur rushed to her, scrambling up the side of Joy’s neck and only noting with a tiny bit of his attention that the pink dragon had her own fair share of blood on her. It made her look more fearsome then he’d ever seen her before.
+
+“What happened?” Arthur demanded.
+
+“She got hit! My intuition told me to get out, but some dragon sent a blood spell. I tried to dodge, but it curved and hit her. I couldn’t dodge in time, and I can’t use Cressida’s shadow teleport!” Joy was babbling, clearly in distress. “We can’t use each other’s cards like you two!”
+
+Arthur pressed two fingers to Cressida’s neck to find a fluttery pulse. The card effect that had hit her was still ongoing. Blood leaked out from every pore. She was barely conscious, and he guessed she had used the last of her strength to shadow-teleport away. It had been a terrible risk, as she had to have a sight line—probably one glimpsed through a dirty window and from so far up . . . she would have had to trust that the building would have adequate shadows inside.
+
+I asked too much of her and Joy. They shouldn’t have had to hold back all those attacks themselves.
+
+In truth, they should have waited for the rest of the retinue, the eruption be damned. Then they would have an army at their back and a healer with them.
+
+Arthur cursed himself, but there was nothing he could do to change his decisions now.
+
+“Brix!” he snapped. “Come closer. I need her to be in your aura. Maybe you can nullify it somehow.”
+
+His dragon was already close by, as he was soothing Joy in his rough way, but he shifted at Arthur’s words to move closer to her side.
+
+Arthur didn’t know how fast his nullification magic would work—or if it even could like this, but he would reach for every advantage he could.
+
+That’s when he reached for his chest and took out his Moderate Self-Repair card from his own heart.
+
+It hurt to remove it, but that didn’t matter to Arthur. He used the innate flexibility he had received from the Dark Heart to soothe it.
+
+“Cressida.” He shook her shoulder and saw her eyelids flutter. “Put this in your card anchor.” He shook her again. And searched her pockets. While she had a card-anchor mark on the underside of her left wrist, she also kept it connected through a little jeweled purse. Finding it in a left pocket, he pulled it free.
+
+Cressida didn’t say anything, but her eyes were open, and she moved sluggishly. He thought that the bleeding was slowing, though he didn’t know if it was because the card’s effect was ending, Brixaby’s aura was kicking in, or if she was simply running low on blood. The small patches of clean skin he saw were deathly pale.
+
+Cressida fumbled the bag open, and Arthur stuffed the card in before snapping it shut.
+
+It was a start, but she needed a healer now.
+
+Arthur turned. “Brix.”
+
+That was all he needed to say. Immediately, Brixaby cast the dark portal.
+
+As he did, the roof of the great hall shuddered as if something with very large feet landed on it. A screech echoed from outside. It seemed the attacking dragons had figured out exactly where Cressida had teleported to.
+
+It didn’t matter because the dark portal expanded in front of them.
+
+Joy surged forward through the dark ring.
+
+He heard one of the plate-glass windows shatter as the portal closed behind them.

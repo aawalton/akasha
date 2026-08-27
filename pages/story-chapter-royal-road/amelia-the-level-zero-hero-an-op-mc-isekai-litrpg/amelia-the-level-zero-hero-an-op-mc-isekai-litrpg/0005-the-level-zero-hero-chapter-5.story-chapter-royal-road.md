@@ -1,0 +1,199 @@
+---
+id: 72dec4ad-f55b-5a7b-8953-af04abb93984
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero [Hero] Chapter 5"
+slug: 0005-the-level-zero-hero-chapter-5
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 5
+ownLength: 2502
+unit: words
+publishedAt: 2022-12-02
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1053915/the-level-zero-hero-chapter-5"
+royalRoadId: "1053915"
+---
+
+It was finally time.
+
+Glutaz eyed the city in the distance— the tall white walls that waited beyond the forest of trees. His people waited eagerly behind him. Little green figures that were practically bouncing at their feet. They brandished their weapons and murmured gibberish amongst each other. They were excited for what was to come. All of them were. Even Glutaz.
+
+He ignored the ragged human leaping away from the city, heading in the opposite direction of this gathering. He was transfixed only on his target. With a grunt, he ordered his people forward. They obeyed. His army marched ahead at his command.
+
+And that day, Glutaz the Goblin Lord began the siege of Windrip.
+
+—--
+
+Lycan drakes. What were they? Well, obviously, they were monsters. But what exactly kind of monsters were they supposed to be? I had asked around, and according to the people of Windrip, they were giant four-legged lizards with a thick layer of spiky fur over their hides. Dinosaurs wolves, basically. And they were incredibly territorial.
+
+They would normally attack anything and anyone that treads close to their nest, so merchants and travelers would normally steer clear from the area. However, over the past few weeks, they’d been acting out for some odd reason, going out of their way to even attack the guards patrolling around Windrip. After asking around for directions, I left Windrip and eventually landed atop a tall hill overlooking a sea of trees.
+
+I took in a deep breath, luxuriating in the scent of fresh air. I saw the way the forest washed over like a green wave in the wind. Behind me, there was a road that led away from Windrip. There were no travelers or merchants walking down that path— perhaps due to the threat of a lycan drake attack.
+
+The roads seemed well-kept, made of brick and cobble. From what I could tell about the Astrad Kingdom, it was relatively rich and powerful in Vacuos. I closed my eyes, clearing my mind for a moment just to relax.
+
+The world was calm and peaceful. I could hear the buzzing of the bees and the chirping of the birds in the leaves. I looked down, watching the ants crawl at my feet in the grass. In my peripheral vision, I saw animals of all kinds— vibrant creatures of all sizes— hid in the bushes and moved between the trees.
+
+This was both a familiar and alien sight. It was alien because of how distinct it was from the world I knew— while Earth had forests and nature, I had scarcely ever seen those views, growing up in a city and all. But it was familiar because it was so tranquil. It was something I knew. It was very much unlike the Fractured Realm in all its chaos and horror.
+
+There was never a moment of peace. Voidlings and voidbeasts came into existence and vanished at every passing moment. The broken world was constantly whirling— turning and moving. No time to even breathe.
+
+Anyone who wasn’t completely unhinged would prefer the calm and peaceful nature of Vacuos to that chaotic space of the Fractured Realm.
+
+So I breathed in slowly. I enjoyed just standing there as the wind brushed against my ragged clothes. My cloak billowed behind me, and a smile spread across my lips. I wasn’t sure how long I stood there, basking under the sun. This was everything I had wanted for so, so long. But I couldn’t rest just yet. I had a job I needed to do for now. I opened my eyes and looked up.
+
+“Their den should be around here somewhere,” I murmured as I swept my gaze over the landscape. This whole forest was supposed to be teeming with monsters, but the lycan drakes were the most dangerous of them all. “Now where can I find… oh.”
+
+My voice trailed off as I caught sight of the mangled remains of a three-headed bear. Its body had been mauled and dragged across a small clearing— a set of bloodied footsteps leading further into the forest.
+
+I hopped off the hill and shrugged. “Let’s just get this over with.”
+
+I wondered if I should be more cautious, especially considering the reputation these lycan drakes had. They were a B-ranked threat, after all.
+
+…
+
+I didn’t know what that meant. I wasn’t sure how strong people or monsters were in this world, but by basic logic, a B-ranked threat was probably less dangerous than an A-ranked threat.
+
+And that just meant it wasn’t even close to being the most dangerous thing around. Judging by the strength of the Lich King and Zolan, I could infer that a lycan drake was, in fact, probably very weak, so I really didn’t need to worry too much about facing them alone.
+
+I continued through the forest, pushing past some shrubbery until I found where the trail of blood ended. A large hovel had been dug out of the ground— a pit, just like a wolf’s den, but far more massive. I peered in and frowned.
+
+“So I really am dealing with dinosaur wolves, huh?” I took a step back, shaking my head. I cupped my hands over my mouth as I called out. “How about this, then? Heel!”
+
+And my voice echoed down the little hovel. I waited, arms crossed as my words continued to reverberate underground. Then the earth trembled. The dirt beneath my feet began to shake. It was like there was a localized earthquake in this section of the forest.
+
+I readied myself for what was to come. I stared into the dark hole, but nothing emerged. Then the shaking stopped. The air was still. I waited for a moment. And the ground directly below me exploded open.
+
+A gaping maw broke through the earth, sending me flying into the air. I looked down at a giant feral beast. A four-legged creature the size of a small house. It had stubby little legs like a lizard, but with the ferocious snarling teeth of a wolf. Its jaws closed around me as my eyes grew wide—
+
+And I smacked it down. “Bad dog.”
+
+The lycan drake yelped as it crashed back into the ground. It tried to get back on its feet, growling as it glanced up at me. But I landed on its back hard.
+
+“Now, down.”
+
+There was a crack as the monster whimpered. Its body went limp, and I hopped off it. I raised a hand like I was holding a treat over its head.
+
+“Roll over,” I said, and the lycan drake flopped over to its belly. I smiled, raising a hand to scratch its fur. “Good d— oh, it’s dead.”
+
+I paused. I looked at the monster’s corpse— it was even weaker than I thought it would be. I hadn’t even meant to kill it since it reminded me of a dog, and I liked dogs.
+
+“Well…” I stared at the fork-like tongue sticking out of the lycan drake. Its face was crooked— without a sharp snout. It really looked more like a lizard than a wolf. “Scratch that, I thought it looked like a dog for a second. Not anymore.”
+
+Shaking my head, I stepped over to the gaping hole next to the hovel and glanced down into the nest. Light poured in from the afternoon sun, illuminating what had once been the underground lair of the lycan drake. I narrowed my eyes.
+
+“That’s a lot of dead monsters. And people.” I leapt down into the nest, casting my gaze around the cavern. “Hello? Are there any other lycan drakes hiding in here?”
+
+And I heard it— the soft rumbling of growling. Red eyes flashed in the darkness. Even more lycan drakes hid within the nest. I could see their figures moving in the shadows, encroaching on me from all sides.
+
+I could tell that they were smaller than the first. But they didn’t look like they were adolescent pups. The first lycan drake had just been much bigger than them. Probably was the leader of the pack…
+
+“Do lizards even have social dynamics?” I wondered aloud.
+
+And three lycan drakes leapt out at once. One struck out with its whip-like tail, while the other two clawed at me. I easily sidestepped their strikes, before grabbing the tail and slamming the lycan drakes into each other.
+
+They squealed in pain as they tumbled together across the den, crashing against the wall. I could hear their bones breaking— they collapsed into a pile, unmoving. The fourth and last lycan drake backed up away from me as I walked forward, drawing my blade.
+
+“Just give up,” I said as it backed up against the wall. It growled in response. “Seriously, don’t do it—”
+
+But it charged me anyway. Sighing, I raised my blade. The monster drew closer as I murmured.
+
+“I warned you.” And I swung up.
+
+In an instant, the ceiling exploded open. A pillar of dust and debris burst into the air as the nearby trees were forcefully uprooted and thrown into the air. The clouds hanging high up in the sky split open. A shockwave washed over the forest— like a ripple in the middle of a still lake.
+
+I sheathed my sword, watching as chunks of rubble and dirt rain down around me. The entire den was gone. Destroyed by a single swing of my blade. I looked back at the dead lycan drakes lying around me before shrugging.
+
+“Now, then—” I started.
+
+And jolted back as a blue screen flashed in front of my face.
+
+[You have defeated a lycan drake!]
+
+“What?” I blinked.
+
+For a moment, nothing happened. Then a deluge of messages appeared all at once.
+
+[You have defeated a lycan drake!]
+
+[You have defeated a lycan—]
+
+…
+
+[You have cleared a lycan drake’s nest!]
+
+“Are you going to do this again?” I groaned. But the messages didn’t stop.
+
+[You have defeated Zolan the Duelist Necromancer! For this feat, you have earned the title of the Death Dancer!]
+
+[You have defeated the Lich King’s Army of Death! For this feat, you have earned the title of the Defier of Death!]
+
+“Why are all these titles just so generic?” I snorted.
+
+[You have leveled up! You are now Level 1!]
+
+[You have leveled up! You are now Level—]
+
+I knew what was coming next. There was no point in letting it play out. I raised a hand and spoke simply.
+
+“Enough.”
+
+And the messages halted. They stopped coming, freezing right before me. I reached out for the foremost blue screen and touched it. It wasn’t anything physical. I couldn’t feel it in my fingertips. But it reacted. The screen rippled, moving as I dragged it out of the way.
+
+“Just give me the final screen already,” I said, knowing what was to come.
+
+The System obliged. The notifications dissipated, only for a large red box to flash in front of me.
+
+[SYSTEM ERROR:
+
+LEVEL UPS AND TITLES REJECTED!
+
+INTEGRATION INTO THE SYSTEM FAILED!
+
+Reason: You do not have a Class.]
+
+“I know, I know. But what Classes do you have for me? Surely you’ll have something more this time, right?” I asked as I crossed my arms.
+
+The screen flickered, turning blue. I watched as a set of familiar words appeared before me. My eyes narrowed.
+
+[To integrate into the System, please choose one of the follow Classe(s):
+
+[Worldwalker Hero of Vacuos] - An otherworlder who has arrived in Vacuos to save the world from destruction. As a unique Class, the [Worldwalker Hero of Vacuos] is unrivaled in strength, skill, or mastery of magic. Benevolent and full of grace, you will forever devote your life to protecting the System from the Void’s corruption.
+
+Do you accept this Class?
+
+There are no other Classes available for you to choose from.]
+
+I frowned. “Why can’t I choose another Class? Why can’t I be a [Chef] or a [Warrior]?”
+
+It was a question directed at the System. It seemed to listen to me to a certain extent, considering it had done me a favor and skipped over the barrage of level up notifications. However, it didn’t respond.
+
+Instead, it chose to ignore my question entirely and prompt me with a request.
+
+[Please choose a Class to integrate into the System.]
+
+I shook my head. “I already said no. I’m not a hero. I was just a normal girl from Earth who was forced into a shitty position. That’s it.”
+
+For a moment, the blue screen remained. Then it vanished, and I took a step back.
+
+“I don’t even know Vacuos needs a hero either,” I muttered. “As far as I can tell, the world isn’t ending or anything close to that.”
+
+It was odd, to me. The System was trying to impose the role of a hero onto me, even when I refused it once before. I didn’t have any choice in the kind of Class I wanted to get. And I wondered if this was the same for everyone else in Vacuos. Did they have any say in the Classes the System offered them? Or was it all forced into their hands?
+
+Shaking my head, I leapt out of the hole in the ground. That was a question for another day. I had other pressing matters to deal with
+
+“Now, how do I bring you back to Windrip?” I asked as I turned to the dead lycan drakes.
+
+Their bodies had been shredded into pieces from the swing of my sword. I might’ve gone a bit overboard with my attack… maybe. I wasn’t going to carry the broken chunks of dead monster with me— while my ragged clothes were dirty, I didn’t want them to be bloodied by dino-wolf meat.
+
+Maybe I could’ve just brought the adventurers here. Although… that meant I had to convince Justyn to follow me all the way out here. That was too troublesome. But would it be more troublesome than the only other alternative?
+
+I mulled over this dilemma for a bit, before catching a glimpse of the first lycan drake I’d killed. Its body was still intact. Shrugging, I picked it up, hauling the giant monster over my head.
+
+“Alright, time to head back.”
+
+I leapt out of the forest, landing atop the nearby hill and heading back towards the city. But right as I passed over a road next to the forest, I caught sight of a long stream of travelers hurriedly heading away from Windrip. I paused.
+
+“What is going on?” I swept my gaze over the landscape. The crowd of people were fleeing in a panic— forming a small stampede as they ran. My eyes grew wide when I saw the smoke in the distance. “That’s…?”
+
+The city of Windrip was in flames. The sky had been painted gray. Its walls had been felled, and a sea of little green creatures encroached into the heart of the city. I blinked.
+
+“...wasn’t I gone for only two hours? What the hell happened?”

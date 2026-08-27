@@ -1,0 +1,325 @@
+---
+id: 63fe5015-532b-5935-991e-d113ce498f85
+page-type-slug: story-chapter-played
+title: "What the Proving Grounds Mean"
+slug: 0013-what-the-proving-grounds-mean
+partOf: tower-and-the-star
+position: 13
+ownLength: 5112
+unit: words
+---
+
+# Chapter 13: What the Proving Grounds Mean
+
+The door opened and the forest breathed at them.
+
+Not air. Not wind. Something thicker -- warm and wet and carrying a mineral sweetness that had no business existing inside a Tower, the exhalation of a living system that had been sealed behind this door and was now, for the first time, reaching the people standing in its threshold. Solenne's first breath of Floor 11 tasted of wet stone and something underneath wet stone, something organic and faintly sweet, like fruit left too long in a greenhouse.
+
+Then the light registered.
+
+Bioluminescence. Not the pale green-blue she knew from Floor 7's Living Walls, not the functional glow of ambient Mana expressing through biological media. This was different in kind. The fungal forest that filled the chamber ahead of them -- and it was a forest, trunked and canopied and vertically structured in a way that made the word *room* feel insufficient -- was lit from three distinct sources. Pale blue ran along the floor and the lower wall surfaces, casting enough light to navigate by but not enough to see far. Above it, in clusters along the massive fungal trunks that rose toward a ceiling she could not see, yellow bloomed in irregular patches -- brighter, warmer, pulsing with a rhythm she recognized as Mana-reactive. And threading through everything, along the upper canopy and the spaces between the trunk-columns, a deep violet that was not light so much as warning. Territorial. Something up there had marked this space, and the marking glowed.
+
+The ceiling was lost in bioluminescent haze. Forty meters, maybe more. The trunk-columns rose into it and vanished.
+
+Nobody moved.
+
+Not from fear. From recalibration -- six people whose sensory assumptions had just been rewritten, standing still while the rewrite finished. Floor 7's Living Walls had been alive. Floor 11's Fungal Canopy was *breathing*.
+
+Nadia said: "It smells like the Tower is trying."
+
+She said it with the inflection that meant she was processing something large through humor -- the only channel she trusted for things this size. The joke was also accurate. The biome had a quality of intention that the Threshold Levels had not carried -- as if the Tower had spent ten floors establishing what it could do and was now showing them what it wanted to do.
+
+Tomás was already ten meters ahead. He had moved without announcement, the Root-Walker Greaves making no sound on the soft fungal floor -- and the floor was soft, Solenne noticed, slightly yielding under her boots in a way that absorbed footfalls and deadened sound. Tomás was reading the space with the focused economy of someone whose perception had just lost a variable: the usual ambient noise was gone. The forest was quiet in a way that sharpened everything else.
+
+"Ceiling height varies," he said, his voice carrying the flat clarity it always had when he was reporting rather than conversing. "Forty meters here, lower where the growth clusters thicken. Sight lines are eight to ten meters in the dense zones, better in the open corridors." He paused. "The floor absorbs sound. My noise-read is degraded."
+
+The fact that Tomás would volunteer this -- that he would name a vulnerability aloud without being asked -- told Solenne more about Floor 11 than the biome itself did.
+
+She raised the Annotated Staff. The chalk notations along its upper half caught the pale blue light and looked like marginalia in a language the forest might understand.
+
+"Arcane Analysis," she said, and the skill activated.
+
+---
+
+The cold blue overlay of Arcane Analysis settled over the Fungal Canopy like a lens sliding into place, and what it showed her was wrong.
+
+Not wrong as in error. Wrong as in different. The biome data came back with layered complexity she had not seen on any floor below 10. The three bioluminescent colors were not decorative -- they were a floor mechanic. Pale blue: ambient navigation light, harmless, constant. Yellow: Mana-reactive warning indicators that pulsed in response to active skill use within fifteen meters, marking where the party had recently cast. Violet: territorial markers, applied by something that lived in the canopy and wanted other things to know it had been there.
+
+She filed this. The yellow was useful -- it meant their skill activations were visible to anything that could read Mana-reactive light. The violet was a navigation cue. Moving through violet-lit territory would announce them to whatever had marked it.
+
+Then she saw them.
+
+Forty meters out, in a gap between two massive trunk-columns where the pale blue light pooled on the floor like shallow water, six shapes. Low-slung, broad-backed, their dorsal surfaces capped with a pale fungal growth that caught the ambient light and reflected it in a way that made them look like pieces of the floor that had decided to move. Sporeback Ramblers.
+
+Solenne ran Arcane Analysis on the cluster.
+
+```stat-screen
+[ARCANE ANALYSIS — Enemy Cluster]
+Sporeback Rambler x6
+  Level: 11-12 | HP: ~180 each
+  Physical Defense: 22 | Magic Defense: 14
+  Threat Assessment: ADAPTIVE (Tier I)
+
+  Behavior: Shared Sensory Pool (30m radius)
+  — Information perceived by one unit is
+    transmitted to all units within range
+  — Damage to one propagates threat-signature
+    to entire cluster
+
+  Attack: Spore Cloud (contact)
+  — Nature damage, 15 HP/round (DoT)
+  — Cleared by: Nature's Veil, Antidote
+
+  Formation: V-pattern, responsive to approach
+```
+
+*Adaptive: Tier I.*
+
+Solenne read the designation twice. Every enemy they had fought below Floor 10 had been rated *Reactive* or *Territorial* -- creatures that responded to stimuli, that attacked when provoked, that followed hardwired behavioral patterns the party could learn and exploit. Adaptive meant something else. Adaptive meant the Ramblers were not following a script. They were reading the room.
+
+And the shared sensory pool. She parsed the implications in the two seconds it took the analysis to fully resolve: anything one Rambler perceived, all six perceived. If Tomás put an arrow into the leftmost one, the rightmost one would know his position, his angle, his threat level. They could not pick these things off. They could not isolate targets. The cluster operated as a single distributed awareness.
+
+This was not what they had been fighting.
+
+She pushed the analysis through Harmony Conductor -- not as raw data, the way she usually did, but with something extra. The Conductor could carry emotional texture, she had learned, not just mechanics. So she let the data carry what she felt underneath it: *there is a gap in how we fight and we need to fill it*. The tactical urgency and the constructive impulse both, transmitted to five people simultaneously through the Harmony channel.
+
+The party absorbed it. She felt them absorb it -- the brief shift in the Conductor's feedback as each person processed the new information and incorporated it into their model of the fight that had not started yet.
+
+Dayo's weight shifted forward. She had already read the formation.
+
+"V-pattern," Dayo said. "Six of them."
+
+"They share senses," Solenne said. "Anything one sees, all of them see. We can't isolate."
+
+"So we don't isolate." Dayo's voice carried no hesitation. She was already thinking in the new parameters. "We hit the formation as a formation. Miriam, regen on me before contact. Vesper, I need to know if the spore growth is an armor layer or a weapon."
+
+"Both," Solenne said. "Contact DoT. Spore Cloud -- Nature damage, fifteen HP per round. Miriam can clear it with Nature's Veil."
+
+Miriam's hand found her staff. "Noted."
+
+Tomás had not spoken. He was reading the Ramblers' formation from his forward position, tracking the angles, running calculations Solenne could not see but could feel through the Conductor as a quality of focused attention.
+
+Nadia pulled a Chaos Grenade from the bandolier. "How smart are they?"
+
+"Smarter than anything we've fought," Solenne said. "Tier I Adaptive. They'll adjust."
+
+Nadia's fingers tightened on the grenade. Her expression did not change. "Cool," she said. "Cool cool cool. Love that for us."
+
+---
+
+The Sporeback Ramblers inverted their V-formation when the party approached.
+
+Solenne had expected them to hold the V -- to wait, to let the party enter the kill zone the way Floor 7 crawlers had waited in their nests. Instead, the formation pivoted. The point of the V became the base. The two rear pairs split wide, flanking left and right, while the front pair held center and squared up against Dayo's approach.
+
+They had read the party's shape. They had identified the front-line threat and deployed around it.
+
+The fight started fast.
+
+Dayo hit the center pair with Shield Rush, the impact dense and wet against the fungal carapace -- different from chitin, different from stone armor, a sound like striking a waterlogged log. The knockback sent the lead Rambler sliding across the soft floor, but the second one absorbed the impact geometry and circled left, toward a gap in the formation that Solenne had not realized was a gap until something moved to exploit it.
+
+The gap was the dead ground to Tomás's left. On Floors 7 through 10, this had not mattered. Floor 7 crawlers did not communicate. Floor 9's constructs did not flank. Nothing below Floor 10 had ever looked at the six meters of uncovered space between Tomás's anchor position and the chamber wall and thought *that is where I will go*.
+
+The left-flanking Rambler went there.
+
+It moved through the dead ground with a low, purposeful gait -- not fast, not panicked, the movement of something that knew where it was going because something else had told it the path was clear. It circled behind Dayo's position.
+
+At the same time, the right-flanking Rambler pushed into Miriam's near-space. Not toward Miriam specifically -- toward the zone between Miriam and Vesper where the party's healing and support lines converged. It was testing the interior.
+
+Dayo was engaging the front pair. She had committed to Iron Stance -- boots locked, center of gravity dropped, the First Boss Coat absorbing the center pair's strikes with the dense certainty of Rare-grade armor. She did not see the flanking Rambler behind her. Her HP was full. Her position was correct for the formation they had been running for ten floors.
+
+The formation they had been running for ten floors had a hole in it.
+
+The flanking Rambler reached Dayo's left side and detonated its dorsal spore cap.
+
+The Spore Cloud hit at contact range -- not a ranged attack, not a projectile, but a burst of pale-green particulate that erupted from the Rambler's back and engulfed Dayo's left arm and shoulder. The First Boss Coat's physical defense did not apply. This was not impact damage. This was a damage-over-time contact effect, Nature-typed, bypassing armor entirely.
+
+*Spore Cloud applied to Dayo Okonkwo. Nature damage: 15 HP/round. Duration: until cleared.*
+
+Dayo felt it. Solenne saw her feel it -- a tightening across the shoulders, the recognition of damage that was not a hit but a process, something eating into her HP at a rate that would matter in thirty seconds and would be dangerous in sixty.
+
+Dayo did not ask if it was serious. She checked Miriam's position.
+
+Miriam was already moving.
+
+The Warden crossed the four meters between her staff-grounded position and Dayo's left flank fast enough that Solenne knew she had felt the DoT register through Empathic Sense before the System notification reached anyone's Status Window. Her hand found Dayo's shoulder -- the same shoulder she had healed in the amber light of the Transition Hall, the same gesture, quieter now, functional.
+
+Nature's Veil activated. The green shimmer settled over the Spore Cloud's contact zone and began dissolving it -- the regeneration interacting with the DoT, overwriting the damage process with the healing process, clearing the effect in the space of two breaths.
+
+*Nature's Veil — 25 MP. Spore Cloud cleared from Dayo Okonkwo.*
+
+Nothing was said. Dayo returned her attention to the front pair. Miriam returned to her position. The Unbroken Line -- their Harmony pair, the bond the System had recognized because it had been built in a thousand moments exactly like this one -- expressed itself in its most mundane form, which was its most meaningful form. One person hurt. One person healed. No words required.
+
+But the DoT had done its work. Dayo's HP had dropped by 30 in the two rounds before Miriam cleared it -- from 527 to 497. Not dangerous. Not insignificant. On Floor 7, no fight of six enemies had ever touched her through her armor. Here, her first engagement had bypassed the armor entirely.
+
+The fight lasted two minutes and twelve seconds. Tomás put arrows into three Ramblers from his elevated position, each shot finding the joint beneath the dorsal spore cap where the Analysis had shown the lowest physical defense. Nadia's Chaos Grenade landed in the center of the rear pair's staging ground and the System rolled Slow -- not as dramatic as Sleep, but enough to give Dayo time to finish the front pair and rotate. Vesper's Quick Craft produced a Paralysis compound that Solenne applied to her Arcane Bolt, and the bolt found the Rambler that had flanked Miriam's position and locked it in place long enough for Nadia to put two throwing knives into its exposed underside.
+
+Two minutes and twelve seconds. Six Ramblers, all dead.
+
+It had cost more MP than any Floor 7-10 fight of equal headcount.
+
+```stat-screen
+[ENCOUNTER COMPLETE]
+Sporeback Ramblers Defeated: 6
+XP Awarded: 150 (distributed)
+Loot: Rambler Spore Cores x3 (Uncommon)
+
+Party Status:
+  Dayo: 497/527 HP | 175/185 MP
+  Miriam: 268/268 HP | 355/400 MP
+  Solenne: 231/231 HP | 500/510 MP
+  Tomás: 348/348 HP | 335/350 MP
+  Nadia: 218/218 HP | 360/385 MP
+  Vesper: 212/212 HP | 540/560 MP
+```
+
+Solenne looked at the MP column. Miriam had spent 45 MP in two minutes -- Nature's Veil plus a Mending Touch to top Dayo's HP back up after the DoT was cleared. On Floor 7, a six-enemy encounter cost Miriam fifteen MP. Sometimes less. The healing ceiling on these floors was not just higher. It was a different category of demand.
+
+Miriam was writing in her clinical notebook. Her expression was neutral. Clinical. She was recalculating reserves, Solenne knew -- running the math on how many encounters she could sustain at this MP rate before the tank ran dry. No visible distress. Just the focused adjustment of someone whose profession was keeping people alive and whose profession had just gotten harder.
+
+---
+
+Solenne opened her notebook. Not the clinical notebook Miriam kept, and not the System-linked Status Window that tracked numbers. Her personal notebook -- the one she had carried since before Day Zero, half-filled with observations about the Tower's patterns, its language, its architecture. She turned to a clean page.
+
+She wrote down what went wrong.
+
+The Ramblers' ambush had been rudimentary. A V-inversion, a two-pronged flank, a DoT application at contact range. Nothing individually sophisticated. But it had been effective because it exploited a gap the party had never needed to close: the dead ground to the left of Tomás's anchor position, six meters of uncovered space between his sight line and the chamber wall. On Floors 7 through 9, nothing had found that gap because nothing on Floors 7 through 9 could communicate. The Ramblers had found it in eight seconds because one of them had seen it and all of them had known.
+
+She did not write *we have a gap*. She wrote: *We need a new shape.*
+
+Tomás appeared beside her. He had descended from the elevated position and crossed the distance with the silent economy that was his default. He looked at her notebook. He read the line.
+
+"I know the shape," he said.
+
+He said it without fanfare. Without the weight that would have made it a declaration. He said it the way he said everything that was correct -- as information, offered because it was needed.
+
+"Show me," Solenne said.
+
+Tomás showed her. He had been running the gap calculation since the Arcane Analysis results came in -- since the moment the shared sensory pool data had reached him through the Harmony Conductor and he had felt Solenne's emotional annotation underneath it, the *there is a gap and we need to fill it*. The new shape shifted his anchor position eight meters to the left, closing the dead ground against the chamber wall. It pulled Nadia's throw angle two degrees inward to compensate for the repositioned sight line. It kept Dayo's front-line engagement zone intact but widened Miriam's healing corridor by three meters, giving her more room to reach Dayo's flanks.
+
+It was clean. It was correct. It addressed the gap without creating a new one.
+
+They spent fifteen minutes in the quiet space between the fungal trunk-columns, walking the new shape. Not drilling -- walking. Dayo moved to her position and tested the sight lines. Nadia adjusted her throwing stance. Miriam paced the healing corridor. Vesper checked the angles from the support zone, running material-delivery calculations in silence.
+
+This was the party at its best. Problem-solving without ego. A gap identified, a shape proposed, the shape adopted because it was right, not because of who proposed it. Solenne watched them walk the new rotation and felt something she had not named yet and would not name for several chapters of her life: the particular pride of being part of something that worked not because anyone was extraordinary but because everyone was paying attention.
+
+---
+
+Three hours in the Fungal Canopy.
+
+The new shape held.
+
+The second encounter was another Sporeback Rambler cluster -- four this time, arranged in a loose patrol pattern along the trunk-column corridor leading toward Chamber 4. Tomás spotted them at thirty meters through Eagle Eye, and the party deployed into the new shape before the Ramblers' shared sensory pool registered their presence. The dead ground was closed. The flank attempt -- and they tried, the left-most Rambler angling toward the space where the gap used to be -- found Tomás's arrow instead of open air.
+
+*Precision Shot -- 15 MP. Sporeback Rambler: 180 HP -> 112 HP.*
+
+Dayo finished it with a Shield Rush follow-up that caught the staggered Rambler mid-rotation. The remaining three went down in forty seconds. Nadia's throw angle from the adjusted position was cleaner than her previous angle, and Solenne noted this with quiet satisfaction -- the new shape was not a patch, it was an improvement.
+
+The third encounter was different.
+
+Near the Chamber 4 wall, where the fungal growth thickened into a root-and-trunk formation dense enough to reduce visibility to five meters, a shape moved. Larger than the Ramblers. Slower. Its body was a mass of interlocking fungal plates, each one the size of a dinner plate, stacked and overlapping like crude armor. It moved with the deliberate weight of something that did not need to be fast because nothing on this floor could move it.
+
+Mycelid Shambler. Solenne's Arcane Analysis resolved its stats with the quiet efficiency of a skill that had been doing this for ten floors.
+
+```stat-screen
+[ARCANE ANALYSIS — Single Target]
+Mycelid Shambler
+  Level: 13 | HP: ~420
+  Physical Defense: 35 | Magic Defense: 18
+  Movement: Half party speed
+
+  Attack: Two-Handed Slam (melee)
+  — Physical damage: 120+ (before mitigation)
+  — Knockback: 3 meters
+
+  Behavior: Territorial, non-communicative
+  — Does not share sensory pool
+  — Holds position near Chamber 4 wall
+```
+
+Level 13. Higher than anyone in the party except Tomás. Physical Defense 35 -- nearly twice the Ramblers'. And the slam hit for 120 or more before Dayo's armor reduced it.
+
+"Slow and heavy," Solenne said through the Conductor. "Single target. It hits hard but it doesn't coordinate. Dayo, kite it. Tomás, sustained fire. Nadia --"
+
+She paused. In the new shape, Nadia's adjusted position put her slightly out of optimal throw angle for the Chaos Grenade -- the dense fungal growth near the Chamber 4 wall created a clearance problem that the open corridors had not presented. Solenne opened her mouth to flag it.
+
+Tomás shifted his position three meters right.
+
+He did not announce this. He did not flag Nadia's angle. He adjusted his own sight line to compensate, giving Nadia the clearance she needed by opening a lane through the space he had just vacated. The adjustment was invisible unless you were tracking everyone's position simultaneously, which Solenne was, because that was the point of her.
+
+She closed her mouth. The fight proceeded.
+
+The Mycelid Shambler swung once at Dayo -- a two-handed overhead slam that Dayo sidestepped with the controlled efficiency of someone who had been reading slam attacks since Floor 3. The impact cratered the soft fungal floor where she had been standing. Dayo did not flinch. She circled, keeping Iron Stance's threat generation active, pulling the Shambler's attention while Tomás put arrow after arrow into the joints between its fungal plates.
+
+It took ninety seconds. The Shambler's HP eroded under sustained ranged fire -- Tomás's Precision Shots finding the same joint gap with mechanical consistency, Solenne's Arcane Bolts targeting the lower plate seams where the Analysis showed the thinnest defense. When it dropped below a hundred HP, Nadia put a Chaos Grenade into its left side from the lane Tomás had opened, and the System rolled Burn. The fungal plates caught. The Shambler staggered, burning, and Dayo finished it with a gauntlet strike that cracked the central plate assembly and dropped it.
+
+*Mycelid Shambler defeated. XP Awarded: 300 (distributed).*
+
+*Loot: Mycelid Cap x1 (Uncommon — Mana-absorbent property)*
+
+Vesper picked up the Mycelid Cap before the System's loot resolution had fully faded. She turned it in her fingers the way she turned all materials -- with the focused evaluation of someone reading properties through touch. "Mana-absorbent," she murmured. "This could reinforce Miriam's soft armor. Or line grenade casings." She tucked it into the material cache without further comment.
+
+The three-hour push continued. Through corridors of trunk-columns where the pale blue light collected in the floor's depressions, bright enough to walk by, dim enough to hide what moved beyond it. Through zones where the violet territorial markers glowed overhead and the party routed carefully around them, because Solenne had identified the violet as Sporeback territory markers and moving through them would trigger attention from outside normal detection range. Through pockets of warm, humid air that smelled of moss and mineral sweetness and the particular organic quality of a living system doing its work.
+
+They were tired by the time they reached Chamber 4. Not the exhaustion of crisis -- the specific tiredness of people who had been thinking hard for several hours, adapting in real time, holding a new shape that worked but had not yet become automatic. Solenne could feel it in the Harmony Conductor's feedback -- the party's collective attention was still sharp but narrower than it had been, focused rather than expansive.
+
+Vesper was running calculations she did not share. How long their consumable supply would last at this MP-spend rate versus what rest-node crafting could restore. The math was fine. The math was fine, and she did not share it because sharing it would not change anything the party did and would give Miriam something to worry about. This was Vesper's form of care -- the quiet analysis of the support structure that no one else thought to examine.
+
+---
+
+The rest node was a carved alcove in a root-and-fungal formation at the north face of Chamber 4, and it was beautiful.
+
+Solenne did not usually think in those terms. She thought in terms of tactical advantage, sight lines, defensibility, resource access. But the rest node was beautiful in a way that bypassed her analytical filters and landed somewhere underneath. The alcove was eight meters deep and five wide, carved -- or grown, the distinction was unclear and possibly meaningless -- into a formation of interlocking fungal roots that rose to a natural ceiling three meters overhead. The walls glowed. Not with the ambient pale blue of the corridor but with something warmer, a golden-green luminescence that came from below, from a still pool of water set into the floor of the alcove like a mirror in a frame.
+
+The pool did not move. Its surface was perfectly flat, and it reflected the bioluminescent ceiling above with a clarity that made the reflection indistinguishable from the source. The air smelled of moss and ozone -- clean, charged, carrying a quality of renewal that Solenne recognized as the rest node's ambient restoration field before the Arcane Analysis confirmed it.
+
+Nadia stood at the entrance to the alcove. She looked at the pool. She looked at the glowing walls. She looked at the soft fungal floor and the golden-green light and the reflected ceiling.
+
+"This," she said, "is the most atmospheric place I have ever had to eat trail rations."
+
+Everyone laughed. Not the exhausted laughter of people at the edge of their resources -- the warm, genuine laughter of people who had spent three hours solving a new problem together and had arrived at a place that rewarded them with beauty. Dayo's laugh was big and sudden, the way it always was. Miriam's was quieter, a breath through her nose and a twitch at the corner of her mouth. Tomás did not laugh but the corner of his eyes changed, which was the same thing.
+
+They sat down.
+
+Miriam ran the HP and MP count while the rest node's ambient field began its work. Everyone was at or near full HP -- the encounters had been costly in MP but not in sustained health damage. Miriam's own MP was the significant number: 320 of 400, approximately eighty percent, after three encounters and three hours of sustained awareness. On Floor 7, she would have been at ninety-five percent after the same number of fights.
+
+"I need to recalculate my reserve margins," she said, writing the numbers in her clinical notebook. She said it the way she said everything medical -- as a fact, not a complaint. "The per-encounter cost is higher here. I'll have updated estimates by tomorrow."
+
+Tomás scouted the next chamber before settling. He was gone for four minutes and returned with a report delivered in three sentences: the corridor beyond Chamber 4 continued northeast, visibility improved past the dense zone, and there were no immediate threats within Eagle Eye range. Then he sat down, laid his longbow beside him, and ate trail rations with the focused efficiency of someone refueling rather than dining.
+
+Vesper set up the Field Forge at the edge of the alcove, where the rest node's ambient field overlapped with her crafting workspace. The node amplified crafting speed by thirty percent -- she had confirmed this through the Workframe's diagnostic, and the confirmation had produced the expression she wore when a variable resolved in her favor -- brief, satisfied, already moving to the next calculation.
+
+*Field Forge deployed. Rest node bonus: +30% crafting speed. Forge Kit consumed: 1.*
+
+Her hands moved through the Workframe with the precise choreography of an Artificer at work. Two Healing Potions -- restoring the supply they had drawn down during the Floor 10 boss fight. Then the grenade materials: pre-staged components that Nadia could fill into casings, restocking the Chaos Grenade supply.
+
+"Seven," Vesper said, setting the last casing beside Nadia's bandolier. She did not elaborate. The number was the information.
+
+Nadia loaded the grenades into the Tier II bandolier with practiced fingers. "Seven is a good number," she said. "Lucky, even. If you believe in luck, which I do, because I have a skill that literally runs on random chance."
+
+Dayo was sitting with her back against the alcove wall, the First Boss Coat dimly illuminated by the golden-green light from below. Her left hand rested on the bracer with its five tally marks -- four identical, one different. She was not adding a new mark. Floor 11 was not done yet. But she was looking at the marks with the quiet attention of someone reviewing a record that meant something only to her.
+
+She had taken the flanking DoT without complaint. She had absorbed the lesson the way she absorbed all lessons: into the body, into the fight-model, without drama. What had changed was subtle but visible if you knew where to look. Her eyes tracked differently now. In the second and third encounters, she had been checking her left flank with a frequency she had not shown before -- not anxiously, not compulsively, but with the deliberate awareness of someone who had learned that the blind side existed and had decided to account for it. The Crystalback Queen on Floor 9 had taught her that the cost of moving faster than the plan was paid by someone. Floor 11's flanking Rambler had taught her where the cost would come from next.
+
+Solenne opened her notebook.
+
+She turned past the pages of Tower observations and pattern hypotheses and formula fragments, past the *designed* and *Almost* she had written in the Transition Hall, to a clean page. The golden-green light from the pool made the paper look warmer than it was.
+
+She wrote: *Floor 11. Adaptive enemies. Shared sensory pools. New shapes required.*
+
+She paused. The pen hovered. The alcove was quiet around her -- the quiet of six people resting in a beautiful space, the sounds of Vesper's Forge winding down and Nadia loading grenades and Miriam's pen scratching in the clinical notebook and Tomás chewing trail rations and Dayo breathing.
+
+She wrote below it: *Also: Nadia was right about the smell.*
+
+She looked at the page. Two lines. The beginning of a new section of the notebook, a new record for a new arc. Floor 11 was not Floor 7. The enemies were not the enemies they had been fighting. The shapes they had relied on for ten floors had gaps they had not known about because the gaps had never been tested.
+
+The Proving Grounds had started proving.
+
+Solenne closed the notebook and set it on her knee. The rest node's ambient field hummed at the edge of her perception -- not a sound, exactly, but a quality of the space, the golden-green light expressing through the still pool and the glowing walls and the charged air. The party was here. They were tired. They were adapting. They were not afraid.
+
+They were paying attention in a new way.
+
+Outside the alcove, the Fungal Canopy breathed. Nine more floors of the Tower being done being patient.
+
+Solenne opened the notebook again and added a third line: *The shape worked. Keep it.*
+
+Then she leaned back against the fungal wall and let the rest node do its work.

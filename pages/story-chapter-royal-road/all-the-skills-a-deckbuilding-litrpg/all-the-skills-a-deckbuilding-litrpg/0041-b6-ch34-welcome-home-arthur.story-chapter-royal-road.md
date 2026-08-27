@@ -1,0 +1,239 @@
+---
+id: d5bedc84-fbb1-5504-9336-4a9c23029fef
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch34: Welcome Home, Arthur"
+slug: 0041-b6-ch34-welcome-home-arthur
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 41
+ownLength: 3186
+unit: words
+publishedAt: 2026-03-12
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3144705/b6-ch34-welcome-home-arthur"
+royalRoadId: "3144705"
+---
+
+“So why aren’t we bringing the strength of the entire hive to your old home?” Joy asked, tilting her head to the side. Then she looked at Brixaby. “Wait, when has Arthur ever lived in the Rowantree Estate? Hasn’t he always lived at Wolf Moon Hive?”
+
+“Yes, he lived there before I hatched and elevated him to the status of my rider,” Brixaby answered before Arthur could say anything.
+
+“I was born at Rowantree Estate, and I guess I lived there as a child,” Arthur said, “but I was too young to remember.”
+
+He was certain that he had told Brixaby about the borderland village—in fact, they had actually visited it to speak to his father, but Brixaby generally didn’t remember things unless they directly affected him. And as far as he was concerned, the history of the world started when he hatched.
+
+“Rowantree is Arthur’s ancestral home,” Cressida said to her dragon.
+
+“Oh, it’s where your egg hatched—yes, yes, I know humans don’t have eggs, Cressida.” Joy flapped a wing at her rider when Cressida went to correct her. “But really, being born is the same thing, isn’t it?”
+
+“It really isn’t, dear.” Cressida looked like she was already getting a headache.
+
+“To answer your question,” Arthur said, pitching his voice louder to be heard over the dragon nonsense, “bringing the entire hive is exactly something that the Mind Singer would expect, I imagine. There’s a reason why, out of all the land in the kingdom, it picked Rowantree.”
+
+Brixaby stood up straight. “It is aware that we are the leaders of a hive now.”
+
+“And it has the ability to jump into different bodies,” Arthur said flatly. “Don’t forget about that.”
+
+The idea originally was to take a strike force consisting of people they were already familiar with. Arthur had half a mind to take his entire retinue. Then it occurred to him during the six weeks of training that might be exactly what the Mind Singer wanted. If it could slip into the body of one of his retinue—one of the silly purples, for example, or even a friend—Arthur might not know until it was too late.
+
+Part of him hated taking Cressida and Joy, but at least he could keep a close eye on them. And he and Brixaby knew them so well that they’d notice if they started acting funny almost immediately.
+
+Also, while Cressida might not have a portal power, she’d be super angry if he went at this alone. There were only so many times he could get away with that and then apologize afterward.
+
+“If you say so,” Joy said doubtfully. “I’d rather have the entire hive behind me.” She looked at Cressida, who nodded.
+
+“Did you get a quest, or is your intuition telling you that?” Arthur asked.
+
+“No,” she said easily. “Just common sense.”
+
+“We’re not facing a full-on eruption, just the Mind Singer and her . . . thralls, I guess.”
+
+“What I don’t get,” Cressida said, “is why she came back to our kingdom when there’s a whole other world to explore and dominate. She could have easily slipped into one of the other city-states like New Houston, or another that isn’t so well organized. Why us?”
+
+“I don’t know,” Arthur said. “I guess we’re going to have to ask her. Brixaby, did you try your Call of the Heart?”
+
+Arthur had, and with no luck, but it was Brixaby’s card. He might have more insight.
+
+“Still nothing,” Brixaby said. “It is as if your Master of Combat has disappeared from existence.”
+
+Arthur frowned. What if the Mind Singer had destroyed the card? Quickly, he focused inward on his heart deck and checked the status of his existing Legendary cards.
+
+No, each one of them still had the line that said, Seek additional cards in this set to include combative, magical, body, and special abilities.
+
+Would those disappear if there was no longer a set in existence? His own intuition from Master of Cards suggested that the answer was yes.
+
+“Okay,” Arthur said. “So the Mind Singer has found a way to obscure things from Legendary-level seeker cards. That’s . . . not ideal, but cards like that do exist, though they’re rare.”
+
+“Rare? Or Rare ranked?” Joy asked.
+
+“Probably Rare ranked. Which is in the Mind Singer’s wheelhouse, as it’s also a Rare. And it’s obviously set up a trap for us.” He nodded to himself and took a breath. “Let’s go spring it.”
+
+“Yay!” Joy said. Then, “Wait, yay?”
+
+Arthur ignored her and climbed up astride Brixaby. As soon as he was aboard, Brixaby opened the dark portal.
+
+One creepy boat ride later, they were in the air above the Rowantree Estate. It was obvious that something was waiting for them.
+
+“Oh, good. I got a quest,” Joy said, followed by an “Uh-oh.”
+
+“What do you mean?” Arthur asked, but then, through his Counterfeit Siphon card, he got the same quest.
+
+New Quest: Free the Rowantree Estate
+
+Objective: Stay alive.
+
+That was ominous.
+
+Despite that, it was proving to be a fair day at the Rowantree Estate, with a bright sun, cool breeze, and not a cloud in the sky. Though when he concentrated, Arthur could smell a faint whiff of scourge-rot in the air. Arthur didn’t feel anything pinging against his Mental Shield skill. That meant that Brixaby’s anti-mind-control gems were working.
+
+His dragon had presented Joy with a glittering necklace to protect her. She’d been overjoyed to receive it and wore it proudly around her neck. Arthur snuck a quick glance at her. Neither she nor Cressida seemed to be suffering from any mind effects.
+
+The dragons swooped down low. Arthur scanned downward and around, out to the horizon. The fields lay empty, some of the crops openly rotting or sitting ready to harvest with not a soul attending to them. Had the entire estate been abandoned?
+
+As they flew on, taking a wide sweep toward the great manor at the heart of the estate, doubt crept into his heart.
+
+Prepared or not, maybe they should have struck sooner. Instead, he had given the Mind Singer and its thralls the heads-up that their hiding place had been discovered. They’d had plenty of time to run and escape to hide somewhere else. He should have—
+
+And that was when the first of the boulders rocketed up toward them.
+
+At first, Arthur didn’t know where they were being fired from. The boulders simply flew up at incredible, almost impossible speeds. They moved through the air so fast that the front and edges glowed bright yellow-orange with friction heat.
+
+Brixaby roared and went from flying straight to a sudden backward and diagonal maneuver so fast that Arthur was snapped back and forth. Had he not raised his Dragon Riding skill so high, he would have surely fallen.
+
+But it was enough to avoid the first wave of oncoming projectiles.
+
+Joy, with her two wings, couldn’t manage Brixaby’s feat.
+
+She was saved by Cressida, who threw up a bubble shield around them at the last moment. No sooner had it snapped into place than it was struck by five giant boulders. By the way Cressida instinctively threw one hand in front of her face as if to protect herself, Arthur knew she had felt the impact.
+
+However, her shield held.
+
+“Joy! Fly up! Gain height!” Brixaby yelled.
+
+Initial surprise had made him retreat, but now that he’d caught his breath, he changed direction again. This time, Arthur was ready for it and held on grimly as Brixaby darted back toward their friends.
+
+Joy was rapidly beating her wings to bring herself upward, the shield surrounding her catching and reflecting the sun like glass.
+
+Brixaby dove under her to protect her belly and then released some boulders of his own, dropping them down on the field and some of the launch points.
+
+More were shot upward, faster than a rock leaving a sling. It had to be powered by a card. Unfortunately, it was launched too far away for Arthur or Brixaby to catch with their Counterfeit Siphon cards.
+
+“Brix! Where are they coming from?”
+
+Brixaby had better long sight and pointed a claw. “There, there, and there!” He pointed to the last position, where a boulder launched so fast that it ignited the vegetation as it tore itself free.
+
+With a nod, Arthur grabbed one of the javelins from his Personal Space, held it in a stance just over his shoulder so that the metal tip was close enough to charge with mana, and then let it fly. The moment the javelin left his fingers, he grabbed and charged another.
+
+His first javelin flew downward—not quite as fast as the boulders had traveled upward, but with much greater accuracy.
+
+It struck with a crack, and more wood than could be accounted for by the javelin alone flew into the sky. The boulders were being launched by some sort of contraption, then, powered by the strength of card magic.
+
+Arthur was about to let loose his second when Brixaby immediately dodged to the right to avoid another boulder. It flew past so close that Arthur could have reached out and touched it. He threw his own javelin in return, and it struck dead-on, but there were many more launch points down there. It seemed one was behind every clump of bushes or large tree. The more he looked, the more he saw.
+
+Now he was glad he hadn’t brought an entire wing to back him up. Most of the boulders were being aimed directly at him and Brixaby—it was clear they were the primary target. But Cressida and Joy were still dodging their share.
+
+Then a new wave of boulders was launched simultaneously. However, these arced higher than all the rest and at an angle that didn’t endanger anybody. From the angle and the way they’d fall, Arthur saw that they meant to fall down at them from above.
+
+Arthur stared upward, frowning. Even Cressida and Joy could easily dodge rocks falling at a normal speed. What was the point of this? Did the enemy mean to force them to fly downward to avoid them?
+
+That was when the rocks reached the end of their apex and split apart. They weren’t rocks at all—or perhaps they had simply been covered by an illusion. Now they split into giant woven nets, the edges spreading out so that there wasn’t a gap between them. It had to be yet another magical effect, and there were so many that they darkened the sky.
+
+Oh no.
+
+Just one of those nets was enough to foul the wings of a dragon. Then they’d have a very bad fall to the ground.
+
+Brixaby curved his head around to Arthur. They exchanged a look, and though no words passed between them, they both knew exactly what to do.
+
+Brixaby practically flipped over to fly straight upward beneath Joy. Meanwhile, Arthur grabbed Brix’s Dark Portal ability and used it to open an entrance at an angle he’d never done before: horizontal to the ground.
+
+Joy, perhaps receiving the hint by her unnatural intuition, looked down, saw the escape, and took it by folding her wings into a dive. She hit the portal, and Arthur imagined they had a tumble on the other side as the world tipped back around them.
+
+But the nets were falling fast, and Brixaby didn’t have time to fly upward and curve around the portal to take that same escape. Instead, they dove down as well to give themselves more space.
+
+As they approached the ground, Arthur realized that the land itself had been covered with a vast illusion—one that altered sight and not sound—because he could hear a low, extremely catchy thrum that seemed to vibrate through his head. It made him want to hum along, despite all of Brixaby’s enchantments and his own skills.
+
+Or maybe because of them, he was able to resist the urge.
+
+They could have leveled out and skimmed a few dozen feet above the ground, but their aim was not to escape. It was to find out the truth.
+
+Brixaby landed, and as he did, the illusion shattered to reveal the truth: The workers weren’t gone at all. All around, emaciated people holding sharp sticks, farming tools, clubs, and any other weapon-like instruments they could get their hands on ran at them. All were dead-eyed, many were covered with sores, and all swarmed toward Brixaby.
+
+Arthur hated to do it since they were only thralls following orders, but he had to protect his dragon.
+
+He hurled a javelin at an angle, knocking three workers over, and used his Nice Shot shrapnel and Telepathic Kitchen Knife skill to knock away the sharp points of weapons.
+
+He couldn’t get them all. Many stabbed at Brixaby, but his scales were not easily pierced. None were using card powers; they only had mind-controlled rage.
+
+A few seconds later, the nets settled over them. They had to be weighted because Arthur was immediately knocked flat against Brixaby’s neck, and even the dragon grunted under the pressure. So were the thralls, but they could still stick pointy weapons through the netting and tried to stab.
+
+It didn’t matter. Once they were fully covered, Arthur and Brixaby used Phase In, Phase Out and flew free, leaving the flattened thralls behind.
+
+“Well, now we know where all the people are,” Arthur panted. “Did they get you?”
+
+“Minor wounds,” Brixaby said grimly. “They used farming tools against a dragon. Fools.”
+
+Minor or not, Arthur’s guilt about using weapons on mind-controlled people evaporated.
+
+Brixaby flew forward, not toward the still-open portal, but straight at the grand stone building that was the main building of the estate.
+
+More boulders were flung after them. This time, he and Arthur simply kept going and phased through the ones that would have struck, only using one second of their limit at a time. More boulders split up into nets that were a little trickier to time phasing through, as they could be caught in downdrafts and crosswinds. One net clipped Brixaby’s back-right wing.
+
+But just before it felled him, suddenly, a blaze bear dove on it and burned it away.
+
+“I had a feeling you’d need us,” Joy called, swooping in from above.
+
+Brixaby was less than pleased. “It was part of a quest, wasn’t it? What was the reward— No, wait.” He abruptly got his priorities back in order. “Get back into the portal. It is unsafe here!”
+
+“You can’t make me,” Joy sang back, then winced. It seemed she hadn’t meant to sing.
+
+Nevertheless, they had passed through the worst of the barrage. It seemed the Mind Singer was not willing to throw boulders that might hit the grand estate. There was a good reason for that.
+
+Arthur pointed to it. “The Mind Singer has to be there.”
+
+“Then let us greet her,” Brixaby said.
+
+Arthur threw more javelins, each shooting like a giant arrow at the remaining launch points of the rocks and nets, thinning them further.
+
+That was when the skies changed in front of them, as if a curtain had been pulled back to reveal the truth. Suddenly, the two of them were facing at least a dozen enemy dragons.
+
+All were wild. None had a rider in sight, and not one seemed to be in good health. They all flew badly, painfully, with scourge-rotted sores on their scales, and some were missing toes.
+
+But under the thrall of the Mind Singer, none seemed to notice or care about any pain.
+
+One red opened her jaws. Arthur expected her to breathe flame. Instead, she spat green liquid that looked either acidic or toxic. He and Brixaby phased through, not wanting to find out. Droplets of the liquid splattered on Cressida’s shield and were torn away by the wind.
+
+Brixaby buzzed upward in a way only a purple could. But he angled his wings so that the wash of air hit the other dragon. The red tried to curve her neck around to spit again, but it was as if her own wings lost their grip on the sky—something about turbulent air. Brixaby had explained it to Arthur once or twice, but Arthur never fully understood.
+
+She dropped a good fifty feet before she recovered herself. By then, Arthur and Brixaby were facing their next foe.
+
+Arthur threw one of his javelins, aiming for the dragon’s wing webbing. It tore, slowing dragons or making them land. It was the kindest thing he could do for them.
+
+No, he thought with a frown, the kindest thing he could do was to put these beasts out of their misery. Sick from constant scourge exposure, under the thrall of a Mind Singer . . . that was no life at all. A javelin aimed at a wing could just as easily be aimed at a heart, but—
+
+Arthur sensed more than saw movement right next to him. He whipped his head around for a double take. There was a dragon-sized distortion in the air, the size of a dragon too close.
+
+“Brix—” he started.
+
+Abruptly, giant claws wrapped around him, and he was snatched up from Brixaby’s neck.
+
+Brixaby immediately bellowed and twisted around, reaching up to slap a claw against the other dragon, who was still only barely visible as a shift in the sky.
+
+“You dare steal Arthur from me?!”
+
+Brixaby snatched his claws back with a card, and color and visible light flooded back into the dragon who had Arthur as their illusion broke. Brixaby must have taken its core card because life faded from its eyes, and the claws around Arthur loosened.
+
+But not before a giant of a green shouldered past Brixaby, sending him spinning in the air, and snatched Arthur up just as the former illusionist started to fall.
+
+Arthur readied himself to phase through the claws. He had only seven seconds left on his timer, but it would be well worth it.
+
+Blackness enveloped him, and suddenly he was several hundred feet away—Brixaby bellowing with a Stunning Shout that knocked away several dragons that were trying to intercept him, as well as Cressida and Joy, who were trying to help.
+
+The green dragon who had him had a teleportation card, and its method of teleportation was not kind to Arthur’s head or stomach.
+
+The world spun around him without actually spinning at all. He clutched at the claws just for some stability.
+
+Another brief period of blackness, and again they had jumped—no, teleported—that much closer to the estate. Each shift left Arthur worse than dizzy, and he didn’t trust that if he phased, or snatched the green’s card, there would be anyone to catch him. Battling both nausea and almost debilitating vertigo, he wasn’t sure if he could even use his own cards.
+
+The last teleport placed them directly above the roof of the estate.
+
+“Welcome, welcome,” voices sang in eerie unison, though Arthur couldn’t see where they came from. “Welcome, Arthur.”
+
+Arthur saw Brixaby winging desperately toward him, but the final teleport took him inside the estate.

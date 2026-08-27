@@ -1,0 +1,328 @@
+---
+id: d100ae9f-10af-5b9d-920a-29fa8c7a4279
+page-type-slug: story-chapter-played
+title: "Harmonize (First Attempt)"
+slug: 0005-harmonize-first-attempt
+partOf: tower-and-the-star
+position: 5
+ownLength: 5424
+unit: words
+---
+
+# Chapter 5: Harmonize (First Attempt)
+
+The rest node glowed from below.
+
+Solenne stood at the edge of the carved limestone alcove and looked down at the pool — still, wide, faintly luminous in a way that had nothing to do with the Cavelight Moths. The light came from something deeper, something in the water itself or beneath it, a pale blue-green that did not flicker or pulse but held steady, as if the pool had made a decision about how bright it intended to be and was not interested in revising. The alcove above was carved — not by hands but by the Tower's architecture, smooth limestone shelved and angled to seat six people with room to spare. The ambient light up here was different: warm amber, System-generated, the kind that meant *safe zone, no combat, breathe*.
+
+She breathed.
+
+The organized sound Tomás had reported turned out to be water. Not monster-made, not artificial — just a subsurface current channeling through the limestone at a frequency that sounded, from sixty meters out, like something with intent. Tomás had identified it and moved on without apology or embarrassment, because Tomás did not experience the distance between "possible threat" and "confirmed natural feature" as a space that required emotion. He experienced it as information updating. The information updated. He moved on.
+
+The party had spread into the rest node the way they always spread: Tomás checked the perimeter and gave the nod. Dayo found a wall. Vesper set up the Field Forge with the quiet efficiency of someone who had been planning her crafting session for the last hour of walking. Miriam sat near the pool's edge, her clinical notebook already open, recording something about the ambient Mana density that she would share with Solenne later. Nadia was sitting on a limestone shelf with her legs dangling, watching Vesper work with the particular attention she gave to things she found genuinely interesting and would never admit to finding genuinely interesting.
+
+Solenne watched all of this. Not through the Resonance Map, not through Arcane Analysis, not through any skill. Just — watching. The way you watch people you have been living beside for eight months when the light is good and the air smells like mineral water and no one is bleeding.
+
+Then she opened her notebook. She read the page she had written three hours ago, during the dry route's last rest alcove, in handwriting that was smaller and more careful than her usual. She read it twice.
+
+She closed the notebook.
+
+"I want to try something," she said.
+
+---
+
+Five faces turned to her. The quality of attention was immediate and differentiated — each of them hearing the same sentence and processing it through a different filter. Dayo straightened from the wall. Tomás angled two degrees toward her without moving his feet. Miriam's pen stopped. Vesper looked up from the Field Forge's sorting tray. Nadia tilted her head.
+
+"Define 'something,'" Nadia said.
+
+"Harmonize." Solenne held the word carefully, the way she held words that mattered — giving it its full weight, not rushing past it. "Deliberately. With preparation. Not the accidental contact from Floor 6. An actual attempt."
+
+Nadia looked at Dayo. She looked back at Solenne. "Will it hurt?"
+
+"No. I don't think so. The skill description doesn't list damage as a possible outcome, and the Floor 6 contact was —" She paused. Reached for the right framing. "Disorienting. Not painful."
+
+"Okay." Nadia nodded once. Then she turned to Tomás with the deliberate casualness of someone setting up a bit. "I'll bet you she fumbles it on the first try."
+
+Tomás did not take the bet.
+
+"Smart man," Nadia said.
+
+Solenne could have let the moment carry her forward — could have moved straight to the attempt, riding the momentum of the decision before the doubt caught up. She did not. She sat down on the limestone shelf, cross-legged, staff across her knees, and she said: "Before we try it, I need to explain what I think is happening. All of it. Including the parts I'm not sure about."
+
+The alcove went listening-quiet. The same quality from the Transition Hall — the collective recognition that the next thing said would matter. Except this time Solenne was not bracing herself against it. She was choosing it.
+
+She began.
+
+---
+
+"The System calls them Harmony Aspects. There are six." She held up her hand, fingers spread, and then added the thumb of her other hand — a visual that was slightly awkward and entirely Solenne. "Each one is a — I want to say 'frequency,' but that's not exactly right. Each one is a mode of connection. A way that a person relates to other people that is so fundamental the System can measure it and build Skills around it."
+
+She pulled the staff from her knees and held it so the annotated strips were visible — the ones she had written three hours ago, in the smaller handwriting. Notes. Framework. The skeleton of a theory she was choosing to share before it was fully formed.
+
+"Steadfast. Warmhearted. Openhanded. Clearvoiced. Brightspirit. Trueweave." She listed them without rushing. "Steadfast is the Aspect of loyalty and bond under pressure. Warmhearted is care and restoration. Openhanded is generosity and augmentation — making other people better. Clearvoiced is honesty and discernment. Brightspirit is — the System Scholars' paper calls it 'pattern disruption,' but I think it's closer to 'the force that breaks things open so something new can happen.'" She paused. "Trueweave is synthesis. Connection. The piece that makes the other pieces work together."
+
+She was watching their faces as she spoke. Not performing — teaching. And the voice she was using was different from her combat-planning voice, different from the voice that organized information into action sequences and calculated risk percentages. This voice was slower. More willing to pause. Less anxious about having all the answers before she started the sentence.
+
+"I think all six of us are Aspect carriers. Not just me." She said this directly, without softening, the way she had learned to say things that were true and uncomfortable. "Dayo is Steadfast. Miriam is Warmhearted. Vesper is Openhanded. Tomás is Clearvoiced. Nadia is Brightspirit. I'm Trueweave."
+
+She let the sentence sit.
+
+Miriam spoke first. Not with agreement or disagreement — with a question, delivered in the diagnostic register she used when she was mapping a problem. "The Harmony Skills we've already unlocked — the paired ones. Those are expressions of two Aspects interacting?"
+
+"Yes. Unbroken Line is Steadfast plus Warmhearted. Cartographer's Truth is Clearvoiced plus Trueweave. Each pairing produces a combined effect that neither Aspect could produce alone."
+
+Miriam nodded. She wrote something in the clinical notebook. Then: "The warmth my patients report during Mending Touch. The sense that something more than MP is flowing through. Is that the Warmhearted Aspect expressing through the skill framework?"
+
+Solenne felt the precision of the question land. Miriam had not said *is that my Aspect*. She had said *is that the Warmhearted Aspect expressing through the skill framework* — clinical language, diagnostic language, the language of someone who needed to understand the mechanism before she would let herself feel what the mechanism meant.
+
+"I think so. Yes."
+
+Miriam wrote this down. She did not say anything else about it.
+
+Tomás, from his position against the far wall, said: "Has the System confirmed the six-Aspect structure?"
+
+This was exactly the right question. Solenne felt the weight of it — Tomás's Clearvoiced perception cutting to the place where her certainty had edges.
+
+"Not directly," she said. "The documentation I've found is partial. The System Scholars' paper on Resonance outliers identifies three Aspects by name. The Tower's own query responses reference 'Harmony Affinity, category: Resonance-native' without specifying the full structure. My mapping of six Aspects to six party members is — pattern recognition. Inference. It fits everything I've observed, but the System hasn't confirmed it as a complete framework."
+
+She held the pause. She did not fill it with qualifications or caveats or the performance of certainty that would have made the pause disappear.
+
+"But it hasn't denied it," she said.
+
+Tomás processed this. Solenne could not see the Clearvoiced Aspect working, not directly, but she could see its effect: the particular quality of attention Tomás gave to statements he was evaluating for truth. He perceived that she believed it. He perceived, through some mechanism she could not name and he probably could not either, that she was right. He nodded once.
+
+The nod was small. It was enough.
+
+---
+
+Vesper had been working the Field Forge throughout the explanation — not rudely, but in the way Vesper worked, which was always, because her hands needed to be making something while her mind processed. Solenne could hear the small sounds of crafting: the clink of vial against tray, the quiet hiss of binding compound setting, the particular metallic whisper of Mana-reactive material being shaped.
+
+Two Tier II healing potions appeared in the sorting tray. Two Mana Vials beside them — blue-white, crystalline, dense with concentrated ambient Mana. And something else: a dark piece of armored material, shaped and layered, sized for a forearm.
+
+"Vesper," Solenne said.
+
+Vesper looked up from the prototype. "Armored wrap. For Dayo's left forearm — the bracer gap that let the Sillfin hook through." She held it up. The material was dark, layered composite over something flexible, shaped to cover exactly the vulnerable section between bracer and elbow guard. "Plus five Physical Defense against limb strikes. Not inscribed yet. I want to think about the inscription."
+
+Dayo crossed the alcove and took the wrap from Vesper's hands. She turned it over, testing the flexibility, checking the fit against her left forearm without putting it on. Her fingers found the coverage area — the exact spot where the hooks had gone through.
+
+"Vesper."
+
+"Don't thank me. I haven't decided on the inscription yet and if you thank me before it's done I'll feel like it's finished and it isn't."
+
+Dayo looked at her for a long moment. Then she set the wrap down on the shelf beside her, carefully, in the spot where she would be able to reach it.
+
+---
+
+Solenne stood. She moved to where Dayo was sitting — three meters from the alcove's center, back against the limestone, the wrap beside her and the tally-marked bracer on her left arm catching the amber light. The rest of the party shifted without being asked: Miriam moved to give them space, Nadia pulled her legs up onto the shelf, Tomás stayed where he was but his attention focused.
+
+"I'm going to activate Harmonize," Solenne said. She was speaking to Dayo but she was speaking loudly enough for everyone to hear, because this was the kind of thing the whole party needed to know was happening. "What I need from you is Anchor. Not the passive — the active version. Directed at me."
+
+Dayo looked at her. "I've never directed it."
+
+"I know."
+
+"It's been running as a passive since —" She stopped. Reconsidered. "Since before I knew it was a skill. Since before the System gave it a name."
+
+"I know," Solenne said again. "I'm asking you to point it. At me. Consciously. Like — instead of the field running in all directions, you aim it."
+
+Dayo was quiet for a moment. Not uncertain — processing. The way she processed things: spatially, physically, finding the route through the problem with her body before her mind caught up.
+
+"Okay," she said. "Give me a second."
+
+The second lasted longer than a second. Dayo closed her eyes. Her shoulders shifted — a small adjustment, the kind a defender makes before a set piece, planting weight, finding center. Solenne felt it through the Resonance Map before she saw it with her eyes: the quality of Dayo's Anchor changing. Not the warm background hum that had been running since Month 2, the ambient awareness of where everyone was and the instinctive pull toward proximity. Something more focused. A beam instead of a field. Directed. Intentional. Aimed.
+
+At her.
+
+The warmth of it arrived in Solenne's perception like someone stepping into a room — not gradual, not fading in, but *present*, suddenly, with the particular quality of a person who had always been there and had just now chosen to be noticed.
+
+Solenne activated Harmonize.
+
+The skill engaged the way language engaged when she was translating between two structures that were almost but not quite compatible — the sense of reaching, of holding two frameworks simultaneously and looking for the place where they overlapped. The Trueweave Aspect was the bridge. The Steadfast Aspect was the far shore. She reached across.
+
+Contact.
+
+Four seconds. She would time it later, reviewing the Party Record, and the number would be four. In the moment it did not feel like a number. It felt like standing inside a building and understanding, for the first time, what the walls were for.
+
+The Steadfast Aspect from the inside was not a power. It was not a stat bonus or a damage reduction or a threat generation modifier. It was Dayo. The specific quality of caring about people that was so fundamental to her that it read as structural — not an emotion but an architecture. A load-bearing wall made of choice. The warmth of it was not comfortable, exactly. Comfortable was too small. It was the warmth of something that had been carrying weight for a long time, that had been carrying it since before Day Zero, since before the System, since before any of this, and had never once considered putting it down. Not because the weight was easy. Because the weight was the point.
+
+Solenne felt it the way she felt a completed proof — the moment when the pieces clicked and the structure revealed itself and you could see, suddenly, that it had been true the whole time, that you had just been looking at it from the wrong angle. Except this was not a proof. This was a person. This was Dayo's loyalty expressed as a frequency she could stand inside for four seconds before the contact closed and the bridge folded back to its resting state and she was Solenne again, standing in an alcove on Floor 8, with the taste of someone else's devotion still resonating in the back of her perception like a note she could almost — almost —
+
+The contact dropped.
+
+Solenne opened her eyes. She had not realized she had closed them.
+
+Dayo was looking at her. Not with the expression Solenne expected — not surprise, not discomfort, not the guarded blankness Dayo used when something had gotten past her defenses. Something quieter. Something that said: *you felt that. I didn't know you could feel that. I am not sure how I feel about being felt that directly*.
+
+Neither of them spoke.
+
+The rest node held them. The pool's glow from below, steady and patient. The amber System-light above. The sound of water moving through limestone, constant and quiet, the sound that had been there the whole time and had stopped being audible because it was always there, like a thing you carried so long you forgot it was separate from you.
+
+```stat-screen
+[SKILL UPDATE]
+Anchor (Harmony -- Steadfast)
+User: Adaeze "Dayo" Okonkwo
+
+Status: Partial conscious direction enabled.
+Note:  First deliberate activation toward
+       a single target. Passive field remains
+       operational. Directed mode available
+       for future use.
+```
+
+```stat-screen
+[PARTY RECORD — UPDATED]
+Harmonize (Harmony -- Trueweave)
+Activation: Deliberate (first attempt)
+Duration:   4 seconds
+Participants: Solenne Achebe-Park (Trueweave)
+            + Adaeze Okonkwo (Steadfast)
+Result:     Partial synchronization achieved.
+            Aspect contact confirmed.
+Combat Application: None (test activation)
+XP Award:   None
+System Note: Recorded.
+```
+
+Nadia waited. She waited longer than Solenne expected — long enough that the silence had settled into something solid, something with weight, something the party was holding together the way you hold a breath you have not decided to release.
+
+Then: "I'm going to need someone to rank that on a weirdness scale of one to Tower appearing in Millennium Park."
+
+Dayo did not look away from Solenne. "Four," she said.
+
+Solenne, who was still standing in the alcove with the residual warmth of someone else's structural caring dissolving slowly from her perception, said: "Eight."
+
+The numbers were not helpful. They were not meant to be helpful. They were a way of acknowledging that something had happened — that the two of them had just shared a contact that neither of them had language for, and that the numbers, arbitrary and mismatched, were at least a bridge between the silence and whatever came next.
+
+"Those numbers are bad and I am keeping them anyway," Nadia said.
+
+---
+
+Footsteps in the corridor.
+
+Not the party's footsteps. Not the quiet, practiced movement of people who had been climbing together for eight months and had learned to move through Tower architecture as a unit. These were different — heavier, more deliberate, carrying the particular cadence of boots designed for efficiency rather than stealth. Three sets. Evenly spaced. Moving at a pace that said *we know where we're going and we're not concerned about what's between us and there*.
+
+Tomás had his bow in his hands before the first shadow appeared at the alcove's entrance. Not drawn. Just present. A statement of readiness that was also a statement of information: *I knew they were coming before you did. I'm not alarmed. But I'm ready*.
+
+Three people entered the rest node.
+
+The first was a man. Tall, broad-shouldered, wearing plate armor that was better than Dayo's — not dramatically, not insultingly, but in the specific ways that a Level 16 Warrior's gear was better than a Level 11 Vanguard's. The plate was dark gray, well-maintained, carrying the scuffs and repairs of sustained use. He moved with the contained authority of someone who had walked into a hundred shared spaces and knew exactly how to occupy them: enough presence to establish himself, not enough to threaten. His eyes moved through the room in a sweep that lasted two seconds and covered everything — the party's positions, their gear, their levels (readable through the System's party-proximity display), the Field Forge, the pool, the exits.
+
+Behind him, a woman. Shorter, compact, with the kind of focused stillness that Solenne recognized immediately because she saw a version of it in Vesper every day: the stillness of a crafter who was always evaluating materials. She wore lighter armor — an Artificer's kit, modified for field use, every piece of it carrying the particular sheen of self-enhanced gear. Her eyes found the Field Forge and stopped.
+
+The third was a shadow that leaned against the wall.
+
+That was not precisely fair. The third person was a slight figure in dark layered armor who entered the alcove, assessed it in a single glance, found the wall farthest from the party, and leaned against it with the practiced economy of someone who had been the designated watcher for a long time and had no interest in small talk. Solenne's Arcane Analysis fed her a level number — 14 — and a class — Rogue — and nothing else, because the Rogue's passive concealment was good enough to blur the details.
+
+The man in plate smiled. It was a good smile — professional, warm without being personal, the smile of someone who was genuinely comfortable meeting strangers and had no interest in pretending otherwise.
+
+"Brennan Cole," he said. His voice carried the easy register of someone introducing himself for the hundredth time. "Apex Syndicate, Team Ironwall. This is Prita" — a gesture to the Artificer — "and Hex." The shadow against the wall did not move.
+
+Solenne stood. She did it without ceremony, staff in hand, the annotated strips catching the amber light. "Solenne Achebe-Park. Independent."
+
+"I know." Brennan's eyes had already done the assessment — she could see it in the way they moved from her to the party and back. Not hostile. Calculating. The specific calculation of a team lead processing another team's composition. "You cleared Floor 7 ahead of us. Which is —" He paused. Not for effect. For honesty. "Unexpected. Given your party's levels."
+
+It was not an insult. It was an observation delivered by someone who was good enough at this to know the difference, and to trust that she was good enough to hear it.
+
+"We had good route data," Solenne said. Which was true. And not the whole truth.
+
+Brennan nodded. He accepted the incomplete answer with the grace of someone who gave incomplete answers regularly and understood the protocol. "We're running ahead of schedule. Plan to be at the Floor 9 rest node within two days. Wanted to rest here before the Floor 8 boss." He looked at the alcove — at the pool, at the carved limestone, at the shelf where Nadia was sitting with her legs dangling and an expression of polite evaluation. "Plenty of room."
+
+It was not a question. Rest nodes were shared spaces — the System's architecture did not allow parties to claim them exclusively. But the way he said it was a courtesy, an acknowledgment that his team was entering occupied space and that the occupants had a right to be consulted.
+
+"Plenty of room," Solenne agreed.
+
+---
+
+Brennan settled his team with the practiced economy of someone who had done this on fifty rest nodes. Hex remained against the far wall. Brennan took a position near the corridor entrance — sightlines, Solenne noted. The same instinct as Tomás, expressed with less subtlety and more confidence.
+
+Prita went to the Field Forge.
+
+She did not touch it. She did not ask. She stood two meters from Vesper's crafting station and looked at it with an expression that Solenne recognized because she had seen it on the faces of academics encountering a paper that challenged their methodology: professional interest layered over something more complicated.
+
+"What Tier are you operating at?" Prita said. Her voice was precise, accented — South Asian, Solenne thought, though the specifics were not available to her — and carried the particular cadence of someone asking a question they already knew the answer to but wanted to hear spoken.
+
+Vesper looked up from the sorting tray. She looked at Prita. She looked at Prita's gear — the self-enhanced Artificer's kit, the modifications that spoke of a crafting philosophy Vesper could read the way Tomás read terrain. And Solenne saw something happen in Vesper's expression that was very small and very precise: recognition.
+
+"Tier II," Vesper said. "Field conditions."
+
+"Your binding compound ratios are unusual."
+
+"I adjust for ambient Mana density. Floor 8 runs high."
+
+Prita nodded. The nod carried assessment. She looked at the armored wrap — the prototype for Dayo's forearm, sitting on the shelf where Dayo had placed it — and her eyes stayed on it for a moment longer than the rest of the inventory. "Custom defensive piece?"
+
+"Prototype. Not inscribed."
+
+"The layering is good."
+
+It was a compliment. It was delivered with the clean efficiency of a professional evaluating another professional's work and finding it competent. Vesper heard it. Solenne saw her hear it — saw the way the acknowledgment landed, and saw, underneath, something Vesper could not yet name. Because Prita's work — the self-enhanced kit, the gear modifications, the precision of the assessment — had a quality Vesper could see clearly. A quality of craft that stopped at the edge of the object. The material was perfect. The engineering was excellent. The gear was outstanding.
+
+And it did not care about the person who would use it.
+
+Not uncaring. Not cruel. Just — bounded. Prita's craft went to the object's edge and stopped there, and the object was complete, and the person was someone else's problem. Vesper's work kept going. Past the object. Into the person who would wear it, use it, bleed around its edges. The armored wrap was not just five points of Physical Defense — it was Dayo's forearm, the exact spot where the hooks went through, the design gap that hurt someone Vesper knew. The wrap was shaped by that knowing.
+
+Vesper could not explain this. Not to Prita, not to herself, not yet. She filed it in the place she filed things she needed to sit with — the same place her two unfinished projects lived, and the question of what inscriptions she wanted to become.
+
+"Thanks," Vesper said.
+
+The conversation ended. It had lasted forty seconds. It had planted something that would take considerably longer to grow.
+
+---
+
+Brennan crossed the alcove to where Solenne was standing. He moved casually, but Solenne recognized the intentionality underneath — the way a professional team lead created opportunities for private conversation within a shared space. He stood close enough for low voices, far enough that it did not feel like crowding.
+
+"Unusual composition," he said. His tone was conversational. His eyes were not. "Vanguard, Warden, Artificer, Pathfinder, Jester, Arcanist. Full Complement passive, I assume?"
+
+"Since Floor 3."
+
+He nodded. "We run three. Warrior, Artificer, Rogue. Apex standard configuration for advanced scouting. We make up the class gaps with gear and consumables." He said this without defensiveness — a professional explaining his methodology. "Your configuration — six archetypes, full Complement — that's a Compact recommendation setup. Not an Apex one."
+
+"We're not Compact," Solenne said.
+
+"I noticed." He was looking at her staff — at the annotated strips, the handwritten formulas, the copper wire wrapped around the grip. His assessment was brief and thorough and Solenne could feel it evaluating not the staff's stats but its implications: a focus that had been modified by someone who understood things about Mana interaction that most Level 10 Arcanists did not. "Independent teams with six-archetype composition tend to either fall apart on Floor 5 or do something interesting. You're past Floor 5."
+
+"We are."
+
+He smiled again — the professional smile, the warm one. "If you need anything from us on Floor 8, the offer's open. Apex resources. No strings." He paused. "Well. Some strings. But the polite kind. The ones you can see."
+
+It was a joke. It was also honest. Solenne appreciated both qualities.
+
+"Thank you," she said. "We'll keep it in mind."
+
+Brennan nodded and returned to his position near the corridor entrance. He did not look at the party again with the assessing eyes. He looked at them the way you look at people who are sharing a space with you and are not a problem.
+
+But Solenne saw, in the brief crossing of his glance with Dayo's — Dayo who was sitting against the wall with the armored wrap beside her and the tally marks on her bracer and the quiet that had not fully lifted since the Harmonize contact — she saw him process the party's levels against his own team's. Brennan 16, Prita 15, Hex 14. Solenne's party averaged ten to eleven. The gap was real. It was notable. It was the kind of gap that made a professional team lead categorize another team as not-yet-relevant, file them under *unusual but probably temporary*, and move on.
+
+He would revise this assessment.
+
+The revision would take longer than either of them expected.
+
+---
+
+The rest node settled into shared quiet. Two teams, nine people, amber light and the glow from below and the constant quiet sound of water moving through limestone. Hex had not spoken. Hex had not moved from the far wall. Solenne's Arcane Analysis returned the same baseline data each time she checked: Level 14, Rogue, concealment passive active, nothing else readable. This was either very good concealment or a deliberate choice to present as unreadable. Probably both.
+
+Solenne sat on the limestone shelf. She opened her notebook. She wrote:
+
+*Team Ironwall. Brennan Cole Lv16 Warrior (Apex Syndicate). Prita Acharya Lv15 Artificer. Hex Lv14 Rogue. Arrived at rest node after party. Behind us on floor. NOT the advance climber.*
+
+She underlined the last sentence. The advance climber was still ahead of them. Still unknown. Still leaving evidence — the reset trap, the dust disturbance, the thirty-six to forty-eight hours of lead time — and still not identifiable. Team Ironwall was behind the party, not ahead. Whatever they were doing on this floor, they had not been the ones who sprung the trap in the hidden room on Floor 7.
+
+Three threads. The Quest. The sealed doors. The advance climber. They still did not converge. Solenne turned them over and they did not converge. She was becoming less afraid of this. Not comfortable with it — she did not think she would ever be comfortable with not having the answer — but less afraid. Something had shifted in the alcove, during those four seconds of contact, something she did not yet have words for. The Steadfast Aspect had not given her answers. It had given her something closer to the feeling of standing inside a structure that was built to last, and the structure was not hers, and that was the point.
+
+She looked across the alcove. Dayo was sitting where she had been sitting, back against the wall, the prototype wrap beside her. She had not spoken since ranking the Harmonize contact a four on the weirdness scale. She was not asleep. She was not working. She was sitting in the particular quality of quiet that meant Dayo was feeling something she did not yet know how to make physical — something that had no route, no play to run, no opposing defender to put her body against. Someone had stood inside her loyalty and felt it as architecture and she did not know what to do with that.
+
+She would figure it out. She always did. It just took her longer when the problem was not something she could run at.
+
+Nadia had positioned herself equidistant between the two teams — a placement Solenne recognized as instinctive diplomacy, the Brightspirit's ambient awareness of social geometry expressing as physical positioning. She was cleaning a throwing knife and humming something Solenne did not recognize, and the sound of it was small and warm and real in the rest node's shared quiet.
+
+Miriam was writing in the clinical notebook. She had not said anything about the Harmonize attempt. She had not asked a follow-up question. But Solenne had seen her eyes during the contact — the way Miriam's Empathic Sense had registered the shift in the room's emotional weather, the way she had tracked the warmth of it, the way her hands had gone very still. She was putting it in the notebook. She was connecting it to things she had felt in her own healing — the warmth that patients reported, the sense that something more than MP was flowing through Mending Touch. She was not ready to say this yet. The clinical notebook would hold it until she was.
+
+Tomás had his bow across his knees. He was watching the corridor. He was also watching Brennan watch the corridor. Two scouts, reading the same space, using different frameworks, arriving at compatible conclusions. He had not commented on Team Ironwall's arrival. He would comment when there was something to say. He had not confirmed or denied the six-Aspect framework. He had nodded. The nod was still sitting in Solenne's mind — small and exact and carrying the weight of the Clearvoiced Aspect's involuntary assessment: *she is right, and she does not know all the reasons she is right, and neither does he, and that is going to matter later*.
+
+The pool glowed from below. The amber light held from above. Between them, nine people in a carved limestone space on Floor 8, and three threads that did not converge, and a contact that had lasted four seconds and changed the shape of what Solenne thought Harmony was.
+
+She had thought it was a power. A system. A framework you could study and understand and deploy. She had been wrong in the specific way she was always wrong: she had understood the mechanism and missed the meaning. Harmony was not a system. Harmony was Dayo, sitting against a wall with a four on the weirdness scale and a quality of caring so deep it read as load-bearing. Harmony was the space between the instrument and the song.
+
+Solenne closed the notebook. She put the pen in her pocket. She leaned back against the limestone and she let the quiet hold her, and for the first time in longer than she could remember, she did not reach for the next sentence.
+
+The next sentence could wait.

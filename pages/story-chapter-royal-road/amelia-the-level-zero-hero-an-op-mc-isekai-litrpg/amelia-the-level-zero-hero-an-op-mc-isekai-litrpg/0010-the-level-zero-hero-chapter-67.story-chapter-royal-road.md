@@ -1,0 +1,185 @@
+---
+id: 33fa6095-4eee-54a3-8327-44cce1bfa15f
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 67"
+slug: 0010-the-level-zero-hero-chapter-67
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 10
+ownLength: 2181
+unit: words
+publishedAt: 2023-02-23
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1121278/the-level-zero-hero-chapter-67"
+royalRoadId: "1121278"
+---
+
+A hundred years had passed since I vanished from Earth. Or just under a hundred years. I wasn’t sure. All I knew was that it had been a long time, and my parents were now dead. My younger sister was a great grandmother. My world had changed greatly in my absence.
+
+And there was no point in going back.
+
+It was odd to think about. But I learned that time didn’t flow linearly between worlds. I didn’t know how much time passed in the Fractured Realm because time was broken there, however I knew that ten years had passed in Vacuos since I was first summoned by the Voidgod.
+
+If Noele was to be believed, and the Age of Calamity truly began ten years ago, this meant the Voidgod likely had some hand to play all the terrible things that had happened since then. It was not surprising. He had been desperate to find a way out of the Fractured Realm.
+
+After all, he had chosen me— an ordinary girl from Earth— to be his vessel. He had offered me power, and in exchange, I would carry him into Vacuos so he could once again reclaim his world. I… told him to fuck off.
+
+Then I killed him.
+
+And now, I was here, living peacefully at this farm just outside of Wolfwater. I could hear the birds chirping, and I saw the sun shining between the blinds of my window. With a heavy sigh, I finally got out of bed.
+
+It was already mid-morning. I normally started working in the fields as dawn broke. But today, I had a day off. I was Nolan’s [Farm Help]— although I didn’t actually have the Class. He paid me a decent wage. It was nothing life-changing, and honestly, I had said he didn’t need to pay me anyways. But he insisted on it, so I had no choice but to accept.
+
+There wasn’t much for me to do today, especially since Nolan and Nicole were going to a nearby village to help with the repairs. Many of the surrounding farmlands had been burned down before I could stop the Miststorm Riders. Wolfwater was the least affected by the attack thanks to my intervention.
+
+Noele and Garron were staying here in Wolfwater with me. I could hear them outside, preparing breakfast as they chatted. I heard their laughter, and I stopped at my doorway. I was pretty sure that they were a thing— or going to become a thing— and I felt awkward barging in on them.
+
+But I felt the rumbling in my stomach, and it pushed me out of my room. I wondered what I was going to cook today.
+
+—--
+
+“Seriously?” Noele laughed, covering her mouth. Her blonde locks swayed behind her as she shook her head. “You can’t be serious, Garron!”
+
+The burly man leant forward, placing his hands on the table. He smirked at her as he nodded slowly. “Oh, I’m completely serious— the moment I saw those water slimes, I made a break for it.”
+
+“They’re F-rank threats!” she exclaimed. “And you were Level 11— you were E-rank! You could’ve easily dealt with them without even drawing a weapon!”
+
+“I thought they were aqua slimes,” Garron harrumphed as he drew back. “That’s all we have around Windrip. And those bastards are C-rank threats. I thought we were dead for sure if we fought them.”
+
+Noele just chuckled. “It’s no wonder they kicked you from the team…”
+
+“You’ve got to give me a break, Noele. That was my first time adventuring away from Windrip.” The burly man sighed, raising his head almost nostalgically.
+
+The blonde girl tilted her head, smirking. “I can just imagine it— some big guy like you running from those little monsters. It is hilarious.”
+
+He groaned, but she rested her chin on the palm of her hand. She leant closer and held his gaze with a smile.
+
+“But look at you now,” Noele said. “You’re Garron the Steel Tank. A B-rank adventurer. You didn’t need them to get to where you are— you got here through your own strength. I’m sure they’re somewhere out there, wishing they hadn’t kicked you from the team.”
+
+Garron scoffed, puffing up his broad chest. “Of course. They were my first adventuring team, and they were also my last for a reason. I learned that most adventurers don’t actually care about their teams, nor do they desire anything beyond their next paycheck.”
+
+“Well, adventuring is a job.” The blonde girl shrugged.
+
+He nodded. “It’s a job for most. But for me, it’s something more. It… was something more…” he trailed off.
+
+Noele watched as Garron’s gaze darkened. His brows arched over his face, casting a long shadow. The blonde girl knew what exactly he was thinking about. It hadn’t been long since the two adventurers met and became friends— just over three months— but they had gotten quite close during that brief timeframe.
+
+And she had once asked him the reason why he had become an adventurer. It had sounded like a typical pursuit of revenge— Garron had taken up arms to slay the very same darkwood moose that had slaughtered his parents. But when he had searched it out, the monster was already dead.
+
+Noele knew what it was like to feel directionless. She saw it in Garron’s face. He closed his eyes, leaning back on his chair. Without an explicit goal any longer, adventuring must just become no different from any ordinary job. Unfulfilling and taxing.
+
+Perhaps that was why he left Windrip— because he wanted to find a new path. The blonde girl bit her lower lip and got to her feet. She circled around the dining table and approached him from behind. He raised his head, blinking as she wrapped her arms around his shoulders.
+
+“Noele…?” He stared at her, but she hugged him tight.
+
+He opened his mouth, before clenching his jaw. He brought a hand up, holding onto her forearm as she whispered into his ear.
+
+“Garron—” she started.
+
+“...what are you guys doing?” Amelia asked flatly.
+
+Both adventurers jolted back. Noele immediately backed away, and Garron’s gaze snapped to the brown-haired woman standing to the side. The burly man cleared his throat as the blonde girl just flushed.
+
+“Uh, we were…” He tried to work his jaw.
+
+But Amelia shook her head and spun around. “I think I’m going to go back to my room.”
+
+Noele watched as her mentor returned down the corridor to the bedrooms. The blonde girl exchanged a quick glance with Garron, before stepping forward.
+
+“Wait, Amelia!” Noele said, and her mentor paused, glancing back fractionally. “You should at least have some breakfast before you go— my Papa prepared it specifically for you.”
+
+The brown-haired woman raised a brow, returning to the dining table, drawn by the allure of food. “What’s for breakfast?”
+
+“Oats.” Noele gestured at the bowl. “And some milk, too.”
+
+“That’s… a shitty breakfast,” Amelia sighed.
+
+Garron scratched his jaw uncertainly. “It tasted pretty good to me—”
+
+“Because you’re an adventurer. You’re used to eating even worse food.” She rolled her eyes.
+
+“Fair.” The burly man couldn’t argue with that.
+
+“I’ll cook up something, I guess.” Amelia strode towards the kitchen as Noele and Garron shifted uncomfortably.
+
+But the awkward moment ended, replaced by a minute of silence. The blonde girl heard the ticking of a clock, and she saw the time with a frown. Garron noticed it too. They glanced between each other as Amelia rummaged through the kitchen pantry. Both adventurers blinked, realizing that they were late.
+
+“Oh,” Noele said, glancing back towards Amelia. “Sorry, Amelia. You’ll have to eat your breakfast without us. Garron and I have got to go.”
+
+Amelia paused and turned towards the blonde girl. “Where to?”
+
+“To Wolfwater,” Garron explained as he got to his feet. “We promised we’d help scout the outskirts for any wandering monsters.”
+
+The Noble Spellsword hurriedly slung her Bag of Holding over her shoulders. She slipped her boots on, and nodded apologetically to her mentor.
+
+“I wish I could stay, but—”
+
+“It’s fine,” Amelia cut the blonde girl off. She placed a loaf of bread on a chopping board and waved a knife dismissively. “Just don’t forget to help feed Bucky on your way out.”
+
+“Bucky?” Noele blinked as she opened the door. “Who’s that—”
+
+“Bawk bawk!”
+
+The blonde girl paused, staring down at the front porch of the house. She furrowed her brows as a chicken cocked its head back at her.
+
+“...why is there a chicken here?” Noele asked.
+
+Garron stared. The chicken clucked. And Amelia just shrugged.
+
+“Why not?”
+
+—--
+
+Unfortunately, Noele and Garron couldn’t stop to feed Bucky because they were running late. I watched them go, hearing Bucky cluck sadly as the door swung shut. I sighed and lowered my half-made sandwich.
+
+I opened the door, and Bucky brightened. She waddled in as I smiled at her, before squatting down. I patted her a few times as she clucked in excitement. I reached for a bag and produced a handful of seeds. I raised an open palm, feeding her with a smile.
+
+“You know, I never had a pet back on Earth,” I said as I scratched the side of her face. “And they won’t let me own a pet without having a Class related to taming animals or monsters.”
+
+Bucky didn’t respond. She just quickly pecked up the seeds, and I shook my head. I sprinkled her meal at her feet and shut the door. I walked back to the kitchen as the chicken ate from the floorboards.
+
+“Don’t make a mess,” I scoffed. “I’m not cleaning that up.”
+
+I quickly whipped up my breakfast, before heating it up in a magical oven. It wasn’t as efficient as a modern oven from Earth, but I was still surprised that such an appliance existed. It definitely wasn’t an ordinary household object— Nicole herself had said that she bought it while she was visiting Shorheim a long time ago.
+
+I heard the soft footsteps of the chicken approaching me. She clucked, eyeing the sandwich I was holding.
+
+“You want some?” I asked with a raised brow.
+
+Bucky clucked in response. I narrowed my eyes. She waited impatiently at my feet, and I shook my head.
+
+“You can’t have it,” I said, tossing a handful of seeds at her.
+
+But the chicken ignored the seeds. Instead, she pecked at my feet, before clucking loudly again. I frowned as she raised her head, looking at my sandwich.
+
+I knelt before Bucky and held my sandwich up at her. “Do you seriously want a bite?”
+
+She clucked in agreement, and I broke off a piece for her with a sigh. I handed it over, letting the chicken have some of my sandwich. She quickly pecked up the food as I eyed her curiously.
+
+“Do you like it?”
+
+Bucky just munched on the bits of sandwich. She didn’t nod, but I could tell she was enjoying her meal. I smirked at her.
+
+“It’s a chicken and egg sandwich,” I said with a deadpan expression.
+
+And the chicken froze. Her beak dropped as the bits of sandwich she had been chewing fell to the ground. I chuckled and watched as Bucky skittered back away from me in horror. She stared at me, and I took a bite from my sandwich.
+
+I lied. It wasn’t a chicken and egg sandwich. It was a ham and cheese sandwich. But I was just curious to see if Bucky actually understood me. And she did. So she was actually sapient due to her levels. At least, to a certain extent.
+
+I also lied because I couldn’t have her pestering me for food whenever I was eating. That would have been annoying. I did wonder what Nolan would think if I adopted Bucky as a pet. Although… was that even ethical since Bucky was a sapient animal?
+
+My musing was interrupted as I heard a sharp rapping coming from the doorway. I looked up, hearing the knocking continue. Bucky paused as I lowered my sandwich with a sigh. Interrupted again.
+
+“Who is it?” I called out, walking towards the doorway. I shook my head as the rapping didn’t stop. “I’m—”
+
+“Bawk bawk bawk!” Bucky clucked over me.
+
+She backed up in terror, flapping her wings as she stared warily at the doorway. I blinked, glancing back at her with narrowed eyes.
+
+And the knocking halted. The air grew still. The world went silent.
+
+My eyes darted back to the door, and I saw a looming shadowed figure waiting at the other side. Whoever it was who had been knocking shifted, moving to the side of the doorway. Bucky tensed as my brows snapped together. I placed a finger on my lips, and the chicken’s panicked clucking stopped.
+
+I slowly reached for the doorknob, eyeing the shifting shadow. I waited for a single second, then I threw the door open as I stepped outside.
+
+“You—” I started.
+
+And my eyes went wide when I saw who it was at the other side.

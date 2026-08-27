@@ -1,0 +1,191 @@
+---
+id: 57607952-f7c2-534a-b244-85cac113e815
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40: Adapting"
+slug: 0041-chapter-40-adapting
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 41
+ownLength: 1747
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3845513/chapter-40-adapting"
+royalRoadId: "3845513"
+---
+
+Ben swore loudly and blasted himself sideways with [Fire Burst]. An invisible dagger sliced through the air right where his neck had been just a moment earlier.
+
+Too close! That's too close! I have to do better. Come on, Ben, adapt! You've faced stronger monsters before, this is nothing!
+
+He hit the ground rolling and scrambled behind a thick violet tree root to catch his breath.
+
+Blood ran down his back, and this little shit was toying with him. Of course, the first monster he ran into had to be an invisible speedster. Ben pushed mana into his eyes to reinforce them and sent out a pulse of [Mana Sonar].
+
+But there was nothing.
+
+He gritted his teeth and flooded his body with mana. He forced the mana to compress, wrapping it tightly around the next [Mana Sonar] pulse to make it much denser.
+
+Instead of spreading the pulse out wide and thin, he made it sharper and focused it over a shorter distance, tweaking the frequency as well.
+
+He sent out the new wave and felt it bounce right off the sickly trees.
+
+A blurry shape shot toward his exposed side, and he sensed it just in time to duck. The wind ruffled his hair as the goblin leaped over him.
+
+You missed me, you ugly bastard.
+
+He fired a [Fire Burst] right at the distortion, but only managed to scorch the violet grass. The goblin was already ten feet away, fully cloaked again and slipping from his mental grasp, which only made him more frustrated.
+
+Still, beneath his frustration, excitement bubbled up and lit a spark inside him, flooding his chest with a foreign feeling. Jittery. He felt jittery, for some reason, and he wanted to pour all that energy into something.
+
+Luckily, he had the perfect target.
+
+For the next few minutes, it became the world's most agonizing game of hide and seek. Ben kept blasting around the clearing, dodging invisible slashes whenever he could. The goblin darted in for quick strikes before retreating.
+
+Panting, Ben kept tinkering with his [Mana Sonar] skill while trying to stay alive. Each time he sent out a pulse, he adjusted its frequency with [Mana Manipulation].
+
+He made the pulse faster, then wider, then denser, trying every way he could think of to detect the goblin. Slowly but surely, he started to get the hang of tracking it, catching its blurry outline a little earlier each time.
+
+But he still couldn't land a single hit on it.
+
+He was finally getting the hang of this bullshit.
+
+Tweaking [Mana Sonar] again, he finally caught a solid ping right on the edge of his perception.
+
+Gotcha.
+
+Without hesitating, he hurled a [Fire Burst] straight at the distortion in the air, flooding mana into it to make it reach far away. A satisfying screech of pain sounded as the flames connected.
+
+Singed and smoking, the blurry shape slammed hard into the dirt.
+
+Grinning, Ben pushed mana down to his feet, and launched himself forward with another [Fire Burst]. He raised his fist, fully prepared to cave the little shit's head in as he loaded up a [Mana Cannon] just in case, but the creature just scrambled up and bolted away in a literal blur of motion.
+
+Skidding to a halt, Ben blinked.
+
+…wait.
+
+That wasn't a goblin. It had a long tail, and it moved entirely on all fours when it ran.
+
+It was a fucking monkey! A really fast, invisible monkey!
+
+Well, that definitely changes things.
+
+Monkeys didn't just stay on the ground, after all. Cursing his own stupidity, he instantly pushed his [Mana Sonar] upward. In favor of trying to detect what he thought was the goblin, he'd been focusing more on his immediate surroundings, not the fucking sky!
+
+He quickly expanded the pulse, sweeping the dense canopy of sickly violet leaves right above him. And then, nothing happened, even as minutes dragged on, and silence fell around him.
+
+There weren't even sounds of birds or the typical sound of a forest, as this was a rift.
+
+Sweeping his eyes across the trees, Ben felt a jittery tension coil tight in his gut.
+
+Was it gone?
+
+Did he actually scare the bastard away?
+
+No way.
+
+He wasn't going to fall for that kind of trap.
+
+He kept his guard all the way up, scanning every single shadow, but his back throbbed with pain from the deep slashes, even if [Focus] was numbing all the pain he still knew he was bleeding and should patch that up soon.
+
+Instead of panicking, he decided to set a little trap.
+
+Taking a shallow breath, Ben suddenly flooded mana into his [Regeneration] skill. His back instantly tingled as the healing sluggishly went to work. And just like he expected, the monkey immediately took the bait the moment he grew 'distracted' by healing.
+
+A sharp ping flared on his [Mana Sonar], dropping right down from the branches above.
+
+Got you, you stupid monkey.
+
+Whipping his right arm upward.
+
+[Mana Cannon].
+
+A beam of pure mana ripped out of his arm, snapping his bones as the recoil instantly mangled his arm.
+
+The monkey shrieked as its camouflage disappeared. Visible at last, the beast took the full brunt of the [Mana Cannon] right in its right shoulder. Blood and fur sprayed as the cannon tore straight through the limb.
+
+Its severed arm hit the ground, followed by the screaming monkey crashing. Blasting forward with [Fire Burst] from his feet, Ben closed the distance in a heartbeat and quickly readied another [Mana Cannon] in his good hand.
+
+But before he could even throw, the one armed monkey vanished,moving way faster than a crippled animal had any right to.
+
+Are you kidding me?
+
+Frowning deeply, Ben let the [Mana Cannon] fizzle out in his hand. It was still way too fast for him. He'd really hoped that surprise attack would be enough to put it down for good.
+
+But it wasn't.
+
+And now the damn thing knew he had a literal cannon up his sleeve. It definitely wasn't going to fall for another easy bait like that, but he also couldn't afford to lower his guard for even a second.
+
+If he relaxed, that spiteful monkey would absolutely come back.
+
+Clutching his broken, bleeding right arm, Ben glared, feeling completely stuck. It was so fucking frustrating.
+
+He waited, and waited. And waited. The monkey didn't come back. Either he'd actually scared it off, or it was just biding its time, waiting for him to lower his guard.
+
+Well, I'm not giving you that chance.
+
+He was still confused why [Hunter] hadn't worked on it. Did it not trigger for stealthy creatures? Then that was a problem. He couldn't rely on it as heavily as he'd thought.
+
+He needed to find a spot to properly rest, and maybe explore this place a bit while his [Regeneration] slowly knit his skin back together. So he moved. All the while, he kept a steady pulse of [Mana Sonar] going, sweeping the trees, the ground, and everything in between.
+
+Especially the trees and the sky.
+
+Getting a moment of respite, he finally looked over at the notifications he'd gotten during the fight.
+
+[Mana Sonar Lvl 8 > Lvl 9]
+
+[Mana Manipulation Lvl 5 > Lvl 6]
+
+Good to know. Hopefully [Mana Sonar]'s evolution helps cover this blindspot.
+
+…maybe he should use the monkey for grinding that last [Mana Sonar] level? But a moment later he remembered it was an uncommon skill, so the threshold was level 20 and not 10.
+
+But still, he really wanted to use that invisible monkey as a training dummy for [Mana Sonar]. He could just blast away into the sky, but gaining more levels in the skill sounded incredibly appealing right about now.
+
+But the stupid primate refused to cooperate. Sitting in the silence of the violet woods, he just kept waiting.
+
+And waiting.
+
+Two full hours passed away with absolutely nothing happening.
+
+Keeping his senses dialed to eleven for that long was seriously giving him a headache.
+
+Maybe it actually left?
+
+It certainly felt like it. The forest was dead quiet, and his broken arm was throbbing with a dull ache that demanded immediate attention. After all, with [Focus] honed in on [Mana Sonar] and [Mana Manipulation], there wasn't much bandwidth for anything else.
+
+It looked like it'd left.
+
+Sighing heavily, he finally let the dense web of [Mana Sonar] disperse. He just needed to fix his busted arm. He'd already healed his back. Stopping the bleeding in his arm had been easy, but healing would take some active effort so he hadn't done it yet.
+
+Closing his eyes for just a second, he routed all his focus into [Regeneration]. The familiar tingling sensation of healing slowly began to knit his torn flesh back together.
+
+He finally let his tense shoulders drop, letting out a sigh.
+
+A slash ripped straight across his back.
+
+God dammit!
+
+Blasting forward with [Fire Burst], he scrambled wildly away from the spot. He crashed hard into the dirt and rolled to his feet.
+
+His eye twitched as he flared [Mana Sonar] outward but the dense mana pulse caught absolutely nothing but trees and empty air.
+
+Of course it was already gone. The little fucker was way too cautious now. Missing an arm had clearly turned it from a cocky predator into a terrified, cornered animal. But it still wanted to toy with him.
+
+After all, he'd basically given it a chance to kill him earlier, and it hadn't.
+
+Ben was lucky.
+
+He wouldn't make the same mistake again.
+
+Over the next few hours, his life devolved into a literal living hell. Trying to sit down and rest his burning legs? Dropping his guard for half a second to check his wounds?
+
+He had time for none of that.
+
+Every single time he thought he finally had a moment to breathe, the bastard struck again. But it was well worth it as [Mana Sonar] was benefiting from this.
+
+[Mana Sonar Lvl 9 > Lvl 10]
+
+It never committed to a full attack, just darting in to inflict pain before vanishing completely out of his detection range.
+
+And its camouflage was better, somehow. Ben couldn't detect anything sometimes, so he really had to work for it using [Mana Sonar], [Mana Manipulation], and [Focus] in tandem.
+
+He was getting really, really sick of this fucking monkey. So he loaded up a [Mana Cannon], flooding it with more mana than he'd ever poured into it.

@@ -1,0 +1,36 @@
+---
+id: 3c50e331-238b-5c03-9589-28d263f68cad
+page-type-slug: story-chapter-played
+title: "The Still One"
+slug: 0013-the-still-one
+partOf: dragons-and-dungeons
+position: 13
+ownLength: 1062
+unit: words
+---
+
+The crypt opened before us — a drowned chamber, thigh-deep in black water, every wall cut with the closed-eye sigil — and chained in the center of it, half-submerged, was a dragon.
+
+Vast. Ancient. So much larger than Tygryth, or so it seemed in the dark — a great pale length of dragon gone ashen, scales drained of whatever color they had once held, dull as wet stone, hung with three centuries of dragon-iron: collars at the throat, lancets and tapping-spigots driven into the joints and the great slow veins, a whole grim architecture of bleeding built into living flesh. And now, with the Warden's last crank, the sluices had all opened at once, and the cold blue blood was running from a dozen reopened wounds into the channels cut around the chamber, fast, far too fast, the water around the great body going dark.
+
+His eye was open. One enormous, filmed, exhausted eye, slit-pupiled, turned a fraction toward the sound of us, and there was almost nothing behind it. Not hope. Not fear. Just a vast, tired, patient nothing — the eye of a thing that had forgotten, decades ago, that the door could ever open. He did not struggle against the new bleeding. He had no struggle left. He simply watched us come, and bled.
+
+Wren made a sound like she had been struck and was already wading in, ripping the kin-fire vessel off her back, her scholar's mind racing across the spigots and sluices. "The taps — we have to close the taps, there's dozens, and the wheel's slagged upstairs—" Her voice cracked. "Monk, he's going. Fast. Tell me what to do, tell me where your hands go—"
+
+I closed my eyes. "Light him with the kin-fire," I said — and in that one call I meant to treat both of the deaths killing him at once. Wren would move for his spirit. I would move for his body. Neither alone would be enough; together, by a hair, they might be.
+
+My hands first. I did not look for the taps — there were too many, dozens sunk into three hundred years of flesh, and my eyes in that dark and that panic would have cost me the seconds I did not have. So I did what a dragon had taught me on a riverbank a few hours and a whole lifetime ago: I went still inside the chaos, and let each open wound arrive as a wrongness, every running spigot a bright cold scream in the sense, and then my trained body flowed from one to the next with nothing wasted between — a blur of hands in black water, close, close, close, spigot and sluice and lancet, the whole economy of motion the temple gave me spent at last on mending instead of breaking. Wren waded the deeper line behind me, jamming the channels with whatever she could. I closed the last one I could reach as the water around us went nearly black with his blood — and I could not reach the highest ones, the great vein-taps sunk into the arch of his throat, too high, too far, still running. I felt them screaming and could not get there in time.
+
+And that was where the kin-fire saved what my hands could not.
+
+Wren had reached his great drained head with the iron vessel, and she tipped it open, and the blue-white hearth-flame of his own line spilled out — and it did not behave like fire. It knew him. The flame his line's mother had sung alight with her own blood three centuries ago recognized the blood before it now, leapt toward him, washed up the ashen length of his throat — and where it touched, the bleeding slowed, the wounds drawing closed under that cold familiar warmth as if the flame itself remembered how this body was meant to be whole. The last taps guttered. The blood stopped. At the very edge of too-late, in water gone dark to the thigh, the still one stopped dying.
+
+And then the deeper thing happened — the thing the bleeding had never been the worst of.
+
+The vast filmed eye, that exhausted patient nothing — the kin-fire's light fell across it, and for the first time in a hundred years, something moved behind it. Not hope; he was too far gone for hope. But an ember — the dimmest possible memory that warmth existed, that kin existed, that the word home had once meant something and might again. Where the blue flame played over his ashen scales the faintest echo of color answered, deep under the grey, like coals breathed on after a long cold night. He turned his enormous head a fraction toward the fire. Toward Wren. Toward me.
+
+And he spoke. It was barely sound — a voice rusted shut for decades, cracking on the first word it had chosen to say in longer than I had been alive. "...that fire." A long, shuddering, dragon's breath. "...I know that fire. She lit it. Before they took me." The eye found me, uncomprehending, the ember in it trembling as if it might go out from the sheer weight of being asked to want again. "...Have you come to bleed me? Or..." He could not finish it. He did not have the word for the other thing anymore. He had lost it a century ago.
+
+Above us, at the slagged iron grate, Tygryth had stopped roaring. He was pressed to the bars, looking down through the oculus at the great ashen shape in the blue firelight, and the sound he made now was small, and broken, and the most terrible thing I had heard all night. "...that is my blood down there." A wrecked whisper, from a creature three hundred years too proud to weep, weeping. "Get me down. Gods, get me down to him — I will tear this grate out of the stone—" and iron shrieked as he set his claws to it.
+
+The still one was alive. Barely. Spent past spending — but breathing, the bleeding stopped, the first ember of want flickering in an eye that had forgotten the word for rescue. The kin-fire burned blue and steady over the dark still water. And up through the grate, an ancient father clawed toward the child he had thought the world had swallowed.

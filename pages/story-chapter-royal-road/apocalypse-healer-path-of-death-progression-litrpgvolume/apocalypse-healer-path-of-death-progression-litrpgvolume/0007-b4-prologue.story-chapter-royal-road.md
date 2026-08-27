@@ -1,0 +1,59 @@
+---
+id: e19501b7-6e73-5013-8d8f-2a9a7c3f5bdb
+page-type-slug: story-chapter-royal-road
+title: "B4 Prologue"
+slug: 0007-b4-prologue
+partOf: apocalypse-healer-path-of-death-progression-litrpgvolume
+position: 7
+ownLength: 572
+unit: words
+publishedAt: 2025-09-08
+link: "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/2583738/b4-prologue"
+royalRoadId: "2583738"
+---
+
+“Keros is gone. His Divinity extinguished.” A towering figure’s voice echoed through the minds of his allies.
+
+He remained in the open space, two eyes locked onto the tear in the weave of the cosmos. His other eyes closed as he scried for more information across the void.
+
+“What happened?” another figure asked through her spiritual communication channel, her voice calm and divinely soothing.
+
+The towering figure grimaced. He cocked his head to the side and scried again.
+
+“The data is incomplete. Not even the location is clear. However, his Divinity was extinguished in the embrace of the Origin. That is the only good news I can offer.”
+
+Did someone attack Keros? That should have been impossible. Nobody was foolish enough to extinguish the Divinity of a Minor God. Consuming? Definitely. But extinguishing it? Not even the rotted brains of the Awakened Reapers would sever a Divinity’s ties to the Origin. That wouldn’t help anyone… other than the End, of course.
+
+“Did he fall victim to the Void? But… that shouldn’t be possible. We removed the End’s access to the cosmos and cleansed its influence.”
+
+By destroying worlds. Erasing entire civilizations.
+
+But some worlds couldn’t be salvaged. The corruption of the Void and Nihilum spread too fast and dug too deep, infesting the hearts of worlds. And not even the Old Ones could cleanse a corrupted world once its heart was overtaken. Salvaging everything that could be saved was possible. It was extracted, reshaped, and used to protect the rest of the cosmos—creating Rifts to strengthen those with a chance at survival.
+
+However, those that couldn’t be salvaged? They were taken care of.
+
+“Wasn’t Keros in hiding?” a new voice, young and foolish, joined the spiritual communication channel, the emotions of the youngling flooding the pathways connecting them.
+
+“Hiding?” the towering figure asked. “Keros has always been… unique. A Minor God devoid of ambition. He often disappeared for decades—sometimes even centuries—and everyone thought he’d ascend to the next realm and become a Major God once he returned. He never did.”
+
+Nor did he block the primordial scrying before.
+
+“That’s what happens when we let Worlds ascend to greatness. They’re all oddballs and too dangerous to grant immortality,” a voice laced with disgust resounded.
+
+“Wasn’t Keros already dead? His world is no more,” the youngling added, its confusion rippling through the spiritual pathways.
+
+“That was in the last cycle. The Sword God regressed before the world was consumed, and it reverted back to normal. Thank the Origin, or the End would have swallowed them as well.”
+
+“Are you sure?”
+
+Uncertainty filled the space around them. Not even the towering figure could say for sure. He hadn’t bothered watching after Keros. The god was old enough to take care of himself—and his world. But it looked like no one had watched Keros. Neither the god nor the world.
+
+Maybe that had been a mistake. A foolish one. Something they shouldn’t have made in the final Cycle. It was their last attempt to change it all, and they could not afford to make a mistake like that.
+
+Or…
+
+“His heart is beating again.” New information formed in the towering figure’s mind.
+
+The extinguished Divinity had reignited once more, yet something was not quite right. Something was very wrong, though not even the Ancient God could tell what it was. The reignited Divinity escaped his scry. It… blocked him out.
+
+Couldn’t it be easy for once?

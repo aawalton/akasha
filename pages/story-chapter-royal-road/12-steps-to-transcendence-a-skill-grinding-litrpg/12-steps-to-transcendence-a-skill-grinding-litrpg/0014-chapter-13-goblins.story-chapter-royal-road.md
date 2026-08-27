@@ -1,0 +1,277 @@
+---
+id: 311636c8-a096-591b-aa9f-b4d6429199df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: Goblins"
+slug: 0014-chapter-13-goblins
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 14
+ownLength: 2412
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3721809/chapter-13-goblins"
+royalRoadId: "3721809"
+---
+
+Swearing out loud, Ben turned and bolted straight back into the dense forest. He didn't even bother looking over his shoulder to see how many were following him.
+
+The sudden burst of bloodthirsty screeches told him everything he needed to know.
+
+Crashing through the thick underbrush, he ignored the leaves and twigs hitting his arms and face. He just needed to put as much distance between himself and that camp as humanly possible.
+
+But the loud snapping of branches behind him wasn't getting any quieter!
+
+In fact, the noise was actually getting closer.
+
+Glancing back for half a second, his stomach completely dropped.
+
+A few of the disgusting green monsters were almost right behind him.
+
+And they were fast!
+
+Unbelievably fast for creatures with such short legs! They scrambled over roots and rocks on all fours like deranged monkeys.
+
+Are you kidding me?
+
+He was already pushing his battered body to its absolute physical limit! Ben decided to cheat. Channeling his mana, he pushed it straight down his legs and into his feet.
+
+Right out of his heels.
+
+A sharp blast of fire erupted from the bottoms of his feet, launching him forward with incredible momentum.
+
+Each time his foot hit the ground, he triggered another small blast to push himself farther.
+
+He was practically gliding over the uneven forest floor in massive strides. It was incredibly dangerous in a place with a hundred things to slam into or trip over, and also completely reckless, but he did it despite it draining his mana much faster than he liked.
+
+Still, it worked. The goblins quickly started falling behind as his speed doubled.
+
+Eat my dust, you ugly green bastards!
+
+His elated internal cheering was abruptly cut short by a whistling sound slicing through the air.
+
+Thwack.
+
+A crude stone tipped arrow slammed into the trunk of a tree just inches from his face.
+
+They had bows?
+
+Looking back again, he saw several of the slower goblins hanging back in the trees with crude wooden bows raised.
+
+Of course they have ranged weapons.
+
+Because his luck was just spectacular.
+
+Another whistle tore through the air, followed closely by two more. Ben immediately stopped running in a straight line. Swerving to the right, he fired a burst of flames from his left heel to forcefully push himself sideways.
+
+He started moving between the thickest trees he could find, using their massive trunks as shields against the incoming barrage of arrows.
+
+It was incredibly hard to steer.
+
+Using explosions to run was not exactly a precise method of transportation, and he still didn't have enough practice with [Fire Burst] to move around a place like a forest! He really should've thought about this and trained in a busier place back at the camp, but it never even crossed his mind.
+
+Cursing internally, he filed it away for later if he survived this.
+
+Even though he almost crashed into the trees several times, he managed to dodge the arrows.
+
+An arrow slammed into his left shoulder.
+
+Ben let out a scream with his teeth clenched. Ben almost tripped over his own feet as the explosive pain rattled his brain into rocketing adrenaline through his veins.
+
+It was the same shoulder the troll had smashed with a wooden club back at the military camp. The pain was so intense and overwhelming that his [Focus] skill failed him for a terrifying moment.
+
+Just what did they put on that arrow? It hurts so much!
+
+Hot blood instantly started soaking through his shirt.
+
+The heavy wooden shaft of the arrow bounced with every single step he took, sending fresh waves of torture radiating down his entire arm.
+
+He was going to die out here!
+
+If he kept running like this, they would turn him into a human pincushion! So Ben made a completely desperate, incredibly stupid decision.
+
+Stomping both of his feet hard onto the dirt, he triggered [Fire Burst] with a lot more mana than he'd ever used.
+
+BOOM.
+
+The ground beneath him shattered from the force of the explosion, and a massive pillar of fire erupted from the earth, launching Ben straight up into the air.
+
+For one brief, glorious second, he was actually flying, leaving the goblins and their stupid arrows far below him in the dirt.
+
+Holy shit, it actually worked!
+
+But that thought didn't even last a full second, because he'd never tried this before.
+
+With no way to steer or keep his balance in the air, he immediately started tilting backward.
+
+And once he tilted a little, he wildly fired another burst from his right heel, trying to correct his posture.
+
+But it went completely wrong.
+
+The uneven burst sent him spinning wildly out of control like a deflating balloon.
+
+The sky and the forest floor violently swapped places in his vision. He completely lost all of his upward momentum, and gravity reclaimed him.
+
+He fell fast and crashed into the thick forest canopy. Branches whipped his face and sharp leaves cut his skin as he tumbled through the trees, completely unable to stop himself.
+
+He hit branch after branch, bruising his ribs and legs, and sending fresh spikes of absolute hell through his arrow pierced shoulder. Somewhere along the way, he lost his dagger, and the arrow broke off, but the tip was still in his shoulder.
+
+Bursting through the layer of leaves, he plummeted the last however many feet completely untethered, his movement too fast to correct with [Fire Burst]. When near the ground, he finally fired with his legs facing the ground in hopes of softening his landing. He slammed into the ground.
+
+The air rushed out of his lungs in a ragged gasp. He just lay there for a moment.
+
+Everything hurt.
+
+Literally every single part of his body hurt so much it felt like he was on fire.
+
+But the sound of approaching goblins forced him to ignore it all. They were already catching up! Rolling over, he coughed a few times and forced himself back onto his feet.
+
+Flying hadn't worked at all.
+
+Therefore, cursing his own stupidity, he just resorted to running fast on the ground again. He fired small bursts from his heels, pushing his speed back up.
+
+But it was getting much, much harder to maneuver.
+
+His left arm hung completely useless at his side, throwing off his natural running balance. The more he tried to use it, the more it hurt. And the sheer speed he was traveling at made dodging the thick trees incredibly difficult.
+
+He kept having to adjust his footing constantly, slowing down just enough to avoid crashing headfirst into trees. And that slight decrease in speed was all the fastest goblins needed.
+
+Bursting through the bushes to his right, three of the incredibly fast goblins intercepted him. He tried to trigger a larger [Fire Burst] to blast past them.
+
+But they threw themselves through the air, not caring about their own safety.
+
+A foul smelling body slammed into his chest, knocking Ben backward. The goblin viciously clawed at his face and screamed in his ears.
+
+He hit the ground hard, and two more goblins jumped on top of him right away.
+
+They were surprisingly heavy for their size and pinned his legs and right arm to the ground.
+
+Rusty knives and filthy claws wildly slashed at his clothes and skin. Only the claws really hurt; the knives were too dull, but they were still sharp enough to worry him.
+
+[Focus]!
+
+He threw his head back and headbutted the goblin on his chest to stop it from biting his nose off. The monster screamed, falling back just enough for Ben to pull his right knee up.
+
+He fired [Fire Burst], and the point blank explosion obliterated the goblin's chest. It blasted out of its back, throwing the smoking corpse off of him.
+
+But the other two still clung tightly to his legs.
+
+He flailed his free arm and grabbed the wrist of the goblin trying to stab his thigh. His grip was awkward as he tried to pull it away, so he shifted his hips to throw off the monster's weight.
+
+He suddenly noticed the creature always leaned heavily forward when it tried to thrust its knife. Expecting the next attack, he jerked his body the other way. The goblin stumbled and lost its balance for a moment.
+
+Seeing an opening, Ben kicked with his free foot and slammed his heel into the monster's exposed knee.
+
+Then he blasted it.
+
+The goblin shrieked when its kneecap exploded.
+
+Ben was excited, though. He was actually starting to figure out how these things moved!
+
+And right in the middle of this incredibly stressful, life or death struggle, he noticed a notification.
+
+Would you like to learn the skill: [Unarmed Combat]?
+
+Yes! Obviously yes!
+
+Congratulations! You have learned the skill: [Unarmed Combat]!
+
+The change was completely instantaneous. It wasn't like he suddenly became a martial arts master with decades of experience. But he was hit with a sudden understanding of how his body worked.
+
+He instinctively knew exactly how to move his body to dodge. He knew exactly how to shift his hips to generate power, and exactly where a monster's center of gravity was weakest.
+
+It felt incredibly weird, like having muscle memory for things he had actually never done before in his life.
+
+Still, he immediately felt much better about the whole messy situation.
+
+So Ben stopped just wildly flailing his limbs. Grabbing the wrist of the goblin currently trying to stab his thigh, he twisted it hard to the left. He brought out the strength of a Tier 1 human and twisted.
+
+The monster shrieked when its joint popped out of its socket.
+
+Using the creature's own momentum against it, Ben stomped on the side of its buckling knee.
+
+The leg snapped with a sickening crunch.
+
+As the goblin fell, Ben slammed his foot directly into its ugly face and triggered [Fire Burst].
+
+The head exploded into a shower of blood and gore, painting the ground red.
+
+He scrambled to his feet and rushed forward before the third goblin could recover. Using his new skill together with [Fire Burst], he threw a sloppy but powerful right hook.
+
+He missed the monster's jaw completely, but it didn't matter. The punch was only meant to distract.
+
+Pivoting heavily on his right foot, he swung his left leg around in a wide arc.
+
+Just before his shin connected with the goblin's neck, he triggered [Fire Burst] from his heel to massively increase the swing's momentum.
+
+The goblin's neck snapped, its body launching sideways into a nearby tree.
+
+[Tier 1 Goblin slain. Essence gained.]
+
+[Tier 1 Goblin slain. Essence gained.]
+
+[Tier 1 Goblin slain. Essence gained.]
+
+[Mana Reinforcement Lvl 1 > 2]
+
+[Unarmed Combat Lvl 1 > 2]
+
+Breathing heavily, Ben wiped a smear of blood out of his eyes. This was actually working. He could fight these things after all.
+
+But then a blade slashed across his lower back. He cried out and stumbled forward, completely caught off guard. When he turned around, he saw two more goblins had already completely closed the distance.
+
+And looking past them, he saw dozens of bushes shaking and glowing eyes watching from the shadows.
+
+Way too many were catching up.
+
+He absolutely could not fight a massive horde of these things, [Unarmed Combat] or not. He charged the nearest goblin, faked a high punch, then dropped low. He swept his leg through the dirt and used a quick burst of fire so the goblin couldn't dodge.
+
+The goblin tripped and fell hard onto its back.
+
+Ben immediately stomped its throat, crushing its windpipe, then blasted its neck with [Fire Burst] to make sure it was dead.
+
+[Tier 1 Goblin slain. Essence gained.]
+
+He turned to face the second goblin, but only caught a blur as it charged at him with reckless abandon, its body tightly wrapped in rusted metal chains that clinked softly as it moved.
+
+Ben spun out of the way to dodge a wild swing from the goblin's dagger. He fired a [Fire Burst] right into its chest at close range.
+
+The blast sent the chained goblin flying back into the dirt, crushing its ribs and leaving deep, blackened burns on its torso. Still, the attack didn't punch through its chest like Ben had expected.
+
+A green light pulsed directly from within the goblin's chest, and Ben watched in absolute horror as the monster's shattered ribs snapped right back into place. The burnt flesh stitched itself together and healed right before his eyes.
+
+Gasping loudly, the chained goblin instantly scrambled back onto its feet and raised its dagger at him with a rotting grin.
+
+Are you absolutely kidding me right now?!
+
+A monster with a literal self healing skill?
+
+That was so unfair!
+
+If they had a dedicated healer, he would literally just exhaust himself to death fighting the exact same monsters over and over.
+
+He immediately turned on his heel to run.
+
+But he stopped dead in his tracks. The bushes all around him were parting. More than a dozen armed goblins stepped out of the tree line, their eyes completely locked onto him.
+
+While he was busy fighting the fast ones, the main horde had completely circled his position.
+
+He was entirely surrounded.
+
+Trapped in a tight, shrinking circle he had literally nowhere to run on the ground. Thus he only had one completely desperate option left.
+
+He had to blast into the air again.
+
+He knew it was dangerous, but broken legs due to landing were infinitely better than being eaten alive by a goblin horde. So pouring a lot of mana into his feet, he prepared to launch himself into the canopy.
+
+The goblins screamed, rushing him from all sides.
+
+An explosion launched him straight up, dust and leaves rushing up in his wake, leaving the lunging monsters to crash into each other below. He rocketed toward the sky, the wind rushing past his ears.
+
+He was actually going to make it!
+
+But before he could even clear the lowest branches, a metallic rattling sounded from below and something heavy and cold wrapped around his right ankle.
+
+Looking down, Ben saw a rusted iron chain pulled completely taut. And at the other end of that chain on the ground was the healer goblin.
+
+And it looked pissed.
+
+It pulled the chain backward and Ben's upward momentum was violently halted. And then, he was dragged back down into the screaming horde.

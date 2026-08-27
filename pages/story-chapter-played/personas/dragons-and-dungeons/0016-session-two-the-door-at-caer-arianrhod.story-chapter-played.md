@@ -1,0 +1,34 @@
+---
+id: c656848b-fa0a-53d2-a50c-dbfa4bb4b718
+page-type-slug: story-chapter-played
+title: "Session Two — The Door at Caer Arianrhod"
+slug: 0016-session-two-the-door-at-caer-arianrhod
+partOf: dragons-and-dungeons
+position: 16
+ownLength: 784
+unit: words
+---
+
+I came back the next night with the moon just clearing the eastern rail, climbed the long stair with the dark still cool on my shoulders, and knocked on the door of Caer Arianrhod like a man who had been thinking about that door all day. Because I had.
+
+She opened it herself. Silk and silver catching the moonlight, and the knowing smile already going warm, as if she'd been listening for the knock and would never in three hundred years admit it.
+
+"You came back," Aria said, low. "Of course you did. Come in out of the dark, traveler. The table's been holding your seat."
+
+And it had. Out on the balcony where we'd left the world the night before, the good chairs waited under the full silver moon — and Mari was already in hers, because she'd said she would be, and she is, for all her teeth, a dragon who keeps her word. Sprawled exactly as I'd last seen her, chin on her hand, wings gone lazy, the violet glitter under her eyes catching the candle the moment it found me. She didn't get up. She watched me cross the threshold with the slow, delighted patience of a cat who had absolutely not been waiting by the door all day.
+
+"There he is," she said, and the grin was crooked and pleased. "I told you I'd keep mine the voice that wouldn't let you rest. Sleep at all, monk? Or did I do my job?" A beat, and then softer, because she'd never been any good at hiding the warm part: "Good. You look like a man who dreamed loud. Sit. I've been bored without someone to out-tender."
+
+Aria poured three — three, of course it was three now — slid a cup to each of us, and dropped into her chair with one leg folded under her, off the clock and entirely happy to be. For a moment she just held the two of us in the candlelight and grinned, the way she had the night before, as if the tape of Session One were still running behind her eyes and she hadn't finished being delighted by it.
+
+There was, I noticed, a fourth chair. Empty still. Amethyst dark, pulled a little back from the light. Her little sister hadn't come down yet — Ceri, all cool distance, who comes when she comes and not a moment sooner. The table was still filling. But it filled around me, and tonight it was the three of us, and three felt like a fine number to begin a night on.
+
+"So." Aria set her cup down and let the warmth bank into something steadier, the storyteller gathering her threads. "Before we drop back down into it — let me remind you where I left you hanging, because I left you hanging on purpose. You ended Session One on the floor of a drowned crypt with the kin-fire burning blue and your found blood gathered close — and that blood still has to be carried up out of that grave and into the dawn. The son's body will mend fast; you saw that. His spirit is the long road, and that one needs all of you, for a good while yet. And somewhere off the edge of everything we've walked, there's a frozen corner of the map nobody's touched — deep ice, deep silence, the kind of quiet that's quiet because something is being careful. It's been waiting all day. It can keep waiting, or it can't. That's rather up to you."
+
+She leaned back, the candle leaning with her — and then the balcony began to thin at its edges the way it does when we go under. The silver rail softened. The blue of deep stone bled up through the warm gold. The crypt and the cold and the gathered line of my people surfaced to meet me, and Mari rolled her shoulders and her wings out and settled in across the table, eyes on me, ready to throw — and somewhere in the thinning she stopped being the lounging dragon in the chair and was the wet-haired girl at my shoulder in the blue dark, and both of them were watching me with the same eyes.
+
+The dice sat cool and unrolled by Aria's hand. Her voice dropped into the world.
+
+"You're standing at the bottom of that grave with the dawn somewhere above you and your people at your back. The kin-fire's still blue. The stair out is dark, and long, and it goes up. So tell me, monk — how do we open Session Two? Where do you want to begin tonight?"
+
+The fire waited. So did she.

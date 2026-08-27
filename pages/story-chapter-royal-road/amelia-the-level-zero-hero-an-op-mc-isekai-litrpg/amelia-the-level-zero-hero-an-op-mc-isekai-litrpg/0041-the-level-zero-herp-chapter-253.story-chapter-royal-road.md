@@ -1,0 +1,163 @@
+---
+id: 9ac6cd19-7982-541e-b6d3-48c7ab12a101
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Herp Chapter 253"
+slug: 0041-the-level-zero-herp-chapter-253
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 41
+ownLength: 1954
+unit: words
+publishedAt: 2024-08-25
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1773591/the-level-zero-herp-chapter-253"
+royalRoadId: "1773591"
+---
+
+“They’re recreating the Void?” Kallistus Kal’s third eyes flickered, darting around the endless expanse of space.
+
+The Angels were nothing more than a speck from this distance. In fact, to the ordinary eye, they might as well have been invisible. After all, they were very likely billions of miles away. But with the [Hero King]’s third eye, he could see them all clearly.
+
+And a growing hatred built up inside of him.
+
+Kill them— SHOW THEM NO MERCY!
+
+The voice of the Fal-Deus resounded in the mini-Void in Kallistus Kal’s heart. But he shrugged away the commands uttered his way.
+
+It was irritating how he could so clearly hear the voice of the Fal-Deus again now. When he first absorbed it into the mini-Void, it had gone completely silent. However, its words crept back to him as he slowly gained more of its power. First, in whispers. But now, he could hear its screams.
+
+Even still, he ignored the Fal-Deus as he focused on what Amelia said: that the Angels were recreating the Void.
+
+He swept his gaze all around him as space itself began to fade away. The figures of the Angels behind the translucent and crystalline sphere vanished, and so did all of Vacuos. The [Hero King] narrowed his eyes at the surface that was keeping them in, and he knew this Void was far more powerful than the mini-Void Kallistus Kal had created.
+
+“There is no escape,” he whispered, before turning to his enemy. “It seems they want us to kill each other in this space.”
+
+Even if he gained the full power of the Fal-Deus, escape was going to be impossible. This was his prison now. And while he thought he would have lamented this predicament, for he could not get his revenge, his anger was currently only directed at the girl who opposed him.
+
+So he prepared himself for the continuation of their battle, but Amelia ignored him.
+
+“I’d rather not stay in this dreary place,” Amelia said as she flew upwards. “Just give me a second, and we’ll continue our fighting, alright?”
+
+“You overestimate your own power. Not even you can break through the Void,” the [Hero King] started.
+
+It was a ridiculous notion— to think that anyone would be able to escape from this prison created by all of the Angels of Vacuos. Even if Kallistus Kal had been surprised by the powers displayed by Amelia, he knew that she had to have limits. And right now, she was pushing her own boundaries.
+
+Or so the [Hero King] thought.
+
+“You may try to find another path of escape,” he said as he raised his broadsword, ready to strike Amelia. “But I will kill you—”
+
+However, he couldn’t finish. Because Amelia shot away from him as he blinked. Her entire body shone with a brilliant white light, glowing brighter than the sun in the middle of the day. She soared through the expanse of this newly-formed Void before clashing with its edge.
+
+For a moment, nothing happened. And the [Hero King] just scoffed.
+
+“I told you so…”
+
+But then his eyes flickered as a spiderweb crack began to form throughout the Void. He stared with wide eyes as all around them reality began to collapse.
+
+And the Void shattered with a single strike.
+
+—--
+
+Principality Z1 knew that this prison was impenetrable. It had held back the Fal-Deus for tens of thousands of years. And while it was not easy to create a Void, with all the Guardian Angels of Vacuos gathered in one place, their first attempt proved to be successful.
+
+She flew back away from the empty space as she nodded at herself. Looking towards the other Angels zipping around her, she mentally ended her Technique, Rally To Me.
+
+The Guardian Angels immediately slowed down to a fraction of the speeds they had been traveling at just moments ago. They had been given a significant speed boost thanks to her, so they could arrive at this destination as soon as possible. But now, there was no longer a need for her to empower them any longer.
+
+After all, Rally To Me was a substantially taxing Technique. And it only worked when the other Guardian Angels were heading her way or within her vicinity. But Principality Z1 couldn’t keep it up for long.
+
+That was why she was just glad that the vessel of the Fal-Deus and that strange human had accepted their imprisonment without fighting back.
+
+Principality Z1 flew back, about to send a mental command telling all the other Guardian Angels to return to their planets. But then the empty space before her suddenly cracked.
+
+Her single eye flickered as she looked down, watching what seemed to be a part of the world itself collapsing. However, it wasn’t the world of Vacuos that was breaking apart. It was the Void that they had created.
+
+Impossible, she thought as the blue shell that had just been created revealed itself, before falling apart. How is this possible? I was certain it was a perfect Void.
+
+But there was no point in denying reality. The newly-created Void was destroyed from an attack from the inside. The surrounding Angels froze as they stared at the distorting space returning back to normal. Principality Z1 tried to process all possible explanations.
+
+It must have been imperfect somehow. I must have not noticed its imperfections, she tried to conclude.
+
+And as the shards of the broken prison faded away, the strange human sheathed her sword and turned back to the vessel of the Fal-Deus.
+
+“Alright, we can continue our fighting now.” The strange human dusted her hands off. “But first, let’s get away from these annoying drones.”
+
+The vessel of the Fal-Deus stared at her. “How did you—”
+
+And she grabbed him, before throwing him far away, shooting past the Angels in an instant. She flew after him as Principality Z1 took a moment to realize what was going on.
+
+The Principality immediately spun around, seeing her two targets disappear into the distance. She raised her hands as she shot forward and gave chase to them.
+
+Rally To Me! Z1 called her Guardian Angels after her.
+
+And hundreds of Guardian Angels began flying through the expanse of space all at once. They tried their best to keep up with the Principality. But Z1 didn’t slow down for them in the slightest.
+
+She could travel across the universe in only an hour in total. That was how she knew she was going to catch up with the strange human and the vessel of the Fal-Deus, despite their headstart.
+
+The two of them were already fighting again as they flew ahead in the vastness of space. They traded blows. Their blades clashed, sending ripples across all of Vacuos. The vessel of the Fal-Deus roared, swinging wildly. Meanwhile, the strange human easily parried his swings as she flew alongside him.
+
+Behind Z1, she could see her Guardian Angels slowly disappearing— being left far behind by her and their targets. Hundreds of them became dozens, and dozens began a single one, and then there was none left except for the Principality.
+
+She activated every single one of her speed Techniques to catch up to the strange human and the vessel of the Fal-Deus. And yet, the distance between her and them didn’t grow and closer.
+
+Even though they weren't fleeing, but were instead fighting. They were actually getting further away.
+
+That’s impossible. I am the Principality assigned to protect Vacuos. I cannot… I cannot…
+
+And the realization settled in as Z1 remembered the perfect Void being destroyed.
+
+She was too weak.
+
+It wasn’t even a comparison.
+
+There was no way she could keep up with them at all.
+
+Whoever that human was who was fighting the vessel of the Fal-Deus was far stronger than any Principality. In fact, Z1 was certain that that human was even more powerful than a Dominion.
+
+Perhaps only a Seraphim or a Throne could put a halt to this. But she didn’t belong in this battle at all.
+
+Z1 slowed down to a halt, watching as her targets got away with ease. As they fought to the edge of the universe— then further beyond.
+
+—--
+
+Kallistus Kal and I soared through Vacuos as we traded blows. Not once had he been able to land a proper hit against me. But now, he was starting to get used to parrying my attacks— even ones which I was striking at him at full-speed with.
+
+And that was not all. Now I actually had to actively avoid his attacks. Because if they did land, they could have posed a small threat to me.
+
+I ducked under a slash aimed for my head, before countering with a thrust to his neck. He blocked it as he flew further back. And I gave chase. Even as we passed by black holes and nebulae— as we exited galaxies and superclusters. We zipped across the universe in a battle that threatened to destroy all of existence in Vacuos.
+
+It was impressive. His rate of growth was like nothing I had ever seen before. Just earlier, he had barely been strong enough to destroy a few planets. However, right now, I was certain if he tried, he could lay waste to the entire universe.
+
+He was harnessing the full power of the Voidgod. That was his full potential. But that fact came with risks.
+
+“You can’t keep this up much longer, Kallistus Kal,” I said as I thrust my blade forward, aiming for the [Hero King]’s neck. “You will lose your mind to the Voidgod.”
+
+“You underestimate me, girl!” he screamed as he blocked another attack with his broadsword. “My resolve is unwavering! I will absorb all of the Fal-Deus and destroy Vacuos!”
+
+He tried to counter with a swing for my neck, which I narrowly dodged. We continued dancing throughout the universe, making the starways the battleground of our duel. My eyes flickered as  the [Hero King] swung down at me again.
+
+I dodged the attack, only to watch thousands of stars behind me be eradicated from the force of his swing. He was too powerful now. He was a danger to the innocents that were standing away from this fight.
+
+I sighed as I knew what I needed to do.
+
+“Even if you fully absorb all of the Voidgod’s power without losing your mind, that’s not going to happen,” I explained as I kicked him back.
+
+He let out a scream of agony as he flew back. And I flew after him, speaking casually.
+
+“You really don’t understand, Kallistus Kal. Even if you have the full power of the Voidgod at your disposal, you cannot defeat me.”
+
+Kallistus Kal caught himself and let out a guttural cry that shook the universe. His blade expanded into the size of a star, which he swung down at me. With a shout, I sliced through the sword, and the [Hero King] stared at me in shock.
+
+“Because I have killed the Voidgod before,” I continued, before landing a punch on his face.
+
+He went flying back even further, tumbling straight for the edge of the universe. I shot after him as I continued speaking.
+
+“But that’s not all.”
+
+The [Hero King] tried to catch himself, only for me to reach him again. This time, he had no blade. So he tried to land a punch on me, which I dodged.
+
+“I haven’t just killed the Voidgod. I have also killed the Voidgod thousands of times.”
+
+“You—” He blinked.
+
+“That’s why I will end this now,” I cut him off.
+
+And I grabbed him by the face again, before shooting straight out of the universe of Vacuos with him in tow.

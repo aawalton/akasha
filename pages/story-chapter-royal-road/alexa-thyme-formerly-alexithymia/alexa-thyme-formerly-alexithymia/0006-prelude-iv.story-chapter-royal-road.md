@@ -1,0 +1,91 @@
+---
+id: 9bd23d36-56f1-52cb-8ce6-154d40a05dfa
+page-type-slug: story-chapter-royal-road
+title: "Prelude IV"
+slug: 0006-prelude-iv
+partOf: alexa-thyme-formerly-alexithymia
+position: 6
+ownLength: 1624
+unit: words
+publishedAt: 2023-03-22
+link: "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1145672/prelude-iv"
+royalRoadId: "1145672"
+---
+
+Prelude IV
+
+The beast had moved, scattering to the wind, trying desperately to salvage the plan, its purpose for being here. Lashintax tried desperately to clean up the mess that she had now been set to deal with. With only one, her goal of providing a stationary point of power in a open portal were severely compromised. Now she had to sacrifice more of herself. Her body now needed to become the gateway that she was to create.
+
+Focusing on the goal, she began sacrificing her blood on different parts of the node. This wouldn’t be much, just enough to create a Tier I rift, a Tier II rift at most, if she managed to sacrifice herself entirely for the cause, but she knew her black little heart was too weak for such a commitment. As it stood, her blood should prove to be enough. With the corruption of this one node she would be able to summon forth help. The help of her masters, help that would help her go on to take control of the node her sister died while trying to convert.
+
+The entire time Lashintax moved, she did so pretending to be calm and in control, yet she could not shake that feeling, there was a monster coming, that much she was certain of. A monster that she would need help with preventing at all costs. Desperate times required desperate actions, somehow the elves had done it, there was no one else, no further threat that could have mounted such an attack that would have killed her sister so quickly. Even the masters were confused by the abrupt way that her brood sister had perished. That was why she had been given the order to proceed now with the nexus conversion. A horde of monsters were on standby ready and waiting for the portal to be activated. Once the portal was completed, an army would come forth, offering her aid in an attempt to help conquer yet another planet for the masters.
+
+There was of course one weak spot to her proving to be the catalyst in this conversion process. That weakness meant that if she died, then the connection to the realm of the masters would be severed. To this end Lashintax was excited, nothing said job security like being the only reason work can get done. With her being the soul source of completion, her masters had been quite generous with their rewards, providing her with supporters and followers of the world. All sleeper agents had been awakened and given one command, “help Lashintax,” and that is what they were all doing.
+
+Even if they were nowhere near her current ring of power, this site was the most powerful site that was supposed to be given to their leaders, once they managed to arrive, but due to the situation Lashintax had been promoted and given permission to take control of the site of power in a land the dragon knew tangentially as Wiltshire, England. Here large stone tablets that were perfect places to offer blood sacrifices were laid out everywhere, allowing her to form the bond of connection to the nexus easily and convert the massive spiritual power of the world.
+
+Then once the connection to the nexus was complete, Lashintax began reciting the ancient words of power. Words that were provided by the masters, words that filled Lashintax with a feeling of awe and power.
+
+Zzipp.
+
+Lightning arced through the air, striking the land, right where the arcane runes of binding bound this land to the realm of the masters. It was almost as if the planet itself was semi-aware, and lashing out, trying to resist the forced servitude that awaited it. Yet, such minor attacks would be meaningless in the grand scheme of things. Even though the elves might have been lucky with their catching her sister Mashintax unaware, Lashintax knew nothing could stop her now.
+
+Rriippp.
+
+Whoosh!
+
+A tear in the ground formed, splitting the land apart. Soon a giant minotaur hand appeared, reaching up as it tried to tear its way through. Seeing the rift, Lashintax let out a sigh of relief, as she slowly lowered her tired body to the ground. Soon, the armies of the master would come fort, since they came from her portal, they would all be under her command, forced to follow her rules, to protect her. Soon, she would be the supreme ruler of this minor world, while Lashintax’s future goals were much loftier than ruling such a minor planet, she still felt content. With this planet as her own, she could soon have more under her command. This would be just the first stepping stone, on her way to having control of an entire sector. All because she and her sister pounced on a chance to advance, all because she had survived while her foolish sister succumbed to her own arrogance.
+
+“GRUHH!” The giant minotaur bellowed out a massive roar, as its head now filled the hole. Soon it would only be a matter of time before the first of her generals were free to protect her. Still it had been a lot, almost too much for her small body, had it not been for the borrowed power of the masters, her frail body would have died off long ago. As it was, she was still barely able to keep the blood flow active to keep the portal active. Still that didn’t matter, the only thing that mattered was that she keep this going, that she kept channeling her life force into this portal. Nothing could stop her.
+
+“Finally, you stopped moving. I thought I scared you off.” A cold voice said, one that had awoken her from her slumber. The same voice she heard call out to her, on the night that her sister had died. The same voice that she heard calling out to her every time she tried to close her eyes.
+
+Turning her massive neck Lashintax turned to look at the creature that spoke her draconic tongue so fluently and was surprised to see it was a human. A tall human that had a massive glowing sword stuck to her back.
+
+Seeing her, Lashintax felt a surge of instant recognition fill her, as this was the same image that haunted her dreams. It was the image of her sister’s killer.
+
+“You!” Lashintax roared, as she began to rise higher.
+
+The human just smiled brightly, a half feral smile filling her lips as she replied back, “me!”
+
+OOF!
+
+Lashintax stirred from her slumber, it had been a dream. It had all been a dream. The loss of blood was making her light headed, and causing her to see things. Calming her still racing heart, Lashintax looked over, hearing the struggles of the giant Minotaur General still trying to pull its way free. By now it had its head and one arm free. Soon it would only be a matter of time before it was free and ready to do her bidding. Even now, she could feel her mental connection to the beast, its senses were her own. Its thoughts were hers to guide.
+
+“Gah-MOO!” The massive beast thought as fear wracked the mind of the beast.
+
+Lashintax feeling the beast’s fear in the connection first looked to the monster, only to see it staring off desperately in the distance behind Lashintax. Lashintax still sluggish from the blood loss turned and found the same human female, again.
+
+Another Dream?
+
+“Finally, you stopped moving. I thought I scared you off.” The monstrous human said, as she smiled widely a feral gleam filling her eyes.
+
+Only now, did Lashintax realize the dream for what it was, a prophecy. No matter, she had the advantage. She was in the air, and this human was so small. Besides, all Lashintax had to do was wait, surely the minotaur would be more than enough for this creature.
+
+Lashintax looked, and turned towards her minion, urging the foul creature to come faster. Then Lashintax looked on in horror as not one, but four exact copies of the warrior spawned off and charged towards the defenseless minotaur, swords out and burning brightly.
+
+Seeing the humans run, fear gripped Lashintax as she knew she should escape with her life, but all she could do was watch on in horror.
+
+Twitch.
+
+“Huh!” Lashintax stirred awake, “another dream?”
+
+Icy sweat rolled down Lashintax’s back, as she turned to look in the direction where the monster with a sword had appeared the previous two times.
+
+Nothing.
+
+Phew.
+
+Letting out a sigh of relief, Lashintax rested.
+
+“Get up you fool! Your army is being destroyed!” The voice of the Master spoke in her mind.
+
+Lashintax stirred, shaking her head, big mistake, as a rippling wave of distortion could be felt. Finally, Lashintax realized what had been stopping her, what had been dulling her senses. Illusion magic?
+
+Then with that thought, she was able to disperse the worst of the spells lingering effects. What she saw, sent shivers down her spine, four identical monsters charged through the battle field, singing tunes. While Minotaur heads, goblin corpses, and even shade wraiths sat dissected upon a battlefield.
+
+“Ah, you woke up. Don’t worry, we will still have time to play. But first, we need to send a message to your masters.” The monstrous human said, as she turned to face Lashintax, as the other three continued destroying everything in their path.
+
+Lashintax still groggy felt her mind addled, as she tried to catch up, the blood loss was getting to be too much. Soon she would die or pass out from her wounds.
+
+Then as one, all four copies cried out loudly and in perfect unison, “WE ARE NOT AFRAID!”

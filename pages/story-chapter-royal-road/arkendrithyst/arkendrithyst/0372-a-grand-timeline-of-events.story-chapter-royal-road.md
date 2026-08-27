@@ -1,0 +1,145 @@
+---
+id: 13021449-6215-5791-b1e8-a8b633634476
+page-type-slug: story-chapter-royal-road
+title: "A Grand Timeline of Events"
+slug: 0372-a-grand-timeline-of-events
+partOf: arkendrithyst
+position: 372
+ownLength: 2196
+unit: words
+ownProgress: 2196
+publishedAt: 2023-01-22
+link: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1093963/a-grand-timeline-of-events"
+royalRoadId: "1093963"
+markedReadAt: "2026-06-29T22:20:39.955Z"
+---
+
+1437
+
+Planar Wizard of Benevolence, Erick Flatt, arrives on Veird, accompanied by his daughter, Jane Flatt.
+
+The Wizard invents [Call Lightning] then ushers in a new age of Particle Magic via talks in the Mage’s Guild of Spur, in the Crystal Forest. From there, he begins his grand ascension to the world stage. Though his accrual of power seems like that of a normal archmage who has found his Truth, he is, in reality, a Wizard, though the world will not know this fact for another year and a half.
+
+The Wizard gains a deep hatred for the Shades due to various events involving the threatening of his daughter, and all the various true stories he has heard over the years. He still has trouble killing monsters.
+
+The Wizard briefly attends Oceanside, becoming a friend of the Headmaster.
+
+The Wizard invents many different spells, from [Luminous Beam] to [Control Weather], and learns of the Remake Quests, which truly begins his rise to personal power, through gaining a deeper understanding of magic.
+
+Candlepoint arises out of the Crystal Forest, near the Wall of the Wasteland Kingdoms, bringing even more new magic into the world.
+
+The Wizard takes control of Candlepoint from Shade Bulgan.
+
+The Wizard, with the help of Atunir, Sininindi, Rozeta, and Melemizargo, creates Yggdrasil, the World Tree.
+
+Last Shadow’s Feast begins and ends, changing Veird forever.
+
+1438
+
+The Wizard attempts a vacation in order to walk The Worldly Path.
+
+The creation of a method of reversing antirhine poisoning, and the unstable city state climate of Nelboor and the Songli Highlands, results in the Chelation War. The accepted death total is 4,250,000. Some sources claim this number is much higher, or much lower. Over the next few years, another 550,000 people will die in the Highlands and across Nelboor due to failures of population support systems. Historians also claim this number is much higher, and much lower.
+
+The Wizard moves on to the grasslands north of the Highlands, and interacts with the Grass Travelers. This time is crucial to understand, for it forms the basis of how the Wizard will interact with the rest of the world from then on. Everything from how House Benevolence operates, to the politics installed in the Sovereign Cities, to the Greater Candlepoint Area, started here, in the grasslands of Nelboor. (Some historians claim that House Benevolence truly started on the Wizard’s homeworld of Earth.)
+
+Stepping on a malformed teleport pad takes the Wizard to the Core, where he learns for the first irrefutable time that he is a Wizard. He invents [Renew] during this time.
+
+The Wizard meets Geode Stratagold and gains the approval of the wrought, though how much Stratagold knows about the Wizard being a Wizard is up for debate. The Wizard himself has said that Stratagold did not know about his true Status until later, when he announced himself to the world.
+
+The Wizard is fairy-napped to Ar’Cosmos.
+
+The creation of Elemental Benevolence precedes the formation of [Gate] by a matter of days.
+
+The Wizard installs himself at Candlepoint and announces himself as a Wizard, while also creating [Reincarnation] and establishing House Benevolence. The first Gates are established, bringing a Gate Network back to Veird.
+
+The Dragon Exodus is forced upon the greater world by a confluence of The Fairy and Rozeta, in an effort to make Veird less dangerous. Soon after, the Wizard voluntarily becomes draconic, enabling him to Paradox dragons away from the Dragon Curse, massively increasing the power of House Benevolence.
+
+The Gate Network expands greatly around each planting of Yggdrasil. Currently, Yggdrasils exist in Candlepoint, Treehome of the Forest of Glaquin, Stratagold, Holorulo of Songli, and inside Benevolence Itself.
+
+The Sovereign Cities declare war on The Wizard, and are remade in response.
+
+The Wizard hosts Shadow’s Feast. The Teleport Exodus begins, and finishes within the first week of the new year. The Dungeon Exodus has only just begun.
+
+1439
+
+The Gate Expansion Era begins, with House Benevolence massively increasing its power from a single location, to countless locations the world over, each of them working to support a great expansion of the Gate Network.
+
+Within the first month of the new year, The Wizard suffers his first of many assassination attempts of the year. None of them succeed. All true collateral damage done in those attempts is reversed by The Archlich of Necromancy Itself; the consort of The Wizard.
+
+The [True Resurrection] debate reaches new heights, thanks to the [True Resurrection]s inside of dungeons, and to The Wizard’s consort, The Archlich, teaching The Wizard [True Resurrection].
+
+The first effects of the Dungeon Exodus are noticed, as the prevalence of monsters is greatly reduced the world over. This has a temporary magnification on the price of magical items. This effect will not lessen until years later.
+
+House Benevolence opens its Grand Dungeon to the public. It is run by The Archlich, and is similar in scope to the famed Armory of Ar’Kendrithyst. Other dungeons are found and formed into avenues of power for the greater public, and for many private industries and groups.
+
+[Renew] comes out in the Open Script. This has major worldwide effects. Generally, the defensive natures of locations become much, much stronger, and for the first time in the history of Veird, the defense/offense dynamic swings heavily toward defense.
+
+Another Yggdrasil is planted on Nergal, followed by another planting on Quintlan. There are 7 Yggdrasil currently existent on Veird at this moment.
+
+The Dungeon Guild is formed. Backed up by House Benevolence and many other major powers of the world, the Dungeon Guild rapidly becomes the authority on dungeon safety and protocol. They begin to eradicate dangerous dungeons, and standardize public dungeons.
+
+By the end of the year, 20% of the major traveling infrastructure lost by the Teleport Exodus is restored by House Benevolence, and the greater portion of the Wayfarer’s Guild is subsumed by House Benevolence. Final holdouts of the Wayfarer’s Guild will eventually be bought out by House Benevolence in the following years.
+
+Shadow’s Feast is a non event. The world cheers.
+
+1440 - 1445
+
+The Reestablishment Era.
+
+Six years of mostly peaceful expansion begins.
+
+House Benevolence, Candlepoint, and their new world order, come into true power, with Erick Flatt as the single most powerful person on Veird. He is the Apparent King with his crown of black horns, who ends conflicts with single declarations. Numerous attempts are made on his life, with many claiming The Wizard is Melemizargo in human guise, but each assassination ends in the ‘assassin’ getting [Reincarnation]ed and [Blessing of Empathy]ed, which causes many to speculate that the assassination attempts are really attempts to cut ahead in the [Reincarnation] line.
+
+Melemizargo publicly declares that the Wizard and he are not the same person. This causes a sudden rise in assassination attempts, and this time they are real.
+
+[Lesser Reincarnation], now known as [Reset Status], becomes usable by Registrars, allowing for anyone to reset their Status to 0.
+
+[Reincarnation] becomes something that is winnable via scholarships, or great advancements in magic, or by proving oneself as beneficial to the world in some way. The assassinations stop, but it is debatable if this is due to this newly approved avenue of getting [Reincarnation]. Perhaps The Wizard has simply decided to stop letting people make attempts on his life.
+
+The Crystal Forest is transformed into an actual forest. All remaining crystal mimics and crystal agave only exist inside of the thousand-kilometer Greater Kendrithyst Wild Dungeon area.
+
+The Wayfarer’s Guild is finally and completely bought out by House Benevolence. Many of the previous trade routes that existed on the Surface are replaced by the Gate Network. There will always be problems, considering the change from complete ease of use of [Teleport], to the new necessity of actually traveling from location to location, but many of the initial problems of the Teleport Exodus are solved.
+
+Many scholars claim that the Teleport Exodus solved more problems than it created, for the removal of [Teleport] made war a lot harder to do, logistically. Equally important to stability was the Dungeon Exodus, and to a much lesser extent, the Dragon Exodus. All of these events came together, creating the first real True Peace on Veird, since ever. This leads to a massive increase in births, and in the expansion of civilization. There is some debate on the name of this new, unprecedented generation, but ‘bloomers’ becomes generally approved.
+
+Through a council of Geodes, House Benevolence, Oceanside and the Arcanaeum Consortium, The Life Binder, and many others, the [True Resurrection] debate officially fails to reach an acceptable, international conclusion. Many believe the debate will never be settled.
+
+The act of Benevolent Killing has reached an international conclusion. The murder of a person who is found to contain Benevolent markings is unlawful, and anyone found to contain a marker is to be thoroughly investigated before actions are taken. Any Benevolent Dragon deciding to act on their own will have their actions personally taken into deep consideration by The Apparent King.
+
+1446
+
+The Wizard of Anarchy, known simply as Holo, ascends to power in Death Throne, rapidly creating The Stairway to the Edge. He is swiftly eliminated by the combined efforts of House Benevolence, Oceanside, Ar’Cosmos, and several other organizations. Melemizargo issues a formal apology, as the Wizard of Anarchy was a former cultist of his.
+
+The Blue Wizard appears two months after the death of the Anarchy Wizard, beyond the walls of Oceanside. She throws her considerable power against that whole island. The Node Network surrounding Oceanside easily repels the Blue Wizard for long enough for other major forces to come into play, but then the Blue Wizard does something. The exact nature of this ‘something’ is unknown. The fight is suddenly over without explanation. No one is quite sure what the Blue Wizard did, or who undid the Blue Wizard’s power, but everyone agrees something happened to the oceans in those moments.
+
+1447
+
+The Life Binder, Messalina, and the Wizard of Chaos, known sometimes as Destiny, bring to an end a partially-hidden campaign of unification in Nergal. Over the last four years, many different hidden towns, villages, minor city states, and minor nations in the deep jungle of Nergal, finalize their incorporation into the Freelands, and the practice of slavery is agreed to be outlawed. Slavery will never truly be abolished due to the nature of demonic contracts and the incani afterlife, but here in the Freelands, slavery is mitigated to the same level practiced in the Wasteland Kingdoms. The Freelands receive immediate support from House Benevolence’s Gate Network, now that they can agree and adhere to Standard International Law, though it is suspected that House Benevolence has been providing the Freelands with Gate Network access for many years prior to this.
+
+House Benevolence has many, many hidden Networks all across the many non-compliant parts of the world.
+
+1448
+
+Thanks to House Benevolence’s efforts, the first true overtures of peace are brokered between The Greensoil Republic and the Wasteland Kingdoms, marking a historic non-violent point of the Quiet War and maybe even the Forever War. A direct Gate Network expansion is created between the two nations, to allow for the easier transportation of goods between the Republic and the Kingdoms.
+
+Seven months later, ten simultaneous dungeon breaks occur inside Greensoil’s borders, and the Republic blames the Kingdoms. There is almost a war, but the Apparent King steps in and stops the war before it truly begins, showcasing a vast increase in personal power which includes spells such as [Time Stop]. The expanded Gate Network which lay between the two Quietly warring lands is removed, forcing the Republic and the Kingdoms to go through Candlepoint if they wish to trade again. An uneasy Quiet War tension settles into Candlepoint.
+
+1449
+
+The Gate Network begins to truly expand into the Underworld.
+
+It is theorized that two more Yggdrasils were planted in the depths sometime in the last two years, but their locations are unknown and so is the timetable. There are likely 9 Yggdrasil now on Veird. The locations of 7 are known. Candlepoint, Holorulo, Stratagold, Inside Benevolence Itself, and at Treehome. Two Yggdrasil also reside at New Towry, at the western end of Archipelago Nergal, near the Freelands, and at the outlet of the Ar’Civ river delta, in Quintlan, near the Fractured Citadels.
+
+Early 1450
+
+Everbless, Yggdrasil’s twin, becomes publicly cognizant at the Grand Blue Church of Sininindi, at Storm’s Edge.
+
+Late 1450
+
+Three major events happen within days of each other:
+
+Kiri Flamecrash, the apprentice of the Wizard, completes her Worldly Path, becoming the second person on Veird to do so. She becomes the Gatemaster of House Benevolence’s Gate Network.
+
+Erick Flatt, The Wizard of Benevolence, goes missing. Quilatalap, the Archlich of Necromancy Itself, also goes missing.
+
+The Wizard’s first and only known repro, Ezekiel, is discovered the same day that Kiri Flamecrash ascends to Gatemaster, when Ezekiel attempts to leave House Benevolence’s master dungeon without having been on the list of entrants. Ezekiel rapidly declares that he will provide assistance to House Benevolence when called upon. Ezekiel then utterly vanishes into the labyrinthine, world-wide systems of power and places that House Benevolence commands.

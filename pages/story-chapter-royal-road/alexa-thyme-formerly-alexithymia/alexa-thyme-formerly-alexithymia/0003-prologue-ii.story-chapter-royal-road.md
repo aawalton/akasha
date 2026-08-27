@@ -1,0 +1,125 @@
+---
+id: dee0b33b-fb9d-5558-9524-dcc41ffce36e
+page-type-slug: story-chapter-royal-road
+title: "Prologue II"
+slug: 0003-prologue-ii
+partOf: alexa-thyme-formerly-alexithymia
+position: 3
+ownLength: 1589
+unit: words
+publishedAt: 2022-11-24
+link: "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1048234/prologue-ii"
+royalRoadId: "1048234"
+---
+
+Prologue II
+
+Thirty-five miles, or twenty-seven as the crow flies, that was the distance from Bottomless Gorge to the campus proper of Dawning Light. A lot of that was the fact that a few roads couldn’t be built on certain properties until much later. Others had drainage pathways that were hard to replicate, until much later. What that all meant was Alexa got home late.
+
+Well, Alexa was not as late as she had originally intended. Originally, she had intended to be with Gina and Julie in the dungeon until far later in the afternoon. As it was, she was technically a half day ahead of schedule. While from a dungeon pass economy of use perspective, she wished she had gotten more out of the stay. She could not be sad with her actual results in the dungeon. Of course, what those gains cost her in terms of her friends and social life, well that was an entirely different matter.
+
+Alexa knew that her emotional side would likely have trouble dealing with the loss. But from a coldly pragmatic perspective, this was for the best. People always let you down and require more energy than anyone should realistically spend. This was Alexa’s mantra growing up as a child, and one she found herself falling back on here.
+
+Whoom.
+
+The second Alexa set foot on the actual campus proper an alerting rune was triggered. Before Alexa would have just been aware that some form of magic was being used. Now however, she could see the intricate rune for what it was.
+
+That student identification number at the end was likely a direct marker of who she was to this system of intricate runes. Looking down, she saw the faint residual glow of the corresponding rune going off from her clothes. A quick pat showed that the corresponding rune came from her own dorm key.
+
+With that, Alexa nodded in understanding.
+
+It was a complex system, one that seemed to have taken a lot of thought and knowledge to put together. Honestly, Alexa found herself getting more and more impressed with the operation each time she found herself interacting with the runes.
+
+Alexa for her part continued her trek forward to her dorm, but at a much more subdued pace. This was not the extreme pace she had when she ran the marathon plus to get here. Instead, this was a more measured pace to not raise suspicions on campus.
+
+Whoosh.
+
+Of course, even her pace was still hard to catch up to, at least for someone who had to start from the center of campus, then try to find where she had gone.
+
+But Mr. Mackie still managed to find her after Alexa had gone just under a mile from where she made her exit in the woods.
+
+He appeared instantly, like some cartoon villain. A thin cartoon villain who despite having run for over a mile at intense speeds, still managed to have their hair and uniform look nearly perfect as they came to a stop.
+
+Seeing the man, Alexa stopped. She had been expecting something like this. Honestly Alexa was not certain she would be able to take Mr. Mackie in a straight fight. Especially not when he was seemingly ready for her, which he was now. Why was he ready for a fight? Well Alexa didn’t know exactly why, though she felt Gina and Julie might have turned the waters against her. At least turning the waters was the expression her father had used to describe similar situations when she was younger. Situations where she invariably had a falling out with different females that she had gotten close to.
+
+“Ms. Thyme. I was instructed to ensure your safety when you arrived.” Mr. Mackie said, then his left eye glowed.
+
+Instantly Alexa knew this was how he scanned Alexa to see her personal status. There were of course rumors of people with powers like this, fabled inspectors who could determine everything someone was. These people had the ability to see a person’s entire status and determine if they were to be friend of foe.
+
+Mr. Mackie made his scan, but then visibly gulped in surprise.
+
+“Ms. Thyme, I must ask. Have you by any chance changed your slotted class?”
+
+Alexa just shook her head.
+
+“Has it gone through any changes recently?”
+
+Alexa nodded. “Yes, it is now an Apex level class.”
+
+Mr. Mackie’s eyes bulged at the claim for only a second, before he gained perfect control over his facial features. “But the class is still the same?”
+
+Alexa nodded, “Absorber (Apex).”
+
+With this Mr. Mackie’s right eye flashed for a moment. He had used a truth telling perk, or maybe a minor power given how intensely his right eye flashed.
+
+“Very good. I assume this is related to your recent titles?”
+
+Alexa nodded.
+
+“I will only ask this once, here and now. Have you either knowingly or unknowingly colluded with, received powers from, or used powers directly related to Necromancy?” Mr. Mackie asked.
+
+Alexa raised her eyebrow at the odd question. But she knew to answer such a loaded question verbally, so the requisite skills and perks would be able to detect the truth in her statement. “No.”
+
+With that, Mr. Mackie let out a visible sigh of relief, as he seemed to somehow grow just a little bit skinnier, if such a thing was possible.
+
+“Very good. Well then welcome back. I was told to inform you, that both Gina and Julie are looking for you. Along with the rest of your former pack.”
+
+Alexa nodded.
+
+“Very well, with that, I will be off.” Mr. Mackie said, as he disappeared in a blur of runic lights and magic energy.
+
+Alexa stared off into space, for a moment, before she finally understood the runes that had been used. The whole thing had been so quick that she missed most of what happened, but she did see the runic word for Transfer. Floating in the air for a brief second.
+
+Alexa made a note to ask Mr. Mackie about runes, as they seemed to be a very interesting avenue to go down.
+
+Going to her room, she found that her roommate Sabrina Macon was still fast asleep. Given the late, well now early hour, Alexa couldn’t blame her. Still Alexa needed to take care of herself. She used the time to shower, change. Then she texted two words to her brother.
+
+A: Princess Bride.
+
+That was it, then like that Alexa waited. First was the sign that the message was delivered. Then the sign that it was read. The few bubbles showing he was typing back. Then finally a response.
+
+L: Sure. Here?
+
+A: On my way.
+
+With that, the sacred bond of twins was both activated and fulfilled.
+
+Luke for his part, was busy. First, he had to send a flurry of texts to both his parents, then to Captain Johnston. Man, he really needed to find a new job. Then he paused, as he thought about sending messages to Gina and Julie, two girls that Luke was friendly with. But decided not to send any notice to them. This was Alexa’s deal with them, not his. Also, she had pulled out the distress beacon.
+
+She only pulled out the need to watch Princess Bride with him when things were really bad. He remembered the day watching Princess Bride became a thing, their thing. They were both five, and it was just after the accident at their parents’ work. Both kids were home from school. Alexa was just lost, she had checked out, and even a five-year-old Luke knew something was wrong.
+
+He spent every day with her, then one day by chance the Princess Bride was playing. Alexa watched it, like everything else. But as she watched it something began to change within her. Then after it was over, she pointed to the TV, then said her first word. “Again.”
+
+That was it, their parents were so happy that Alexa spoke. It took a few minutes, but fortunately dad was there to rewind what had been playing. Then managed to record the airing. That day there was a marathon binge watch of the Princess Bride.
+
+From that day on, all Alexa needed to do was say those two words, and everyone would drop everything to be with her and watch the movie.
+
+“Hey Frank, wake up.” Luke said, as he gently shook his roommate Frank Morris.
+
+“Wha, huh?” Frank asked, as it was only now nearing five AM on a Sunday.
+
+“Hey, is it cool if my sister comes to watch a movie?”
+
+“Wha? Yeah, sure, just keep it down.” Frank said.
+
+“Thanks man.”
+
+Then just like that, Luke pulled out his emergency copy of the movie, and began setting up his laptop computer to show the video.
+
+Knock, knock.
+
+With that Luke opened the door, silently let his sister in, then began playing the video. Within five minutes, Alexa was resting her head against Luke. Then by the time ‘this is inconceivable’ was said, she was already fast asleep.
+
+Smiling to himself, Luke stopped the player, then grabbed a few pillows to prop up his side. He relaxed, trying to find a good spot.
+
+With that Luke took a quick picture for his parents, one of her sleeping soundly on his shoulder. Then he hit send and tried to find his own way to find a few more minutes of sleep before the early morning sun would come in and keep them awake for good.

@@ -1,0 +1,171 @@
+---
+id: 408b88de-1eb3-5b90-bfe0-e8cb2f2e3b2d
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Chapter 1: Access To A Secret Place "
+slug: 0007-book-6-chapter-1-access-to-a-secret-place
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 7
+ownLength: 2096
+unit: words
+ownProgress: 2096
+publishedAt: 2025-03-24
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2148664/book-6-chapter-1-access-to-a-secret-place"
+royalRoadId: "2148664"
+removedAt: "2026-07-03T13:47:18.435Z"
+---
+
+Arthur woke up as the leader of Blood Moon hive.
+
+That was the first realization he had upon opening his eyes, and the last thought he’d had before he fell asleep – a fitful rest because all night he’d had nightmares about crushing responsibilities. Not a great recipe for rest.
+
+On waking, he sat up in a bed big enough to easily sleep five people… which perhaps said things about the previous leader, Chester, he didn’t want to know.
+
+The sheets were thin and made of some slippery material that felt both cool and artificial against his skin. And though there were no stains, the sheets held the sharp metallic scent of blood. For the third day in a row, he made a note to ask the servants, who were so helpful they came off as creepy, to change the bedding out for regular sheets and blankets.
+
+But the thing he disliked most about this unfamiliar room seated in the top level of a hive he did not trust was the lack of his dragon’s presence.
+
+He was used to Brixaby sleeping within arm’s reach, snoring his ridiculously deep snores. Not that Brix would ever admit to something as undignified as snoring.
+
+Though… Now he was awake, Arthur realized he could hear Brixaby’s snores after all. They were now so deep and rumbly that they had faded into the background. But they were closer than he would have thought.
+
+Arthur frowned. Last night, Brixaby had made a big deal of sleeping outside on the ledge like ‘a proper dragon’. But he sounded much closer than that.
+
+Rising from his stupidly big bed, Arthur got dressed. Then, upon stepping out, he found Brixaby in one of the main audience halls nearby. It just happened to be as close as he could squeeze himself to Arthur’s new bedroom.
+
+It was strange to see his dragon this large. Brixaby was now, well, dragon-sized. Certainly, he was still small for a Legendary rank, but now he was even a little larger than Joy.
+
+His purple scales that were so dark they were black, faded into the shadows while the lighter purple highlights outlined his many sharp edges. His muzzle curved down into a scythe, making him seem like he was either looking down his nose at people, or about to snap downward and eat the next person who displeased him. Two glossy black separate sets of horns—the shorter of the first pair in the front, the longer in the back – curved up and over his head.
+
+More than that, Arthur’s Master of Cards could feel the power radiating off of Brixaby. It was the strength of three Legendary cards in the same set, and it was about as obvious as the sun on a bright day.
+
+Arthur would sort of miss his short time pretending to be a Rare ranker. It had been an illusion granted to him and Brixaby to give them the appearance of being a rank lower. And it allowed them to fit in.
+
+But now he had a hard time imagining anyone with any senses for cards would be able to take a look at Brixaby and not feel wholly intimidated.
+
+He wondered if his own three Legendaries, Master of Skills, Master of Body Enhancement, and Master of Cards, felt the same as others. Or if this was just an effect of Brixaby being Brixaby.
+
+In any case, the Knockback card had been only a thin illusion. A Rare ranker would have had a hard time even surviving the last eruption, much less standing any chance against Chester and his dragon, Blooddrop, at their worst.
+
+Power came with responsibility and Arthur reminded himself yet again that he had embraced that responsibility… even if it came with its fair share of bumps in the road.
+
+Brixaby had been initially overjoyed at his growth. Then he’d had a bad moment when he realized his curated and much beloved blacksmithing equipment had been sized for men, and donkey-length dragons.
+
+Now Brixaby was a good twenty-five feet long from nose to tail and similarly proportioned with the deep chest most purples had to support their four wings. He could not use his blacksmithing tools… and upon realizing that the dragon had been about as devastated as Arthur had ever seen him.
+
+Right up until the moment he realized that as hive leader—feared even more than he was respected – he could just order crafting underlings to make him appropriately-sized equipment.
+
+The first pieces should be ready within a few days, and Brixaby had been furiously brainstorming on where in the hive he could fit a dragon-sized furnace.
+
+Arthur wished his own problems were so easily solved.
+
+They can be, he thought in an exasperated voice that sounded suspiciously like Cressida’s, if I were to delegate.
+
+Did it say something about his ability as a leader if his first official orders were to delegate his responsibilities to someone else?
+
+Probably. But he didn’t have a lot of time. The King, who was enjoying his mental faculties once again, had conditionally approved of Arthur’s ascension to Blood Moon hive’s leadership. Then he had graciously given him a few days to settle in before “introducing him around to the other leaders”.
+
+Reading between the lines, Arthur knew that meant he had a few spare days to secure his position in case and until someone tried to challenge him for the spot.
+
+Good luck to them, he thought wryly.
+
+Between himself and Brixaby, they had the most of two Legendary sets between them. He pitied the man or woman who went up against them.
+
+Not only that, but Brixaby had very publicly taken Chester’s feared card he’d used to suck the life out of people.
+
+Arthur wasn’t entirely certain someone would actually be foolish enough to challenge them, but he was almost looking forward to it.
+
+Nevertheless, he had to prepare. And he knew what he had to do, first.
+
+Turning away from his still sleeping dragon, he traveled down another hall, and then through an office which had a door opening to yet another office.
+
+Seriously, his living situation had become ludicrously large. He didn’t know why one office had to link to another one.
+
+But it was in the second of the two rooms where he found the card anchor node he had been looking for.
+
+Arthur reached out and rang for Chester’s top ranked manservant.
+
+The man, Reginald, had introduced himself almost immediately upon Chester’s death. Out of all the hive’s servants he’d met so far, he was easily Arthur’s least favorite. He was just… creepy looking. Permanently hunched in the shoulders with long fingers, a crooked nose, and stringy hair which outlined a sharp, sallow face. He even moved like a rat. All twitchy, and too easily complemented Arthur.
+
+But he was still a better person to ask than Desmond and Sybil, the other two Legendary riders.
+
+Those two had been so suppressed by Chester’s power that they had given up any semblance of leadership years ago. Arthur still planned to ask them questions about the hive, though he doubted they had accurate answers.
+
+He was just thinking about them when there came a scratch at the door. Reginald poked his head in, saw Arthur, and then stepped inside to bow so low the top of his head almost touched the desk.
+
+“And how may I be of service today, sir?” he asked in an oily voice.
+
+Just be a normal person, Arthur thought. What he said was, “I need you to tell me if the empty card library was the only place Chester stored cards.”
+
+He'd already searched out and found an empty library, but the more he thought about it, the more he wondered if there wasn't more. Not a stretch of a guess. Turning what should be the hive’s wealth into his personal wealth was exactly the type of thing a man like Chester would do.
+
+Reginald blinked and his eyes shifted in a darting way that rang every one of Arthur’s alarm bells. “There was indeed more, but is there a reason you need to see it, sir?”
+
+“The reason is because I am the leader now and I have asked to see it.” Arthur kept his voice calm, but the man flinched as if he had been struck. Arthur went on. “So there is a second space?”
+
+Reginald hesitated for a few telling seconds, licked his lips, and then nodded. “You are, of course, correct. There is a hidden library.”
+
+“So, where is it?”
+
+Arthur could have used the Call of the Heart to seek it out, but he didn’t want to risk alerting Brixaby while he was sleeping. More importantly, he intended to feel out Reginald’s competence and loyalty. He might be unfortunate looking but sometimes appearances could be deceiving.
+
+The servant’s test didn’t start out great. He hesitated for a long moment before he said, “Sir, this is an unusual request. If you had a specific card in mind, I’m sure I could find—”
+
+Annoyed, Arthur broke in. “Is there someone else I need to ask? Someone who could do the job, instead?”
+
+“No!” Reginald said sharply. “I’m the one with the card.”
+
+“The… card?”
+
+A faint look of derision passed across the man’s face. Arthur didn’t take offense to it. He was glad to see something other than the man sucking up.
+
+“The hidden library is, of course, highly secured and only accessible by the one who wields a specific card,” Reginald explained.
+
+“Then it seems I’ve asked the right person.”
+
+Again, the man hesitated for a long moment but then nodded. “If you could follow me, of course I’ll show you.”
+
+With a nod, Arthur silently rose.
+
+Reginald then started to lead him down a series of hallways. It seemed Chester had made this entire floor of the hive his own, which was no surprise. Most hives were cone shaped with the leadership occupying the top, smaller floors.
+
+Blood Moon, however, was less of a cone and more of an upright tower. The top curled in like a hook, and Chester’s floor – the one Arthur now occupied – sat right before that taper. It made his entire suite as big as one of the tower’s floors.
+
+Reginald led him down not one, not two, but three additional floors and across and through so many side passages that Arthur quickly became lost.
+
+In the back of his mind, he wondered if the man was just leading him to an extremely deserted hallway only to turn around and put a knife in his belly. How devoted to Chester had he been, exactly?
+
+Arthur kept a light thought on his Personal Space, just in case he needed to mentally retreat there for a frozen moment, figure out a plan, and grab a weapon or ten.
+
+Maybe I should have brought Cressida along, he thought. She didn’t like Reginald and would be happy to take him down a peg.
+
+Suddenly, Reginald stopped.
+
+Arthur looked around, an eyebrow raised. “This seems to be a dead end.”
+
+“It is, of course, well-hidden sir.” Reginald bowed again and then turned to the blank stone wall ahead of them. He then began to wave his hands in a ritualistic fashion.
+
+As he did, Arthur’s Counterfeit Siphon card caught what he was doing. Once he did, he nearly laughed aloud.
+
+New Counterfeit spell obtained: Access to a secret place (Rare)
+
+Time Remaining: 59 minutes, 59 seconds
+
+A Rare power. Nothing to sniff at, but it was also very likely Reginald could access this card anywhere. Instead, he had led Arthur on a winding path, most likely to confuse him and make it seem like he was the only one who could find and access this certain spot.
+
+It seemed Reginald didn’t trust him much, either.
+
+Suddenly, a brass ornamented doorway opened in space against the wall.
+
+Dropping his hands, Reginald stepped back and gestured grandly at it. “Through, here, sir.”
+
+Arthur pushed the door open and stepped in.
+
+Then, suddenly, he had a whole new theory as to why Reginald had been so hesitant before.
+
+This had clearly once been a card library with rows upon rows of appropriately sized shelves. Those shelves stood almost entirely bare with only a few lone cards here and there. Arthur’s senses told him the cards left were all lower ranked.
+
+Chester had plundered the hive’s card library.
+
+With a swear under his breath, Arthur stepped in to get a closer look.
+
+That was when the door shut and sealed behind him.

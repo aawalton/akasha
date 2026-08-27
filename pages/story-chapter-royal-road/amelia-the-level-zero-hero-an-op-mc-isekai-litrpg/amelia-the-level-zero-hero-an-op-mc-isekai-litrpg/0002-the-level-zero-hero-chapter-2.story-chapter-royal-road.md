@@ -1,0 +1,169 @@
+---
+id: d7aeb9c5-fd75-5790-84f0-8af2c7a04201
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero [Hero] Chapter 2"
+slug: 0002-the-level-zero-hero-chapter-2
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 2
+ownLength: 2155
+unit: words
+publishedAt: 2022-12-02
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1053890/the-level-zero-hero-chapter-2"
+royalRoadId: "1053890"
+---
+
+It was strange, really. I was just a normal girl from Earth— well, I had once been a normal girl from Earth. I had friends, a family, and I didn’t do anything extraordinary. I went to an average college and enjoyed everything the modern world had to offer. I really wasn’t anyone special. Yet, about ten years ago, I suddenly woke up in the Fractured Realm.
+
+It was a corrupted plane that existed beneath the world of Vacuos. A place of nightmares where space was broken and I had to fight for my survival. I didn’t know how I got there, but it was like I had been chosen for some greater purpose. It was as if I was fighting for some grand prophecy. I was a hero. And I hated it.
+
+I found no thrill in fighting. The burden forced upon my shoulders was overwhelming. A single misstep would result in my demise— my failure would result in the destruction of Vacuos.
+
+It hadn’t been a situation I wanted to be in, but I had no say in that matter. So I fought out of necessity. I did what I had to do. I slayed the big bad evil and saved the world.
+
+At last, I was at peace. I could finally rest. Now, I could live a normal life again. And that was why—
+
+[Please choose a Class to integrate into the System.]
+
+“I said: no.”
+
+It was a simple response. The System gave me a choice, and I chose what I wanted. I wasn’t going to become the [Worldwalker Hero of Vacuos] and dedicate the rest of my life to protecting the world. I mean, I already played my part. And I wasn’t even someone special in the first place. If I could become a hero, then anyone else could.
+
+It wasn’t like I needed a Class to be strong, anyways. So it didn’t really matter to me. The blue box continued blocking the center of my vision, following my gaze wherever I looked. But I continued to ignore it, and it vanished soon enough. I luxuriated in this peaceful silence for a moment, before an idle thought settled in.
+
+“I’m still lost…” my voice trailed off. I glanced around and wondered aloud. “Although… are there even cities in this world?”
+
+This world could be completely barren for all I knew. Maybe it was nothing like Earth with its sprawling cities and advanced technology. It might even only be inhabited only by liches and undead.
+
+“Well, this road has to lead somewhere,” I said as I cast my gaze down the gravel path. “I guess I’ll find out.”
+
+With that, I leapt into the air. I casually jumped up, soaring above the clouds. I surveyed the landscape as I hovered in the sky.
+
+“Nothing,” I sighed.
+
+I landed lightly back on the gravel ground, before leaping forward again. I surveyed the landscape as I propelled myself far and high like a slingshot. There were still no signs of life anywhere.
+
+But still, I pressed on. This continued until I caught a glimpse of figures moving in between the trees. My eyes widened at the sign of life.
+
+Or, rather… the sign of undeath.
+
+—--
+
+Zolan was pleased with himself. He had spent a century honing his mastery over both life and death, studying the countless tomes and texts left behind from [Necromancers] who came long before him, and preparing the ritual to bring about the Lich King’s revival. And, finally, he had succeeded.
+
+Ar’elith had been brought back from the dead. A century of labor had amounted to this very moment. Zolan felt like a burden had been lifted from his shoulders for just a moment.
+
+Just a single moment.
+
+After all, now was not the time to rest. There was no relief for Zolan. While he was a Level 62 [Master of Necromancy and Sorcery], he still had much to learn under Ar’elith’s tutelage. Furthermore, it was time for him to carry out his King’s will.
+
+To lay waste onto the world of the living. To cleanse Vacuos from the disease of life.
+
+So Zolan marched forward, at the head of the undead army, bringing with him a deathly chill that blanketed over the landscape, freezing the grass at his feet and the trees in his surroundings.
+
+“First, Windrip. Then the rest of the Astrad Kingdom.” His eyes flickered as he saw the city clearly despite being in the far, far distance. He raised his rapier, snickering—
+
+And he recoiled as he saw the cloaked figure landing before him.
+
+“Oh, good. You’re actually human.”
+
+“Who… are you?” Zolan blinked as he stared at a brown-haired woman wearing tattered clothing.
+
+“I’m Amelia,” she said simply. “Anyways, are you actually human? What are you doing with that army of undead?”
+
+He narrowed his eyes before shaking his head. “I am Zolan, but a humble servant of the Lich King, and I have been tasked to lead his army and bring death to this world. And you, my dear girl, will be but the first soul I save from the plague of life!”
+
+He leapt forward, thrusting at her head with his rapier. She blinked and cocked her head.
+
+“The Lich King?” Amelia asked as his attack missed her completely. Somehow, she moved her head out of the way just in time!
+
+Zolan paused, wide-eyed as she stared back at him. His eyes flickered before he quickly leapt back. He frowned.
+
+“You dodged my attack. It seems I’ve underestimated you.” He warily raised his rapier once again. He eyed her every movement— he had to be careful. The way she’d dodged him had been so subtle, he barely even saw it. She could counterattack at any moment, and he would have to instantly react.
+
+But Amelia just tapped a finger on her chin. “You’re talking about that Ar’elith asshole, right? I already killed him, so you don’t have to do this.”
+
+And that made Zolan lower his guard. He gaped at the girl.
+
+“What?” he asked.
+
+“Yeah, he’s dead. I killed him with one slash of this blade.” Amelia spoke casually as she tapped the sword sheathed at her side.
+
+Zolan stared at her in disbelief. Then he saw the state of her sword— a feeble, rusty blade. He shook his head.
+
+“Hmph. Preposterous. There is no way my King would die to such a weak weapon. You make a mockery of him.” Zolan pointed at Amelia as he glanced at the undead at his back. “Kill her.”
+
+Amelia shrugged. “You don’t want to do this—”
+
+And the army of revenants charged forward. All thousand of them. They weren’t ordinary skeletons. They wore ethereal glowing armor that wisped with a blue mist. They raised the ghost of enchanted weapons— swords, spears, axes— all of which rivaled any B-grade blade.
+
+“Fuck’s sake.” The girl sighed and unsheathed her sword. She took a step forward—
+
+And came to a halt right next to Zolan, her blade held to the side. He blinked, and the army of revenants crumpled into dust. It took him a full second to react. He didn’t even realize she was standing next to him until she sheathed her blade.
+
+Zolan cursed, swinging at her. “You—”
+
+And she parried the attack with her sheathed sword. Zolan watched as his rapier shattered— bits and pieces of its golden blade flying through the air and raining back down. The precious jewels at its hilt flaked off like it was melting away. The magic that held it together dispersed, vanishing with the wind. He staggered back, mouth agape.
+
+“That’s…” he trailed off.
+
+It didn’t make any sense. Zolan had been wielding the Bloodshard Rapier of Deleria. It was one of the most treasured artifacts of his home country— an S-grade weapon which he had risked his life to steal. It was a weapon befitting the likes of the [Hero King] Kallistus. But just like that, it had been broken.
+
+Amelia raised a brow. “Oh. Your sword broke. It’s pretty weak, isn’t it?”
+
+He looked at the girl. At this monster standing before him. She had shattered an S-grade weapon through sheer strength alone. She had wiped out the army of revenants in an instant. He felt his knees buckling beneath him as his hands trembled from fear. The realization finally sank in.
+
+“Y-you weren’t lying when you said you killed Ar’elith. And you killed him with a single swing of your blade.”
+
+She gave him a flat stare. “That’s literally what I said, yes.”
+
+“A century of work… all gone… just like that…” Zolan dropped to his knees, defeat in his voice.
+
+Amelia peered at him.
+
+“Why are you even doing this for Ar’elith, anyways? Aren’t you a human? You don’t have to beholden yourself to him just because he’s the Lich King or whatever. It’s your life. Just do what you want.”
+
+“What?”
+
+Zolan raised his head. He looked at the girl. The one responsible for killing his King. She looked down at him with… pity? No— mercy. She spoke casually, giving him a chance to survive.
+
+“I mean— do what you want unless you have no other choice, of course,” she said.
+
+“I-I…” He closed his eyes. Why did he do this? Why did Zolan go through all that effort to bring the Lich King back to life? There had to be a reason, right?
+
+Zolan remembered back when he was still a child. Back over a century ago. When he had first stumbled upon a page of the Lich King’s scripture. He had been enraptured by Ar’elith’s words all the way back then. Even though it was a forbidden text, he craved to read more.
+
+He defied his family. His country. He left behind those he called his friends, pursuing only master over his necromancy. And why did he do it? Why did he sacrifice so much? He opened his eyes as he remembered.
+
+“Without the Lich King, my life has no meaning! He is why I live! He is why I exist! He is the one who has given me my purpose!”
+
+Amelia watched as Zolan leapt back only to be wrapped in white light. [Flash Step]. In an instant, he teleported a hundred feet back. She shook her head as he raised a hand.
+
+“I see,” the girl whispered.
+
+“I will make you suffer for what you have done!” Zolan screamed with mad eyes as a dark magic conjured on his fingertips. “[Deathblast—”
+
+And Zolan froze as he felt a sharp pain run through his chest. He looked down to see a blade impaling his heart. He gasped, lowering his hand as Amelia stepped back. She flicked the blood off her rusty sword as Zolan’s vision grew dark.
+
+“So you’re just an insane idiot too, then,” she snorted. “You should’ve just said so right from the start.”
+
+—--
+
+I had been slightly apprehensive about killing Zolan considering he was a human. But as it turned out, I shouldn’t have had any qualms since he was just as insane as the Lich King Ar’elith. So I just killed him.
+
+It was a bit annoying— running into these crazy people again and again. I just wanted to find a normal person already. I also really wanted to take a nap. I hadn’t slept in at least ten years.
+
+Still, I wasn’t too bothered. These were just minor inconveniences— at least, in comparison to what I had been through in the Fractured Realm. Every single passing moment outside of that desolate nightmare of life and death was a relief to me.
+
+I quickly looked through Zolan’s corpse, searching for a map or a compass or anything that would help me figure out where I was. I paused when I produced a bag of silver and gold coins.
+
+“So there has to be civilization in this world,” I said as I pocketed the pouch. After all, there was no currency without civilization. I leapt into the air, continuing my search for a place to rest.
+
+I leapt through the air over and over again, scanning my surroundings, seeing nothing but endless forests and trees in all directions. This continued on for some time until—
+
+I saw it.
+
+In the distance, just before the horizon, was the vague outline of a town. It was faintly luminescent in the night, lit up by torchlight. It looked almost like a small medieval city, which was unsurprising, considering all the swords and magic and coins and whatnot. It was quite obvious that Vacuos was a fantasy world.
+
+The town even had a wall girdling its perimeters. Incredibly tall walls. Ones that stretched up to over a hundred feet tall. The edges of the battlements jutted out with dangerous spikes, and dozens of armed guards standing by the gates. Human guards. Not skeletons.
+
+A smile slipped onto my face as I whispered, “After so long… I can finally fucking sleep.”

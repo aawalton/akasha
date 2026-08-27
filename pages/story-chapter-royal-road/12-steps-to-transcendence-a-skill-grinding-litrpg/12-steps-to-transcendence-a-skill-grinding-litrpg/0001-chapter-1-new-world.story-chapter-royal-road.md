@@ -1,0 +1,371 @@
+---
+id: 9f216b97-1d2e-5010-a54b-bced90ba755e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: New World"
+slug: 0001-chapter-1-new-world
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 1
+ownLength: 2624
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701682/chapter-1-new-world"
+royalRoadId: "3701682"
+---
+
+Ben peeled his face off his desk.
+
+...Did I fall asleep studying again?
+
+But as he blinked away the spinning blurriness, he realized right away something was very, very wrong.
+
+For one, the surface under him wasn't his smooth wooden desk, but rather scorched, blackened dirt.
+
+He drew a confused breath and immediately gagged, choking on the harsh, suffocating stench of ash and burnt wood, the distant crackle of dying embers the only sound around him. Coughing violently, he rolled onto his back and stared at a glaringly unfamiliar sun through his blurry vision.
+
+What the hell… is this a prank?
+
+Maybe, but the heat coming from the ground made that seem unlikely.
+
+He squinted through the thick haze and saw he was lying in the middle of a village that had been completely destroyed.
+
+Dozens of wooden houses had burned down to their foundations, reduced to nothing but smoldering black husks still radiating heat up through the ash covered ground.
+
+Either he was having a vivid stress induced hallucination, or something else entirely was happening.
+
+Wait.
+
+He tried to push himself up but quickly found out that his limbs felt completely limp. And before he had any time to panic at the revelation, a violent migraine hit him like a sledgehammer.
+
+Gasping for air, he felt strange foreign memories force their way into his mind.
+
+What… where…? How?
+
+He curled into a ball, trying to bear the pain as years of someone else's life were shoved into his mind.
+
+It was completely overwhelming.
+
+Things he previously had no clue about were suddenly just… there. Names, faces, even a strong craving for sweet things appeared out of nowhere. Apparently, the body's former owner loved stealing honey from the local beekeeper.
+
+Even with warm blood running down his face, all he could see were growing dark spots moving across his vision.
+
+He couldn't handle all the new information and passed out.
+
+Something tugged at his mind, dragging him back to reality. And the first thing he noticed was the sound of muffled voices.
+
+"H… y…"
+
+Muttering through the darkness, a deep and gruff voice echoed in his head.
+
+"Th… boy… a…ive?"
+
+"Kee… your hands… your hilts."
+
+"Could be… walker…"
+
+"It's just a kid, Cap."
+
+Feeling like he'd been hit hard, he tried to move. Moving one dirty finger took almost all his strength.
+
+"Hey, he moved! He moved! Boy, wake up!"
+
+He forced his heavy eyelids open and groaned, feeling sick and nauseous. Blinking through the bloody crust in his eyes, he tried to make sense of the blurry shapes above him.
+
+Am I in a hospital? Did someone find me?
+
+But his body felt like it was stuck in thick mud. As his vision slowly cleared, he saw a gray sky instead of a clean white hospital ceiling.
+
+Shifting his throbbing head, he finally spotted the people standing over him.
+
+And immediately, an incredibly jarring thought popped into his head.
+
+Why the hell are they cosplaying?
+
+Seriously, what was going on?
+
+But that train of thought completely derailed as his mind supplied a reason from the fourteen years of memories locked into his brain with absolute clarity.
+
+Just like that, the memories didn't feel foreign anymore. They were just… his.
+
+To his surprise, there was no hyperventilating panic or mental breakdown. The memories were already his. All that was left was a dull, lingering shock.
+
+He was part Benjamin now.
+
+Following that realization, a wave of grief washed over him. It gripped his chest, but he didn't have time to dwell on it.
+
+A gruff voice snapped him back to reality.
+
+"Can you understand me?"
+
+Shaking off the daze, he took a better look at the people surrounding him.
+
+Oh, right. The not cosplayers.
+
+These people wore real, heavy armor and carried actual swords, spears, and bows.
+
+Staring down at him was a ferocious-looking man with a scarred face who basically screamed danger. But being utterly emotionally exhausted, Ben really didn't have any fucks left to give.
+
+So he just gave a weak nod.
+
+"I see. Do you remember what happened? How did your village burn down? Heck, how are you even alive?"
+
+What kind of question is that? Is that something you ask a teenager in the middle of a burned village?
+
+Honestly, their bedside manner was absolute garbage.
+
+Still, taking a slow breath, Ben actually tried to sort through his newly acquired memories.
+
+His name here was Benjamin. It was strange and quite funny that the teen shared his name, though he liked to call himself Ben.
+
+Still… how did it burn down?
+
+He remembered Benjamin's last moments: choking on smoke in his room, passing out, and being completely sure that he was going to die.
+
+Actually, now that Ben was controlling the body, the original Benjamin must have died. But that raised a very obvious question.
+
+…How did this body survive sitting in the middle of a literal inferno?
+
+And how am I outside now? Who or what moved me? And is everyone else seriously dead?
+
+"You know, kid, anyone tell you that you have a really creepy stare?"
+
+Blinking slowly, Ben processed the random remark. Well, it wasn't the first time he'd heard something along those lines. Even in his past life, his friends joked that he looked like a serial killer when he zoned out.
+
+Regardless, he decided to ignore the remark entirely and answer the important questions.
+
+"I don't know."
+
+"What?"
+
+"I don't know how the village burned down. Or how the fire started."
+
+The man frowned and exchanged a meaningful look with the armed soldiers behind him.
+
+"Right. Well, you're gonna have to come with us."
+
+Ben stared at the embroidered crest on their armor. He already knew the answer to his next question, but he asked anyway to keep up the act. He had to look like a clueless, shaken peasant boy.
+
+"Who are you?"
+
+"We? We're Sulon soldiers, kid."
+
+Of course, they are.
+
+They were soldiers from the kingdom of Sulon, one of the Central Plains kingdoms, usually sent to deal with threats. So what were they doing out here in the middle of nowhere?
+
+Either way, they wanted him to come with them. It was clear they suspected him. If he ran, they would just think he started the fire or was involved somehow.
+
+He probably looked like some kind of demon child, sitting there unharmed in the middle of the ruins.
+
+Going with them could be dangerous, but it was his only choice for now.
+
+And frankly, did he even have a choice? He didn't want to go, but that hardly mattered.
+
+Besides, he had no idea what to do with this new life anyway.
+
+So why not?
+
+Before Ben could actually voice his resignation, a particularly gruff looking soldier stepped past the scarred leader and grabbed him.
+
+The soldier yanked Ben by the shoulder, spun him around, forced his hands behind his back, and snapped heavy metal cuffs onto his wrists. The cold iron pressed sharply into his skin.
+
+The soldier shoved him forward, not bothering to hide his disgust.
+
+"Walk."
+
+Ben stumbled a few steps and fell, scraping his knees. He hissed in pain and looked back at the man in disbelief.
+
+Seriously? Handcuffs?
+
+"Creepy fucking stare. You sure this little guy isn't a skinwalker?"
+
+Turning his glare to the scarred leader, the man kept complaining.
+
+"Why are you even talking to him? The only kid alive in a burned village, and those eyes just don't look right."
+
+Spitting on the ashy dirt, the soldier sneered.
+
+"Shit, man. It's suspicious as hell."
+
+The leader caught Ben's gaze and gave him a brief, apologetic look. But shrugging his shoulders, he didn't actually disagree. Instead, he looked firmly at his men.
+
+"Split up. Half of you stay and keep looking for survivors. The rest are moving out with the kid and me."
+
+One of the soldiers staying behind sighed and kicked a burnt piece of wood.
+
+"There are no survivors, Captain."
+
+"Yeah, I thought so too," the gruff soldier said quickly, pointing at Ben. "But then this kid appears out of nowhere. Alive, mind you. Even if he survived by some miracle, it is too suspicious. You know why we're here Captain, don't tell me you're gonna go soft."
+
+The man shoved Ben again and scowled.
+
+"We need to get his status checked as soon as possible."
+
+Ben caught his balance, turned around, and stared blankly into the gruff soldier's eyes.
+
+I don't know how.
+
+Keeping his face perfectly expressionless, he made a silent promise to himself right then and there.
+
+But I am going to punch you in the face.
+
+Ben trudged through the blackened dirt toward the forest outside the village, giving him plenty of time to think.
+
+The more Ben tried to make sense of what was happening, the less any of it made sense.
+
+Since these guys weren't on horses, their camp had to be close enough to reach on foot.
+
+But then, why hadn't they reached the village in time to stop the fire?
+
+None of this made any damn sense.
+
+Maybe if he asked a few questions, he could finally figure out what was going on. He cleared his throat and decided to try an innocent question.
+
+"So, uh… how are they going to check my status?"
+
+A status.
+
+Benjamin knew what that was. Everyone did.
+
+It was still hard to believe how much this world felt like a game...
+
+Everyone got a status window at fourteen, the day the system awakened for them. But not everyone could see it. You needed special equipment to view someone's status, and the villagers talked about other ways, though nobody really knew what those were.
+
+And now they were about to see his.
+
+The scarred captain stopped and turned around slowly.
+
+"What did you just say?"
+
+"I asked, how're they going to check my status?"
+
+"…You must have hit your head harder than I thought."
+
+The gruff soldier from earlier snorted and shoved Ben's shoulder.
+
+"Or maybe the kid is just pretending."
+
+Ben ignored the hostility and tried a different approach.
+
+"Where are we actually going?"
+
+"Camp," one of the quieter soldiers muttered.
+
+"Is that..."
+
+"Enough questions," the gruff soldier snapped, glaring at him.
+
+Well, I guess that's what happens when you ask too many questions.
+
+Since they clearly didn't trust him enough to answer, he decided to keep quiet and just listen. As they walked in a tight group, the soldiers eventually began muttering to each other.
+
+"You think the Adventurer's Guild will get involved with this mess, vice captain?"
+
+"If this is another rift? Probably."
+
+The gruff soldier, who was actually the vice captain, spat on the ground and shook his head.
+
+"But with the whole burned village thing, the red zone would have to have been massive… so I don't think it's a rift. Probably something else entirely."
+
+"Do you think something managed to cross over the wall?"
+
+"Bah. No way."
+
+After hearing that short exchange, Ben quickly filed the terms away in his mind.
+
+He had no idea what a red zone was, but it definitely didn't sound like a fun vacation spot. He didn't know what a rift was either, but he knew what it meant because the villagers had warned him many times:
+
+A rift was danger.
+
+Maybe no one in the village knew more, or maybe it was just not something people talked about, because he couldn't find any details about it in Benjamin's memories. It might just not be common knowledge.
+
+Ben tilted his head, trying to catch more of their conversation. He wanted answers, so he'd really love some information, but as soon as the soldiers noticed him listening, they stopped talking.
+
+Are they seriously that paranoid?
+
+When he realized he wouldn't learn anything else by eavesdropping, he decided to take a chance. He looked up at the gruff soldier with wide, innocent eyes.
+
+"Do you guys really think I'm a skinwalker?"
+
+A younger soldier frowned and scoffed right away.
+
+"No skinwalker would ever actually ask that."
+
+"Shut up," the vice captain barked, silencing the group instantly.
+
+Ben hid a small smirk and looked down at his shoes.
+
+So skinwalkers were real in this world.
+
+That was frightening, but at least now he knew.
+
+Ultimately, the real problem wasn't whether these assholes would willingly talk to him. What mattered was whether he could successfully learn enough about this world before they shoved him in front of whatever this 'status check' was.
+
+And judging by the heavy iron cuffs on his wrists, failing that check probably meant that he would lose his head.
+
+He didn't manage to get any information from them before they reached the camp. Before he could look around at the place or the soldiers moving about, they led him straight to the biggest tent.
+
+"The commander will see you now."
+
+The vice captain shoved him roughly toward the entrance of a huge canvas tent and sneered.
+
+"See to it that you behave."
+
+Nodding obediently, Ben ducked through the heavy fabric flaps. Inside, he saw an old man sitting behind a sturdy wooden desk stacked with what looked like hundreds of reports.
+
+This must be the commander.
+
+The old man stared at him with blank, lifeless eyes and began asking questions.
+
+"Name?"
+
+"Benjamin."
+
+"Age?"
+
+"Fourteen."
+
+"Family?"
+
+"Dead."
+
+Why was he asking these pointless questions? Was he trying to see how much the fire had affected him?
+
+Ben answered honestly, repeating the memories he had in his mind. Lying wouldn't help him here anyway.
+
+How long was this interrogation going to last?
+
+Before the commander could ask another question, the tent flap flew open. A tall woman in a sharp uniform walked in, went straight to the desk, and slammed a rectangular slab of glass onto it.
+
+"This is an assessment tablet."
+
+She tapped the smooth surface without even glancing at him.
+
+"It's an older model, but it'll do the trick. Put your hand on it and accept the prompt."
+
+She leaned forward and finally met his eyes.
+
+"If the readout shows anything suspicious, we will decide what to do with you. Deny it and I take your head myself. Prove your status and I'll be the first to apologize. You will be given a place to stay while we are here, then taken to the nearest city, where the kingdom will give you enough resources to start a new life."
+
+Well, that got out of hand fast. Still, these tablets are a complete mystery to me. Or to Benjamin, anyway. But really, does it matter whose eyes are looking? We're the same now.
+
+Before Ben could even process the threat, some kind of heavy and invisible force gripped his wrist. It pulled his arm forward and pushed his palm flat against the cold glass of the tablet.
+
+He nervously licked his lips and kept his eyes fixed on the device.
+
+What looked like runes carved right into the air right in front of his face. He flinched and jerked his head back in shock.
+
+The woman let out a soft chuckle, clearly amused by his reaction.
+
+Meanwhile, the commander kept staring at him with that same blank, expressionless face.
+
+Trying to stay calm, Ben read the floating symbols as they turned into familiar words.
+
+Status readout requested by external device. Grant permission?
+
+He stared at the prompt, panic rising in his chest. He'd never seen a status before and had no idea what it might reveal. What if it showed a lot more personal details than it should?
+
+He had literally just hijacked a dead kid's body a few hours ago.
+
+Was it going to show that?
+
+Was it going to show him as some kind of otherworldly demon?

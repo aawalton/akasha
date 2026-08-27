@@ -1,0 +1,221 @@
+---
+id: 7df2f80d-9ee6-5eb5-a0ed-956b8647022e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33: Luck"
+slug: 0034-chapter-33-luck
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 34
+ownLength: 1736
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3810571/chapter-33-luck"
+royalRoadId: "3810571"
+---
+
+Staring up at the notifications, he felt a weird bubble of hysteria expanding in his chest. And a broken, wheezing chuckle actually escaped his lips.
+
+Wow, I finally got it.
+
+But reeling his exhausted brain back in, he quickly forced himself to calm down.
+
+Let's not get his hopes up just yet. Knowing the system, it was entirely possible this was just some other kind of memory shard.
+
+It might just show him how a hobgoblin took a shit or something completely useless.
+
+Laying there in the dirt, he stared blankly at the notifications. And he couldn't help but wonder how the hell he was even supposed to use the shard anyway.
+
+Did he need to eat it?
+
+Or maybe he just needed to crush it. But then, how to summon it?
+
+Answering his silent question, a new notification popped directly into his vision.
+
+Would you like to absorb [Regeneration] memory shard?
+
+Staring at that single beautiful word, a massive wave of pure elation washed over his exhausted body. There was absolutely no bigger happiness inside him at this exact moment.
+
+Yes! Give it to me! I'm ready!
+
+Blinking once, his entire vision suddenly just went completely pitch black.
+
+And then his eyes snapped wide open.
+
+Looking around, he was suddenly staring down from a much higher vantage point. He was entirely inside the body of the hobgoblin.
+
+And he wasn't in control of the body.
+
+Okay, this is extremely weird.
+
+Feeling the physical sensations of the massive creature, it felt unbelievably alien and utterly repulsive. He couldn't control a single muscle, acting merely as a helpless passenger inside an entirely different species.
+
+And the sheer, unfiltered malice practically oozing through the monster felt sickening. There was absolutely no humanity inside this creature, just a cold, predatory instinct that existed purely to slaughter and consume for the ultimate evolution.
+
+It was startling for such emotions to invade his psyche. Even more startling was how alien everything felt.
+
+Glancing around the filthy surroundings, he immediately recognized the area.
+
+It was the exact same goblin settlement where he had just rescued Alice from.
+
+But he didn't have any time to sightsee.
+
+Looking down at the massive green chest, he saw fresh tribal carvings etched directly into the dense muscle.
+
+A withered goblin shaman stood right next to him, holding a bloody bone knife. It had obviously just finished carving the tribal tattoos straight into its flesh.
+
+It stung, and the pain was immense. If it weren't for [Focus] putting a wall between him and this experience, he might've gotten lost in the memory a lot more.
+
+And then, the hobgoblin began to heal itself.
+
+Ramping up his [Focus] to maximum throttle, Ben forcefully merged its effects with his [Mana Sonar]. He wasn't going to miss a single second of this.
+
+Watching closely, he saw the life mana pull directly from the monster's core.
+
+It traveled up through specific pathways in the chest, surging right toward the fresh knife wounds.
+
+But this time, he didn't just see the mana moving.
+
+He actually felt exactly how the skill manipulated the life mana to knit the flesh back together. It was completely indescribable. It felt exactly like that time Hannah had forcefully made him aware of his own mana core.
+
+He could vividly feel those strange strings attached to his center, the exact strings that represented his skills, after she'd made him aware of them.
+
+And it was happening all over again right now.
+
+Burning into his consciousness, a complex runic inscription suddenly materialized in his mind. He just knew it was permanently carved into his brain. There was absolutely no way he would ever forget this specific pattern.
+
+Staring at the mental image, he couldn't help but wonder what the hell the runic inscription even was.
+
+It heavily reminded him of that elusive inscription he had seen back when he absorbed all that kinetic energy during the troll fight.
+
+Except, that one had frustratingly disappeared from his memory the second the weird trance ended, no matter how hard he tried to recall it.
+
+But this one was locked in forever.
+
+Blinking hard, his vision violently swam, and the goblin camp dissolved straight back into the dark canopy of the forest.
+
+He was back in his own bleeding, broken body.
+
+And a new notification was floating right in his head.
+
+Would you like to learn the skill: [Regeneration]?
+
+Hell yes.
+
+Congratulations! You have learned the skill: [Regeneration]!
+
+Grinning like a madman, he immediately brought up his status screen.
+
+Name: Benjamin
+
+Title: [Hunter]
+
+Tier: 1
+
+Skills (6/10):
+
+Focus (Uncommon) - Lvl 11
+
+Mana Sonar (Uncommon) - Lvl 5
+
+Fire Burst (Uncommon) - Lvl 13
+
+Warforged (Rare) - Lvl 3
+
+Mana Missile (Common) - Lvl 5
+
+Regeneration (Uncommon) - Lvl 1
+
+Finally.
+
+Focusing inward, he immediately activated [Regeneration]. And he mentally shoved every ounce of the skill's power straight down into his ruined leg.
+
+Because obviously, walking was a pretty big priority right now.
+
+Gasping sharply, he felt his mana reserves instantly take a massive hit.
+
+It was draining his core like a cracked bucket.
+
+Wow, that takes a lot of juice.
+
+But leaning his head back against the dirt, he just let out a strained huff.
+
+Well, it was a damn good thing he had a lot of mana to spare, then.
+
+Sitting up with a groan, he stared down at his mangled calf. That goddamn axe had gotten him insanely badly. Watching the torn flesh, he noticed the healing process was painfully sluggish.
+
+It wasn't some instantaneous miracle cure, which made sense given how low level the skill was, for now.
+
+Instead, the muscle fibers were just slowly knitting themselves together, inch by inch.
+
+It was going to take a while.
+
+Still, it was a fascinating process to watch. He wasn't even sure how this worked. Back on Earth, this would be considered a miracle. And Ben couldn't really imagine how this was possible. But then again, he had been just accepting the facts as they came, instead of pondering over it too much.
+
+After all, mana was real, magic was real, skills were real, everything was miraculous and outright impossible for his mind. But they existed here, and there was nothing much he could do other than accept that fact.
+
+Still, he couldn't help but curse a bit. Sure, the mana path was giving him insane benefits, like mana reserves huge enough to power an insanely hungry skill like [Regeneration], but his base body was still just weak, squishy meat.
+
+He could only do so much with [Warforged], or [Mana Reinforcement] before that. It only slapped an artificial layer of mana reinforcement over his fragility.
+
+It wasn't actually making his physical flesh any naturally tougher or denser.
+
+Frowning at his arms, he knew [Mana Missile] was slowly reinforcing them over time. And [Fire Burst], or more specifically, fire mana training Logan put him under, had definitely made his legs a little more durable as a byproduct to withstand the use of the skill.
+
+But it still wasn't enough to stop an axe from cleaving through his skin.
+
+He was hitting a hard limit. So he clearly had to use his mana as a direct substitute for actual physical toughness.
+
+And the only logical answer to that problem was getting more mana.
+
+Staring at his slowly stitching leg, he came to a solid conclusion.
+
+He absolutely had to figure out how to manually manipulate mana next. Or more specifically, that kinetic absorption thing. This was getting ridiculous. He needed a way to protect himself.
+
+He just hoped nothing would bother him while he healed himself. Surely, nothing would bother him, right?
+
+A rusted spear completely obliterated the tree right next to Ben's head as rolled to dodge.
+
+Well, that answers that.
+
+Scrambling to his feet, he forced his weight onto his newly healed left leg. The freshly knitted muscle protested, sending shockwaves of pain up his leg.
+
+But the weak [Regeneration] tissue held just enough to keep him upright, reinforced heavily by [Warforged].
+
+His arms were still completely useless meat sacks dangling at his sides, as he'd just started healing them when the creatures finally got to him. He had focused his mana into his calf just so he wouldn't be completely immobile.
+
+Five more goblins flooded into the clearing. Their ugly green faces were twisted in bloodthirsty snarls.
+
+Ben channeled mana into his good right heel. He really had to test that one legged [Fire Burst] theory right freaking now. He had no time to practice later. Igniting his foot, he launched himself backward just as three blades chopped into the where he had just been sitting.
+
+Flying through the air like a lopsided rocket, he desperately fought to keep his balance without his arms.
+
+Landing heavily on his right leg, he stumbled as searing agony flared up his left calf as it dragged harshly against the dirt.
+
+But he didn't have a single second to breathe.
+
+The goblins rushed him with completely reckless abandon.
+
+He fired off another [Fire Burst] from his right heel just to buy himself some distance. He was practically playing the absolute worst game of hopscotch in human history.
+
+Between the massive [Regeneration] upkeep and spamming these escape explosions, as well as the fight beforehand, he was running a bit low on juice.
+
+He couldn't keep running like this forever.
+
+Backing into a dense cluster of trees, he looked for a natural bottleneck to funnel the little bastards into. Without his arms to aim a [Mana Missile], he needed them grouped up so he could try blasting them with a kick.
+
+Triggering his [Mana Sonar], he threw a ping out into the woods to check for a safe path.
+
+The mental ping bounced off a massive, incredibly dense shape waiting directly where he was headed.
+
+That wasn't a tree—
+
+Crashing through the canopy above, a dark green goblin, easily twice the size of a human, dropped directly behind him, throwing Ben completely off his single good foot.
+
+Hitting the dirt hard, he rolled onto his back and looked up.
+
+The goblin casually ripped the head off a goblin that had gotten too close and tossed the corpse aside like garbage.
+
+Slowly turning its head, the monster fixed its yellow eyes directly on Ben's bleeding body, the chained spears resting on its shoulders.
+
+Oh, you have got to be kidding me.
+
+His luck was truly rotten.

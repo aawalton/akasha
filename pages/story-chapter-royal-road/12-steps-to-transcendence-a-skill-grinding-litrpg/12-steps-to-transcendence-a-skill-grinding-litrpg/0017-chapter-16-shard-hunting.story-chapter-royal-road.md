@@ -1,0 +1,311 @@
+---
+id: a791730e-0a0d-5318-819b-a9314db0277a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16: Shard Hunting"
+slug: 0017-chapter-16-shard-hunting
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 17
+ownLength: 2680
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3734732/chapter-16-shard-hunting"
+royalRoadId: "3734732"
+---
+
+Hunting three goblins took way longer than he initially expected. Ben spent the next hour actively hunting goblins through the forest, and ignoring everything else.
+
+Sneaking through the dense brush, he'd managed to successfully ambush them one by one.
+
+But none of the dead runts dropped a damn memory shard, or even had the healing skill.
+
+Is a healing skill really that rare, or is my luck just complete garbage?
+
+Sighing, he kept hunting. Tracking down more of the little green bastards ate up most of his day. In that time, he had plenty of time to keep trying what Hannah had taught him in hopes of learning the skill, but as always, it didn't work. He either wasn't talented in healing, had a low affinity, or the skill was just particularly hard to learn.
+
+Still, he kept trying, even as he tracked down a pair of goblins scavenging near a dead deer.
+
+He blasted out of the thick bushes and completely shattered both of their skulls in a matter of seconds. Surprise was, after all, the best weapon.
+
+But after killing them, he found neither of them had a healing skill either.
+
+But by the time it started getting dark, he finally realized it was a completely futile effort. None of the goblins he had killed ended up having a heal skill of any kind, much less actually getting any memory shards at all.
+
+Am I just that unlucky?
+
+Staring blankly down at his completely numb left arm, he sighed. The ugly dark purple veins had grown noticeably. Was the healing skill really that ridiculously rare among these feral monsters? Or was the universe just actively screwing with him at this point?
+
+Nothing in this completely messed up forest had actually gone his way so far.
+
+In fact, nothing since he woke up in this world had gone his way. First, he got apprehended by the soldiers. Against his will. And although that turned out to be for the best, even the people he grew close to there were snatched from him and he got teleported into this godforsaken place.
+
+Still…
+
+Crouching low behind a thick patch of bushes, he peered down into the goblin settlement he'd found near the stream. Scanning the busy camp, he desperately looked for any goblin dressed like a healer or a shaman, or anything like that.
+
+Instead, he got a front row seat to some seriously weird shit.
+
+Every single goblin in the camp was gathered in a massive circle around a central bonfire. Stomping their feet rhythmically, they started doing some kind of creepy ceremonial dance. Chanting loudly in their guttural, clicking language, they made a deeply unsettling wave of noise.
+
+What the hell kind of weird cult ritual is this?
+
+Frowning deeply, he watched them bob their ugly heads.
+
+It was incredibly unnerving.
+
+Wait… Is that…?
+
+A massive goblin stepped out of the largest crude hut at the back of the camp. The awful chanting instantly grew twice as loud. The surrounding monsters immediately bowed their heads in absolute deference.
+
+Yeah, this guy was definitely the boss.
+
+But Ben couldn't bring himself to give a crap about goblin hierarchy right now.
+
+His eyes were glued to the squirming bundle slung casually over the leader's meaty shoulder in pure shock.
+
+It was… a girl?
+
+Damn it. It's hard to see that far even with my enhanced sight.
+
+She looked to be exactly around his age, maybe a bit older. A filthy rope was tied tightly around her mouth like a crude gag. A dirty rag covered the top half of her face, completely blindfolding her. And her clothes were dirty, but they visibly looked like highly expensive, heavily tailored fabrics.
+
+Thrashing around on the massive goblin's shoulder, she kicked her bound legs in a desperate attempt to break free. The goblin leader clearly didn't give a single shit. Swinging his free hand, the monster smacked the back of her head.
+
+She instantly went limp, sagging against the monster's broad back as she passed out cold.
+
+What the hell is actually going on here?
+
+Since when did these feral, entirely stupid little bastards start actively taking actual human prisoners?
+
+He assumed they just ate absolutely everything they managed to kill!
+
+Clenching his jaw, Ben watched the leader carry her unconscious body toward the edge of the clearing where he stopped, waiting for something. The chanting of the smaller goblins started up again, rapidly growing frantic and utterly desperate.
+
+Then the trees on the far side of the camp suddenly parted.
+
+Holy shit.
+
+A hulking gray skinned troll stepped out of the forest. The beast was absolutely massive, easily towering over the biggest goblins in the camp.
+
+The awful chanting stopped completely.
+
+Every single goblin dropped to their knees and bowed so low their ugly faces literally smashed into the dirt. Watching in stunned silence, Ben saw the goblin leader carefully hand the unconscious girl over to the towering beast.
+
+The troll grabbed her by the ropes, holding her like a cheap sack of potatoes.
+
+Snorting loudly, the giant monster turned around and just casually lumbered back into the dark trees.
+
+The goblins stayed completely frozen on the ground until the footsteps faded away completely. Then, they just stood up and went right back to their weird dancing like absolutely nothing had happened.
+
+Going after that massive troll was literally the dumbest thing he could possibly do right now.
+
+Like, absolutely suicidal.
+
+His left arm was completely unusable, he was tired after a whole day of hunting, he was standing only because of [Mana Reinforcement] and [Focus], and he was currently dying of an unknown poison. He had literally zero business picking a fight with a monster three times his size.
+
+Plus, he didn't even know what a troll could actually do.
+
+It's massive. It'll probably just rip me in half.
+
+Saving a random, blindfolded girl was definitely not his problem right now. He didn't even know the girl. He needed to be hunting goblins for a healing skill memory shard, not playing a damn hero.
+
+So.
+
+Why the hell are my feet moving?
+
+Sneaking silently through the dark woods, he stayed exactly thirty paces behind the lumbering beast. His brain was actively screaming at him to turn around and leave her to her fate, but his body completely ignored basic logic.
+
+Idiot. I'm an actual idiot.
+
+Trailing the monster for a solid ten minutes, he waited patiently until the awful goblin chanting completely faded away into the distance.
+
+They were definitely far enough away from the camp now.
+
+Now or never.
+
+Triggering [Fire Burst], he rocketed out of his hiding spot, the golden flames blasting against the dirt, launching him straight at the giant gray troll's back.
+
+He didn't even bother aiming for a kill shot right away.
+
+Thrusting his right hand forward, he slammed the goblin dagger directly into the troll's thick shoulder. Specifically, he aimed right for the meaty joint of the arm casually holding the girl.
+
+The hulking beast roared in shock and pain.
+
+Releasing its grip immediately, the troll let the tied up girl slip right off its back. Catching her mid air with his right arm, Ben instantly fired another blast from his feet.
+
+He blasted backward, blinding and slamming the [Fire Burst] into the creature as he did so, carrying them both deep into the thick foliage.
+
+Dropping her behind a large tree, he didn't even pause to check if she was actually breathing. She was safely out of the way for now. Turning back toward the small clearing, he stared down the deeply enraged troll.
+
+This is a remarkably bad idea.
+
+But he blasted forward anyway.
+
+Closing the distance in a split second, he swung his right leg all the way up. He slammed a point blank [Fire Burst] directly into the troll's ugly face.
+
+The intense explosion of golden fire completely engulfed the monster's eyes.
+
+Grabbing the hilt of his dagger still securely wedged in its shoulder, he yanked it out, making sure to do as much damage on the way out as possible. He twisted his body mid air, blasting himself backward just in time to dodge a massive, flailing fist.
+
+The troll shrieked in absolute agony.
+
+Clawing blindly at its deeply charred face, the beast started wildly throwing its massive arms around. It smashed into trees and tore up the dirt in a complete panic.
+
+Shifting his momentum, Ben blasted right back in.
+
+He didn't give the thing a single second to recover its bearings. Firing off a rapid sequence of explosions directly from his heels, he bounced around the blind monster like a literal pinball dodging any and all attacks.
+
+He slashed at its thick tendons and blasted its massive knees over and over again. But his normal attacks just weren't cutting deep enough through that incredibly rubbery gray skin.
+
+Screw it. Go for the top.
+
+Channeling a good chunk of his mana down into his feet, he launched himself straight up into the air. Soaring high above the wildly flailing beast, he flipped his body downward.
+
+He aimed both of his heels directly at the center of its massive, bald head.
+
+Die.
+
+He unleashed a massive continuous stream of [Fire Burst]. Explosion after explosion slammed mercilessly into the troll's skull. The sheer concussive force of his own magic drilled down into the monster.
+
+The thick skull finally gave way and the troll's head literally exploded like a popped melon. Brain matter and deeply charred meat scattered everywhere.
+
+The massive headless body swayed for a brief second.
+
+For a moment, Ben held his breath.
+
+But then, the troll's body slammed heavily into the dirt.
+
+[Tier 1 Troll slain. Essence gained.]
+
+[Mana Reinforcement Lvl 3 > Lvl 4]
+
+[Unarmed Combat Lvl 2 > Lvl 5]
+
+[Mana Sense Lvl 8 > Lvl 9]
+
+Landing on his feet, Ben stumbled forward and caught himself against a nearby tree trunk. He gasped for air, letting his rapidly depleting mana reserves finally settle.
+
+Okay, that took way too much out of me.
+
+He wasn't going to be fighting until he recovered enough mana with the cycling technique. Kicking the headless corpse over onto its back, he quickly patted down the monster in hopes of finding anything useful.
+
+But… he found nothing.
+
+Cheap bastard.
+
+Sighing heavily, he left the smoking carcass behind and walked back toward the tree he'd left the girl. The massive string of fiery explosions had obviously done the trick. The girl was completely awake now. She wasn't thrashing around anymore, but she was still tightly bound and blindfolded.
+
+Hearing his footsteps, she visibly perked up as she froze entirely in place. She was absolutely terrified. Stepping directly into her field of view—not that she could actually see him—he paused.
+
+"Are you okay?"
+
+She flinched at the sound of his voice.
+
+Staring at her frozen form, he waited for a response. But she just sat there, trembling slightly in the dirt.
+
+Wait.
+
+He blinked slowly, his exhausted brain finally catching up to basic reality. She couldn't actually speak right now.
+
+Because she still had a filthy rope tied tightly around her mouth.
+
+Right. I'm an idiot.
+
+Feeling incredibly dumb, he stepped closer. She flinched as she felt his hands around her face.
+
+"Relax, I'm just taking the gag off."
+
+Pulling the knot loose, he pulled the dirty rag down around her neck before untying it off her fully. Then he reached up and pulled the blindfold entirely off her face as well.
+
+Blinking rapidly, the girl squinted hard at him. She rubbed her face against her shoulder since her hands were still tied firmly behind her back.
+
+Finally adjusting to the lighting, she looked straight up at him. And her fear disappeared the moment she found out he was a human.
+
+"Are you the one who saved me from that lumbering brute?"
+
+Her voice wasn't shaking even a little bit. In fact, she sounded incredibly haughty, tilting her chin up like she was literally looking down at him from a golden throne.
+
+Ben just stared at her in utter disbelief.
+
+"No, it was the other guy standing in the middle of that completely destroyed clearing."
+
+She nodded approvingly.
+
+"I see. You have my gratitude, commoner. You may untie my hands now. I shall thank the noble hero who saved me."
+
+Blinking, he awkwardly shifted his limp left arm out of the way. He genuinely wanted to just leave her here tied near the tree. But he was the older one here, technically. So he knelt down anyway.
+
+Fumbling with his one good hand, he eventually managed to loosen the thick ropes binding her wrists and ankles.
+
+Rubbing her chafed wrists, the girl gracefully stood up and dusted off her highly expensive, albeit filthy, clothes. She didn't look like someone who just woke up strapped to a monstrous troll.
+
+She just looked mildly inconvenienced.
+
+Ben tilted his head.
+
+"I was joking. I saved you. And why exactly are you so calm right now? You were literally just kidnapped by feral monsters."
+
+Puffing her chest out, she placed both hands confidently on her hips.
+
+"Obviously, I underwent rigorous kidnap training when I was younger!"
+
+…Huh?
+
+What in the hells is kidnap training?
+
+"…What's that?"
+
+"It is a standard curriculum for any high ranking noble." She beamed proudly. "I was taught precisely how to preserve my mana, observe my captors, and wait for an opening or a rescue."
+
+Sighing heavily, Ben pinched the bridge of his nose. His headache was actively getting worse, and the dark purple veins on his neck were burning hot.
+
+He did not have the time or the patience to deal with an arrogant rich kid.
+
+"Okay, Miss Kidnap Expert. How did a bunch of weak little goblins even catch you in the first place?"
+
+Her confident posture instantly deflated. Looking awkwardly away, she kicked at a loose rock with her expensive leather boot.
+
+"That… was a minor miscalculation on my part."
+
+Of course it was.
+
+"I am a scion of House Vane," she declared, quickly trying to regain her haughty composure. "I was participating in a standard hunting expedition to gain combat experience alongside the youths of one of our vassals, House Sterling."
+
+"So where are your guardians? Or the rest of the kids?"
+
+"We were engaging a pack of dire wolves. My designated bodyguards were entirely occupied protecting the Sterling heir because in the middle of the engagement we suddenly got attacked by an army of flaming reanimated trolls. They seemed to be giving even the guards some trouble! I simply… stepped away from the main group to secure a better vantage point for my attacks."
+
+Translation: she wandered off like a moron and got ambushed.
+
+Then again, she was a kid.
+
+"And then the goblins jumped you?"
+
+"They were incredibly cowardly!" she huffed angrily. "One of their shamans used some sort of foul sleeping powder from the trees. I awoke already bound and my skills restricted! I do not know how such a high Tier goblin shaman grew in this place, they typically do not have skill restricting skills!"
+
+Hearing the word 'shaman', Ben's ears instantly perked up, but not because the goblin might have a healing skill, but rather, someone else might have!
+
+"Wait. Did your bodyguards have a healer with them?"
+
+Looking at him like he was completely stupid, she scoffed.
+
+"Obviously. We are nobles. We do not venture into the wilds without a dedicated and exceptional healer in our retinue."
+
+A healer.
+
+That sounded like someone who could definitely cure an unknown poison. Suddenly, saving this wildly annoying, arrogant girl didn't seem like the dumbest thing he'd ever done.
+
+It was actually his only ticket to surviving the night. And possibly the luckiest he'd been today!
+
+"Great. So which way is your camp?"
+
+"I have absolutely no idea."
+
+Ben slowly turned his head back to look at her.
+
+"You don't know?"
+
+"I was unconscious and blindfolded, you fool! How would I know which direction those filthy creatures carried me?"
+
+I am going to strangle her.
+
+He thought calmly.

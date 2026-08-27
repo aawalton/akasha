@@ -1,0 +1,129 @@
+---
+id: 2fee1e08-c947-58d6-988c-1b83fa5e980f
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 195"
+slug: 0036-the-level-zero-hero-chapter-195
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 36
+ownLength: 1715
+unit: words
+publishedAt: 2024-01-13
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1476388/the-level-zero-hero-chapter-195"
+royalRoadId: "1476388"
+---
+
+It was really starting to become a big hassle for me to deal with. I didn’t expect it to be troublesome— when I agreed to take in the bastion bees so they could have another new colony near my restaurant. It had seemed like such a great deal to me back then.
+
+I was going to have a free supply of honey that could substitute as a kind of curry. Not only that, but they were sacred monsters. Intelligent ones at that. I could have probably used them as bodyguards or mascots for my restaurant too.
+
+That was what I thought.
+
+And certainly, that was what happened for a while. Until the eggs hatched. Since then, I had to deal with the swarm of baby bastion bees and their annoying newborn queen. Now, having them around seemed to cause more trouble than they were worth. After all, because of the incident that happened this morning…
+
+“No one is showing up,” I muttered, staring at the mostly empty dining hall of Bucky’s Out of this World Restaurant.
+
+There were still some customers, of course. About a dozen folks were seated across various tables and chairs inside of the restaurant. But considering that this was the lunch hour, and the room would be at max capacity, with a long queue spilling out the front door… this was empty, to me.
+
+I sighed, rubbing my temples as I leant against the bar. Arthur stood next to me as he wiped a glass clean. He looked at me apprehensively, but he didn’t say a word. I didn’t need to be in the kitchen for once, because there was nothing for me to cook.
+
+Even Edlyn was sitting at a table, chatting with Harlan as they both ate some fried rice. I shook my head and closed my eyes.
+
+“I have no customers…” I whispered.
+
+“Of course you don’t,” a voice scoffed in reply, drawing my attention.
+
+I blinked my eyes open and looked up. I saw Dorien standing there with his arms crossed. He was one of the few customers that were dining at my restaurant right now, alongside Nolan. The two of them had come here for lunch since Nicole was off to Whiteridge to conduct business.
+
+Noele wasn’t anywhere to be seen. Not since yesterday. And I knew the reason why.
+
+For now, I focused my attention on what was in front of me. The [Druid] stared back at me with a frown.
+
+“No one is going to dine at this establishment after what happened with those bastion bees.”
+
+“And how is that my fault?” I rolled my eyes. “The baby queen bastion bee has been acting up ever since it hatched. They literally attacked me for a full day straight.”
+
+Dorien nodded along with me, before pointing my way. “Yes, yes, the newborn bastion bees are antagonistic and aggressive to anything that approaches their hive. Which is entirely your fault!”
+
+“That literally makes no sense,” I said flatly.
+
+“But it does,” he countered.
+
+“How?”
+
+“Simply put—” Dorien said in a lecturing tone as he wagged a finger at me. “Bastion bees are territorial creatures. They will defend their hive by any means necessary from anything they consider a threat.”
+
+I frowned, crossing my arms. “That still doesn’t seem like it’s my fault. If anything, it’s Quebi’s fault for not hatching her babies herself then teaching them to not be a bunch of little assholes.”
+
+“But you see, you abandoned them as soon as they were born,” the [Druid] continued, eyeing me accusingly. “When you should have been there for them. You should have been there to protect them from outside threats. However, you were absent when Nicholas the Noble Knight appeared.”
+
+I just raised a brow as Dorien sighed, lowering his head.
+
+“You spent all your days cooking in your kitchen, then you left for Astral when they were in most danger. And because they were threatened without anyone to protect them, their newborn queen was forced to prematurely take up the leadership role of her hive before she was ready.”
+
+“And that’s why they’re so aggressive?” I narrowed my eyes. “Because the baby queen is too immature to be a ruler? That doesn’t make sense— isn’t it a queen?”
+
+“When a new queen bastion bee is born, her mother, the previous queen, is there to raise her until she is ready to form a new hive. She is not ready. Not in the slightest.” Dorien lowered his head, speaking in a low voice.
+
+I pursed my lips. “Can’t you talk to it? Or her? Or whatever you want to call the baby queen?”
+
+The queen bastion bee had been named Quebi. Which was a terrible name. Once this whole ordeal was over, I was going to make sure the baby queen would have a much better name. Like Eloise or Elizabeth. Those sounded like names fitting a queen.
+
+Unfortunately for me, the [Druid] shook his head. “I cannot. Firstly, I have to earn her trust. And even if I do, you will have to earn her trust by yourself. So this is something you must do, not me.”
+
+“That sounds like a massive pain in the ass,” I said, scowling.
+
+Dorien held my gaze. “This is no simple matter. When you agreed to take in this new colony of bastion bees, you were promised to protect them. However, before you can even do that, you must prove yourself worthy to be their protector. It is a difficult undertaking, I am sure. However, if you didn’t wish to bear this burden, you should not have agreed to it in the first place. I am sure you agree with me, no?”
+
+I met the [Druid]’s eyes. Despite his disheveled appearance, he did not wear a crazy look on his face. He peered at me with a wizened gaze, and he spoke words of wisdom. I knew what he said was true. There was a trade-off in any interaction. Every action had a consequence.
+
+I couldn’t just have the bastion bee’s honey for free. If I wanted to have easy access to a continuously replenishing supply of their honey, I had to bear the responsibility of looking after their hive. I had to bear the responsibility as their protector.
+
+Unfortunately for me—
+
+“I fucking hate having responsibility,” I sighed.
+
+“Nobody likes having responsibility,” Dorien replied with a scoff. He shook his head, taking a step back from the bar. “Unfortunately, that’s what we must all suffer through if we want to live in this world.”
+
+“...you’re assuming a lot about me,” I murmured under my breath as I watched him go.
+
+He didn’t catch what I said, having already returned to Nolan to finish his drink. I just leant against the bar counter, sighing once again.
+
+“What do I even do?” I asked, and no one answered. I craned my head back to face the man standing behind me. “I’m talking to you, Arthur. Do you have any ideas?”
+
+And Arthur blinked back at me, nearly dropping a mug. He quickly placed it down on the bar and straightened. He had been a Lich King once— a powerful being who nearly took over the world, afraid of nothing at all. Now though, he was just my bartender who got startled easily when he was lost in his thoughts.
+
+“Uh, I wasn’t really paying attention to your conversation,” Arthur replied sheepishly, scratching his cheek.
+
+“What do I do about the bastion bees? I have to prove myself as a protector or something to the baby bastion bees because they don’t think I’m reliable. That’s why they’re attacking everyone…” I trailed off, trying to think of a plan of action.
+
+Arthur frowned and placed a hand on his chin. He thought about it for a moment, before giving me a nod of approval.
+
+“Well, I think you’re very reliable, Amelia,” he said as he patted me on the shoulder.
+
+I rolled my eyes. “Thanks, but that doesn’t really help. I’m looking for solutions, not your praise.”
+
+“Right…” He scratched the back of his head.
+
+“You used to be a ruler, right? How did you gain your people’s trust as… you know?” I gestured at Arthur.
+
+And he flinched at the thought of his previous life as the Lich King. He bit his lower lip, before taking in a deep breath to steel himself. He looked back up at me and gave me a helpless look.
+
+“Unfortunately, I wasn’t… that kind of a ruler,” Arthur said hesitantly. But after a moment’s deliberation, he continued, “However, many great rulers rose to power during my time because of the threat I posed to them, promising they’d be the one to defeat me. So I think if you really want to gain the trust of the baby bastion bees, you just have to save them from a threat.”
+
+“And how am I supposed to find a threat to them?” I folded my arms across my chest. “Am I supposed to just find some monsters wandering Wolfwater with the intent of harming the hive?”
+
+“You could manufacture it?” the former Lich King suggested with a shrug. “It doesn’t have to be a real threat. As long as they perceive it as a threat, and you save them, I think that’s fine.”
+
+“That’s…” I blinked. I slowly nodded as I grinned at my bartender. “That’s a very good plan. I could just ask someone to attack the hive, then stop them, and we’ll all be good. You deserve a raise for that plan, Arthur. But—”
+
+I swept my gaze over the room with a frown.
+
+“How am I supposed to find someone stupid enough to volunteer themselves to get their ass kicked by me?”
+
+As soon as the words left my mouth, a man stepped out of the kitchen. He was glowering as he usually did, dressed in an uncomfortable uniform I made him wear while he was working here. His long and pointed ears twitched irritably as I looked up at him.
+
+I exchanged a glance with Arthur, the both of us realizing the same thing. Then I smirked as I turned back to the elf standing before the kitchen.
+
+“Hey, Jax. I need your help.”
+
+And the Forsaken Archer just tilted his head. “What?”

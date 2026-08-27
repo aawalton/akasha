@@ -1,0 +1,271 @@
+---
+id: d47e5d75-6381-5d74-81d3-e9b89ce7ee92
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: Skill Evolution"
+slug: 0011-chapter-10-skill-evolution
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 11
+ownLength: 2120
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3708220/chapter-10-skill-evolution"
+royalRoadId: "3708220"
+---
+
+Two weeks had gone by since that moment with Hannah, and his core was finally starting to respond to her daily training sessions. Ever since he resonated with her life affinity, Hannah had been showing him the basics of a skill called [Regeneration]. At the same time, he was working to push [Focus] to the threshold.
+
+But all of it was proving to be difficult, and the frustration was starting to show.
+
+[Physical Conditioning] had leveled up, but [Focus] had stopped progressing after he reached level 9. When he asked Hannah about it, she'd simply rolled her eyes.
+
+"That's only natural. The last few levels are always the hardest."
+
+"So you're saying it could take me months or even years to level up skills once they're high rank?"
+
+"No, it actually gets easier as you gain more skills and improve. The funny thing is, [Focus] itself will help you get through that slog at the end faster. If you want that effect later on, though, stick with the basic evolution of [Focus] instead of taking one of the other paths once you hit the threshold."
+
+"I see."
+
+"Anyway, let's get back to [Regeneration]. It's going to be tough." Hannah folded her arms. "We don't have enough time to teach you how to control your mana, so we'll just try to guide it passively until skills do the work for you. You can learn to control mana later. If you can't pick up the skill on your own, the only other option is a memory shard. And unless you want to hunt goblins, since they're the best targets for [Regeneration], you should try harder."
+
+And then his [Regeneration] training went on. They still weren't sure if he could learn the skill, since his resonance to life affinity wasn't strong enough. To make things harder, she could tell he also reacted to kinetic affinity, so he kept getting exposed to that as well.
+
+She seemed oddly melancholic about that fact for some reason, though.
+
+Ben, on the other hand, was very excited and could barely hide it.
+
+Kinetic or life, both of them were absolutely great options. But if he could get his hands on both? That would be absolutely amazing!
+
+If he had life affinity, he could just heal himself whenever he got hurt. And if he gained kinetic, combining it with his fiery explosions would be really cool.
+
+Hannah didn't seem too hopeful about his chances of resonating with the affinity, though.
+
+But for now, he had much bigger problems to worry about.
+
+Like trying to spar with Logan.
+
+Keyword: trying.
+
+Because the scarred bastard hadn't moved a single inch from where he stood.
+
+Igniting his heels, Ben sped around the man in a fast blur of movement. He fired off quick bursts from his heels, zigzagging around Logan across the training ground.
+
+Building up a terrifying amount of momentum, he launched himself straight at the older man. Swinging his leg in a wide arc, he aimed a fire propelled kick directly at the man's ugly mug.
+
+But hitting Logan was literally impossible.
+
+Connecting with an invisible, blazing barrier of fire, Ben's foot met a concentrated explosion of equal force.
+
+A shockwave of displaced air rippled outward from the collision.
+
+Ben was violently pushed away, skidding backward across the dirt on his bare heels.
+
+Total bullshit.
+
+Growing ridiculously sweaty, Ben decided to give it everything he had. He poured way more mana than needed into his left leg and tore through the air like a missile, leaving a trail of orange flames behind. Using all his speed for one final move, he aimed a strong kick at Logan's face.
+
+The kick connected to the invisible barrier, leaving a massive arc of fire bursting in his wake. But it didn't do anything. Ben frowned. Just how strong was this barrier? Ben twisted and shot his other foot bursting toward his face as well.
+
+But Logan had apparently decided he was done playing.
+
+Ben realized what was happening, but it was too late.
+
+A solid wall of air slammed into Ben's chest like a train. Air got knocked out of his lungs as he got flung to the side at breakneck speeds.
+
+But the actual attack hadn't even touched him.
+
+The explosion of fire and pressure shot past him and ripped through the earth, leaving a huge, smoking trench in the dirt.
+
+Tumbling through the air, Ben slammed into the ground and slid across the dirt until he skidded to a painful halt.
+
+He wheezed and pushed himself up on shaking elbows.
+
+Breathing was suddenly very, very hard.
+
+It hurt.
+
+But when he looked past his legs at the place where the explosion hit, a lump formed in his throat and cold sweat ran down his neck.
+
+He missed on purpose.
+
+Just what Tier is he?
+
+For the past two weeks, he had been training nonstop with Hannah while trying to get through daily spars with Logan. And through it all, his intense desire to punch the grumpy man in the face had only grown exponentially.
+
+But he still hadn't managed it, not even once.
+
+He hadn't even grazed him.
+
+Looking at the smoking trench, he realized just how outmatched he really was.
+
+Maybe that's what he's trying to teach me…
+
+Ben pushed himself to his feet, even though his legs were shaking.
+
+That there are people out there much stronger than me. I need to be careful and not get too comfortable with the little strength I have.
+
+Noticing his shaking legs, Logan finally moved. He turned his back and just walked away.
+
+Ben knew exactly what that meant.
+
+The spar was over.
+
+Logan hadn't said a single word throughout the entire fight, as usual. So no matter what Ben did now, the man absolutely wouldn't turn back around.
+
+Ben let out a heavy sigh and sank back into the dirt, completely defeated.
+
+But feeling sorry for himself wouldn't fix his bruised ribs.
+
+He opened his system and checked the notifications he had accumulated over the past two weeks.
+
+[Mana Sense Lvl 4 > Lvl 5]
+
+[Fire Burst Lvl 2 > Lvl 5]
+
+[Physical Conditioning Lvl 6 > Lvl 7]
+
+Unexpectedly, that wasn't the end of the notifications, as another notification suddenly appeared in his vision.
+
+[Focus Lvl 9 > Lvl 10]
+
+Congratulations! [Focus] has reached the pinnacle of its current rank.
+
+Blinking away the lingering exhaustion, he grew excited. Watching his skills progress was nice, but honestly, this was far better!
+
+At last, something good had happened.
+
+He leaned forward, eager to see what would happen next.
+
+Evolution Requirements met. You have four paths you can walk forward in. Do you wish to proceed?
+
+So this was how it actually worked. After a mental confirmation, another notification appeared.
+
+The offered skill paths are based on your performance up until now. Choose carefully!
+
+Please select your path:
+
+Damn.
+
+He stared at the floating runes, and for a moment, his mind just stopped working.
+
+Of course, the damn System refused to give him any actual descriptions.
+
+Even just from the names, though, he could guess what these evolutions might do. Or at least make some assumptions. As he looked at the options, he almost started to drool.
+
+[Battle Focus] sounded like exactly what he needed to survive getting beaten half to death by Logan every day. [Parallel Processing] was basically a cheat code for multitasking. Don't even get him started on [Monarch’s Indifference]. Even though the name was rather vague…
+
+Honestly, it just sounded cool as hell.
+
+He was really tempted to just pick one of the flashy new options. But then he remembered Hannah's stern warning about this exact situation, and the excitement faded.
+
+For his innate skill, sticking to the general, overarching enhancement evolution path was the smartest play for the long run. Restricting his core foundation this early on was just asking to be bottlenecked later.
+
+He could always branch out and specialize with other skills he picked up down the line.
+
+He bit the inside of his cheek and made himself move on from the tempting options.
+
+Future proofing is a bitch.
+
+Picking the very first option on the list, he finalized his choice.
+
+Congratulations! [Focus - Lvl 10] (Common) has evolved into [Focus - Lvl 1] (Uncommon)!
+
+My levels!
+
+Staring at the notification, he felt his heart genuinely cry out in protest. His hard earned levels, gone, just like that! He instantly opened his main status screen to check. And sure enough, the new uncommon skill was right there at level 1.
+
+He tried to convince himself they weren't really gone. Like Hannah said, they were just hidden, cumulative levels baked into the foundation of his shiny new skill.
+
+They're still there in spirit.
+
+He tried to reassure himself, holding back a sigh of profound loss.
+
+Ben winced and let out a sharp hiss as pain shot through his ribs. Sitting on Hannah's bed in her tent, he felt like he'd been run over.
+
+Hannah pressed her glowing hands to his bruised chest and frowned.
+
+"Do you want me to have a word with him?"
+
+She glared at his battered torso, clearly annoyed by how hurt he was.
+
+"I can tell that meathead to take it easy."
+
+Ben shook his head right away and groaned when the movement made his body ache.
+
+"No, it's fine. I want this."
+
+He sighed quietly and leaned back.
+
+As much as he hated getting beaten up every day, he had to admit the truth. It was helping him level up his skills a lot, and Logan wasn't actually a bad person.
+
+He was absolutely certain of that now.
+
+Logan was taking hours out of his busy day to train him, and he wasn't even getting anything out of it.
+
+He was teaching him incredibly valuable lessons about combat and mana control.
+
+Besides, Ben had also been working on something new, trying to develop a skill in response to the sparring. He was using mana to strengthen his body, since controlling it outside his body just didn't work.
+
+He realized he could pour mana straight into his body, so he kept doing it, hoping it would help somehow. Telling Hannah turned out to be smart, since she quickly reassured him and said they'd planned for him to learn that skill anyway.
+
+Apparently, it was one of the skills that could pair well with one of his other skills.
+
+Still, he didn't know what the result would be yet.
+
+"I still have a lot to learn from him."
+
+Ben looked at the healer and gave her a genuine smile.
+
+"And from you. And Duncan, too."
+
+Honestly, he had completely forgotten about the shipment by now. It clearly wasn't going to show up anytime soon, which meant he was stuck in this camp for the foreseeable future.
+
+He really didn't mind it at all.
+
+Hannah rolled her eyes and sent one last wave of soothing life mana into his ribs.
+
+"You're becoming just as crazy as the rest of their family."
+
+"...Huh?"
+
+Blinking rapidly, Ben stared at her in total confusion.
+
+"Wait, what do you mean family?"
+
+Hannah gave him a flat look. "Don't tell me you didn't know. Logan and Duncan. They're brothers."
+
+"What?!"
+
+Ben stared blankly at the tent wall, his mind almost shutting down. Now that he actually thought about it, they did look a little bit alike.
+
+Both of them were huge and intimidating, like walls of muscle. But he never would have guessed they were really related!
+
+"That... is insane."
+
+Hannah let out a soft chuckle, pulled up a wooden stool, and sat down next to him. "They don't talk about it much. But they're out here in this hellhole for a very specific reason."
+
+She leaned forward a little and lowered her voice.
+
+"Their family used to run a massive merchant guild back in the capital before a rival faction wiped them out. Logan and Duncan are obsessed with getting strong enough to take their home back."
+
+She smiled bitterly.
+
+"They want to build a safe haven for the few remaining survivors of their house. That's their dream. But don't tell them I said that. Logan will probably have my head, hehe."
+
+Ben lingered for a moment, but then asked:
+
+"What about you, Hannah?"
+
+He looked at her with curiosity.
+
+"Don't you have any dreams?"
+
+Hannah went completely silent. She opened her mouth to speak but stopped herself, and took a breath.
+
+"Well, I actually wanted to talk to you about that. You see, I was wondering if, you know, if you wanted to—"
+
+A deafening noise broke the quiet evening.
+
+CLANG! CLANG! CLANG!
+
+Ben felt his blood run entirely cold as bells rang out across the camp.

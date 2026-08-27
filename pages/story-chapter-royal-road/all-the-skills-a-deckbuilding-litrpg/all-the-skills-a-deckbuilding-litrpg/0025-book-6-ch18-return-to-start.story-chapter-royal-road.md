@@ -1,0 +1,283 @@
+---
+id: a3c6cc88-61c6-5e16-95aa-9484e0f25673
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Ch18: Return To Start"
+slug: 0025-book-6-ch18-return-to-start
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 25
+ownLength: 2570
+unit: words
+ownProgress: 2570
+publishedAt: 2025-07-02
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2402203/book-6-ch18-return-to-start"
+royalRoadId: "2402203"
+removedAt: "2026-07-03T13:47:48.708Z"
+---
+
+Brixaby paused and tilted his head up in a pose of clear consideration. Watching him, Arthur felt a swell of pride. Through trial and error, Brixaby had finally learned that some things needed to be thought through. What to do with a Legendary card was certainly one of them.
+
+There were many paths Brixaby could take. He could, of course, present the card to Lung Bai. This would ingratiate him in her eyes, and it was no small thing. He could easily use that favor as leverage to gain access to her library. As she'd been collecting Legendary cards for the length of her reign, Brixaby could easily find another that fit his existing deck.
+
+On the other hand, he could use the venom card for himself. Though... it was quite different from his other cards. Arthur suspected there was a danger of his cores becoming unbalanced. Dragon cores were not human heart decks. Cards—especially powerful ones—could alter a dragon from within. Joy was proof of that with her green arm, venomous hand claws, and edgier personality.
+
+Of course, Brixaby could wait to decide what to do. Thanks to Reginald, Arthur had access to a safe place to store shards and cards that wouldn't add magical weight to their Personal Spaces. They could hide the venom card in there, and no one would know until they needed it later.
+
+The more Arthur thought about it, the more he liked that idea. Once he became more proficient with his Card Smithing, he could alter the card into something else that fit Brixaby better.
+
+He could—
+
+In the blink of an eye, Brixaby snatched the venom card out of Arthur's hand. He tossed it into his mouth, snapping his teeth together around it.
+
+Arthur sighed. Or Brixaby could use his Call of the Void to take part of the card's power for himself.
+
+"I wish you had waited to do that. You passed out last time you ate a Legendary," Arthur grumbled.
+
+"Bah!" Brixaby said. "I was but a hatchling then. I am much stronger now."
+
+Abruptly, he burped green gas. Everyone edged away.
+
+Brixaby burped again and winced, his claws going to his stomach.
+
+"Brix," Arthur said. "Are you—"
+
+With a pained groan, Brixaby doubled over, his wings curling around himself. He didn't burp again. Now green toxic gas was leaking out from between his scales as if he had sprung leaks.
+
+"Brixaby!" Arthur started to go to him but was stopped when Horatio grabbed one arm. Cressida grabbed the other.
+
+"Let me go!" Arthur snapped.
+
+"He'll be fine," Cressida said. "But you may not be if you breathe that toxin in. Arthur, give him space."
+
+She was right, and he hated it. By now, Brixaby was covered by green mists. It clung to him unnaturally. As he looked on at his dragon helplessly, Horatio turned to Cinderwood.
+
+"Don't just stand there! Boost him!"
+
+"I cannot heal him. Those are Legendary-level toxins—"
+
+"Then give him Stamina or whatever boost you can think of. You know your cards better than we do. Are you part of this retinue or not?"
+
+She reeled back as if she had been slapped but then immediately turned to breathe on Brixaby. Her faintly glittering breath settled over him and washed away the glowing cloud of green that surrounded him.
+
+Brixaby opened his eyes. Gone was the blood-red coloration he'd had since he hatched. Now his eyes were the same toxic green as the cloud.
+
+Joy landed near him, her own green arm reaching out as if she wanted to comfort him, but she didn't dare.
+
+Suddenly, Brixaby straightened and roared—he must have poured his Stunning Shout into it because the strength of the roar rattled Arthur's bones and was loud enough to cause another landslide from what was left of the eruption cone. Luckily, it was on the side away from them.
+
+Then Brixaby wavered and collapsed.
+
+"Brixaby!" Wrenching away from the restraining hands, Arthur ran to him. The toxic cloud had dissipated, but he wouldn't have cared if it hadn't.
+
+The purple highlights under his scales were now toxic green. When Arthur lifted his lips, he saw that his gums were also green-tinted.
+
+But his breathing was regular, and through the bond, Arthur felt the strength of his life force. It hadn't wavered or dimmed.
+
+"He'll be okay," Cressida said, joining him. "The card said it carried immunity, remember?"
+
+"When Brix eats them, he only absorbs part of the card's power. What if—" Arthur couldn't finish.
+
+"He'll be okay," Joy echoed. "It's a strong card, but Brixaby is stronger. I feel he'll be fine," she said again with emphasis.
+
+Except the way she hovered nervously near him gave some lie to her words.
+
+"Cinderwood and I are large enough to carry him back to the hive," Sams put in. "He should be in a sheltered place until he wakes."
+
+"No," Cinderwood said. "If the hive sees him in a diminished state, having to be carried back home by mere Rares, they may view his entire leadership as weak."
+
+Arthur closed his eyes. She wasn't wrong. If he were a normal leader, he would ask Desmond, Sybil, or both to step in while he made sure Brixaby recovered out of sight.
+
+The two of them were spineless, but instinct told him it would be catastrophic to let them know Brixaby needed to recover. While they wouldn't do anything, they had loose lips.
+
+Arthur pressed his hand to the base of his dragon's neck. His heart rate was perhaps a little elevated, but steady.
+
+And... was it his imagination, or were the highlights of purple starting to peek through the green here and there?
+
+The card was strong, but Brixaby was absorbing it.
+
+He'll be okay, he told himself, standing to his full height again. And there's one more thing I have to do.
+
+He'd wanted Brixaby along with him, but...
+
+Arthur steeled himself. "I don't think we should move him while he's absorbing the card." He turned back to his retinue, who were watching him. "And there's one more thing that needs to be done while we're here."
+
+"What's that?" Horatio asked.
+
+"I told you guys about the nests we found at the last eruption we harvested. They were the ones that hadn't had the chance to hatch yet. Below that," Arthur said, "is the heart of the eruption."
+
+"Like the dark heart?"
+
+"Yes, except still intact and not corrupted into a trap." Arthur nodded. "I don't intend to enter the heart, but I do mean to harvest it."
+
+No one looked happy about this. Least of all, Cressida.
+
+"Is this the time? Can't it wait?" She gestured to Brixaby.
+
+Arthur shook his head. "You know how busy I've been. The next eruption can come at any time, and who knows what that will bring. Plus, if we wait, I may not have time to revisit this place. Now that the scourglings are gone, people will start rebuilding what they can, if they can."
+
+Again, no one looked happy. They didn't argue, either.
+
+"Then if Brixaby can't go with you, I will," Cressida said. "Someone needs to watch your back."
+
+Again, Arthur shook his head, though this pained him. "You have your shield skill and your summons. Cressida, I need you to use both to protect Brixaby at all costs." He looked at all of them. "This is the most important thing I can ask of you."
+
+"Even a number of Rares cannot do much against a Legendary," Cinderwood said darkly.
+
+Everyone glanced reflexively at the sky. It remained empty.
+
+"I know," Arthur said. "I'll be as quick as I can."
+
+Cressida wanted to argue. He could see it in her expression.
+
+Maybe he should have stayed, but the longer they waited, the more likely someone would find them.
+
+Arthur used the portal card to open the way to the Dark Rower's world. From there, he intended to use the Call of the Heart to lead the way to the core of this eruption.
+
+Inside, the Rower did not say anything, though he got the weird feeling he was being judged for leaving his friends behind anyway.
+
+Or maybe it was Arthur's own guilt.
+
+****
+
+Arthur emerged into the beating heart of the eruption. He tensed, looking around. Nothing attacked him.
+
+It seemed this eruption’s heart didn’t have any defenders. Maybe it had spent all that energy sending out butterfly scourglings.
+
+The chamber was a bit smaller than the one he’d seen before. This heart was more anemic, and the veins that held it off the ground looked withered. This eruption had been half killed already, and despite his assurances to Cressida and the others, he was tempted to finish the job.
+
+Except Brix wasn’t there to help him in case he got caught up in magical backlash again. No, he would harvest this eruption’s heart like it was a ripe tree and he was there to strip it of all its fruit, then he would leave. Brix needed him.
+
+Arthur took a step forward and found out how wrong he had been about the heart being unprotected.
+
+The beating core suddenly flared with a sickly bluish-white light, and the mental shields Arthur kept up out of habit were suddenly under strain.
+
+Before, it had been as if something on the outside was beating at his shields, interspersed with the occasional hammer blow.
+
+Now it felt like someone was taking a sledgehammer to his head.
+
+Staggering to the side, Arthur caught himself on the wall with one hand. He concentrated fiercely on his Mental Shield skills, pouring his concentration into them.
+
+New Skill Level:
+
+Telepathic Resistance (Shield Class)
+
+Level: 17
+
+It wasn’t enough. He could feel bits of his shielding flaking away as if it were being scoured in a storm.
+
+Pressing his lips into a thin line, he mentally reached for the Area of Effect version and the Telekinesis Block. He didn’t know if the latter would help, except that the beating against his shield was so strong it felt almost physical.
+
+Adding those two skills was a strain on his concentration, but the feeling of his shields flaking away vanished.
+
+Arthur took a step forward, rocked a half step back by mental winds, then grimly took another step.
+
+I’ll have to tell Cressida about this, he thought dimly with a corner of his mind. Maybe she won’t be upset that I didn’t bring her along.
+
+I should have guessed this would be protected by mind magic…
+
+Somehow, step by step, he forced his way forward to the beating core of the eruption.
+
+By this time, the winds felt real, blowing his hair back. The skin on his face stung, scoured.
+
+Arthur thrust his hand forward to grab the shards he knew were there.
+
+He screamed.
+
+This time the pain was not in his hand, but in his mind. The sledgehammer blows redoubled, then tripled, and a section of his mental shield thinned to the point of uselessness.
+
+The mind of the eruption was right in his thoughts, and it recognized Arthur.
+
+You should not be here.
+
+The thought was layered with overtones Arthur could not begin to grasp, but as he battled to push it back, he got the distinct impression it did not mean only that he should not be here in the heart’s chamber, but not here in this part of the kingdom at all.
+
+Abruptly, his mind was wrenched away.
+
+Arthur found himself standing in a verdant field. He was caring for the plants in front of him, ridding the crops of weeds with a two-pronged digging tool. The arms he saw in front of him were not his own. They were older yet more muscled, tanned from the sun…
+
+And covered in welts from scourge-dust exposure.
+
+With a gasp, Arthur yanked his arm back, and as he did in the vision, his body did the same in reality.
+
+The farm and the field were gone, and he looked down at a handful of Legendary shards.
+
+New Skill Level:
+
+Telepathic Resistance (Shield Class)
+
+Level: 18
+
+New Skill Level:
+
+Empathic Resistance (Shield Class)
+
+Level: 16
+
+He looked back at the heart of the eruption, which now beat madly like a runner mid-sprint.
+
+“The more you push me, the stronger I become. Now, give me your shards!”
+
+Arthur reached again.
+
+He swore his shields were stronger than before, but they once again ripped as he harvested from the core.
+
+And he was again in the verdant farm, only this time looking at a row of grapevines, withered with rot. As he reached out to touch a wide leaf, it crumbled away into gray scourge-dust…
+
+Again, Arthur jerked his hand away, and again his physical self mirrored it. He stared down at the Legendary-ranked shards in his hand. They had cut into his palm, and blood was beginning to well up. It hardly mattered.
+
+Why was he hallucinating about a farm?
+
+“It’s because I’m harvesting,” he muttered, shaking his head, dazed. He felt… odd in a way he couldn’t put his finger on.
+
+His shields were repaired again, though he thought they’d rip wide again if he went for more.
+
+Why wasn’t the heart taking the time to attack him?
+
+It didn’t matter. One more handful ought to do it.
+
+Arthur reached—
+
+This time a mind seemed to seize his own, and it was amused.
+
+Thoughts with a lyrical tone twisted through his own.
+
+Arthur Rowantree…
+
+And once again he was in the farm, only he looked up at a sign carved in wood. It was so old that moss had grown in the words, making them green against brown.
+
+ROWANTREE ESTATE.
+
+Everything in Arthur recoiled. His real self flinched back so hard he lost his balance and fell on his butt.
+
+He barely had the frame of mind to store the shards in his pocket…
+
+Wait, pocket?
+
+Legendary shards were magically heavy, but he should have room in his Personal Space.
+
+Only, once he mentally reached for it, he found he didn’t have the energy to open it.
+
+“Wait…” He heard his own voice come out, thick, like he was drunk.
+
+Something was terribly wrong.
+
+I need to get out of here.
+
+His attempt to activate the dark portal and flee came to nothing. He had no mana.
+
+No, it was worse than that. Not only did he have no mana, but his own life force was dangerously low.
+
+He’d wondered why the heart of the eruption had not been attacking him when his shields were down. It had, but he had not noticed.
+
+His shields were up—or at least he was mostly sure they were—except he felt enervated and weak. The shields felt brittle because they were feeding on his life force too, in place of mana. That should have hurt, should have alerted him that something was wrong… except it didn’t, and it hadn’t.
+
+And the sledgehammer pounding from the outside threatened to break in.
+
+Now he did not have the mana to escape. But Arthur had a trick up his sleeve.
+
+Closing his eyes, he focused on his heart deck. With the power he had gained from another heart of an eruption, he rearranged his cards within himself.
+
+He pulled out his Nullify card.
+
+Without it, his Return to Start activated.
+
+Arthur thought he heard the echo of a frustrated scream in his mind as he was immediately pulled away.

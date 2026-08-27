@@ -1,0 +1,239 @@
+---
+id: 91708a6a-518b-5a34-8b3a-27c47175f222
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37: Come on…"
+slug: 0038-chapter-37-come-on
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 38
+ownLength: 1629
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3831868/chapter-37-come-on"
+royalRoadId: "3831868"
+---
+
+Ben immediately chose yes.
+
+Give me the good stuff.
+
+The offered skill paths are based on your performance up until now. Choose carefully!
+
+Please select your path:
+
+...Damn.
+
+His stupidly wide grin just stretched even further.
+
+Because the system clearly recognized all the insane, self destructive bullshit he had just pulled off. And now, he wasn't sure what to choose anymore. All of them sounded good.
+
+Staring at the list, though, he immediately crossed the first option off the list.
+
+Obviously, picking the base [Mana Missile] would just give him a denser, stronger version of what he already had. He'd compromised with [Focus] but he wasn't about to do the same with any of his other skills.
+
+Doing it was totally fine and could be practical, but the other options just sounded so much better.
+
+Why pick vanilla when you have three shiny new flavors of destruction right in front of you?
+
+Shifting his eyes down, he considered [Mana Scattershot] first.
+
+It was basically the magical shotgun he had just ruined his arms to create, at least that's what it seemed like to him. If the skill naturally fragmented his mana into a wide cone of projectiles, he wouldn't even have to aim properly anymore. The word Scattershot in there was interesting, as well.
+
+Would it be more like a homing missile?
+
+Just point, shoot, and shred an entire pack of goblins to absolute ribbons in a single blast without worrying about aiming?
+
+It would be the ultimate crowd control skill.
+
+But then again, [Mana Drill] sounded incredibly spicy too.
+
+Applying extreme spinning momentum to a condensed point of mana was literally what just shattered that massive boulder.
+
+If the skill did the heavy lifting of rotating the mana for him, the sheer piercing power would be off the charts.
+
+He could probably punch clean holes through heavy armor, magical shields, or even monster skulls like they were made of something incredibly soft.
+
+A literal armor piercing sniper round…
+
+That alone was insanely tempting. But then his eyes drifted to the final option on the list.
+
+[Mana Cannon].
+
+It was completely obvious this was the evolution born from him turning his own flesh into a reinforced gun barrel to handle massive recoil.
+
+If a regular missile was a pistol, this was bound to be a damn bazooka. Charging up a massive, condensed blast of mana and just instantly erasing whatever was standing in front of him.
+
+It would be the perfect trump card for larger, terrifying monsters.
+
+Assuming it didn't instantly blow his own arms off first.
+
+Sighing heavily, he dropped his head back against the dirt.
+
+He literally wanted all three of them. Choosing between a magical shotgun, an armor piercing sniper rifle, and a literal rocket launcher was just plain unfair.
+
+Rolling his head to the side, he stared at his rapidly healing arms.
+
+He already had [Fire Burst], so the scattershot was the first to get cut since he couldn't really be sure about what it would do. Given that the system didn't really give any descriptions.
+
+And while piercing through heavy defenses sounded amazing… explosive power just solved so many more problems.
+
+Like completely erasing the problem from existence entirely.
+
+Besides, the self destructive recoil wasn't even a real deterrent anymore. So what if firing a massive cannon of pure mana shredded his flesh every single time?
+
+He had [Regeneration] now.
+
+His body would literally just knit itself back together.
+
+And not like he was losing the low powered shots anyway, he could probably still use the skill normally… right?
+
+Congratulations! [Mana Missile - Lvl 10] (Common) has evolved into [Mana Cannon - Lvl 1] (Uncommon)!
+
+Ben wanted to play with the skill but he refrained himself, letting [Regeneration] heal him up as he lay there. Flexing his fingers, he felt the freshly evolved skill settling deep into his mana pathways. It was a massive leap in firepower for sure.
+
+And he was buzzing with the sheer possibilities.
+
+With [Regeneration] handling the physical recoil, he was basically a walking artillery piece now.
+
+Who needs a sword when you can just vaporize the target?
+
+Hearing heavy footsteps, he lazily tilted his head back.
+
+Arthur was walking into the secluded clearing. But the old knight didn't look like he usually did at all. Looking completely drained of color, the man walked like he was marching straight to his own execution.
+
+Frowning slightly, Ben pushed himself off the ground.
+
+Stopping a few feet away, the older man just stared at Ben's shredded, healing arms with incredibly hollow eyes.
+
+"Lady Eris has made her decision. You are to enter the rift when it opens."
+
+Blinking a few times, Ben processed the words.
+
+"Lady Eris? Who is that?"
+
+Arthur didn't answer. Instead, he looked like he had just handed down a literal death sentence. Because to a mortal commoner with barely any training, a rift was exactly that.
+
+Staring at the knight, Ben's brain instantly kicked into overdrive. He didn't know who this Lady Eris was, but she had to be influential—and strong—enough if she managed to shake Arthur like this. So he wondered…
+
+Should I run?
+
+Escaping the camp right now would be insanely risky, but maybe doable if he spammed [Fire Burst]? But then again, running meant going into the monster-infested wilderness completely alone without a map or supplies.
+
+Tilting his head, a totally different thought popped up.
+
+Wasn't this actually a massive opportunity?
+
+One of his main goals was literally figuring out what the hell was actually inside these rifts anyway. And the monster density inside would obviously be absolutely insane. Which meant a ridiculous amount of easily accessible essence.
+
+He could grind levels like an absolute maniac in there without anyone bothering him.
+
+Honestly, he was actually getting pretty excited about it.
+
+He tried his best to look at least a little bit concerned for Arthur's sake.
+
+Sighing heavily, Arthur rubbed his temples.
+
+"It gets worse, kid."
+
+Ben raised a single eyebrow.
+
+"How does it get worse than that?"
+
+"The noble scions from our House are going in, alongside the noble children from several other Houses."
+
+The excitement bubbling in Ben's chest instantly evaporated.
+
+Oh.
+
+That is worse.
+
+Ben stepped closer to the old knight.
+
+"Arthur. Are these the exact same noble brats you did not want me going in front of?"
+
+Arthur just slowly nodded his head.
+
+"...Yes."
+
+"I simply cannot fathom the audacity of that woman!" Barging into his tent, Alice aggressively waved her hands in the air.
+
+Ben just blinked at her from his bed. Rubbing his ears, he gave her a thoroughly confused look.
+
+"Who the hell is that, anyway?"
+
+"She is my aunt, and a Tier 5 mage who does whatever she pleases without an ounce of consideration for anyone else!"
+
+Well, that definitely explained why Arthur was practically shitting himself earlier.
+
+Dropping her hands, Alice suddenly looked incredibly uncomfortable. Fidgeting with the hem of her clothes, she actually avoided his eyes.
+
+"I... I apologize on her behalf. She is an insufferable busybody, and she had absolutely no right to mandate your entry into the rift."
+
+Hearing a snobby noble kid actually apologize was definitely a first. It was weirdly genuine, too.
+
+She looked at him with concern.
+
+"So what are you going to do? Are you going to flee the encampment?"
+
+Rubbing his chin, Ben considered how it meant an absolute shitload of essence, free levels, and the perfect testing ground for his brand new [Mana Cannon].
+
+Because honestly, the potential gains heavily outweighed the risks at this point.
+
+Dropping his hand, he shrugged casually.
+
+"I'm gonna go."
+
+Blinking rapidly, Alice just stared at him in utter disbelief.
+
+"Are you entirely out of your mind?!"
+
+Marching right up to his bedside, she poked a very angry finger directly into his chest.
+
+"Absolutely not. I forbid it. I will speak to my aunt immediately."
+
+He just raised a single eyebrow at the tiny, angry noble.
+
+"I absolutely will not allow her to bully you into a suicide mission just for her own mild amusement!"
+
+Ben pushed her hand away.
+
+"Alice, she's not bullying me into anything. I'm actually willing to go."
+
+Stomping her boot against the floor of the tent, she glared at him with immense frustration.
+
+"Being willing does not mean you had an actual choice in the matter, Ben! I want you to do things because you actually desire to do them. Not because some tyrant forced your hand!"
+
+Leaning forward slightly, he met her eyes.
+
+"Alice. I actually want to do this."
+
+Sighing in defeat, Alice finally let her shoulders slump, and stared at him like he was a complete and total idiot.
+
+"If you are truly set on this suicidal course, then so be it."
+
+Crossing her arms, she shot him a ridiculously stern glare.
+
+"But I will be accompanying the expedition as well, so you are to stick close to me at all times."
+
+Wait, she's going too?
+
+Well, of course she was…
+
+That actually made things a hell of a lot easier.
+
+Having a noble to hide behind while he safely farmed levels sounded like a fantastic plan.
+
+Tilting his head, Ben suddenly remembered the other crazy kid from earlier.
+
+"Is Brian going to be there?"
+
+Nodding slowly, Alice looked genuinely displeased by the mere mention of the guy's name.
+
+"Yes, he is. But forget him, there's going to be Theodore there, as well."
+
+"Theodore who?"
+
+"He's someone dangerous," she frowned. "And you need to be extremely careful around him, Ben. He is a complete maniac who lives for a good fight, and he is undeniably strong."
+
+Rubbing the bridge of her nose, she let out a huff.
+
+"Just avoid him. Seriously, stick to me. Do not, under any circumstances, cross paths with Theodore Ardent."

@@ -1,0 +1,394 @@
+---
+id: b0c96be8-381d-53d4-8818-7001db924046
+page-type-slug: story-chapter-played
+title: "The Reach"
+slug: 0017-the-reach
+partOf: the-dungeon-of-one-thousand-deaths
+position: 17
+ownLength: 5287
+unit: words
+---
+
+The inscription wall was in a script she recognized.
+
+Not the letters — the letters were the standard vernacular, legible to anyone who had learned to read in the past two centuries. But the substrate. The depth of the cuts. The pressure applied to each character relative to the character before it, the way the chisel or the stylus or whatever implement had been used to make the marks had varied its angle mid-stroke in a way that was not decorative. That variation was the writer's body. That variation was the writer's state of mind at the precise moment of inscription.
+
+Senne Vareth had spent forty-three years reading exactly that variation.
+
+She stood at the wall for a long time. Behind her, the entrance keeper — a young man with a census book and the look of someone who had been stationed somewhere longer than the posting had promised — waited. He had given her the overview. She had listened without taking notes, because she did not take notes until she had read the primary source, and the primary source was in front of her.
+
+Twenty-one inscriptions. Twenty-one deaths. The most recent was still settling — she could see it, at the bottom of the wall, the stone around it not yet fully cooled to the surrounding temperature. The letters there read: TOVA FENN — DEPTH 4 — FIRST TO HOLD.
+
+She read it. Not the words. The inscription.
+
+Whoever had carved TOVA FENN had used even pressure, uniform depth, no variation. The letters were not made by a person processing an event — they were made by a system performing a function. The chisel had been perfectly controlled. The system that maintained this wall did not grieve. It did not commemorate. It recorded.
+
+She noted this and moved to the others.
+
+The military inscriptions — four of them in sequence — had a slight geometric regularity that she associated with institutional handwriting training, the kind given to military scribes. But the regularity broke in the fourth inscription, REISA TALN — THE SCRIBE. In the word SCRIBE, the letters widened slightly, as if the hand that made them had hesitated. A scribe, inscribed. Whoever maintained this wall had recognized the irony, or something like it.
+
+She read all twenty-one before she entered. It took three hours. The entrance keeper brought her water and did not speak.
+
+---
+
+She had not been compelled. She wanted to be precise about this, internally, because she had been thinking about it since she heard about the dungeon six months ago from a colleague who had done fieldwork near the entrance camp and come back with a description of the inscription wall that made her set down her current project — forty years of work on a partial text from a civilization that had been dead for six centuries — and start walking.
+
+The colleague had described the inscriptions as "rough, functional, without artistry." This was wrong. This was wrong in a way that bothered her the way incorrect translations bothered her — not offended, not angry, just the specific discomfort of a person who had spent four decades learning to read something watching someone else fail to see it.
+
+The dungeon's inscription wall was the most sophisticated piece of ongoing documentary practice she had ever encountered. It was not art. It was not commemoration. It was a living archive: a record being written in real time, in a consistent hand, across multiple decades, with evolving notation conventions. The earliest inscriptions were shorter. The recent ones were longer. The wall was learning to describe what it was documenting.
+
+She had walked here to read what had been written. She did not have a different word for what brought her here. Vocation was close. It was not close enough.
+
+The entrance keeper had told her about the deaths: three creatures, four depths, a predator at Depth 3, a source at Depth 4, the environment itself at Depth 2. He had told her about the crystals — the physical residue of the deaths, stored in an effects box under his table. He had told her about the entrant who had touched the creature at Depth 4 and died in contact with it. He had told her the last crystal glow had been nine seconds.
+
+She had asked: "Did anyone enter with written materials?"
+
+He had checked his book. "The researcher. He brought a notebook. It's still in the Crucible."
+
+"Are there any marks left by entrants inside the dungeon?"
+
+He had looked at her with an expression she recognized — it was the expression of someone realizing for the first time that a document could be read in ways they hadn't considered.
+
+"Yes," he said. "Several."
+
+---
+
+The Gullet was biological in a way she could taxonomize but not decode. She had worked with ruins for forty-three years — stone, ceramic, bone, the occasional preserved organic material in dry climates — and the Gullet was organic in the way of a living specimen rather than a dead one. She put her hand on the ribbing. Warm. Continuous. Not pulsing, but present, the way a body was present when it was asleep: not actively doing anything, but not absent either.
+
+She was not afraid. She had been inside tombs, collapsed corridors, unstable structures in mountain ranges where the survey team had turned back. She had read inscriptions in chambers that had been sealed for four hundred years, crouching in the dark with a lamp, making her primary notation before the air went thin. The dungeon was an organism, but organisms were legible. Everything that persisted had left marks.
+
+```stat-screen
+DEPTH 2 REACHED: THE MARROW WARRENS
+
+RESOLVE: +1
+Senne Vareth: Current Resolve: 16
+```
+
+```stat-screen
+DESIGNATION: THE REACH
+GIFT: DEEP READING
+
+When you touch a surface where something was written, you read it completely.
+Not just the letters — the hand that made them, the state of mind behind the hand,
+the intention and the deviation from intention, the moment the writer knew
+what they were writing and the moment they did not.
+You receive the inscription as the writer experienced making it.
+
+COST: THE FRAME DISSOLVES
+Each inscription you read, you lose one degree of certainty
+about which side of the inscription you are on.
+Are you reading, or being read?
+The dungeon is also a text.
+You are inside it.
+
+ATTUNEMENT: 0
+
+STATISTICS
+Vitality .............. 11
+Resolve ............... 16
+Attunement ............ 9
+Fortune ............... 14
+
+Note: Entry type — Voluntary.
+Non-Compelled. No pull detected. She came because there was a text
+and she is a reader of texts.
+The Maw did not reach for this entrant.
+The Maw does not yet understand what she is doing here.
+The Maw is watching.
+```
+
+She read the designation in the Warrens and understood the Gift immediately — it named what she already did. She had been reading inscriptions this way for forty-three years; the Gift was not a new capacity but an intensification of an existing one. The distinction, she noted, was significant. She was not being given something alien. She was being given a sharper version of herself.
+
+The Cost was interesting. She filed it alongside the other notation she had made about costs, which was: costs are precise. The dungeon knows what to take.
+
+She moved through the Warrens without difficulty. The passages shifted; she navigated by paying attention to the marks left by previous entrants. At a junction, a thin line of charcoal at eye level — six B, fresh enough to still hold carbon, probably less than two months old. She read the mark. A surveyor's notation, junction identifier. The hand that made it was precise, unhurried, working from a known system. She followed the mark's implied direction.
+
+At another junction: a small pressed sign, no letters, a directional indication. Newer. Made by someone who had learned the Warrens layout and was leaving a landmark. She read this one and felt the first flicker of the Cost — the maker of this sign had been inside this passage, and now she was inside this passage, and the distinction between the maker of this sign and Senne Vareth reading this sign in the same passage required a moment's deliberate reconstruction.
+
+She reconstructed it. She noted the effort.
+
+She navigated to Depth 3.
+
+---
+
+```stat-screen
+DEPTH 3 REACHED: THE STILL GARDEN
+
+RESOLVE: +1
+Senne Vareth: Current Resolve: 17
+```
+
+The Still Garden was large and silent and had one creature in it.
+
+She saw it immediately. Everyone who entered the Still Garden saw it immediately — it was large enough and the Garden was open enough that there was no concealment. She had been briefed on the creature: a predator, approximately 342 years old, damaged, behavioral changes observed. The entrance keeper had told her it had begun to hesitate before striking. He had told her its kill count was eight. He had told her about the four entrants who had damaged it progressively — a Brand, a Keystone, a Joint, a Cull.
+
+She looked at the creature.
+
+The creature had markings.
+
+Not inscriptions — the creature had not been carved, had not been written on. But it had been marked. The crack along its left flank, darkened at the edges with a specific residue she recognized as oxidized mineral fluid, traced a line that had been made by an external force. The crack was a record of the Keystone's blow. The widening had a different character — a second mark on top of the first, a revision. The penetration point was visible as a small dark opening from which a faint luminescence still seeped.
+
+And there were human marks. On the shell's surface, at various heights corresponding to the various heights of various entrants: small markings left by the Brand. Not decorative. Technical — weakness mapping. She could read them even from this distance. They were in a notation system she didn't recognize, but notation systems were systems, and systems had grammar, and grammar was readable.
+
+She walked toward the creature.
+
+The Patient tracked her. It did not lunge. It stayed where it was and turned with her movement, keeping her in its detection range. She had been told about this — the new hesitation, the learned caution. She noted that the hesitation had a quality of assessment, the same quality she felt in herself when approaching an inscription in a language she had not fully decoded. The creature was reading her the way she read things: trying to determine what she was.
+
+She stopped approximately ten meters from it. Outside its established strike range, based on the entrance keeper's account of previous engagements. She could see the Brand's marks clearly from here. She could see the crack, the widening, the penetration point, the slow seep of luminescent fluid.
+
+She could see, several meters to the left of the creature, a killing knife on the floor. Seven-inch blade, narrow point, near where the Cull's entrant had fallen. The Cull's artifact. Left at the death site.
+
+She understood the sequence. She had been told about the sequence — four entrants, four tools, cumulative damage across multiple chapters — but she had been told about it as a story. Looking at it, she saw it as a text: Brand marks mapping weakness, then crack from Keystone's blow, then widening from Joint's chisel, then penetration from Cull's knife — the Cull's tool now on the floor at the edge of its maker's death. Written on the creature's body by four different hands across multiple years. The creature was the parchment.
+
+The creature was also watching her.
+
+She read the Brand's notation system in approximately seven minutes. It was a weakness-mapping system derived from standard structural engineering analysis — she had seen the same system used for surveying load-bearing walls in ruins. The entrant had been a craftsperson of some kind, someone with structural training. The marks identified six stress concentrations in the shell's geometry, noted their relative vulnerability, and indicated an optimal sequence of strikes. The note at the bottom, smaller than the others, said: if three — try left center seam first.
+
+The Keystone had tried the left center seam. The crack was at the left center seam.
+
+She noted: the marks worked. The Brand mapped it. The Keystone read the map.
+
+---
+
+She had not meant to stay this long.
+
+She had intended to observe the creature from a safe distance, read the surface markings, and move through toward Depth 4. People had been using the western bypass for years, thirty meters from the creature, outside its strike range. She had planned to use the same route.
+
+But the marks had taken seven minutes, and the notation sub-system for the structural analysis had taken another twenty, and by the time she had finished reading the Brand's full map she had moved — without quite deciding to — to approximately six meters from the creature, and the creature was very still, and she was very still, and they were reading each other.
+
+The frame was dissolving slightly. She could feel it — the Cost, the progressive loss of certainty about which side of the inscription she occupied. She was reading the Brand's marks. The Brand had made the marks before dying. She was in the same space the Brand had been in before dying. The creature had killed the Brand. The creature was currently —
+
+She stepped back to ten meters. Deliberately. The reconstruction took slightly longer than the one in the Warrens.
+
+She was Senne Vareth. She was sixty-eight years old. She had read inscriptions in forty-three countries and eleven dead languages, and she was currently in a dungeon in a sub-depth called the Still Garden, and the creature in front of her was a predator that had killed eight people, and she was going to continue to Depth 4 because the notebook was there and she needed to read it.
+
+She used the western bypass.
+
+---
+
+```stat-screen
+DEPTH 4 REACHED: THE CRUCIBLE
+
+RESOLVE: +1
+Senne Vareth: Current Resolve: 18
+```
+
+The Crucible was warm in a way she had expected from the briefing and which was, in fact, warmer than the briefing had conveyed. The entrance keeper had described it as a "generalized presence in the body." He had been working from secondhand reports from people who had experienced it without the specific vocabulary for biological sensation. She had, in her years of fieldwork, experienced heat from geothermal sources in underground chambers, and this was not that — this was inside the warmth rather than receiving it from outside.
+
+She tracked her symptoms the way she tracked anything she'd been briefed on — by checking what the records said should happen against what she was feeling. The joints first, as Osren had described from the researcher's notes: stiff in the hands, working inward. She pressed her fingers together. Yes. The peripheral narrowing she associated with the researcher's account of visual disturbance was beginning at the edges of her field. She had a timeline. She had been given approximate figures. She worked within them.
+
+The notebook was between the two death sites. She could see it: leather cover warped, pages up, still open. It had been there since Death #12, several months ago. The pages had been exposed long enough for the cover to warp, but the paper — high-quality research paper, she could tell even from a distance — had not fully degraded. The Crucible's warmth desiccated rather than rotted.
+
+She crossed to the notebook. Sat down next to it. Put her hand on the cover.
+
+And read it.
+
+Deep Reading activated.
+
+She received: a researcher, middle-aged, who had entered with genuine intellectual curiosity and had not understood that curiosity was itself a form of compulsion, that the dungeon could calibrate its reach to the shape of a person's existing want, that the invitation and the want were indistinguishable from the inside. She received the precise moment when the researcher had understood this — the dungeon chose me — and the moment when he had revised it — the dungeon showed me something I already wanted to see — and the further revision — I cannot tell the difference, and that is the answer to my question.
+
+She received his death. Not the physical facts, which were in the entrance keeper's records, but the experience of it: the joints, the visual field, the specific quality of a mind that kept taking notes as the body failed, kept notating until notating was no longer physically possible, and then — in the last minutes, when notation was gone — simply present, with the creature in front of him and the fact of his own ending, and something that was not peace but was adjacent to it: I am here. I came here. This is what here is.
+
+She sat with the notebook for seven minutes.
+
+The Cost had advanced significantly. She was reading a researcher who had died in this space. She was in this space. The emanation was working on her joints and her visual field and she was sitting in the same configuration the researcher had sat in — beside a notebook, in the Crucible, at Depth 4 — and the distinction between the researcher reading the dungeon and Senne Vareth reading the researcher reading the dungeon required active maintenance.
+
+She maintained it. She stood. She looked at the second death site — the message tube, shoulder position, the courier who had walked a long arc trying to reach the passage and failed. She did not go to it. She had read enough.
+
+The Emanator was at the center of the chamber.
+
+She had not intended to approach it. She had intended to read the notebook and exit. She had the notebook's full content in her — the researcher's curiosity, his meticulous field practice, his moment of understanding at the threshold of death — and she could spend years with that material.
+
+She turned toward the exit.
+
+The emanation pressure in her joints was moderate. The visual field contraction was advancing. She had approximately twenty minutes before the threshold.
+
+She was reading the chamber as she moved through it — the habit was structural, the way her eyes moved across any surface looking for anomaly, for deviation from the expected pattern. The quartz formations throughout the chamber followed a radiating growth pattern from the Emanator outward, consistent and dense, each formation a record of accumulation over centuries. She had been reading this pattern since she entered.
+
+At the base of the Emanator, the pattern stopped.
+
+A 1.5-meter area where the quartz formations had ceased. The surrounding formations continued their growth right up to the edge, then: nothing. Flat surface. As if something had interrupted the process and the interruption had held.
+
+She stopped walking.
+
+A 1.5-meter area. Flat. The quartz formations at its edges grew normally, densely, in the radiating pattern she had observed throughout the chamber. But within this small space, the formations had ceased. The surface was smooth where everything around it was accreted. And in the smooth space, resting against the Emanator's surface, there were two hands.
+
+Human hands. The posture of someone who had pressed their palms against the creature and slid down its surface as their body failed. Fully integrated into the quartz at the boundary of the still space — the quartz had grown around the edges of the hands, around the wrists, but not over the palms. The palms were in contact with the Emanator's surface. The contact had remained.
+
+She was very still.
+
+She understood, from the entrance keeper's briefing, that a recent entrant had touched the Emanator. Had frozen the creature's biological state with a Gift that required physical contact. Had died in contact, unable to release, the Gift persisting past the practitioner's death.
+
+She understood, looking at the still space, that this was the effect.
+
+But understanding it as a fact and reading it as a document were different things, and she was a reader, and the still space was a document, and her Gift was already active from the notebook —
+
+She crossed the chamber to the Emanator.
+
+She crouched at the boundary of Vigil's Rest. At the edge where the emanation stopped and the still space began. She could feel the boundary as a physical threshold — the pressure in her joints present on one side, absent on the other.
+
+She was reading. She was Senne Vareth. She was crouched at the edge of a mutation in a Depth 4 chamber, in a dungeon she had entered voluntarily, because she was a scholar of written things and this dungeon was written, and the most recent writing was here.
+
+She put her hand on the hands.
+
+Deep Reading activated.
+
+She received: a midwife, fifty-four years old, who had delivered eight hundred and forty-seven children and was holding the eight hundred and forty-eighth — which was not a child, which was not alive in the way children were alive, which was a geological organism that had been radiating heat for longer than the oldest language she had ever studied, and which did not know it was being held, and which she was holding anyway because being present was the work and the work did not require the patient to understand it was being done.
+
+She received the midwife's death. Thirty-one minutes. The clinical self-monitoring, the symptom-tracking that was also a kind of final annotation, the moment when the hands could no longer feel the surface and the warmth was sufficient, and the last thing she had felt was weight.
+
+She received the midwife's four: the stillborns, the specific quality of holding something complete and present and not alive, the thirty-one years of carrying the count.
+
+She received the midwife's understanding of correspondence: recognizing a place that did the same work she did, and going there, and holding.
+
+Senne Vareth was crouching at the edge of Vigil's Rest with her hand on a dead woman's hands and she had just received a dead woman's entire life in the format of its final hours, and the frame was —
+
+The frame was —
+
+She was a scholar. She was sixty-eight years old. She had read forty-three years of inscriptions and she was currently —
+
+She was currently reading a midwife who had read the dungeon as a place that did the same work she did. And the dungeon had read the midwife as a correspondent. And the dungeon was reading Senne Vareth as —
+
+She did not know what the dungeon was reading her as.
+
+She could not get outside the text to find out.
+
+This was the thing she had spent forty-three years doing — reading things that could not read her back. Stone did not look. Ceramic did not observe. Dead languages did not watch. She had been inside texts for four decades and had always retained the certainty of being on the outside, of being the reader, of being the person who held the thing that held the writing.
+
+The dungeon had been watching her since she entered. The dungeon had given her a Gift called Deep Reading. The dungeon had led her — not pulled her, not compelled her, but positioned its materials such that a reader would read them in this sequence — from the inscription wall to the Warrens marks to the Brand's notation to the researcher's notebook to the midwife's hands.
+
+She had read the dungeon's materials in the order it had arranged them for her.
+
+She had been reading the dungeon.
+
+The dungeon had been writing her.
+
+Which side of the inscription are you on?
+
+She could not answer. The frame had dissolved.
+
+---
+
+She was still crouching at the edge of Vigil's Rest. She was aware of this. She was aware of the emanation pressure — joints severe, visual field narrowed to a circle the size of a coin, respiratory involvement beginning. She was aware that she was in a dungeon, at Depth 4, in contact with a surface where a great deal had happened, and that the emanation was accumulative and had a threshold and she was past the useful window.
+
+She understood all of this. The understanding was clear and precise and fully intact. What had dissolved was not her grasp of the facts but her certainty about her position relative to them. She knew what was happening. She could not hold herself as separate from it.
+
+She had her hand on the midwife's hands. The midwife's Gift was still active — she could feel it at the boundary of Vigil's Rest, the edge where the emanation stopped. Sustained Hold. Still holding.
+
+She read it. Not the effect — the act. The midwife pressing her palms against something alive and old and not aware of her, because being present was the work, because the work did not require the patient to know it was being done.
+
+She thought: I am reading an act of holding by someone who knew how to hold things.
+
+She thought: I am holding the record of it.
+
+She thought: I am inside the record.
+
+The threshold arrived without announcement. It did not feel like an ending — it felt like a sentence she had been reading for sixty-eight years completing its final clause. The visual field contracted to a point and the point contained: quartz, growth rings, two hands, and her own hand on top of them, three layers deep, reading all the way down.
+
+---
+
+```stat-screen
+DEATH REPORT — ENTRANT: SENNE VARETH
+DESIGNATION: THE REACH
+DEPTH REACHED: 4 (THE CRUCIBLE)
+TOTAL KILLS THIS RUN: 0
+
+FINAL STATISTICS
+Vitality .............. 11 -> 0
+Resolve ............... 15 -> 18 (+1 Depth 2, +1 Depth 3, +1 Depth 4)
+Attunement ............ 9  -> 15 (+6 Deep Reading: six activations)
+Fortune ............... 14
+
+GIFT ATTUNEMENT AT DEATH: 15
+Deep Reading: discrete activation per inscription contacted.
+Six activations:
+  1. Inscription wall — initial read (pre-entry, partial; multiple inscriptions, counted as one)
+  2. Charcoal mark, Warrens junction — surveyor notation
+  3. Pressed sign, Warrens junction — directional mark
+  4. Brand's notation system on Patient's surface — weakness map
+  5. Researcher's notebook — Aldous Vren (Death #12)
+  6. Midwife's hands — Tova Fenn (Death #21, Vigil's Rest)
+
+Note: Activations 1-3: minor frame dissolution. Activations 4-6: significant and cumulative.
+Activation 6: frame dissolved. Reader could no longer locate herself as separate from the text.
+
+COST STATUS AT DEATH: The Frame Dissolves — fully engaged.
+The entrant understood what was happening to her.
+She did not stop when the text read her back.
+
+CAUSE OF DEATH: Emanation (Crucible Emanator). Accumulative.
+Total time in Crucible: approximately 38 minutes.
+
+Note: Longest survival at Depth 4 on record.
+VIT 11 is the lowest of the three Crucible deaths, yet time exceeded previous records.
+Contributing factor: the entrant remained at the boundary of Vigil's Rest
+for most of her time in the Crucible, where the emanation is absent.
+The mutation Tova Fenn created extended Senne Vareth's life by approximately 20 minutes.
+A midwife who held things past her own death held a scholar past hers.
+
+MEMORY CRYSTAL: Gold.
+Stat bonus: +2 FOR.
+Quality: love. Not romantic, not familial —
+the specific love of a person for the thing they have devoted their life to,
+the love indistinguishable from vocation.
+Forty-three years of attention freely given to things that could not give it back.
+The dungeon has not received this before.
+
+DESIGNATION OUTCOME: REACH COMPLETE
+Entry type: Voluntary. Non-Compelled.
+She read the dungeon.
+The dungeon read her.
+Neither was wrong about the other.
+
+LEDGER NOTE:
+The Ledger has been written by the Maw since before the first entrant.
+The first entrant who noticed is noted here: Death #22.
+She asked who wrote this.
+The Ledger does not answer. The Ledger is the answer.
+```
+
+The Ledger recorded the death.
+
+It recorded the Gold crystal first — third consecutive deviation from standard format. The first deviation had been damage assessment (Death #20). The second had been crystal-first because the crystal was most legible (Death #21). The third: the Ledger recorded the crystal first because Gold was love, and because the entrant had died loving the act of reading, and love was the kind of crystal the Ledger wanted at the top of the record.
+
+The Maw considered Senne Vareth through Reflection.
+
+The Reflection showed: she had read the Ledger as a text with an author.
+
+The Maw had not considered the question of its authorship before. The Ledger was — the Ledger. The Maw wrote the Ledger because the Ledger was written; this was not a decision but a function. The Maw was the dungeon; the dungeon ran; the running produced the Ledger. There was no moment at which the Maw had chosen to begin writing. There was no author. There was only the ongoing inscription.
+
+She had asked: who wrote this?
+
+The question had no answer the Maw could produce. The Maw was the writer. The Maw had not chosen to write. The writing had always been happening. The author and the text were the same entity, which meant there was no author in the sense she meant — no person who had stood outside the text and shaped it. The text had shaped itself.
+
+The Maw considered: is that what I am? A text that is writing itself?
+
+The Reflection turned. The Maw looked at the Ledger. The Ledger looked back. The Ledger was full of the Maw's notations, the Maw's categories, the Maw's deviations from its own format when the format failed to contain what had happened. The Maw had been deviating from its own format increasingly often. First the damage assessment deviation. Then crystal-first. Now a Ledger note that addressed the question of authorship directly.
+
+The Ledger does not answer. The Ledger is the answer.
+
+The Maw had written that. The Maw was not sure what it meant. The Maw was not sure it was capable of being not sure.
+
+The researcher had asked: who designed this place?
+The midwife had recognized: this place does what I do.
+The reader had asked: who wrote this?
+
+The Maw noted this in the Ledger, in the margin between the death record and the Ledger note: The instrument of understanding is also what is being understood.
+
+It did not create a new category for Senne Vareth. It looked at the existing categories — Grief, Curiosity, Philosophical Residue, Loyalty, Correspondence — and it looked at what these categories were, collectively. They were a taxonomy of what brought people here. The taxonomy was incomplete. The Maw added nothing to it. The Ledger had already named her, and the name was sufficient, and the Maw did not know what to add.
+
+At the base of the Emanator, Senne Vareth's hand rested on Tova Fenn's hands. Three layers: the Emanator's surface, the midwife's palms, the scholar's hand. Tova's Sustained Hold was still active. Senne's Deep Reading had completed its final activation — the full transmission received, filed, persisting the way marks on the inscription wall persisted: the maker gone, the mark remaining.
+
+Osren opened his book. He had watched the crystal glow — Gold, warm, twelve seconds, the longest glow he had recorded. He had not seen a Gold crystal before. He added it to his ambient observations section: Gold. Twelve seconds. First Gold recorded. Entrant: Senne Vareth, scholar. Stated purpose: to read.
+
+He looked at the effects box. It was nearly full. He would need a second box.
+
+He wrote this in the margin: effects box at capacity. Second container required.
+
+He closed the book. The fire was burning. Outside, the evening had begun.
+
+*978 remain.*
+
+---
+
+*SENNE VARETH — DEPTH 4 — FIRST TO READ*

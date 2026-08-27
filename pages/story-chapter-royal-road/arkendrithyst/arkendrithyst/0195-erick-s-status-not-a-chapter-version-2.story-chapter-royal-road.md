@@ -1,0 +1,1319 @@
+---
+id: 1c6261e9-4609-5450-82c8-0c10438b6f98
+page-type-slug: story-chapter-royal-road
+title: "Erick's Status (not a chapter) version 2!"
+slug: 0195-erick-s-status-not-a-chapter-version-2
+partOf: arkendrithyst
+position: 195
+ownLength: 6850
+unit: words
+ownProgress: 6850
+publishedAt: 2021-04-10
+link: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/662195/ericks-status-not-a-chapter-version-2"
+royalRoadId: "662195"
+markedReadAt: "2026-06-29T22:13:34.175Z"
+---
+
+Erick Flatt
+
+Human?, age 49
+
+Level 90, Class: Particle Mage
+
+Exp: 2.32 e20 /7.54 e20
+
+Class: 10/10
+
+Points: 11
+
+HP
+
+2,430/2,430
+
+38,670 per day
+
+MP
+
+9060/9060
+
+38,670 per day
+
+Strength
+
+20
+
++61
+
+[81]
+
+Vitality
+
+20
+
++61
+
+[81]
+
+Dexterity
+
+10
+
++61
+
+[71]
+
+Constitution
+
+20
+
++61
+
+[81]
+
+Perception
+
+20
+
++61
+
+[81]
+
+Willpower
+
+90
+
++61
+
+[151]
+
+Focus
+
+90
+
++61
+
+[151]
+
+Intelligence
+
+20
+
++61
+
+[81]
+
+Favored Ability waiting!
+
+Favored Ability waiting!
+
+Favored Ability waiting!
+
+Scion of Focus
+
+Multiply your base MP regen by 4
+
+Immune to Mana Exhaustion
+
+Requirements: 50 Focus
+
+Rozeta’s Recovery
+
+The sum of your Health and Mana Regeneration now applies to both Health and Mana Regeneration.
+
+Immune to Health Fatigue and Mana Exhaustion.
+
+HP Abilities:
+
+Strong X
+
+Multiply your base HP by 3
+
+Requirements: 20 Strength
+
+Enduring X
+
+Multiply your base HP regen by 3
+
+Requirements: 20 Vitality
+
+Precision X
+
+Reduces HP costs by 50%
+
+Requirements: 10 Vitality
+
+HP cost abilities:
+
+Defend X, 1 minute, 1/10 HP
+
+Take 50% less damage for 1 minute, cannot take more than 90% of your HP in damage in 1 hit.
+
+Scent Tracker X, 1 HP per minute.
+
+Smell clearly.
+
+Ultrasight X, 1 HP per minute.
+
+See clearly
+
+Perfect Hearing X, 1 HP per minute.
+
+Hear clearly.
+
+Silent Movement X, 1 HP per meter moved
+
+All actions are muffled.
+
+Swift Movement X, 1 HP per second
+
+Move faster.
+
+Tracker’s Instinct, 1 HP per second
+
+Hunt clearly.
+
+Lightfoot, 2 HP per second
+
+Move quick and silent
+
+Hunter’s Instincts, 10 HP per second ~{Favored Ability}~
+
+You are the predator.
+
+Strike X, 10-40 HP
+
+Level 1: Deal 1.0x damage with your weapon
+
+Level X: Deal 2x damage, + 2x <Piercing Force> damage
+
+MP Abilities:
+
+Discipline X
+
+Multiply your base MP by 3
+
+Requirements: 20 Willpower
+
+Concentration X
+
+Multiply your base MP regen by 3
+
+Requirements: 20 Focus
+
+Clarity X
+
+Reduces spell costs by 50%
+
+Requirements: 10 Focus
+
+Meditation X
+
+Always Resting
+
+Requirements: 10 Willpower
+
+Mana Shaping X
+
+Alter spell AOE in better, subtle ways, 10 MP + spellcost
+
+Alter spell AOE in better, moderate ways, 30 MP + spellcost
+
+Aurify Unlocked
+
+Alter AOE in better, major ways, 100 MP + spellcost
+
+Alter AOE in better, extreme ways, 300 MP + spellcost
+
+Change any spell into an AOE spell, or freely alter the AOE of any AOE spell, 500 MP + spellcost
+
+Requirements: 10 Willpower
+
+Aurify 3
+
+Transform an AOE spell into a semi-permanent effect surrounding yourself, based upon the parameters of the Aurified spell. Increase an instantaneous spell to a 1 second duration in order to create an aura.
+
+Able to support 2 auras at a time.
+
+You may choose who or what is affected by your aura.
+
+Triples the range on an Aurified spell.
+
+Mana Altering X
+
+Bludgeon, Slash, or Piercing Damage
+
+Force to Light, Blinding, Variable Cost
+
+Invisible Force, Variable Cost
+
+Force to Thunder, Disorient, Variable Cost
+
+Force to Fire, Burn, Variable Cost
+
+Force to Ice, Slow, Variable Cost
+
+Force to Lightning, Paralyze, Variable Cost
+
+Force to Decay, organic damage, Variable Cost x1.5
+
+Chain, Variable Cost x2
+
+Combine Effects, Variable Cost x3
+
+Generate new effects. Variable Cost
+
+Requirements: 10 Willpower
+
+MP Spells:
+
+Healing spells:
+
+Healing Word X, instant, medium range, 10 MP
+
+Speak, and heal a target for 25 + ½ WIL.
+
+You may cast your next Healing Word right away.
+
+Utility spells:
+
+Cleanse X, instant, short range, 10 MP.
+
+Purge an area equal to the level of the spell in meters of all Toxins, Disease, Filth, and Corruption.
+
+Cleanse Aura, short range, 10 MP per second.
+
+Continuously purge all Toxins, Disease, Filth, and Corruption in a 10m sphere centered on you.
+
+Mend X, instant, touch, 10 mana.
+
+Touch a complicated large object, or a small common magical item, and restore it to its prime.
+
+Prestidigitation X, instant, close range, 10 MP + 1 MP per effect
+
+Create minor magical effects that last for 5 minutes per spell level. Prestidigitation lasts one hour.
+
+Detect Magic X, instant, medium range, 10 MP
+
+Detect ongoing magical effects.
+
+Detect Intent Aura, medium range, 8 MP per second
+
+See the control imposed upon nearby mana.
+
+Identify X, instant, touch, 50 MP
+
+Discover the properties of an object.
+
+Find Target X, concentration, close range, 5 MP + 5 MP per meter searched
+
+Find a target.
+
+Stone Travel, instant, medium range, 50 MP + Variable
+
+A large area of stone stabilizes around you, then quickly moves at your discretion across or through other stone. Lasts 1 hour.
+
+Scry X, instant, super long range. 10 MP + Variable
+
+Conjure a quick sensor to see a place you have been or have seen.
+
+Telepathy X, self, super long range, 1 MP per minute + Variable
+
+Communicate with the minds of people you know. 1 connection available per level. Unwanted connections are harmful to caster.
+
+Telekinesis X, medium range
+
+Move large objects around you for 5 minutes per level of the spell. Fine control. 100 MP
+
+Quickly move large objects around you for 1 minute per level of the spell. Fine control. 50 MP
+
+Flight of a Thousand Hands Aura, 1 MP per second, medium range
+
+Gain complete, quick control over a large amount of air and a thousand arms of intent. Take flight, if you are able!
+
+Grow X, instant, touch or close range, 5 MP
+
+Cultivate a single plant, or induce plant growth in a sphere of diameter equal to spell level in meters.
+
+Growth Aura, 5 MP per second.
+
+Induce growth in the plants you choose in a 10m radius around you.
+
+Conjure Armor X, instant, 50 MP + Variable
+
+Create weightless armor of whatever design you can create. Lasts until catastrophic damage.
+
+Conjure Weapon X, instant, 50 MP + Variable
+
+Create a nigh unbreakable weightless weapon. Lasts as long as held, or 1 minute per level not held.
+
+Conjure Item X, instant, 50 MP + Variable
+
+Create an item. Skill with mana manipulation determines final creation. Lasts until suffering 50 points of damage.
+
+Force Wall X, instant, medium range, 50 MP
+
+Create a stable, stationary wall of hardened mana. Absorbs 500 damage before breaking. Lasts 10 minutes per level.
+
+Force Platform X, instant, close range, 50 MP
+
+Create a mobile, hovering platform of hardened mana that moves with you. Absorbs 100 damage before breaking. Lasts 10 minutes per level.
+
+Fabricate X, 1 minute, close range, 50MP + Variable
+
+Using provided materials, create a permanent object you know how to create. Fine control.
+
+Control Item X, instant, touch, 5MP + Variable
+
+Control a non-living item to move how you desire, for 10 minutes per spell level.
+
+Envelop Item X, instant, touch, 50MP + Variable
+
+Envelop an item in nigh-unbreakable mana. Lasts for 1 hour per spell level.
+
+Adjust Scent X, instant, close range, 10 MP + Variable
+
+Change a Scent.
+
+Alter Size X, instant, touch, 10 MP + Variable
+
+Increase or decease the size of a target. Damage breaks effect. Lasts 1 minute per spell level.
+
+Alter Friction X, instant, close range, 10 MP
+
+Increase or decease Friction upon a small target. Damage breaks effect. Lasts 1 minute per spell level
+
+Husbandry X, instant, touch, 50 MP + Variable
+
+An animal’s opinion of you improves.
+
+Interception X, instant, close range, 5MP + 5MP per 10 meters moved
+
+Instantly move to intercept an attack meant for another. Lasts 1 minute or until used.
+
+Rebound X, Variable MP
+
+A spell bounces.
+
+Cleansing Flame, instant, medium range, 15 MP
+
+A smokeless flame gradually consumes and transforms a large amount of organic material to naught but air.
+
+Deals no damage.
+
+Dispel X, medium range, 10 MP + Special Cost
+
+Dispel a magic.
+
+Costs as much mana as the spell you are trying to dispel.
+
+Polymorph, instant, 500 MP
+
+Change your physical body.
+
+Familiar Forms: 2/18
+
+~Erick Flatt
+
+~Light Slime
+
+Invisibility X, instant, touch, 100 mana + Variable
+
+A person or item touched becomes unseen for 1 minute per spell level.
+
+Moving while Invisible incurs a cost.
+
+Mending Aura, long range, 572 MP per second
+
+Restore a very large, complicated location to its prime. Time since the structure was destroyed may alter final results. Automatically repair all objects in the area of effect.
+
+Minor ability to affect magical objects.
+
+Clothe X, instant, touch, 25 mana.
+
+Touch a garment you have worn and wear it again. Maximum transferring range of 100m.
+
+Duplicate, instant, touch, 100 Mana
+
+Create a copy of a non-magical, non-living item.
+
+Double Duplicate, instant, touch, 150 Mana
+
+Create two copies of a non-magical, non-living item.
+
+Multi-Duplicate, instant, touch, 600 Mana
+
+Create copies of every item in a small area.
+
+Duplication Aura, instant, small range, 600 mana per second
+
+Create copies of every item in a small area.
+
+<Civilization will judge you for what you do.>
+
+Control Machine, instant, close range, 15 mana + Variable
+
+Imbue a non-living machine of complicated processes with your intent. Very Fine control. Lasts 100 minutes.
+
+Mana Sight X, instant, close range, 5 mana per second
+
+See the truth of mana all around you.
+
+Blood Sight X, instant, close range, 5 mana per second
+
+See the blood all around you.
+
+Soul Sight X, instant, close range, 5 mana per second
+
+See the souls all around you.
+
+Witness X, variable cast time, variable range, 25 mana
+
+See the past.
+
+Future Sight X, variable cast time, variable range, 25 mana
+
+See the future.
+
+True Sight X, instant, medium range, 25 mana per second
+
+See through all falsehoods.
+
+Spatial Magics:
+
+Blink X, instant, 25 MP
+
+Instantly move from your location to another within <sight>, max range 10m per level of Blink
+
+Teleport X, instant, 250 MP per person
+
+You and <hands> number of people appear in a known location, max 1000km distance.
+
+Teleporting Platform, instant, 197 MP + Variable, 204 MP per person + Variable
+
+Create a mobile, hovering platform of stone that moves quickly at your discretion. Supports a large amount of weight. Lasts 1 hour.
+
+You and the people or objects on your Teleporting Platform appear in a known location, max 1000km distance
+
+Teleport Object X, instant, touch, 25 mana + Variable
+
+An object you touch moves to another known location, within 10 kilometers.
+
+Teleport Ranged Object, instant, long range, 25 mana + Variable
+
+An object you touch moves to another known location, within 5 kilometers.
+
+Stone Fall, instant, super long range, 6000 mana
+
+Teleport a large sized stone into the sky, to fall upon a target, dealing massive physical damage.
+
+Stone Crash, instant, super long range, 6500 mana
+
+Cast a large size of stone into the sky, breaking it into a hundred rocks to fall upon a super large area.
+
+Firelight Comet Swarm, instant, super long range, 8100 MP
+
+Cast a large size of Firelight Stone into the sky, breaking it into a hundred smaller pieces to then fall upon a super large area. Deals massive initial damage + 5x WIL, and 10x WIL damage per second for 60 seconds for all in affected area.
+
+Shadow aspect magic turns solid.
+
+Deals double damage to dark and shadow aspect creatures and objects.
+
+Teleport Familiar X, instant, touch, 250 mana
+
+A Familiar reappears in another known location, max 1000km distance.
+
+Teleport Summon X, instant, touch, 250 mana
+
+A summoned creature reappears in another known location, max 1000km distance.
+
+Teleport Monster X, instant, touch, 250 mana
+
+A monster reappears in another known location, max 1000km distance.
+
+Teleport Tree X, instant, touch, 250 mana
+
+A tree appears in another known location, max 1000km distance.
+
+Teleport Other X, instant, touch, 250 mana
+
+A being you touch reappears in another known location, max 1000km distance.
+
+Elemental Body Skills:
+
+Greater Lightwalk, instant, long range, 10 MP per second + Variable
+
+You are the radiant day.
+
+Ward spells:
+
+Ward X, instant, short range, 24 hours ~{Favored Spell}~
+
+Create a Small Ward that can have Minor Effects, or prevent Z damage from attackers. 10 MP + Z
+
+Create a Small Ward that can have Small Effects, or prevent Z damage from attackers. 15 MP + Z
+
+Create a Special Ward. Variable Cost
+
+Create a Medium Ward that can have Small Effects, or prevent Z damage from attackers. 20 MP + Z
+
+Create a Medium Ward that can have Medium Effects, or prevent Z damage from attackers. 25 MP + Z
+
+Personal Ward: Any Ward of any type can be made Personal, to move with you. Original Cost x2
+
+Create a Large Ward that can have Medium Effects, or prevent Z damage from attackers. 30 MP + Z
+
+Create a Large Ward that can have Large Effects, or prevent Z damage from attackers. 35 MP + Z
+
+Create a Ward with another Spell attached to the interior. Spell activation based on Z invested into Ward. 100 MP + Z
+
+Your Wards regenerate Z based on your Rested MP regen rate.
+
+Special Wards can be made Permanent. 250 MP + Variable Cost
+
+Minor Effects: Bug Ward, Temperature Ward, Alarm Ward
+
+Small Effects: Visual Disruption, Audio Disruption, Weather Ward
+
+Medium Effects: Area Hostile Visual Disruption, Area Hostile Audio Disruption
+
+Large Effects: Drain Hostile HP/MP, Gravity Ward
+
+Special Ward: Eschew all other effects in order to shape, color, and illuminate a ward however you wish. Skill level at Mana Manipulation determines final outcome. Variable Cost
+
+Gravity Strainer, instant, medium range, 65 mana, 1 hour duration.
+
+Conjure a large, freely moldable space where specific objects turn near-weightless and fall to a designated point.
+
+Scent Ward, instant, close range, 350 mana
+
+Block all scents under a medium moldable ward. Lasts 10 days.
+
+Crystalline Air, instant, short range, 24 hours, Solid Ward, 50 MP + Variable
+
+Create a solid, large barrier, that absorbs Variable damage before breaking.
+
+You may increase or decrease the size of your Crystalline Air for an increase or decrease in Variable cost.
+
+Crystalline Air regenerates integrity based on your Rested mana regeneration rate.
+
+You and those you permit are able to pass through Crystalline Air at will. You may grant or revoke this permission at will.
+
+You may only have one Solid Ward active at a time.
+
+Pure Reflection Ward, instant, Personal Ward, 10 mana per second
+
+Reflect spells cast upon you.
+
+Prismatic Ward, instant, short range, permanent, Solid Ward, 100 MP + Variable
+
+Create a solid, large space, that absorbs six times Variable damage before breaking.
+
+Prismatic Ward regenerates integrity based on your Rested mana regeneration rate.
+
+You and those you permit are able to operate within Prismatic Ward without restriction. You may grant or revoke this permission at will.
+
+All beings permitted inside Prismatic Ward are at Rest while inside.
+
+You may only have one Solid Ward active at a time.
+
+Kaleidoscopic Radiance, instant, medium range, permanent, 500 mana
+
+A medium-sized lightward of evershifting brilliance supports the growth of Light Essence creatures.
+
+Lightmask, instant, close range, 50 mana
+
+Deny all harmful light in an area.
+
+Prime Area, instant, long range, 70 MP
+
+Designate a large area as under your influence. For 1 minute, your spells are heightened and others are lessened.
+
+Light Shift, instant, long range, 120 MP
+
+Drastically empower your light aspect magic in a large area. Shadow aspect magic turns solid. Dark aspect magic is greatly weakened. Lasts 1 minute.
+
+Blinding Shift, instant, long range, 110 MP
+
+For 1 minute, your spells cast in a large area are naturally blinding to all except you.
+
+Firelight Shift, instant, long range, 190 MP
+
+Drastically empower your fire and light aspect magic in a large area. Shadow aspect magic turns solid. Dark and water aspect magic is greatly weakened. Lasts 1 minute.
+
+Fermentation Ward, instant, close range, 500 mana
+
+Support the rampant spread and life of fermenting yeast, in a small area. Lasts 5 minutes.
+
+Segmented Light, instant, long range, 620 MP
+
+Drastically empower your light aspect magic in a large area. Shadow aspect magic turns solid. Dark aspect magic is greatly weakened. Lasts 1 minute.
+
+Segmented Light will reassert itself, using up duration, unless dispelled with 10x cost.
+
+Lambent Light, instant, long range, 1120 MP
+
+Drastically empower your light aspect magic in a large area, without regard for the vagaries of distance. Shadow aspect magic turns solid. Dark aspect magic is greatly weakened. Lasts 1 minute.
+
+Lambent Light will reassert itself, using up duration, unless dispelled with 10x cost.
+
+Effulgent Light, instant, long range, 1620 MP
+
+Drastically empower your light aspect magic in a large area, without regard for the vagaries of distance or depth. Shadow aspect magic turns solid. Dark aspect magic is greatly weakened. Lasts 10 minutes.
+
+Effulgent Light will reassert itself, using up duration, unless dispelled with 10x cost.
+
+The Lingering Light, instant, super long range, 2120 MP
+
+Drastically empower your light aspect magic in a super large area, without regard for the vagaries of distance or depth or time. Shadow aspect magic turns solid. Dark aspect magic is greatly weakened. Lasts 10 minutes.
+
+The Lingering Light will reassert itself, using up duration, unless dispelled with 10x cost.
+
+Those subjected to the Lingering Light are imbued with Light.
+
+Domain of Light, instant, super long range, 5000 mana
+
+Harken unto the Truth of Light. Let no authority diminish your brilliance.
+
+Undispellable. Uncorruptible.
+
+Lasts 1 hour. Effects last longer.
+
+Lodestar, instant, close range, aura, 1 mana per second
+
+Shine Timeless Brilliance.
+
+All of your Light effects are supercharged, and difficult to corrupt.
+
+All of your Light effects require 10x more mana to Dispel.
+
+Your Light effects are uncorruptible and undispellable while they exist inside your Lodestar.
+
+Privacy Ward, instant, long range, 50 mana
+
+Disrupt all information leaving a large space. Lasts 1 hour.
+
+Sealed Privacy Ward, instant, medium range, 500 mana
+
+Disrupt all light, sound, mana sense, and life sense as it exits a large area. Lasts one hour.
+
+When ended, Sealed Privacy Ward further disrupts all mana sense within the space.
+
+Force spells:
+
+Force Trap X, instant, close range, 10 mana + Variable
+
+Place a trap that deals Variable force damage in a small area. Trap lasts until triggered.
+
+Force Bolt X, instant, long range, 5 MP
+
+A bolt of mana unerringly strikes a target for 15 + ½ WIL
+
+Ice Spike, instant, long range, 22 MP
+
+A bolt of pure ice unerringly strikes a target for 55 + WIL
+
+Glacial Crash, instant, long range, 55 MP
+
+A shard of pure ice strikes a target for 200 + 2x WIL
+
+Force Beam X, instant, medium range, 25 MP
+
+A piercing, slicing beam of hardened mana that deals 50 + 2x WIL for 10 seconds.
+
+Pure Force Beam Bolt, instant, long range, 100 MP
+
+A bolt of pure mana unerringly strikes a target for 250 + 3x WIL
+
+Force Shrapnel X, instant, short cone, 5 MP
+
+Sharpened forward blast of mana that deals 25 + WIL damage in a cone
+
+Billiard Ball Aura, short range, 5 MP per second
+
+Crashing balls of mana bounce erratically, inflicting 25 + WIL damage per hit.
+
+Force Crash X, instant, long range, 100 MP
+
+Rain small destruction in a medium area, dealing 15 + WIL damage per crash. Lasts 1 second. 15 crashes.
+
+Force Bomb X, instant, long range, 50 MP
+
+Launch a quick ball of mana that explodes on contact in a medium area for 50 + 2x WIL damage.
+
+Force Wave X, instant, medium range, 25 MP
+
+A pulse of rolling mana deals 10 + WIL to all around you.
+
+Pure Fire Beam, instant, medium range, 25 MP
+
+A burning beam of fire deals 3x WIL per second for 10 seconds, and WIL for 10 more seconds.
+
+Flying Weapon, instant, close range, 100 MP + Variable
+
+Create a nigh unbreakable weightless weapon that flies at your command. Lasts until dismissed.
+
+Plasma Cutter, instant, medium range, 133 MP + Variable
+
+Create a controlled, flying weapon of flame that deals weapon damage, and leaves burns for 3x WIL per second, for 10 seconds. Weapon lasts until dismissed.
+
+Plasma Wrap, instant, close range, 599 MP
+
+Wrap a target in fire, dealing 2x WIL damage a second until the target dies.
+
+Endless Plasma Wrap, instant, close range, 1101 MP
+
+Wrap a target in fire, dealing 3x WIL damage a second until the target dies.
+
+Death Spiral Plasma, instant, close range, 17,009 MP
+
+Wrap a target in fire, dealing WIL damage a second until the target dies.
+
+Riven Light, instant, close range, 7 MP
+
+Sharpened light blasts forward, dealing 25 + WIL damage in a cone. Deals double damage to dark and shadow aspect creatures and objects.
+
+Flash, instant, close range, 8 MP
+
+Blind all seeing creatures in a forward cone, for ten seconds.
+
+Broken Light, instant, close range, 7 MP
+
+Sharpened light blasts forward, dealing 25 + WIL damage in a cone. Blinds for 3 seconds.
+
+Breaking Light, instant, long range, 260 MP
+
+Designated light breaks to pieces, dealing 25 + WIL damage per second to all in contact with the spell. Deals double damage to dark and shadow aspect creatures and objects. Lasts 1 minute.
+
+Devastating Light, instant, long range, 860 MP
+
+Break a large area to pieces and explode the shrapnel in all directions, dealing 50 + 3x WIL damage per hit and littering the battlefield with sources of light that deal 2x WIL damage per second. Lasts 30 seconds.
+
+Shadow aspect magic turns solid.
+
+Deals double damage to dark and shadow aspect creatures and objects.
+
+Firelight Beam, instant, medium range, 45 MP
+
+A piercing, slicing beam of firelight that deals 4x WIL and last 10 seconds, and deals 2x WIL for 10 more seconds. Deals double damage to dark and shadow aspect creatures and objects.
+
+Firelight Blaster, instant, long range, 900 MP
+
+A line of firelight explodes on contact in a large area for 5x WIL damage, lasting 10 seconds. Leaves behind fires that deal 3x WIL damage per second for 10 seconds. Deals double damage to dark and shadow aspect creatures and objects.
+
+Carving Radiance, instant, long range, 2100 MP
+
+A line of firelight carves and explodes for 10x WIL damage, soaking everything damaged with power, then further exploding for 10x WIL damage. Firelight shrapnel deals 6x WIL damage per second for 30 seconds.
+
+Shadow aspect magic turns solid.
+
+Deals double damage to dark and shadow aspect creatures and objects.
+
+Radiant Bolt, instant, long range, 8 mana
+
+A bolt of Radiance unerringly strikes a target for 25 + WIL damage.
+
+Flying Striker, instant, close range, 250 MP + Variable
+
+Create a nigh unbreakable weightless weapon that automatically Strikes opponents at your command, draining your mana for each Strike. Lasts until dismissed.
+
+Fulmination Aura, instant, medium range, 26 mana per second
+
+Rip and tear at the constituent particles of reality with a chaining bolt of lightning that surrounds you, dealing 25 + WIL damage and paralyzing all so touched. Deals more damage the more targets there are.
+
+Blood Bolt, instant, long range, 10 mana + Variable
+
+A bolt of your power unerringly strikes a target for Variable damage.
+
+True Plasma Bolt, instant, long range, 50 mana + Variable
+
+A bolt of plasma inexorably strikes a target, imparting 2x Variable heat energy.
+
+High Variables may lead to odd effects.
+
+Inevitable Bolt, instant, long range, 15 mana
+
+A bolt of inexorable Force eventually strikes a target for WIL damage.
+
+Inevitable Bolts, instant, long range, 250 MP
+
+Bolts of inexorable Force each eventually strike a target for WIL damage. 15 bolts.
+
+Inevitable Bombs, instant, long range, 975 MP
+
+Bombs of inexorable Force each eventually explode upon a target, each dealing 50 + 3x WIL damage in a medium area. 15 bombs.
+
+Inevitable Bombardment, instant, super long range, 1475 mana
+
+Bombs of inexorable Force each eventually explode upon a target or targets, each dealing 50 + 5x WIL damage in a medium area. 15 bombs.
+
+Ethereal Force Bolt, instant, long range, 10 mana
+
+A bolt of ethereal mana unerringly strikes a target for WIL.
+
+Ethereal Ooze Bolt, instant, long range, 10 mana
+
+A bolt of ethereal ooze inexorably slaps a target for 15 + WIL, and coats them for one minute.
+
+Tangled Bloody Ooze Bolt, instant, long range, 25 + Variable mana
+
+A bolt of ethereal bloody ooze inexorably slaps a target for 3x Variable, then deals constricting damage each second for one minute.
+
+Mercy Bolt, instant, long range, 10 mana.
+
+A bolt of mercy inexorably strikes a target for 15 + WIL.
+
+Air Bolt, instant, long range, 10 mana.
+
+A bolt of air inexorably strikes a target for 15 + WIL. May cause suffocation.
+
+Shaping spells:
+
+Lightshape X, 1 minute per level, medium range
+
+Move large amounts of light around you for 5 minutes per level of the spell. Fine control. 100 MP
+
+Quickly move large amounts light around you for 1 minute per level of the spell. Fine control. 50 MP
+
+Fireshape X, 1 minute per level, medium range
+
+Move large amounts of fire around you for 5 minutes per level of the spell. Fine control. 100 MP
+
+Quickly move large amounts fire around you for 1 minute per level of the spell. Fine control. 50 MP
+
+Shadowshape X, 1 minute per level, medium range
+
+Move large amounts of shadow around you for 5 minutes per level of the spell. Fine control. 100 MP
+
+Quickly move large amounts shadow around you for 1 minute per level of the spell. Fine control. 50 MP
+
+Stoneshape X, medium range
+
+Move large amounts of stone and sand around you for 5 minutes per level of the spell. Fine control. 100 MP
+
+Quickly move large amounts of stone and sand around you for 1 minute per level of the spell. Fine control. 50 MP
+
+Metalshape, medium range
+
+Move medium amounts of metal around you for 5 minutes. Fine control. 100 MP
+
+Quickly move medium amounts of metal around you for 1 minute. Fine control. 50 MP
+
+Airshape X, medium range
+
+Move large amounts of air around you for 5 minutes per level of the spell. Fine control. 100 MP
+
+Quickly move large amounts air around you for 1 minute per level of the spell. Fine control. 50 MP
+
+Watershape X, medium range
+
+Move large amounts of water around you for 5 minutes per level of the spell. Fine control. 100 MP
+
+Quickly move large amounts of water around you for 1 minute per level of the spell. Fine control. 50 MP
+
+Treeshape, medium range, 100 mana
+
+Direct the accelerated growth of a tree for 5 minutes.
+
+Tree of Light, medium range, 200 mana + Variable
+
+Bless a tree with accelerated growth, the ability to repair itself, and the ability to thrive without the need for sunlight or water. Effect lasts a maximum of 1 week.
+
+Summoning spells:
+
+Conjure Force Elemental X, variable duration, close range, 10 MP + Variable
+
+Conjure a number of force constructs under your command equal to spell level, or one Large summon, or infuse your constructs with mana. Constructs operate based on mana.
+
+Summon Ophiel, medium range, 1505 mana + Variable. ~{Favored Spell}~
+
+Summon an Ophiel to do your bidding. Maximum 10 Ophiel permitted.
+
+Ophiel persist until killed or dismissed.
+
+All Ophiel are the same creature; to know one is to know them all.
+
+All Ophiel naturally have and regenerate mana based on your own mana and mana regeneration, which they may use to cast the spells that you imbue them with, at your own command or at their own discretion. Comes summoned and proficient with [Airshape], [Telepathy], and [Scry].
+
+All Ophiel are able to change their airy shape, as they are wont.
+
+Imbue your Ophiel with new spells, wherever they are. Variable
+
+See through the eyes of your Ophiel. Variable
+
+Communicate telepathically with your Ophiel. Variable
+
+Mirage Slime, instant, close range, 750 MP
+
+Summon a semi-sentient mass of [Cleanse] to clean up all messes. Lasts 1 hour.
+
+Shooting Star, instant, super long range, 250 MP
+
+Conjure a super quick fragment of starlight to crash through your enemies. Lasts 5 seconds.
+
+Summon Jewels, instant, close range, 720 MP
+
+Summon a creation of hardy stone that will retrieve a large amount of rads from as many monsters it can, while it can. Lasts 1 hour.
+
+Summon Yggdrasil, medium range, 2500 mana + Variable
+
+Summon a sapling of the World Tree Yggdrasil.
+
+All Yggdrasil persist until killed or dismissed.
+
+All Yggdrasil are the same creature, but only one Yggdrasil is the World Tree.
+
+The World Tree has yet to be planted.
+
+Summon Yggdrasil has as many maximum summons as the World Tree allows, with a minimum of 2.
+
+Current Maximum: 2
+
+All Yggdrasil naturally have and regenerate mana based on your own mana and mana regeneration, which they may use to cast the spells that you imbue them with, at your own command or at their own discretion. Comes summoned and proficient with [Grow], [Watershape], [Tree of Light], [Kaleidoscopic Radiance], [Control Weather], [Telepathy], and [Scry].
+
+World Tree Yggdrasil’s mana and regeneration are higher than yours.
+
+Imbue your Yggdrasil with new spells, wherever they are. Variable
+
+See through the eyes of your Yggdrasil. Variable
+
+Communicate telepathically with your Yggdrasil. Variable
+
+Tricking Magic:
+
+Intent Understanding, instant, long range, 8 MP
+
+Fire a packet of intent at a target spell that becomes as though cast from the other spell’s caster.
+
+Spell Crack, instant, long range, 9 MP
+
+Trick a normal, minor spell into canceling. Has no effect on ongoing spells larger than 50 mana.
+
+Spell Breaker, instant, long range, 301 MP
+
+Trick a normal spell into canceling. Excess Spell Breaker might go on to cancel other nearby spells similar to the first targeted. Has no effect on ongoing spells larger than 1,500 mana.
+
+Grand Dispel, instant, medium range, 50 mana + Variable
+
+Trick the spells a target has cast into canceling, regardless of distance, by paying the Dispel cost. If you generally know the spells you are targeting, Grand Dispel first works on all instances of that spell. If excess power remains, Grand Dispel carries over into other magics cast by the target, starting with higher-cost magics first.
+
+Alternatively, trick a spell into canceling by paying half of the Dispel cost. Excess Grand Dispel might go on to cancel other nearby spells similar to the first targeted.
+
+Stone Breaker, instant, long range, 50 MP
+
+Trick a spell of Stone into breaking.
+
+Fire Breaker, instant, long range, 50 MP
+
+Trick a spell of Fire into breaking.
+
+Water Breaker, instant, long range, 50 MP
+
+Trick a spell of Water into breaking.
+
+Air Breaker, instant, long range, 50 MP
+
+Trick a spell of Air into breaking.
+
+Light Breaker, instant, long range, 50 MP
+
+Trick a spell of Light into breaking.
+
+Shadow Breaker, instant, long range, 50 MP
+
+Trick a spell of Shadow into breaking.
+
+Prismatic Breaker, instant, long range, 300 MP
+
+Trick an elemental spell into breaking.
+
+Force Breaker, instant, long range, 75 MP
+
+Trick a Force spell into breaking.
+
+Ward Destruction, instant, long range, 100 Mana
+
+Dispel a ward.
+
+Counter Magics:
+
+Counterspell, medium range, 10 MP + Special Cost
+
+Prevent a magic from being cast.
+
+Costs as much mana as the spell you are trying to counter.
+
+Harmonic Counterspell, instant, long range, 10 + Special Cost
+
+Drains you of the mana necessary to prevent a magic from being cast.
+
+Harmonic Suppression, instant, long range, 20 + Variable
+
+Launch an ethereal, inexorable ooze that automatically and constantly applies a counterspell of appropriate cost to its target, using up an amount of Variable cost. Lasts one minute.
+
+Harmonic Blood Ooze, instant, long range, 25 + Variable
+
+Launch an ethereal, inexorable Blood Ooze under your control that automatically and constantly applies a counterspell of appropriate cost to its target, using up an amount of Variable cost. Lasts one minute.
+
+Particle magic:
+
+Crystallize Diamond X, close range, 1 minute per level, 25 MP
+
+Cause a diamond to <grow in size>. <Results vary by growing environment>
+
+Diamond Aura, close range, 1 MP per second.
+
+Cause the diamonds in a small area around you to <grow in size>. <Results vary by growing environment>
+
+Incandescent X, instant, 1 minute per level, medium range, 25 MP
+
+Heat a small area to brilliance, dealing <damage> per second. <Effect increases with multiple castings>.
+
+Frozen Mist X, instant, 1 minute per level, medium range, 25 MP
+
+Cool a small area, dealing <damage> per second. Creatures caught in the effect are slowed if they cannot become warm. <Effect increases with multiple castings>.
+
+Shimmer X, long range, 1 minute per level, 250 MP
+
+Tiny specks of incandescent heat fill a large space, igniting flammable objects and dealing <damage>. <Shimmer can gain or lose damage based on the material inside the spell>.
+
+Wintry Sea X, long range, 1 minute per level, 250 MP
+
+A large designated space rapidly loses all heat, dealing <damage> to all inside. Damage from Wintry Sea automatically slows. <Wintry Sea attaches to those most affected by itself, and will switch to another target if the most affected target perishes>.
+
+Stillness X, instant, super long range, 250 mana.
+
+Drop all <sound> to the level of a <speaking voice> in a super large area for 1 hour.
+
+Hermetic Seal X, instant, medium range, <250 MP>
+
+A <medium sized area> becomes unchanging, for 1 hour per spell level. <Damage dispels Hermetic Seal>. <Hermetic Seal fails when cast on living creatures>.
+
+Purge Water X, instant, close range, 25 mana
+
+Draw out the water in a medium or smaller target, dealing <damage>.
+
+Magnetize X, instant, close range, 25 mana + Variable
+
+<Align the magnetic forces in a metal object in a singular direction>.
+
+Adjust Density X, instant, close range, 25 mana + Variable
+
+Adjust the density of an object.
+
+Tenderizer X, instant, close range, 10 mana
+
+Cause minor molecular damage in a small target.
+
+Condense Hydrogen X, instant, close range, 25 mana
+
+<Collect all ambient Hydrogen in a medium area, into a small area>. Lasts 10 minutes.
+
+Condense Oxygen X, instant, close range, 25 mana.
+
+<Collect all ambient Oxygen in a medium area, into a small area>. Lasts 10 minutes.
+
+Distill X, instant, medium range, <10 mana>
+
+<Separate out all impurities from a large area of water>.
+
+Battery X, instant, medium range, <500 mana>
+
+<Electricity flows>. Lasts for 1 minute per spell level.
+
+Catalyst X, instant, medium range, 50 mana.
+
+<Enables easier reactions in a large area>.
+
+Electrolysis, instant, medium range, <500 mana>
+
+<Bring the water in a target to the surface and turn that water into Hydrogen and Oxygen through the power of electricity>. Deals <damage>. Lasts 1 minute.
+
+Electrolysis Bomb, instant, medium range, <1000 mana>
+
+Turn a target’s water into the instrument of their demise, dealing <damage> until enough protected resources are collected to deal <damage>. Lasts until triggered or dismissed, or for 1 minute.
+
+Luminous Trap X, instant, close range, 250 mana
+
+A large or smaller object or space traps and perfectly contains all light, both magical and mundane. If you cast Luminous Trap on same object or space as before, you will renew the duration of Luminous Trap. Varying duration. <Lasts a maximum of 100 days>.
+
+Perfect Mirror X, instant, close range, 250 mana
+
+A large or smaller object or space perfectly reflects all light, both magical and mundane. If you cast Perfect Mirror on same object or space as before, you will renew the duration of Perfect Mirror. Lasts 100 days per spell level.
+
+Hermetic Razor, instant, medium range, 500 mana
+
+25 molecular wires stretch through a medium-sized space, at your command. One wire does a maximum of 100 points of damage before breaking.
+
+Hermetic Shredder, instant, medium range, 1000 mana + Variable
+
+A Variable number of molecular wires stretch through a Variable space, at your command. One wire does a maximum of Variable points of damage before breaking.
+
+Hermetic Bolts, instant, medium range, 300 Mana
+
+A series of 5 wire-thick bolts launches forward in a small cluster, dealing physical damage.
+
+Particle Mage:
+
+Call Lightning X, instant, super long range, 500 MP ~{Favored Spell}~
+
+Prepare the sky to strike an area or object of your choice for <damage>. If used in an active lightning storm, Call Lightning’s duration is as long as the natural storm. Every lighting bolt called reduces the duration of Call Lightning by 1 minute, or a natural storm by <undetermined>. Lasts 1 minute per level.
+
+Particle Mage Only
+
+Lightning Aura, instant, super long range, 1 MP per second ~{Favored Spell}~
+
+Prepare the air around you to strike for <damage>. One strike available every 50 MP spent.
+
+Particle Mage Only
+
+Exalted Rain Aura, instant, super long range, 1 MP per second ~{Favored Spell}~
+
+Anoint the land with blessed rain, rapidly growing all <crops and pasture> to <harvest size> and restoring vibrancy to all other <desired> plant life and soil. If used in a <prepared field> <devoid of crops>, highly nutritious beans will sprout after <a full day of rain>.
+
+Particle Mage Only
+
+Withering X, instant, super long range, 500 MP
+
+Purge all water from all monsters in super large area, dealing <damage> every second. Cleanse the land around every monster killed in this way. Lasts 1 minute per level.
+
+Particle Mage Only.
+
+Withering Slime, instant, super long range, 1000 MP.
+
+Unleash a super large wave of semi-sentient magic that searches for monsters and purges them of all water, dealing <damage> every second. Cleanse the land around every monster killed in this way. Lasts 10 minutes.
+
+Particle Mage Only.
+
+Domain of the Withering Slime, instant, super long range, aura, 2 MP per second
+
+Provide an anchor for the Withering Slime to exist on your world.
+
+Particle Mage Only.
+
+Cascade Imaging X, instant, super long range, <500 mana>
+
+Gradually build up an image of your greater surrounding area over the course of 10 minutes per spell level. Recasting Cascade Imaging on the same location will extend the spell’s duration to the length of the new cast.
+
+The resulting image will gradually become more precise the longer Cascade Imaging is able to run.
+
+If you designate a <well known target> prior to casting, that target might appear on your resulting image.
+
+<Particle Mage Only>
+
+Luminous Beam X, instant, super long range, 500 mana
+
+Conjure a coruscating, tightly controlled plume of severing light that deals <massive damage> and lasts for <5 seconds>.
+
+Particle Mage Only.
+
+Vivid Gloom X, instant + 1 minute, super long range, 500 MP
+
+Chaotic radiance expands to fill a super large area, dealing <damage> every second to all inside. <Various effects of direct exposure include, but are not limited to, Cancer, Blindness, Magic Failure, Immolation, Boiling, and other Decay-like effects.> Spell lasts <1 hour> after conjuring is complete. Effects last longer.
+
+Particle Mage Only.
+
+Control Weather X, one minute, super long range, <500 mana + Variable>
+
+Change the weather in a location. Effect lasts longer if desired weather and location are conducive to each other. Minimum duration: <1 day>. Maximum duration: <1 month>.
+
+Particle Mage Only.
+
+Vivid Gloom Ooze, instant + 1 minute, super long range, 1000 MP
+
+Chaotic radiance grows to become a super large ooze under your control, dealing <damage> every second to all consumed. <Various effects of direct exposure include, but are not limited to, Cancer, Blindness, Magic Failure, Immolation, Boiling, and other Decay-like effects.> Spell lasts <1 hour> after conjuring is complete. Effects last longer.
+
+Particle Mage Only.
+
+Class:
+
+Particle Mage
+
+Spend 100 mana to discover if a Particle spell is possible, greatly reducing the risk of Errors.
+
+If you witness a Particle spell and you understand it, you may unlock that spell for free.
+
+Major Mana Shaping applies to all Spells. Altering ongoing Auras is considerably easier.
+
+Double Base Mana
+
+Double Base Mana Regen
+
+Your ability to create new Particle Spells is Greatly Increased.
+
+Quest Board
+
+Blood Mana
+
+Light Dedication
+
+Force Savant
+
+Blessings:
+
+Blessing of Empathy, 30 seconds, Sound + Understanding + Acceptance, 1500 mana
+
+Blessing magnifies when harm is committed.
+
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+
+Blessing of Minor Truth, 60 seconds, Sound + Understanding + Acceptance, 100 mana per person
+
+Every member of the accepting group can tell when the others purposefully lie or obfuscate the truth.
+
+Special Abilities:
+
+Divine Creation, <Koyabez>
+
+A touch of the divine will enable the creation of an appropriate artifact.
+
+<The hands of eternity achieve the impossible.>
+
+Death’s Approach, <Phagar>
+
+Become a being of untouchable mana for 1 hour, multiplying your base mana by 10, giving you endless mana, and instantly filling your mana pool. Your regeneration is damaged to a varying degree when the effect ends, cutting your regeneration to a fifth to a tenth of what it was before. Debuff lasts until you recover the mana spent while Death’s Approach is active.
+
+<Ignite the entire candle to drive away the night.>
+
+SSS, 0, 0, 0
+
+<Use this first. It will last for 1 hour.>
+
+TS, 0, 0, 0
+
+<Use this next. This will negate one hostile use of Time Stop. Don’t tell anyone about this one. I do want you to win, but I had to put on a bit of an act. Still. Them voting like that was pretty shitty. Good luck.>
+
+REMADE SPELLS for +1 point:
+
+Force Bolt, Beam, Bomb, Shrapnel, Trap, Crash, Wave
+
+Armor, Weapon,
+
+Platform, Wall,
+
+Detect Magic, Telekinesis
+
+Blink, Teleport
+
+Interception
+
+SPELLS GAINED BY CREATION (non-particle spells):
+
+Clothe
+
+Teleport Object, Teleport Familiar, Teleport Summon, Teleport Monster, Teleport Tree
+
+Teleport Other
+
+SPELLS GAINED BY CREATION (particle spells):
+
+Most of them, except for,
+
+SPELLS GAINED BY WITNESSING (particle spells):
+
+Hermetic Seal, Hermetic Bolts, Hermetic Razor, Hermetic Shredder (Kiri)
+
+Incandescent, Frozen Mist (Maia and Eduard, of the Mage Trio)
+
+Purge Water, Magnetize, Adjust Density, Tenderize, Condense Hydrogen, Condense Oxygen (The archmages at the Oceanside lecture)
+
+Perfect Mirror (Kiri)

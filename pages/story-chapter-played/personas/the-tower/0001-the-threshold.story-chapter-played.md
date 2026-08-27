@@ -1,0 +1,97 @@
+---
+id: cadf0b45-7384-5069-aef3-cfacaef4e3e4
+page-type-slug: story-chapter-played
+title: "The Threshold"
+slug: 0001-the-threshold
+partOf: the-tower
+position: 1
+ownLength: 1833
+unit: words
+---
+# The Threshold
+
+Cold stone against the side of your face. That's the first thing — cold, gritty, a little damp, aching where your cheekbone presses into it. You're lying down, and you don't remember lying down. You don't remember anything before this: not arriving, not falling asleep. Your memory just starts here, like a page torn out ahead of it.
+
+You push up onto your hands. Grit and old ash, and the air tastes of it — burnt, dry, catching at the back of your throat. It's almost fully dark. The only light is a thin amber line low to the ground, ahead and to your left. Above you the space feels huge and empty, climbing up out of sight. Down here there's just you, the stone, and that line of light.
+
+Then light finds you. A pane of pale letters opens in the air an arm's length from your face — sharp, cold, hanging where nothing should hang. You feel it before you read it: something turning its attention toward you, and looking.
+
+**The Tower · Soul Appraisal**
+
+```
+DESIGNATION   Alan
+TIER          1  (Threshold)
+CLASS         None
+—
+Vitae 70     Focus 104     Stamina 50
+MIGHT 11   FINESSE 13   VITALITY 6   INTELLECT 18
+PERCEPTION 11   WILL 16   PRESENCE 15   LUCK 10
+```
+
+The letters hold there, waiting. You have no idea what any of it means, or how you came to be measured by it.
+
+Past the glow you can see where the amber light comes from: a heavy iron door, open a hand's width, warmer light spilling through the gap. From beyond it comes a dry, shifting crackle — something settling. Or breathing.
+
+You're awake at the bottom of the Tower, and you're alone with it.
+
+You move slow — heel to toe, weight easing down, breath shallow. The ash takes your steps without a sound. At the door you stop, one hand flat on the cold iron, and put your eye to the gap.
+
+Inside is a low, round chamber, warmer than the dark behind you. The warmth comes from the thing in the middle of it.
+
+It crouches with its back to you, hound-sized, hunched over a scatter of blackened bone. It isn't flesh. It's made of ash — loose, grey-and-orange, holding the shape of an animal the way a cloud holds a shape. As it moves, parts of it come loose and reform: a foreleg crumbles to powder and builds itself back. That's the crackle — its own body, resettling over and over.
+
+One part of it doesn't move. Set in its chest, where a heart would be, a single point of light burns steady — a knot of molten orange, hard and fixed. Everything else about it drifts. That doesn't.
+
+It hasn't heard you. Its attention is on the bones under it. The light it throws reaches the far wall, where a stair climbs into the dark and ends at a slab of seamless stone — the way up, shut.
+
+You have the gap, the quiet, and its back turned.
+
+You ease back from the gap and put the door between you and the crackle again, then turn to the dark room behind you — the one you woke in. Going at that thing bare-handed isn't a plan. So you search, slowly, making yourself look instead of letting your eyes slide past.
+
+Most of it is ruin: charcoaled timber that crumbles when you touch it, drifts of ash, the broken curve of what might have been a bowl. Then, half under a fallen beam against the wall, your hand finds something that doesn't give — cold, straight, heavy. You work it loose.
+
+It's an iron bar, a length of old rod a little longer than your forearm, rusted orange-brown but solid through. It has real weight. You heft it once. Everything down here crumbles or drifts — the ash, the timber, that thing past the door. This doesn't. It's the second solid thing you've found. The first is burning in the creature's chest.
+
+You settle the bar against your shoulder and look — really look, dragging your eyes over the room instead of letting them fix on the bright thing in the middle.
+
+The chamber is round, maybe thirty feet across, and the core lights it well enough to map. The creature is dead center, about four strides in, hunched over the bones, head down, busy. Its back is to you. Past it, the far wall holds the stair and that sealed slab at the top — plainly the way up, plainly shut. You look it over and find nothing to use: no handle, no seam, no lock. Just fitted stone.
+
+The rest of the room comes clear. Fallen masonry is heaped along the curved walls — chunks the size of a fist or a skull, enough to crouch behind, enough to throw. The bones under the creature are mostly splinter and char, but one is whole: a long thighbone, half under its forepaw. And there's no water anywhere — no trough, no puddle, nothing wet. The only thing moving is the creature; the only sound is its crackle.
+
+That's what holds your attention. You watch the body work — ash sloughing off and reforming, the foreleg coming apart and building back. It never stops remaking itself. Each time a patch of it thins, you can see through to the core for half a second: the chest isn't always covered. It opens and closes as the body resettles. Everything about this thing shifts and rebuilds. The molten knot at its chest doesn't. It's the one fixed point on a moving target — and you're fairly sure that's the creature itself. The rest is just smoke.
+
+You set your feet, square up to the gap, and bring the bar up in both hands. Then you rap it once, hard, against the iron frame of the door.
+
+The sound is huge in the quiet — a flat metallic clang that carries out into the chamber. The crackle stops. For a second there's nothing at all.
+
+Then it comes, fast — much faster than something made of ash should move, a low rush of grey and ember straight at the sound. The narrow door does what you wanted: it can only come through head-on, no room to turn. You don't swing early. You wait, eyes on its chest, and as it crosses the threshold the ash over its heart thins for that half-second and the core is right there — open, molten, fixed.
+
+You bring the bar down on it with everything your legs and arms can put behind one point.
+
+The core cracks. You feel it travel up the iron, a deep blunt crunch, and the light inside it stutters and goes out. The moment it does, the creature loses its shape — all that ash drops at once into a grey heap over the bones. No crackle. Nothing rebuilds. It doesn't get up.
+
+The quiet comes back, but it's empty now instead of waiting.
+
+You stand over the heap for a moment, bar still in both hands, breathing hard. In the ash where the heart was, one thing is still warm: a cinder the size of your fist, dull orange, the last of that light banked down inside it. You crouch and pick it up. Warm, not hot, like a stone left in the sun. You don't really know why you keep it. You just don't leave it.
+
+Then the far wall moves. A long grind of stone as the slab at the top of the stair slides back, and cooler air comes down from the dark above. The way up is open.
+
+You're still at the bottom of the Tower. But not the way you were a few minutes ago.
+
+Before the stair, you take the room apart properly. The light's worse now — only the cinder in your hand and what leaks down from above — so you work close and slow, hands as much as eyes.
+
+The bones under where the creature crouched are mostly splinter and char, but the one whole piece is still there: a long thighbone, heavier than it looks. You pick it up and weigh it against the iron bar. It's lighter, and there's a dry give to it when you flex it — it'll crack before the bar does. A worse tool than the one you're already holding. You set it down.
+
+The heaped masonry along the walls is just broken stone. Good to crouch behind, fist-sized chunks easy enough to throw, but nothing to carry. No water anywhere — the floor's only damp, not wet. You run your hands along the base of the walls, into the shadow the cinder doesn't reach, and find no gap, no cache, no second door. Whatever this room held, it held the creature and the bones and nothing else.
+
+So: the bar, the cinder, and the stair. You straighten up and turn to the dark coming down from above.
+
+You go up slow. The stair winds out of the chamber's glow into full dark, and you climb by feel — bar in one hand, the other flat on the cold wall, setting each foot down soft before you trust your weight to it. No light, no sound but your own breathing, which you keep shallow. You don't know what's at the top. You'd rather see it than meet it.
+
+The air changes before the dark does — it turns wet and mineral, cold enough that your breath starts to fog. Then the steps level out, and you stop just short of the opening, low, and look.
+
+A flooded hall opens in front of you, bigger than the cinder-light back below could ever have shown — black water stretching out past where your eyes can follow, drips falling somewhere far off and echoing. You've come up onto a ring of broken walkway, a lip of cracked stone just above the waterline, the only dry footing in reach. A brazier-stand lies toppled half in the water beside you; a coil of rotted rope hangs from a ring in the wall; the slabs under your feet are split and loose.
+
+Across the water there's something moving. A heavy shape, man-tall but wrong in the shoulders, standing waist-deep and dragging itself through the flood one slow step at a time. Armored — you catch the dull shine of old plate. It's between you and a spiral stair on the far side, the only way on. It hasn't turned. It doesn't know you're here.
+
+You got what you wanted: you saw it first. You hold still on the lip of the stair and watch it, and that's when the other thing reaches you — the water itself is wrong. The surface stirs in places nothing is touching, a slow private movement under the black, and your skin doesn't like it. You can't say what it is. Only that the armored thing isn't the only thing down here with you.

@@ -1,0 +1,187 @@
+---
+id: 13ddc584-a827-5936-b472-73f7e7bdf472
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: Tier 1"
+slug: 0006-chapter-6-tier-1
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 6
+ownLength: 1504
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701720/chapter-6-tier-1"
+royalRoadId: "3701720"
+---
+
+"Morning, Ben. Ready for the big day?"
+
+Ben stepped through the flaps of a tent at the edge of camp, where Duncan had called him for his advancement. Hannah greeted him with a warm smile as soon as he entered.
+
+He blinked and looked beyond her. In the center of the tent was a large, round wooden tub full of hot, steaming water, with a table and chairs close by.
+
+Ben frowned and looked back and forth between Hannah and Duncan. Before he could ask why a bath was involved in his advancement, Duncan reached into his leather pouch.
+
+Duncan pulled out a handful of faintly glowing blue crystals and threw them onto the table.
+
+"Essence shards. We're going to use these to saturate your core."
+
+Ben stared at the shards with a blank look on his face.
+
+Then, his left eye twitched. He looked at Duncan, checking to make sure he wasn't joking.
+
+"You're telling me…"
+
+"Yes?"
+
+"…I could've just absorbed essence from shiny crystals this whole time?"
+
+Ben glared at Duncan and gestured to his body. His face grew darker as he realized what this meant.
+
+"What the hell was all the physical torture and the dirt eating for, then?!"
+
+Hannah let out a chuckle as she stepped forward and gently ruffled his messy hair.
+
+Ben scowled. "Don't do that."
+
+She didn't stop.
+
+"It's actually pretty simple. You can't force concentrated essence into someone who isn't ready for it. An untrained mortal vessel, if you will, just isn't made for that. Your core was completely dormant, Ben. If we'd given you a bunch of shards right away, your mana channels would have expanded too much way too suddenly and exploded from the shock."
+
+Ben was surprised to hear that.
+
+"You're just a village kid, not some noble brat who's been training since childhood. Duncan's tough workouts and those breathing exercises were meant to force your core to grow and build a solid foundation, so your body wouldn't break when the essence finally reached you."
+
+Well, that's a slightly terrifying mental image.
+
+Ben let out a heavy sigh and dropped his arms in defeat.
+
+Duncan tipped his pouch and poured at least a hundred glowing blue shards into the wooden tub, slowly filling it up. Ben stared with his mouth open. How could so many shards fit in such a small pouch?
+
+"What? You've never seen a holding bag before?" Hannah asked with a teasing grin.
+
+Ben ignored her, utterly entranced as the water began to hiss and turned a vibrant, swirling shade of blue with twinkling flakes like stars within. By now, he filed away the holding bag as something to process for later.
+
+"It's significantly easier for a Tier 0 to absorb the essence when it's diluted into a medium like water. Otherwise, you'd be sitting here trying to suck them dry one by one for an entire week."
+
+Ben nodded slowly at Duncan's words and started to take off his shirt.
+
+Suddenly, Duncan stepped into his line of sight, his expression turning dead serious.
+
+"Stop right there and listen to me very carefully, Ben."
+
+Freezing in place, Ben looked up at the towering man.
+
+"Those who awaken, especially those moving up the Path of Ascension through the Tiers, all face a specific phenomenon. When you gather enough essence to force qualitative change, your consciousness will be drawn inward. You will find yourself standing in front of a door."
+
+Duncan leaned in and met his eyes.
+
+"You will be tempted to open that door. You must not."
+
+Ben swallowed and glanced at Hannah, then looked back at Duncan. "Is this supposed to be some kind of metaphor...?"
+
+"No. It is not. It's a literal door."
+
+"What's on the other side of it?"
+
+"It's different for everyone. But it doesn't matter what you hear or think you see. Behind that door lies nothing but pure madness. Usually, the temptation only becomes truly dangerous after Tier 3, which is why many ascenders get stuck there forever. At Tier 0, it should be very easy to ignore. But I am warning you anyway. You must not open the door."
+
+Alright. Don't open the creepy mind door. Got it.
+
+Hannah walked over to the water, sat down, and looked straight at him.
+
+"And there's one more thing."
+
+She dipped her hand into the water and used some kind of skill that made it glow for a moment before the light faded.
+
+What did she just do?
+
+Ben wanted to ask, but he waited for her to continue.
+
+"Once you officially advance, you have to make a choice. We never mentioned it before because it would've just made you think needlessly, when it is a simple decision at this point of your journey. You'll need to allocate all of the essence you've gathered toward enhancing your body along a specific path."
+
+Hannah gestured at the glowing tub and continued.
+
+"You have exactly 100% of your essence to spend. There are four main essence paths: the Strength path, the Dexterity path, the Constitution path, which is often called the Body path, and the Mana path. In the next Tier, that assigned percentage you choose becomes a hidden modifier that permanently evolves your body toward that path and greatly improves all your related skills from then on."
+
+Ben blinked slowly as he tried to take it all in.
+
+So that's what a path is?
+
+He was still trying to process all this when Hannah spoke again.
+
+"Most ascenders divide their essence fairly evenly between two related paths to keep balance. Or they put a bit more into their favored path. For example, a Strength path warrior might allocate 60% of their essence to Strength and 40% to Constitution. But the final choice is up to you. Just remember that your chosen path will actively change your body, making it harder and harder for other paths to affect you. And that's pretty much it."
+
+"Is this what you meant by pathless, Duncan? That the cycling technique doesn't follow any of these paths?" Ben asked.
+
+"Yes and no."
+
+"What?"
+
+"It is unnecessary information. Focus on the present."
+
+Ben sighed, knowing full well Duncan wouldn't change his mind now. He dropped his shirt on the floor without a second thought.
+
+He climbed over the wooden edge and eased himself into the uncomfortably hot, glowing blue water. He sat very still and waited for the promised magic to begin.
+
+Hannah stepped up to the edge of the tub and pressed her hand firmly against his forehead.
+
+"Take a deep breath, Ben. I'm going to jumpstart the circulation."
+
+Ben nodded.
+
+A sharp jolt of electricity shot through his head. Ben gasped and quickly shut his eyes as his core activated and started circulating mana on its own. For the first time, he could feel it.
+
+He needed to remember this feeling so he could do it again later.
+
+It felt like a huge, invisible vacuum had just started inside his chest. The essence in the water rushed into his skin, filling his core with a burning, intoxicating heat.
+
+Losing all sense of time, his physical body simply ceased to exist in his mind. He had absolutely no idea how much of the energy he was pulling into his core. All he knew was that he could absorb the essence, so he followed Duncan's advice and began refining it.
+
+Visualizing what he had done countless times, he also tried some things he thought might help. Like, trying to compress the essence. When it worked, he wanted to jump with joy, but stopped himself and continued compressing the essence until it was what he could only assume was of better quality.
+
+Then, tentatively, he absorbed more.
+
+But after a while, the intense burning completely stopped.
+
+Huh, what happened?
+
+It didn't last long. Soon, he felt more essence around him again. Like a hungry animal, he swallowed it all up.
+
+Then, in the darkness of his mind, runes appeared and continuously changed shape before settling into recognizable text.
+
+Commencing evolution...
+
+Calculating essence…
+
+Warning: over threshold… Adjusting...
+
+Adjusting... Failed.
+
+Requesting higher authority... Granted.
+
+Would you like to allocate essence to a path?
+
+Hell yes.
+
+Please select your essence path:
+
+Without even a single second of hesitation, Ben shoved every single percentage of essence directly into the Mana path.
+
+Why in the world would he ever choose anything else?
+
+He was in a world where mana, skills, and levels were real. Punching things was for the meatheads. Mana was undeniably the coolest thing in existence.
+
+So why not punch things really hard with mana like a REAL meathead?
+
+Essence allocation finalized.
+
+Commencing Evolution...
+
+The runes broke apart in an instant, pieces flying everywhere.
+
+When Ben opened his eyes, he was completely alone in a dark, endless void. There was nothing else around him.
+
+Nothing, except for one tall wooden door floating in front of him. As he stared at it, a cold shiver ran down his spine.
+
+"What? No way. Damn it!"
+
+The door was already wide open.

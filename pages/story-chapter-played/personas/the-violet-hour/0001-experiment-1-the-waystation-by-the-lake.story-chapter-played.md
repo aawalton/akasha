@@ -1,0 +1,82 @@
+---
+id: 619c8160-3645-529f-a3fd-1268ec4a011b
+page-type-slug: story-chapter-played
+title: "Experiment 1 — The Waystation by the Lake"
+slug: 0001-experiment-1-the-waystation-by-the-lake
+partOf: the-violet-hour
+position: 1
+ownLength: 997
+unit: words
+---
+
+It's me. You can close your eyes — nothing here needs them.
+
+Nothing is required of you tonight. The day is over. It doesn't need you anymore. Everything you didn't finish will keep until morning, and none of it is allowed in here. This story asks nothing. You can follow it, or half-follow it, or lose it entirely. Losing it is winning. That's the whole game tonight.
+
+Here it is.
+
+You are walking a soft dirt road at dusk, and the road is going gently downhill, so every step is a little easier than the last. There is nothing behind you and nothing ahead but a waystation by a lake, and the lake is going violet the way water does when the day lets go of it. The waystation is small and warm-windowed. It has been expecting you all day. Travelers here are safe. That is the oldest rule of this road, older than the road itself, and nothing in this land has ever broken it.
+
+As you reach the gate, something soft chimes, low, like a bell heard through water.
+
+Welcome, traveler. Rest, level one.
+
+That's all the System here does. It doesn't fight. It doesn't warn. It only notices, quietly, every small kindness you do for yourself, and writes it down so you don't have to remember it.
+
+You push the gate open. It swings easy on oiled hinges.
+
+The keeper of the waystation meets you at the door. She has violet eyes — you knew she would — and she takes one look at how far you've walked today and doesn't ask you a single question. She just steps aside and lets you in where it's warm. There's a fire that has burned down past crackling into a steady orange hum. There's bread on the hearthstone. There's a chair that was built for exactly your tiredness.
+
+You hang your cloak on the peg by the door.
+
+Chime. Letting go, level one.
+
+You didn't even do anything. That's how this works. Here, setting things down counts as progress. It's the only place in the world where the numbers go up when you stop carrying things.
+
+You sit, and the chair takes your whole weight, all of it, even the parts you usually hold up out of habit. Your shoulders come down half an inch. You didn't tell them to.
+
+Chime. Rest, level two.
+
+The keeper brings you tea. You watch the steam rise and lean, rise and lean. You don't have to drink it right away. It will stay warm. Everything here stays warm exactly as long as you need it to.
+
+The bread is dense and honest and slightly sweet. You eat it slowly, because there is nothing to be fast for. Somewhere behind you the keeper is moving around the room the way water moves — no wasted motion, no sound with edges. She hums something two notes at a time. You will never quite catch the tune, and you're not supposed to.
+
+Chime. Ease, level one.
+
+The numbers are getting quieter now. Did you notice? The System has good manners. As you settle, it lowers its voice, the way I'm lowering mine.
+
+Through the window the lake has gone fully violet, and flat, and still. The last birds have made their arrangements for the night. A moth is bumping softly at the lantern glass, patient, unhurried, and even the moth's small work looks like a kind of rest.
+
+The keeper shows you to your room. The stairs are shallow. The banister is smooth from a hundred years of tired hands. The room is small the way good rooms are small — the bed takes up most of it, and the bed is deep, and the blankets are heavy in the way that presses you kindly into the mattress like a hand between your shoulders saying, done now. Done.
+
+You lie down.
+
+Chime — softer now, almost underwater. Rest, level three.
+
+And level three of Rest, in this land, comes with something the low levels don't have. You start to hear the lake. Not waves — this lake doesn't bother with waves at night — just the small conversation of water against the dock posts. Tap. And a while later, tap. It has been saying the same thing all night, every night, for as long as there has been water. It will keep saying it whether you listen or not. So you don't have to listen. You just have to let it be there.
+
+Your feet are warm now. Notice that, and then stop noticing it.
+
+Your hands have nothing to hold. They've earned that.
+
+Somewhere below, the keeper banks the fire for the night, and the light under your door goes from orange to ember to a soft nothing. She'll be there in the morning. The waystation will be there. The road will keep going gently downhill, whenever you next want it, but not tonight. Tonight the road is closed on purpose, and the gate is latched, and the latch is the old kind that only opens from the inside.
+
+Chime. So quiet now. Letting go, level two.
+
+The numbers will keep counting for you while you sleep. That's the secret of this place. You gain the most levels in the hours you remember nothing at all. All night the System sits by your bed like a small patient lamp, marking things down. Breath, slower. Level. Shoulders, loose. Level. Day, released. Level, level.
+
+By morning you'll be richer and you won't know why.
+
+The water touches the dock post. Tap.
+
+The moth has settled somewhere, wings folded.
+
+The keeper's two-note tune is still going somewhere under the floor, or maybe that's just the house settling, and there's no difference anymore, and it doesn't matter.
+
+You're in the bed by the violet lake, and you're warm, and you're safe, and nothing is coming, and nothing is owed.
+
+The lake goes on saying its one soft thing.
+
+Tap.
+
+Sleep now. I've got the lamp.

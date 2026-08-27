@@ -1,0 +1,187 @@
+---
+id: 53145bf5-f0ba-57e8-bae1-8f008622f919
+page-type-slug: story-chapter-royal-road
+title: "Book 4 Ch 1: Faberge Man"
+slug: 0004-book-4-ch-1-faberge-man
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 4
+ownLength: 2017
+unit: words
+ownProgress: 2017
+publishedAt: 2024-03-10
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/1548522/book-4-ch-1-faberge-man"
+royalRoadId: "1548522"
+markedReadAt: "2026-06-29T20:09:49.945Z"
+---
+
+Arthur and Brixaby stood on a hill and looked out at the city ahead of them.
+
+It was… hard to miss.
+
+Entirely encircled by steep brick walls, the buildings inside were arranged by height. The ones at the city’s edge closest to the wall were the shortest. Each row further back was built slightly higher, allowing for windows or balconies to peek just over the ones in front. This repeated, row after row, until the buildings reached over twenty stories high in the middle.
+
+Plus, every building seemed to be made of different materials, varying in color and texture. Some buildings were in several colors, giving them a patchwork look.
+
+He wasn’t sure if it was impressive or impressively ugly.
+
+“I smell no dragons.”
+
+Arthur glanced at Brixaby who had his head cocked to the sky. He barely seemed interested in the city at all.
+
+“Not a surprise,” Arthur said. “Most cities back in our kingdom only saw dragons when there was an eruption nearby. I didn’t even see my first dragon until I was twelve years old.”
+
+Brixaby gave an exaggerated shudder. “Then you must be glad I am in your life!”
+
+“It’s made things interesting,” Arthur said dryly. He gestured back to the city. “Have you figured out what we’re here for?”
+
+The dark dragon’s gaze dropped to the city again. He shrugged. “The card only tells me where, not what. It probably assumes we already know what we’re looking for. Now we are close, the map has been updated to the middle of that city.” Then his head turned to look to the stand of nearby trees. Not with any urgency as if he’d just heard something. He looked like he was considering.
+
+Come to think of it… the trees were strange. They were of a type of oak Arthur hadn’t seen before. That wasn’t what made them interesting: It was the fact they were here at all, so close to such a large city.
+
+From their vantage point on top of the hill, he had a good view of the area before the walls. It was all scattered forestland with some straight dirt roads that led directly to arched openings within the city walls.
+
+No farmland. No cultivated areas. And apparently, no one had ventured out of the city to cut firewood.
+
+Very odd.
+
+Arthur’s train of thought was interrupted when Brixaby suddenly said.
+
+“I wish to hunt.”
+
+“Hunt?” Arthur echoed.
+
+“Yes!” Brixaby’s chest swelled with pride. “I think it would be delightful to hunt proper prey for once. Not just small animals like rabbits or cats.”
+
+Cats? Arthur almost asked before he decided he didn’t want to know. “I thought you liked your food cooked,” he said, instead.
+
+“I do. I will hunt it and you will cook it. Several delightful smelling creatures in this forest remind me of venison.”
+
+Now Arthur got it.
+
+His dragon had gone from the size of a parrot to the size of a small donkey. He wanted to try out his teeth and claws — or maybe his new card powers. They’d both gained some over the last few days.
+
+“If you’re hunting, I’ll scout out the city. We’ll meet here this evening when the sun touches the horizon.” In his mind, Arthur reactivated his Nullify card which worked on his Return to Start. But that could be lifted by either of them at any time. “Key in your Return to Start here, just in case.”
+
+“Yes, it would be inconvenient if either one of us were sent to the Mesa Free hive.” Brixaby crouched as if ready to take off. Then he paused. “But if you encounter trouble, you will regroup here, yes? I am a dragon. But you… have no claws.” He looked faintly pained.
+
+“I’m a Legendary cardholder linked to a Legendary dragon,” Arthur said, summoning his inner Brixaby. “Trouble will find itself in trouble with me.”
+
+This seemed to mollify the dragon. With a snort, he sprung into the air. Though he kept low, within the branches of the trees. No need to attract attention from this Kingdom’s hives… whoever they were.
+
+Arthur waited until the sound of his droning wings faded. Then he turned to the city.
+
+There was no way he would be able to hide who he was forever. As soon as someone realized he was linked to a dragon, the local hives would come calling.
+
+And once it was learned he was a Legendary card holder, he’d likely find himself entangled in local politics.
+
+Being a Legendary rider had its downsides, Arthur thought. But it also gave him the strength to say no to whatever someone would want from him.
+
+Straightening his shoulders, Arthur started down the hill toward the city.
+
+One of the weirdly straight dirt roads lay at the bottom of this hill. He walked along it toward his destination. The tall buildings made an excellent beacon.
+
+Walking briskly, he soon came up behind a large cart hitched to some plodding oxen.
+
+That was where he found his second oddity. The cart was… weird.
+
+Arthur knew carts. He’d traveled with a trading caravan for some time when he was twelve. Those were basic open-air carts with the contents usually covered with tarp or blankets to keep off weather or thieves away.
+
+These were wide flatbed carts that contained two identically large wooden boxes that fit perfectly flush on the edges of the cart and stood so high they would have touched the low branches… if the branches had not been sharply cut to avoid them.
+
+And on top of these boxes sat four people in blue uniforms. Each faced a different direction, likely keeping an eye out for brigands. The one in the back saw Arthur and called out to him.
+
+Arthur couldn’t understand a word the woman said.
+
+Thinking that distance had muddled the sound, Arthur responded with a friendly wave. His hands were empty, of course. Anything that could be a weapon was stored in his Personal Space.
+
+The cart was going very slow, so Arthur easily caught up to them. As he did, the guards stood.
+
+Two of them were visibly armed with a spear and a sword. The other two were bare-handed, but Arthur suspected they had cards to defend themselves.
+
+Another guard called out. The words were… nonsense.
+
+Another language?
+
+Everyone Arthur had ever met spoke the same language… though there were accents.
+
+He had one time found a Polyglot Tongue card, though. Too bad he’d never taken it. He’d thought it was pointless at the time.
+
+Where in the world am I? Arthur wondered, but it didn’t matter.
+
+The guards were waiting for a response. Arthur could only shrug and say, “I don’t understand you. Mind if I walk on past?” Accompanied by pointing.
+
+The guards exchanged glances and one said something else in a string of syllables and vowels that made Arthur wonder how he’d even made those noises.
+
+The tone, however, was universal: Caution.
+
+“I just want to get past.” Arthur pointed again. He hadn’t slowed. If push came to shove, he didn’t need their permission. “Don’t attack me.”
+
+There was little enough room on the sides of the road, but he began to edge past.
+
+One man he suspected was the leader, because the others kept looking at him, and frowned down at Arthur. Then, after a moment, he signaled for him to pass… even though he already had been.
+
+“Thanks,” he muttered.
+
+When he got to the front, he nodded to the driver and took a double-take at the oxen. They were dark brown and woolly with massive heads and tiny black horns. Arthur gave them a wide berth.
+
+Then he looked down and saw that the wheels of the cart weren’t following well-worn ruts in the road. They were fitted to a metal bar that had been sunk in — a rail of some sort that ran at a perfectly straight line on either side of the road.
+
+He glanced again over his shoulder at the cart and noted the size of the four huge beasts and how slow they were moving despite the help of a rail. Whatever they were carrying was heavy.
+
+As Arthur walked on, he kept a light thought on his Phase In, Phase Out card. Just in case someone took a shot at him. While he heard muttering from the guards he’d passed, no one did.
+
+A quarter mile ahead, he saw another cart — this one had the same dimensions with the same large boxes. Only it was green with gold nonsensical looping writing on the back.
+
+It was also rolling up to the city wall, and several guards had already come around to chat with the driver.
+
+There were more guards along the top of the wall. A lot of them.
+
+One guard turned from the green cart and saw Arthur. He called him over.
+
+Unable to understand, Arthur showed his open palms in an exaggerated shrug. “I don’t understand you.”
+
+“Oakee, oakee,” the guard said and led Arthur toward the wall to another guard who was seated at a small portable writing desk. From the more ornate uniform, he looked to be in charge.
+
+The two gabbled and then the seated one stood and approached Arthur.
+
+“Do you know my language?” Arthur asked.
+
+The man’s eyebrows rose. “A Faberge. It’s been a while since I’ve seen one of you.”
+
+“A… what?” At least the man spoke his language, though Arthur wondered how well.
+
+“It’s what we call your Kingdom. Like the fancy egg, yeah? All your weird buildings come to a point, like an onion.” He tented his hands and chuckled. “Since you have no name for yourselves, we had to come up with something. So? How did a Faberge man find himself here?”
+
+Arthur, always ready to level up his Deception Skill, already had a story in mind. “I bought a trip from a portal card user, but he was only a Common and he had the wildcard of his set. Made for a random destination.” Arthur shrugged. “I didn’t care.”
+
+The man eyed him. “Criminal?”
+
+“Some might say so,” Arthur said. “My family was sentenced to the border for my father’s crimes.” This wasn’t too much of a lie, to muddle things in case the man had a truth-detection card.
+
+“We’ve heard of such practices,” the man said. “It’s barbaric to condemn an entire family for the crimes of another. But we still don’t tolerate criminal behavior here. If you’re caught stealing, you’ll regret it.”
+
+“I’m not a thief. I’m looking for a fresh start.”
+
+“That’s what all thieves say. But you’ll be able to prove yourself. I’m Domingo the” two words that sounded like ‘She Raf’ “on shift’, and you’re at the border of—“The next few words must have been in his language because it was incomprehensible… and long. “We’re the last of our great state. Did the portal drop you close to the city?”
+
+“Yes, the buildings are hard to miss.”
+
+“You’re a lucky kid. Wandering that forest isn’t wise.”
+
+“Why?” Arthur asked. “Does it belong to the local baron?”
+
+“No such nonsense here.” Domingo looked like he was going to say more but at that moment there was a commotion behind them.
+
+The plodding cart was coming in at a greater speed — the driver snapping the reins and cracking a whip over the back of the oxen to urge them to hurry up.
+
+Arthur would have felt sickened except the guards at the top of the boxes were standing again. One threw out a lightning bolt at something behind them.
+
+“Seems you’ll see for yourself. Stand behind me,” Domingo said.
+
+The guards on top of the wall came on alert and called out to one another.
+
+Then Arthur heard whistling from the trees. The sounds of scourgelings.
+
+The attack happened in a flash.
+
+Several scourgelings with massive, bulbous heads and gray hides, like mockeries of the oxen, sprang out from between the trees. Its head split open in half and clamped oversized teeth on the neck of one of the oxen.

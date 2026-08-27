@@ -1,0 +1,64 @@
+---
+id: 08d73ff1-bb3c-596c-8497-7f8d6925158d
+page-type-slug: story-chapter-played
+title: "Experiment 4 — Natalie's Table, Told Quiet"
+slug: 0004-experiment-4-natalies-table-told-quiet
+partOf: the-violet-hour
+position: 4
+ownLength: 943
+unit: words
+---
+
+The stew had been on since noon, and by the time Amy and Zadi came in out of the cold it had cooked down to the thick part, where the potatoes gave up their edges and went soft into the rest of it. She kept it on a low flame while they hung their coats by the door. The kitchen was the warmest room in the house now that the evenings had turned. The window over the sink had gone dark early, and when she looked up from the pot she could see the three of them in it, small and lit.
+
+"It smells like the whole house already ate," Zadi said, and sat down without being told.
+
+Natalie set the bread out, her own this time, though she didn't say so and nobody asked. There was cornbread too, in the pan, still warm enough to matter. Amy had brought a jar of pickled beans and put it in the middle of the table where everyone could reach it.
+
+They ate for a while without talking much. Natalie put seconds in the bowls before they were empty, and nobody stopped her. The stew was good. She could tell a few spoonfuls in, once she'd stopped checking it and started just eating it. She'd made too much again. There would be bowls to send home with both of them, and she'd set the containers out on the counter by the door before they came.
+
+The pickled beans went fast. Amy reached in for the last of them before anyone else could, and nobody minded.
+
+"This is exactly right for tonight," Amy said. "It's cold enough out there to mean it now."
+
+"It came in fast this week," Natalie said. "One morning the porch was cold and that was that."
+
+"I finished the blue book," Zadi said. She had it with her, on the chair at her side, the way she carried the ones she was still inside of. "It wasn't what I thought. I thought it was going to be sad, and it kept not being sad. I kept waiting for it."
+
+"And?" Natalie said.
+
+"And then it ended, and I was glad, and I felt a little tricked, in a good way." Zadi turned her spoon over.
+
+"What was it about?" Natalie said.
+
+"A house, mostly. A family that kept losing it and getting it back. It sounds like nothing when I say it, but it wasn't nothing. And now I've got nothing lined up to read. First time in a while."
+
+"You'll find one," Amy said. "You always do."
+
+"The shelf could run out."
+
+"The shelf is not going to run out," Amy said, and that was the end of it.
+
+Natalie got up to move the coffee off the heat and stood a moment at the counter with her back to them. Amy was saying something about next month, about her own table. She had already worked out where everyone would sit, and what she would make, and the order it would come out of the kitchen. There was a diagram, apparently. Zadi was laughing at her, gently, and Amy was letting her.
+
+"You can laugh," Amy said. "You'll eat in the right order and you'll like it."
+
+"I don't mind being told where to sit," Zadi said. "Saves me deciding."
+
+Natalie brought the coffee to the table. The tomato jars from the end of summer were still going; she'd sent them home with everybody and kept a shelf of her own. The greens she'd put in were up now, low and dark, taking the cold better than she'd thought they would. She told them that part. Neither of them minded that it wasn't much of a story.
+
+"Mine took," Amy said. "The little ones, by the back step where I can see them from the sink."
+
+"Course you do," Natalie said.
+
+Zadi buttered a corner of the cornbread and ate it slowly while the others talked.
+
+The honey was still on the table from the bread, the clover kind from the man past the feed store, the jar not quite closed. Zadi reached over and pressed the lid down without being asked, and went back to her coffee.
+
+The coffee had come out strong and nobody said anything about it. Zadi held her cup in both hands. The lamp on the sideboard was the only light now besides the low one over the stove, and it put a soft yellow across the table and left the corners of the room alone. Natalie didn't get up to change it. The room stayed that size, this late, pulled in close around the three of them and what was left on the plates.
+
+Amy started stacking the bowls, and Natalie told her to leave them, and for once Amy left them. She set the top bowl back down and put her hands in her lap. The stack stood there in the middle of the table, unfinished, and that was fine.
+
+Outside, the wind had come up a little, and the house made its small sound somewhere up above them, and nothing else. The candle in front of Natalie had burned down nearly to the holder, low and steady in the last of the wax. Zadi had the book on her knee under the table, one hand resting on it, not reading, just keeping it there.
+
+Natalie sat back with her coffee. The steam came off it, leaned, and came off again. Amy said something low and Zadi laughed at it, and Natalie let the two of them go on, and drank her coffee while it was still warm, and stayed in her chair.

@@ -1,0 +1,149 @@
+---
+id: 2c44d5fa-ff48-5569-b81c-094a71a62f90
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Ch 2: Hidden Library "
+slug: 0009-book-6-ch-2-hidden-library
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 9
+ownLength: 1836
+unit: words
+ownProgress: 1836
+publishedAt: 2025-03-26
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2153119/book-6-ch-2-hidden-library"
+royalRoadId: "2153119"
+removedAt: "2026-07-03T13:47:20.179Z"
+---
+
+Arthur stared at the place the door had been for a moment, his lips firming into a thin line.
+
+Of course a hidden library was too good to be true.
+
+He stepped away, shaking his head and exasperated with himself. He had known something was fishy with Reginald’s behavior, and though he’d somewhat expected betrayal, he had still walked right into a trap.
+
+Though now he knew for certain the servant couldn’t be trusted.
+
+In any case, berating himself wasn’t helpful. Knowing it probably wouldn’t work, but deciding to try anyway since he was in a time crunch, he reached for his Counterfeit Siphon’s copy of Reginald’s spell.
+
+A new door opened in space in front of him, but the moment he put his hand on the knob he knew with the instinctive knowledge of a caster that this led not out, but to a new library. His library with nothing inside it yet.
+
+Dropping his hand, Arthur dismissed the spell and turned to look around him at the hidden library.
+
+The mostly empty shelves extended all the way down the room. It was… unexpectedly difficult for Arthur to judge exactly how long it went, though. He suspected there was spatial manipulation involved because he could only say that it went “a long way”.
+
+He walked down the rows one by one, confirming that the tall, wooden shelves were almost entirely empty. And universally dusty. It seemed Chester hadn’t been in to clean, either.
+
+He couldn’t quite push down the next flash of irritation. There were some indications like lighter marks of dust that more cards had sat in the shelves a few years ago, at least. He suspected there had been plenty more before that. It seemed that Chester had sold them, or—
+
+“Who am I kidding,” he muttered with a roll of his eyes. “He probably found a way to convert the power of the cards into more life energy. Just like he did with the hive’s library.”
+
+With a shake of his head, he continued down the rows just in case he missed something. It was hard not to think of all the sets that would now never be completed. All for… what? To keep Chester young?
+
+No. He hadn’t liked the man and certainly no one except perhaps Reginald had mourned his and Blood Drop’s passing. But had had to admit that Chester had come in and done what had been needed to drive off the Legendary ranked demi-scourge.
+
+And that had been only one scourgling eruption Arthur had seen. Surely Chester had shown his power more times.
+
+That was likely why no one had messed with Blood Moon hive.
+
+Anyway, almost entirely empty shelves didn’t mean ‘completely empty’. There were still cards here and there. All of them were Common and most of those were not helpful.
+
+Arthur gathered them up as he walked and put them into his Personal Space. Their magical weight wasn’t much of a bother to him anymore.
+
+That was something he and Brixaby had noticed when they’d added the newest Legendary card. Both of their Personal Spaces had expanded without seeming to expand. Like this library there had to be spatial magic involved because whenever they mentally went in there, it looked like the same amount of space as before… yet it now was able to hold more as if it had been magically reinforced.
+
+He hadn’t noticed the same thing happening when he’d added Master of Cards to his deck. But then again, his heart deck had just been expanded by the Dark Heart. Perhaps he just hadn’t been looking.
+
+It also likely helped that his and Brixaby’s heart decks were completely open to one another. They used each other’s cards in a way that other dragon rider pairs generally didn’t.
+
+Well, no point in dwelling on that now. He reached the end of the library and found an open area with plush leather furniture and a crackling fire within a fireplace. Arthur couldn’t see a source of fuel for the fire. He assumed it was magic.
+
+He took a seat on one of the leather chairs, which for some reason remained clean and not dusty, and went through the cards. Three stuck out at him for being the most directly useful.
+
+Wound Cleanse – Common
+
+Instant Black Ice – Common
+
+Flash of Sunburst – Common
+
+Cleanse was the one with the most direct use. He would offer that to Marion, first.
+
+Maybe the ice one to Equinox, Arthur thought. Soledad’s little dragon was coming along quite well and was becoming more vocal that he needed to expand his deck. The Instant Black Ice spell may trip up an enemy or two for a needed moment.
+
+He’d offer the light-based card to Horatio, first. He may or may not find it useful considering that it was a Common, but he should be given the opportunity. It created a flash of light at a noon day sun’s strength for a maximum of two seconds at a time. There may be a way to pair that with the other cards in his and Sams’ deck.
+
+That was about all the useful ones. The rest wouldn’t fit his retinue as far as he could see… though he had a few ideas about how they may fit others.
+
+Storing them in his Personal Space, he got up, cracked his knuckles, and wandered back to the blank spot where the door should have been.
+
+He had been here for about… an hour? Just like the exact length of the library, he wasn’t certain how much time had passed. But that had less to do with the aspect of the room and more to do with… damage.
+
+Don’t think about that either, he reminded himself.
+
+Anyway, an hour should give Reginald enough time to visit his co-conspirators, if he had any. Or travel to a useful hideout or base.
+
+Time for Arthur to spring his own trap.
+
+He accessed his Phase In, Phase Out card. Or… at least he tried to. For the first time, the card did not jump to his command. It was there as usual, safely nestled in his heart deck. Though he could mentally reach out to it, he couldn’t quite access it.
+
+Hmm. Apparently Phase In, Phase Out could allow him to travel through all sorts of solid objects but not from this library space back to the real dimension.
+
+While his mental eye was on his heart deck, he couldn’t help but notice his newest Legendary card. It was separate from his Master set and even Brixaby’s Call set yet seemed to blaze with a light and power all its own.
+
+No. He shuddered and turned his mental eye away. No, he would only use that one as a last resort.
+
+He considered his cards one more time, shook his head, and then with a bit more concentration – but no difficulty—accessed Brixaby’s cards and called upon the Dark Portal.
+
+Instantly, an oval void space appeared in front of him, pitch back and intimidating.
+
+Arthur stepped through it. Beyond was a world cast in black and light, enterally lit by a full moon.
+
+The sound of water gently slapping on a short pier drew him to the river’s edge. There, waiting for him, stood a hooded and robed figure. He—though Arthur wasn’t entirely sure if it was a he—gazed at Arthur from beyond a fathomless hood. He also didn’t seem surprised to see him.
+
+“Where do you wish to go?” the Dark Rower asked.
+
+“Can I ask you to take me to a person?” Arthur asked.
+
+“No.” He slowly shook his head back and forth. “Not unless you had a bonded connection to them. I could take you to your dragon very easily.”
+
+That would certainly get Arthur out of danger—there was no place safer to be around than Brixaby. But Arthur really wanted to know what Reginald was up to and what his plans for betrayal had been – if he had any at all.
+
+“If I use Brixaby’s Seeker card to find someone, could you use that spot in turn to bring me to him?” Arthur asked. He knew Brixaby had done something like that in the past, but these were his dragon’s cards, not his own. That might matter.
+
+“Yes.” The Dark Rower tilted his head to the side. “Though I am curious as to why you did not use your card of time.”
+
+“What?” Arthur asked, startled.
+
+The Rower gestured. “You have been in that storage space for hours.”
+
+How do you know that? he almost asked. But he knew if he did, the Rower would not answer him. He did not talk about his own powers. So Arthur asked the next question in his mind.
+
+“Are you saying that time runs differently in that library?”
+
+“No. Your perception of time has been damaged.”
+
+Arthur closed his eyes for a moment, taking that in. He had known it in the pit of his stomach but had not wanted to acknowledge it. He hadn’t even talked to Brixaby about it.
+
+“That’s why I didn’t use the time card,” he said quietly.
+
+“Some people would consider that a small price to pay for the power over time.” He could not see the Rower’s face, but he got the impression of a smile. “After all, you do have time pieces to keep track of such things for you.”
+
+“I don’t consider it a small price to pay,” Arthur said. “Do you know if my perception of time will heal?”
+
+“All things are possible.”
+
+That was in line with the vague answers he usually got from the creature. Arthur nodded and got back to the subject at hand.
+
+“I don’t actually want to go anywhere. I just wanted to escape that library space and go back to real life. Uh, wherever the card is at. Like, two feet beside it,” he said just to be perfectly clear. He didn’t want to appear exactly where the card was at—within Reginald’s heart. That would be incredibly messy.
+
+“That is possible.” The Rower gestured to his rowboat. “Have a seat and make yourself comfortable. The river in front of you is long.”
+
+“Long?” He frowned. “Why?”
+
+“It is no small thing to travel between planes of existences,” he replied and would not say any more.
+
+Arthur’s sense of time could not be trusted, but he did understand it was a long trip—one made all the longer as he did not care to look up at the nightmares swimming in the sky above them.
+
+But finally, they arrived, and Arthur stepped from the rowboat and through a returning portal which opened up in front of him.
+
+Though his eyes were briefly blinded by the light of a day at noon, his ears pierced by Reginald’s high-pitched yelp of surprise, it was the breath of fresh air—the familiar scent of cooked spices that weren’t quite present anywhere else—that told him he was home.
+
+He was back at Wolf Moon Hive.

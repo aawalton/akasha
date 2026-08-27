@@ -1,0 +1,257 @@
+---
+id: 52ca23e3-6eac-52bd-91c6-fd31907094a1
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero [Hero] Chapter 1"
+slug: 0001-the-level-zero-hero-chapter-1
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 1
+ownLength: 2469
+unit: words
+publishedAt: 2022-12-02
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1053887/the-level-zero-hero-chapter-1"
+royalRoadId: "1053887"
+---
+
+Synopsis:
+
+Ten years ago, Amelia woke up alone and lost in a broken world where she had to fight for her survival.
+
+Now, after reaching the pinnacle of power, defeating the Void itself, and escaping the abyss, she has finally found her way back into the real world. But instead of finding herself on Earth, she is in the land of Vacuos. A fantasy world with magic, monsters, Classes, and Levels. A world that is governed by a System like it were a video game.
+
+And when rewarded with a Class befitting her accomplishments— to become a powerful [Hero] that will forever dedicate her life to protecting this world that is not her own— she only has one response.
+
+“Absolutely not. I’m going to live a normal life now, thank you very much.”
+
+After all, who needs a Class when you're already the strongest anyways?
+
+“After ten thousand years, I have finally awoken. After ten thousand years, it is time for my revenge.”
+
+An ethereal voice echoed down the lonely road at the stroke of midnight. It was followed by a cacophony of footsteps— the rattling of a thousand bones. The nearby fauna went running, violently awoken from the rumbling. Monsters the size of buildings fled as an army marched down the gravel path, led by two figures at the front.
+
+The first figure was adorned in an empurpled cloak. One that was torn short at its edges yet still dragged on the earth. A crown rested atop his head— a relatively distinct feature. But it was his skull of a face that drew the most attention.
+
+“The great [Hero] Leon’s seal has been undone,” he continued. “The world shall tremble beneath my feet. All shall know my name. All shall suffer from my wrath.”
+
+Two baleful red wisps of flame burned in his eye sockets, containing his fury. He spread his bone arm wide, and the army of skeletons behind him took a thunderous step forward all at once.
+
+“Praise be, Lich King Ar’elith,” the second figure said.
+
+He was the only living person amongst this sea of undead. A human man with raven-black hair and pupil-less eyes. He bowed as Ar’elith faced him approvingly.
+
+“You did well heralding my return, Zolan. I shall ensure you are rewarded when my conquest is over.”
+
+“It was my pleasure, my King.”
+
+“Now onwards, my minions,” Ar’elith bellowed as he ascended into the dark night sky. “Bring this world to ruin!”
+
+“Your will shall be done, my King.” Zolan swept back and drew an ornate rapier.
+
+The sea of skeletons marched on, continuing down the gravel path as Zolan led the way to the nearest city. There were only a thousand undead in Ar’elith’s army at the moment, but they were the most powerful of revenants he could conjure, and their numbers would only grow with the destruction they’d wreak.
+
+The Lich King floated beneath the crescent moon as he watched his army march into the far distance. A sort of satisfied look seemed to pass through his unchanging skull.
+
+“Finally,” Ar’elith whispered softly, “all of Vacuos shall be mine—”
+
+“Uh, excuse me,” a voice interrupted him.
+
+His flaming eyes flickered, and he glanced down at a young woman standing directly beneath him. She was dressed in dirtied rags and had a rusty sword at her side. Her cloak was torn and tattered, seemingly shredded yet still intact. She stared directly up at him, and he quizzically peered at her.
+
+“A lich, huh? Well, it’s not the weirdest thing I’ve ever seen…” the girl murmured. She shrugged to herself and faced Ar’elith. “Whatever. Do you know the way to the nearest town?”
+
+“Who is this?” Ar’elith stared at her uncertainly. He would’ve killed her right that instant, but she looked unusually calm despite his presence. In fact, she somehow even looked a little bored…
+
+“I just got here and I’m tired,” she continued. “I’ve been through… let’s say I’ve been through a lot. I just want to find a place to rest now.”
+
+The Lich King was suspicious of her behavior. Her demeanor was too odd for him to brush off carelessly. He quickly appraised her in case this was a trap, but the results proved otherwise.
+
+[Human - Level 0]
+
+“Just a foolish girl, then,” Ar’elith snorted even with no lungs. There was nothing for him to worry about. His [Eyes of True Appraisal] would see through any illusions. He pointed at her, snapping his fingers. “Begone, pest.”
+
+A blast of lightning crashed from the sky, landing right on the girl. There was an explosion of electricity. The ground tore open as nearby trees caught aflame. A crater the shape of a lightning bolt scarred the earth as a pillar of smoke and ash rose from the destruction.
+
+Ar’elith simply turned away. He had other more important matters to attend to than entertaining a girl. For example, it was said that a [Hero] apparently existed in this day and age— one that could rival even the great [Hero] Leon’s strength. It was a cause for concern. He needed to investigate further into this matter.
+
+He began to float higher into the sky, before pausing as he heard a voice.
+
+“I’m just lost, man,” the girl said as she emerged from the crather, completely unscathed. “I don’t care about your revenge or whatever evil plot you have to take over the world. If you can’t help me, I’ll be on my way, alright?”
+
+The Lich King spun around, the flames in his eyes dimming as he stared at her. “How…?”
+
+She tilted her head at him. “How what?”
+
+“Impossible.” He descended from the sky, landing right before the girl. “This has to be a trick. You shouldn’t have survived my [Frost Lightning].”
+
+“Well, your frost lightning froze nothing. Also, it was pretty damn weak. Were you really trying to kill me with that?” She looked at him expectantly. Almost mockingly.
+
+She was… she was… making a fool out of him! How dare she! Ar’elith clenched his skeletal hands into fists as his eyes burned with fury. The flaming balls in his eye sockets wisped with a wild intensity now, and he straightened. There was a crack. Every bone in his body grew in size until his cloak lifted off the ground and barely fit him.
+
+The Lich King loomed over the girl as he bellowed.
+
+“Do you not know who I am, girl?” His voice boomed, shaking the nearby trees and ripping the earth open.
+
+“No, I actually don’t—” she started.
+
+“I am the Lich King Ar’elith!” he continued. “The Lord of All Undeath! The One Who Tamed the Five Grand Revenants of Arelioth’s Path!”
+
+A thin layer of sleet spread across the gravel road, and a thunder cracked in the distance. The girl looked around, clearly bored.
+
+“I brought the Valeri Empire to its knees. I fought the great [Hero] Leon to a standstill. The world itself trembled at my name as I brought nations to ruin in my path of destruction.”
+
+“...so you’re not going to help me, then?” she said flatly.
+
+He raised a hand to the sky, and dark clouds gathered above. A lightning bolt struck his open palm, creating a crystalline staff that was cloaked with frost. He aimed the tip of the staff at her.
+
+“A puny girl like you is nothing to me!”
+
+A storm of ice and lightning blasted her way as her eyes flickered. The spell crackled, lighting up the night.
+
+And she slashed up. A white light flashed. The clouds parted. The lightning dissipated. The ice coating the road cracked. The Lich King tried to work his jaw, but it literally dropped to the ground with a clatter.
+
+“W-what?”
+
+Ar’elith tried to parse what was happening— he tried to understand it with his [Analytical Mind]. But it was especially hard when his vision was slowly splitting in two. He collapsed, having been cut in perfect halves. His bones began to rapidly decompose as the girl just lowered her blade.
+
+“I am the Lich King— a Level 75 [Archmage of Death]… how did a Level 0 girl like you…?”
+
+“A Level 75 [Archmage of Death]?" She stared at the bones as they decayed to dust. "Are you stupid? Do you think this is a video game or something?”
+
+Just like that, Lich King Ar’elith’s dreams of vengeance was ground to a halt only an hour after it began.
+
+“...and I’m still lost,” Amelia sighed. “This sucks.”
+
+—--
+
+First person I spoke to since escaping the Fractured Realm, and he turned out to be some insane idiot trying to kill me. That was annoying, but at least he was weak and easy to deal with. I glanced back towards his crumbling bones and shook my head.
+
+“What was he even talking about, anyways?” I wondered aloud as I sheathed my rusty blade.
+
+I didn’t expect a response, but—
+
+DING! a loud ringing reverberated in my ears.
+
+“Fuck— that’s loud.” I recoiled at the sudden sound, only to blink at a blue screen flashing before my eyes.
+
+[INITIATING INTEGRATION INTO THE SYSTEM…]
+
+The words flickered and changed as I stared at the blue screen. “System? Integration? What the hell is this?”
+
+Either I was losing my mind, or the Lich King wasn’t as crazy as I thought he was.
+
+[PROCESSING FEATS…]
+
+“Did I really escape from the Fractured Realm to end up in a video game? God, that’d be so annoying.” I shook my head, and the words on the screen changed once again.
+
+[You have defeated the Lich King Ar’elith! For this feat, you have earned the title of Deathslayer!]
+
+I rolled my eyes. “How original.”
+
+There was a pause. The blue screen held still for a moment, flickering like it was glitched or broken. I cocked my head.
+
+“Did something happen—” I started.
+
+And a deluge of messages flashed before me.
+
+[You have defeated a voidling! For this feat, you have earned the title of Sentinel of Vacuos!]
+
+[You have defeated a thousand voidlings! For this feat, you have earned the title of The Guardian of the Broken Planes!]
+
+[You have defeated ten thousand voidlings! For this feat, you have—]
+
+…
+
+There were rows of blue screens. Columns of what I had accomplished in the Fractured Realm— before arriving in this world. There were rewards for each individual feat, sorted by what I had done.
+
+“Wait, wait, wait—”
+
+[You have defeated a voidbeast—]
+
+[You have defeated a thousand voidbeasts—]
+
+…
+
+[You have defeated a million voidbeasts—]
+
+The blue screens formed a sphere around me. Like glass panels that blotted out my vision wherever I looked. I spun around, dizzy from the constant flashing lights.
+
+“This is too much—”
+
+[You have defeated the Voidgod—]
+
+[You have escaped the Fractured Realm—]
+
+And the blue screens didn’t just list my feats, either. A second layer of blue screens appeared, flickering into existence more rapidly and far more abundant in numbers than the first. And unlike the first layer, these new blue screens all said the same thing.
+
+[You have leveled up! You are now Level 1!]
+
+[You have leveled up! You are now Level 2!]
+
+[You have leveled up! You are now Level 3!]
+
+…
+
+[You have leveled—]
+
+“Stop.” I held my arms out, and the screens froze. The deluge of messages halted as I exhaled deeply. Raising my head, I spoke in an annoyed voice. “That’s enough—”
+
+But another screen flashed before me. I groaned.
+
+“Fuck you too,” I murmured.
+
+Despite my annoyance, I immediately noticed that this screen was different. First of all, it didn’t have the same copy-and-pasted text as the others. And secondly, it was glowing red.
+
+So, I looked up and read the words in front of me.
+
+[SYSTEM ERROR:
+
+LEVEL UPS AND TITLES REJECTED!
+
+INTEGRATION INTO THE SYSTEM FAILED!
+
+Reason: You do not have a Class.]
+
+“What?” I blinked.
+
+And all the screens vanished, popping out of existence as quickly as they appeared. A new blue screen replaced them. One that took up a majority of my vision.
+
+[To integrate into the System, please choose one of the follow Classe(s):
+
+[Worldwalker Hero of Vacuos] - An otherworlder who has arrived in Vacuos to save the world from destruction. As a unique Class, the [Worldwalker Hero of Vacuos] is unrivaled in strength, skill, or mastery of magic. Benevolent and full of grace, you will forever devote your life to protecting the System from the Void’s corruption.
+
+Do you accept this Class?
+
+There are no other Classes available for you to choose from.]
+
+“...what?” I repeated myself.
+
+This really was a lot to take in all at once. Actually, scratch that, it had been a lot to take in from the very first System message. My mind was reeling— my vision was spinning. I really didn’t quite understand what was going on.
+
+Sure, I now knew that this world was like a video game with Classes and levels and a System. But other than that, I was still utterly confused. And this System refused to elaborate any further.
+
+My eyes flickered as another message appeared once more. A direct missive from the System.
+
+[Please choose a Class to integrate into the System.]
+
+While I didn’t know what was going on, I knew one thing— I had already unwittingly saved this world once. I remembered my time spent in the Fractured Realm. I remembered the broken space. The endless hordes. The constant battle.
+
+I remembered the Voidgod.
+
+After everything I had done, I only had one goal now. But this System was asking me to save the world again— it was asking me to forever dedicate my life to be the [Worldwalker Hero of Vacuos].
+
+My answer was obvious.
+
+“Absolutely not. I’m going to live a normal life now, thank you very much.”
+
+I spun around and walked away from the blue screen.
+
+Author's Notes:
+
+Thanks for reading! I will be posting a bunch of chapters today, whenever this chapter comes out, then official posting will begin on the 5th of December where I will be trying to post 5x a week on weekdays.
+
+Special thanks to Azrie, the author of Blair, for helping me out a ton with beta reading and being a soundboard for ideas throughout the process of writing Amelia. Seriously, wouldn't be able to even have gotten started without your help.
+
+Also, thank you to everyone else who helped me beta read the first few chapters like Nulls, KrazeKode, ThinkTwice, Tevagah, Vsb, Xkarnation, Slifer274, and all my patrons before I got the right execution.
+
+This story was inspired by The Wandering Inn, One Punch Man, and Salvos. Also, I heard from a very reputable source that the author of Salvos is incredibly sexy and handsome too. Trust me. You should check it out.
+
+Cover by the phenomenal FuyuDust!

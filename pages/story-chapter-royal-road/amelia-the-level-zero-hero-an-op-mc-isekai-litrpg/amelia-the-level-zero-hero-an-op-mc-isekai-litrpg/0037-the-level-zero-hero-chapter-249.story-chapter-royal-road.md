@@ -1,0 +1,243 @@
+---
+id: 5f17593e-ed08-5ec0-9e4c-481d73997200
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 249"
+slug: 0037-the-level-zero-hero-chapter-249
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 37
+ownLength: 2710
+unit: words
+publishedAt: 2024-08-22
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1769636/the-level-zero-hero-chapter-249"
+royalRoadId: "1769636"
+---
+
+“Did you sense that?” Ammon asked as he glanced back towards the Capital City of the Kingdom of Kal in the distance.
+
+Under Kallistus Kal’s orders, Ammon had brought Rakash and Si-Vus with him to the outside of the city to keep guard of the area. But judging by what was happening, that was not going to be necessary any longer.
+
+The sky was overcast with dark clouds swirling overhead. The cacophonous clap of thunder could be heard echoing in the distance as lightning cracked through the darkening dome. The three loyal servants of the [Hero King] nodded at each other as the realization crossed through all their minds.
+
+“Our King did it,” Ammon whispered as a smile tugged at his lips.
+
+Rakash and Si-Vus didn’t speak. They just bowed their heads reverently as Ammon exclaimed.
+
+“The ritual is complete—”
+
+“Excuse me,” a voice said from the side, cutting Ammon off.
+
+Ammon’s eyes flickered as his gaze snapped to the front. He stared in shock at a figure who wasn’t there before— at a woman who was stepping forward casually from behind a thicket of trees.
+
+A brown-haired woman. She was dressed in strange garbs, with a cloak of impossible characteristics. And she carried with her a rusty sword that looked so brittle it seemed like it could break from the breeze.
+
+“Who are you?” Ammon asked with a frown. And how did she get here?
+
+Si-Vus and Rakash tensed at her presence. But she didn’t even acknowledge them as she strode forward.
+
+“I’m Amelia, and I’m going to have to ask you to move out of the way now.”
+
+—--
+
+Kallistus Kal could only marvel at himself as flakes of purple Void Essence wisped off his body. He sighed at the sight. He saw the ripple of the rift that sealed the Fal-Deus into his chest. It actually worked— after all his hard work, he finally succeeded.
+
+He smiled as he stepped out of the Void and back into Vacuos. His overwhelming presence alone threatened to collapse the chamber all around him. He knew that with his current power, he was more than capable of destroying all four continents with the snap of a finger.
+
+And that was not all.
+
+The [Hero King] closed his eyes as he felt a pulse building up inside of him.
+
+“I am still growing stronger with each passing moment,” he whispered. “So this is the power of a True God.”
+
+However, even if there was a small desire for vengeance deep within the heart of Kallistus Kal, he ignored it. Instead, he sought out something else.
+
+All he wanted was to go home.
+
+So that was what he did.
+
+Raising a hand, the [Hero King] opened a rift in space that reached for beyond Vacuos— for something that was not just the Void. He focused on the world he came from. He remembered the time he spent back on Earth with his family.
+
+He let his thoughts guide him through the vast and infinite multiverse
+
+And the rift— which had been like the surface of a lake just moments ago— began to ripple. An image began to form there, showing a familiar scene. Except… it was different somehow.
+
+Kallistus Kal narrowed his eyes as he stared at the village he lived in all his life. It was bigger than he had last seen it. It looked more like a town than a village now, and it was bustling with life— with activity. But the people that roamed the streets wore a strange kind of garb he had never seen before back in his world.
+
+It was almost like staring into an alien planet.
+
+“What is this…?” he asked as he blinked.
+
+And before he could even comprehend what was going on, his chest ached. The mini-Void in his heart twisted as a single eye peered out of the darkness. The Fal-Deus resisted its imprisonment for a moment as it laughed.
+
+YOU ARE A FOOL FOR DEFYING ME, KALLISTUS KAL!
+
+“Silence!” the [Hero King] exclaimed as he focused on reinforcing the mini-Void.
+
+The darkness slowly began to encase the Fal-Deus once more. But it continued to cackle mockingly, booming in his head.
+
+THE WORLD YOU KNOW IS LONG GONE.
+
+“You’re lying—” Kallistus Kal spoke through gritted teeth, struggling to contain the Fal-Deus.
+
+And it continued to mock him.
+
+YOUR FRIENDS ARE DEAD. YOUR FAMILY IS LONG DEAD. EVERYTHING YOU KNOW AND CARE ABOUT IS DEAD.
+
+“You’re a liar,” the [Hero King] said as his eyes darted between the vanishing Fal-Deus and the rift. “I have no reason to believe a word you say.”
+
+BUT I AM NO LIAR, the Fal-Deus said in a sneering tone. THE TIME THAT CROSSES BETWEEN THE WORLDS IS NOT LINEAR. DECADES HAVE PASSED SINCE YOU HAVE LEFT. DIANA HAS LONG SINCE PASSED, AND SO DID LILY SOON AFTER. YOU HAVE NOTHING LEFT.
+
+“I— what?” Kallistus Kal blinked.
+
+And he looked towards the bustling town ahead of him. He saw the familiar name of his village plastered across a signpost, right before the town. Slowly, he began to realize that what he was being told was true.
+
+Then the Fal-Deus let out a terrible screech as it threatened to break free from its mini-Void.
+
+WE COULD HAVE REBUILT A NEW WORLD TOGETHER! A WORLD WHERE YOUR WIFE AND YOUR DAUGHTER ARE ALIVE! BUT NOW YOU WILL SUFFER! YOU WILL DIE—
+
+Its tendrils shot out and wrapped around the [Hero King] as he was caught in his stupor. He clenched his jaw, before breaking free from its grasps. The Fal-Deus hissed as it let out a terrifying shriek. With all his strength, the [Hero King] suppressed it back into the mini-Void…
+
+And Kallistus Kal was left panting there before the rift, processing what was said.
+
+—--
+
+Ammon wanted to laugh when he heard what Amelia said. The fact that she dared even threaten them when they had nearly brought down an Elder Dragon with their combined strength was ridiculous. He didn’t know who she was, but her casual appearance made it clear she was probably a low-leveled adventurer. That must have been the reason why he didn’t sense her approach.
+
+Rakash’s hands tightened on his obsidian axe as he menacingly stepped forward. Si-Vus twirled his trident behind his back, and Ammon chuckled. All around them, lightning flashed and thunder resounded from the overwhelming amount of Void Essence that was coming from beneath the earth.
+
+“Do you even know who you are talking to, girl?” Ammon asked as he shook his head dismissively. “Leave now, or die.”
+
+“Three rude idiots who don’t have the common courtesy to move out of the way for a lady when she asks them nicely?” Amelia replied as she tilted her head.
+
+“Oh?” Ammon’s eyes flickered. He could see the restlessness of Rakash who was twitching, already wanting to strike. So he sighed as he nodded at his troll companion. “Very well then, but don’t say I didn’t warn you.”
+
+Amelia just blinked at him. “Hm?”
+
+And Rakash leapt forward silently. No war cry. No terrifying roar. And yet, somehow, this sight usually struck even more fear in his enemies. His massive figure reached her in an instant, and he swung down with his obsidian axe, striking her face as she stared up at him.
+
+Ammon was about to turn away dismissively as the ground shook when he heard her voice again.
+
+“Oh, you meant you were going to attack me. I see.”
+
+“What…?” Ammon’s gaze snapped back up towards her.
+
+There she was, standing at the bottom of a small crater caused by the impact, with the axe pressing against her face. Si-Vus narrowed his eyes at what he saw. Even Rakash couldn’t help but stare quizzically at her.
+
+She didn’t even budge. It should have cleaved her in half, but it was blocked. Not by the rusty sword, or even by a hand.
+
+The obsidian axe was stopped by her face.
+
+Rakash immediately leapt back as he took on a defensive stance. Meanwhile, Ammon was still trying to process what was going on.
+
+“If you’re not going to step aside, I’m just going to walk I guess,” Amelia said as she strode forward.
+
+Clicking his tongue, Ammon watched as she casually walked right up to him. He backed away, even though she didn’t raise her blade against him. From the side, Si-Vus cursed as he threw his trident straight at her, the weapon flashing with a purple light.
+
+“Multiply,” the merman whispered.
+
+And the trident immediately multiplied into tens of thousands of ethereal copies. It rained down on Amelia, filling the sky and tearing apart the landscape as Si-Vus, Rakash, and Ammon watched.
+
+But she just continued to walk through the storm of falling weapons, unfazed. Like she was strolling through the rain.
+
+“How is this possible?” Si-Vus asked as he landed back on the ground.
+
+“Do you think it’s magic, Ammon?” Rakash asked, glancing back at the Arcane Archsorcerer.
+
+Ammon pursed his lips. He didn’t know. He didn’t understand what this power was. It almost looked like it was pure brute strength that letting her survive these attacks. However, even if he was uncertain, he knew that all that mattered was that he had to stop her.
+
+“If this is a Skill or if this is magic, I will be able to dispel it with my abilities. But you must hold her down so she cannot escape.” Ammon spoke as he raised both of his hands.
+
+A glow began to overcome his palms, and Si-Vus nodded. The merman pointed at Amelia as she continued her slow approach. And a purple net shot out from his fingertips.
+
+“Catch!”
+
+All at once, the net covered Amelia as she blinked. It was an even more advanced version of Delmer’s Snare that had been strong enough to hold down an Elder Dragon for a few minutes. Ammon knew that Si-Vus had been learning this ability ever since Delmer’s death.
+
+Even just a touch from the net should have paralyzed whoever was trapped in it. But that was not all. The strings of the net weighed heavier than a mountain, and it was nigh unbreakable. Kallistus Kal had been impressed by Si-Vus’s craftwork with his Catch, even remarking that it might have been able to hold down a Guardian Angel for a minute.
+
+But Amelia just shrugged, continuing to walk forward as the net sparked and dragged on the ground.
+
+Ammon didn’t waste a moment reacting to that. He had a part to play, and he knew what to do. Whatever Skill this was had to be dispelled.
+
+So the Arcane Archsorcerer clapped his hands together as a pitch-black bubble formed around her.
+
+“Voiding!” he screamed, but that was not all. She looked up apathetically as he then pointed at her. “Negation!”
+
+A flicker came over her as she looked down at herself. The expression on her face didn’t change. But Ammon knew that Voiding was capable of dispelling any and all Skills, while Negation was able to stop all attacks of any kind. So Si-Vus, and Rakash knew it was time to strike.
+
+“Now— attack her!” Ammon screamed as both his companions charged with a thunderous roar.
+
+“Sunder!” the troll bellowed, swinging down at Amelia.
+
+It was an attack that would split the earth in half. The Capital City of the Kingdom of Kal would be affected. But it didn’t matter. As long as this brown-haired girl was defeated.
+
+But Amelia’s eyes flickered as she realized that. And before Rakash could strike her, she swung up with the back of her left hand despite the net holding her down, smacking the troll back.
+
+And in an instant, Rakash’s body exploded into a splatter of blood.
+
+Ammon’s eyes grew wide as he saw his companion die without as much of a scream. Si-Vus shouted from beside Amelia, opening his mouth as a purple glow flashed from within.
+
+“Bubble—” he started.
+
+And Amelia slashed her blade up. Her attack didn’t connect. The merman was too far away from her. But she sliced the net holding her down apart as a gust of wind shot out.
+
+Ammon had seen plenty of wind-based attacks before. But this was the first time he had seen one that was carried out purely by brute force. And that was not all. Normally, such attacks cut apart enemies. But this particular gust of wind…
+
+It completely obliterated Si-Vus from its sheer force.
+
+Up above, the clouds parted as lightning still continued to crackle down. The flash of light cast a shadow over Amelia for a brief moment, and she craned her neck towards Ammon.
+
+He was the only one left standing there, trembling where he stood.
+
+“Are you still going to stand in my way?” Amelia asked, the inflection of her voice flat.
+
+Rakash and Si-Vus had been blessed by the Void. They were likely equal to SSS-ranked beings at this point, and they were capable of regenerating from most wounds. And yet, they had been killed by this strange girl in an instant.
+
+For the first time in years, Ammon was afraid of losing his life. He realized the mortality of his existence, and he wasn’t sure if he wanted to face his death just yet. A part of him screamed to run. To flee while he had the chance.
+
+But Ammon caught his breath, realizing his breathing was quickening. He steeled himself as he thought of everything he went through. From his exile from the Kingdom of Scholus to being saved by Kallistus Kal— being shown kindness when the world had shunned him.
+
+And being granted a power that was unfathomable to the Arcane Archsorcerer.
+
+Ammon clenched his fists as he stood steadfast. He owed his King his life, and he was not going to falter now, even if he was afraid.
+
+Amelia noticed this as she closed her eyes. “I see.”
+
+And Ammon raised both of his hands as he screamed. “Void Lightning!”
+
+It was an ability that Ammon hadn’t been able to master. That he had been trying to learn. He always failed. But right now, with the excess of Void Essence in the air, and the storm that was engulfing all four continents, he knew that this was the best chance of his success.
+
+And it worked.
+
+A blast of purple light shot down from the sky like a pillar. It engulfed Amelia’s figure in her entirety as the Arcane Archsorcerer had to look away from the blinding light. But as the light faded away, and the smoking crater cleared, Ammon couldn’t help but laugh at what he saw.
+
+As expected, his last resort attack did nothing.
+
+Amelia stood there, completely unbothered by the blast. She shrugged it off as she walked straight at him. The two of them were approaching the gates of the city now. There was nowhere else to go except to run. But Ammon refused to run.
+
+He panted as he stumbled back, staring at the approaching girl. “Just… what exactly are you?”
+
+“Me?” She paused as she tilted her head back.
+
+There was a long moment of silence where she didn’t say anything. He stared up at her, wondering what she was going to say. He wondered why she was even here in the first place. But he knew he was not going to get an answer to any of his questions. So he just waited for her response.
+
+“I am a hero,” Amelia finally answered.
+
+And the last thing Ammon saw was her blade swinging down at him.
+
+Then nothing.
+
+—--
+
+I never wanted to be a hero.
+
+I never wanted to become strong.
+
+All I ever wanted in my life was to be happy.
+
+Unfortunately, life had other plans. And I have had to live with this role that was imposed onto me.
+
+I sighed as I pushed open the heavy double doors to reveal a dimly-lit chamber up ahead. There, a figure knelt, wreathed in darkness, head bowed low. He didn’t even look up as I entered the room.
+
+And while he looked different from how I imagined, I knew who he was. So I greeted him as I came to a halt right behind his kneeling figure.
+
+“We finally meet, Kallistus Kal…”

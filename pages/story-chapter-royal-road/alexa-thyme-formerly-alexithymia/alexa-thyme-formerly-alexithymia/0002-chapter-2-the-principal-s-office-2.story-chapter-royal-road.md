@@ -1,0 +1,101 @@
+---
+id: af10aa8b-ba08-5a76-9b81-9cb0f3a2ead8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2  The Principal’s Office (2)"
+slug: 0002-chapter-2-the-principal-s-office-2
+partOf: alexa-thyme-formerly-alexithymia
+position: 2
+ownLength: 2837
+unit: words
+publishedAt: 2022-11-03
+link: "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1030489/chapter-2-the-principals-office-2"
+royalRoadId: "1030489"
+---
+
+Chapter 2
+
+The Principal’s Office (2)
+
+“You paid her for a date, and then what? You failed?” Mr. Courtland asked, turning to his son Matthew Courtland.
+
+Before he could continue, he was cut off.
+
+“He did not fail. Unless by fail, you mean a lack of ability to understand social etiquettes that I have come to understand them. He also came to the date, after clearly having been out sweating. He did not apply deodorant and did not even have the courtesy to brush his teeth before our meeting. He spoke of himself in third person five times, a sign of either a narcissist, or a serial killer. He spoke of how fortunate I was to be with him, sixteen times. He said that I made a great date, despite my lack of enthusiasm for what we were doing fourteen times. He made it a priority to first ask, then continually try to pressure me to going out on further dates with him. He even mentioned your name, as a big selling point to why a relationship with him would be beneficial to us both.” Alexa began, and locked gazes with Mr. Courtland. At the last part Alexa paused long enough for Mr. Courtland to look down at his son, who had the decency to at least look away.
+
+Alexa paused, letting societal norms dictate that Mr. Courtland’s mental faculties were otherwise engaged. Then once he broke away his gaze from his son and turned to look back at Alexa, she continued.
+
+“That does not…”
+
+“One could almost say that his meeting with me today was premeditated. Given that he first came over to demand I date him. Then when I explained I would rather smell burning tires than be in his presence again, he demanded I change his rating. That he would show me a much better time if I gave him a second chance. I told him about our repeat offender club price. A price that triples the initial cost but promises not to carry any previous judgments over to this new grading. That is when he stood up and declared that this was extortion. I then explained that this was not a force or threat, but a service my brother and I offered. A service whose fee then increased due not to extortion, but to hassle. I then informed him that he did not have to take the service, that this was his right as a consumer. After this he became explicit with his sexual overtones. Going so far as to say, ‘Fuck you bitch. You are dead. Do you know who my father is? We will fuck you so hard your ass bleeds.’”
+
+At that she paused, letting the father once again stare at his son. This time rather than waiting for the father to turn back, she continued immediately. “It was at this point that I said Necromancers are gross, and anyone wishing to be a necromancer for the sake of raping corpses is not someone I would ever consider for the repeat offender program. At that I told him to have a good day, and I got up to leave. It is at this point that he said, ‘what do you think we are fucking done?’ At which point, I responded. ‘I know we are done.’ That is when he reached out to grab me. At which point, fearing the advances of a depraved Necromancer, I defended myself. Once he was subdued, I gathered my things and left. I was willing to drop everything, until I was called here for this meeting. Now I am thinking of not only pressing sexual harassment charges, but also adding Mr. Courtland and his father to the Necromancer watch list.” Alexa said, her voice calm and cold as ice. Of course, this was to be expected, Alexa had developed a reputation as the Ice Queen. Though people raved about her dating reviews. Many of the girls in school took the reviews as gospel, which was why so many people were willing to pay the exorbitant fees to go on one.
+
+For Alexa and Luke, the venture made a great deal of business sense. Alexa used her money to pad her dungeon delving funds, to either buy passes, or to save up for specialized training that would likely help her unlock further tier classes.
+
+For her brother, Luke, he tended to use his own portion of the funds both for dungeon delving tickets, but also to take women out on dates. As the brother, and far more sociable of the two, he was allowed to get by without having gone on a date with his sister.
+
+There was a long silence in the cramped office, as two sets of parents stared off at each other. For Jim and Judy, they were well used to this type of behavior, and somewhat accepted it by now from their daughter. That was the reason they let her attend self-defense classes to begin with. The fact that she was one of the few females in the junior classes made it so she was more likely to earn a physical augmentation crystal from winning various tournaments.
+
+The part that Alexa didn't tell her parents or anyone, was her relentless reason to succeed. She had no emotions, so the sheer joy of succeeding for her parents to be happy meant nothing to her. She could not mentally relate to that. But the time she received her first attribute increase for winning first place in a science fair, that was when, for the first time in her life, she felt something. For that brief moment, when she felt her mind and body absorbing the crystalline structure into her body. That was the day she became hooked on the feeling, her only true feeling.
+
+In a way, she had been blessed. She could not feel the pains of withdrawal, like so many others did. Instead, she achieved something that up until that point had only been meaningless words. From that point on, she dedicated herself to learning, to sports, and to state funded or personal contests, as long as they offered attribute crystals as a reward.
+
+For many, the reward of an attribute crystal was a double-edged sword, for many felt the pain to be too intense. The only reason why so many others went through with the process of absorbing the crystals was the end results were so beneficial. But for Alexa, they were her opiate of choice, the only substance that seemed to even be able to release any form of endorphin in her mind at all.
+
+That was why she worked and trained so diligently, entering every science fair that offered an attribute crystalline reward. Becoming class valedictorian, as every class gave a reward to the student who had the highest marks at the end of the year. This of course, only made her rise to power even that much easier. As each attribute point gained made it easier for her to focus her mind and her will towards earning the next crystal.
+
+She also learned that sports and other clubs offered physical crystals. At first, she began dominating all the female sports, until she was too strong and dominant to compete with other females. At which point, she moved over to the male dominated sports. This suited her just fine, as male sports often provided twice as many physical attribute crystals as their female contemporary sports did. This meant that her rise to power only increased, once she was forced to compete against males of her age group or older.
+
+Many athletes and academic geniuses burned out; the pain of crystal absorption was just too much. The strain on one’s body and mind increased exponentially with each crystal absorbed. This only fueled Alexa to try harder. This meant the more crystals she earned and absorbed, the longer her feelings would last. The longer she would get to feel normal, if only for those brief moments of clarity. Then just as quickly as they had come, those moments of clarity would go, and it would be like all the colors would fade and she would be left in a world of black and white again. She was fine with black and white, she knew that color was rare, for when she successfully earned a crystal. But she used that distinct lack of color to fuel her. She spent every hour either studying, practicing, or working out. She was doing so much training that her family started getting worried about her.
+
+At one point, her father even spoke about removing her from sports competitions all together. His rationale was lost on Alexa at the time, but her brother explained the situation.
+
+“Dad is just concerned that you are spending so much time improving yourself, that when you are done you will be utterly unable to interact with modern society,” Luke had said.
+
+It was at this point that Alexa noted most people were dumb, and not worth interacting with.
+
+“While that might be the case. Your callous attitude and indifference would likely push Father further down this path.” Luke countered.
+
+From there, the idea of Alexa’s honest dating service was created. She allowed anyone, from the most awkward of introverts, to the most annoying of extroverts to partake in her services. During the date, the person got to choose the venue, what would be done, how dressed up the two would have to be for the date, and more importantly when their window of time would take place. There were three simple rules; no touching or PDA of any kind, no hand holding, and no attempting to drug her. From there, she would allow two close selfies to be taken. One from her phone, that she had purchased just for giving her honest dating reviews, and one from the phone of the person she was on a date with. There the two would be in close, and she would smile brightly. That was probably the most painful part of the whole process for Alexa, the smiling. She had learned long ago how to fake a smile, but she still found the whole gesture taxing. Too much lip curl and you look like a rabid dog about to strike. Too little and they think you are only pitying them. She would explain that she couldn’t pity them if she tried but was quickly informed that such actions were not helpful.
+
+In the end, the service was as much a pick-me-up for the boys as well. As Alexa would give details on strengths and weaknesses of any dates. Well, any dates who wished to hear her honest feedback. This was how she got the three-point marker as being a baseline for most. Should anyone stay to listen to her comments, she would mark them as a good listener, which was a factor that not many seemed to pick up on. In fact, it was the fact that Matthew had been so caught up in his own brilliance, that he missed out on both getting a chance to hear the honest feedback, and the feedback itself. Thus his 2.2 rating, which would have been a very generous 3.2, had he decided to stick around for the feedback session. While a 3.2 was low, it was not the lowest of scores. No, currently Matthew Courtland’s 2.2 was the worst score anyone had ever received from her Honest Reviews.
+
+What made matters worse, was the fact that Matthew Courtland was a very prominent person in the school. He even bragged about going out with Alexa, until he got the review results. Then all mention of the outing had been deleted from his personal timeline. This of course was where her selfie came into place, as it gave her review credibility. Of course, her review was copied and shared by multiple women, all of whom had issues with Matthew. They used the low rating as a justification for their apparent animosity towards Matthew, and vindication about the way they had been personally blacklisted by the sports athlete.
+
+“So, what is the criteria for putting someone on a Necromancer watchlist?” Jim asked.
+
+“Now, that is a slanderous accusation!” Mr. Courtland began.
+
+Jim, having gone through this multiple times before just turned to his son. “Luke, how many people do you think will confirm the claims of hearing Matthew Courtland speak first of killing Alexa, then of threatening to rape her corpse, with his father’s help?”
+
+Luke for his part looked at the empty screen and spoke. “I counted at least twenty people that were not only observing the event, but live streaming it as well. I think there is definitely a case to be made…”
+
+“Enough of this. I want…” Mr. Courtland began but was instantly cut off.
+
+“I agree. We have all seen Mr. Courtland’s actions and his harassment of a female student on our campus is unwanted. Given the direct evidence and the lack of denial from Mr. Courtland himself, I have no choice but to take the words of the victim and the thirty-seven eye-witness accounts we recorded, along with our own video evidence that shows blatant hostile actions taken by your son. With everything, we are left with no choice, but to suspend you indefinitely from school grounds. While a criminal case is investigated by the police,” Principal Summers said.
+
+With that, Matthew Courtland, who had up until moments ago looked smug and confident suddenly deflated. Then with a look of desperation, he turned to his coach and mentor. “Coach, you have to believe me.”
+
+The Coach, Mr. Vickers just shook his head. “Don’t call me coach anymore. That is only for people who deserve the right. To you from here on out, I am just Mr. Vickers, school employee. No more, no less.”
+
+***
+
+There were a few awkward moments, and threats of litigation made on behalf of Mr. Courtland. The majority of the threats were insubstantial, but still caused a spark to be lit under everyone, well everyone, but Alexa. Even her brother looked animated at one point. As the one with strong emotional intelligence, he often took it as his role to stick up for his sister.
+
+Fortunately, this was not one of those times. Every time threats of litigation were brought up, Alexa calmly and coolly corrected each incorrect statement.
+
+Finally, after a few minutes of such interactions, Mr. Courtland asked. “What exactly is your Intelligence score?”
+
+To which Alexa responded, “I don’t believe you are entitled to such information from a minor. But if you are inquiring as to whether I have met the twenty-point threshold to unlock Eidetic Memory, then the answer is yes.”
+
+After that, the lawyer looked defeated, and ultimately decided to leave before his own son could say or do anything else that would get them in more trouble. Particularly with the fact that people with Eidetic Memory unlocked and verified by the system, were allowed to testify on the stand as if they were human lie detectors. There were of course humans who had the ability to detect lies, many of which were those with high Perception attributes, and every courtroom had at least one on the stand. That was also part of why Mr. Courtland had been so successful as a trial lawyer, he could hear the lies others spoke. While he hadn’t unlocked the true Lie Detector ability, his Perception was not high enough for that, he had gotten close. That along with a few perks made it so he was as close to being a human lie detector as possible without the system unlock. This was why he had taken everything Alexa said and did to heart. She was not lying, at least all his instincts swore that she was not lying. Not about the events nor her interpretation of events. And if rumors were to be believed, her academic record spoke to her easily having achieved more than enough attribute crystals to increase her Intelligence well past the twenty-point threshold needed for Eidetic Memory. This was why Mr. Courtland left in such a hurry. There was nothing he could do to save this event that quickly spiraled out of his control. What looked to at first be an assault charge and a lawsuit against the school, quickly escalated to a point beyond his control
+
+Only once the two Courtlands left, did a strange hush cover the room.
+
+Finally, after a moment of silence, Luke broke the silence. “Mr. Vickers, why exactly are you here?”
+
+At that, Mr. Vickers smiled. “Well, I am now down one quarterback. I came here to see if I could fix that problem.”
+
+At that Luke, raised his hands. “I’m sorry, I can’t. I already told you; I have commitments.”
+
+“Yeah, yeah. Your dating life, blah, blah, blah. Besides. Not everything is about you, kid.” Mr. Vickers began, as he turned his attention from Luke to his twin. “I came to offer that starting position to you.”

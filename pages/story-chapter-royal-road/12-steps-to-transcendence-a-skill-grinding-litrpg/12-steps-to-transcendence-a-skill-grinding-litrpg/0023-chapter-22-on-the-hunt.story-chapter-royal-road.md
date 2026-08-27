@@ -1,0 +1,169 @@
+---
+id: e4216410-a6c4-56c2-bb82-b3fdf200f88e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: On The Hunt"
+slug: 0023-chapter-22-on-the-hunt
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 23
+ownLength: 2059
+unit: words
+publishedAt: 2026-08-02
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3760789/chapter-22-on-the-hunt"
+royalRoadId: "3760789"
+---
+
+After that whole debacle with Arthur and the noble brat, Ben wanted to let out some steam and maybe gain the [Regeneration] shard if he was lucky. So he slipped out of the camp into the forest leading to many dangers and opportunities. Stepping over a rotting log, Ben kept his eyes glued to the surrounding greenery. He was supposed to be hunting a goblin today.
+
+Specifically, he wanted to find a very generous, very dead goblin carrying the [Regeneration] skill.
+
+But of course, the universe hated him. So instead of a convenient healer goblin, he found dogs.
+
+Crouching low behind a bush, he watched the small pack meander through the shaded clearing. There were four in total. Three were just your standard, overly aggressive wolves.
+
+But the fourth one was different.
+
+Sporting a wicked, jagged horn right in the middle of its forehead, the massive beast was obviously the leader.
+
+Well, essence is essence.
+
+Deciding to just farm them for essence, Ben prepared to move closer. Then, he froze completely. He hadn't even taken a single step yet, but the horned wolf was already stopping in its tracks.
+
+What the hell! I have been tailing them for a little bit now, why did it only notice me now?
+
+Lifting its massive head, the horned wolf started sniffing the air. Its ears twitched, swiveling around like furry little radar dishes.
+
+You've got to be kidding me.
+
+Holding his breath entirely, Ben slowly started inching backward. He placed each foot carefully. This wolf was ridiculously good at sensing its surroundings. He hadn't made a single sound, but the monster just somehow knew something was wrong.
+
+Growling low in its throat, the horned wolf suddenly snapped its jaws. And the rest of the pack instantly responded, spreading out in three completely different directions, the wolves started prowling around.
+
+They were actively looking for him now.
+
+Stopping his retreat, Ben just pressed his back against a thick tree. Moving right now would definitely reveal his position.
+
+So much for the element of surprise.
+
+But they were separated now. So that was good, at least. The best thing to do right now was just to pick them off one by one. Tracking the closest normal wolf, Ben waited until it wandered behind a cluster of dense bushes.
+
+He pushed mana into his feet, and launched himself forward with [Fire Burst]. He crossed the distance in a single speed burst. Dropping down right on top of the startled beast, Ben jammed his foot directly against the wolf's skull, and unleashed a concentrated [Fire Burst].
+
+The explosion instantly pulverized the monster's head.
+
+It dropped to the forest floor.
+
+One down.
+
+Wasting zero time, Ben immediately pivoted toward the second target, as he knew that the element of surprise was gone now and all the wolves would be moving toward the noise now. He blasted through the underbrush, moving way too fast for the beast to react.
+
+Catching it completely off guard, he blasted upwards and landed right on top of its head. Another violent explosion rocked the forest, and the headless corpse slumped into the dirt.
+
+Two down.
+
+The explosions were way too loud. He couldn't exactly muffle a point blank detonation of magical fire. And the remaining two wolves were entirely alert now. Howling furiously, the horned wolf burst through the foliage. The third normal wolf was right on its heels.
+
+They just instantly threw themselves right at him.
+
+Shit.
+
+Blasting backward, Ben immediately went on the defensive. He shot through the trees like a pinball, and continuously fired off bursts of flame from his feet to alter his trajectory in the air, dodging around the trees.
+
+He was trying to catch them off guard, but they weren't giving him a single opening.
+
+In fact, the horned wolf was terrifyingly fast. It obviously had some kind of speed based skill. Blurring into a streak of grey fur, the alpha moved around him. It was actively trying to flank him even as he blasted erratically through the air.
+
+Being pushed entirely to the defensive, Ben tried his absolute best to dodge. He twisted his torso to the side, but the horned wolf still managed to get its claws on him. Ripping through his shirt, the monster left a set of bloody scratches right across his ribs.
+
+Sssss, that stings.
+
+[Focus] didn't let the pain distract him. Unlike last time, he actually had a proper weapon to use now. And he wasn't injured. He wasn't just relying on his bare hands and explosions. Gripping his dagger tightly, Ben timed his next blast perfectly.
+
+Meeting the horned wolf's next charge head on, he completely ignored its snapping jaws. He just viciously swung his blade in a wide arc. The sharp steel bit deeply into the monster's front shoulder. Leaving a bleeding gash behind, Ben felt a quick surge of satisfaction.
+
+But focusing entirely on the horned wolf was a mistake. It gave the remaining normal wolf a massive opening, and the beast capitalized on it instantly.
+
+Slamming heavily into his back, the wolf tackled Ben directly to the ground. The sheer weight of the monster knocked the breath right out of his lungs as its jaw snapped at his unprotected neck.
+
+But his [Focus] made sure he didn't panic. His mind remained completely cold to the injuries he was receiving. Ignoring the crushing weight, Ben just sent more mana than usual straight down into his feet.
+
+And he blasted away from the dirt.
+
+The sheer concussive force of the explosion sent both him and the wolf flying upward. Twisting his body, Ben ripped himself out from under the beast. But the wolf's claws still managed to dig deeply into his skin.
+
+Dragging across his shoulder blades, the sharp nails scratched him up even more.
+
+Thankfully, the wounds weren't too deep. He wasn't seriously hurt. Tilting his body upward, Ben fired a blast to fly a bit higher into the air. He just needed to create some solid distance right now.
+
+Looking down at the bleeding gashes on his arms and chest, he really couldn't help his annoyance.
+
+This is exactly why a healing skill would be really useful right now.
+
+He was tired of bleeding all over his clothes. But the horned wolf wasn't going to just let him float around complaining. Coiling its massive legs, it jumped impossibly high into the air, and cleared the distance in a fraction of a second.
+
+Snapping its jaws right at his dangling legs, the monster managed to nick his calf.
+
+"Son of a—!"
+
+Cursing out loud, Ben felt his temper finally flare up. He completely stopped retreating and blasted straight down toward the falling wolf. Spinning in the air, he slashed wildly with the dagger and carved another bloody trench right across the horned wolf's back.
+
+And he immediately followed it up by slamming a [Fire Burst] straight into its ribs. The shockwave sent the horned wolf crashing heavily into the dirt, its skin burnt. Yelping in pain, the horned wolf scrambled backward.
+
+Realizing that it might actually die here, the intelligent monster started retreating a bit. It was trying to buy itself some time to recover. And that gave Ben the perfect opportunity to finish off the annoying little minion.
+
+Locking his eyes onto the remaining normal wolf, he dropped straight down from the sky like a meteor. Seeing him coming, the wolf braced itself for an attack. Ben feinted a downward stab with his dagger.
+
+Falling for the trick, the beast completely locked up its muscles to intercept his arm.
+
+At the absolute last possible second, he fired a massive blast from his feet. The explosion completely altered his trajectory. Shooting right behind the confused wolf, Ben turned around. He didn't even give the monster a chance to spin around, and slammed his heavy foot directly into the back of the wolf's neck propelled by a [Fire Burst].
+
+Forcing the beast down into the dirt, Ben stepped on its skull, and he sent a concentrated [Fire Burst] straight into it. The wolf's head exploded on impact.
+
+Three down.
+
+By now, the playing field was finally even. It was just a pure one on one fight. And both of them were injured. So Ben grabbed the hilt of his dagger tighter. Pushing mana into his legs, he blasted forward toward the horned wolf again.
+
+The alpha bared its teeth and met his charge. This time, they were completely evenly matched in speed. Neither of them could instantly overpower the other, because both of them were just constantly moving around each other in a blur.
+
+They were trying to get clean hits in, constantly probing for any slight openings in their defenses. Dodging a vicious swipe of claws, Ben realized something. The horned wolf was actually quite intelligent. It wasn't just relying on raw animal instinct, much to his surprise. It was actively trying to predict his movements based on his previous blast trajectories.
+
+It was fighting like a human.
+
+But still, Ben had already gained quite a bit of experience fighting monsters. And more importantly, he was used to fighting them while effectively half dead. During his last fight against that troll, he had been operating in a state where he absolutely shouldn't have been fighting at all.
+
+He had been broken, bleeding out, and half his body couldn't function properly. He was running entirely on fumes. Compared to that utter nightmare, this was nothing.
+
+He was just a little scratched up. So fighting this oversized dog was actually pretty easy. He wasn't feeling an ounce of the pressure he usually felt. His mind was completely clear. So it only took him a bit more time to figure out a way of killing the stubborn wolf.
+
+He just needed to use his environment to trick this thing. Blasting backward, Ben intentionally retreated out of the open area. He threw himself into a much denser section of the forest.
+
+Seeing him run away, the horned wolf immediately gave chase. It obviously thought it had finally gained the upper hand. Barking furiously, the horned wolf closed the distance in a flash of grey fur. But Ben wasn't running away at all.
+
+He specifically targeted a pair of incredibly thick trees growing right next to each other. They formed a tight, narrow natural corridor.
+
+Running straight toward the gap, Ben increased his speed, pouring more mana into [Fire Burst]. The horned wolf lunged right after him, fully expecting to tear his throat out from behind.
+
+But as soon as Ben reached the trees, he firmly planted his foot completely sideways against the right trunk. He treated the massive tree like a literal springboard. And he channeled a massive surge of mana directly into that single foot.
+
+He detonated the largest [Fire Burst] he could safely manage without breaking the tree. The explosion instantly shattered the thick bark. And the sheer concussive force completely reversed his forward momentum in a single fraction of a second.
+
+He shot backward like a cannonball. He flew completely horizontally, moving twice as fast as before. The horned wolf was already fully committed to its forward pounce, so it physically couldn't stop its own momentum.
+
+It couldn't dodge in mid air unlike Ben, either.
+
+The monster's intelligent eyes widened as it finally realized the blatant trap, but it was way too late. Meeting the beast mid air, Ben locked his arm completely straight, and firmly held the dagger pointing directly forward.
+
+The combined velocity of their opposing momentums did all the heavy lifting. The wolf practically impaled itself. The sharp blade easily punched right through the beast's open mouth.
+
+It sank incredibly deep into the roof of its mouth.
+
+And it forcefully exited straight through the back of the monster's skull.
+
+The horned wolf's entire body instantly went totally limp. Crashing heavily into the dirt together, Ben rolled to soften the impact.
+
+He ripped his dagger out of the dead monster's head as he stood up. Flicking the dark blood off the steel blade, he just let out a long sigh.
+
+Well, that was annoying.
+
+Looking down at his ruined shirt and bleeding scratches, he really hated his luck. He just wanted a simple goblin hunt. Now he had to go find some water to wash off the dirt and gore.
+
+I really need that healing skill.

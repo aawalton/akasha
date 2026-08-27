@@ -1,0 +1,125 @@
+---
+id: 73002588-9005-55ed-9570-aa095b94de2b
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 133"
+slug: 0016-the-level-zero-hero-chapter-133
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 16
+ownLength: 1531
+unit: words
+publishedAt: 2023-06-01
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1232329/the-level-zero-hero-chapter-133"
+royalRoadId: "1232329"
+---
+
+Her name was Amelia. Giles had never heard of her, but he could tell that she was strong. With a single swing of her rusty blade, she had easily deflected Eloise the Dark Wizard’s black lightning.
+
+Giles himself could barely even react to it— despite his speed and agility as a Level 57 [Daggermaster], he had only been able to gape in awe as the dark spell shot through the air at him. And yet, Amelia had somehow been able to stop it.
+
+No— she didn’t just stop it. She did so much more. She had intercepted the black lightning bolt, before cutting it in half with a decrepit sword that looked like it could shatter at any moment.
+
+The Flying Blade didn’t comprehend. He couldn’t comprehend it. How did she get here? Did she teleport in with a spell while he was distracted? That was the only explanation.
+
+He rose to his feet as she swept her gaze over her surroundings. The entire battlefield came to a halt to face this third party— every soldier in the convoy had their sword and their bow and their staff aimed at her. Rokh the Bludgeoning Striker raised a pair of metal gauntlets, and Seth the Battlemage conjured another frost broadsword.
+
+The Clawed Hands had been thoroughly defeated— except for Giles himself. Nevertheless, it was not like there was anyone else for the legion of soldiers from the Kingdom of Kal to turn their attention to; they focused their gaze on their lone enemy.
+
+Even Eloise tilted her head curiously to face the brown-haired woman.
+
+“Who are—” the Dark Witch started.
+
+And Amelia blinked as she looked down at Giles. “Wait, you’re not Evan.”
+
+“Evan? You mean the guildmaster?” He stared at her, taking a step back in confusion.
+
+“Yeah— you’re Giles, right?” she said as she helped steady him. “Where’s Evan? I’m here to free him.”
+
+Giles shook his head, glancing back at the armored wagon at the center of the convoy. “He’s locked up over there. But…”
+
+He pursed his lips as he watched Seth take a step forward. The Battlemage was bruised— hurt from the brief scuffle with Giles. And yet, despite the injuries he had sustained, Seth looked ready to go for a round with Amelia.
+
+An armor of ice began to form around him as he grinned. “I have been entrusted by my King to protect the cargo with my life. I will not let you even get close to—”
+
+And Amelia appeared right next to him, with a finger raised to his chest. Seth blinked. Giles stared in shock. The legion of soldiers looked on with wide eyes as she poked his ice armor.
+
+Seth took a step back as his ice armor began to crack— and a moment later, it shattered into thousands of pieces. He looked down in horror as his staff too began to crumble.
+
+“What?” He stared at himself for a moment. And his clothes fell apart next, leaving only his underwear to cover his privates. “H-how…?”
+
+“That was a warning,” Amelia said as she drew back from him. “I’m not going to hold back if you guys get in my way.”
+
+Giles couldn’t believe his eyes— it took some of his best Skills to break through Seth’s ice armor. And yet, she was able to shatter it with just a finger.
+
+Was this an illusion? A trick? Did Giles die, and was he imagining this whole situation up? He couldn’t believe it. But it was happening.
+
+“T-t-that was my [Armor of the Frost Lord]!” Seth exclaimed. He looked down at his shredded robes and broken staff. “And those were A-grade artifacts… how did you…?”
+
+The Battlemage couldn’t comprehend it either. But Amelia didn’t seem to care. She rubbed her chin in thought as she murmured to herself.
+
+“...well, alright, maybe I’ll hold back. I don’t want to accidentally kill everyone, you know?”
+
+Seth gritted his teeth. He raised a hand as a ball of mist coalesced in the palm of his hand. He unleashed a blast of frost at Amelia— the spell engulfing her point-black.
+
+“Take this, you monster!” he screamed. “[Frost Wyvern’s Breath]!”
+
+Giles staggered back as he felt the chilly winds reach him. Even from a distance, he could feel the intensity of the spell that was unleashed— a powerful attack for an A-rank. But as the dust settled, Amelia stepped out of a small crater, completely unscathed.
+
+Eloise narrowed her eyes. Seth stumbled back in horror. Because the brown-haired woman suffered not a single scratch— even her clothes escaped unharmed.
+
+“Are you serious?” she said flatly. “I gave you a chance to give up, and you try this shit? Are you an idiot?”
+
+Giles himself winced from her words. Even though they weren’t direct to him, it still stung— because he knew he would have tried the same thing out of pure disbelief or what was happening.
+
+Seth tried to work his jaw as he stared at her. But nothing came out. She just sighed as she took a step forward.
+
+“Look, if you get out of the way now, I’ll—”
+
+But a booming voice interrupted her. “Oh? Very interesting!”
+
+Rokh laughed wildly as marched forward. He slammed his gauntleted fists together, and a sharp metallic sound rang out. A crimson aura overcame him as he smiled savagely. Eloise just looked on.
+
+“I am Rokh the Bludgeoning Striker!” He smirked as he walked straight up to the brown-haired woman. He raised a fist, ready to swing down at her. “I am going to enjoy pummeling you to death—”
+
+And he was cut off. Quite literally. His head was cut cleanly off in an instant. Blood splattered on the ground as Amelia lowered her blade.
+
+“Must I literally kill every single one of you here to prove my point?” She shook her head as she swept her gaze over the legion of soldiers. “No more warnings— I’m freeing Evan. Don’t get in my way.”
+
+Amelia spun around to face the armored wagon. Seth stumbled back away from her. He looked like he wanted to run— Giles himself wanted to run too in the face of this overwhelming power.
+
+She had killed Rokh the Bludgeoning Striker just like that.
+
+He was a high-leveled captain. He had been the one in charge of the small army Kallistus Kal had led to Windrip. Giles had heard of his fighting prowess. Even though they were of similar level, the [Daggermaster] hadn’t been sure if he could defeat the Bludgeoning Striker.
+
+But Amelia defeated him. She killed him before he could even react. He didn’t even put up a fight. He lay slumped over on the ground, headless as his legion looked on. A susurration swept through their numbers. They whispered amongst themselves.
+
+They looked like they didn’t know what to do. Their leader was dead, and they were lost. They exchanged nervous glances as Amelia strode forward to the armored wagon. She walked past Seth as he gritted his teeth.
+
+And he spun around, raising a sphere of frost. “Don’t let her—” he started.
+
+But Amelia swung back with her sword, cutting his head off without even looking his way. Giles flinched at the suddenness of it. The watching soldiers winced too— reaching their wits’ end. And she glanced dismissively at them.
+
+“I suggest the rest of you run away,” she said simply.
+
+And with that, they shattered. The legion of soldiers ran for it as they cried out in terror. Giles wanted to join them, but he was petrified. He couldn’t even move. He watched as they fled into the distance as the brown-haired woman just sighed.
+
+“Good,” Amelia whispered to herself. “At least those guys have common sense. Now—”
+
+She paused when she saw a figure descend from the sky just before her. Eloise landed right on top of the armored wagon, raising her staff. Amelia massaged her temples.
+
+“Oh my god, please just stop…”
+
+Giles blinked, looking between the Dark Wizard and the brown-haired woman. Neither of them attacked each other. Not just yet.
+
+“I have to admit, I am impressed— no, I am not impressed.” Eloise tilted her head back. “I am absolutely terrified by what I have just witnessed. You slew both Rokh the Bludgeoning Striker and Seth the Battlemage with ease. I can’t lie and say that I am looking forward to facing you in battle.”
+
+Amelia just looked back at her with a deadpan expression. “Then… why don’t you just not do that? It’s very simple— you step to the side, and we’ll all be happy.”
+
+“Unfortunately…” the S-rank mercenary said as she shook her head. “Even if you are quite the monster, I have no choice but to stop you. My contract demands it so.”
+
+“That’s really fucking stupid,” the brown-haired woman sighed, unsheathing her blade once again. “Are you seriously going to be risking your life because of a contract?”
+
+“Yes,”came the response.
+
+Giles watched on as Amelia continued to walk forward, while Eloise raised her staff. He pursed his lips, not knowing what was going to happen next. After all, the Dark Wizard was S-rank in level.
+
+But Amelia? Well… Giles just didn’t know.

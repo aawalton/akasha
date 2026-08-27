@@ -1,0 +1,229 @@
+---
+id: 8fe48d91-dbb0-5f4b-8c9d-b1b2905ab4c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: Training"
+slug: 0005-chapter-5-training
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 5
+ownLength: 2323
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701714/chapter-5-training"
+royalRoadId: "3701714"
+---
+
+He couldn't do it.
+
+Ben spat dirt onto the training grounds and groaned. Every bone in his body felt like it had been run over. Duncan was an absolute monster.
+
+The idea of matching strength was a joke. Even without mana or skills, the captain took him apart in seconds, beating him down just to make a point.
+
+Ben clutched his sore ribs and glared up at the tall man from the ground.
+
+What a slave driver.
+
+Clearly, the guy had no problem roughing up a teenager. But then again, this was exactly what Ben had asked for.
+
+Duncan crouched next to Ben but didn't offer to help him up. He just watched him with a stern expression.
+
+"You need a cycling technique."
+
+Ben shot him a dry, thoroughly unimpressed look.
+
+"What is a cycling technique?"
+
+Duncan looked thoughtful for a moment. "I am not very good with this stuff; maybe I can have Hannah teach you these things?" He sighed. "How do I explain this?"
+
+"Like you would to a child."
+
+Duncan gave him an unimpressed look, but shook his head. "Well, it's a complicated topic."
+
+"Break it down for me."
+
+"Let's start with mana, then."
+
+"Okay."
+
+"Mana is the pure energy of the world tree all around us. It's everywhere. Essence is mana that's been processed, refined, and marked with your body's unique sign."
+
+If essence carried some kind of personal signature, could someone else's essence be used? Or worse, could your essence be recognized, tracked, hunted through it?
+
+"Wait, wait. But you said essence is the world tree's energy. But mana is as well? Are essence and mana the same thing? What is the world tree?"
+
+"Hah! Don't be a smartass. You'll learn when you need to. Both things can be true. You absorb more mana than essence, so you have to work for essence if you want more of it. Since mana can't help you advance, you end up having to work for essence anyway."
+
+"How can I do that? And what's the difference between essence and mana?"
+
+"I'll skip your second question. We usually refine mana into essence, then keep refining it until it saturates our core. That's how you move up to the next Tier. Essence only helps you advance or get stronger as you pass the four thresholds, or finally when you advance to the next Tier for good."
+
+"I see. What does a cycling technique have anything to do with this?"
+
+"A cycling technique is a special way, or method, you use to pull mana in, move it through your body and core, and through your mana channels to refine it. It gets rid of the chaos and safely turns mana into essence."
+
+"That makes sense, I guess. How do I learn one? Will you teach me?"
+
+"Yes. The one I'll teach you, however, is pathless. There are many paths, but I won't choose for you. And no, I'm not telling you what a path is. You seem to like chasing information."
+
+Duncan leaned forward and poked a finger into Ben's bruised chest.
+
+"Hey! That hurts!"
+
+"Heh. Anyway, since you can't control or even feel your mana yet, you can't move the energy through your channels into the required pathways to learn a skill. You don't even know what those channels are. So it has to be guided without you having to think about it. Meaning, passive guidance."
+
+"Passive guidance?"
+
+While he asked that, his mind was elsewhere. Pathless. Duncan kept dodging the word like it meant something dangerous to say out loud.
+
+"Yeah. You have to use your body. It takes a specific breathing pattern and strong focus to trick your body into absorbing mana on its own. That's why it's like meditation. But that's just for now. Once you understand your mana, you'll get it."
+
+Ben stared, trying to make sense of it.
+
+Was Duncan… actually teaching him for once?
+
+###
+
+After that day, he settled into a daily routine pretty quickly, and soon the weeks started to blur together, each one just more of the same.
+
+He spent his mornings running laps with the older recruits until his lungs burned. In the afternoons, he went through what Duncan called 'combat training.'
+
+But really, it was just the captain beating him up in the dirt ring, trying to force some battle instincts into him. It mostly just made him angry, though.
+
+He didn't know how yet, but someday he was going to punch Duncan in the face too.
+
+Evenings were spent practicing the cycling technique, which was honestly the most frustratingly vague part of his day, as he tried things without knowing whether they helped.
+
+Somehow, Duncan had also managed to convince Hannah to spend part of her evenings teaching him more about mana and how his body was supposed to use it, as well as some skills, so that got added to his routine as well.
+
+Ben still had no idea how the man had talked her into it. He'd been pestering her since she taught him how to control [Focus] and she hadn't budged. Hannah hadn't struck him as the type to take on extra work for someone she barely knew.
+
+Progress was very slow. He couldn't even tell if the passive absorption was working. His chest felt numb to any mana he was supposed to be gathering or refining.
+
+Whenever he asked Duncan about it, he always got the same answer.
+
+"It's working, kid. Keep at it."
+
+Duncan swore by the method, so Ben kept at it whenever he could. He still got his ass handed to him every day, but he stuck with it anyway. There were some days he found himself not wanting to get up at all. Some days, he succumbed to that feeling and felt ashamed for doing so. But then some days he stuck to it as well.
+
+Duncan never judged him for it. According to the man, as long as Ben kept showing up, everything was good.
+
+Thankfully, all those daily beatings were finally starting to make a difference.
+
+A month had passed since Duncan became his trainer, and the results were starting to show.
+
+He no longer collapsed after just one lap. Even though his lungs still burned, he could now keep up with the slowest runners at the back of the group. The daily fights were helping too. He still lost every spar, but now he could last a little longer each time.
+
+He wasn’t getting knocked down right away anymore. By paying attention to how Duncan's shoulders moved, Ben was starting to dodge a few hits here and there.
+
+Each time he stepped into the dirt ring, he managed to stay on his feet a bit longer. More people showed up to watch him every day, too, and they were surprisingly supportive.
+
+Ben wasn’t sure how to feel about it.
+
+His body was also changing to handle the constant beatings, becoming much tougher. While washing at the river a few days ago, he noticed real muscles starting to appear on his arms and stomach.
+
+Usually, a teenager couldn't build that much muscle so quickly.
+
+But then again, this world had literal magic, so whatever.
+
+During all the training, he also grew closer to both Duncan and Hannah more than he thought he would. The captain was still hard on him in the dirt ring, and Hannah still spoke sharply whenever he asked the same question twice, but they were the two people he saw every day at camp, and that meant more to him than he wanted to admit.
+
+Hannah, especially, liked to cook her own dinner over the campfire instead of eating what the camp cooks made, and somehow Ben kept ending up there with her.
+
+The first time, she just handed him a knife and a pile of vegetables without asking, telling him that if he wanted to eat something that didn’t taste awful, he’d better start chopping.
+
+He was really bad at it. She laughed so much at his attempt to fillet a fish that she almost dropped it in the fire, then took it back from him with a big sigh, muttering something about village bumpkins.
+
+After that, it just became a thing. He'd show up, she’d give him something to peel or stir, and they’d argue about whether he was stirring "too aggressively" while the pot bubbled between them.
+
+Chopping was tricky, and more than once a blade slipped and cut him. When he cut his thumb on an onion, she healed it right away.
+
+But when she cut herself with the knife she never let him use, no matter how small the cut, she never healed it. She would just wipe away the blood, wrap it in cloth, and keep working as if nothing had happened. For someone who could heal all his little injuries without hesitation, it seemed strange to him that she wouldn’t do the same for herself.
+
+Somewhere between his burnt first tries and her patient, if sarcastic, corrections, he realized he actually looked forward to it. It was the one part of the day that didn’t leave him with bruises, and he really enjoyed being around her.
+
+Today, though, he was very tired. He dragged himself back to his tent, feeling the day's aches deep in his muscles. He dropped onto his small mattress and stared up at the ceiling.
+
+It was obvious Duncan was trying to break him. For some reason, the man didn't want him to keep trying.
+
+There was no way he was giving up. Not a chance in hell.
+
+Ben gritted his teeth against the pain and refused to quit.
+
+He sat up on his bed, crossed his aching legs, and closed his eyes. Slowly and carefully, he started the cycling technique again.
+
+###
+
+In the following weeks, Ben finally began to make real progress. Every night, he practiced his breathing, visualizations, and meditation just as he had been taught. Soon, he stopped feeling foolish for reaching out to nothing.
+
+A gentle pressure began to form in the middle of his chest.
+
+At first, it was only a small, brief spark. But it felt exactly like when Hannah had pushed mana into his core. Unless he was really losing his mind from the daily training, he was actually starting to sense mana.
+
+Hannah had explained that this meant his body was finally working like a proper sponge, slowly drawing in the mana needed to trigger a real change. He still didn't understand how this process refined mana into essence, or how that essence filled his core, but he was just glad it seemed to be working, at least according to Hannah.
+
+However, his big personal win was quickly overshadowed by the camp's worsening mood.
+
+With each passing day, tension in the camp grew.
+
+Hannah hadn't checked his bruised ribs in more than a week. When he did spot the blonde healer, she was hurrying between tents and looked so stressed that he started to worry about her.
+
+Duncan was even quieter than usual.
+
+The captain spent hours brooding over his maps and sometimes skipped the daily training routines altogether.
+
+The promised supply caravan was now wildly overdue.
+
+Even the older recruits whispered nervously to each other during meals, often glancing anxiously at the thick tree line.
+
+Finally, Ben decided to ask what was going on.
+
+That day, after training, Ben went to Duncan's tent and got right to the point.
+
+"What is going on?"
+
+Duncan looked at him for a moment, then sighed and rubbed his stubbled jaw.
+
+"We originally came to this place because of an anomaly."
+
+The captain tapped a finger on the parchment before finally looking up.
+
+"We got a massive mana reading from this area. The kingdom thought a high-tier rift, or a red zone, was about to form."
+
+Duncan scoffed and shook his head in frustration.
+
+"But we've searched the whole area for months. We haven't found anything like that."
+
+Ben frowned and finally asked about something that had bothered him since he first heard it.
+
+"What's a rift? And red zone?"
+
+"Oh, right. A rift is a tear in reality that leads to a small pocket dimension. It is the phenomenon itself. Monsters originate from them. Rifts can expand, collapse, or remain stable. If the rift is strong enough, it can create a red zone around it. This zone is affected by one or more rifts, and strange things happen there that you don't need to worry about, making it unsafe to live in."
+
+"I see. And the caravan?"
+
+The captain leaned back in his wooden chair, his face growing more serious.
+
+"It's delayed. Even worse, we can't contact the capital right now. Something is completely blocking the signal."
+
+Ben stared at him.
+
+It felt like the classic setup for a horror movie where everyone dies in the woods. Ben tilted his head and eyed the veteran with suspicion.
+
+"Why are you even telling me this?"
+
+Normally, adults kept the doom and gloom military secrets far away from the local orphans. Duncan met his gaze and didn't look away.
+
+"Because you aren't really a child."
+
+Ben's heart jumped to his throat. Did Duncan know the truth? Maybe. He had been living here for a while. What would happen to him now? Would they kill him?
+
+"Well, not a typical one, at least."
+
+The man gestured at Ben's chest and let out a snort.
+
+"That [Focus] skill of yours makes you act way more mature than normal. With your personality in the mix, keeping you in the dark would just give me more trouble."
+
+Ah. That's a relief. And he's not completely wrong, either.
+
+Duncan reached under his desk and took out a pouch. He set it between them and slowly smirked.
+
+"Anyway. I've prepared some essence for you. You're not going to beat me in a spar, but you're ready. Get some rest tonight, kid. Tomorrow, you advance into Tier 1."

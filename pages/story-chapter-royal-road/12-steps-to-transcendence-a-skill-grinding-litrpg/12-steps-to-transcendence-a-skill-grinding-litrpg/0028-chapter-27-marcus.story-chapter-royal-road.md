@@ -1,0 +1,289 @@
+---
+id: f5bb819b-46a6-5046-a21d-f690fac39db5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27: Marcus"
+slug: 0028-chapter-27-marcus
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 28
+ownLength: 1943
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3784366/chapter-27-marcus"
+royalRoadId: "3784366"
+---
+
+Am I really that petty and childish?
+
+When he thought about his old life on Earth, he had to admit it: he really was that petty.
+
+He was absolutely the kind of guy who would purposefully unplug the router just because his little sister was beating him in a fighting game.
+
+Not that she ever actually beat him. Definitely hadn't. Nope. That wasn't possible. He was just better at video games.
+
+Still, even if he had always been like that, it felt worse these days.
+
+Ever since coming to this world, his temper had gotten a lot worse. Especially after [Focus] evolved to uncommon rarity.
+
+He had deliberately started relaxing his control over the skill's emotional regulation aspect, hoping that letting natural feelings bleed through more freely would help him out.
+
+But whenever he let down that mental barrier, his reactions were way out of proportion.
+
+Is it just this new teenage body?
+
+He rubbed his face and wondered if his hormones were messing with his head. Or maybe it was something even more annoying.
+
+Maybe using [Focus] to push down his emotions for weeks had built up a huge mental block.
+
+Now that he had loosened up a bit, everything was coming back twice as strong. He didn't really know what to do about it.
+
+He let out a heavy sigh and pushed those useless thoughts away.
+
+He had actual work to do.
+
+Ben turned his attention back to his mana, grabbing onto that fuzzy feeling in his chest. He pushed the strange sensation up through his shoulder and down his arm.
+
+Guiding it past his wrist, he forced the raw mana out through his fingertips.
+
+Faint blue wisps appeared right away, making his fingertips tingle as they curled around his skin like smoke.
+
+But as soon as the mana left his body, the connection broke apart. It was like trying to hold a slippery fish with greasy hands.
+
+The blue wisps fell apart right away, scattering into the wind before he could even try to force them into a solid shape.
+
+While he knew it was possible to control the mana outside his body, turn it into some kind of shape, and then develop it into some kind of attack, it was still really frustrating not being able to make it do what he wanted.
+
+He let his hands fall into his lap and stared at his empty fingers.
+
+I'm gonna need a lot more practice with this, aren't I?
+
+He just hoped hunting goblins would go better than this.
+
+###
+
+He had a rough day hunting goblins.
+
+In fact, the whole trip was a total disaster from beginning to end.
+
+And none of it was even his fault.
+
+Instead of wandering around clueless as they had been before, the little green bastards had suddenly started moving in large groups.
+
+So whenever he managed to take one down, three more showed up right away. Even worse, none of them had healing skills he could use.
+
+Talk about a massive waste of time.
+
+He launched himself into the air, sending a burst of flames from his bare heels. He had left his shoes at camp for this exact reason.
+
+[Fire Burst] was his best way to move around, but it only worked from his feet.
+
+As he flew over the treetops with bursts of explosions, he gritted his teeth against the wind.
+
+The loud blasts from his skill were what caused the disaster in the first place.
+
+Every time he killed a goblin, the loud noise from his fiery kicks attracted everything nearby.
+
+He spent most of his day running, hiding, or blasting into the sky to avoid getting killed. At least he got a few kills before running away like a coward.
+
+[Tier 1 Goblin slain. Essence gained.]
+
+[Tier 1 Forest Wolf slain. Essence gained.]
+
+[Tier 1 Horned Rabbit slain. Essence gained.]
+
+He looked at the notifications and sighed deeply.
+
+At least something good came out of this total mess.
+
+He had finally made it to the middle stage of Tier 1.
+
+Yeah, this whole ordeal had actually pushed him past the halfway mark to Tier 2!
+
+But honestly, that was the only good thing about any of this.
+
+As he glided over a dense patch of trees, he quickly noticed more trolls moving around below. The brutes were wandering much more than usual.
+
+Seriously, what is going on with this forest today?
+
+He turned left, heading for the waterfall he had fallen down just a day ago. He slowed and hovered near the top of the falls.
+
+Instead of the usual scattered goblins or the occasional troll, the area was full of completely new creatures.
+
+Large foxes prowled along the water's edge, baring their teeth. Yeah, this was definitely something else's territory.
+
+I am not dealing with that right now.
+
+He dropped lower, aimed for camp, and took off with a massive [Fire Burst] hurtling him forward. He was hungry, tired, and really annoyed.
+
+He landed far enough from camp to stay out of sight, stumbling a few steps before he caught his balance.
+
+He sighed, put out the flames on his heels, and rubbed his face.
+
+Let's just go make some food.
+
+###
+
+Ben had finally managed to get his hands some actual meat instead of dubious horned rabbits.
+
+He scraped the roasted meat onto two wooden plates and set the hot skillet aside. The smell of delicious food and spices filled the cramped medical tent as he entered.
+
+He'd been living here with Marcus as there was no other place for him to sleep, but that was the furthest thing on his mind. The food smelled delicious.
+
+It just reminded him of Hannah.
+
+He let out a quiet sigh, picked up his fork, and began to eat in silence.
+
+The food tasted amazing. Thanks to Hannah's teaching, Ben was quite a good cook even without all the equipment he needed.
+
+Swallowing a huge bite of meat, the blonde man across the small wooden table practically vibrated with joy.
+
+"This is absolutely incredible!"
+
+Marcus shoved another forkful into his mouth and looked like he was about to cry tears of pure happiness.
+
+"I haven't had a home cooked meal like this in months!"
+
+Stabbing a tough piece of gristle, he stared blankly at the abnormally handsome healer.
+
+"I literally just threw salt on it and held it over a fire."
+
+"And you managed to capture the perfect smoky essence!"
+
+Marcus gave him a bright, perfect smile that seemed to light up the whole tent.
+
+Is this guy for real?
+
+He chewed slowly and watched Marcus, who seemed as cheerful as a golden retriever, demolish the rest of his plate in record time.
+
+The man was really hungry, huh.
+
+"I'm glad my complex culinary techniques of 'adding fire' aren't lost on you."
+
+"Not at all! You have a real gift, Ben!"
+
+Of course he took that literally.
+
+Rubbing his temples, he decided to just let it go.
+
+Marcus was the main healer for the camp and seemed way too cheerful for someone who probably saw disemboweled people regularly.
+
+"Seriously, this beats the cafeteria food at the Haven Academy by a mile!"
+
+Marcus scraped his plate clean and leaned back in his chair with a happy sigh.
+
+Academy?
+
+Blinking in surprise, he immediately focused on that. He had definitely been planning to look into an academy someday.
+
+"You go to an academy?"
+
+"Sure do!"
+
+Marcus nodded eagerly and pointed his greasy fork across the table.
+
+"I'm out here getting some real world experience during the break. Just trying to have some fun before the next semester!"
+
+Ben frowned.
+
+"Wait, how old are you again?"
+
+"Seventeen."
+
+"Seriously?"
+
+Marcus laughed at Ben's reaction.
+
+"I hear that all the time. My family's cycling technique speeds up how we grow, so we look a few years older than we really are."
+
+Something like that really existed? This world really is full of strange things.
+
+Ben stared for a moment, then nodded. That actually explained a lot. He had assumed Marcus was in his early twenties.
+
+Ben took a sip from his waterskin and decided to see if he could get some free information.
+
+"So, how long is the actual program there anyway?"
+
+"Three years."
+
+Wiping his mouth with the back of his hand, Marcus grinned widely.
+
+"I'm a second year right now, heading into my third and final year once the break ends. It's gonna be a total blast."
+
+He did some quick mental math and realized that timeline matched his own vague plans.
+
+"And the minimum age requirement is fifteen, right?"
+
+"Yep! I got in a bit later though, but it doesn't matter; there are people of all ages there."
+
+Marcus set his fork down and rested his chin on his hands.
+
+"You have to be at least fifteen to take the entrance exam. Are you thinking of applying next year?"
+
+Obviously. Why else would he be out here grinding levels and fighting for his life against mutated goblins?
+
+"Maybe."
+
+Ben shrugged and kept his voice flat on purpose.
+
+"I hear the dorms have indoor plumbing. Seems better than sleeping in the dirt."
+
+"You'd definitely get in!"
+
+Marcus slammed his hand on the table and pointed at him.
+
+"With your cooking skills, the cafeteria would hire you on the spot to feed the freshmen! You could even join the cooking club, perhaps?"
+
+Huh?
+
+Blinking slowly, he just stared at the older teenager's beaming face.
+
+Did he seriously suggest I go to an elite magical combat academy to become a chef? And there are clubs in academies?
+
+He pinched the bridge of his nose, a bit flabbergasted.
+
+"Right. Thanks for the massive vote of confidence, Marcus. I'll aim to become a head chef."
+
+"Anytime, buddy! I'll put in a good word for you! But honestly, you should really think about joining one of these academy expeditions next year."
+
+"My House could even sponsor you."
+
+What?
+
+Ben stopped the waterskin halfway to his lips and stared at the blonde healer. He didn't have anyone backing him, let alone a noble House willing to throw money at his face.
+
+Sure, Alice would probably jump at the chance, but he didn't really want to tie himself down to any House.
+
+"Sponsor me for what? My incredible ability to run away from Tier 1 goblins?"
+
+"No, no."
+
+Marcus waved his hand and gave another bright, cheerful smile.
+
+"Because you have a life affinity, obviously! Healing magic is super rare— well, it's uncommon but rare, you get what I mean? And my family loves finding talented healers."
+
+Choking on his water, he coughed into his elbow.
+
+How the hell does he know that?
+
+He hadn't told anyone about his affinities, much less this overly enthusiastic guy.
+
+"Wait, what? How do you know about that?"
+
+"Oh, I noticed when I was healing you."
+
+Shrugging casually, Marcus rested his chin on his hands as if it was the most normal thing ever.
+
+"When I sent my mana into your chest to heal you, yours pushed back a little. It tasted just like life magic."
+
+Tasted? What is he, a mana sommelier?
+
+Wiping his mouth with the back of his hand, Ben eyed the older teen with suspicion.
+
+"So you just go around tasting people's mana while they're unconscious and bleeding out?"
+
+"No, no, it just happened. My apologies if it offends you."
+
+"It's fine."
+
+Then there was silence between them. Ben finished eating and started cleaning the dishes, eager to work on his new skill.
+
+He really wanted to work on it. He had an idea and thought it was worth trying. He just hoped it would result in a new skill.

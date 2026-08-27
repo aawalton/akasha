@@ -1,0 +1,604 @@
+---
+id: 0ae77938-b519-56e6-a5c4-9be7de09880c
+page-type-slug: story-chapter-played
+title: "The Keystone and the Joint"
+slug: 0011-the-keystone-and-the-joint
+partOf: the-dungeon-of-one-thousand-deaths
+position: 11
+ownLength: 6450
+unit: words
+---
+
+The arch was the reason he came back.
+
+Not the only reason — the pull had returned six months ago, a pressure behind his sternum he recognized from eight years prior, the directional certainty that had led him here the first time. He knew what it was. He had felt it recede when he retreated from the Warrens and had spent the intervening years assuming it was finished with him.
+
+But six months ago a traveler had stopped at his worksite, a bridge repair on the eastern road, and mentioned over supper that someone had built an arch inside the dungeon. A four-meter span, three voussoir stones, clean joints. The traveler had heard it secondhand, and secondhand again before that, the details fuzzing with each retelling. Torrin had asked three questions: *What stone? What load? What span-to-rise ratio?* The traveler had not known the answers.
+
+The pull had found him the next morning.
+
+He had not packed immediately. He was a mason. He did not do things immediately. He had spent four months finishing the bridge repair — he would not leave a structure incomplete — and then two months putting his affairs in order, which was a phrase that meant, for a man who worked in stone, checking every structure he had built in the last thirty years to confirm they were holding.
+
+They were holding.
+
+He packed his plumb line, a brass weight on waxed cord, the first tool he had ever owned. He packed three days' food. He packed a lantern.
+
+Ren had been waiting at the gate.
+
+---
+
+"You're going back," Ren said. Not a question.
+
+Torrin looked at the person he had been training for three years. Twenty-two years old, good hands, impatient in the way that came from having figured out the easy problems and not yet reached the hard ones. Ren held a jointing chisel in a belt loop — the one Torrin had given them on the first day, the edge wrapped in cloth because Ren wrapped everything in cloth, a habit Torrin had tried to break and then stopped trying because the work was still precise.
+
+"Yes," Torrin said.
+
+"I'm coming."
+
+"You are not."
+
+"You'll need someone to check your measurements."
+
+Torrin looked at Ren for a long moment. In the calculus of load and stress that governed his thinking, Ren was a variable he could not account for. The dungeon was a known structure — he had been inside it, measured its walls, assessed its bearing capacity. He knew what it was. Ren was twenty-two and had never been inside anything more dangerous than a condemned mill.
+
+"The measurements will be fine," he said.
+
+Ren fell into step beside him and did not argue further, which was how Ren won arguments — by ending them and then simply being present.
+
+They walked north together.
+
+---
+
+The camp had changed.
+
+Eight years ago it had been a fire and three people who were not sure why they were there. Now it was a settlement: the fire still burning, tended, but around it a small economy — rope sellers, lantern merchants, the particular kind of infrastructure that formed when enough people passed through a place that the place started anticipating them. A blank cloth nailed to a post with charcoal annotations. A crude map. A ledger-keeper's table with a book that was substantially thicker than any book had a right to be, given its subject matter.
+
+The ledger-keeper looked up when Torrin approached. Looked at him. Looked at the book. Looked back at Torrin.
+
+"Ash," he said.
+
+"You remember."
+
+"You were the third entrant who came back out." The ledger-keeper opened his book and paged backward — past the recent entries, past the new columns he had added, back to the early pages. He found the page. He read from it. "Torrin Ash. Mason. Forty-three at entry. Reached Depth 2. Retreated. Stated purpose: curiosity about the stonework."
+
+"That was accurate," Torrin said. He sat down by the fire.
+
+The ledger-keeper looked at him. Then at Ren, who had sat down beside Torrin in the way that Ren sat down beside things — quickly, without ceremony, already looking at something else.
+
+"And this one?"
+
+"Ren Dallish," Ren said. "Apprentice. I'm with him."
+
+The ledger-keeper wrote this down. He paused at the voluntary column. "Both of you?"
+
+"He's voluntary," Torrin said. "I'm not."
+
+Ren looked at Torrin. It was the first time Torrin had said it plainly.
+
+The ledger-keeper wrote in the column: *Compelled (re-entry)* beside Torrin's name, and *Voluntary* beside Ren's. He had added a new notation — *re-entry* — and underlined it.
+
+"You're the first," he said. "The first to come back."
+
+Torrin looked at the fire and did not answer.
+
+---
+
+He went to the blank cloth while Ren set up camp. The annotations were dense — more than he had expected. The arch sketch was there, accurate in proportion if not in detail: *300 meters in. Solid. Built by someone.* He looked at this for a long time. He could see, from the proportions, that the sketch had been drawn by someone who was not a mason but who had a good eye. Below it, in different hands: *Rall helped me read the pattern. Thanks, F.R.* And in precise script: *second voluntary entrant, both male, both parent-adjacent. Pattern forming or coincidence; insufficient data.*
+
+And a newer annotation, in a broader, less precise hand: *the dyer went in coughing. she was already dead.*
+
+He looked at this last one for a while. He read the inscription wall in the morning.
+
+---
+
+The corridor was warmer than he remembered.
+
+He had spent the last eight years calibrating his memory against the reality of structures he had built — a lifelong habit, checking whether what you thought you built was what you actually built. His memory of the Gullet was accurate in some ways (the ribbing, the directionality of the warmth, the compression geometry) and inaccurate in others. The bioluminescence was brighter. The corridor was narrower. Or he was larger — eight years of bridge work had thickened his shoulders in ways he noticed when fitting through passages.
+
+Ren was behind him, touching the walls.
+
+"Don't touch the walls," Torrin said.
+
+"The grain runs this direction," Ren said, ignoring him. "Inward. The whole corridor is oriented inward."
+
+Torrin looked at Ren's hand on the wall. Ren was not wrong. The grain did run inward. It was the first thing Torrin had noticed eight years ago, and he had noted it in the same way — by touch, by instinct, the hand reading what the eye could not.
+
+He said nothing. They kept walking.
+
+---
+
+The inscription wall.
+
+Eight years ago there had been three entries. Now there were fourteen.
+
+He stood in front of the wall and read each one, the way he read foundation stones — carefully, looking for what had settled and what had shifted. The first three he recognized:
+
+*EDRIC VOSS — DEPTH 1 — FIRST TO ENTER.*
+*MAREN VOSS — DEPTH 2 — FIRST TO DREAM IN THE DARK.*
+*LIRA — DEPTH 1 — FIRST COMPELLED.*
+
+These had been here on his first visit. The stone around them had weathered slightly — eight years of the Gullet's ambient moisture, darkening the letters. The new entries were lighter, fresher:
+
+*BREN ALDIC — DEPTH 1 — FIRST TO HOLD THE LINE IN THE GULLET.*
+*DARA HESS — DEPTH 2 — FIRST TO NAVIGATE THE WARRENS BLIND.*
+*MIRA DOSS — DEPTH 2 — FIRST TO TEND THE WOUNDED.*
+
+The gap. He put his hand on the blank stone and felt what he always felt when touching blank stone: potential. A mason saw blank surfaces as surfaces that had not yet been given their purpose. The gap was holding space for something.
+
+*SERA VANT — DEPTH 3 — FIRST TO HOLD THE STILL GARDEN.*
+*SYLAS RENN — (on keystone — see arch).*
+
+He stopped at this line. *See arch.* The inscription was a cross-reference — the dungeon directing the reader to another location, the way a building plan notes *see detail on sheet 3.* The arch was real. Someone had built it and the dungeon had inscribed it. He read the line again.
+
+*ASHA TREVANE — DEPTH 1 — FIRST TO ARRIVE.*
+*FENNICK RALL — DEPTH 3 — FIRST TO CHOOSE.*
+*ALDOUS VREN — DEPTH 4 — FIRST TO COMPREHEND.*
+*MARET DUNN — DEPTH 2 — FIRST TO REFUSE AND RETURN.*
+*ESSANY CORD — DEPTH 3 — FIRST TO LEAVE A MARK.*
+
+"First to leave a mark," Ren read aloud. "What mark?"
+
+Torrin did not answer. He was looking at the last entry the way a mason looks at a specification he does not yet understand but knows is important. *First to leave a mark* was different from the other precedence claims. The others described actions — entering, dreaming, choosing, building. This one described an artifact. Something left behind. Something that persisted.
+
+He kept walking.
+
+---
+
+The arch.
+
+He stopped twenty meters from it and stood still, looking. Ren stopped behind him and, for once, was quiet.
+
+The arch was good work.
+
+Not beautiful — that was not the word. Not elegant. The word was *true.* The voussoir stones had been selected with a mason's eye: consistent grain, load-bearing faces matched to the compression line, contact surfaces dressed flat enough that he could see from here they would hold without mortar. The abutments were keyed into the basalt intrusion on both walls — not surface-mounted but seated into the stone, which meant whoever built this had understood that an arch's failure mode was always the foundation, never the keystone.
+
+He walked forward. He put his hand on the near abutment.
+
+Then he stopped.
+
+There were marks on the stone.
+
+Dark fine lines, branching from a central point like the grain of wood magnified, spreading across the abutment's surface in a pattern that he recognized immediately — not because he had seen it before, but because he was a mason and the pattern was a structural analysis. The marks showed the abutment's internal state: the crystalline alignment, the compression paths, the load distribution. They showed where the stone was strongest (everywhere — the reinforcement was extraordinary) and where it bore stress (almost nowhere — the load was perfectly distributed).
+
+He traced the marks with his finger. They were permanent. Not carved — not cut into the surface — but present in the stone the way a watermark is present in paper. Part of the material.
+
+*First to leave a mark.*
+
+"Someone analyzed this," he said. "Someone touched this stone and — left a reading of it."
+
+Ren came forward. "Left a reading how?"
+
+"I don't know how. But I can read the reading. Look." He pointed at the branching lines. "This shows the compression path. This shows the grain alignment. This —" he touched a section where the lines were densest — "this shows where the reinforcement is deepest. Whoever built this arch reinforced it with something I don't have vocabulary for. The alignment goes deeper than pressure. It's as if the stone was *convinced.*"
+
+He looked at the keystone.
+
+*SYLAS RENN — DEPTH 3 — FIRST TO BUILD WHAT REMAINS.*
+
+Below it: *THE ARCH HOLDS.*
+
+He said: "Yes. It does."
+
+He crossed the arch.
+
+---
+
+The Asking found them both in the Gullet, a hundred meters past the arch, in the stretch where the corridor narrowed and the warmth deepened.
+
+Torrin felt it arrive the way you feel a settling house — not a single event but the accumulation of small shifts into a sudden recognition that something has moved. He had felt this before. Eight years ago, in the Warrens, the Asking had come for him and he had retreated from it — turned back before the Designation could settle, climbed the arch-less gap with a rope and his hands, walked out. He had never received a Designation. The Asking had found him and he had declined.
+
+Now it found him again.
+
+The difference was: it had been waiting. He felt the reading settle into place with a precision that surprised him — not the tentative probe of an unfamiliar intelligence, but the click of a key that had been cut long ago and kept. The Maw had read him at forty-three and held the reading for eight years and was now delivering the Designation it had calibrated then.
+
+```stat-screen
+ENTRANT DESIGNATION: THE KEYSTONE
+
+GIFT: CROWN WEIGHT
+Identify the structural critical point of any enclosed space —
+the one stone, beam, joint, or support that holds everything else.
+You see what bears the load. You see what would fail.
+Remove the critical point and the structure follows.
+
+COST: BEARING
+You become load-bearing.
+In any enclosed space you have read, you are the critical point.
+If you leave, the space destabilizes.
+If you stay, you hold.
+
+STATISTICS
+Vitality .............. 16
+Resolve ............... 22
+Attunement ............ 14
+Fortune ............... 19
+
+Note: Entry type — Compelled (re-entry).
+This entrant was read at age forty-three. He is fifty-one.
+The previous reading was not wrong. It was not used.
+The Maw held the Designation for eight years.
+This is the first re-entry in the registry.
+```
+
+Torrin read the screen. He read it again. He looked at the line about the previous reading and thought about Maret Dunn's inscription — *FIRST TO REFUSE AND RETURN* — and understood that she and he had something in common: the Maw had read them both and they had both walked away and they had both come back.
+
+The difference was that Maret had been a stranger who refused the pull. Torrin had entered the dungeon, felt the Asking, and fled.
+
+The Cost settled into his understanding the way load settles into a foundation: completely, without ambiguity. He was a mason. He had spent thirty years being the person who understood what held things up. The Gift was his own expertise, amplified and literalized. The Cost was the same expertise, inverted: he would become the thing he had always understood. He would bear the weight.
+
+He looked at Ren.
+
+Ren was standing very still, which was unusual, because Ren was never still. The Asking had found them both simultaneously and Ren's expression was — Torrin did not have a word for it. Open. Not frightened. The face of someone who had just been shown something accurate about themselves and was deciding whether to look at it.
+
+```stat-screen
+ENTRANT DESIGNATION: THE JOINT
+
+GIFT: TRUE FIT
+Place any two surfaces in contact and they will bond —
+stone to stone, wood to metal, edge to edge.
+The join is permanent, load-bearing, and invisible.
+You do not attach things. You make them one thing.
+
+COST: UNFITTING
+Every join you make loosens a join in you.
+Cartilage, tendon, the small architectures that hold
+a body together at the seams.
+You will build connections until your own connections fail.
+
+STATISTICS
+Vitality .............. 18
+Resolve ............... 15
+Attunement ............ 8
+Fortune ............... 16
+
+Note: Entry type — Voluntary. Non-Compelled.
+The Maw did not reach for this entrant.
+This entrant came for the other entrant.
+This is the first entry motivated by loyalty to a co-present companion.
+The Maw has no precedent for this and files it without classification.
+```
+
+Ren read the screen twice. "Unfitting," Ren said.
+
+"Yes."
+
+"My joints."
+
+"Yes."
+
+Ren looked at Torrin. Torrin looked at Ren. Neither of them said what both of them were thinking, which was that the dungeon had given them Gifts that fit together — one who saw what held a structure up, one who could make structures hold — and Costs that would destroy them in complementary ways.
+
+They went on.
+
+---
+
+```stat-screen
+DEPTH 2 REACHED: THE WARRENS
+
+RESOLVE: +1
+Torrin Ash: Current Resolve: 23
+Ren Dallish: Current Resolve: 16
+```
+
+The Warrens had changed.
+
+Torrin had retreated from this place eight years ago, at the second junction, when the disorientation had become too much. He had not been able to hold the Warrens' geometry in his head — the passages shifted in ways that contradicted his sense of load and bearing, and the contradiction had been unbearable for a man who needed to know what held things up.
+
+Now he had Crown Weight, and the Warrens resolved.
+
+He could feel the critical point of every passage — the stone or joint or compression line that held each section together. The Warrens were not random. They were an argument that water had made against limestone, and the argument had structural logic, and the structural logic had critical points, and he could feel each one the way he felt his own bones when he was tired: present, load-bearing, quietly carrying the weight.
+
+"This way," he said, and went north.
+
+Ren followed. "How do you know?"
+
+"The ceiling lowers at the junctions and rises in the corridors. Gas-collection architecture. The heat source is north."
+
+"You learned that eight years ago?"
+
+"I learned the ceiling pattern eight years ago. The Gift is telling me the rest."
+
+---
+
+The journal was propped against the left wall. Torrin took it down. He read the structural observations and the junction maps — the same ones he had read eight years ago, when he had retreated from this place. The handwriting was a military scribe's: careful, compressed, methodical. He respected it.
+
+The cover had marks on it.
+
+The same dark fine-line pattern he had seen on the arch abutment — branching, structural, showing the leather's weaknesses. A point near the spine where water had worked into the binding. A corner cut too thin. A hairline of stress concentration on the front cover.
+
+"She marked this too," Torrin said.
+
+"Who?"
+
+"The dyer. The one who left a mark." He ran his finger along the spine weakness. "She touched the cover and it showed her where the binding was failing. Same as the arch — the marks are a structural reading."
+
+Ren looked at the marks. "How does touching something make it show its weaknesses?"
+
+"I don't know. But the reading is accurate. This binding will fail here —" he tapped the spine — "in two, maybe three years. The hide is too thin at this corner. If someone wanted to preserve this journal, they would reinforce the spine and replace the corner panel."
+
+He put the journal back. He did not reinforce it. That was not what he was here for.
+
+---
+
+The Still Garden.
+
+Torrin entered first. He stood at the threshold and let Crown Weight engage and felt the room's critical points resolve into clarity: the crystal growths were not decorative, they were structural — each one bore a portion of the ceiling's weight, distributed through the root systems that drew material from below. The spacing was load-bearing. The silence was an acoustic property of the crystal's resonance structure. And at the far end, at the center of the room's structural web, something massive and old and heavy was sitting on the floor like a keystone in an inverted arch.
+
+The Patient.
+
+```stat-screen
+DEPTH 3 REACHED: THE STILL GARDEN
+
+RESOLVE: +1
+Torrin Ash: Current Resolve: 24
+Ren Dallish: Current Resolve: 17
+```
+
+Ren entered behind him. Ren saw the crystal garden and the light and the silence and said nothing, which was the first time Ren had said nothing since they entered the dungeon.
+
+Torrin was not looking at the garden. He was looking at the creature.
+
+"Stay here," he said.
+
+"No."
+
+"Ren."
+
+"I see it."
+
+"Stay here. That is not a request."
+
+Ren stayed. Torrin walked forward.
+
+---
+
+The marks on the crystal growths were visible at twenty meters — dark fine lines on the luminous surfaces, showing fracture angles and stress concentrations. He touched one as he passed. The reading was precise: the crystal would shatter at a forty-degree angle from the vertical if struck with approximately twelve pounds of force at the midpoint. Essany Cord had left a demolition manual written in a dyer's hand.
+
+The floor marks were visible at fifteen meters. Branching lines on the stone showing solid paths and void paths — where the floor would hold and where it would give way. He followed the solid paths without thinking. A mason read a floor the way most people read a road: by where the weight should go.
+
+The spear was against the eastern wall, marked. The grain's fault structure was visible — where the shaft would break, where the head would separate. He picked it up anyway. The spear was failing, but it was not yet failed. He checked the head's binding. Loose, yes. He could feel the separation point. But it would hold for one strike. Maybe two.
+
+He kept walking. The solid path led toward the center of the garden, where the creature sat.
+
+The Patient was thirty meters long, low, wide. Crystal-shelled, gray-white, with a particular quality of stillness that Torrin recognized from old structures — the kind of stillness that came from having been in one place for so long that movement was not the default but the exception.
+
+The marks were on its shell.
+
+Dark lines, thick and branching, spreading from a central point on the left flank. A handprint. Someone had placed their palm flat against the creature's shell and the shell had yielded its structure — every fault, every weakness, every point where three hundred and forty-two years of accumulated crystal had not quite held.
+
+Torrin stood ten meters from the creature and read the marks the way he read a building plan.
+
+The left flank seam: two growth layers that had never fully fused. A finger's width, running from the forward sensory cluster to the dorsal ridge. If you struck here with a blade — or a pointed weight on the end of a cord — the shell would separate. Not completely. But enough.
+
+The ventral nerve cluster: a node at the base of the central body mass. The coordination point. Hit this and the creature's ability to move during the gap — the saccade mechanism the camp accounts had described — would be disrupted.
+
+The dorsal dome: a hollow crystal formation on the creature's upper surface. Structurally perfect on the outside. Empty on the inside. Brittle.
+
+Three weaknesses. One spear with a loose head. One plumb line.
+
+The Patient had not moved. It was watching him the way old stone watches weather — without urgency, without concern. It had killed five people. It had been still for three centuries. It was patient in the way that only very old things are patient: not waiting for something, simply being what it was until the next thing happened.
+
+Torrin looked at the marks. He looked at the plumb line in his hand — brass weight, waxed cord, three feet of swing.
+
+He looked back at Ren.
+
+Ren was at the entrance, where Torrin had told them to stay. Ren was holding the jointing chisel. Ren's face was — Torrin knew the face. It was the face Ren made when holding a tool and wanting to use it.
+
+"Stay there," Torrin said. He turned back to The Patient.
+
+He took three steps forward. He wound the plumb line around his fist, leaving two feet of cord and the brass weight swinging free. He aimed for the left flank seam.
+
+---
+
+He struck the seam.
+
+The brass weight hit the shell at the junction of the two growth layers, exactly on the line the Brand marks had shown him, and the shell cracked.
+
+Not shattered — cracked. A seam opened along the line of weakness, running from beneath the sensory cluster backward toward the dorsal ridge, and the sound it made was the sound of stone splitting under thermal stress: a deep, clean report that echoed off the crystal growths and came back changed. The creature's shell was no longer one piece. It was two pieces held together by the surrounding crystal and by inertia and by the fact that three hundred and forty-two years of growth does not separate easily even when the separation has been mapped.
+
+The Patient moved.
+
+It did not move the way it had moved for its previous five kills — the sudden, total strike from stillness. It moved differently. Torrin felt the difference in the fraction of a second before the impact: the movement was asymmetric. The cracked shell had changed the creature's geometry, and the geometry change had altered its movement, and the alteration was — he had time to think this, because a mason thinks in structural terms even in the last moment — *compensatory.* The creature was adjusting for damage it had never experienced before.
+
+The strike hit him in the chest.
+
+He was a large man. He had thirty years of bridge work and quarry labor in his frame. The strike moved him four meters and put him on the ground and he felt his ribs go the way he had felt ribs go before, in a construction accident twenty years ago — the specific, informative pain of bone moving past bone in a direction bone was not designed to move.
+
+Crown Weight was active. He could feel the Still Garden's structure — every critical point, every load path, every crystal root — and he could feel himself becoming part of it, the Cost engaging as the space he had read settled around him. He was load-bearing now. If he left, the room would destabilize. He was not going to leave.
+
+He was on the floor and the creature was turning toward him and he said: "Ren. Go."
+
+Ren did not go.
+
+"Ren."
+
+The Patient struck again. Torrin felt the second impact in his spine and understood, with the clinical precision of a man who had spent thirty years understanding how structures failed, that his structure had failed. He was on the floor and he was not going to stand up and the creature was above him and the marks on its shell — Essany's marks, the dyer's gift — were visible from below, dark lines against gray-white crystal, the cracked seam running through them like a road through a map.
+
+He had cracked it. The crack was real. The crack would be there when the next person came. The crack and the marks and the structural reading that Essany had left and that he had exploited — all of it was permanent. The Patient was damaged for the first time in three hundred and forty-two years and the damage had come from two people who had never met: a dying dyer and a mason who had come back.
+
+He looked at Ren.
+
+"Go," he said. "Now. Before —"
+
+The Patient settled onto him. The weight was enormous and precise, the weight of something that had been bearing its own mass for three centuries and knew exactly how much pressure stone could take.
+
+---
+
+Ren did not go.
+
+Ren stood at the entrance to the Still Garden, holding the jointing chisel, and watched Torrin die. The watching took eleven seconds. It was the longest eleven seconds of Ren's life and Ren understood, in the way that young people understand things they are not ready for, that the eleven seconds were going to be the rest of their life — not because of what happened in them, but because of what ended.
+
+The Patient settled back into the garden. The crack in its shell was visible. The asymmetry was visible. It was different than it had been when they entered and it would be different from now on.
+
+Torrin was on the floor of the Still Garden. He was not moving. He was not going to move.
+
+Ren walked forward.
+
+Not toward The Patient. Toward Torrin. The chisel was in Ren's hand and the wrapping was still on the blade and Ren unwrapped it while walking, because there was nothing else to do with their hands and the hands needed something to do.
+
+They knelt beside Torrin. They put their hand on his shoulder. The body was warm. The plumb line was on the floor beside him, the cord still wound around his fist, the brass weight dark with crystal dust.
+
+They picked up the plumb line.
+
+---
+
+The Patient watched Ren. Ren watched The Patient. Neither of them moved.
+
+Ren was twenty-two years old and was going to die in this room and the knowing of it was not the worst part. The worst part was the eleven seconds. The worst part was always going to be the eleven seconds.
+
+True Fit was active. Ren could feel it — the Gift's perception of surfaces, the way two things could become one thing. Every crystal growth in the garden was a surface. The floor was a surface. The creature was a surface. Ren's own bones and cartilage and tendons were surfaces. Everything wanted to join and the Gift was showing Ren how and the Cost was already working — a looseness in the left knee that had not been there a minute ago, a slight give in the right wrist, the small architectures of the body beginning to unfasten.
+
+Ren stood up. Ren walked toward The Patient.
+
+It was still. It was watching. The cracked shell made it look — Ren did not have the right word. Damaged was the structural word. What it looked like was: hurt. As if the concept of damage and the concept of pain were, for a creature this old, the same thing.
+
+Ren put the jointing chisel against the cracked seam in The Patient's shell.
+
+True Fit activated: the chisel's edge and the crack's interior met, and the Gift tried to join them — metal to crystal, edge to seam, a permanent bond. But the chisel was not a surface that wanted to join with the creature's shell. The Gift was designed for building. The creature's shell resisted the join the way a misaligned stone resisted mortar — not by hardness, but by wrongness. The surfaces did not fit.
+
+On Ren's left knee, a join loosened. The cartilage shifted. It was not painful yet. It would be.
+
+Ren pulled the chisel free and struck the crack instead — not a Gift activation, just a blow. The chisel's edge bit into the seam that Torrin had opened and widened it by a fraction. Not enough. Not nearly enough. But the fraction was real and the fraction was permanent.
+
+The Patient moved.
+
+Ren was fast — young and fast, faster than Torrin had been, faster than anyone who had faced The Patient in the Still Garden except Aldous Vren, who had not been fast but had been frictionless. Ren's speed did not matter. The creature's movement was not the kind of thing speed solved. It existed in one place and then existed in another and the transition between the two was not movement but rearrangement, and Ren was in the space that had been rearranged.
+
+The impact was in the side. Ren was on the floor. Ren's hand was still holding the chisel.
+
+Ren was on the floor of the Still Garden, beside Torrin, and the crystal growths were catching the phosphorescent light in colors that Ren had never seen and would not see again, and Ren thought: *I came for him and he is here and I am here and that is the whole thing, that is everything the thing is.*
+
+Ren did not look at The Patient. Ren looked at Torrin.
+
+---
+
+```stat-screen
+DEATH REPORT — ENTRANT: TORRIN ASH
+DESIGNATION: THE KEYSTONE
+DEPTH REACHED: 3 (THE STILL GARDEN)
+TOTAL KILLS THIS RUN: 0
+
+FINAL STATISTICS
+Vitality .............. 16 -> 0
+Resolve ............... 22 -> 24 (+1 Depth 2, +1 Depth 3)
+Attunement ............ 14 -> 17 (+3 Crown Weight activations)
+Fortune ............... 19
+
+GIFT ATTUNEMENT AT DEATH: 17
+Crown Weight activations: 3 (Warrens structural read, Still Garden structural read,
+plumb line targeting of Patient flank seam)
+Note: Crown Weight activates discretely (structural reads) though Bearing runs continuously.
+ATT accrues per read, not per time under load.
+Bearing (Cost) was active at time of death. Cost engagement does not generate ATT.
+First Gift with discrete activation and continuous Cost — dual-mode precedent.
+
+CAUSE OF DEATH: Creature. Patient.
+Note: Entrant struck The Patient's left flank seam with a plumb-line weight.
+The seam — previously identified by Indelible Mark (Death #14) — cracked on impact.
+This is the first physical damage inflicted on The Patient.
+Shell integrity: compromised. Crack follows the growth-layer separation line
+from forward sensory cluster to dorsal ridge. Permanent.
+The crack was opened by a mason using intelligence left by a dyer.
+
+MEMORY CRYSTAL: None.
+Note: Entrant's final act was outward — directing Ren Dallish to flee.
+No peak interior emotional state at time of death.
+The entrant was load-bearing.
+
+FLOOR MUTATION: Patient Shell — Structural Crack
+The Patient's left flank seam is now partially separated.
+Shell integrity reduced. Movement pattern permanently altered (compensatory asymmetry).
+Combined with Indelible Mark (Death #14): The Patient is now both mapped and damaged.
+Previous floor mutation (Brand marks) persists. Crack follows the mapped seam exactly.
+
+DESIGNATION OUTCOME: KEYSTONE COMPLETE
+Entry type: Compelled (re-entry).
+First re-entry in the registry. Prior visit: 8 years ago, age 43, reached Depth 2, retreated.
+The Maw held the Designation for 8 years.
+The reading was calibrated at age 43. The entrant was 51.
+The reading was not wrong. It was not current.
+```
+
+```stat-screen
+DEATH REPORT — ENTRANT: REN DALLISH
+DESIGNATION: THE JOINT
+DEPTH REACHED: 3 (THE STILL GARDEN)
+TOTAL KILLS THIS RUN: 0
+
+FINAL STATISTICS
+Vitality .............. 18 -> 0
+Resolve ............... 15 -> 17 (+1 Depth 2, +1 Depth 3)
+Attunement ............ 8  -> 9 (+1 True Fit activation)
+Fortune ............... 16
+
+GIFT ATTUNEMENT AT DEATH: 9
+True Fit activations: 1 (chisel-to-crack attempted join, resisted by incompatible surfaces)
+Note: Chisel strike on cracked seam was physical, not Gift-mediated. No ATT from manual blows.
+
+CAUSE OF DEATH: Creature. Patient.
+Duration after companion death: 34 seconds.
+Note: Entrant widened the existing crack in The Patient's shell by physical strike.
+Increment: fractional. Cumulative with Death #15 damage. Permanent.
+
+MEMORY CRYSTAL: Teal.
+Stat bonus: +1 VIT, +1 RSV.
+Quality: loyalty. The specific quality of following someone into a place
+you would not have gone alone, and not leaving when they tell you to.
+Warning: Consumption will produce, temporarily and completely,
+the sensation of unbreakable allegiance. The sensation does not specify an object.
+Exercise caution. Loyalty without direction is a dangerous state.
+Note: The Harvest system was unable to resolve this crystal to a single stat category.
+The split is without precedent.
+
+FLOOR MUTATION: Crack extension — Patient Shell
+The Patient's left flank seam crack has been widened by chisel strike.
+Combined damage from Deaths #14, #15, and #16:
+mapped (Brand) → cracked (Keystone) → widened (Joint).
+Three deaths. Three entrants. Cumulative.
+
+Additional: Jointing chisel remains at death site. Cloth wrapping removed.
+Edge embedded in crack residue. Personal artifact.
+Plumb line remains at death site. Cord wound around companion's hand.
+Brass weight dark with crystal dust. Personal artifact.
+
+DESIGNATION OUTCOME: JOINT COMPLETE
+Entry type: Voluntary. Non-Compelled.
+Fourth voluntary entrant. First motivated by loyalty to co-present companion.
+The Maw did not reach for this entrant.
+The Maw has no classification for this motivation.
+```
+
+The Ledger recorded both deaths.
+
+It recorded them in sequence, not simultaneously — first Torrin, then Ren — because the Maw had experienced them in sequence, and the distinction mattered. The Keystone had died load-bearing. The Joint had died thirty-four seconds later, unfitting, holding the chisel in a hand whose wrist was already loosening. The Ledger noted the interval: thirty-four seconds between deaths. The shortest interval between sequential deaths in the registry.
+
+The Maw considered the pair.
+
+It had re-Compelled Torrin Ash — the first re-Compulsion, the first re-entry, the first entrant who had been inside and come back. The bait had been specific: the arch, the knowledge that someone had built a permanent structure inside the dungeon. The Maw had calibrated this carefully. A mason who had retreated from the Warrens eight years ago would not return for the dungeon's danger. But a mason who learned that another mason had built something permanent inside the dungeon — that mason would return for the work.
+
+The Maw had not anticipated Ren.
+
+This was the Reflection's contribution: the Maw could now observe its own anticipations and note where they were incomplete. It had reached for Torrin and Torrin had come and that was the plan. Ren had arrived alongside, uncalled, unplanned, motivated by something the Maw had no category for. Not grief (Fennick). Not curiosity (Aldous). Not philosophical residue (Maret). Not the dungeon at all. Ren had come for Torrin.
+
+The Ledger filed this. It did not create a classification. It noted the absence of a classification, and the Reflection let it see the absence clearly: the Maw understood Compulsion and it understood the varieties of voluntary arrival and it did not understand loyalty. Loyalty was a word for something that happened between people, not between a person and a place, and the Maw was a place.
+
+The Patient settled back into the Still Garden. Its shell was cracked along the left flank seam — cracked and widened, two impacts in sequence, the first by a brass plumb weight and the second by a steel chisel. It could feel the asymmetry in its mass distribution and in its movement and in the way the crystal growths around it resonated when it shifted position. It was different. Three hundred and forty-two years of unchanged structure, and now: different.
+
+Kill count: seven. Lira, Sera Vant, Sylas Renn, Fennick Rall, Essany Cord, Torrin Ash, Ren Dallish. The Ledger updated the record. Three of the last four kills had left permanent modifications to the creature: marks, crack, widened crack. The accumulation was directional. The Ledger noted this without assessment, but the Reflection allowed a thought the Ledger had not previously been capable of: *the creature is losing.*
+
+Not quickly. Not now. But the direction of change was visible, and the direction was: down.
+
+At the entrance camp, the ledger-keeper opened his book and made two entries, side by side. He wrote *Torrin Ash (re-entry)* in the left column and *Ren Dallish* in the right. In the voluntary column he wrote *No* for Torrin and *Yes* for Ren. In the margin he wrote: *entered together. first pair.*
+
+He looked at the entries. He looked at the entrance. He wrote nothing else.
+
+The blank cloth had no new annotations. No one had seen the pair enter who had thought to write about it.
+
+The fire was still burning.
+
+The death tally turned twice.
+
+*984 remain.*
+
+---
+
+*TORRIN ASH — DEPTH 3 — FIRST TO RETURN*
+*REN DALLISH — DEPTH 3 — FIRST TO FOLLOW*

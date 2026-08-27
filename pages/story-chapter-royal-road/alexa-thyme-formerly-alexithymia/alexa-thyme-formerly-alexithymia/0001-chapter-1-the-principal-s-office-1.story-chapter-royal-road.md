@@ -1,0 +1,145 @@
+---
+id: 1a28a2ec-2285-517d-a687-7a7f9bc57744
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: The Principal's Office (1)"
+slug: 0001-chapter-1-the-principal-s-office-1
+partOf: alexa-thyme-formerly-alexithymia
+position: 1
+ownLength: 2579
+unit: words
+publishedAt: 2022-11-03
+link: "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1030362/chapter-1-the-principals-office-1"
+royalRoadId: "1030362"
+---
+
+Chapter 1
+
+The Principal's Office
+
+The Thyme family had all been summoned to the principal’s office. The reason they had been summoned; was the main reason they were always summoned to such a place. Once the two parents arrived, they found Luke in his basketball uniform waiting in the lobby.
+
+“Is today a game day, or just a practice?” Judy Thyme asked her son.
+
+“Practice. Coach is already in there with her.” Luke, the son responded.
+
+“How is she?” The father Jim Thyme asked.
+
+He didn’t have to specify, everyone knew who he was talking about, the problem child. Well problem child wasn’t exactly the right word. Problem child would imply that the child went about and actively sought confrontation. This was not what their daughter, Luke’s twin sister, would do. In fact, by all measures his twin Alexa was the picture of perfection. The student who always won class honors and was now a five sport phenom.
+
+No, the problem didn’t come from Alexa, per se, but rather the way the world viewed her. She was intelligent, driven, and well she like many had her flaws. In Alexa’s case, she only had one major flaw. The rest of her problems seemed to stem from that one problem, and the way she unapologetically accepted that flaw. She even seemed to flaunt that flaw. Again, this was not her problem, not something she tried for. It was just something that was the case.
+
+After a second of deliberation Luke responded. “She is fine. However, Matthew Courtland, the star quarterback has a dislocated throwing arm, and three broken ribs.”
+
+“What? I was told this was all because some boy tried to ask her out?” Judy asked, but she was soon cut off, as the principal noticed that both parents had arrived and they were beckoned in.
+
+Seeing the summons, the three got up in unison and walked in. They had performed this act so many times over the years, that the entry ritual was almost a routine by now. Dad jumped up, grabbed the door, and let first his wife through, then Luke. Only once they were both inside, did he too join the seemingly cramped Principal’s office.
+
+In the office was the principal who was seated behind his mahogany desk that looked surprisingly clean of clutter. Only a few neat files sat on his desk, one was the rather large file that the parents knew to be the file related to their daughter. The second smaller packet likely belonged to the boy in the room. The boy who had their right arm in a sling, a black eye, and a man in a well-tailored business suit standing protectively over him.
+
+“Mr. and Mrs. Thyme, I would like to introduce Mr. Courtland, his son Matthew Courtland, and Mr. Vickers the Football coach” the Principal began.
+
+With that, he pointed out the Football coach who sat in the back of the room, likely as a second set of eyes. Then he also had to point out the well-dressed man wearing a well-tailored three-piece suit. One look at the man in the suit, let you realize he was famous. His face was on half the billboards lining Main Street downtown.
+
+Of course, the football star just had to be the son of the top lawyer in town too. Courtland and Sutton were the premier lawyers listed for the tri-state area. If this had to go to court, the Thymes knew this would likely end poorly.
+
+Still despite this, their daughter sat rigid, and stone faced as ever. Of course, that was part of her curse, though in this instance it was also her blessing, as her face didn’t reveal a single emotion. Not that she could have any to begin with, that was her problem after all: Alexithymia, a general term, but one that fit their daughter perfectly.
+
+Alexithymia was the main reason their daughter’s packet was so large, and the very reason they were all called in here today. People didn’t know how to take their daughter, and their daughter well, if asked would be described as a cacti-squish-mellow. From a distance she looks like someone who everyone would love to be with and cuddle, until the cacti needles pierced anyone who got too close.
+
+Of course, the fact that she had gotten smarter as a factor of her constant hard work and dedication to being the top of her class every year, only furthered the divide between her and others. She was smart, likely too smart to begin with, but then you add in the fact that she began reading and studying how to interact socially, it made her a nightmare to deal with. Especially given that she had taken the path of sarcasm, as her way to best interact with society. Her reasoning for this, was because her natural expression and lack of emotions made it simple to deliver deadpan comments with comedic elegance.
+
+“So, what seems to be the problem?” Jim found himself asking.
+
+“The problem is, is that your daughter is a monster who assaulted my son.” The Lawyer Mr. Courtland began.
+
+“Your son assaulted me, after making numerous but failed sexual advances towards me. Despite my warning and constant refusals, he assaulted me. At which point I defended myself, as is my right.” Alexa cut in, her voice cold and unrelenting.
+
+Hearing her words, ice could be felt forming in the room. Suddenly the too-crowded room suddenly felt too cold.
+
+“You are saying my son attempted to sexually assault you?” The lawyer demanded, fury in his voice.
+
+“For someone paid to listen to details, you are surprisingly bad at doing so.” Alexa began, but then continued before anyone could cut in to stop her. “While that is a valid conclusion, and likely one that a jury would come to. It did not escalate to that point. Also, I would like to point out that at no time did I ever imply or state that the attack was of a sexual nature. Just that it was made after he made numerous sexual advances towards me.”
+
+Silence.
+
+With that, Mr. Courtland was livid, but unable to think. Here she was, a sixteen-year-old prodigy, who had just schooled him, a lawyer. Not just any lawyer, but the top lawyer for the tri-state area.
+
+Then before anyone could say anything further.
+
+“Well, I wanted to wait to play the video of what happened, until both sets of parents got here. Now that the Thymes are here, why don’t we pull up the video. Fortunately, the altercation happened in the cafeteria,” Principal Summers began.
+
+“The cafeteria? You think he would do something sexual in a cafeteria of all places?” Mr. Courtland quipped.
+
+“If you check his live stream, that is exactly where he bedded many of the cheerleaders.” Alexa fired back.
+
+At this, the father turned to the son. His son, for his part could only look mildly embarrassed at the comment.
+
+“No one was there, this was after class.” He answered the unspoken question.
+
+Cough.
+
+“Right, if you look over here.” Mr. Vickers cut in for the first time, no doubt trying to keep his star athlete from divulging anything more that would ruin his reputation. That or he was trying to hide his own negligence in properly monitoring students during after school activities.
+
+With that the video feed began.
+
+The video showed Alexa sitting quietly by herself at the far end of the cafeteria. Then a second camera showed the movements of Matthew Courtland who by all accounts could be described as a social butterfly. He fluttered to and from different groups, giving greetings and fist bumps to different people as he made his way through the cafeteria.
+
+Then he stopped, and out of the corner of his eye he seemed to catch the fact that Alexa was sitting off by herself, alone. With that he put his tray down, then proceeded to sit down across from her at the bench row seating.
+
+There is clear dialog, as Matthew begins talking and gesturing wildly with his hands. Alexa for her part seems to be calm and cordial during the whole process. She is merely sitting there, while Matthew suddenly becomes animated jumping out of the seat and pointing a finger in an accusatory manner at Alexa.
+
+Alexa remains calm, not that she could do anything other. Her calm nature only seemed to enrage Matthew more.
+
+By now, the other people of the cafeteria were watching. A few were seen making gestures towards the table.
+
+Matthew was seemingly aware of the other reactions, as he first looked around. Then back to Alexa, where he once again pointed angrily at her.
+
+Finally, at this point, Alexa having finished her meal, wiped her napkin against her lips. Then proceeded to get up with her tray in hand.
+
+Everything was fine, as Alexa clearly was trying to de-escalate the situation. At least that is what one might interpret from everything they were seeing.
+
+Matthew said something, which Alexa still moving away and pointedly not looking at Matthew responded. At which point, Matthew became visibly enraged and lunged forward, going so far as to place a hand on Alexa’s arm, in an apparent attempt to get her to turn around.
+
+This was where the video feed had to be slowed down, as what came next was far too quick to be caught in the regular speed of the school’s cameras. What happened next was a frame by frame play through that looked almost like an old school flip cartoon, where Alexa first moved to grab the hand from her arm. Where upon, she wrenched it back with violent force, then began twisting Matthew’s body around his shoulder. Then at the same time, with her right arm, the arm still holding the tray now free, she moved that arm as well. She threw the tray up into the air in a flipping motion. She then used both arms to grip and begin flipping the much larger Matthew forward, in an apparent martial art move.
+
+Seeing the move both Judy and Jim grimaced, as they had seen their daughter win many martial arts tournaments wielding the same exact techniques.
+
+There was likely a hip check in there, but the motion was too quick to be caught properly on camera. The film did manage to show a slight shifting of her weight towards Matthew, but not enough to denote the violent force that was applied to his arm.
+
+Matthew landed on the ground, at which point he was stepped on with a sharp kick to the ribs. This the coach posited was likely how the ribs were broken. Then to add insult to injury, a half second later the tray that Alexa had been carrying was plucked out of the air with a deft swipe of Alexa’s hand. At which point she proceeded to let go of Matthew’s outstretched arm and walk away as if nothing had ever happened.
+
+Everyone looked on in stunned silence for a moment, even the students who had all turned to witness the event were shocked.
+
+The only movement was Alexa who was turning in her tray. Then the still splayed-out Matthew, who was only now using his good left arm to clutch at his chest and his arm.
+
+With that the video ended and everyone was silent in the room for a moment. Then finally Mr. Courtland began to angrily declare.
+
+“My son was attacked by an awakened in your school. Those movements, that is not something a non-awakened could handle.” He declared as he angrily pointed at the screen.
+
+Hearing this, the principal let out a sigh. Unfortunately, he was well used to this type of accusation, particularly when such venom was directed at Alexa.
+
+“Mr. Courtland, Alexa Thyme is just now turning sixteen. She is a Sophomore; while your son is a Senior. This means that the rate of both personal and academic growth witnessed by Ms. Thyme is something your son should have been able to mimic. The fact that Ms. Thyme has managed to be part of every winning team sport, and academic conference we offer is a testament to her hard work and dedication.” The Principal began.
+
+“What does winning sports teams and academic achievements have to do with this?” Mr. Courtland demanded, though it was clear from his expression that he likely could assume more than what was being said.
+
+“I mean to say that the physical prowess you observed just now is nothing more than a student who has taken advantage of every sports opportunity we have provided here. She even boasts a few achievements that can only be gained through extracurricular programs, like Kendo, and Martial Arts classes. Things that all colleges and universities look for in a promising young student athlete. These extracurricular classes also come with the assumption that should a team or individual win they would gain either physical or mental enhancement crystals. After which point, given enough, anyone could achieve the near awakened prowess that was observed,” the principal reponded.
+
+He was of course talking about augmentation crystals. Crystals that were provided by the state to promising teams or individuals who pushed themselves further than any other students. This of course became a self-fulfilling prophecy, for the more one tended to win early on, the easier it was to continue winning later on.
+
+The gears began clicking faster and faster in Mr. Courtland’s mind, until he finally turned to his son. “This is that genius girl you spoke about? The one you went on the date with? The one you had to get an advance to take out?” He asked.
+
+With this question both Matthew and Luke grimaced, for vastly different reasons. Matthew grimaced as that was why he had confronted her in the first place.
+
+“She gave me a terrible review. Said I was a 2.2 on a date. Everyone starts off at a 3. Do you know how damning that is for someone here? That review alone made me a laughingstock. I had to do something.” Matthew pleaded.
+
+Hearing this Mr. Courtland turned to look around the room. At which point he saw Luke; the twin brother was looking as guilty as a murder suspect in the correct lineup. For while Alexa might have a natural poker face, her twin brother’s face spoke volumes without need of any words.
+
+“You, what do you know of this?” Mr. Courtland demanded of Luke.
+
+Luke looked around, then with a sigh, he began to discuss what the business plan was.
+
+“Look, it is a system for guys to go out on an officially sanctioned date with my… with Alexa. This was a program she spearheaded, to keep lines of guys from constantly feeling the need to ask her out. With this, they purchase a date. At which time they are granted a two-hour window of my sis… of Alexa’s time. They are then graded on a multitude of social and environmental cues. Everything from topics, to locations, to activities are graded. She then rates everyone on a five-point scale with five being the best date one can give.” Luke said.
+
+After hearing this, Mr. Courtland stared at Luke, trying to see if he was lying. Then he turned to Alexa, then finally back to his son. At which point he asked the one question that was likely on everyone’s mind.
+
+“You paid her for a date, and then what? You failed?”

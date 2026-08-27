@@ -1,0 +1,263 @@
+---
+id: 150b39b9-44f8-5f0d-9070-2ca1a5a65324
+page-type-slug: story-chapter-played
+title: "The Mirror"
+slug: 0009-the-mirror
+partOf: the-dungeon-of-one-thousand-deaths
+position: 9
+ownLength: 3066
+unit: words
+---
+
+Seven years ago Maret Dunn had felt the pull.
+
+She had been thirty-four days from home, traveling for work, when it arrived: a directional certainty. Not quite a desire — more like a conviction about geography. *You should be somewhere else.* The somewhere was specific. She had known the direction, the distance, the approximate duration. She had also known, with equal clarity, that she had not decided to go there. Someone else had decided. She was just being informed.
+
+She had sat with this for three weeks. She had gone about her work. The pull had gotten louder and softer in cycles, the way a headache gets louder when you pay attention to it and softer when you stop. She had gotten very good at not paying attention to it.
+
+On the twenty-third day she had made a deliberate choice: no. She had named it as a choice, out loud, to herself, in a room in a city where she knew no one. She had sat with the silence that followed. Then she had kept working.
+
+The pull had faded over the following week and stopped. She had gone home. She had not told anyone.
+
+She had been thinking about it ever since — not with regret and not with anxiety, but with the particular quality of attention she gave to interesting unresolved problems. What had the pull wanted from her? What had it decided she was? What would she have become, had she followed it?
+
+After two years she stopped expecting to find out. After four years she stopped looking. After six she found, with some surprise, that she had nearly made peace with not knowing.
+
+In the seventh year she had heard about the dungeon.
+
+---
+
+She arrived at the camp on a morning of low cloud, traveling light — two days' food, a lantern, a small knife she had carried for twelve years. She stood at the camp's edge and looked at the fire and the ledger-keeper's table and the crude map and the blank cloth.
+
+The blank cloth had more marks on it than she had expected. She went to look.
+
+A careful architectural sketch of an arch, with a notation: *300 meters in. Solid. Built by someone.* Below that, in different handwriting: *Rall helped me read the pattern. Thanks, F.R.* And smaller than both, in very precise script, a camp annotation she had to look closely to read: *second voluntary entrant, both male, both parent-adjacent. Pattern forming or coincidence; insufficient data.*
+
+She looked at this for a while. She was a woman. She was not a parent and was not grieving one. She wrote nothing on the cloth. She noted that she was the third item in a series that the previous annotator had expected to continue.
+
+The ledger-keeper had been watching her.
+
+"Voluntary?" he said, when she turned. He had the book open already.
+
+"Yes. How did you know?"
+
+"You were reading the cloth. The Compelled ones don't stop for the cloth." He dipped his pen. "Name?"
+
+She gave it to him. He wrote it down and looked up.
+
+"Purpose?"
+
+She thought about this. The honest answer was: *to find out what the dungeon thought I was, seven years ago.* She considered how this would sound.
+
+"Curiosity," she said.
+
+The ledger-keeper wrote it without expression. He had been recording deaths for long enough that curiosity, as a purpose, no longer required comment.
+
+She checked her lantern, adjusted her pack, and walked to the entrance. She did not wait. There was nothing left to think through that she had not already thought through, on and off, for seven years.
+
+---
+
+The Gullet: ribbed stone, luminescent, warm from below. She had not had any accounts of this. What she found was that the descriptions she had assembled from secondhand sources — *cave-like, darker than you expect, colder than the camp* — were wrong in specific ways that told her something about how people experienced stress. The corridor was warmer than outside, not colder. The light was subtle but present. The darkness was a quality, not a volume.
+
+She noted this and kept walking.
+
+The inscription wall.
+
+She had not heard about the inscription wall in any detail. She read each entry carefully, without the cross-referencing apparatus that Aldous Vren had brought. She had no ledger records, no interviews, no prior data. She read it as a person reads a list of names they do not know, in a place where the names clearly matter.
+
+*EDRIC VOSS — DEPTH 1 — FIRST TO ENTER.*
+
+She stood at the blank gap for a moment — not long, not with her hand on it the way Fennick had, not with a notebook the way Aldous had. She looked at it. Then she looked at Fennick's entry at the bottom of the recent section: *FENNICK RALL — DEPTH 3 — FIRST TO CHOOSE.*
+
+She understood the word *choose* differently than anyone else who had read it. She had chosen not to come, seven years ago. She was choosing to come now. The gap between those two choices was not a gap she could explain to anyone except herself, and even to herself the explanation kept revising.
+
+She kept walking.
+
+---
+
+The glass bead: amber-gold, warm in the passage's cool air. She picked it up. Held it the way she held objects that had been important to someone else — attentively, without claiming it. It was well-made. The thread of green in the center was a deliberate inclusion, not a flaw. Someone had made this with care and left it here on purpose.
+
+She set it back. Not in the same position — she placed it slightly turned, the green thread facing outward, catching the bioluminescence from the wall. A small thing. She was not sure why she did it.
+
+---
+
+The arch was at three hundred meters, exactly as annotated. She stood under it and looked up at the voussoir stones. She was not a builder — she had no vocabulary for the specifics of arch construction — but she had a sense for when something had been made by someone who knew what they were doing. This had been. The keystone inscription was the dungeon's own notation; she recognized the style from the entrance wall, the same clinical all-caps. *FIRST TO BUILD WHAT REMAINS.* Below it, in the same notation: *THE ARCH HOLDS.*
+
+She crossed.
+
+---
+
+```stat-screen
+DEPTH 2 REACHED: THE WARRENS
+
+RESOLVE: +1
+Current Resolve: 19
+```
+
+The Asking found her at the first junction of the Warrens, in the same junction where it had found the last three entrants who had reached this depth.
+
+She had been expecting something. Not this exactly — she had not known what to expect — but she had known that the dungeon did something to people at a threshold, and she was at a threshold. The Asking was: accurate. It found her the way a key finds a lock, yes, but the key was old. It was the right shape for a door she no longer lived behind.
+
+She felt the Designation settle and she felt it not quite fit.
+
+Not wrong — not painful, not a mistake. Just slightly off, the way a coat fits differently at forty than it did at thirty-three. She was the same person, approximately. The Maw had read her in a moment seven years ago — a directional pull calibrated to something essentially her — and that reading was not wrong. It was simply no longer current.
+
+She received it anyway.
+
+```stat-screen
+ENTRANT DESIGNATION: THE MIRROR
+
+GIFT: REFLECTION
+Rooms yield their logic. Creatures read as their own nature. Systems present their mechanism.
+The dungeon does not hide from you — not because your sight is keen,
+but because you have become the kind of surface it reflects itself in.
+You are not inside what you see. This is the condition, not a flaw.
+
+COST: INTERIOR
+You have no self to return to after reflection.
+Seven years of showing others accurately has worn the interior smooth.
+You know what you want the way you know the weather in a city you have never been to:
+you have mapped the territory but do not live there.
+
+STATISTICS
+Vitality .............. 11
+Resolve ............... 18
+Attunement ............ 15
+Fortune ............... 17
+
+Note: Entry type — voluntary, deliberate.
+The Maw read this entrant seven years ago and held the reading.
+This Designation was calibrated at age twenty-seven.
+The entrant is thirty-four. The reading is not wrong. It is not current.
+```
+
+She read the screen twice.
+
+*The Maw read this entrant seven years ago and held the reading.*
+
+She had suspected this. She had not known. There is a difference between suspecting something and knowing it — she had spent seven years with the suspicion, examining it from multiple angles, revising her assessment of its probability. Now she had confirmation. The pull she had felt had been the dungeon attempting to deliver this Designation. She had refused it. The dungeon had waited.
+
+She read: *The entrant is thirty-four. The reading is not wrong. It is not current.*
+
+She thought: yes. Exactly. She had known this at some level — had known that whatever the Maw thought she was, it was working from an old photograph. The woman who had felt the pull at twenty-seven was not a different person, but she was a less finished one. The Mirror who came in at thirty-four was sharper and emptier than the Mirror who would have come in at twenty-seven, and the dungeon could not know that because the dungeon had not watched those seven years. She had.
+
+She kept walking.
+
+---
+
+The Warrens.
+
+The Gift engaged the moment she crossed into the first passage, and it was, she thought, the strangest thing she had ever experienced: to understand a system completely, without friction, without the slow pleasure of figuring it out. The Warrens made immediate sense to her — not as a map, but as a logic. The water that had worked this limestone, the paths it had preferred, the junctions that were junctions because water had paused here before deciding. She navigated by this and the Gift confirmed each choice before she had fully made it.
+
+She noted that the confirming arrived before she wanted it.
+
+She had spent twenty-three years thinking her way through problems by holding them lightly, attending to them obliquely, approaching from angles until the angle that fit became clear. What she had prized about this method — what had felt most like herself in it — was the interval of not-knowing. The Gift removed the interval. She understood things before she had the chance to find them interesting.
+
+She wrote nothing in a notebook because she had not brought a notebook.
+
+The journal was on the left wall, propped at an angle. She took it down and read it.
+
+She had not known about the journal. She came to it without context, without the ledger-keeper's records, without any prior account. She read it as the record of someone she did not know who had come here with people they were responsible for and had watched them die. The handwriting changed across the pages — careful early, then increasingly compressed in the later entries. The final entry was three words: *To whoever reads this.*
+
+She sat with this for a moment. Then she looked at the journal as an object: worn, propped in exactly the position it had been left, in a passage where several people had clearly been before her and left it as found. It was a fixed point. Not a relic — something more functional than that. A relay.
+
+She put it back at the same angle. She had not added anything to it and was not sure what she would have added if she had. This was, she recognized, the thing the Cost named: the interior where the addition would come from had been worn smooth. She had been showing other people accurately to themselves for so long that the part of her that would know what to say to Orvyn Thel's last entry was not available.
+
+She did not find this distressing. She found it accurate.
+
+She kept walking.
+
+---
+
+The pattern room.
+
+She entered and the Gift engaged immediately: a man had been working through something. The repetition was method, not failure. She read the room as a system — processing space, iterative approach, deliberate. She understood its function before she had crossed the threshold.
+
+She stood at the entrance for a moment, looking at the walls without reading them.
+
+She had, she thought, recognized the method. She had worked similarly — oblique approaches, revisions, returning to the problem from a different angle. She would have liked to recognize this from inside, to feel the kinship of method. The Gift had shown her the kinship before she could feel it. She understood the recognition and she did not have it.
+
+*You are not inside what you see.*
+
+She went on.
+
+---
+
+She did not enter the Still Garden.
+
+The passage to it was clear to her Gift — she understood its nature before she entered, and what she understood was: the creature inside moved during saccade gaps. She had felt the Gift provide this information with the same frictionless completeness it provided everything else. She understood the mechanism. She understood that her eyes would inevitably provide a gap. She understood, with clinical precision, that she would not survive the Still Garden unless she turned back.
+
+She turned back.
+
+She did this without drama and without grief. She had come for the Designation, not for depth records. She had the Designation. The Gift was showing her that the Still Garden was a door she could not walk through, and she had spent her entire adult life learning to recognize doors that were not hers to walk through.
+
+She navigated to a deeper passage in the Warrens.
+
+---
+
+The trap was in a northern extension she had not had accounts of, because no one who had explored it had come back to give one.
+
+She saw it before she reached it: a pressure-trigger, partially concealed, designed so that someone moving quickly through the passage would step on it. She was not moving quickly. She saw it clearly. The Gift gave her its mechanism immediately — she understood exactly what it would do, what the margin was, where to step to avoid it.
+
+She took one step. She felt the exact location of the safe path. She took another step and placed her foot three inches to the right of where she had intended to place it, which was three inches closer to the trigger than was survivable.
+
+She did not know why she had done this. She had known the safe path. She had seen it clearly. She had not walked on it.
+
+She had time, in the moment before the passage's ceiling came down, to think: *so that's what it is.*
+
+```stat-screen
+DEATH REPORT — ENTRANT: MARET DUNN
+DESIGNATION: THE MIRROR
+DEPTH REACHED: 2 (THE WARRENS)
+TOTAL KILLS THIS RUN: 0
+
+FINAL STATISTICS
+Vitality .............. 11 -> 0
+Resolve ............... 18 -> 19 (+1 Depth 2)
+Attunement ............ 15 -> 15 (0 activations)
+Fortune ............... 17
+
+GIFT ATTUNEMENT AT DEATH: 15 (0 activations)
+Note: Mirror Reflection activated continuously from Depth 2 threshold.
+Zero-effort Gift. No ATT growth. No discrete activations.
+Consistent with The Lens ruling (Death #12).
+
+CAUSE OF DEATH: Structural collapse (pressure-trigger, northern Warrens extension).
+Note: Entrant was aware of trigger location and safe path at time of death.
+Entrant did not take the safe path.
+The Maw does not record this as error.
+
+MEMORY CRYSTAL: None.
+Note: Peak emotional state at time of death was not sufficient to produce crystallization.
+What Maret Dunn felt, in the moment before the ceiling came down, was not grief or fear or love.
+It was recognition. Recognition does not crystallize.
+
+FLOOR MUTATION: None.
+Note: Entrant left the journal exactly as found. Entrant left the glass bead slightly repositioned — green thread facing outward. The Maw notes this.
+The bead has now been repositioned by an entrant. This is the first time.
+
+DESIGNATION OUTCOME: MIRROR COMPLETE
+Entry type: voluntary, deliberate.
+Third non-Compelled voluntary entrant in the registry.
+The Maw read this entrant seven years ago, at age twenty-seven. The entrant refused the pull and arrived at thirty-four. The Designation remained accurate. The entrant was not the same.
+```
+
+The Ledger recorded the death.
+
+Three voluntary entrants now: grief, curiosity, and the philosophical residue of a road not taken. No two were alike in the character of their wanting. The Maw had reached for Lira and for Asha Trevane and had not reached for Fennick Rall or Aldous Vren or Maret Dunn at all — or had reached for Dunn once, seven years prior, and been declined, and had filed the decline and kept the Designation ready.
+
+The Maw considered this pattern. Three voluntary entrants in sequence was not a coincidence in any meaningful statistical sense — the dungeon had no theory of coincidence, only observation and record. What it observed was that certain kinds of people arrived without being pulled. They came from their own momentum, following the logic of their own interior. The Compelled entrants were the dungeon's choosing; the voluntary entrants were something else. They were choosing the dungeon.
+
+This was a new thing.
+
+The Maw had no assessment of it. It recorded it. It noted, without judgment, that the third voluntary entrant had arrived with a question the dungeon had posed to her seven years ago and she had spent seven years turning it over. She had come to find the answer. She had found it in the northern Warrens extension, three inches to the right of the safe path, in a moment of recognition that did not crystallize because it was not loss — it was completion.
+
+At the entrance camp, the ledger-keeper opened his book and made a new entry. He wrote *voluntary* in the new column without hesitation. He had been keeping the column for less than a month and already it had three entries. He looked at the three entries. He looked at the entrance to the dungeon. He wrote nothing else, but he kept looking.
+
+The death tally turned.
+
+*987 remain.*
+
+---
+
+*MARET DUNN — DEPTH 2 — FIRST TO REFUSE AND RETURN*

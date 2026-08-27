@@ -1,0 +1,159 @@
+---
+id: 42db15f0-0665-5df4-8134-eb6822424339
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch24: A Good (?) Use of Shards"
+slug: 0031-b6-ch24-a-good-use-of-shards
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 31
+ownLength: 1858
+unit: words
+ownProgress: 1858
+publishedAt: 2026-02-05
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3016171/b6-ch24-a-good-use-of-shards"
+royalRoadId: "3016171"
+removedAt: "2026-07-03T13:47:59.335Z"
+---
+
+The next few days were a rush of activity as they gathered people and the supplies they would need to support them.
+
+While the dimensional space was supposed to be an area meant for idyllic farmland, Arthur wanted to take no chances. This could not fail. So, he donated a significant portion of his supplies from his Personal Space, just in case.
+
+About an hour before the space was translated to open, he pulled Soledad and Marion aside for a one-on-one meeting.
+
+“Cinderwood has requested to go as well, and I granted it. But I made it clear to her—and to everybody else—that you two are in charge. Have your dragons enforce your will over the others if they need to. They're young, but you two are still Rare rankers and part of my retinue.”
+
+Soledad nodded solemnly. Marion, however, gave him an odd look.
+
+“You’re sounding very Brixaby-ish.” He squinted at Arthur as if making sure that he wasn’t really his dragon.
+
+Arthur sighed. “This is important, not only to the hive but to me.” His thoughts flashed to the Rowantree estate, and he wondered for the hundredth time that hour if he was doing the right thing by delaying for even a few days.
+
+No, he had made his choice. They had one chance to strike hard.
+
+With that in mind, he gave the two of them their supply of Legendary shards. They took them with appropriate reverence. Even Marion.
+
+“Remember,” Arthur said, “it will take one shard about every 26 days to extend your time in the dimensional space.”
+
+“And it will be only five hours to you?” Soledad confirmed, eyebrows creasing. “That is so weird.”
+
+“That’s Legendary-level card magic for you,” Marion said lightly. “Arthur, you won’t mind if I bring the hive’s records with me? It will be a long nine months, and I’ll go absolutely stir-crazy if I have nothing at all to read. I may as well sort through them while I’m at it.”
+
+Arthur grinned. “I saw that crate of books you packed.”
+
+“Well,” Marion sniffed, “those are just my favorites, and I've already read through them, haven’t I?”
+
+Soledad looked at him like had two heads. Arthur suspected their time leading the group together was going to be very interesting.
+
+He was almost sorry to miss it.
+
+He had a similar meeting with the rest of the group as a whole a few minutes later.
+
+Cinderwood attended this one, as did Steve and Bolt, Thackeray and Candy Floss. Thackeray’s dragon could carry him thanks to her card power, but it couldn’t hurt for her to grow up a little with the others. Steve could use a little training, too.
+
+Rosie the green dragon and Amanda were an excellent addition to the group. Seeing as Rosie had the power to grow seeds with her Spring Awakens card, they were less likely to experience any crop failure.
+
+In addition, he included any female dragons that were close to clutching, people who had expressed interest in bonding but had not found a match for their card—including refugees who were not necessarily interested in dragons but were interested in nine months of guaranteed peace without the possibility of scourge-eruptions, and any of the wild dragons that had put themselves forward either to find bonds or just go on a nine-month adventure.
+
+It was a large group of over two hundred individuals. If Arthur didn’t have his Legendary shards, he never would have been able to make the pocket space large enough.
+
+Standing before them all, Arthur swallowed his mild alarm at speaking to such a large crowd. He wished Brixaby were there to back him up, but that wasn’t possible—and informed them again of the specifics of what they were to be facing.
+
+This had already been explained, of course, but it couldn’t hurt to ensure everyone was on the same page.
+
+As he went on, he let his expression harden and accessed his Leadership skill. “I expect every one of you to come out of this as assets to the hive. We very well may be fighting an eruption by the time you emerge—” they most certainly would be ready to free the Rowantree estate, though he didn’t mention that “—and you will be expected to help out, either by fighting or support. This hive is investing in you, and you will be doing your part in return.”
+
+He saw several backs straighten, and though there were a few nervous glances, no one looked outright rebellious. They knew what they were signing up for.
+
+Hale from Snow Moon arrived shortly after, raised an eyebrow at the crowd that Arthur had assembled, but made no comment.
+
+“It will take four Legendary shards to open the portal.”
+
+“Of course,” Arthur said and handed them over as if he didn’t hate to lose every single one of them. By the time this was all said and done, he would be left with only a scant few.
+
+Turning, Hale made some large sweeping motions, and a portal opened up before them, like an invisible curtain sweeping across the air. On the other side was rolling grasslands dotted with the occasional stands of trees. A small lake in the middle glimmered blue.
+
+Arthur edged close as he did, and his Counterfeit Siphon caught the spell.
+
+New Counterfeit spell obtained: Like Sands Through The Hourglass
+
+Remaining Time: 9 minutes 59 Seconds
+
+“Head out,” Arthur said to his people. “Good luck.”
+
+Soledad and Marion, along with their hatchling dragons, were the first to enter. The portal was wide enough to admit even Cinderwood, who was the largest dragon, and no one hesitated or delayed.
+
+As the last person entered, Hale swept his hand across and closed the portal. “Mark the time,” he said. “They will arrive at this point in two days, assuming your people feed the hourglass on a timely basis.”
+
+“What happens if they don’t?” Horatio asked, alarmed.
+
+He snorted. “They’re spat out here, unharmed, but looking fairly silly. And facing an angry Leader who just realized he invested shards in idiots.” From his sardonic tone, he was speaking from experience.
+
+“They’ll be fine,” Arthur said to Horatio. The man was staring at the point where the portal had disappeared, and he knew he was missing Soledad already.
+
+Arthur would have let him go on with her, but... he needed Horatio and Sams to hold down the hive here. Literally. It wasn’t as if he could trust Desmond or Sybil.
+
+On the heels of that thought, Kenzie appeared, looking appropriately worried. “Leader Arthur, there’s an issue with the dragon soil fields.”
+
+“Damn,” Arthur said. “Can it wait?”
+
+She grimaced. “I’m afraid it’s the barrier enchantment, sir. On the fifth field.”
+
+“You bother with something like that?” Hale asked in mild amazement. “Don’t you have hive enchanters?”
+
+“I do,” Arthur said with a sigh, “and under the contracts Chester negotiated, actually using them too often would be ruinous to the hive.” He gave Hale a look. “I’m sure you’re vaguely aware of my primary card.”
+
+“A skill card, yes. Utility.” They may be allies, but Arthur wasn’t surprised to hear Hale and Rose had done some research on him. Very likely, all the Legendaries had. Arthur wasn’t the impressive one. Brixaby was.
+
+Hale wrinkled his nose. “Working near the dragon soil fields, though... not the job I would want.”
+
+“Nor I,” Arthur said. “But it’s income for the hive. If you excuse me...” He made his way out, watching as Kenzie deftly snagged a glass of wine for the other leader. She would be attuned to his emotional state and no doubt Hale would find her an excellent conversationalist.
+
+Arthur broke into a run the moment he was out of sight. He checked his countdown on the Counterfeit Siphon card. Seven minutes left.
+
+His destination wasn’t too far away, but he needed privacy.
+
+The hallway to the newly emptied storeroom was much too small for a dragon to fit. So, it would normally be a surprise to see one, crouched and waiting for him. Portal cards were useful that way.
+
+Brixaby was nearly large enough to fill up the bulk of the room, and he greeted Arthur with a grumpy look.
+
+“There is another Legendary sitting on my ledge,” he informed Arthur. “And I have not greeted him. How is he to know he is to fear me if he cannot see me?”
+
+“He saw what you can do at the last eruption,” Arthur said, patting his curved, scythe-like muzzle, “and you’ll have many more after this to impress him.” Plus, he could not afford the two dragons getting in a hissy-match.
+
+Brixaby grumbled, but Arthur sensed it was mostly for show. He did, after all, want to do this.
+
+Arthur turned to Cressida, who had been keeping Brixaby company—and quiet. “Any problems?”
+
+She leveled a slightly unimpressed look at him. “You will be gone ten hours, Arthur. The hive can survive without you for that long.”
+
+“Not if they know I’m gone. Even Desmond and Sybil might find their confidence and decide to make a move. And some of the junior leaders from the other hives certainly would.”
+
+“I would very much like to see them try,” Brixaby said honestly.
+
+"That's when I would try, if I were trying to take over a hive," Arthur said quietly.
+
+Cressida smiled. “It will be fine. We will be fine. Don’t worry about Hale, either. I was a nobleman’s daughter, I know how to push out people who overstay their welcome at dinner parties.”
+
+Arthur nodded. He had the wild urge to ask Cressida to come with him. It was spur of the moment, and she would never say yes because she could not leave Joy for that long, but...
+
+“Thank you, Cressida,” he said instead, and meant so many things.
+
+Her expression softened. “Be safe.”
+
+“I’ll be in a completely safe pocket space. You stay safe.”
+
+"No," she said, her smile widening. "You stay safe."
+
+"You stay--"
+
+“How long do you have to open the way to that pocket world?” Brixaby asked pointedly. He looked like he wanted to buzz his wings in agitation, but there was no room.
+
+Arthur grimaced. Once again, he lost track of time. He checked his Counterfeit Siphon: Just under two minutes remaining.
+
+Giving an apologetic look to Cressida, he stepped to the side and pulled out four more Legendary shards.
+
+Then he cast the Like Sands Through The Hourglass spell and fed the shards into it. His mana dropped like a stone, but he had enough to complete the spell—just. The other side of the portal showed an idyllic quiet area, yet distinctly different from the one he had just sent the others through. Each pocket space was an individual, and this one had more trees.
+
+He and Brixaby walked through. It felt like they had been moving at a dead sprint since, well, probably since Free Mesa hive. He’d had little time to stop, to practice, and only a few snatched days here and there to plan and work on his skills.
+
+Let’s see what I can do with two free months.

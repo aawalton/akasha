@@ -1,0 +1,195 @@
+---
+id: 9f7a7a93-f751-5991-a9e3-3f50c4f58eab
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Chapter 9: Call of Life"
+slug: 0016-book-6-chapter-9-call-of-life
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 16
+ownLength: 2072
+unit: words
+ownProgress: 2072
+publishedAt: 2025-04-30
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2242306/book-6-chapter-9-call-of-life"
+royalRoadId: "2242306"
+removedAt: "2026-07-03T13:47:32.647Z"
+---
+
+It was Joy who found Arthur the next day. He was deep in concentration, working on his Card Smithing skills.
+
+The ultimate goal, of course, was to alter Cataclysmic Firestorm be less horrific. But he had to admit that he wasn't at the point where he could safely work on a Legendary ranked card now.
+
+He had to work up to it.
+
+He had a fresh handful of Common and Uncommon rank cards that had been freshly turned in from vendors as payments owed to the Hive, or people just trying to curry favor with the new leader. These cards were all fairly useless and vastly different from one another in skills and descriptions.
+
+But with enough imagination, he might be able to alter them to be alike enough to make them an entire set.
+
+Witnessing a card upgrade to the next rank would provide deep insight into the process for when he and Brixaby had to do it themselves. It would take a lot of work, though, and--
+
+A deep dragon cough from behind startled him almost into making a mistake. Arthur jumped and whirled around to see... Joy.
+
+Somehow, though the rooms certainly weren't dragon-sized, she had squeezed herself in anyway and was staring at him with expectation. Cressida was nowhere to be seen.
+
+Joy must have seen his immediate flash of annoyance because she said, “I really didn't want to interrupt you, but I was sitting here for minutes and minutes, and I think that if I didn't make a noise, it might be supper by the time you noticed me.”
+
+That might be the case. Arthur had the ability to really focus and exclude everything else around him when he was engaged with a problem.
+
+“What's wrong? Have you received a quest?” he asked.
+
+Now it was Joy's turn to look irritated. “Not everything is about quests.”
+
+Now he was more alarmed. “Is it Cressida? Is she okay?”
+
+“Cressida is fine. She is working on gathering support from your wing leaders, like you told her to.” She waved a claw. “I'm worried about big Brixaby.”
+
+"Big" and "Brixaby" weren't usually two words that ever went together. Arthur sat up straighter.
+
+“Brixaby? What's wrong? Is he okay?" Come to think of it—and he was a little ashamed—he had no idea where his dragon was.
+
+Joy wagged her head back and forth in a so-so gesture. “Yes and no. I think no? It's nothing I can put a claw on, and I don't have a quest,” she added quickly. “Stop asking.”
+
+Arthur closed his mouth.
+
+Joy continued, “He's not sad or anything, but there's definitely something off with him, and he won't tell me what it is. Has he told you?”
+
+Arthur felt a flash of guilt. He had been so busy with trying to wrap his mind around Hive management and dealing with the influx of the wild dragons, that he hadn't checked in with his dragon. In fact, this had been the only time he had to get away since the meeting yesterday, and he had immediately used it for his card smithing project.
+
+"He hasn't told me," he said, but even he had noticed that Brixaby hadn't quite been himself recently.
+
+He checked his Call of the Heart in search of Brixaby.
+
+Then, with a sigh, he looked at Joy. "Do you mind giving me a ride?"
+
+Joy beamed at him. Arthur suspected that while the Pink may not have been brought here by a quest, she had been alerted by her heightened intuition.
+
+That meant it was important that Arthur see Brixaby immediately.
+
+****
+
+Brixaby was located in the valley between two spiky mountain ridges, a place so remote and stark that vegetation didn't even make a foothold. It was bare rock and impossible to reach on foot. Squeezing between the sharp granite ridges was difficult enough that Joy had to pass over the area three times before she found a way in.
+
+Arthur, who as usual was riding without a saddle, received one point in his dragon riding skill.
+
+I need to ride new dragons more often, he thought. But there was a very good reason why he didn't.
+
+Brixaby and Joy were very good friends, but when Joy landed with Arthur on her back, Brixaby turned to give her the stink eye.
+
+"First you gallivant off to Wolf Moon, now you are doing quests with Joy," Brixaby grumbled said.
+
+"I am not on a quest!" Joy cried. "I am more than just a quest giver, you know."
+
+Only because Arthur knew Brixaby so well did he see the brief flash of guilt cross his face. In the next moment, the dragon turned away.
+
+"Leave me. I am crafting and do not wish to be disturbed. That's why I took myself out here," he added.
+
+Dismounting, Arthur looked around. By the mounds of metal laid about, tools, and even a few gems—where had he gotten those?—it looked like Brixaby had completely unstored his Personal Space. He saw that most of the tools were for his previous size, though they had been lovingly laid out. There was one item that was still missing, however.
+
+"What happened to the furnace you were supposed to get?" Arthur asked.
+
+"It will take a few more days, or so I have been informed," Brixaby grumbled. "I am organizing."
+
+Joy was right. There was definitely something off with his dragon. He wasn't usually so... surly. Arthur glanced at the Pink dragon. "Joy, could you give us some space?"
+
+She didn't listen and stepped forward, her heart in her eyes. "Brix, we only want to help."
+
+He whipped around and roared at her, "Leave!"
+
+There was power in that command, the power of a Legendary. Joy eeped and in the next moment, fluttered up and away. Arthur said nothing but let his disapproval speak for him.
+
+Brixaby looked away and after an awkward moment said, "She is young and her body is... gearing itself up for egg production."
+
+Arthur's eyebrows rose.
+
+Brixaby all but snarled, "Life is all but gushing out of her. There is so much."
+
+Ah, not quite that, then. Arthur thought he had an inkling of understanding. He walked to his dragon. "You can feel all that with your new card?"
+
+"Yes. But..." He shook his head slowly, ponderously from side to side as if whatever was bothering him weighed him down. "It is not the life that disturbs me," Brixaby said. "It is the death."
+
+"Death? What do you mean?" He looked back up at Joy, who was still winging away. "Do you sense death in her?"
+
+Brixaby didn't answer for a long, tense moment. Then he shook his head. "No, it is not about Joy. Arthur... I have something to show you. But I fear you will not like it." He snarled to himself. "I do not like it."
+
+"Show me," Arthur said.
+
+****
+
+It felt different to ride Brixaby in his new, larger form. He was just as maneuverable, but the seat Arthur took between his neck spines was large and felt almost as if it were molded for him. Brixaby could be... uncomfortably pointy in places.
+
+Brixaby immediately took to the sky with the speed that belied his new size and zoomed eastward, directly over the sharp mountain ridges.
+
+Like the one where Brixaby had hidden away to sulk, none had much vegetation. The upthrust rocks looked sharp enough to cut.
+
+Soon, Arthur smelled something rotten in the air. No, not rotten, but decayed.
+
+Then, Brixaby suddenly ducked and flew between two sharp spines. Below them was a dark crack in the earth, and the smell of death and decay was so overwhelming that Arthur gagged and reached into his Personal Space for one of his vinegar-soaked rags to press against his mouth.
+
+It wasn't quite as bad as the time they had gone into a hive that had been taken over by scourglings, but it was close.
+
+"What is it?"
+
+Brixaby didn't reply, but the smell must have annoyed him too because he next buzzed upward, giving them some space. The smell was so rank that it followed them high into the air, or maybe it had already clung to Arthur's clothing.
+
+"I suspect that crack is filled with many rotting dragon bodies," Brixaby said, stunning Arthur.
+
+He couldn't speak for a moment, just stared down in gathering horror.
+
+Brixaby continued. "Blood Moon has a reputation for assassins, but have you seen any clear evidence of them? Any come to introduce their wing to you or offer their services against your enemies."
+
+"No," Arthur admitted. "Nothing like that."
+
+Arthur looked back down, and several things clicked into place at once. "You think that Chester and Blood Drop..."
+
+"Mostly Blood Drop," Brixaby said. "Now that the card is in my heart, I hunger for life too."
+
+That was disquieting, though not entirely surprising. Arthur put a hand on his neck. "Are you afraid you'll slip?"
+
+"No!" Brixaby shot back so fast and immediately that Arthur couldn't help but believe him. "No," he said again, and a little bit of the old Brixaby leaked into his voice. "I have hungered for cards since I was a hatchling, and I have a much stronger will than Blood Drop. Still," he said, looking reluctantly downward, "I sense Joy, and the fact that her life-spring within her is reaching a peak." He shuddered. "I will not slip, but it is... disquieting."
+
+It took a lot for Brixaby to admit that. His next words surprised Arthur even more. "I don't believe I should use this card, except in the most dire of emergencies, until I grow used to it."
+
+"All right," he agreed after a stunned moment. Though deep inside, he was disquieted and suspected Brixaby was having even more trouble than he let on. No wonder he had isolated himself.
+
+"You don't want to remove it from your core—"
+
+"No!" The answer was firm, with no room for doubt.
+
+Then again, Arthur would feel the same if someone suggested removing one of the cards from his master set.
+
+"No," Brixaby said again, this time a tad quieter. "It is dangerous and perhaps... imperfect, but it is still part of me."
+
+There was another solution. Arthur opened his mouth to suggest it, then closed it. No. He would not voice what was on his mind until he knew that he could follow through with it.
+
+Instead, he said, "You know, I'm working on my card smithing skills—"
+
+"Yes, and you are nowhere near altering Legendary rank cards reliably," Brixaby said impatiently.
+
+"Not now, but soon."
+
+The dragon flicked his tongue in dissatisfaction. "Perhaps."
+
+Arthur decided that now was not the time to push. Instead, he took the moment of silence to lean over and look down into the crack of the earth. It was so deep that he could not see to the bottom.
+
+Part of Arthur wanted to go and Counterfeit Siphon someone with an earth or stone movement card. He and Brixaby could close up the crack and give those lost down there a proper burial.
+
+But Blood Drop and Chester's victims probably had friends and family who were missing them. Likely, they thought that they died in an eruption. That's how Arthur would arrange it if he were looking for disposable people.
+
+With a sigh, he sat back. "This has to be dealt with."
+
+"Yes," Brixaby agreed heavily. He, too, was looking downward.
+
+"And you have to apologize to Joy as soon as we get back," Arthur added. "It's not her fault that she is..." He was going to mention developing eggs, but he really didn't want to open that conversation with Brixaby. "That she's full of life."
+
+"Bah," Brixaby complained, then quieter, "Yes."
+
+Suddenly, Brixaby swung his head around toward the direction of the far-off hive. "We have company."
+
+Arthur squinted. It took him a few moments to spot the dot in the sky. That dot quickly resolved itself into a speedy little Purple who wore a yellow courier vest. She was without a rider.
+
+"Pepper found you!" the little purple cried. "Everybody looked for the Leader, but Pepper is the best. Phew! What stinks?"
+
+"What message do you have for me?" Brixaby asked.
+
+The little purple was doing excited loop-de-loops in the air but stopped at his question.
+
+"Oh! Right! There's an eruption!" She looked at him with large eyes. "What do we do, Leader?"

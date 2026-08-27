@@ -1,0 +1,131 @@
+---
+id: b28e222d-cfa0-50fd-88e6-1a31b128ad45
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 194"
+slug: 0035-the-level-zero-hero-chapter-194
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 35
+ownLength: 1501
+unit: words
+publishedAt: 2024-01-13
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1475794/the-level-zero-hero-chapter-194"
+royalRoadId: "1475794"
+---
+
+The first thing I heard when I rolled out of bed was screaming. That was not unusual. Every day, at least one person would scream when they saw Jax. Or maybe they’d scream because they poked Bucky, and she attacked them in retaliation.
+
+I would have to get up and resolve these problems most of the time. But I always took my time. Because they weren’t really that big of an issue. So I assumed today’s problem was no different than that.
+
+However, when I heard even more screaming coming from outside the restaurant, I sighed and pulled myself to my feet.
+
+“What’s going on?” I asked as I looked out the window.
+
+And right as the words left my mouth, I spotted two figures sprinting their way past, screaming in terror. Following right after them was a buzzing black mass that was all too familiar to me. I blinked a few times, realizing what was going on.
+
+“What am I going to do about those damn bees?” I massaged my temples, before stepping out of the kitchen to resolve this problem.
+
+—--
+
+Edlyn knew this was a terrible idea. But Harlan seemed to be the most level-headed of everyone in the restaurant. Which wasn’t saying much, considering his only real competition was Arthur. Jax and Amelia weren’t even in the running— they were both far too insane.
+
+So the [Royal Chef] decided to trust in Harlan’s judgment. Even though she didn’t want to go in and antagonize that swarm of baby bastion bees, she trusted him instead. And that proved to be a horrible choice.
+
+Because now they were both being chased down by the swarm of baby bastion bees.
+
+“Somebody help!” Edlyn screamed, stumbling her way away from the restaurant.
+
+Behind her, Harlan sprinted at a faster pace, his Skills as a former guardsman proving to be useful in this predicament. Edlyn nearly tripped and fell, but he caught her and swooped her off her feet. She blinked, watching in shock as he carried her with ease.
+
+He ran from the swarm of baby bastion bees, heading straight for a group of houses. A few [Farmers] and [Traders] looked up to see the pair being chased, before they screamed and scattered.
+
+“Everybody run!” Harlan shouted as Edlyn looked back.
+
+She saw the baby bastion bees draw closer. They might not have been as high-leveled as their adult counterparts, but they were still incredibly dangerous. Especially to non-combatants like herself. And in such a large swarm?
+
+Nobody here was safe. They needed to get help. Edlyn paced her breathing and looked through the black and yellow swarm of sacred monsters. Through their thick mass was a rather mundane-looking building. The very same place the two had just run from.
+
+In their panic, they had fled in a random direction, forgetting that the restaurant was actually the safest place for them to be. After all, Amelia was there. She would save them.
+
+Or so Edlyn hoped.
+
+She shook her head and turned to Harlan. “We need to go back!”
+
+Her voice drew his attention, making him turn to her for a moment. “Wait, why?”
+
+“If we can just get Amelia’s—” Edlyn started.
+
+And at that moment, Harlan stumbled and tripped on a rock. Edlyn’s eyes went wide, and the former guardsman cursed. The two of them tumbled onto the ground as the loud buzzing of the baby bastion bees grew louder.
+
+Edlyn’s head ached. Her ears rang for a moment, drowning on the blaring cacophony of the approaching monsters. But she looked up when a dark shadow towered over her. She looked up in horror to see the swarm looming over her.
+
+Her legs grew numb. She couldn’t get to her feet. Fear gripped her and tied her to the ground. Edlyn stared numbly as the baby bastion bees drew closer. She couldn’t even flinch. Only a single thought crossed her mind.
+
+This is it… She closed her eyes. And the buzzing grew louder as she waited for her impending demise.
+
+But it didn’t come. Edlyn blinked and looked back up to see a figure standing over her. Harlan was staring too, having barely gotten to his feet as the swarm of baby bastion bees surrounded them. However, they didn’t come any closer, choosing to stay back for some reason.
+
+“Who…?” Edlyn asked as she stared at the back of the tall figure.
+
+At first, she had thought it was Amelia who had come to save them. But it was a man standing over the two of them. He was dressed in ragged clothing, raising a wooden branch in the air like it was some kind of a staff.
+
+“That’s enough!” he bellowed, and his voice reverberated in the air.
+
+The man waved his stick around as a gust of wind seemed to collect around him like the first vestiges of a cyclone. His words sent a ripple through the swarm of baby bastion bees, and even Edlyn found herself instinctively recoiling.
+
+But while the swarm of baby bastion bees seemed to give him a wide berth, one of them seemed determined to defy both the voice and the strong winds. It must have been the queen of the baby bastion bees. It charged forward, pushing through the rippling air and shooting straight for the man.
+
+Edlyn opened her mouth to warn him. However, before the queen baby bastion bee could reach him, he slammed his staff to the ground.
+
+A shockwave shot out, causing the swarm of baby bastion bees to disperse. It sent the queen flying back as the man glared up.
+
+“You have had your fun! Now it is time to return to your hive! Begone, children!”
+
+And his voice shook the wind once again. But this time, the baby bastion bees listened to him. They caught themselves, before flying back. Edlyn looked on as the swarm began to return to their hive. The queen was the last to go. It looked back at the man in disdain for a moment, before vanishing into the darkness of its home.
+
+Once he was certain they were gone, the man turned back to face Edlyn and Harlan.
+
+“Are you two alright?” the man asked, shaking his head. “Those damn bees are getting rather unruly, aren’t they? Buzzing up a storm in this town… what would their mother think?”
+
+“Uh, what?” Edlyn looked at him quizzically. She wanted to thank him, but she was also confused about what he was saying. To add onto that, she also didn’t even know who he was.
+
+But Harlan seemed to know. The former guardsman walked up to the man with a smile.
+
+“Thank you, Dorien. You saved our lives.”
+
+Dorien waved a hand dismissively, turning to face the hive. “Bah, don’t thank me. I didn’t do it for you. I did it for them. If they hurt even a single person here, they would no longer be welcome in Wolfwater.”
+
+“Well, you still saved our lives,” Harlan chuckled. “How did you do it? How did you scare them off?”
+
+“A little bit of intimidation and [Animal Speaking] will do the trick,” Dorien snorted.
+
+[Animal Speaking]? Edlyn narrowed her eyes. So he’s a [Druid]?
+
+If he was a [Druid], he had to have been at least Level 30. The only other possible Class would be some kind of [Beast Tamer]-adjacent Class. And even then, [Animal Speaking] would be unlocked at Level 40 onwards.
+
+Why was there such a high-leveled [Druid] or [Beast Tamer] here in such a small town? And how did he know Harlan? Edlyn didn’t know. It was not as ridiculous as Jax being here, but it was still surreal.
+
+Especially with how rare [Druid] was as a Class.
+
+Edlyn just knelt there, looking up at the two men as they nodded at each other. They turned to her curiously, and Harlan proffered a hand.
+
+“Here, let me help you,” he said with a smile.
+
+“O-oh, thank you.” Edlyn blinked and accepted the gesture. She dusted herself off after getting to her feet, and that was when she heard a familiar voice calling out.
+
+“So it’s all over? Or are those baby bastion bees going to cause a ruckus again?”
+
+The three of them spun around to face a woman approaching from the restaurant. It was Amelia, and she walked casually with no sense of urgency at all.
+
+“I have no idea,” Dorien started. “I believe we’ll have to—”
+
+And Edlyn regained her voice. “Amelia?”
+
+“Yes?” The brown-haired woman raised a brow, coming to a halt.
+
+“Why didn’t you… save us?” Edlyn asked, just staring at her overpowered employer.
+
+“Oh, I was going to save you guys,” Amelia replied simply. But then she glanced towards the [Druid] and shrugged. “But I saw Dorien coming to the rescue, and I decided it was better to let him handle things.”
+
+Edlyn didn’t respond. But her piercing gaze continued to bore into the brown-haired woman. And Amelia crossed her arms.
+
+“What? I’m not lying, I swear.”

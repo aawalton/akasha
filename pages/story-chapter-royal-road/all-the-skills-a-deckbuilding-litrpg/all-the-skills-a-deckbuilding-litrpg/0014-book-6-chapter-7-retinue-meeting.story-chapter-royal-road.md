@@ -1,0 +1,107 @@
+---
+id: 08a50746-189c-5665-bb31-499f98863c08
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Chapter 7 - Retinue Meeting"
+slug: 0014-book-6-chapter-7-retinue-meeting
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 14
+ownLength: 1097
+unit: words
+ownProgress: 1097
+publishedAt: 2025-04-23
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2223808/book-6-chapter-7-retinue-meeting"
+royalRoadId: "2223808"
+removedAt: "2026-07-03T13:47:29.148Z"
+---
+
+Within a few minutes, everyone was settled, and Brixaby directed the rower to take them to Blood Moon hive.
+
+There was no conceivable way a human-sized creature should have been able to move a rowboat large enough to carry over a hundred dragons. Yet the rower pushed off the bank and rowed as if they weighed nothing at all.
+
+When they reached their destination and stepped out of the boat, Arthur took a moment to pull Cinderwood aside. Adding dragons to Brixaby’s retinue was mostly up to Brix, but until he made his final decision one way or another, Arthur had use for her.
+
+“I would like you to be a liaison between Brix and myself and the rest of the wild dragons,” he told her. “Not only for the ones that just came through, but I want you to reach out to the others in this hive on my behalf.”
+
+She looked both surprised and gratified.
+
+“Certainly, I will. What are your orders for us now?”
+
+That was a good question. This had all been spur of the moment. But Arthur didn’t allow any uncertainty to cross his face. “For now, we want them to get settled in. Any caves that are not currently occupied may be used. And I especially want to know who is looking for a rider. Immediately.”
+
+She leaned back, her head arching in an expression Arthur read as pride. She probably hadn’t had a job since Valentina and Elissa died. “Yes, sir.”
+
+“Arthur!”
+
+He turned at the sound of his name to see Cressida jogging up to him. Her expression was strained, the freckles standing out starkly on a bloodless face. She stopped short, arms half outstretched, and he thought, Oh why not, and pulled her into a hug.
+
+She felt good pressed against him, her arms wrapped around his shoulders just as fiercely as his were around her.
+
+Then she leaned back. “What happened?”
+
+"Turns out, I couldn’t trust Reginald," Arthur said dryly.
+
+She gave him a look. "You couldn't trust the rat-faced man?"
+
+"I was trying not to judge on appearances..." He stopped at her look. "Okay, maybe next time I will trust my gut. Anyway, he brought me to Wolf Moon. Whitaker apparently has a ransom out for me. And I ended up stealing all of his wild dragons."
+
+Her look of disapproval turned into a beam of pleasure. "You do know that he doesn't care about those wild dragons, do you?"
+
+"Well, that's because he's an idiot, and I am much more far-thinking," he said lightly, but then he grew serious again. "Do me a favor and call a meeting. I have to speak. I have some things to talk to the rat about."
+
+She started to nod, then stopped. "And Desmond and Sybil?"
+
+He winced. Technically, there were three leaders of Blood Moon hive. And, normally, he would be not only the most junior, but the one most outvoted by Desmond and Sybil since they were a married couple and presumably a team.
+
+But nothing was normal about this situation. After years of being ruled over by Chester, Desmond and Sybil were so beaten down that they were passive. Neither had shown any signs of changing over the last few days.
+
+"Them too," Arthur said with a sigh, though privately, he was not sure what use they would be.
+
+He still had to try.
+
+Maybe... maybe they could be a team.
+
+Or maybe they'd finally find their spine somewhere and start plotting against him.
+
+He felt his own back stiffen at that thought. Well, if they did, they would find out exactly how he and Brixaby had defeated Chester.
+
+****
+
+Cressida didn't take long, and from the way everyone quickly gathered up at the outside lounges on the leader's wide ledge, Arthur suspected they'd been waiting for him to call this meeting the moment he got back from seeing the king.
+
+Whoops.
+
+Cressida had also taken the opportunity to call in Griff, Arthur's second in command of Wing Purple. Arthur had not known the man for very long, but he seemed solid enough and had been willing to follow Arthur when he thought he had been a simple wing captain.
+
+Though Griff did seem a bit intimidated to be among Legendary riders and sit in the outside seating where the wing captains also sat. He was an Uncommon among Rares and Legendaries.
+
+Kenzie sat nearby as well, though she remained uncharacteristically quiet and watchful.
+
+All eyes turned to Arthur as he stood up to address them.
+
+Arthur decided to be blunt. "I think I found the main reason Chester used the blood price. The hive is completely destitute—unless anyone knows of another spot where he kept the card library?" This last part was aimed at Desmond and Sybil.
+
+Sybil didn't shake her head. She just stared back at Arthur with a passive, detached look on her face.
+
+Desmond waited a moment, then seemed to realize he was speaking to them because he twitched before he said, "Chester took care of that."
+
+"Well, Chester emptied out the entire card library and a hidden one he apparently kept in reserve."
+
+Desmond let out a sigh. "Then, if you excuse me for saying, sir..." he trailed off, waiting for permission to go on.
+
+It was more than a little ludicrous for him to be calling Arthur 'sir.' Arthur was four times younger than him, and they were of the same rank. He still nodded for him to continue.
+
+Desmond shrugged. "I don't see what this changes. We will simply carry on with continuing the blood price."
+
+There were various reactions to that, from disgust to horror.
+
+Arthur heard his own voice come out cold.
+
+"No. We're done with that. I'll sell the furniture out of the hive before I steal the life from its people."
+
+Neither asked why he needed that information. They simply nodded, still vague.Arthur looked around at his retinue. "I know this has been, um, a change in circumstances." A couple of weeks ago, they were living in a converted barn on the other side of the planet. "And it's been sudden, but... how are you guys settling in?"
+
+"Oh, fine," Horatio said casually. "Arthur, at this point, I'd be more alarmed if you didn't make a giant leap in rank out of nowhere. What I want to know," he glanced at Soledad, who nodded before he leaned forward, "is what the King had to say to you."
+
+"And when Marion is coming back," Cressida added.
+
+All fair questions. Arthur took a deep breath and began.

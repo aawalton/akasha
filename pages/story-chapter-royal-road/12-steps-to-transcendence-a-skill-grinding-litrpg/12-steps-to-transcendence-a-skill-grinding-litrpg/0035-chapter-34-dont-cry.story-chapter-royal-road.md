@@ -1,0 +1,251 @@
+---
+id: 64ea9563-0b2a-5c5a-9864-0d9693a947a5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34: Don't Cry"
+slug: 0035-chapter-34-dont-cry
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 35
+ownLength: 2259
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3815174/chapter-34-dont-cry"
+royalRoadId: "3815174"
+---
+
+They always said human beings could pull off literal miracles when their lives were on the line. They were right. Blasting his right heel with a condensed [Fire Burst], he launched himself through the forest.
+
+A spear obliterated the thick tree trunk he had just been standing next to. Hitting the dirt hard, he immediately scrambled back up and ignited his foot again.
+
+He was literally flying by the seat of his pants. And he was burning through his mana reserves like an absolute madman.
+
+[Focus]!
+
+Dumping mana straight into his heels, he blasted through the forest like a rocket, dodging around the trees. And he honestly thought that ridiculous burst of speed would actually ditch his pursuer.
+
+But looking back, all that evasive maneuvering had been completely pointless. Because the hobgoblin had just plowed through the trees right on his tail, rattling its massive chains and looking like it was having the time of its life.
+
+Of course it had to be the exact same bastard from before.
+
+I really hate this guy.
+
+This was officially their second encounter, and Ben mentally swore to whatever gods were watching that there absolutely wouldn't be a third.
+
+His arms just flopped uselessly at his sides as he soared through the air. He definitely looked completely ridiculous. But looking stupid was vastly preferable to getting skewered like a human kebab.
+
+Knowing full well where he was in the forest due to [Mana Sonar] that he had been using constantly, his brain immediately mapped out the optimal escape route.
+
+He had run away in this exact same direction once already. So he just had to do it again and reach the waterfall he knew the hobgoblin wouldn't follow after him.
+
+When he reached the waterfall, he threw himself off the rocky ledge, and plummeted toward the deep pool below, slamming into the water.
+
+The icy shock instantly numbed his throbbing calves, and he managed to kick his way back up to the surface. Gasping for air, he furiously paddled toward the rocky shore on the other side, and dragged his body out of the water.
+
+Rolling onto his back, he stared up at the top of the waterfall, fully expecting the massive green freak to just stand there.
+
+But the hobgoblin threw itself right off the edge, plummeting toward the water.
+
+No way…
+
+Ben just stared in disbelief. It hadn't followed him last time! Why the hell was it so determined to murder him today?!
+
+Deciding he officially didn't give a crap anymore, he just blasted himself straight up into the sky, figuring a vertical retreat was the best way to finally ditch his pursuer even if it would leave his legs messed up as a result.
+
+And surprisingly enough, the massive hobgoblin didn't even bother chucking its spears after him this time around. Remembering he had completely shattered its chains during their last little encounter, he figured the hobgoblin was actually smart enough to recall that lesson.
+
+Well, thank god for small favors.
+
+Because honestly, his legs were killing him right now.
+
+I seriously need a break.
+
+He groaned internally, quickly scanning the sprawling canopy below for a safe place to drop.
+
+Spotting a relatively secluded clearing tucked away in the trees, he steered his momentum toward it and just let himself fall.
+
+He was so tired and hurt.
+
+But hey, he was alive. And more importantly, he was finally safe.
+
+Landing and dragging his body toward the clearing, he immediately collapsed and got straight to work, channeling his mana into his calves, he forced the healing process to kick in. Simultaneously, he fired up his mana cycling technique.
+
+It was a multitasking nightmare, splitting his [Focus] between healing himself and absorbing mana into his thoroughly depleted core, but he supposed it was probably good training.
+
+If that green bastard finds me now, I'm just going to lay here and let him eat me.
+
+He decided, keeping his eyes shut for the time it took to heal his body fully. Once his limbs were actually functioning again, Ben dragged himself up and trudged over to the nearby river.
+
+He desperately needed to wash his clothes, mostly because they were bloody and dirty as hell. They were probably going to smell bad, but there was nothing he could do about that.
+
+As he scrubbed the mud and gore out of his fabric, he paid a bit more attention to his body's recovery. [Regeneration] worked really well, all things considered, but it was just incredibly slow.
+
+On the bright side, now that he wasn't actively sprinting for his life, he finally checked his backlog of notifications and saw that the skill had already leveled up. So yeah, that was a thing.
+
+[Regeneration Lvl 1 > Lvl 2]
+
+[Regeneration Lvl 2 > Lvl 3]
+
+Since it was early on, the levels were coming quite quickly, which he definitely liked.
+
+After wringing out his clothes, he quickly sparked up a small campfire to dry them off. Once he was decent again, it was time to head back. Using [Fire Burst], of course, he just launched himself into the sky and flew back to the camp, aiming specifically for the hidden perimeter blind spot that Alice had used to sneak him out earlier.
+
+Sneaking back into the base, he made his way toward his place. The medical tent that Marcus lived in as well. But as he approached, he spotted someone waiting right by the entrance.
+
+It was Brian.
+
+Ben paused, wondering why on earth the guy was loitering outside his tent. A second later, Brian noticed him. His face immediately pulled into a heavy frown, and he honestly didn't look too happy.
+
+Brian stormed right up to him, throwing his hands up. "Why did you not come to the spar?! I was waiting for you! Did you run away?"
+
+Ben just stared at him.
+
+"...what? No, I was just—"
+
+"You ran away!"
+
+"You didn't tell me when the spar was."
+
+Ben pointed out, his tone completely deadpan.
+
+Brian froze. A quick flash of genuine embarrassment crossed his face as his brain caught up with the facts. He tried to recover, managing it rather poorly as he cleared his throat and puffed out his chest to regain some authority.
+
+"In the evening. We are going to spar in the evening. Do not be late this time."
+
+And just like that, Brian spun around and stormed off into the camp. Leaving Ben standing there completely baffled.
+
+The heck was that about?
+
+Shaking his head, he pushed past the tent flaps and stepped inside the medical tent.
+
+He just wanted to rest his damn legs.
+
+Flopping down onto his bed, he crossed his legs and immediately started circulating his mana again. It was a tedious process, but it kept his core churning, and he was trying to learn to do this continuously without having to sit down to have at least some level of mana recovering always.
+
+And it wasn't like he had anything better to do anyway.
+
+Pausing his cycling, he cracked an eye open as the tent flaps rustled once more.
+
+Marcus walked in, carrying a fresh stack of bandages. Stopping dead in his tracks, the medic just squinted at him from across the tent.
+
+Marcus tilted his head, narrowing his eyes suspiciously. "Did you learn [Regeneration]?"
+
+Blinking in surprise, Ben dropped his mana cycling completely.
+
+"Yeah. How did you know that?"
+
+Marcus snorted, tossing the bandages onto a nearby wooden table. "You're practically radiating life mana at the moment."
+
+...Huh?
+
+Ben just stared blankly as the guy shrugged and immediately went back to sorting medical supplies.
+
+Rubbing his chin, Ben actually wondered about that for a second. He hadn't realized skills could leak a literal aura like that.
+
+But deciding it wasn't worth the headache, at least for now since he couldn't do anything about it, he just closed his eyes and returned to cycling his mana.
+
+Because he actually had a much bigger problem to think about right now.
+
+Brian wanted a spar later this evening.
+
+Ben wondered if doing that was actually a good idea. He could just not go. He didn't really give a crap about getting teased or ridiculed due to such a "cowardly" thing.
+
+He was flexible like that.
+
+Last time they clashed, he had been definitely a bit pissed off and didn't even have [Focus] turned on. So he had reacted really badly to the whole situation.
+
+Repeating that disaster seemed like a fast track to getting killed.
+
+Especially since they were going to spar in front of a literal audience this time. They were most likely going to use that makeshift arena the camp had built specifically for training.
+
+So if I fight, I'm basically putting my abilities on display for everyone.
+
+Tapping his fingers against his knee, he debated if revealing his hand was a worthwhile tradeoff just to stop Brian from bothering him constantly.
+
+First, drawing attention in a survival situation was just objectively stupid. Second, the guy was a giant pain in the ass who would probably hold a grudge. And third, revealing his skills or his mana capacity would make people ask annoying questions.
+
+So yeah, a terrible idea.
+
+But on the other hand, avoiding it just meant Brian would keep harassing him every single day.
+
+I should be able to take care of that buffoon without making myself look too strong.
+
+After all, he doubted the prideful kid would try to convince others that Ben was actually strong, and that he didn't win just by a fluke. He would probably stick with whatever Ben did just to protect his fragile reputation.
+
+And besides, he was going to ditch these guys and leave the camp soon anyway.
+
+So honestly, it really didn't matter in the end.
+
+With that decided, he just spent the rest of the day on his bed, cycling his mana and refining his essence endlessly. It was boring. Pushing his limits, he also actively forced [Regeneration], [Mana Sonar], [Focus], and [Warforged] to run all at the exact same time.
+
+He had figured out a pretty neat trick recently.
+
+Running his skills together in a synergistic loop basically brute forced them to level up way faster, even if it was ridiculously hard to maintain or do in the first place.
+
+Combining them all was basically a massive multitasking headache.
+
+Using [Focus] to keep his mind sharp, he constantly pulsed his [Mana Sonar] around the edges of the tent.
+
+And at the exact same time, he actively pushed [Regeneration] to soothe his exhausted body while flexing [Warforged] to continuously harden his skin. All the while, he refined essence and cycled and absorbed more mana, and also tried to control it inside himself.
+
+Sometimes, he pushed it out of himself and created a construct but that was when things got too hard and he gave up. [Focus] could only help him so much.
+
+Yeah, it sucked.
+
+But the results were definitely worth the migraine.
+
+[Focus Lvl 11 > Lvl 12]
+
+[Mana Sonar Lvl 5 > Lvl 6]
+
+[Warforged Lvl 3 > Lvl 4]
+
+Opening his eyes, Ben finally dropped his cycling technique and stepped out into the camp.
+
+It was honestly a massive place.
+
+Looking around, the whole setup felt a lot more like a ridiculous festival than an actual camp. There were just a ton of noble kids wandering around everywhere. And they typically never bothered him. To them, he was just another random, boring face in the crowd.
+
+Spotting a few older nobles in the distance, he noticed their tents were pitched much farther away.
+
+They tended to just stick to themselves entirely. And they clearly didn't give a shit about the younger ones. Because at the end of the day, this whole ordeal was supposed to be a strict test specifically for the young boys and girls.
+
+Anyway, shoving his hands in his pockets, he eventually reached the arena area.
+
+There wasn't a massive crowd gathered around like he had expected, but there were definitely a lot of spars happening simultaneously across the raised earth platforms.
+
+Glancing around, he realized the audience was mostly just people awkwardly waiting for their own turn to fight and the occasional observer there to just enjoy the show.
+
+Interesting.
+
+He honestly thought they would be way more interested in watching and judging each other.
+
+But oh well.
+
+It really didn't matter to him in the end.
+
+Finding a quiet spot near the edge, he just waited. And waited. And waited some more. Until Brian finally strutted up looking like he owned the damn place. They waited for a while watching the spars. Hearing their names called, it was finally their turn to head onto the stage for the spar.
+
+Stepping up onto the wooden platform, Ben just stared blankly across the arena.
+
+Brian immediately flashed him a wildly arrogant smile.
+
+"Don't cry on me now."
+
+The guy cracked his knuckles.
+
+"I'm gonna break your bones."
+
+Ben just blinked at him, completely unamused.
+
+Is this guy for real?
+
+"Are you deaf? I said I'm going to make you beg."
+
+Ben didn't even bother offering a response.
+
+Which obviously just made Brian all the more furious. "Acting tough now, huh? Let's see how long that mute act lasts when I shatter your ribs."
+
+It was just a genuinely annoying conversation.
+
+Or rather, a totally one-sided rant where Ben didn't partake at all, but Brian just kept running his mouth.
+
+Just shut up already so I can pummel you into the dirt and be done with this farce.

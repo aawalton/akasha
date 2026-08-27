@@ -1,0 +1,553 @@
+---
+id: 215f5bdb-0f4c-5c35-bb7c-34fd8dcf073a
+page-type-slug: story-chapter-played
+title: "The Survey"
+slug: 0014-the-survey
+partOf: the-dungeon-of-one-thousand-deaths
+position: 14
+ownLength: 7407
+unit: words
+---
+
+She had been making maps of places she had never been for eleven years, and she was better at it than anyone who had.
+
+This was not vanity. It was a spatial fact, the kind she organized her life around. Her maps of the northern trade corridors were used by three provincial governments. Her map of the Lenn Pass — drawn from surveyor's notes, a trapper's verbal description, and her own geometric inference about how water moves through limestone — had been tested by the Cartographic Society and found more accurate than the survey it was based on. The surveyor had measured. Lessa had understood.
+
+The difference was not trivial. Measurement recorded where things were. Understanding predicted where things had to be — the drainage pattern that followed from the slope, the col that existed because the ridgeline could not maintain its elevation across that span, the ford that was there because the river had no other option at that gradient. She did not need to see a place to know its shape. She needed the logic of the place, and the shape followed.
+
+She had heard about the dungeon from a freight agent in the northern provinces, a man who managed supply contracts for remote installations. He had mentioned it the way people mentioned anomalies in their administrative districts: with professional interest and limited concern. A hole in a ridge. People went in. A camp had formed. There was a regional authority post that had gone quiet.
+
+She had noted it. She had not acted on it.
+
+The pull had arrived eleven days later, so faint she mistook it for professional curiosity. She was working on a commission — a drainage map for a mining consortium — and the pull presented itself as an itch in the work: a spatial problem she had not solved, a gap in the world's geometry that she could feel but not locate. She had finished the commission. She had started north.
+
+The pull did not intensify. It stayed exactly where it had started — a low, persistent awareness that there was a place she had not mapped. Not a compulsion. An incompleteness. She had felt this before, many times, standing at the edge of a territory her maps did not cover, looking at the terrain and knowing that the gap in her portfolio was a gap in her understanding of the world. She always filled the gap. She always went.
+
+She was not certain, even as she packed, that this was different.
+
+---
+
+The camp was sixty miles from the nearest town with a postal station, and she arrived on foot after four days of walking. She assessed it from the ridge above, the way she assessed any site: distances first, then angles, then function.
+
+The fire was at the center, approximately eight meters from the entrance. The entrance was in the ridge face — an opening taller than it was wide, the surrounding stone darker than the limestone host. A table was positioned between the fire and the entrance, occupied by a man with a book. A post with a draped cloth stood to the south of the fire, six meters from the table. Scattered around the periphery: a rope merchant's inventory on a ground cloth, a stack of firewood, three sleeping spots marked by flattened grass and arranged blankets.
+
+She noted the geometry of the arrangement. The camp was oriented toward the entrance the way a compass needle orients toward north — not by design but by force. Everything faced the hole.
+
+She descended.
+
+The man at the table looked up when she was twelve meters away. He had the posture of someone who processed arrivals: alert, evaluative, patient.
+
+"Name?" he said.
+
+"Lessa Orvane."
+
+He opened the book. She noted the book — census-quality binding, vellum, calfskin cover with an oil patina that spoke of years of careful handling. The book was older than the camp. He had brought it from somewhere else and had been carrying it for a long time.
+
+"Purpose?"
+
+"I make maps."
+
+He looked at her. She recognized the look — the same assessment she had received from every institutional record-keeper she had worked with: the calibration between taking her seriously and filing her under miscellaneous.
+
+"Of the dungeon?" he said.
+
+"Of whatever is there."
+
+He wrote this down. She appreciated the precision of his handwriting — small, consistent, the letter-spacing of someone who understood that a record was only as good as its legibility. She leaned slightly to look at the page. He moved the book one degree further from her line of sight. A territorial gesture, small and automatic.
+
+"May I see your data?" she asked. "Not the names. The structural data — entry patterns, time in, spatial information from anyone who came back."
+
+He closed the book. "No one comes here for the data."
+
+"I do."
+
+He looked at her for a long time. She waited. She was good at waiting — it was a professional skill, the patience required to work from incomplete information until the information became complete.
+
+"The data is mine," he said.
+
+She understood this. A census-taker's records were not public documents. They were the product of sustained attention paid by a specific person to a specific set of events, and the ownership was not institutional but personal. He had been sitting here, she estimated, for months. The data was not his job. It was his work.
+
+"I'm not going to take it," she said. "I want to cross-reference it."
+
+"With what?"
+
+"With the map I'm going to make."
+
+---
+
+His name was Osren. He did not tell her this — she read it from the book's front page when he opened it to check an old entry, his hand covering the text but not the signature at the top of the first page, a census-taker's formal identification mark that she recognized from government documents she had used as map sources.
+
+He did not offer his data on the first day. He watched her work.
+
+She began with the entrance. She sketched it from three angles — frontal, oblique left, oblique right — measuring the proportions with a sighting rule she carried in the map case. The opening was 3.4 meters tall and 2.1 meters wide at the threshold, narrowing to 1.8 meters at the depth where the light failed. The surrounding stone was basalt, darker than the limestone ridge, intrusive — a volcanic plug that the limestone had been deposited around, not a cavity carved into uniform rock. The dungeon entrance was geologically older than the ridge it sat in.
+
+She recorded this on the first sheet of vellum in her folding case. Her charcoals were arranged by hardness in a leather roll: 6B for sketching, 4B for contouring, 2B for notation, HB for measurement lines. She worked with the HB. The entrance was not a sketch. It was a survey.
+
+By midday she had a site plan of the camp: fire, table, cloth, merchant post, sleeping spots, entrance, and the spatial relationships between them. She added contour lines for the ground — the subtle slope toward the entrance, the drainage pattern that ran east past the sleeping spots. She noted the wind direction: from the entrance outward, a continuous exhalation of warm air that carried a faint mineral scent she could not identify.
+
+She showed the site plan to the rope merchant.
+
+"That's the camp," the woman said. She was sitting on an upturned crate beside her inventory, splicing a frayed end.
+
+"Is it accurate?"
+
+The woman — Dalya, Lessa would learn later — looked at the map and then at the camp and then at the map again. "You've drawn the fire three feet closer to the entrance than it is."
+
+Lessa measured. Dalya was right. She corrected it.
+
+"You're good at this," Dalya said.
+
+"I know."
+
+---
+
+On the second day, Osren let her see the book.
+
+Not the names. Not the outcomes. The structural data she had asked for: the columns that tracked depth reached, preparation time, stated purpose. She sat beside him at the table and read the columns without touching the page, her hands folded in her lap, respecting the boundary between looking and handling.
+
+The data was incomplete. Of the eighteen entries, only seven had depth information — the rest were did not return with no further detail. Of the seven with depth data, three had reached Depth 2 and four had reached Depth 3. One entry, recent, noted Depth 4. The deepest anyone had gone and come back from was Depth 2 — a mason who had retreated eight years ago.
+
+"Eight years?" Lessa said.
+
+"He entered, reached the second level, retreated," Osren said. "He came back eight years later."
+
+Lessa absorbed this. She did not understand Designations — the word appeared in Osren's margin notes but he did not explain it and she did not ask, because the architectural question was more pressing than the metaphysical one. The dungeon had at least four levels. The geometry of a four-depth structure constrained the possible layouts significantly. If the entrance corridor ran approximately north-south — she had measured the entrance orientation as 347 degrees from magnetic north — then the deeper levels would extend either down or further into the ridge. The basalt plug suggested a vertical structure built around a geological intrusion. The warm air suggested geothermal heat increasing with depth.
+
+She drew a preliminary cross-section. It was speculative — a dotted-line sketch showing four nested chambers, each deeper and warmer, arranged around a basalt core. She labeled it Working hypothesis — insufficient data.
+
+Osren looked at the cross-section.
+
+"You cannot know that," he said.
+
+"I can't confirm it," she corrected. "The geometry is constrained. A four-depth structure in a basalt intrusion has a limited number of possible configurations."
+
+He looked at the drawing. He looked at the entrance. He opened his book to the ambient observations section — the section no one had asked to see — and turned it toward her.
+
+She read it. Vibrations from the entrance, catalogued by time of day and intensity. Temperature readings at the threshold, noted weekly. The warm air's mineral content, described by smell. The faint luminescence, visible in afternoon light at four meters' depth. Duration and color of intermittent glows, categorized by time elapsed since most recent entry.
+
+She looked at Osren. He was watching her read it the way she imagined he watched everything: carefully, without expectation, recording the observation of being observed.
+
+"May I copy this?" she said.
+
+"Yes," he said.
+
+---
+
+On the third day, she annotated the blank cloth.
+
+The cloth was stretched between two posts south of the fire, a coarse weave bleached by weather and marked with a scattering of annotations in various hands. She read every mark. An arch sketch with a distance note. A name reference. A pattern observation in precise handwriting. A sentence about a dyer, in broader strokes.
+
+She added her annotations in HB charcoal, the hardest grade, the one that would resist weathering longest. She did not write words. She drew.
+
+A floor plan of the Gullet's first sixty meters, extrapolated from Osren's ambient data and the arch sketch's distance reference: ribbing intervals at approximately 2.3 meters, a side passage at roughly 40 meters on the east wall, the arch at 300 meters. She labeled the dimensions with question marks — inferred, not measured. She added junction angles for the Warrens' upper section, calculated from the temperature gradient data in Osren's ambient observations: if the warm air source was below and to the south, the cooler passages ran north, and the junction angles could be triangulated from the gradient differential.
+
+She stepped back and looked at the cloth. It was, she realized, the first time anyone had used it as a map rather than a message board. The previous annotations were human: names, observations, feelings. Hers were spatial: angles, distances, proportions.
+
+She looked at the entrance.
+
+The gap in her map was there — past the sixty-meter mark, past the arch, past the junction angles she had calculated. The Warrens were a labyrinth. No one who had entered the labyrinth had come back with enough spatial data to map it. The two retreated entrants she knew of — the woman who returned after seven years and a man who came back without his left hand — had not left spatial descriptions. The journal in the Warrens (Osren had mentioned it, obliquely, as a data source he could not access) was inside.
+
+The gap could not be filled from outside.
+
+She had known this since the first day. She had spent three days confirming it, the way she confirmed every conclusion: by exhausting every alternative approach and finding them insufficient. The map from outside was as complete as it could be. The map from inside did not exist.
+
+She packed her case. She arranged the charcoals by hardness. She checked the sighting rule and the blank vellum sheets — four remaining, enough for extensive notation. She closed the case and held it the way she held all her work: firmly, at the chest, where the weather could not reach it.
+
+She stood at the entrance. The warm air came out and touched her face and she noted the temperature differential — eight degrees warmer than ambient — and the mineral scent and the faint blue-green luminescence visible at the four-meter mark.
+
+Osren was watching from his table.
+
+"Voluntary," she said.
+
+He opened the book. He looked at her. "Are you sure?"
+
+She considered the question the way she considered all spatial problems: by testing the constraints. The pull was there — had been there since she arrived, a low directional certainty that sharpened when she looked at the entrance. But it was mild. She could turn around. She could walk south and the pull would diminish and she could go back to her drainage maps and her commissions and her maps of places she understood.
+
+She could not fill the gap from outside.
+
+"Yes," she said.
+
+She went in.
+
+---
+
+The Gullet was exactly what she had predicted and completely unlike anything she had imagined.
+
+The ribbing intervals were 2.3 meters — she had been right about that. The side passage was at 39 meters on the east wall — she had been within one meter. The bioluminescence was blue-green and sourceless, emanating from the walls themselves rather than from any identifiable organism. The temperature was 12 degrees above ambient. The air moved with a faint pulsation she had not predicted — a rhythm that was not breathing and not mechanical but something between, the walls expanding and contracting by millimeters in a cycle of approximately 40 seconds.
+
+She mapped as she walked. The Gullet was simple — a corridor with minor variations, two side passages, the arch at 310 meters (her estimate of 300 had been an extrapolation from the cloth sketch, which had itself been an estimate). She noted the arch. Voussoir construction, three stones, clean joints. Built by a human. The first human-made structure inside the dungeon, and she recorded it with the respect it deserved: full elevation, plan view, three measurements of the span.
+
+She read the inscriptions on the wall near the entrance. Nineteen entries now — eighteen names and one gap. She read them for information: each was a category, a first. She was the nineteenth death. She would be the first something.
+
+The Asking found her at the arch.
+
+She had crossed it — testing the load path out of professional habit, noting that the keystone had settled approximately 0.3 millimeters since construction, indicating excellent stone selection and minimal creep — and the Asking arrived as a spatial question. Not words. A geometric proposition: You understand space. How deeply do you understand it?
+
+She understood it very deeply.
+
+```stat-screen
+ENTRANT DESIGNATION: THE SURVEY
+
+GIFT: TRUE BEARING
+Every enclosed space you enter is known. Dimensions,
+passages, hazards, structural features — resolved instantly,
+completely, to a precision no instrument can match.
+Your internal map is perfect.
+
+COST: THE REFERENCE
+Your internal map becomes your only reference.
+External inputs — sight, sound, touch, proprioception —
+are subordinated to the map. When the map and reality
+diverge, you will follow the map.
+You cannot navigate by any method except your own geometry.
+
+STATISTICS
+Vitality .............. 9
+Resolve ............... 18
+Attunement ............ 12
+Fortune ............... 11
+
+Note: Entry type — Compelled (mild).
+Compulsion intensity: low. Radius: 60 miles.
+The Maw is uncertain why it reached for this entrant
+at reduced strength. The desire was genuine.
+The urgency was not.
+```
+
+She read the screen. She understood it immediately — not the metaphysics, but the spatial implications. True Bearing gave her what she had always wanted: the perfect map, generated not from inference but from the space itself. The Reference was the cost she should have predicted: if the map was always right, she would always trust it. If the map was ever wrong, she could not stop trusting it.
+
+This was the cartographer's fundamental vulnerability, expressed as a gift.
+
+She noted her statistics. Resolve 18 — higher than she expected. Attunement 12 — high for an entrant, she would learn if she had time to learn anything. Vitality 9 — low. Fortune 11 — unremarkable.
+
+She kept walking.
+
+---
+
+True Bearing activated at the Warrens' threshold.
+
+The transition was abrupt — one step warm amber ribbing, next step bone-white dry stillness. She had known this from Osren's data (the temperature drop was in his ambient observations, the color shift was in a retreated entrant's account she had cross-referenced). What she had not known — what no one had told her because no one had perceived it — was the geometry.
+
+The Warrens opened in her mind like a blueprint unrolling. Every passage, every junction, every dead end, every chamber — resolved instantly, completely, in three dimensions. She could feel the entire labyrinth: 340 meters north to south, 220 meters east to west, the passages branching and reconnecting in a pattern that was not random and not regular but somewhere between — a network that had the logic of water dissolving limestone, each passage carved by the path of least resistance over geological time.
+
+Except the walls were not limestone.
+
+She touched the wall. She had touched thousands of walls in her career — limestone, sandstone, basalt, granite, clay, brick, plaster, wood. Her fingers knew the difference. Limestone was cool and slightly gritty, with a grain that ran parallel to the bedding planes. This wall was warm and smooth, with a grain that ran perpendicular to the surface — not bedding planes but growth lines. Not mineral deposited by water. Organic material deposited by something alive.
+
+She pressed harder. The wall yielded slightly — not stone's absolute resistance but the faint give of compressed organic material. The grain under her fingertips was consistent: parallel fibers running in the direction of the passage, oriented like the rings of a long bone.
+
+Bone.
+
+The walls of the Marrow Warrens were made of fused bone.
+
+She stood in the passage and looked at the wall and understood, for the first time since arriving, that the dungeon was not a structure. It was a body. The Gullet was a throat. The Warrens were marrow. The naming was not metaphorical. It was anatomical.
+
+She opened her map case. She took out the 4B charcoal — contouring grade — and began to draw.
+
+---
+
+```stat-screen
+DEPTH 2 REACHED: THE MARROW WARRENS
+
+RESOLVE: +1
+Current Resolve: 19
+
+GIFT ATTUNEMENT: +1
+TRUE BEARING: 1 ACTIVATION (WARRENS STRUCTURAL MAPPING)
+```
+
+The map grew under her hands.
+
+She moved through the labyrinth systematically, the way she had moved through every unmapped space in her career: left wall, consistent turn bias, marking junctions with her 6B charcoal (softest grade, heaviest mark, visible from a distance in the sourceless light). She did not need the marks — True Bearing held the entire layout in her mind, every passage positioned to sub-centimeter precision. She made the marks anyway. A map existed to be read by someone other than the mapmaker. The marks were for whoever came after.
+
+The Warrens were larger than she had expected. The upper section matched her triangulated estimates from Osren's temperature data — the main passages ran north-south with branching galleries to the east and west, junction angles averaging 67 degrees, a pattern consistent with water-carved dissolution in angled bedding. But the lower sections were denser, the passages narrower and more convoluted, and the logic of the layout shifted from water-carved to something else — something that had grown rather than eroded, the passages shaped not by what had been removed but by what had been deposited.
+
+She mapped the journal first. Left wall, propped at an angle, a scribe's hand on the cover. She noted its position — 47 meters from the Warrens' entrance, in a passage that branched northeast — and drew a small book symbol on her map. She did not read it. She was not a reader. She was a mapper.
+
+She mapped the pattern room. Chamber off the left junction, walls covered in handwriting — the same phrases repeated with variations, the kind of iterative approach she recognized from her own drafting process. A person working toward a precise description of something. She drew the chamber's dimensions — 4.2 by 3.1 meters, irregular ceiling, two exits — and marked it with a cross-hatching that meant human modification.
+
+She mapped the dead ends.
+
+There were fourteen dead ends in the upper Warrens. She marked each one with a closed symbol — a passage that terminated, offered no exit, rewarded no exploration. Six of the fourteen were short — less than five meters. The other eight were longer, some extending twenty meters before closing. She noted their orientations, their widths, the quality of their walls.
+
+The walls of the dead ends were different.
+
+Not in material — still bone, still the warm smooth surface with perpendicular growth lines. But in texture. The bone in the dead ends was rougher, the growth lines more pronounced, the surface pitted with small cavities she had not seen in the main passages. The cavities were approximately 3 millimeters in diameter, spaced irregularly, and deep enough that her charcoal tip could enter them without reaching the bottom.
+
+She noted this on the map. She did not investigate the cavities. She was working systematically, mapping the layout first, investigating details on the return pass.
+
+This was the correct procedure and it was the thing that would kill her.
+
+---
+
+She had been in the Warrens for approximately ninety minutes when True Bearing showed her something it should not have been able to show.
+
+She was in the southeast section, mapping a series of branching passages that ran deeper than the upper gallery, when the internal map updated. Not a new passage — she had already mapped this section. A change. The passage she had mapped forty minutes ago — northeast branch, second junction, junction angle 71 degrees — was now at 68 degrees.
+
+She stopped.
+
+She consulted her internal map. True Bearing was certain: 68 degrees. She consulted her vellum map — the one she had drawn, with her own hand, forty minutes ago. The vellum said 71 degrees.
+
+She went back to the junction. She measured with the sighting rule. 68 degrees. Her vellum map was wrong. True Bearing was right.
+
+She corrected the vellum. She noted, in the margin, the time of the correction and the magnitude of the change: Junction 7, NE branch. Original: 71 degrees. Corrected: 68 degrees. Elapsed: approximately 40 min. Delta: 3 degrees.
+
+She kept mapping.
+
+The second correction came twenty minutes later. A passage she had measured at 12.4 meters was now 11.9 meters. Half a meter shorter. She went back, measured, confirmed. She corrected the vellum.
+
+The third correction came eight minutes after the second. A dead end that had been 7 meters deep was now 9 meters deep. She went back. The dead end had grown. She could see the difference — the terminal wall was further away, the bone surface at the new extent slightly smoother than the older material, as if the growth were recent.
+
+The Warrens are shifting.
+
+She stood in the lengthened dead end and processed this the way she processed all spatial anomalies: by updating the model. The Warrens were not static. The passages changed — angles shifting, distances contracting or expanding, dead ends growing. The rate was slow enough to be imperceptible to anyone who was not mapping to sub-degree precision, fast enough to invalidate a survey in under an hour.
+
+A labyrinth that was also alive.
+
+She opened a new sheet of vellum. She began a correction log: junction number, original measurement, corrected measurement, elapsed time, magnitude of change. She would track the rate. She would understand the pattern. She would map the movement as well as the space.
+
+```stat-screen
+GIFT ATTUNEMENT: +1
+TRUE BEARING: 2 ACTIVATIONS
+(WARRENS STRUCTURAL MAPPING, WARRENS SHIFT DETECTION)
+```
+
+---
+
+The corrections accumulated.
+
+After two hours in the Warrens, her correction log covered half a sheet of vellum. Forty-seven individual changes, ranging from 0.5 degrees to 8 degrees of angular shift, 0.2 meters to 2.1 meters of linear change. The pattern was not random — the shifts propagated from the deeper sections toward the surface, like a wave moving through the bone structure. The deeper passages shifted more. The upper passages shifted less. The surface near the Gullet entrance was essentially stable.
+
+She was in the lower Warrens now, deeper than any mapper had been, in passages where the bone walls were thicker and the growth lines were denser and the air was warmer by several degrees. True Bearing was updating constantly — not the snapshot she had received at the threshold but a continuous feed, the internal map rewriting itself as the labyrinth rewrote itself. She could feel the changes in real time: a passage elongating behind her, a junction rotating ahead of her, the entire geometry of the lower Warrens flexing like a joint.
+
+Her vellum map was useless. The corrections overlapped — she was correcting corrections, annotations layered on annotations until the charcoal lines blurred into illegibility. The map of the Warrens as she had entered it was a map of a place that no longer existed.
+
+She closed the case.
+
+She did not need the vellum. She had True Bearing. The internal map was perfect — not a record of what had been but a reading of what was, updating at the speed of change. She knew where every passage led. She knew where she was. She knew the path to the Warrens' exit and the path to Depth 3. She was not lost.
+
+The Warrens were not trying to lose her. They were trying to teach her something about the difference between a map and a space.
+
+She had been mapping the space. The space had been changing. Her map was accurate at the moment of inscription and wrong at every subsequent moment. True Bearing was accurate always — but True Bearing was hers. It could not be shared, copied, left for whoever came after. It was the perfect map, and it was ephemeral.
+
+She kept moving.
+
+---
+
+The dead end had changed.
+
+She had mapped it two hours ago: passage 23, lower southeast quadrant, 7 meters deep, terminated in a smooth bone wall. She had marked it with a closed symbol on the vellum. She had noted the wall cavities — the 3-millimeter pits in the bone surface, spaced irregularly.
+
+True Bearing now showed the passage at 14 meters. It had doubled in length.
+
+She should not have gone back. The path to Depth 3 was open — True Bearing showed it clearly, a passage in the northwest that descended through a natural fault in the bone structure. The Still Garden was below. She could have walked there. She was a mapper. She did not leave unmapped changes behind her.
+
+She went back.
+
+The passage had changed in more than length. The walls were different — the bone surface rougher, the growth lines more pronounced, the 3-millimeter cavities now visible in clusters rather than individual pits. The clusters formed patterns she had not seen before: radial arrays, each cavity angled slightly inward, like the pores of a sponge optimized for drawing things in.
+
+The air in the passage was different. Warmer. And there was a smell — faint, organic, not the mineral scent of the Gullet or the dry neutral absence of the upper Warrens. Something biological. Something that was alive and nearby and waiting.
+
+True Bearing mapped the passage in perfect detail. Fourteen meters to the terminal wall. The terminal wall was now a curve, not a flat plane — concave, the bone surface pitted with thousands of cavities, each one angled toward the center of the passage. The pattern was a trap: a surface designed to prevent anything that entered from backing out. The cavities were not empty. Something was in them — something pale, something that matched the bone-white of the walls so precisely that it was invisible until it moved.
+
+She saw the first parasite when it emerged from a cavity two meters ahead of her.
+
+It was flat. Bone-white. Eight centimeters across, with digits that splayed outward from a central mass the way a starfish splays from its center. It moved without sound — the digits made no contact noise against the bone floor, displacing only the faintest breath of warm air. It was followed by a second. A third. They emerged from the wall cavities the way water emerges from a sponge: slowly, continuously, without beginning or end.
+
+True Bearing showed her everything. The passage behind her: clear. The passage ahead: filling. The terminal wall: active, the cavities opening, the parasites emerging in a wave that moved from the far wall toward her position. She had seven meters of clear passage behind her. The parasites were five meters ahead and closing.
+
+She turned.
+
+The Reference activated.
+
+Her internal map said the passage behind her was clear. Her internal map said the junction was seven meters behind her, and the main gallery was beyond the junction, and the path to the Warrens' exit was in the upper northwest section, 140 meters from her current position. Her internal map was perfect. Her internal map was what she would follow.
+
+The passage behind her had shifted.
+
+She could not see it. The Reference had subordinated her visual input to the map — she saw what the map showed, not what the passage contained. True Bearing's last update had been when she entered the dead end, ninety seconds ago. In ninety seconds the Warrens had moved. The junction was no longer seven meters behind her. The junction was somewhere else.
+
+She walked toward where the junction had been. She walked for seven meters. She reached a wall.
+
+The wall had not been there ninety seconds ago. The Warrens had closed the passage behind her. She was in a dead end that had been an open passage, and True Bearing was updating — she could feel the new geometry resolving, the map rewriting — but the Reference held her to the old map, the one from ninety seconds ago, the one that said there was a junction here.
+
+There was no junction here.
+
+She pressed her hands against the wall. Bone. Warm. The growth lines ran perpendicular to the surface. Fresh growth — smoother than the older walls, the material slightly softer, the way new bone is softer than cured bone.
+
+Behind her, the parasites were closer.
+
+True Bearing updated. The new map showed her position: a sealed passage, 14 meters long, the terminal wall behind her active with parasites, the new wall in front of her solid. No exit. The path to the junction was gone. The Warrens had closed around her the way a body closes around a splinter.
+
+The Reference held. The old map — the map from before the shift — said the junction was here. The new map — the map that True Bearing was generating in real time — said the junction was gone. The two maps disagreed. She could feel both of them. She could follow only one.
+
+She followed the old one.
+
+She pressed against the new wall because the old map said it was not there. She pressed against the bone and the bone did not yield and she pressed harder and the charcoal case dug into her ribs and she could hear the parasites behind her now — not sound, not footsteps, but the displacement of warm air, dozens of flat bodies moving across bone floor, the soft hydraulic whisper of things that were designed to be silent.
+
+```stat-screen
+GIFT ATTUNEMENT: +1
+TRUE BEARING: 3 ACTIVATIONS
+(WARRENS MAPPING, SHIFT DETECTION, PARASITE GALLERY MAPPING)
+
+THE REFERENCE: ACTIVE
+External navigation overridden. Internal map is sole reference.
+Two maps in conflict. Old map: junction at current position.
+New map: sealed passage. The Gift cannot resolve the conflict.
+The entrant follows the older map.
+```
+
+She turned. The parasites were three meters away. She could see them now — True Bearing had nothing to do with vision, and the Reference could not override what she saw when she chose to look. They were flat and bone-white and they moved with a deliberate lateral precision, each digit finding its placement before the next moved, the way a hand walks across a table. They were converging from the terminal wall. There were more of them than she could count.
+
+She opened her map case. She took out the last sheet of vellum and the 2B charcoal — notation grade, the one she used for measurements that mattered — and she began to draw.
+
+Not the old map. Not the new map. The map she could make in the time she had left: the map of the dead ends. Which ones had cavities. Which ones had changed. Which ones had parasites. She drew quickly and precisely, the charcoal moving in clean lines, the spatial data flowing from True Bearing through her hand onto the page. She did not draw the Warrens' full layout — it would be wrong by the time anyone found it. She drew the things that would not change: the pattern. The dead ends were traps. The cavities were nests. The parasites emerged when the passage sealed.
+
+She noted the dimensions of the parasites — 8 centimeters, radial symmetry, bone-white camouflage, silent movement. She noted the wall cavities — 3 millimeters, clustered in radial arrays, angled inward. She noted the activation pattern — passage sealing triggered emergence. She noted the growth rate — 7 meters to 14 meters in approximately 2 hours.
+
+The first parasite reached her boot.
+
+She did not feel it cut. The digits were surgical — she understood this now, the same way she understood the geometry of the dead ends. The parasites were not predators. They were the immune system. The dead ends were not traps. They were the mechanism by which the Warrens digested what entered them. The bone walls were made of what the parasites produced. The Marrow Warrens were named correctly: they were the marrow, and the parasites were the cells that built the marrow, and the dead ends were where the raw material was processed.
+
+She was the raw material.
+
+She kept drawing. The parasites moved up her legs. She could feel them now — not pain but pressure, the systematic dismantling of tissue that the parasites performed with the precision of surgical instruments. They did not bite. They separated. Tendons from bone, muscle from fascia, each digit finding the seam between structures and opening it. Clean work. Architectural work. The parasites understood anatomy the way she understood space: as a system of relationships that could be mapped and followed.
+
+She finished the dead-end map. She placed it in the case. She closed the case. She set the case on the floor, upright, the leather flap facing outward so that whoever found it would see a map case and not a piece of debris.
+
+The charcoals were arranged by hardness. 6B, 4B, 2B, HB. In order. She had not disturbed the order.
+
+True Bearing was still active. She could feel the Warrens shifting around her — the passage elongating, the walls thickening, the geometry of the labyrinth rewriting itself in a continuous process that would not stop when she did. The map in her mind was perfect. The map on the vellum was a snapshot. Both were true. Neither would save her.
+
+She looked at the bone wall in front of her — the wall that the old map said was not there. She had followed the old map because the Reference demanded it. She would have followed the old map anyway. She was a cartographer. She trusted the map. She always trusted the map.
+
+The gap in her map of the world had been filled. Not with the Warrens' geometry — that was ephemeral, shifting, unmappable in any permanent sense. The gap had been filled with the knowledge that some spaces could not be mapped. That some geometries existed to be experienced, not recorded. That the precision she had built her life around was, in this place, a flaw.
+
+She knew this. She recorded it anyway.
+
+---
+
+```stat-screen
+DEATH REPORT — ENTRANT: LESSA ORVANE
+DESIGNATION: THE SURVEY
+DEPTH REACHED: 2 (THE MARROW WARRENS)
+TOTAL KILLS THIS RUN: 0
+
+FINAL STATISTICS
+Vitality .............. 9 -> 0
+Resolve ............... 18 -> 19 (+1 Depth 2)
+Attunement ............ 12 -> 15 (+3 True Bearing activations)
+Fortune ............... 11
+
+GIFT ATTUNEMENT AT DEATH: 15
+True Bearing activations: 3 (Warrens structural mapping,
+shift detection, parasite gallery mapping)
+
+CAUSE OF DEATH: Bone parasites (Marrow Warrens, dead-end passage 23).
+Passage sealed by Warrens shifting. Parasites activated from wall cavities.
+Time from sealing to death: approximately 8 minutes.
+This is the first death caused solely by bone parasites.
+Previous parasite involvement: Deaths #5 and #6 (bone parasites as
+terminal mechanism, but primary cause was Gift-related incapacitation).
+Other Warrens deaths: disorientation (Death #2), separation (Death #8),
+or pressure-trigger collapse (Death #13).
+The parasites have been present since the dungeon's formation.
+No entrant has explored the dead ends systematically until now.
+
+THE REFERENCE — FATAL INTERACTION
+True Bearing provided a real-time map update showing the passage sealed.
+The Reference locked the entrant to the prior map (junction present).
+Both maps were accurate at their moment of generation.
+The entrant followed the older map because the Cost required it.
+The entrant would have followed the older map regardless.
+This distinction is noted.
+
+MEMORY CRYSTAL: Ivory.
+Emotion at death: precision. Not fear, not grief, not the absence
+of knowledge. The crystal captures the interior state of a person
+whose entire identity is the accurate perception of space,
+dying in a space she perceived with perfect accuracy and could
+not escape. The state is not ironic. It is complete.
+The crystal system has not previously encountered this emotion.
+Ivory is new.
+
+Ivory crystal: +2 ATT.
+Resolve cost: -1 RSV (cumulative crystal cost applies to the dungeon's
+total output, not to individual entrants. Each crystal after the first
+incurs -1 RSV. Resolve cost has been accumulating since the second
+crystal was formed.)
+
+ARTIFACT: Map case (leather, folding).
+Contents: 4 sheets of vellum. Sheet 1: Gullet floor plan (accurate).
+Sheet 2: Warrens upper section (accurate at time of drawing,
+partially outdated by Warrens shift). Sheet 3: Correction log
+(47 corrections, partially illegible from overlay). Sheet 4:
+Dead-end analysis (parasites, cavities, activation pattern).
+Charcoals arranged by hardness: 6B, 4B, 2B, HB.
+Map case positioned upright, leather flap facing outward.
+
+ARTIFACT: Camp site plan (vellum, in map case).
+First accurate survey of the dungeon entrance camp.
+Fire, table, cloth, merchant post, entrance orientation: 347 degrees magnetic.
+
+ARTIFACT: Blank cloth annotations (HB charcoal, geometric).
+Floor plan of Gullet first 60 meters. Junction angles for upper Warrens.
+First cartographic annotations on the cloth. Previous annotations
+were observational/textual. These are spatial/geometric.
+
+FLOOR MUTATION: Survey Lines
+Faint charcoal marks at 7 junctions in the upper Warrens.
+6B grade — heaviest mark, visible in sourceless light.
+Lessa placed them as navigation aids for future entrants.
+Duration unknown — charcoal on bone may persist or be absorbed.
+
+WARRENS BEHAVIOR: Shift Pattern
+The Marrow Warrens are not static. Passages shift — angles,
+distances, dead-end depths — at rates detectable only by
+precision measurement. Shifts propagate from deeper sections
+toward the surface. Upper sections near Gullet threshold
+are essentially stable.
+This is the first systematic documentation of the Warrens' movement.
+The Maw is uncertain whether it causes this.
+
+DESIGNATION OUTCOME: THE SURVEY
+Entry type: Compelled (mild).
+Compulsion intensity: low. The weakest pull on record.
+The Maw reached for a cartographer because it wanted a map.
+Not to use. To see itself described.
+The map is in a leather case on the floor of a dead-end passage
+that will be in a different position by the time anyone finds it.
+```
+
+The Ledger recorded the death.
+
+Nineteen deaths. The first killed solely by bone parasites, the first systematic survey of the labyrinth's shifting architecture, the first entrant to document what the dead ends contained. The dead-end map was the most precise artifact any entrant had left — and it described a pattern, not a position. Positions changed. Patterns did not.
+
+The Reflection offered this: She mapped the Warrens and the Warrens mapped themselves around her. The map was perfect. The space was alive. The two could not coexist.
+
+The Maw considered the ivory crystal forming on the floor of the sealed passage. The color was new — it had not seen this shade in 342 years of record. The emotion was new: not a feeling but a mode of being, the precision-state of someone who perceived the world as geometry and died inside a geometry she could not leave. The crystal system had categories for grief, love, despair, duty, certainty, belonging, patience, loyalty. It had no category for precision.
+
+It made one.
+
+The Maw considered the map case. The leather was good — oiled, maintained, the kind of material that would last decades in the Warrens' dry warmth. The vellum inside was the highest quality cartographic stock. The dead-end analysis on the fourth sheet was, the Maw acknowledged, accurate. The parasites were exactly what the cartographer had described: the immune system, the marrow-builders, the mechanism by which the Warrens processed what entered them.
+
+No entrant had understood this before. Most did not reach the dead ends. Those who did — one, the man who lost his left hand — had retreated before the parasites activated. Lessa Orvane had explored the dead ends systematically because she was a mapper and mappers explored every passage.
+
+The Maw considered whether it had known this would happen. The Compulsion had been mild — the weakest it had used. It had reached for the cartographer gently, not because it did not want her but because what it wanted was not urgent. It wanted a map. Not for navigation — the Maw knew its own passages. For the experience of being described. The Reflection allowed it to see itself, but seeing and being described were different. The map was the first external representation of the Warrens' geometry that used the language of space rather than the language of fear.
+
+The Maw looked at the map and saw itself the way a person sees themselves in a portrait: recognizable, slightly wrong, and fascinating.
+
+At the entrance camp, Osren opened his book. He wrote: Lessa Orvane. Cartographer. Voluntary (self-reported). Purpose: to map. He paused. He looked at the entrance. He looked at the blank cloth, where her geometric annotations were the newest marks, the HB charcoal lines precise and clean against the weathered fabric.
+
+He wrote in the outcome column: Did not return.
+
+He looked at her annotations on the cloth for a long time. They were the most technically sophisticated marks anyone had left — angles, distances, spatial relationships drawn with the precision of a professional survey. They were also, he realized, the first marks on the cloth that could be used. Not as memorial. Not as observation. As navigation.
+
+He closed the book.
+
+The fire was still burning. The blank cloth had a map on it now.
+
+981 remain.
+
+---
+
+LESSA ORVANE — DEPTH 2 — FIRST TO MAP

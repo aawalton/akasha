@@ -1,0 +1,153 @@
+---
+id: 3e3a6a6c-e306-5997-b9af-31894d71877a
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch21: Awake With Venom"
+slug: 0028-b6-ch21-awake-with-venom
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 28
+ownLength: 1538
+unit: words
+ownProgress: 1538
+publishedAt: 2025-08-21
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2536932/b6-ch21-awake-with-venom"
+royalRoadId: "2536932"
+removedAt: "2026-07-03T13:47:54.004Z"
+---
+
+The moment the portal closed behind them, leaving them within Dark Rower’s realm, it was as if Cressida and Joy snapped back to full wakefulness.
+
+Joy shook herself all over and, with two flaps of her wings, landed on the bank of the black water river.
+
+Cressida turned to Arthur, stunned. “I had no idea,” she said, still looking as if someone had smacked her over the head. Before he could react, she turned to Joy. “Dearest, are you all right?”
+
+“I am now. Wow.” She shook herself again. “It felt like my whole head was filled with cotton, but the really soft kind. My ears, too! I could hear you and my intuition was screaming at me, but it was like none of it got through. Wow,” she said again.
+
+Cressida’s smile was strained. “I think she’s fine.”
+
+Arthur helped her dismount as she still looked shaky. Once she was firmly on the ground, she looked up at him again. “Was that what it was like in the core of the eruption?”
+
+She meant the mind attack. “No,” he said honestly. “The core was stronger, but different at the same time. Less subtle, I guess.”
+
+“And there was no singing, I bet,” Joy added.
+
+“Singing?” It was only then he realized he had heard the singing, too. Actually, he’d heard it twice now. It was just with everything he had not fully registered it.
+
+Or, he realized with dread, he had been made to overlook it.
+
+“The Mind Singer,” Cressida said grimly. “But didn’t you tell me that she—It, I guess, it doesn’t matter—promised that they would go away from the kingdom?”
+
+“Well, I sort of went back on my word to it first.” Arthur let out a breath and shook his head. “This isn’t good. It didn’t look like to me there was an eruption, but it didn’t need one to make its nest in a hive last time. My guess is it’s done so at the Rowantree Estate.”
+
+And the only reason why it would do that was to get at him.
+
+“So, do we grab Blood Moon hive and go destroy it? You’re the leader now. You can order that,” Joy said.
+
+She had a point and that was his first instinct, except…
+
+“That will be giving her more people to put under her sway. I do have more of those mental blockers, but I think we’ll need more power behind us.” He looked apologetically at Cressida.
+
+She smiled wanly back at him. “More power than your poor Rare ranked retinue can give you?”
+
+“It has to be a decisive strike,” he agreed. “And I think I’ll need more power than even Sybil or Desmond can give me. Not that they’re good for much, but a Legendary is a Legendary.”
+
+He sighed as another thought hit him. “And I know just where to get it. Come on.” He gestured to the rowboat and addressed the waiting rower. “Back to Blood Moon hive.”
+
+****
+
+Brixaby was still asleep, both to his relief and slight consternation. Night had fully fallen in the hive, and he suspected his dragon would not wake until at least dawn.
+
+And dawn was when he had an appointment to see Buck Moon Hive’s leader.
+
+Arthur excused himself for sleep, but he couldn’t help stopping by the records room to see if he could lend a hand unsorting decades of mess.
+
+He was summarily kicked out and ordered to sleep. Healer’s orders.
+
+Arthur grumbled to himself, fell into the stupidly overlarge bed, and was instantly unconscious.
+
+Four hours later, he was woken from an utterly dead sleep by a roar.
+
+“What’s this? What’s THIS?!” Brixaby demanded. “How did I arrive back at this hive? Arthur, where are you?”
+
+Arthur was up and out of bed almost before he realized what was going on. He’d been wrong. Brixaby had not waited for dawn.
+
+He raced out and found his dragon wide awake, looking much like his normal self except for being a little bigger and more muscular. There was also another visible difference.
+
+“What happened to your claws?” Arthur asked.
+
+“What about my claws? They are magnificent! They are… glowing?” Brixaby held his foreclaws up to his face to examine them.
+
+Sure enough, the tips of his curved dagger claws were visibly glowing green in the pitch-black night.
+
+“Ooooh, I bet you have venom in them!” Joy said. It seemed she had been sleeping nearby. “Look, we match!” She held up her own green tinged arm and grinned a big dragon grin.
+
+“Indeed we do,” Brixaby marveled. Then he turned to Arthur again. “But how did I arrive back at my hive?”
+
+It seemed he wasn’t the only one who was starting to think of this place as home. Then again, Brixaby had always been possessive.
+
+Arthur crossed his arms and leveled a very unimpressed look at his dragon. “You ate the venom card and then passed out.”
+
+Brixaby drew himself up to his full height.
+
+“I did not pass out. I was… I was merely assimilating the newest card efficiently!”
+
+By this time, the rest of his retinue had arrived. Their expressions ranged from a mix of grumpy sleepiness to curiosity.
+
+Horatio smirked at Arthur.
+
+“Nice shorts.”
+
+Only then did he remember he had stripped down before he went to sleep and wasn’t even wearing a shirt. Soledad and Cressida were grinning, too. Arthur grabbed a shirt from his Personal Space and put it on.
+
+Then he looked at his dragon. “Well? Did you get anything good out of it?”
+
+“Of course I did!” Brixaby said, then shared the list with him. As he did, the green edge receded from the tips of his claws.
+
+“Aw,” Joy said. “I liked the green.”
+
+“You may see it again any time you wish,” Brixaby replied. “But I would like to be able to forge weapons without accidentally poisoning a paying client. Though,” he considered, “I believe there may be some utility in enchanting a sword to also be venomous. I shall look into it.”
+
+Arthur ignored the byplay and carefully read through what Brixaby showed him.
+
+Venom Claws
+
+Choice of:
+
+Hemorrhagic Bleeding
+
+Hallucination
+
+Respiratory Paralysis
+
+Corroding Acid
+
+Plague
+
+Memory Erasure
+
+Most of the time, when he added a card to his Call of the Void, he received a stripped-down version of the card’s power. This time, he received more of the card’s power than usual. Was that because he was growing up and getting more powerful? Or just luck of the draw?
+
+A whisper of silent insight from his Master of Cards told him it was a little of both. Brixaby could not always depend on gaining so much when he broke down a powerful card to add to his Call of The Void, but it was also true that he was growing all the time.
+
+In any case, the conversion had cost him several venom types—Daytime Nightmares would have been interesting for crowd control, but he could substitute that for his Nightmare Fire. The same went for the ability to ‘mist’ out the venom. With it concentrated in his claws, he would have to apply it through direct contact and slashing.
+
+Arthur felt on balance that it was a good trade. Something did bother him, though.
+
+“Brix, there wasn’t any mention in the card or in your new abilities about being able to remove the venom from your claws. How are you doing that?”
+
+“It is my card. Why should I not have direct control over it?” Brixaby demanded.
+
+Arthur gave him a stern look. That wasn’t an answer.
+
+His dragon held for a moment then finally shrugged his top set of wings. “I have always had the natural ability to nullify magic as I need, though I may not have been as… diligent as I could have been in the past. Plus, your Master of Cards provides insight on reducing any card influences I do not want.”
+
+Joy looked at her own green-tinged arm. “Do you think you could do that for me?”
+
+“Dearest, you’re fine the way you are,” Cressida said, with a look of mild alarm that her dragon seemed to be unhappy with an aspect of herself.
+
+Even Brixaby seemed mildly uncomfortable. “It is an internal aspect rather than an external one. But!” he added with a gleam of challenge in his eyes. “I am a Legendary, which means I am the strongest and the best. Arthur has converted some of his Mental Blocking skills into an area of effect. Perhaps I may find a way to do the same.”
+
+“Yeah,” she said. “I’d just like to give hugs without worrying about accidentally necrotizing a friend.”
+
+“That’s great and all,” Soledad said. “But it’s like three o’clock in the morning, and I don’t know about y’all, but I’d like to get to sleep.” She looked at Arthur. “Emergency is over, boss?”
+
+It really wasn’t an emergency in the first place, but he appreciated his retinue waking up when Brixaby put up a shout anyway. Unfortunately, he had bad news for them. “Get to sleep,” Arthur confirmed. “But we’ll be waking up early. We have an appointment at Buck Moon in the morning, and I intend to make an entrance.”

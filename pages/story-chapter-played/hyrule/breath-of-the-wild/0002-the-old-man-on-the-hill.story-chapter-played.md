@@ -1,0 +1,253 @@
+---
+id: f2633eb6-9207-561d-b984-296b03c85ac5
+page-type-slug: story-chapter-played
+title: "The Old Man on the Hill"
+slug: 0002-the-old-man-on-the-hill
+partOf: breath-of-the-wild
+position: 2
+ownLength: 4569
+unit: words
+---
+
+He woke to birdsong and the smell of someone else's fire.
+
+The old man's campfire had burned down to embers overnight, but the heat was still there — a low, persistent warmth radiating from the ash bed, keeping the cold at bay. Link lay on his side in the grass with the slate pressed against his chest and the bone club within arm's reach and the sky above him a pale, clean blue that looked nothing like the ceiling of the place where he'd first opened his eyes.
+
+His stomach spoke before his mind did. Hunger — not the vague discomfort of the day before but a sharp, insistent demand, the kind that narrows the world to a single question: where is food?
+
+He sat up. The old man was gone. The fire was tended — someone had added a log recently, because the embers were still drawing — but the spot where the old man had sat was empty. His cloak, his hood, the quiet weight of his attention: all absent. Link was alone with the morning and the hunger and the vast indifferent beauty of a place he still couldn't name.
+
+He went looking for food.
+
+The Plateau in the morning was a different landscape than the one he'd crossed at dusk. Dew clung to the grass and caught the early light, turning the hillside into a field of small fires. Birds darted between the trees — brown, quick, startled by his footsteps — and insects hummed in the underbrush with a low, continuous drone that felt like the Plateau breathing. The air smelled of wet earth and pollen and, faintly, smoke from a fire he hadn't found yet, carried on the wind from somewhere lower down the hill.
+
+He found apples first. The same gnarled trees as yesterday, branches heavy with red fruit. He shook the nearest trunk and three apples fell — a satisfying sequence, the thud of each one landing in the grass beneath. He ate one where he stood, juice running down his chin, and pocketed the others.
+
+Mushrooms grew near the base of a fallen log — pale-capped, clustered in the shadow where the bark had rotted soft. He pulled them free and the slate on his hip hummed, so faint he almost missed it. The screen showed a brief flash: an image of the mushroom, a name he didn't recognise. Then nothing. The device was tracking what he collected. He didn't know why. He took the mushrooms anyway.
+
+An insect landed on his forearm — green, long-legged, vibrating with a restless energy that made it hard to pin down. His hand closed over it before the thought to catch it had finished forming. His fingers knew: cup, don't crush. He held it for a moment, felt its legs ticking against his palm, and slipped it into his pocket with the apples.
+
+He found the axe near the treeline — leaning against a stump, its edge buried in the wood where someone had left it mid-swing. An axe, not a weapon, but his hands closed on the handle and his grip settled and the weight of it felt like an argument. Better than the bone club. Heavier. The kind of tool that could be a weapon if the world required it.
+
+He slid it through the back of his belt, alongside the bone club. Two weapons now. Neither of them built for fighting.
+
+The smoke was closer now. Not the old man's campfire — this was coming from below, from a low structure at the edge of a stand of trees. A cabin. Log walls, a neat roof, a chimney trailing grey into the morning air. An axe leaned against the outer wall, its head sunk into a stump. A woodpile stood beside the door, and the woodpile was the first thing that made him pause.
+
+Every log was the same length. Cut to identical measure, stacked with geometric precision, edges flush. Not the woodpile of a man surviving. The woodpile of a man with nothing to do but make things perfect.
+
+---
+
+The old man was inside, sitting at a rough table with a book open in front of him. He looked up when Link darkened the doorway, and his expression shifted from concentration to warmth so quickly that the concentration might have been imagined.
+
+"Ah," the old man said. "You found me. I was wondering if you would." He closed the book — a diary, its pages dense with small, precise handwriting that Link could see from the door. Too precise. Too measured. Not the hand of a man who lived alone in a cabin on a sealed plateau.
+
+The cabin was small. One room. A bed against the far wall, a table, a shelf of dried herbs. A cooking pot sat outside the door, iron and heavy, suspended over a bed of coals that the old man had already prepared. Everything was maintained with the same deliberate care as the woodpile. No dust. No disorder. A space held in readiness for a guest who had been expected for a very long time.
+
+"You're hungry," the old man said. It wasn't a question. He watched Link the way he'd watched him the night before — with the practiced attention of someone who read hunger the way other people read faces. "Sit. I have ingredients, but no one to cook for. You have hunger, but no skill. I think we can solve both problems."
+
+Link had already tried.
+
+While the old man was reading, Link had found the cooking pot — hot, ready, waiting — and dropped in what he had: an apple, a mushroom, and the insect from his pocket. He didn't know why the insect seemed wrong. The logic was: everything he'd collected was from the Plateau, the Plateau was edible, therefore everything went in the pot.
+
+The result was not edible. A grey lump, dense and matte, sitting in the pot like a stone that had been heated past patience. It did not move. It did not steam. When he poked it with a stick, it resisted — solid, mineral, a thing that had given up on being food and committed fully to being rock. The slate chimed — a shorter, flatter tone than usual, almost dismissive — but offered no notification. Even the device declined to acknowledge what he'd made.
+
+He ate it anyway. He had to gnaw at the edge, his teeth scraping against the surface, working loose a piece that tasted of char and mineral flatness and the ghost of an apple that had deserved better. His body accepted it without enthusiasm. The slate registered a full heart of recovery — his health bar restored — but his stomach disagreed with the device's assessment. He was still hungry. The rock had technically been food. Technically.
+
+The old man appeared in the doorway. He looked at the pot. He looked at Link. His expression was perfectly controlled.
+
+"You know," the old man said, "there is a recipe in my diary, if you'd care to read it."
+
+Link looked at the diary on the table. The handwriting was small and careful — formal in a way that nagged at the edge of his perception. He couldn't read most of it. But one entry had ingredients listed clearly: raw meat, a fish, a spicy pepper. He looked back at the old man.
+
+The old man was already laying out ingredients on a flat stone: a cut of raw meat, dark-red and cold; a fish — silver-scaled, pulled from a stream Link hadn't found yet; and three peppers, bright red, their smell sharp enough to make his eyes water.
+
+"The trick," the old man said, lifting the pot's lid, "is knowing what goes together. These three —" he gestured at the meat, the fish, the peppers "— belong in the same pot. They become more than their parts. That is cooking. That is the only magic I know."
+
+Link reached for the pot. The old man raised a hand.
+
+"Not yet. Watch first."
+
+He dropped the meat in. It hit the hot iron and hissed, and the smell that rose was immediate and deep — seared protein, rendered fat, the particular richness of food becoming more than raw material. Then the fish, its silver skin darkening on contact. Then the peppers, split lengthwise, their seeds hissing in the oil.
+
+The old man put the lid on. "Patience," he said. "The most important ingredient. People rush. Fire doesn't."
+
+They waited. The pot clicked and murmured. Steam escaped from under the lid in thin, fragrant lines, and the smell built in layers: meat, then pepper-heat, then the fish breaking down into something sweeter underneath. The old man sat with his hands on his knees, watching the pot the way he watched everything — as though waiting were a skill he'd had decades to perfect.
+
+When the old man lifted the lid, the steam that rose was dense enough to blur his face. Inside: a dish. Golden-brown, slick with pepper oil, the fish reduced to flakes and the meat tender enough to pull apart. It looked like a meal. It smelled like a promise.
+
+The slate chimed.
+
+```stat-screen
+    COOKING
+    ---
+    Spicy Meat and Seafood Fry
+    Effect: Restores 4 hearts | Cold Resistance (5:30)
+    Ingredients: Raw Meat, Hylian Bass, Spicy Pepper
+    ---
+```
+
+Link didn't wait for the old man to serve it. He reached into the pot with his bare hands — too hot, didn't matter — and pulled a piece of meat free and ate it standing up. The heat hit first, then the pepper, then the deep savoury warmth of the fish and the fat and the smoke. He ate with the focus of someone who'd discovered that the world contained this and hadn't known it yesterday. His second handful was bigger than his first. His third emptied the pot.
+
+The old man watched. He had served himself a portion, but it sat untouched on the flat stone beside him. His expression held the same caught quality as the night before — amusement and grief, tangled together, neither winning. He watched Link eat the way you watch someone do the thing they were made for.
+
+Link finished. He looked at the empty pot. He looked at the old man's untouched portion. The old man followed his gaze, then pushed the plate toward him.
+
+"Take it," the old man said. "I don't eat much these days."
+
+Link took it. He ate more slowly this time — not because the hunger was satisfied but because something in the old man's watching had shifted the act from desperate to shared. They sat by the fire, the cooking pot between them, the morning light warming the cabin's log walls. It was the first meal Link had eaten with another person. He didn't know why that mattered. It mattered.
+
+"You eat as though you're never sure when the next meal is coming," the old man said. The words had a weight to them that didn't match their surface — as though he'd heard someone else say them once, or would hear someone say them later, and the echo made him quiet.
+
+He stood. Went to a chest near the bed and opened it. Inside: a garment. Dark blue, quilted, heavier than Link's threadbare shirt. A doublet, lined with something soft.
+
+"The mountain to the north gets cold," the old man said, holding it out. "Very cold. Cold enough to kill, if you're not prepared." He looked at Link's thin shirt. "This will help."
+
+Link took the doublet. It was warm in his hands — warm the way the slate was warm, as though it contained its own heat. He pulled it on over his shirt. It fit. Of course it fit.
+
+"I had it made some time ago," the old man said. "For a traveller I was expecting." He adjusted his hood. Whatever he was about to say next, he decided against it. "The mountain can wait. There are other places to see first."
+
+---
+
+The Temple of Time stood in the Plateau's centre like a broken hand reaching for the sky.
+
+Link approached it from the west, through fields of knee-high grass dotted with wildflowers that shouldn't have been growing in the shadow of a ruin. The temple's walls were intact enough to form an enclosure — stone blocks fitted without mortar, their seams tight despite centuries of weathering. The roof was gone in places. Sky showed through gaps where the ceiling had surrendered to time, and birds nested in the eaves, their calls echoing off stone that had been carved to carry voices.
+
+He entered through what had been the main door — a stone archway twice his height, its carved figures worn to smooth, featureless shapes. Inside: a nave. Long, narrow, pillared. Grass grew between the flagstones. Ivy climbed the columns in slow, patient spirals. The light fell through the broken roof in shafts that caught the dust and held it, suspended, and the effect was less ruin than cathedral. The space was still doing what it had been built to do.
+
+His footsteps echoed. The acoustics were deliberate — designed to carry sound from the door to the far end, where something waited.
+
+A statue. Taller than him, carved from stone so pale it was almost white. A woman, robed, her hands folded in prayer, her face serene and smoothed by time until the features were suggestion rather than detail. The stone around her base was cleaner than the rest of the floor, as though the ruin itself maintained a perimeter of respect.
+
+Link stopped in front of her.
+
+The light fell differently here. The shafts through the broken roof converged on the statue as though the ruin had been designed to lose its ceiling in exactly this way — to let the sky in where it mattered most. Dust motes hung in the light like slow, deliberate snow.
+
+He didn't know who she was. He didn't know what prayer was, or worship, or the particular architecture of a place built to hold the sacred. But his body did something his mind didn't command: he stood straighter. His shoulders settled. His chin came up.
+
+The slate hummed against his hip. Not a chime — a pulse, low and continuous, the way it hummed near the Shrines. A recognition. He held the slate toward the statue, and the screen flickered: a dimmed prompt, symbols he couldn't read, then nothing. The interface was locked. Something was required that he didn't have.
+
+He touched the statue's base. The stone was cool and dry and very old, and his fingers traced the carvings there — geometric patterns, not Sheikah, older and less precise. Words in a script he couldn't read. He touched each letter. He understood none of them. He stayed a long time.
+
+"She has been here longer than the Temple," a voice said behind him.
+
+The old man was standing near the entrance, his cloak pulled close, his hood low. Link hadn't heard him enter. The old man was looking at the statue — not at Link, not at the ruin, at her — and his expression was the most unguarded Link had seen. Raw. The face of a man looking at someone he had failed.
+
+"Longer than the Plateau," the old man said. "Longer than most things."
+
+He adjusted his hood. He did not pray. He did not kneel. But he stood very still for a moment, and his hands — folded behind his back in a posture that looked trained, practised, like something he'd done in front of crowds — tightened until the knuckles went white. Then they relaxed. He breathed.
+
+Then the expression closed, like a door, and he was the old man again — warm, measured, slightly evasive. "There are ruins to the east," he said. "Old structures. You might find useful things there." He paused. "Be careful."
+
+---
+
+The Eastern Abbey was a skeleton.
+
+He found it by following the old man's direction — east, past the temple, through a stand of birch trees where the light filtered green and gold and the ground was soft with decades of fallen leaves. The ruins appeared gradually: first a wall, half-swallowed by ivy; then an archway, its keystone cracked; then the full structure, or what remained of it.
+
+Stone walls without a roof, pillars without arches, a courtyard open to the sky and choked with rubble and ivy. It looked like every other ruin on the Plateau — ancient, collapsed, harmless. Link entered through a gap in the wall, stepping over fallen masonry, the bone club in one hand and the slate on his hip.
+
+He saw the metal first.
+
+A dome, half-buried in earth and rubble. Mechanical. The surface was etched with patterns he recognised — the same geometric precision as the Shrines, the same Sheikah motifs. But the metal was corroded, pitted, darker than the Shrine's clean blue-gold. One articulated leg was visible, bent and embedded in stone, as though the thing had been walking and the ground had swallowed it mid-stride.
+
+An eye sat at the top of the dome. A lens, dark, unreflective. Black glass.
+
+Link moved closer. The thing looked dead. It looked like a fossil — the remains of something ancient and purposeful, preserved by accident, long past any function. He reached toward the corroded surface.
+
+The eye opened.
+
+Not opened — ignited. Pink-red light, nothing like the Sheikah blue he'd learned to associate with ancient technology. This was wrong-coloured. Corrupted. The light pulsed, then steadied, and the head swiveled — mechanical, precise, without the clumsy telegraphing of the creatures he'd fought yesterday. The eye found him.
+
+For a half-second, nothing happened. The eye watched. Link watched. The Plateau was silent.
+
+Then the birds stopped singing.
+
+All of them. Mid-call, mid-flight, as though the air itself had flinched. What replaced the birdsong was a sound Link had never heard — a mechanical whir, building, accompanied by a tone. A targeting tone. Rhythmic. Precise.
+
+*Tik. Tik. Tik.*
+
+A red line appeared in the air between the machine's eye and his chest. A thread of light, perfectly straight, steady as geometry. It was warm where it touched him. He could feel it through his shirt, through the doublet — a point of heat on his sternum, no larger than a fingertip, tracking him as he breathed.
+
+The slate vibrated. Not a chime. Not a notification. A warning — something below language, below the system, primal and urgent. His hip burned where the device pressed against it. The screen flashed. No words. Just light, pulsing, matching the rhythm of the tone.
+
+*Tik. Tik. Tik tik tik.*
+
+The tone was accelerating.
+
+Link moved.
+
+He didn't think. His body threw itself sideways — not a dodge, not a roll, a desperate full-body lunge behind the nearest wall. His shoulder hit stone. His teeth cracked together. And then the world behind him came apart.
+
+The beam was blue-white and nearly instant — a flash that printed itself on the inside of his eyelids, followed by a sound like the sky tearing in half. The wall he'd been standing in front of exploded. Stone fragments hit his back, his arms, the side of his face. Heat — real heat, furnace heat, the kind that dries the moisture from your eyes in a single breath. Dust. The smell of ozone, the same sharp mineral tang as the Shrine, but weaponised and enormous.
+
+He was running before the debris stopped falling. Not tactically. Not with the controlled precision his body had shown against the creatures at the camp. Running the way an animal runs — flat out, blind, every nerve devoted to the single question of whether the next second contained his death.
+
+The targeting tone followed. Behind the wall it paused. When he broke cover — sprinting across open courtyard, scrambling over rubble — it resumed. Faster now.
+
+*Tiktiktiktiktik —*
+
+He dove behind a pillar. The beam fired again. The pillar cracked — a sound like the world's largest bone snapping — and dust cascaded down and the stone shifted under his back and he pressed himself flat and made himself small and waited for the third shot that would find him.
+
+It didn't come.
+
+The tone stopped. The whir wound down. The eye's glow dimmed — not because the machine had lost interest but because he'd moved beyond its arc. It couldn't turn far enough. It was stuck, half-buried, its body locked in the earth. But its head was still tracking, still swiveling, still watching the gap between the stones where it had last seen him.
+
+He was out of range. He was alive.
+
+The silence that followed was its own kind of sound — the absence of the targeting tone, louder than the tone itself. Then his breathing, ragged and too fast. Then, distantly, tentatively, a single bird. Then another. The Plateau's soundtrack rebuilding itself one voice at a time, assembling around the hole the machine had torn through it.
+
+Link sat with his back against stone the machine couldn't see through and he breathed. His hands were shaking — the same hands that had fought three creatures with a stick, that had caught an apple without looking. They were shaking so badly he couldn't have held a weapon if he'd tried.
+
+He sat there until the shaking stopped. It took a long time.
+
+The bone club was still in his hand. He didn't remember gripping it during the run, but his knuckles were white around the handle and his fingers had locked in a way that required conscious effort to release. Four attack points. Twelve hits before the club broke. And the machine — the machine had taken a direct hit from its own debris, stone blocks the size of his torso slamming against its dome, and the metal hadn't dented. Hadn't scratched. His club against that surface would be a stick against a mountain.
+
+He looked at the sky. It was still blue. The clouds were still white. The Plateau was still beautiful. And somewhere behind him, in a ruin he would not enter again, a machine sat in the earth with its eye glowing and its targeting system patient and its beam capable of turning him to memory.
+
+The Plateau was not a sanctuary. The sealed edges that had felt like walls now felt like walls that kept things in — him and the machine, together, with nowhere for either of them to go.
+
+---
+
+The old man found him at the campfire near the temple. Or perhaps the old man had never left. He was tending the fire — adjusting a log with a stick, precisely, the way he did everything — and he looked up when Link came through the grass, and he saw Link's face, and he understood.
+
+He did not ask what happened.
+
+He shifted to make room beside the fire. He produced food — leftovers from the morning's cooking, wrapped in a broad leaf, still faintly warm. He set it within Link's reach and he waited.
+
+Link ate. The food was good but he barely tasted it. His hands had stopped shaking but the memory of shaking was still in them — a ghost-tremor, the echo of a violence his body was still processing. He was aware, distantly, that the food should have meant more — that this morning's cooking lesson had been warm and good and the food from that same pot should carry the same warmth. But the beam had burned a line through his afternoon, and everything before it felt like it had happened to someone else.
+
+The old man poured water from a skin. He set it beside Link without comment. He adjusted the fire — moving one log a quarter-turn, exactly, to open the draw. His movements were precise and unhurried and they said: I have been here before. Not this moment specifically, but moments shaped like it. Moments where a person came back from something terrible and needed someone who was not terrible to sit beside them.
+
+"Those machines," the old man said, after a while. His voice was steady. Not casual — steady, in the way of a man who had chosen to be steady for someone else's sake. "They've been here since before I can remember. Before most things I can remember." He watched the fire. "They cannot be reasoned with. They can barely be fought — not as you are now."
+
+He paused. The fire crackled and resettled.
+
+"But the shrines hold things that can help." He looked at Link. "The old technology. Tools, abilities — things that were designed to match the machines that guard this place. Four shrines, four trials. What you find inside them will make you stronger. Not strong enough to fight those things. Not yet. But stronger than you are tonight."
+
+He reached behind him and produced the paraglider — the folded frame, the worn fabric. He held it in the firelight.
+
+"Bring me what you find inside those shrines. All four. And this is yours." He tucked the paraglider away. "It is the only way off this plateau that doesn't involve falling. And falling —" he glanced toward the cliff edge, where the dark dropped away into nothing "— is not recommended."
+
+Link looked at the fire. He looked at the old man. He looked toward the eastern hills, where the amber glow of a shrine pulsed against the darkness like a heartbeat.
+
+The creatures he could fight. The mountain he could climb. The cold he could endure. But the machine in the abbey — the machine with the eye that tracked him through stone and the beam that turned walls to rubble — that was the shape of the world beyond this plateau. That was what waited.
+
+He needed to be more than he was. The shrines were where that happened.
+
+He nodded. Once. The old man watched him nod and something in the old man's face shifted — not relief, not satisfaction. Gratitude, maybe. Or grief. The face of a man watching the only person who could save anything make the decision to try.
+
+The fire burned low. Link closed his eyes.
+
+The old man watched him sleep.
+
+He did not move from his place by the fire. He sat cross-legged — the posture formal, practised, adapted from a throne to a stump with the patience of a man who had adapted everything — and he watched the boy who was the kingdom's only hope sleep with a bone club across his lap and splinter-cuts on his palms and his mouth slightly open, the way children sleep.
+
+The old man adjusted his hood. He added a log to the fire — precisely, quietly, the way he did everything. The sparks climbed upward and joined the stars. He had been waiting a hundred years. He could wait one more night.
+
+When Link opened his eyes, it was morning. Grey and cool and the old man was already awake, already tending the fire, already watching.
+
+The old man looked at him with eyes that carried more than a hermit's patience.
+
+Link stood. He picked up the bone club. He checked the slate on his hip — still warm, still humming, still tracking a heartbeat he was beginning to understand was his own.
+
+He walked toward the shrine.

@@ -1,0 +1,331 @@
+---
+id: e112f582-3bf4-5648-9a43-ddf42b8db540
+page-type-slug: story-chapter-played
+title: "The Warden's Stair"
+slug: 0002-the-warden-s-stair
+partOf: the-places-she-carries
+position: 2
+ownLength: 5316
+unit: words
+---
+
+The fourth switchback was the one her father had warned her about.
+
+Wren felt it before she saw it -- a shift in the stone's voice under her boots, the way the surface gave a half-tone of grit instead of the solid report of sound limestone. She stopped, one hand braced on the wet rock wall to her left, and looked down. The step she was standing on was fine. The next one had a crack running across it, thin as a hair, with a dark line of moisture seeping through. The step after that was gone entirely -- a wedge of limestone sheared away and tumbled into the mist below, leaving a gap wide enough that she would need to stretch to cross it.
+
+She stretched. Her pack shifted as she reached, the weight pulling her center backward -- her father had been right about the tarp -- and for one clear, precise second she was balanced between the good step and the broken one with nothing under her right foot but the sound of water falling a very long way down.
+
+Then her boot caught. The stone held. She was across.
+
+She did not move. She stood with both boots flat on the good stone and her hands against the cliff wall and waited for the world to stop being something that could drop her.
+
+Her breath came out in a huff that fogged in the cool escarpment air, and she stood still for a moment longer with her heartbeat loud in her ears. The mist was thicker here than at the top. It moved in slow, visible currents along the cliff face, beading on her coat sleeves, collecting in the creases of her pack straps. Everything was damp. The limestone sweated. Her hair was already curling at her temples in the way that drove her mother half-mad and that no amount of braiding had ever prevented.
+
+She looked up. The plateau edge was invisible. She looked down. The basin floor was invisible. She was suspended in white, on a stone staircase carved into a cliff, alone, and the only directions that existed were the step behind her and the step ahead.
+
+She took the step ahead.
+
+---
+
+The Warden's Stair had been carved by someone who understood stone. Wren could feel it in the proportions -- each step the same depth, the same rise, the width exactly right for a person carrying a load on their back. The switchbacks turned at regular intervals, and at each turn the carver had left a small flat platform, a place to rest and shift your weight before the next descent. The craftsmanship was old but confident. Whoever had done this had been at least Adept rank in stonework, probably higher. They had not fought the limestone. They had followed its grain, cutting with the natural fracture lines instead of against them, and the result was stairs that felt almost organic -- as if the cliff had always wanted to be descended and someone had simply shown it how.
+
+She was counting steps. She could not help it. Her father's notes said 247, and her brain had started tallying at the first one and would not stop. Forty-one. Forty-two. The numbers ticked over like the millwheel's rhythm, steady and unconscious, and she let them.
+
+At the sixth switchback, the mist thinned.
+
+Not cleared -- thinned, like a curtain pulled aside just enough to see the shape of the room behind it. The basin appeared below her in fragments: a stretch of green canopy, impossibly dense; a silver thread that might have been water; a rocky outcrop rising above the treeline like a broken tooth. The scale was wrong. Standing at the escarpment edge looking down, the basin had seemed vast but abstract, a green ocean viewed from a sea cliff. From here, partway down, it was no longer abstract. She could see individual trees. She could see the texture of the canopy -- not smooth, not uniform, but a churning surface of different greens, dark where the leaves were thick and pale where the sun broke through.
+
+And she could hear it.
+
+Not the aggregate murmur she had heard from the top, the ocean-sound of the Thornwild breathing. This was closer, more specific. Individual sounds reaching her through the mist: the creak of a branch under its own weight, a bird call she did not recognize -- three ascending notes and a descending trill, liquid and unhurried -- the drip and patter of water moving through leaves. The sounds were startlingly intimate. Standing on a cliff a hundred meters above the forest floor, she could hear the Thornwild the way you hear a conversation in the next room. Close enough to catch the tone but not the words.
+
+[Wayfinder's Eye] pulsed.
+
+She had been feeling it since the descent began -- the passive shimmer highlighting features along the stair, a steady rhythm of small noticeings that she filed away without stopping. The moss that grew thickest on the northwestern face of each switchback turn, which told her the prevailing wind came from the southeast and carried moisture up the cliff. A crack in the limestone at the fifth turn where a line of tiny white flowers grew, bell-shaped, facing downward so the rain could not drown them. The way certain steps had worn faster than others, showing the grain of the stone beneath like the rings of a cut tree, pale bands alternating with dark ones that recorded centuries of mineral deposition.
+
+She noticed all of it. She always noticed. But here, on the stair, the noticing had a quality she had not felt on the plateau -- a sense that the things she was seeing were not merely present but *responsive*. As if the cliff face were showing her things rather than simply having them. This was not rational. Stone did not show. Stone was. But the feeling persisted, and Wren had learned, in six weeks of carrying [Wayfinder's Eye], to trust feelings that arrived through the ability even when they made no logical sense.
+
+At step eighty-nine, the air shifted -- warmer, drier, carrying the faint mineral scent of sheltered stone. She was close to the Shelf's elevation now. She could feel [Wayfinder's Eye] responding differently here, its shimmer steadier, more insistent, as though the features it was highlighting belonged to a zone rather than the open stair. The cliff face itself shimmered -- not a feature on the surface but the surface entire, a section of exposed limestone perhaps two meters wide where the stair cut close to the escarpment's interior.
+
+She stopped and pressed her palm flat against it.
+
+The stone was warmer here. Not from sun -- she was in deep shade, the overhang above cutting any direct light. The warmth came from within, a geothermal trace so faint she might have missed it on any other rock face. And the stone rang. Not audibly -- she had not struck it -- but the cliff face had a resonance, a frequency just below hearing that she felt in her palm and the bones of her wrist, as if the escarpment at this point were thinner, or more hollow, or built of different material than the limestone above and below it.
+
+She pressed both palms flat. The resonance was not uniform. Stronger at the center of the exposed section, fading at the edges. A seam, she thought. Something running through the cliff at this elevation -- a different mineral band, or a void behind the face, or a change in the stone's density that the escarpment's long settling had not yet resolved.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY LOGGED
+  Location: Warden's Stair (Escarpment Face)
+  Type: Geological (Sub-audible Resonance)
+-------------------------------------------------------------
+
+  The limestone at this elevation produces a sub-audible
+  vibration detectable by contact. Resonance is strongest
+  at the section's center, suggesting a seam, cavity, or
+  mineral change within the cliff face.
+
+  +35 XP
+  Insight Tokens: +1
+  Observation: +2 proficiency
+-------------------------------------------------------------
+```
+
+The notification was brief. Almost curt, the way the System had been since her Naming Day -- not unfriendly, just sparse, as if it were still learning how to talk to a class it had never spoken with before. Wren was used to it by now. The System would find its voice. She would find hers. They were both new at this.
+
+She stood, adjusted her pack, and kept descending.
+
+---
+
+She almost walked past the Warden's Shelf.
+
+The stair at the ninth switchback curved inward around a bulge in the cliff face, and the turn was tight enough that she had her hand on the rock wall and her eyes on her footing. She felt the change before she saw it -- a shift in the air, the dampness breaking, a sudden sense of space opening to her right where there had been only stone.
+
+She turned her head.
+
+The limestone overhang extended out from the cliff face like a cupped hand, three meters deep and perhaps eight meters wide. The ceiling was low enough at the back that she would need to duck, but at the front it opened to the full height of the escarpment face above, giving the space the proportions of a shallow cave with no back wall -- or rather, with a back wall that was the cliff itself, rough and dry and veined with minerals that caught the diffused light. The floor was flat. Not perfectly flat -- limestone was honest about its history, and this shelf had been shaped by water over centuries, leaving gentle depressions and low ridges that told a geological story she could not yet read -- but flat enough to stand on, to sit on, to sleep on without rolling.
+
+At the shelf's left edge, growing from a crack in the stone where the overhang met the cliff face, a rowan tree.
+
+It should not have been here. Rowans were plateau trees -- they liked thin soil and wind and cold winters, not the humid breath of a lowland basin. But this one had found a crack, and it had decided, with the specific stubbornness of a tree that does not know it is in the wrong place, that this crack would do. It was not large. Its trunk was perhaps as thick as Wren's forearm, silver-grey bark smooth and tight over the wood beneath. Its roots disappeared into the limestone crack, gripping the stone with the slow, absolute patience of a living thing that has decided it is not leaving. Its canopy was small but full -- a crown of compound leaves, each leaflet precisely toothed, that trembled in an updraft Wren could not feel at ground level.
+
+Wren stepped onto the shelf.
+
+The sound changed.
+
+She stopped. The sound *changed*. The cliff face behind her -- the staircase, the mist, the dripping water, the distant bird calls -- all of it receded. Not silenced. Muffled, softened, pushed to the edge of her hearing like a conversation moved to another room. And in its place, rising from below, a sound she had never heard before.
+
+The Thornwild was breathing.
+
+Not metaphorically. She had used the word on the plateau, looking down at the basin's green expanse, and she had meant it as description -- the canopy moved, the mist rose and fell, the whole thing resembled breath. But standing here, on this shelf, she was not describing. She was hearing. The canopy far below -- a hundred meters down, a living surface of leaf and branch covering the basin floor -- was expanding and contracting with a slow, rhythmic regularity that produced sound. Not wind. Not the rustle of individual leaves. A low, aggregate pulse, like the breath of something enormous and sleeping, and the limestone overhang was catching it. The shelf's shape -- curved, cupped, angled downward toward the basin -- formed a natural amphitheater. Sound from below rose, entered the overhang's mouth, and collected against the stone ceiling the way water collected in a basin.
+
+Wren stood in the center of it and listened to a forest breathe.
+
+The breath was slow. Perhaps thirty seconds for each inhale -- a rising in volume and pitch as the canopy lifted on thermal currents -- and thirty seconds for each exhale, a settling, a softening, as the air cooled and the leaves descended a fraction and the aggregate sound dropped to its lowest register. It was the most intimate sound she had ever heard. More intimate than the millwheel. More intimate than her mother's voice through the floor of her bedroom at night, talking to Callum in the kitchen below. This was the sound of a living thing at rest, unguarded, unaware that it was being heard.
+
+[Wayfinder's Eye] was not pulsing. It was *singing*.
+
+That was not the right word. The ability did not produce sound. But the sensation behind her eyes -- the warm, attentive pressure she had learned to associate with discoverable features -- had expanded until it was no longer a highlight or a shimmer but a sustained, resonant hum of awareness that filled her entire field of vision. The shelf glowed. Not with light. With *attention*. Every surface, every crack, every mineral vein, every droplet of condensation on the ceiling, the rowan's bark and leaves and roots, the three fern species in their crack at the stair's edge -- all of it shimmered with a luminous weight that said, in the System's wordless language: *This place. This one. Pay attention to this one.*
+
+Wren sat down.
+
+She did not decide to sit. Her legs folded, her pack settled against the cliff wall behind her, and she was sitting with her knees drawn up and her hands resting on the cool stone and the Thornwild's breath rising around her, and she thought: *Oh.*
+
+*Oh, you're something.*
+
+---
+
+She did not know how long she sat before the resonance began.
+
+She had been watching the rowan. The tree's leaves caught the updraft in a pattern she was beginning to understand -- not random, not uniform, but a response to the thermal columns that rose along the cliff face at irregular intervals. The larger columns, carrying more heat, made the leaves tremble and turn, showing their silver undersides. The smaller ones barely moved the canopy at all. Wren watched the leaves and felt the updrafts on her face and began to match them -- this tremble meant that column, that stillness meant this pause.
+
+She had been studying the moss on the ceiling. The overhang's underside was covered in a fine green-gold moss that grew in a pattern she could almost read. Thickest where the stone was most porous and held the most moisture. Thinnest where mineral veins ran close to the surface and the stone was dense and dry. The moss was a map of the stone's internal structure, written in green, and Wren traced it with her eyes the way she traced her father's journals -- following the lines, learning the terrain.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY LOGGED
+  Location: Warden's Shelf
+  Type: Geological (Biological Indicator)
+  Moss distribution on the overhang ceiling maps the
+  stone's internal porosity — thickest where the rock
+  holds moisture, thinnest over dense mineral veins.
+
+  +35 XP
+  Insight Tokens: +1
+-------------------------------------------------------------
+```
+
+She had been listening. The Thornwild's breath was not constant. Within the slow thirty-second rhythm, there were variations -- micro-rhythms, sub-pulses, moments where the aggregate sound shifted in pitch or timbre as different sections of the canopy moved at slightly different rates. The forest was not one thing breathing. It was ten thousand things breathing at nearly the same time, and the nearly was where the music lived.
+
+She was doing what she always did. She was paying attention. And something was paying attention back.
+
+The sensation came as warmth. Not temperature -- the shelf was cool, the stone cold where her palms rested on it -- but a warmth behind her breastbone, a slow, spreading heat that felt like recognition. Like the moment you realize someone has been watching you with kindness and you did not know it.
+
+```stat-screen
+-------------------------------------------------------------
+  RESONANCE DETECTED
+  Location: Warden's Shelf
+  [Wayfinder's Eye] senses alignment between your attention
+  and this location's character. A Sympathetic Bond may be
+  possible.
+
+  Condition: Sustained, genuine observation.
+  You have met this condition.
+
+  To form a bond, activate [Lay the Path].
+-------------------------------------------------------------
+```
+
+Wren read the notification. She read it again.
+
+She had known this was coming. She had known it the way she had known her class before the Naming Day -- not as information but as certainty, the bone-deep sense that something was about to happen because it was supposed to. She had two discoveries logged on the escarpment face. She was sitting in a place that made her Wayfinder senses hum like a plucked string. The System was telling her what she already knew.
+
+She could bond with this place.
+
+She looked at the rowan. Its leaves trembled in an updraft. She looked at the moss map on the ceiling. She looked at the shelf's edge, where the stone met the sky, where the Thornwild's breath rose in its slow, sleeping pulse.
+
+She could bond with this place, and she wanted to, with a want that was not greed and not ambition and not the desire for power. It was the want of a person who has been handed a letter addressed to them and has not yet opened it. The want to know. The want to be known.
+
+She closed her eyes. She breathed in -- the rowan's sharp green scent, the wet stone, the faint mineral tang of the moss, and beneath it all the Thornwild's sweet, complicated exhalation rising from below. She breathed out.
+
+She activated [Lay the Path].
+
+---
+
+The hour was not an hour. It was something else.
+
+She was aware of herself. She was aware of her body -- her sit bones on cold stone, her hands flat, her breath slow. She was aware of her pack against the wall and her boots and the damp in her hair and the ache in her calves from the descent. She did not lose herself. That was important, and she understood it instinctively: this was not dissolution. She was not melting into the stone. She was sitting with it.
+
+But the stone was sitting with her back.
+
+The shelf opened to her attention the way a fist opens when you stop trying to pry it -- not all at once, not forcefully, but with the slow, deliberate generosity of a thing that has been waiting to be asked. She felt the limestone's age. Not as a number -- the System did not give her a number -- but as a density, a weight of time that pressed into her palms where they touched the stone. This shelf had been here for so long that the concept of *here* had changed around it. Rivers had carved the escarpment. Forests had grown and died and grown again. The plateau above had been sea floor, had been mountain, had been glacier, had been the flat and fertile land where her parents kept a supply post. The shelf had been all of these things and was now this one.
+
+She felt the rowan's roots in the crack. Not touching them -- feeling them, the way you feel heat from a fire without reaching into it. The roots were a slow, determined conversation between wood and stone, each adjusting to the other over years, decades, a century of mutual accommodation that had produced something neither could have made alone: a tree growing where no tree should, and a stone holding a tree it had no reason to hold.
+
+She heard the Thornwild's breath as a landscape hears it -- not from a single point, not through two ears, but through the entire curved surface of the overhang, a sound arriving from everywhere at once and focusing in the bowl's center where she sat. She heard the layers within the breath. The canopy's aggregate pulse, yes, but also the wind higher up, carrying different information; and the water moving through the rock face, a thin, high trickle that the overhang amplified into something almost musical; and behind it all, so deep it was almost below hearing, the bedrock's hum -- the limestone escarpment vibrating at a frequency produced by its own mass, its own density, the slow geological heartbeat of a cliff face that was still, after millennia, settling into its final shape.
+
+The hour passed. She did not count it. The sun moved -- she could tell by the light quality shifting on the inside of her eyelids, the mist brightening and dimming as clouds crossed above the escarpment. An insect landed on her hand and walked the length of her index finger and flew away. The rowan's leaves changed their trembling pattern twice as the thermal columns shifted with the warming morning.
+
+She was not meditating. She was not emptying her mind. She was filling it. She was paying attention to everything the shelf was, with everything she had, and the shelf was answering.
+
+When the hour ended, the System spoke.
+
+```stat-screen
+-------------------------------------------------------------
+  SYMPATHETIC BOND FORMED
+  Location: Warden's Shelf
+  Bond Depth: Glimpsed (2 discoveries)
+-------------------------------------------------------------
+
+  Trait Active: [Sheltered]
+   +1 Pathsense when navigating enclosed or protected
+   spaces
+
+  Signature: [???]
+   You sense something unique about this place, but you
+   have not stayed long enough to understand it fully.
+
+  Discoveries:
+   * Moss distribution on the overhang ceiling maps the
+     stone's internal porosity
+   * A rowan grows from a crack in bare stone — no soil
+     visible, roots threaded through limestone fractures
+
+  Wayfinder Slot 1: FILLED
+
+  +50 XP (Imprint Deepened)
+-------------------------------------------------------------
+```
+
+Wren opened her eyes.
+
+The shelf looked the same. The rowan was the same. The moss, the stone, the Thornwild's breath rising in its patient rhythm -- all the same. Nothing had changed.
+
+Everything had changed.
+
+She stood up, and she could feel the shelf. Not beneath her feet -- that was ordinary, that was stone under boots. She could feel it in her chest. A cool, steady presence that sat behind her breastbone like a second heartbeat, quieter than her own but absolutely there. The sensation of sheltered stone, of a curved ceiling gathering sound, of a rowan's roots finding their way through mineral dark. She carried it. She stood on the shelf and she also carried the shelf, and the two experiences -- standing on and carrying -- layered over each other like two drawings on the same page, each making the other more legible.
+
+She closed her eyes, testing it. The shelf's sensory echo bloomed: the smell of wet stone and rowan bark, the temperature of still air in an enclosed space, the sound of the Thornwild's breath as heard from a particular curved surface at a particular height on a particular cliff. It was specific. Not "a cave" or "a ledge" but *this* ledge, *this* overhang, *this* rowan growing from *this* crack. She could have drawn it from memory -- every fissure, every moss-line, every fern in its moisture band -- and she had sat on it for an hour.
+
+She opened her eyes. The shelf released its echo, not vanishing but settling, retreating to the background of her awareness the way the millwheel's sound had once been background. Present. Carrying.
+
+```stat-screen
+-------------------------------------------------------------
+  ACHIEVEMENT UNLOCKED: FIRST STEP
+  You have formed your first Sympathetic Bond.
+  Reward: +1 Attunement (permanent)
+
+  "The world is full of places that have never been
+   properly met. You have begun."
+-------------------------------------------------------------
+```
+
+The achievement notification felt different from the bond notification -- warmer, more personal, as if the System had paused its usual brevity to say something it meant. Wren read the quoted line twice. *The world is full of places that have never been properly met.*
+
+Yes. That was right. That was exactly right.
+
+```stat-screen
+-------------------------------------------------------------
+  LEVEL UP: WAYFINDER LEVEL 2
+-------------------------------------------------------------
+
+  +1 Perception (automatic, class grant)
+  +1 Attunement (automatic, class grant)
+  +3 free stat points available
+
+-------------------------------------------------------------
+```
+
+She studied the level notification. Three free points. She thought about her calves, aching from the descent. She thought about the broken step at the fourth switchback, the moment of balance over nothing. She thought about the rest of the stair below her, and the basin below that, and every unmapped mile waiting.
+
+She put one point into Endurance. One into Pathsense. One into Dexterity.
+
+She did not deliberate long. Her body had told her what it needed on the way down, and she trusted her body the way she trusted her feet: not blindly, but with the accumulated evidence of sixteen years of walking.
+
+```stat-screen
+-------------------------------------------------------------
+  WREN GALLEY — WAYFINDER (Level 2)
+-------------------------------------------------------------
+
+  PHYSICAL         MENTAL           SOCIAL           EXPLORATION
+  VIT: 8           PER: 11          EMP: 10          ATT: 12*
+  END: 9           FOC: 8           PRE: 7           PTH: 10
+  DEX: 9           MEM: 8           RSV: 8           ADP: 8
+
+  * ATT 12 = base 10 + First Step +1 + class grant +1
+-------------------------------------------------------------
+```
+
+---
+
+The stair below the Warden's Shelf was steeper.
+
+Wren descended into thickening air. The mist was behind her now -- the shelf sat at the moisture line where the basin's warm exhalation met the plateau's cooler air, and below that line the world was clear and damp and very, very green. The escarpment face changed character as she dropped: the pale grey limestone of the upper cliff giving way to darker, older stone, streaked with iron oxide in rusty bands. The ferns were different here -- larger, bolder, growing in heavy curtains from every ledge and crack. Water was everywhere, not as mist but as liquid, threading down the cliff in dozens of tiny rivulets that crossed the stair at intervals, making the steps slick.
+
+She placed her feet with care. Her boots were road-warden's boots -- good for packed earth and maintained tracks, designed for the long, flat miles of her father's circuit. On wet stone they were adequate. Not good. She could feel the sole's uncertainty at each step, the fraction of a second where grip was a question rather than a fact. She would need to resole them, she thought. Or find better ones. A project for later.
+
+At step one hundred and sixty, the canopy reached her.
+
+It did not arrive all at once. First a branch, extending from the cliff face at an angle, leafy and reaching. Then another, and another, and the branches became a lattice, and the lattice became a canopy, and the light changed from open grey to filtered green, and Wren was inside the forest's upper envelope without having left the stair.
+
+The smell hit her.
+
+Rich. Complicated. A dozen things at once: leaf mold and wet bark and the sharp green smell of crushed fern and the heavier, sweeter scent of something flowering nearby and beneath it all the strange, persistent sweetness she had smelled from the plateau -- the one that was not quite honey and not quite anything else, the one that sat at the back of her throat and refused to be named. It was stronger here. Not unpleasant. Not pleasant either. Present. Insistent. A smell that said: *You are in a place that is very much alive, and it knows you are here.*
+
+The bird she had heard earlier was closer now. Three ascending notes and a descending trill, repeated at intervals of perhaps twenty seconds. She could not see it. The canopy was dense above the stair, the branches interlocking, the leaves forming a green ceiling through which light fell in shifting coins.
+
+She kept descending. One hundred and eighty. One hundred and ninety. The escarpment face was gentler here, the stair widening as the cliff's angle eased toward the basin floor. The switchbacks were longer, more gradual. The stonework was rougher -- either the carver had cared less about the lower stair, or a different hand had made it.
+
+At step two hundred and thirty-one, she felt the Warden's Shelf.
+
+Not the stone under her feet. The echo. The cool, quiet presence behind her breastbone stirred, as if the shelf were reminding her it was there. She was descending away from it, putting distance between her body and the bonded place, and the echo was adjusting -- not fading, not weakening, but changing quality, becoming more like memory and less like sensation. She could still close her eyes and find it. The rowan's scent. The curved stone. The gathered sound. But it was carried now rather than inhabited, and the difference was the difference between holding a warm cup and remembering the warmth of a cup you held.
+
+The stair ended.
+
+Not dramatically. The last step gave way to packed earth and leaf litter, and the escarpment face receded behind her, and she was standing on the basin floor for the first time in her life.
+
+The waymarker was there, as her father had described: a stone post, overgrown, leaning, its Cartographer's Office seal nearly obliterated by lichen and moss. She could see where the inscription had been -- the ghost of carved letters, filled with green. If she had not known to look for cut stone, she would have mistaken it for a natural boulder.
+
+She touched it. The stone was warm. The lichen was soft under her fingers, a living skin over the worked surface beneath. The waymarker had not been serviced in twelve years. It had been forgotten. It existed in the space between built and natural, between the Cartographer's Office map and the Thornwild's green erasure.
+
+She noticed. She let it settle into the growing map in her head.
+
+The Thornwild was in front of her.
+
+From the escarpment, it had been an abstraction -- green, vast, breathing. From the stair, it had been an approach -- smells and sounds arriving in layers as she descended. Standing here, at the base, it was a fact. Trees rose in every direction, their trunks wide and dark, their canopy so dense that the noon light reached the forest floor as a green-gold dimness that had no shadows because the light came from everywhere and nowhere. The understory was a tangle of fern and vine and flowering shrub, some of it head-high, all of it reaching.
+
+The air was warm. Warmer than the stair, warmer than the shelf, warmer than any autumn day on the plateau. Humid. The kind of warmth that settled on the skin like a second layer of clothing and stayed. She breathed it and felt the moisture coat the inside of her lungs, rich and organic and alive.
+
+Her compass trembled.
+
+She had drawn it from her coat pocket without thinking -- her father's second-best compass, the brass warm from her body heat, the needle swinging to north. Or trying to. The needle was not still. It oscillated, a slow, uncertain swing between two points perhaps five degrees apart, as if north were not a direction but a question the compass could not quite answer.
+
+The Thornwild did not want to be mapped.
+
+Wren watched the needle. She breathed. She felt the Warden's Shelf in her chest, steady and sheltered and known, a fixed point in her internal geography that the Thornwild's disorientation could not touch.
+
+She was not afraid. She was not anything she had a word for yet. She was standing at the edge of a place that had swallowed every attempt to know it, and she was carrying, for the first time, a place that knew her back. The combination made her feel something new -- a sensation located in the space between her ribs and her spine, warm and tight and quiet, like the moment before you open a door you have been walking toward for a very long time.
+
+She closed the compass. She shouldered her pack.
+
+The Thornwild waited, green and breathing, and Wren walked into it with the Warden's Shelf held in her chest like a lantern she did not need to light.

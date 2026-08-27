@@ -1,0 +1,175 @@
+---
+id: 7039c107-d8a6-512b-b0fb-ced4006fb497
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch26: Skill Grind (2)"
+slug: 0033-b6-ch26-skill-grind-2
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 33
+ownLength: 1837
+unit: words
+ownProgress: 1837
+publishedAt: 2026-02-12
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3040816/b6-ch26-skill-grind-2"
+royalRoadId: "3040816"
+removedAt: "2026-07-03T13:48:02.820Z"
+---
+
+It seemed that Arthur was always getting used to Brixaby's new and improved size. Even considering all his recent growth, Brixaby still had a long way to go before he reached the size of an average Legendary. Right now, he wasn't even giving Sams a run for his money.
+
+But he was much bigger than before.
+
+The addition of the venom aspects to his Call of the Void had not made him grow in length so much as bulked him out. The chest and back muscles that supported his four wings were noticeably thicker, as were his fore and hind legs. There were hints of thick, ropey tendons along his body. His neck had thickened as well, making the scythe-like curve of his muzzle stand out all the more wickedly.
+
+Brixaby put all that new muscle and sinew to use as he jumped into the air with ease. His wings buzzed in what could only be described as a roar as he headed straight to the end of the dimensional space.
+
+The rolling land beneath them seemed to go on and on past the point where Arthur knew it had to end. Was it an illusion? Were they about to smack dead stop into an invisible wall?
+
+Arthur braced himself but... no. The longer Brixaby flew on, the more the land seemed familiar again.
+
+Was that Brixaby's furnace in the distance?
+
+It was, and Brixaby stopped to hover over it.
+
+"This land is in a loop, like the banks of the dark river," Arthur said, though even as he spoke, he wondered if it was more of a sphere than a loop. What would happen if they flew straight upwards? Would they somehow hit the ground from underneath?
+
+He didn't ask Brixaby to try it out.
+
+Brixaby seemed pleased with the result. "This is excellent. It means I will not have to slow myself."
+
+"What? Wait!"
+
+Brixaby activated his Flying Sprint skill, and Arthur was thrown back so hard under the acceleration that he nearly slipped right off of Brixaby's neck.
+
+His flailing hand caught one of Brixaby’s neck ridges just in time, and he used it to pull himself upright.
+
+Grimly, he considered once again the idea of having flying straps, but... No, that would defeat the purpose. Brixaby was working on his Flying skills, and Arthur had to work on his Dragon Riding skills.
+
+That meant not only did he have to learn to hold on during unexpected movements, he had to actively ride along with his dragon.
+
+What followed was an intense series of exercises, made even more difficult as it rapidly darkened into night. Sometimes when Brixaby pulled a crazy move, he didn't know up from down. He had to trust his dragon to pull out of the trick before they hit the ground.
+
+Brixaby's new size came with greater speed and endurance, and paradoxically, he wanted to keep every iota of agility that he'd had ever since he was a hatchling.
+
+Brixaby would start, stop, twist, and on a few occasions, barrel roll without any warning at all. He left it to Arthur to hold on.
+
+Most times, he did.
+
+The rest of the time was how he unexpectedly received a ‘Sky Diving’ skill. Odd phrasing, but it fit.
+
+Brixaby was unfairly smug when he received his ‘Catch Victim’ skill.
+
+****
+
+Arthur looked down at the two Uncommon cards in front of him. After two weeks of working to build his foundations with Commons, he’d allowed himself to work up a rank, and he’d had just enough Uncommon shards to create the pair.
+
+The results had been… mixed.
+
+One had been almost exactly what he had been aiming for.
+
+By The Power of (Ambient) Light
+
+Elemental/Combat
+
+Uncommon
+
+The wielder of this card will be able to focus ambient light into a single, short lived bolt cast from the hand. Extra damage will be dealt to creatures of the darkness. Cooldown: 10 minutes in daylight, 45 minutes in darkness. As this is a recharging cooldown, the length cannot be altered by additional card powers. This card powers itself from light and does not use mana.
+
+Yes, this was a good one, and he didn't think that Horatio or Sams would turn up their noses at it just because it was Uncommon.
+
+The other card, however...
+
+"How did I get this?" he muttered to himself.
+
+He'd wanted to create something that would complement Cressida. Perhaps a card to collect the power from her shields and toss it back out at her enemies. Something had gone wrong, though. Maybe he had messed up somewhere, or maybe what he wanted wasn't possible for an Uncommon.
+
+Either way, he'd received something that was completely unexpected.
+
+And probably useless, he thought.
+
+The Deadliest Squiggle
+
+Combat/Art
+
+Uncommon
+
+With a willow switch of any length, the wielder of this card will have the ability to draw a summon creature in the air. Once complete, that summoned creature will fly forward and attack the wielder's enemies. The more detailed and accurate the drawn picture, the more powerful the attack. This card uses mana.
+
+Reading them over again, his mood soured. Each of the cards was a bit of a letdown in their own way.
+
+The light card was so good as it was that he did not dare alter it. That meant he couldn’t use it for practice.
+
+With a sigh of regret, he slid the light card in his Personal Space. Kind of annoying for it to be perfect the first time.
+
+Then he picked up the squiggle combat card.
+
+"Why did you turn out so weird?"
+
+Maybe his wants had been too specific. With Horatio’s card, he had simply aimed for something that was combative and used light. He didn't dare put in any other parameters because the more Horatio and Sams spoke about light—like how people couldn’t see some colors, but those colors could still burn living flesh, and how it was ‘ultraviolet’ even though Arthur could see purple just fine—the more he realized he didn’t know a thing about the element.
+
+So, he'd made his wants very general.
+
+On the other hand, he'd had something very specific in mind for Cressida. As he had focused on what he wanted, the Uncommon pieces slid right into place. He was certain that he'd been on the right track.
+
+Then the squiggle card appeared.
+
+He looked at the card.
+
+"How can I make you better?"
+
+He'd had some success adjusting card descriptions before, but those had been minor tweaks here and there. Arthur knew, instinctively, that he simply could not erase and rewrite the card wholesale. Every change in wording had to be small and precise, lest the entire magical matrix fall apart.
+
+If Common shards were like a shallow puddle, Uncommons were like a mid-sized pond. Each. He didn't want that amount of energy to blow up in his face.
+
+A Rare or above card would almost certainly be deadly.
+
+Arthur reread the card’s description again. Why a willow switch? That was the phrase that stood out the most. The one that could be most easily trimmed away… or altered.
+
+Taking the tip of his sharpest knife, he very carefully scratched into the card, right at that sentence. The thing was, someone could take a sword and stab into a card and have nothing happen. This was more of a mental scratching out, solely caused by his card repair skills. And at the same time, as he scratched out the phrase, he replaced it with a new one, from ‘willow switch’ to ‘wooden branch’.
+
+He felt the card resist, the magical matrix that connected all of the shards warp. It was rejecting his change. For a second, he thought that the entire thing would collapse. Arthur stilled himself and closed his eyes, feeling out the card and what it was trying to tell him.
+
+He knew without words that the issue was the word ‘branch’. He had to use something else. Pen? No. Then Cressida would be stuck with an all-wooden pen. Now he thought about it, a whole branch would be unwieldy, anyway. No wonder the card was rejecting it. He had just wanted something more generic.
+
+Twig?
+
+The word popped into his brain, he thought, from his shard card insight.
+
+What about... wand? A thin piece of wood, good for transport, and something some card wielders use to direct power.
+
+He scratched in ‘wand’ and exhaled as the card seemed to accept it. The whole thing flashed into light, seemed to twist one way and another without quite doing it, before finally settling into place.
+
+Arthur slowly rested his hands back on the table. He had not realized that he'd held them out, ready to protect his face.
+
+If that had blown up, I might have lost my hands, but I still might have kept my nose and eyes, he thought with a dark smile.
+
+New Skill level gained: Card Intuition (Card Smith class)
+
+Level: 20
+
+New Skill level gained: Card Manipulation (Card Smith class)
+
+Level: 19
+
+He had finally cracked level 20 in Card Intuition! That had been a tough one.
+
+Now that was useful. "Brixaby," he called, "I hit level 20 in my skill, and I got a bonus!"
+
+There was no answer from his dragon. There was no answer, just the regular clang, clang, clang of a blacksmith hammering something into place.
+
+Arthur stretched and went over to see what his dragon was doing. Brixaby had positioned himself on the other side of the furnace. He drove what looked to be a sledgehammer onto a deceptively tiny piece of metal, perhaps no bigger around than Arthur could make a circle with his index and thumb.
+
+Watching Brixaby work, Arthur waited to the side.
+
+Several other metal pieces were tossed carelessly away, previous works that Brixaby had been unsatisfied with. Arthur picked one up. Though it didn't burn him, he still felt its heat. Recently forged, it was practically covered in tiny runic symbols.
+
+To Arthur’s mild shame, he barely recognized any of them.
+
+Though he'd had initial enthusiasm about enchanting, his dragon's craftsmanship had well eclipsed his own. It turned out that Arthur's crafting passions had gone towards making cards.
+
+Though, after staring for a moment, he recognized a couple of the runes. Brixaby had used them before in the chunkier enchanted pieces he'd handed out to his Retinue. These were tiny versions of mental blockers. A lot easier to carry and to hide.
+
+Brixaby still hammered away without any sign of taking a break, and Arthur left him to it.
+
+This would be a good time to take a run around the pocket space. He learned it would take him an hour running flat out to go the entire loop. He'd do a lap to work on his endurance, and then he would sit down and work on another few cards.
+
+Uncommons didn’t have much more to offer him. It was time that he started working on Rare cards… his own Rare cards.

@@ -1,0 +1,251 @@
+---
+id: 501a5cab-5a93-58cd-88fa-1c129709ab53
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35: Mana"
+slug: 0036-chapter-35-mana
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 36
+ownLength: 1937
+unit: words
+publishedAt: 2026-08-15
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3819150/chapter-35-mana"
+royalRoadId: "3819150"
+---
+
+Glancing past the furiously talking noble, Ben noticed a group of adults in robes loitering near the edge of the arena occasionally healing the others who got injured during spars.
+
+They were definitely dedicated healers on standby.
+
+Well, that makes things infinitely easier.
+
+Seeing a reliable safety net right there, he decided he was just going to end this whole farce with a single [Mana Missile].
+
+He just had to stand there and wait for the official to actually start the damn match.
+
+Brian was still running his mouth and being annoying as shit.
+
+"I'm going to make sure you can't even crawl back to your little tent."
+
+Ben completely ignored the idiot in front of him.
+
+Around the platform, the noble boys and girls were already making their own little bets. Some of that, of course, drifted up into Ben's ears.
+
+Given that it was too loud, quite intentionally, most likely actually meant for his ears.
+
+"Isn't that the commoner?"
+
+A tall boy nudged his friend, pointing right at the stage.
+
+"The one who saved Lady Alice?"
+
+Crossing his arms, his buddy just nodded dismissively.
+
+"Yeah, but Brian is already at peak Tier 1. The commoner doesn't stand a chance."
+
+Ben obviously didn't give a shit about any of that background noise, but Brian's insistent chatter was starting to get on his nerves as little.
+
+Sighing heavily, he just focused on the smug kid in front of him.
+
+"I'm gonna break your left leg."
+
+Brian just froze. The arrogant smile literally melted off his face, instantly replaced by total confusion.
+
+"What did you just say to me?"
+
+Tilting his head, Ben just pointed a finger straight at the guy's leg.
+
+"Your left leg. I'm going to completely break it."
+
+He was just being very specific so the healers knew exactly what to fix in a minute.
+
+Brian's face immediately flushed a vibrant, furious red.
+
+"You arrogant piece of trash! I'll bury you!"
+
+Stepping into the center of the wooden stage, the instructor raised a hand high into the air. He clearly didn't give a crap about the death threats being thrown around by the angry noble. It was probably a normal occurrence for him.
+
+"Begin!"
+
+Immediately channeling his mana, Ben prepared a single [Mana Missile] to end this entire farce in one move.
+
+He honestly just wanted to go back to his training place and practice with mana. Practicing with all those skills earlier today helped him grasp mana a bit more, and he was getting closer. So he would like nothing more than practicing.
+
+But seeing the smug noble actually react, Ben had to admit the guy wasn't completely incompetent.
+
+Putting a massive amount of distance between them the second the match started, Brian immediately launched into an offensive.
+
+Swiping his hands through the air, he sent a barrage of sharp wind blades hurtling across the arena.
+
+Refusing to waste his own reserves on [Fire Burst], Ben just relied on his own two feet and dodged.
+
+Because ever since he officially became a Tier 1, his baseline body had just gotten objectively better.
+
+Advancement did more than just move you along a chosen essence path; it actually made the base body stronger. Essence paths were really just specializations added on top of this improved foundation.
+
+So while some meathead with a strength path would obviously hit harder than him, Ben definitely wasn't physically weak compared to an average Tier 1 that hadn't put anything in the strength path or constitution path.
+
+Unless they specifically allocated all their essence to constitution or strength, he could easily keep up.
+
+Moving through the incoming wind blades, he tested out his new physical limits. Combined with the reinforcement from [Warforged] as well as physicality and combat movement, stepping around the wind blades felt ridiculously easy.
+
+Especially since Brian didn't seem to have any experience actually fighting.
+
+Closing the distance in a matter of seconds, he finally finished preparing his spell.
+
+Brian's eyes went wide.
+
+Thrusting his hand forward, Ben sent the dense [Mana Missile] hurtling directly at the exact spot he had promised.
+
+The [Mana Missile] slammed into Brian's leg, and the loud hum of the wind spells instantly vanished, leaving the arena completely dead and quiet for a moment before Brian's scream tore through it all.
+
+Collapsing onto the stage, Brian clutched at a left leg that was completely and utterly butchered.
+
+The tightly packed mana had literally shredded the flesh and shattered the kneecap into a fine, bloody paste.
+
+The noble kids watching all had long since paused to watch their spar with horrified looks on their faces. Other than a few of them, most looked extremely uncomfortable.
+
+Staring at the screaming mess he had just created, Ben just blinked.
+
+...I might have gone a bit overboard.
+
+###
+
+"Why did you do that?" Arthur cornered him after he walked out quietly among the astonished people.
+
+Ben shrugged.
+
+"I didn't have a choice. He insisted on a spar."
+
+Pinching the bridge of his nose, the older man let out a sigh.
+
+"I mean, yes, but that's going to have some consequences, kid. I hope you're ready for that."
+
+Arthur crossed his arms, looking completely exasperated.
+
+"More people will be interested in sparring with you now."
+
+He groaned internally at the sheer annoyance of that prospect. But keeping his face completely deadpan, he didn't show an ounce of that frustration outwardly.
+
+Shaking his head, Arthur just turned around and walked away, clearly done with this entire situation.
+
+Ben headed straight to his secluded training spot. Sitting down on the dirt when he got there, he immediately started pushing mana right out of his body.
+
+I need to get some kind of mana manipulation skill today.
+
+Because this whole situation was getting out of hand, and he wasn't even utilizing his absolute strongest weapon.
+
+Namely, his massive mana reserves.
+
+What was the point of walking a dedicated mana path if he wasn't going to actually utilize it properly?
+
+Flexing his fingers, he forced the mana to pool around his hands, trying to forcefully mold it into a physical shape without relying on a structured construct.
+
+He'd done it before, he could do it again. He refused to let it do as it wished. It would bend to his will.
+
+It was essentially like trying to mold water into a perfect cube using only his bare hands.
+
+He just hoped it would be quick. If he had to spend another three weeks trying to figure this crap out, he was going to lose his goddamn mind.
+
+Alice had confidently stated that controlling mana outside the body was fundamentally impossible for someone at Tier 1.
+
+According to her, the only way to weaponize it at this stage was to pour it into a rigid, pre-defined construct provided.
+
+Unless she really meant impossible, Ben was inclined to believe that she was just exaggerating, as people tend to do.
+
+After all, he himself had managed to control it, even if slightly.
+
+So that was obviously a load of crap.
+
+He'd also gotten a better hang of his mana earlier when he used multiple of his skills in tandem. So refusing to accept that ridiculous limitation, he shoved a massive chunk of mana down his arm.
+
+Because frankly, if he could manipulate it perfectly inside his body, doing it outside shouldn't be some impossible miracle.
+
+It was just energy at the end of the day.
+
+Forcing it out through his pores, he watched the blue mist instantly disperse into the wind.
+
+He frowned, feeling a sharp twinge of annoyance.
+
+It was literally like trying to hold onto smoke.
+
+Let's try a different approach.
+
+Closing his eyes, he stopped trying to forcefully cage the mana. Maybe he was just overthinking the whole process by treating it like a complex science experiment.
+
+Taking a deep breath, he tried to let his body handle it instinctively instead of using his conscious mind.
+
+It was kind of like a glass dropping off a table.
+
+You didn't calculate the velocity and trajectory in real time. Your hand just shot out and caught the thing reflexively.
+
+So, he just needed to make the mana act like a natural reflex.
+
+Dumping more mana into his right hand, he waited for that instinctual click. Nothing happened. The mana just sat there, pooling uselessly in his palm before evaporating into the air.
+
+He canceled the flow completely. He tried it again.
+
+And again.
+
+...And again.
+
+It was honestly getting a bit boring just sitting here and trying to "feel" the magic like some kind of enlightened zen monk.
+
+He rubbed his temples as a dull ache started to form behind his eyes. After twenty more failed attempts, the migraine was actually getting pretty serious.
+
+Triggering [Regeneration], he flooded his own head with healing energy.
+
+It was incredibly jarring, essentially forcing his body to repair itself while he was actively damaging it with mana strain.
+
+But it kept him conscious.
+
+Okay, so where exactly is the disconnect happening?
+
+He definitely had a massive mana reserve, but the system didn't exactly hand out an instruction manual for how it functioned.
+
+Deciding to slow things down, he activated [Focus] to keep his mind from wandering. He needed to visualize this properly. He needed to treat the mana like a literal extension of his own physical body.
+
+He opened his eyes.
+
+Pushing a strand of blue light out of his palm, he didn't try to shape it immediately. Instead, he just clamped his will down on it, refusing to let the energy expand or dissipate.
+
+It fought back instantly, vibrating violently against his mental grip like an unruly child.
+
+Gritting his teeth, he squeezed harder. He could actually feel a thin, invisible thread connecting the energy in his palm directly back to his core.
+
+Don't let it go.
+
+Come on, don't let it go!
+
+Sweating profusely, he forcefully flattened the bottom of the glowing mass. It was like trying to compress an earthquake with his bare hands.
+
+His vision immediately started to blur.
+
+Ignoring the dizziness, he dragged the front of the energy outward, forcing it to taper into a sharp point.
+
+It was agonizingly slow, and it took him nearly thirty tries, but he slowly got to it. Every single millimeter of shape required an absurd amount of concentration.
+
+[Focus] was an absolute boon on that front.
+
+A warm, wet sensation started trickling down his upper lip. His nose was bleeding heavily, but he absolutely refused to stop. Carving out the back end, he brutally forced the mana to form a long shaft and stabilizing fins.
+
+And then, the resistance just suddenly vanished.
+
+Blinking through the hazy spots in his vision, he stared at his hand.
+
+An ugly glowing blue arrow was hovering exactly an inch above his palm. It was just pure mana, completely chained to his own visualization and willpower, without a container.
+
+It worked!
+
+No matter how many hours it took, it worked!
+
+Losing his concentration for a split second, his mental grip completely slipped.
+
+The arrow instantly shattered into a cloud of harmless blue dust, and the recoil hit him immediately. Gasping for air, the intense dizziness finally overwhelmed his balance.
+
+He slumped forward, faceplanting directly into the soft dirt where he sat. His vision spun. Rolling onto his back, he wiped the blood off his face and immediately started spamming [Regeneration] again.
+
+Yeah, that was definitely way too hard for a normal Tier 1 to pull off.
+
+But as he lay there trying not to puke, a notification popped up in his vision.
+
+Would you like to learn the skill: [Mana Manipulation]?

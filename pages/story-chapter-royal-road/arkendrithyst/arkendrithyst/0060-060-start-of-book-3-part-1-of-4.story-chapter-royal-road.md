@@ -1,0 +1,169 @@
+---
+id: baa9cead-74b8-517e-abf5-ec9aad18cff4
+page-type-slug: story-chapter-royal-road
+title: "060 Start of Book 3 part 1 of 4 "
+slug: 0060-060-start-of-book-3-part-1-of-4
+partOf: arkendrithyst
+position: 60
+ownLength: 2954
+unit: words
+ownProgress: 2954
+publishedAt: 2019-12-09
+link: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/433000/060-start-of-book-3-part-1-of-4"
+royalRoadId: "433000"
+markedReadAt: "2026-06-29T22:08:36.410Z"
+---
+
+The Harvest Temple at the center of Spur’s green farmland was the same as Erick remembered. Eight pillars with a domed roof, a dozen meters across on the inside. The main floor of the temple was several steps raised from the ground, while the whole temple was surrounded by the Ring of Gods; a holy space filled with the statues of various deities, each sitting upon their own waist-height pillar, each pointed in their own direction.
+
+Erick walked past the statue of Koyabez. The half-incani, half-human God of Peace held his gaze at the road to the Harvest Temple, his grey stone body wearing nothing more than a loincloth. Erick seemed to feel a sight upon himself as he walked by the statue, though nothing watched him from the manasphere; Meditation revealed no [Scry] eyes, or anything else, really.
+
+But there were more than a few farmers watching him walk to the temple. They were in the fields, and ready for work. They were waiting for him to start the rain. Erick hadn’t actually shown up in person in a week, so some of the farmers were noticeably startled when they saw Erick walking down the dirt road to the temple.
+
+Erick ignored Koyabez’s statue, wondering where the God of Peace actually drew the line when it came to committing violence to prevent the larger confrontations between the incani and the human nations of the world.
+
+The sun shone down, warm and inviting, while the green land all around gave a sense of life and moisture to the otherwise dry Crystal Forest air. Erick breathed deep.
+
+He never expected to like living in a brown and orange land of sand and crystal, but he did, he liked living here quite a lot. Maybe he wouldn’t like Spur if it was truly a desert, but his [Exalted Storm Aura] provided more than enough water for everyone, and the farms. At least right now.
+
+But water season was ending soon. The underground water table would drop a hundred meters; Erick’s rain would be the only way that Spur could survive with all its new farmland intact and productive. Normally they survived through heavy trade with Portal, but maybe they wouldn’t need to do that this year.
+
+Erick started up the temple steps, thinking.
+
+Poi spoke from behind Erick, “Heads up, sir. Business men from Portal are coming here, and Silverite can’t stop them this time. They’re threatening to enact a trade embargo if they are not allowed to speak with you.”
+
+Erick had been expecting this. He paused at the top of the temple steps, saying, “Thank you for the warning. Time frame?”
+
+“Ten minutes.” Poi followed behind Erick, saying, “It appears that after the merchants in Odaali failed to get to us, the people from Portal decided to up their game.”
+
+Erick nodded, then walked to the center of the temple, to pause and stand before the statue of Atunir that dominated the back half of the holy space. The grey stone of the statue matched the stone of the temple, while platinum leaves curled up and around the edges of the stone; the coftea tree at the statue’s back had grown since the last time Erick was here.
+
+Atunir’s left hand rested on the head of a happy cow, while her right hand held a round fruit outward. All around the goddess were stone sculptures of fruits and vegetables; copies of that which grew on the farm all around Erick. Some of the stone harvests displayed here were even fruits and vegetables from Earth; Erick had added those himself.
+
+Erick bowed to the statue, then stood and said, “I hope the rest of the Daydropper quest goes well. I pray for Odaali’s recovery, and for Yetta and Cyril to have a better future.”
+
+A full silence filled the air.
+
+Erick nodded and turned away from the statue. He started the rain. Silver mists materialized all around the green land, to then fall upward. Soon, the sky was filled with roiling silver glows in heavy, thick clouds, blocking out most of the sunlight overhead. Platinum rain began to fall.
+
+Golden wheat stretched up from tilled fields. Green stalks sticking up in rows from ponds, grew tall, then split, spilling out stalks of golden rice. Potato vines of all kinds, red, brown, white, and gold, filled out with above-ground potatoes. Grape vines drooped with purple fruits. Tomato vines filled out with purple orbs, though some people had planted the red tomatoes Erick had made. Carrot stalks grew tall. Trellises filled with vines, and then with bean pods, like thick orcol fingers growing downward from nodes of leaves. Apple trees filled with juicy red, or pink, or golden apples. Out in the distance, on the edge of the rain, too far to see, were the fields of sugar cactus; they liked Erick's rain, but not too much of it.
+
+Bees buzzed, hiding from the rain, while cows mooed, reveling in the downpour. Fish in rice ponds schooled together, the silver flash of their scales an organized flicker under the water’s mostly clear surface. The standing water of the rice ponds did not turn platinum; the rice sucked up that magic as soon as it touched down. Cats raced to hide under roofs and the [Weather Ward]s of farmers scattered throughout the land. Chickens, so many chickens absolutely everywhere, clucked and pecked, trying to eat whatever they could—
+
+… What did they feed all the chickens?
+
+Erick paled, as he remembered corn. Erick had forgotten about corn. He needed to make corn, to make fat cows and fatter chickens. Like, holy crap, how had he forgotten about corn?
+
+Why hadn’t he made corn yet? Cornflour for cornbread. Cornstarch for crispier fried chicken. Popcorn. Cornflakes. Corn for vegetable oil. Tortillas and chips. Corn was necessary, and Erick needed to make it as soon as possible. Seriously! How had he forgotten about corn?
+
+Erick smiled. Corn was next on the list.
+
+Erick gazed out over the fields as more than a thousand farmers plucked their harvests with [Telekinesis], while a thousand more replanted as necessary. Incani, orcol, dragonkin, and even a few humans… Humans? When did they show up? Erick paused, trying to remember if he had missed the human additions to the fields. No… He had not. When did that happen? Where were they living?
+
+Erick smiled wide, saying, “There are humans, Poi. That’s new.”
+
+Poi said, “And here comes more.”
+
+Erick stepped over to see what Poi was seeing.
+
+Three humans, two men and one woman, were walking down the [Weather Ward] covered road, leading from town to the Harvest Temple. All of them wore the loose, billowing white fabrics common to the people of Crystal Forest, when they weren’t farming, anyway, but these three also wore shoulder cloaks. The man in front of their group wore a black shoulder cloak, while the man and the woman in back wore blue. All of them had short hair; buzzed short. Erick would have mistaken them for monks, if he didn’t know better.
+
+The man in the back looked around at everything around him, but the flanking woman and the front man stared directly at Erick. Erick’s stomach dropped, seeing the awful look in the front man’s eyes. This was not going to be a fun conversation.
+
+Erick stepped to the top of the stairs leading into the Harvest Temple, and waited.
+
+The people from Portal entered the Ring of Gods and stepped to five meters away from Erick; coming no closer.
+
+Black shoulder-cloak said, “Greetings, Archmage Erick Flatt of Spur.” The man paused, waiting.
+
+Erick just looked at him. When two more silent moments passed, Erick frowned.
+
+Black cloak asked, “You have no idea who we are, do you?”
+
+“Am I supposed to?”
+
+The woman glared. The other man, who was still looking all around, fixed his gaze at Erick. Now all three of them were looking at him like he was a slab of meat, or an unruly child; probably a mix of both.
+
+Black cloak said, “Anyone else would have. Take a gander at the farmers nearby.”
+
+Erick glanced at the nearby fields. In every direction, people stole glances at this confrontation. Erick looked back to Black Cloak, and then behind him. Valok and Apogough, two of the three people on the Farmer’s Council of Spur, were coming down the road, moving fast, toward the temple.
+
+Noticing Erick’s glance, the woman looked behind her. She said, “Here they come.”
+
+Black Cloak said, “Intercept. Do no harm.”
+
+The man and woman moved to intercept Valok and Apogough.
+
+Erick said, “This strongarm stance is doing you no favors.”
+
+Black Cloak said, “Silverite should have spoken to you about us if she was doing her job correctly. She has obviously not. So I tell you now: we are not here to win favors, archmage. I am Caradogh Pogi, the Lower-Trademaster of Portal. You may call me Caradogh.”
+
+The man and the woman stood on the road to the Harvest Temple, blocking Valok and Apogough at the edge of the Ring of Gods. They did not use violence; violence wasn’t necessary. Valok and Apogough stopped two meters before reaching the man and woman.
+
+Caradogh continued to speak to Erick, “We have sought you out to deliver a message, and a desire. You are hereby ordered to cease your disruptive activities—”
+
+Valok heard Caradogh’s proclamation, and shouted, “Fuck off, Portal. Go home!”
+
+By now, several nearby farmers had heard Caradogh. They raced out to tell others. The rumor mill was kicking into full gear. In seconds, other farmers were standing nearer to the Harvest Temple area, while still more were coming from farther afield.
+
+Caradogh didn’t care about any of that. He continued, “You must cease this rain. Let Spur’s growing season end. We demand that you set this spell aside, forevermore. You are causing people all along the supply chain from the Republic to the Kingdoms to go poor and hungry.”
+
+“They should move to Spur.” Erick said, “We still have lots of room for more people, despite appearances.”
+
+“Spur dies; routinely. And not just with the water season. Monsters attack and kill dozens. The Shades are gearing up to do something horrific, no doubt.” Caradogh says, “So what happens when you die? These people will be uprooted yet again. Spur cannot live like this. Your foolishness produces hardships for everyone. Please see reason and stop this rain while it is still just a novelty. Stop this before it becomes a deadly way of life, doomed to catastrophic failure.”
+
+Erick had deep worries of what would happen to the people of Spur if he ever let them down, or if he died. But everyone here wanted this rain, as far as he knew. And Erick wanted to give it to them. So who was this asshole to deny new, better ways of living, just because it disrupted the old ways?
+
+Caradogh was either scared, or angry; which was probably just another form of fear. There was a third option, of course: He was greedy.
+
+Erick calmly said, “The people of Spur want this rain. They want a new way of life in a new place, or they have always liked Spur and just couldn’t stay the whole time, or a myriad of other reasons. As far as I know, I am providing an opportunity that they want, and that I want to give.” Erick said, “You’re going to have to provide some other reason for me to deny local prosperity than ‘other people in other parts of the world’ are losing money.”
+
+Caradogh asked, “Do you wish for a trade embargo?” He said, “Ninety percent of all trade into the Crystal Forest passes through Portal; we are the gateway to the rest of the world. We are the bottleneck to the rest of the world. If you wish for this to continue, almost everything in Spur that is not made here will vanish over the coming months.”
+
+“Ah.” Erick nodded, then had an inspiration. “So! You are wishing for me to create permanent [Gate]s between all the major cities, now? Maybe I’ll start with one from Spur to Odaali. That would be pretty awesome, wouldn’t it? Gods know they need the help.”
+
+Caradogh almost said something, but the words caught in his throat. Valok and Apogough already stood at rapt attention, but at Erick’s proclamation, they smiled. The man and the woman with Caradogh turned to stare at Erick, disbelieving what they had just heard.
+
+After a moment, Caradogh caught up to himself again, asking, “Can you do that?”
+
+“I haven’t thought to try! No reason to, you know? [Teleport] is convenient on a personal level, but I can see how the mana and opportunity cost of [Teleport] would put it out of the realm of moving tons upon tons of cargo. But I saw Yetta use [Gate] a few times and it looked really useful. I bet I could make a big one. Large enough to drive a wagon train through.” Erick asked, “How would you feel about Portal becoming obsolete, because of your actions here today?”
+
+Caradogh paled. By now, more farmers had shown up to stand outside the temple. Twenty people, some incani, some orcol, and some dragonkin, stared daggers at Caradough, but said nothing. Some of them looked to Erick, with mixed expressions, but mostly expressionless.
+
+Erick added, “Or maybe there’s no need for such a thing. At least not right now.” Erick said, “Besides! Aren’t you tired of all this empty Crystal Forest, filled with nothing but agave and mimics? If you block me now, how am I supposed to turn back the mimics and reclaim all this land? You’re being really short sighted, here.”
+
+Caradogh stood straight. “I am prepared to offer you double what you already make, in order for you to never again spread this platinum rain.”
+
+“Denied.”
+
+Caradogh soldiered on, saying, “Two-point-five times what you already make and an estate in Portal, much greater than what you have here. You may employ this rain there, providing just as much opportunity to these people, as well as a much larger opportunity to drive back the Crystal Forest, without the threat of Shades looking to kill all the people here just because they feel like it.”
+
+“I like this town, and this town seems to like me.” Erick added, “Or at least they like what I can do for them. So. Again: Denied.”
+
+“If you are being held hostage by your ‘bodyguards’, then we are prepared to—”
+
+“I am here of my own volition, and it is rude of you to suggest otherwise.”
+
+Caradogh slowly said, “I am the incentive, Archmage Flatt. You do not want to see the alternative.”
+
+“Firstly, I want to thank whoever told you to come at me with this anger and with these vague stories of people’s livelihoods in trouble in some other part of the world. I am responding to your desires with as much honesty and clarity as possible, because you have come at me with a similar honesty and clarity. Or at least the appearance of such.” Erick said, “If you had tried to sugarcoat this bitterness you’re selling, with platitudes and charm, then… Well… That simply wouldn’t work. Probably. So good on you for doing your research.” He added, “But I am not going to change my mind, and I hope you do not enact this trade embargo, for if you do, then none of us are going to be happy with the outcome.”
+
+Caradogh calmly listened, then said, “Thank you, Archmage Flatt. I had hoped to resolve this issue without getting everyone involved, but I see now that you are adamant in going forward with your desires to make Spur a breadbasket.” He said, “Our business is thus concluded. I will take your word with me back to Portal. Expect a response in the coming days and weeks.”
+
+“Good day then, Lower-Trademaster Pogi.” Erick added, “And your response better not be assassins.”
+
+Caradogh frowned, saying, “I do not deal in those kind of people.”
+
+Erick did not believe that for a second.
+
+Caradogh quickly bowed, then whipped around and walked away. His man and woman fell into line beside him, as they moved aside from Valok and Apogough. Caradogh paused for the briefest of moments, whispering some quick words to Valok, but even though Erick immediately activated [Perfect Hearing], he had no idea what had just been said. The redscale farmer turned a bit redder, though he gave no response to Caradogh, except to glare at the man’s back, as Caradogh walked away.
+
+The other farmers who had gathered to hear the confrontation, also dispersed back to their plots of land; the rain was still falling, after all, plants were still growing.
+
+Erick called out, “If it’s assassins, you won’t be happy with the outcome!”
+
+Caradough waved his hand up through the air, but gave no further response. His woman briefly turned back to Erick and smirked at him, before she too, turned to face forward, continuing to walk to Spur.
+
+The other man continued to glance around at everything. And then he telekinetically stole a potato off of a farmer’s wagon. Erick, Valok, Apogough, and a few farmers, all watched as the wandering-eyed man bit into the raw potato. He spit out the bite and threw away the potato, into the rain, where it promptly started to grow in another farmer’s wheat field.
+
+Erick didn’t know how he felt about all of what had just happened. Annoyed, for sure. A spark of anger fluttered around inside his chest, yes. But it was only one potato. Best to let that sort of thing go.

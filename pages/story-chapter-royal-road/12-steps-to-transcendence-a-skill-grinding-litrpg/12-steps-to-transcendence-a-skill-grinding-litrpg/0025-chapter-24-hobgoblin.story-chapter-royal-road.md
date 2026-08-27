@@ -1,0 +1,183 @@
+---
+id: ce9df4fc-6fb5-57b7-9a4a-919e4f70af2f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24: Hobgoblin"
+slug: 0025-chapter-24-hobgoblin
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 25
+ownLength: 1798
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3770459/chapter-24-hobgoblin"
+royalRoadId: "3770459"
+---
+
+Cursing under his breath, he pushed mana into his feet and blasted out of the clearing. Shooting straight up into the sky, he prayed the beast couldn't follow him into the air.
+
+But a heavy whistling sound instantly proved his hopes wrong.
+
+Glancing down, he watched a massive iron spear blur right past his face. And the heavy metal chain attached to the hilt was rattling loudly behind it.
+
+Grabbing the other spear in its massive hand, the goblin let the upward momentum of the first weapon rip it right off the tree branch.
+
+The sheer force of the thrown spear literally dragged the massive goblin straight up into the air after him.
+
+What the actual fuck? How the hell is it flying with that?
+
+That shouldn't even be physically possible. It had to be some kind of bullshit skill or heavily enchanted item.
+
+Staring at the chained weapons, a sudden spike of pure greed flashed hotly in his chest.
+
+I want those spears.
+
+But his survival instincts forcefully crushed that thought a second later.
+
+No, I'm going to die.
+
+This oversized freak was way too strong.
+
+There was no other way to describe this terrifying pressure rolling off its body. It absolutely had to be a Tier 2!
+
+Ben had been progressing very fast but even he wasn't delusional enough to think he could beat a Tier 2 goblin. He could physically feel the massive gap in power between them just from its mere presence.
+
+So he detonated another blast from his heels and flew higher into the sky. He just kept blasting and running, treating the empty air like an invisible staircase.
+
+But the monster absolutely refused to stop the chase.
+
+Retracting the chain, it somehow launched the other spear to keep pulling itself upward in a jerky rhythm.
+
+It was rapidly gaining on him.
+
+Realizing he physically couldn't outrun it, Ben made a decision. He ramped up [Focus] to its absolute maximum limit. Spinning his body completely around, he detonated his heels in the exact opposite direction.
+
+The abrupt change in his momentum was so viciously fast that his vision instantly blurred. It felt like an invisible truck just slammed directly into his entire body. His blood literally rushed to the back of his head, squeezing his brain even with his Tier 1 body.
+
+Taking the goblin completely by surprise, he closed the gap in the fraction of a second. Bringing his bare feet forward, he slammed them directly into the beast's tattooed chest.
+
+And he unleashed a point blank [Fire Burst] straight into it. The violent explosion forcefully blasted the heavy monster back down toward the forest.
+
+Flipping backward from the recoil, Ben instantly fired another blast to return to his original route. He just needed to get back to the camp. But his forward movement jerked to a stop as the thick iron chains somehow wrapped tightly around his ankle, snapping him back like a rubber band.
+
+His entire body was yanked backward through the air and pain washed over his left leg due to the opposing momentums clashing with it for a moment.
+
+He was being forcefully dragged right back down toward the falling goblin.
+
+Looking down over his shoulder, he saw the beast grabbing firmly onto the taut chains. Swinging its massive, muscular body mid air, the monster was actively trying to whip Ben directly into the ground, ignoring physics.
+
+Fuck that.
+
+Refusing to be slammed like a ragdoll, Ben curled his body inward. Twisting his legs, he pressed his bare feet directly against the cold iron links wrapped around him.
+
+He ramped up his mana output and fired a continuous [Fire Burst]. It took a few agonizing seconds of sustained heat, but the immense pressure finally shattered the thick metal. The broken chains whipped away harmlessly into the wind.
+
+Falling freely through the air now, he stared directly at the descending monster as it flailed around, falling.
+
+Maybe I should just commit to the fight.
+
+Before the goblin could crash into the trees, he completely cut off the mana flowing to his feet. Letting gravity take complete control, he allowed his upper body to tilt downward. Waiting until he was perfectly facedown, he detonated a blast toward the sky.
+
+He shot straight down toward the earth like a missile.
+
+Catching up to the monster in an instant, he used his downward velocity to violently swing his feet toward its chest.
+
+He forcefully dumped an absolutely absurd amount of mana right into his heels.
+
+Pulverizing his feet into the monster's flesh, the resulting [Fire Burst] was deafening.
+
+A shockwave burst out from the impact as the sheer concussive force completely blew right through the goblin's torso just as they hit the dirt.
+
+A crater of torn earth and ruined flesh erupted around them.
+
+Ben stopped hovering with [Fire Burst], rolling away from the impact point. Ben was completely speechless.
+
+Staring at the mangled, smoking hole in the beast's chest, he was bewildered.
+
+Did it… die?
+
+Wha—
+
+Snapping its yellow eyes wide open, the goblin suddenly lunged forward. Grabbing his leg with a massive, bloodied hand, the beast slammed him into the hard earth.
+
+The brutal impact knocked the wind entirely out of his lungs.
+
+Through his blurry vision, he watched as the goblin stood up, its chest visibly filling up with flesh as it healed.
+
+Gasping desperately for the air that had just been knocked out of his lungs, Ben stared up through his blurred vision. The massive goblin jumped high above, holding its iron spear with both massive hands, aiming the tip directly down at his chest.
+
+It was literally copying his exact move.
+
+Shit!
+
+Knowing that massive hunk of metal would instantly crush his entire ribcage, he shoved mana into his heels. He detonated a massive [Fire Burst] without even trying to stand up first.
+
+The violent explosion forcefully launched his entire body sideways across the dirt.
+
+Missing him by an absolute fraction of a second, the goblin crashed heavily into the exact spot he had just occupied. The brutal impact completely shattered the solid earth, sending sharp rocks and massive clumps of dirt flying everywhere.
+
+Slowly pulling the embedded spear out of the ground, the goblin locked its yellow eyes directly onto him. It curled its ugly, tusked mouth into a vicious snarl.
+
+And it pointed the spear tip straight at his face, visibly challenging him.
+
+Fine then.
+
+Ignoring his screaming body, Ben blasted off the ground. He shot forward in a blur, dodging a massive, sweeping strike from the heavy spear. The thick iron blade effortlessly sliced a nearby tree trunk completely in half as he flew past it.
+
+Pivoting mid air with another blast, Ben tried to get around the monster's guard. But the goblin was terrifyingly fast for its massive size.
+
+Swinging its thick arm, the beast actively used the broken length of iron chain still attached to the weapon. The heavy metal links whipped through the air, acting like a completely separate, erratic weapon.
+
+The heavy chain slammed straight into Ben's shoulder, completely destroying his forward momentum.
+
+The sheer blunt force batted him right out of the air like an annoying fly.
+
+Crashing painfully through a thick bush, he barely managed to fire another blast to stop himself from hitting a tree. But the goblin was already right on him.
+
+Thrusting the spear forward, the beast relentlessly forced him entirely on the defensive. Ben burst backward, dodging by mere inches as the iron tip gouged deep trenches into the forest floor.
+
+He was being completely overwhelmed.
+
+The goblin was actively using the whipping chains to cut off his escape routes, cornering him directly into the path of the heavy spear.
+
+Finding an opening, Ben ducked under a horizontal swing of the chain. He jammed his dagger directly into the goblin's thigh, ripping a deep, bloody gash right across the thick muscle.
+
+But the beast didn't even flinch as it continued its attack, spinning the spear around to hit him in the stomach.
+
+Ripping the blade out to retreat, Ben watched in absolute disbelief as a familiar pale green light washed over the bleeding wound. The torn flesh knits back together in a single second.
+
+It completely healed before the dark blood even had a chance to drip down its leg.
+
+Are you kidding me? I wanted a normal goblin with healing, not some Tier 2 monster!
+
+He blasted a point blank [Fire Burst] directly into the monster's stomach, forcefully creating some distance. But the scorched, blistered skin just instantly turned green and healed itself right back to perfect condition.
+
+This bullshit healing skill was absolutely ridiculous.
+
+Hannah was actually completely right. These things really were the ultimate targets to farm if you wanted the [Regeneration] skill.
+
+If the skill was genuinely this ridiculously strong, he needed it. He absolutely needed it. His entire fighting style basically guaranteed he was going to be constantly bleeding and breaking bones.
+
+Because SOMEONE did not see it fitting to teach him a skill that didn't actually require him to fight in close quarters all the time. While knowing that he was a maniac that went all in on the mana path and had no essence assigned to the constitution path!
+
+But wanting the skill and surviving long enough to actually get it were two entirely different things.
+
+Misjudging the wide range of the swinging chain, Ben felt the heavy iron smash into his ribs. The sickening crack of bone echoed loudly in his ears even though he felt it more than hear it.
+
+A blinding agony flared entirely through his left side, completely stealing his breath again.
+
+He forcefully blasted away, creating a wide gap between them as he clutched his bleeding side. He couldn't keep doing this. The goblin was literally just soaking up his attacks and instantly healing them away.
+
+Meanwhile, he was getting actively beaten to death.
+
+I can't beat this thing.
+
+There was absolutely no point in fighting a completely invincible meat shield. Turning his back on the beast, Ben dumped mana into his feet and blasted into the dense woods. The thudding footsteps of the goblin instantly pursued him, loudly crushing the underbrush behind him.
+
+He just kept running and blasting, ignoring the pain in his chest.
+
+Tearing through the thick foliage, he suddenly heard the loud, rushing roar of moving water. Bursting through the final line of trees, he found himself standing at the edge of a steep, rocky drop off.
+
+A wide river plunged down a massive cliff, forming a roaring waterfall that grew bigger near the bottom.
+
+Hearing the goblin crashing through the bushes right behind him, Ben didn't even hesitate. Stepping completely off the edge, he just let gravity take him.
+
+He plummeted straight down alongside the rushing waterfall.

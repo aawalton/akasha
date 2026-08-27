@@ -1,0 +1,182 @@
+---
+id: 34a93dea-ae47-51ae-ba64-635a9a95eda2
+page-type-slug: story-chapter-played
+title: "The Census"
+slug: 0012-the-census
+partOf: the-dungeon-of-one-thousand-deaths
+position: 12
+ownLength: 2962
+unit: words
+---
+
+The book had forty-three pages left.
+
+Osren had counted them yesterday, the way he counted them every week — carefully, by feel, because the paper was good stock and the pages were thin and counting by eye introduced a margin of error he was not willing to accept. Forty-three pages. He used approximately one page per death, which meant the book had forty-three deaths left in it, which meant the book would be full before the dungeon was.
+
+He had not yet decided what to do about this. He had considered buying a second book from the merchant who came through every two weeks with supplies, but the merchant's books were cheap paper, stitched bindings, the kind that fell apart when handled daily. Osren's book was a census volume — vellum leaves, sewn in signatures, bound in calfskin that had been oiled and would last decades. He had carried it from the capital in a leather satchel designed for exactly this kind of document, and he had been carrying census volumes in leather satchels for fourteen years, and he knew the difference between a book that would hold and a book that would not.
+
+He would need to send for a proper one. That meant a letter to the capital, which meant the question of who to address it to, which meant the question of whether anyone in the capital would answer.
+
+The regional authority had stopped asking for reports six weeks after they had sent him. He had continued sending them — three reports total, each one a careful accounting of who had entered, who had not come out, the demographics he could track with the data he had. The first report had been acknowledged with a stamped receipt. The second had not been acknowledged. The third he was not certain had arrived, and he had no way to confirm because the postal route this far north was a man with a mule who came when he came and did not keep a log.
+
+He had stopped sending reports after the third. Not because he had stopped counting. Because the counting was the part that mattered, and the reports were the part that someone else had decided did not.
+
+---
+
+The fire needed tending. It always needed tending in the morning — the night burned low, and whoever was awake at the last hour before dawn was usually too cold or too tired to add the right amount of wood, and the fire had opinions about how much wood was the right amount. Too little and it guttered. Too much and it smoked, and the smoke drifted toward the entrance, and when the smoke drifted toward the entrance the air coming out of the dungeon pushed it back, and the camp spent the morning in a haze that tasted of stone dust and something faintly biological that Osren had never been able to identify.
+
+He added two pieces of the dry oak that the wood merchant left in a stack every fourth day. The fire accepted them. He moved the kettle over the heat.
+
+The entrance was forty meters away. He could see it from the fire — he could see it from everywhere in the camp, because the camp had arranged itself around the entrance the way a body arranges itself around a wound: not facing it, but oriented toward it, aware of it, organized by it. The entrance was an opening in the ridge, taller than it was wide, the stone around it darker than the surrounding limestone. In the morning the light went in about two meters before the dark took over. In the afternoon, when the sun was at the right angle, the light went in about four meters, and you could see the beginning of the ribbed walls and the faint blue-green luminescence that was the Gullet's own light, the light that had nothing to do with the sun.
+
+Osren watched the entrance while the water heated. The air coming out of it was warmer than the morning air — it was always warmer, a fact that bothered him in a professional capacity because it meant the dungeon was generating heat, and things that generated heat were doing something, and the regional authority had not asked him to assess what the dungeon was doing, only to count how many people it had done it to.
+
+He made tea. He opened the book.
+
+---
+
+The book was organized by entry, one per line, with columns he had added as the data required them. The original format — the one he had designed on his second day, when the book had nine entries and he had not yet understood what he was recording — had four columns: name, date of entry, stated purpose, outcome. *Outcome* had initially been a column with two possible values: *returned* and *did not return.* He had added *returned (partial)* after the fifth entrant who came back out, because the man had come back without his left hand and Osren felt that *returned* was technically accurate but practically incomplete.
+
+The book now had thirteen columns. He had added them one at a time, each in response to a specific data point he had not anticipated: *voluntary/compelled* (added after the eleventh death, when the pattern became undeniable), *depth reached* (added after the seventh death, when an entrant who came back had been willing to describe the interior), *re-entry* (added three days ago, after the mason), *companion* (added the same day, for the apprentice who had come with the mason), *crystal observed* (added after the third time he had seen a faint glow from the entrance, a light that did not match any natural source and lasted between four and eleven seconds).
+
+He had never asked anyone about the glow. He recorded it. Duration, color if discernible, time elapsed since entry. He did not have enough data to draw a conclusion, and he was not the kind of person who drew conclusions from insufficient data.
+
+He turned to the most recent entries. Torrin Ash and Ren Dallish, side by side. The mason and the apprentice. Entered together — the first pair. He had noted this with the underline he reserved for structural anomalies in the data set: events that changed the category system rather than fitting into it.
+
+He read the entries. He read the margin notation he had made: *entered together. first pair.* He looked at the two lines, side by side, neither one returned, and he closed the book and drank his tea.
+
+---
+
+The merchant arrived at mid-morning, leading a mule loaded with the standard inventory: rope, lanterns, dried food, water skins, a small crate of candles that Osren suspected were overpriced. The merchant's name was Dalya. She had been running the supply route for five months, which made her the longest-tenured merchant at the camp. The others had cycled through — a lantern seller who had stayed for three weeks and left after a Compelled entrant had knocked over his display without stopping, a water-skin vendor who had been undercharging and realized it, a man who sold maps he had drawn from entrant descriptions and who had left when someone pointed out that the maps were wrong.
+
+Dalya sold rope. She sold good rope. She sold it at a markup that was significant but not predatory, and she had explained, when Osren had asked about the markup, that the markup reflected the cost of transporting rope to a place that no one came to voluntarily and from which the customer base diminished by regular increments.
+
+Osren had appreciated the honesty of this.
+
+"Morning," Dalya said, tying the mule to the post that had acquired a mule-tying function through repetition rather than design. "How many this week?"
+
+"Two," Osren said. "Together."
+
+Dalya looked at him. She had the expression she used when processing a new data point — not unlike his own, which was why they got along. "Together?"
+
+"A mason and his apprentice. The mason had been here before."
+
+"The one from your book? The re-entry?"
+
+"Yes."
+
+Dalya untied the first bundle of rope. "Did they buy rope?"
+
+"No."
+
+"Nobody buys rope anymore." She set the bundle by the post. "The first few — the ones who came when I started — they bought rope, lanterns, provisions. They were preparing. The recent ones don't prepare. They come and they go in."
+
+Osren had noticed this. He had a column for it: *preparation observed.* The early entrants had spent between one and ninety-four days at the camp. The recent ones spent hours. The Compelled ones sometimes did not stop at all — they walked through the camp the way a river walks through a landscape, not detouring, not pausing, following a gradient that was invisible to everyone but them.
+
+He did not tell Dalya this. She had arrived at the same conclusion from a different data set — rope sales — and the convergence of their observations was a kind of confirmation he found more reliable than either observation alone.
+
+---
+
+The woman arrived in the early afternoon.
+
+She was not an entrant. Osren could tell — he could always tell now, the way a census-taker learns to tell a permanent resident from a temporary one by the way they stand in a doorway. Entrants stood facing the entrance. Non-entrants stood facing away from it.
+
+She was facing away from it.
+
+"I am looking for someone," she said. She was perhaps fifty, dressed for travel but not for the wilderness, in clothes that had been practical for a city road and were now dusty and stiff from three days on dirt. She had the careful diction of someone who was holding herself together by being precise.
+
+Osren opened the book. "Name?"
+
+"Mira Doss."
+
+He did not need to look. He remembered Mira Doss — the military party, the group of five who had entered together early in his tenure. But he looked anyway, because the book was the authority, not his memory.
+
+"Mira Doss," he read. "Entered with a military party of five. Stated purpose: assigned reconnaissance." He paused. "That was some time ago."
+
+"Four months," the woman said. She said it with the precision of someone who had been counting the days in a way that was familiar to Osren.
+
+He looked at the outcome column. *Did not return.* He had written this for all five members of the party, one line each, the same two days after entry when the pattern had become clear. He did not say this to the woman. The book said it for him — the five entries in a row, the outcome column identical, the careful notation of a complete loss.
+
+"She was my sister," the woman said.
+
+Osren wrote this in the margin beside Mira Doss's entry: *family contact. sister. arrived four months post-entry.* He wrote it because the data existed and the data should be recorded, and because in fourteen years of census work he had learned that the most important information about a person was usually provided by someone other than the person themselves.
+
+The woman sat down by the fire. She sat there for a long time. She did not ask how Mira had died, and Osren was grateful for this, because he did not know how any of them had died, and the not-knowing was the specific cruelty of his position — he recorded the entrances and the absences and the gap between them was a darkness he could not illuminate.
+
+"Is there anything of hers?" the woman asked. "Anything that came back?"
+
+"No," Osren said. "Nothing comes back."
+
+The woman left before dark. She took the road south. Osren watched her go and then he looked at the entrance and then he looked at the fire and then he opened the book to Mira Doss's entry and drew a small line beneath it. The line meant nothing. It was not part of his notation system. It was the first mark he had made in the book that was not data.
+
+He looked at the line for a moment. Then he closed the book.
+
+---
+
+The entrant arrived at dusk.
+
+She was young — twenty, perhaps, or younger, with the particular stillness of someone who had been walking for a long time toward something they were certain of. She stood at the edge of the camp and looked at the entrance and Osren watched her looking at it and recognized the orientation. Compelled. The certainty in the body, not the face.
+
+He did not approach her. He had learned that the Compelled ones came to him when they were ready, and the readiness took between ten minutes and an hour, and the hour was not for deliberation but for the body to finish the last of whatever the mind was holding it back from.
+
+She came to him in twenty minutes.
+
+"Name?"
+
+"Vella Harsk."
+
+"Purpose?"
+
+She looked at him. She had dark eyes and short hair and the calloused hands of someone who worked with something rough — stone or clay or coarse-grain wood. She looked at the entrance. She looked at the book.
+
+"I make tiles," she said. "Roof tiles. I have been making them for six years. Three days ago I stopped being able to see the color of the clay."
+
+Osren wrote this down. He noted, privately, that this was the third Compelled entrant who had been a craftsperson — the dyer, the mason, and now the tile-maker. He did not have a column for occupation. He considered adding one. He decided to wait for a fourth data point before committing a column to it.
+
+"Voluntary?"
+
+She considered the question with the seriousness it deserved, which most people did not give it.
+
+"I don't think so," she said.
+
+He wrote: *Compelled (self-reported).*
+
+She went in at last light. The entrance took her the way it always did — not dramatically, not with sound or motion, but by being there while she walked toward it, and then she was inside it, and then she was in the dark, and then she was gone.
+
+Osren sat by the fire.
+
+The fire was still burning. It was always still burning. In four months he had not let it go out — not because anyone had asked him to tend it, not because the fire had a purpose beyond warmth, but because a fire at the entrance to a place where people went to die was a thing that should not go out. He did not have a rational framework for this conviction and he did not need one.
+
+He waited.
+
+The dungeon made a sound, once, about forty minutes after Vella Harsk entered. Not a loud sound — a vibration, more felt than heard, a shift in the quality of the air coming out of the entrance. He had felt this before. He had recorded the previous instances in a separate section of the book, the section he had labeled *ambient observations* and which no one had ever asked to see.
+
+He wrote: *40 minutes post-entry. Vibration from entrance. Duration: 2 seconds. No observed light.*
+
+No light meant no crystal. Or meant the crystal had formed at a depth where its glow did not reach the surface. Or meant the death had been too fast for a crystal. He did not know which, and he recorded what he observed and did not speculate about what he did not.
+
+He waited for another hour. Then he opened the book to Vella Harsk's entry and wrote in the outcome column: *Did not return.*
+
+Death seventeen.
+
+He counted the remaining pages. Forty-two.
+
+---
+
+The book was not a memorial. Osren had been clear about this with himself — it was a census document, a record of entries and outcomes, the same kind of document he had been producing for the regional authority for fourteen years before the authority had sent him here and then stopped asking for results. A census counted. It did not mourn. The names in the book were data points, not eulogies.
+
+He believed this in the way he believed most things about himself: accurately, but not completely.
+
+The fire was low. He added wood. The entrance was dark — fully dark now, the last of the daylight gone, the luminescence inside too faint to reach the surface. The camp was quiet. Dalya had gone back to wherever Dalya went between supply runs. The searching woman was on the road south. Vella Harsk was in the dungeon and was not coming out.
+
+Osren sat by the fire with the book in his lap and did not open it.
+
+He was not a soldier, not a healer, not a Compelled wanderer following a pull he could not name. He was a census-taker. He had been sent to count the dead and he had counted the dead and the counting had become, without anyone intending it, the closest thing the dead had to being remembered. He could not stop them from entering. He could not save them once they did. He could write their names in a book with forty-two pages left and trust that the book would outlast his ability to fill it.
+
+He did not know what would happen when the book was full. He did not know what would happen when his own reasons for staying — reasons he examined every morning by the fire and found, every morning, insufficient and sufficient in equal measure — finally tipped in one direction or the other.
+
+He knew that the fire needed tending and the book needed pages and the entrance was always there and someone had to count.
+
+The night was quiet. The dungeon was quiet. The fire burned.
+
+*983 remain.*

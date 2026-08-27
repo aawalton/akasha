@@ -1,0 +1,197 @@
+---
+id: 0db52cc6-ac45-540e-90d9-1775cca5d517
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43: Unwelcome Guests"
+slug: 0044-chapter-43-unwelcome-guests
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 44
+ownLength: 1876
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3869457/chapter-43-unwelcome-guests"
+royalRoadId: "3869457"
+---
+
+Ben quickly ruled out fighting it in the water. That would just be suicidal. So he needed to bait its tongue attack from the safety of the land instead.
+
+If I can learn its maximum range and the cooldown between strikes if there is one, I can kill the ugly bastard while it's overextended.
+
+Nodding to himself, he slipped away from the pond to put his plan into motion. Hunting down a Tier 1 monkey took him barely any time at all given that they were pretty much everywhere. Dragging the fresh monkey corpse by its tail, he hauled it all the way back to the pond.
+
+He approached the pond slowly, making absolutely sure to keep [Lurker] fully active the entire time so the frog wouldn't sense him approaching. Though he thought better of closing the distance too much.
+
+Tossing the dead beast near the edge of the water with some effort and a bit of [Mana Manipulation] to flood his arms with strength, he quickly backed away and hid himself behind a tree.
+
+The corpse sailed through the air, and he kept note of the distance. Bursting from the water in a blinding blur of motion, the frog's tongue punctured through the monkey corpse and jutted out the other side, immediately snapping back into the pond like a rubber band, dragging the monkey with it.
+
+Holy shit.
+
+Wiping a drop of sweat from his forehead, he noted that the range on that thing was way further than he had originally thought. But to his immense annoyance, the frog didn't actually leave the water.
+
+Of course it wouldn't make things easy for me.
+
+The damn thing completely refused to come out onto dry land.
+
+Sighing, he realized how much easier this would be if he just had Duncan's holding bag or heck even a simple container. It was his lack of experience with these things, he should've at least brought a waterskin with him.
+
+Using [Fire Burst], he could have easily blasted over the surface of the pond and scooped up a massive amount of water. He could have been in and out before the frog even registered his presence, probably.
+
+…maybe?
+
+Because at the end of the day, all he actually needed was the essence-rich water to advance his Tier. But he didn't have a container, so fighting the Tier 2 monster head on was literally his only option.
+
+So a dead monkey wasn't enough to bring the frog out.
+
+Fine. Sprinting away from the pond, he headed straight back into the trees and purposely made as much noise as humanly possible, making sure to not use [Lurker]. Crashing through the ferns and bushes, he completely dropped his stealth and just stomped around to bait anything nearby.
+
+It didn't take long at all to find a few of them, and three monkeys instantly locked their eyes onto him.
+
+And Ben just gave them a shit eating grin and chucked a heavy rock right at the closest one's face.
+
+SKREEE!
+
+Shrieking in anger, the monkeys instantly scrambled down the tree trunks to tear him apart. Ben turned on his heel and ran like hell, pushing his Tier 1 body to the absolute limit. He sprinted straight back toward the pond.
+
+He specifically didn't use [Fire Burst] because he needed the dumb beasts to actually keep up with him—
+
+The monkeys started hurling magic at him. Ben dodged an icicle and wind blades with [Fire Burst], having to use the skill in the end anyway.
+
+Since when did Tier 1 monkeys have magic?
+
+He hadn't seen a single one use an elemental skill until exactly this moment.
+
+…but then again, he'd killed them all pretty easily, he doubted they got the time to use their skills. The only one that had used its skill had been the shadow monkey.
+
+Glancing over his shoulder, he saw the three monkeys right on his heels.
+
+Perfect.
+
+He gained some distance and then made a sharp turn, bursting into the clearing with the pond. He immediately dove straight into the dense patch of ferns he had used earlier, letting [Lurker] do its magic.
+
+His presence vanished in an instant.
+
+Skidding to a halt, the three monkeys burst into the clearing a second later and looked around in fury, but soon that morphed into total confusion as they didn't spot Ben anywhere.
+
+Breathing as quietly as possible, Ben just watched them from the bushes. Losing his scent, the monkeys eventually stopped caring about him entirely, because they noticed the pond.
+
+They sniffed the air as the sheer density of essence rolling off the water immediately hooked their attention. Letting out incredibly excited clicks and hoots, the three monkeys rushed right to the edge of the water.
+
+They lowered their heads and started greedily lapping up the liquid.
+
+Any second now.
+
+Watching with bated breath, Ben kept his eyes glued to the center of the pond. Bursting from the calm water in a blink, the massive pink blur shot out once again.
+
+Thwack!
+
+The middle monkey got impaled right through its thick neck, not even getting a chance to scream. The frog's tongue jutted out the other side of its throat, spraying dark blood all over the ground. The monkey gurgled as it fell to its death, getting dragged to the pond.
+
+But unlike the dead monkey from earlier, the other two monkeys didn't just stand there and take it.
+
+Ben watched calmly as the monkeys activated their skills. Swiping its hand the monkey on the left sent a blade of compressed wind flying straight at the tongue that flicked out to attack them again.
+
+And the monkey on the right raised its hands and actively manipulated the pond water itself!
+
+Ripping a chunk of water right out of the pond, the right monkey formed it into a dense spear and launched it.
+
+Slashing deep into the tongue, the wind blade drew a spray of dark blood from the frog.
+
+A gurgling croak of pain sounded through the water, surprising Ben as the frog instinctively tried to yank its bleeding tongue back into the depths.
+
+But the water manipulating monkey didn't let it do that, freezing the water spear that had missed, the monkey hooked the jagged ice right into the frog's fleshy tongue.
+
+Heaving backward with all their might, the monkeys literally dragged the massive amphibian out of the water. It breached the surface. The ugly bastard was absolutely massive, easily the size of a small car. Covered in dark green warts, it glared at the monkeys with its red eyes.
+
+Jumping into that chaotic three way brawl right now was a phenomenally stupid idea, obviously.
+
+First of all, that ugly bastard was the size of a fucking car and had a tongue that could punch through solid muscle. And second, those two remaining monkeys actually had elemental magic, which made them just as dangerous.
+
+Staying put and letting them kill each other was the smart, logical play.
+
+But.
+
+This was his moment to take advantage of the situation.
+
+They won't expect a third party.
+
+He flooded his legs with mana and triggered [Fire Burst]. Exploding out of the brush, he gave no time for the beasts to register his presence as he twisted his body and aimed his feet directly at the frog's massive, bulging red eye.
+
+Eat this!
+
+Fire slammed right into the amphibian's eyeball and it screeched in agony. The giant frog convulsed violently as the flames roasted its eye. Landing cleanly on the muddy ground on the other side of the pond, Ben smirked.
+
+Half blinded and leaking blood, the beast looked extremely vulnerable right now. It was actually winnable. Looking at the squirming monster, a sudden thought crossed his mind as he prepared a [Mana Cannon] from a safe distance, the monkeys focusing on the frog for now.
+
+There is no way this thing is actually Tier 2.
+
+Taking a point blank explosion that well was impressive, sure. But this was probably not a Tier 2 creature, but then again, neither did the shadow monkey seem like one. It was actually pretty weak once he took care of its strengths.
+
+Maybe it was the same for this frog? It benefited greatly from hiding in the pond, but now…
+
+So it was probably just a peak Tier 1 beast hoarding a good spot.
+
+Whatever.
+
+Raising his hand Ben aimed ready to finish the job, but he was suddenly forced to duck as a thick pink blur whipped past his head.
+
+Snapping its tongue wildly in every direction, the blinded frog completely lost its mind. It started thrashing around in panic, trying to hit anything near it. Watching a stray whip of the tongue literally shatter a nearby tree trunk, Ben frowned.
+
+Ben aimed his hand again, completely focused on the frog, and that's when [Mana Sonar] caught four distinct signatures entering his range. Looking over, he spotted a teenage boy in armor batting a branch away with his sword.
+
+"I'm just saying, Clarissa, if you'd just let me tank that stupid monkey, we wouldn't have wasted half our potions."
+
+Scoffing loudly, a girl with perfectly braided blonde hair stepped out behind him, twirling a polished wooden staff.
+
+"Oh, please, Thomas. If your footwork wasn't so incredibly sluggish, I wouldn't have had to freeze its legs in the first place."
+
+Chuckling from the rear, two more boys flanked them.
+
+"She's got you there, man."
+
+"Yeah, you totally tripped over that root."
+
+Who the hell are these people?
+
+Ben wondered, keeping the mana in his arm in case he needed to use [Mana Cannon].
+
+Thomas's eyes fell on what was happening. Glancing from the monkeys to the thrashing, bleeding frog, his eyes practically lit up.
+
+"Well, look at that."
+
+Resting his glowing sword on his shoulder, Thomas grinned like he had just won the lottery.
+
+"Looks like our luck just turned around, guys."
+
+Lowering her staff, Clarissa wrinkled her nose in disgust as she noticed Ben standing near the edge of the trees, covered in blood.
+
+"Is that the commoner?"
+
+Thomas sighed.
+
+"Of course it is."
+
+Thomas looked at Ben with a patronizing, pitying smile.
+
+"Hey, buddy. Good job getting the ugly thing onto dry land for us. You can run along now, we'll handle the clean up."
+
+Are you fucking kidding me?
+
+Staring at the arrogant prick, Ben felt a hot spike of pure rage shoot through his chest as [Focus] was busy with his other skills, mainly [Mana Cannon]. Ever since that evolution, it'd gotten a bit harder to control when he poured in too much mana.
+
+Like right now.
+
+"I found it first. I did the work. It's my kill."
+
+Laughing out loud, the two lackeys in the back elbowed each other.
+
+"Did he really just say that?"
+
+"I think he actually did."
+
+Thomas dropped his smile and rubbed the back of his neck. "Look, I'm trying to be nice here. You're bleeding all over the place and wearing actual rags."
+
+Pointing his sword straight at Ben's chest, the noble let a wave of mana roll off his body.
+
+"That thing is a Tier 2. It'll squash you. So be a good little kid and walk away before I smash you in the face."
+
+"I see."

@@ -1,0 +1,259 @@
+---
+id: f94a0c17-9655-5a0a-a357-fc50fb4671fd
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 254"
+slug: 0042-the-level-zero-hero-chapter-254
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 42
+ownLength: 2833
+unit: words
+publishedAt: 2024-08-26
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1774931/the-level-zero-hero-chapter-254"
+royalRoadId: "1774931"
+---
+
+Kallistus Kal didn’t know what was going on. Even though his third eye could see everything, he couldn’t see anything right now. Not even darkness. There was just nothingness all around him— an unending sensation of nonexistence.
+
+The last thing he remembered was Amelia grabbing him once again. But before he could fight her off, she took off with him, exiting the universe.
+
+And now, Kallistus Kal felt nothing. For what seemed like an eternity.
+
+Until suddenly, there was light.
+
+His three eyes snapped open as he found himself exiting a crack in space. He took in a sharp breath, watching the world whirl around him as he appeared in the air. Well… it was a world.
+
+But it was not a world he had ever seen before. In the distance, far below on the ground, he saw tall buildings of glass and metal rise up to above the clouds. He saw strange vehicles riding alongside symmetrical roads on the ground. It was a city, but one that was distinct from the ones he was used to seeing.
+
+Kallistus Kal’s attention was drawn back up to Amelia who was still holding onto him, looking down at the city in the distance. She spoke casually as the two of them slowly soared through the air, flying past the city.
+
+“The first time I killed the Voidgod, I thought it was over. I thought I could return home. I did return home. But look at it, it was nothing like I remembered.”
+
+Her eyes fluttered shut as she stayed silent for a moment. Kallistus Kal gritted his teeth, before raising his hands to break free from her grip.
+
+“You—” he started.
+
+And the [Hero King]’s third eye snapped open. He felt a throbbing pain run through his chest as his connection to the Fal-Deus wavered. He looked down at himself in confusion, realizing that the mini-Void he created felt so distant.
+
+What is this…? he asked himself. What happened—
+
+But before he could finish processing what was going on, Amelia suddenly sped up as the world around them began to shift. And then it was like glass was shattering all around him as he suddenly found himself under the lights of a different sky. A purple sky.
+
+One with a giant metal sphere descending from above. This was another world, and it was collapsing— coming to its end. A giant crater laid bare in the middle as everything began to crumble all around. Even still, Amelia landed on the trembling earth as she held onto the [Hero King].
+
+“After realizing that everything I fought for was gone, I returned back to the Fractured Realm,” she continued as she looked up at the metal sphere. It glinted, before a beam of crimson light shot down into the giant crater up ahead. “And there, I sought revenge.”
+
+Right as the crimson beam struck the ground, a powerful explosion erupted. It began to engulf everything. And Amelia picked up Kallistus Kal, before leaping into the air again, tearing through space.
+
+The [Hero King] blinked as he found himself suddenly deep underground. But it was bright here— an all-encompassing source of light shone ahead of them. It was another dying world.
+
+There was a wall of iridescent light that was approaching. But it was being held off by what seemed like two creatures straight from hell.
+
+Amelia shook her head.
+
+“So I killed the Voidgod a second time. It was actually harder than the first time, if I’m being honest. But I didn’t feel any better afterwards. So I decided I wanted to kill it again.”
+
+She turned around with Kallistus Kal, away from this dying world everything rippled around them. Once again, with the sounds of shattering glass, they appeared in another place. Another world.
+
+Except, this time, it was not a world.
+
+It was a white expanse.
+
+An infinite canvas of white. But in the far distance, a mannequin with golden hair stood. Amelia blinked as she spun around again.
+
+“Whoops, didn’t mean to come here, wherever this is.”
+
+And Kallistus Kal just blinked in confusion as he found himself in another world again. This time, he stood alongside Amelia atop a towering mountain inside of an abandoned temple. He looked around in confusion as he tried to understand what was going on.
+
+“Why are you showing me all these worlds? What is the point of all this?” the [Hero King] asked as he felt his connection to the Fal-Deus grow even weaker.
+
+Amelia shrugged as she raised her head, seeing a storm gather far away.
+
+“Oh, I’m just stalling while telling you a story. After all, the longer you are away from Vacuos, the weaker the Voidgod becomes,” Amelia explained.
+
+The [Hero King]’s brows snapped together. “What does that mean? How does that work?”
+
+Amelia waved a hand dismissively as she stepped forward, bringing the [Hero King] with her to another world. Now, they were underground again, overlooking a palace that seemed melded into the roots of a giant tree.
+
+“The point of my story is that revenge is not fulfilling. I killed the Voidgod ten times before I realized that.” Amelia spoke as she continued to stroll forward. Kallistus Kal followed her as the scene surrounding them continuously shifted. “Then I killed the Voidgod a bunch more times after that to challenge myself— I guess I was bored, and I wanted to see if I could kill him quicker than the first time around, because that was still my best timing.”
+
+The two of them strolled through an Earth overrun by aliens— lizard people that could take the shape of humans. Then they crossed through a vast ocean filled with krakens and leviathans. They traversed the multiverse as Amelia continued speaking.
+
+“Anyways, at a certain point, once killing the Voidgod became easy— which took way too long, by the way— I decided I wanted to kill the Voidgod for good. So that it could never harm anyone ever again.”
+
+Kallistus Kal no longer struggled to break away from her. He no longer tried to fight back. Just like he had rapidly grown stronger back in Vacuos with each passing moment, he was now slowly losing all his strength.
+
+And if he wasn’t able to defeat her before. He knew there was no possible way he could win now. He just listened as Amelia regaled her tale.
+
+“So I tried to kill the Voidgod in a thousand different ways. One of them that almost seemed like it would work was bringing it out of Vacuos like I am doing with you.”
+
+“I see.” The [Hero King] lowered his head.
+
+He regarded his chest, and the power of the Fal-Deus there was fading away. Soon, Kallistus Kal would have no power left.
+
+And yet, he felt no sense of urgency. Just melancholy.
+
+Amelia sighed as she led him to another world with a flash of light. “Of course, somehow, the Voidgod was reborn back in the Void. So that was pointless. We’ve arrived, by the way.”
+
+“Hm?” Kallistus Kal looked up as an orange sky began to materialize above him. He came standing atop a grassy knoll, surrounded by small pillars of stone that spread out as far as he could see. “Were you not just stalling for my death?”
+
+“Oh, I actually had a destination in mind.” Amelia stepped to the side as she smiled back at the [Hero King]. “Look.”
+
+She waited at the side of one of the small stone pillars as Kallistus Kal’s eyes widened. He stared at the writing engraved on it, processing the words.
+
+“Welcome back to your world,” Amelia said as she lowered her head.
+
+“I-I… this is—” the [Hero King] stuttered, before dropping to his knees. He read the words again and again as he clenched his fists. His two real eyes remained focused on the edifice, while his third eye darted accusingly towards Amelia. “Why would you bring me here? What is the meaning of this?!”
+
+He practically shouted. But he didn’t attack her. He just stared at the small stone pillar. Again and again and again, he read the words carved onto its surface. Because it said:
+
+Here lies Kallistus Kal
+
+A loving father
+
+A dutiful husband
+
+May his soul Rest in Peace
+
+Kallistus Kal’s lips quivered as his vision blurred. Tears began to stream down all three of his eyes, and he glared up at Amelia.
+
+“Why did you bring me here?” he repeated himself.
+
+She didn’t answer. Instead, she swept her gaze around the graveyard like she was searching for something. Then her gaze slowly returned to the [Hero King].
+
+He rose to his feet as he found his sadness becoming that of anger. “Do you just want me to suffer?!”
+
+Kallistus Kal screamed as he threw a punch. He didn’t think his attack would land. But Amelia didn’t dodge it. She stood there, taking the brunt of the strike. It forced her to take a step back as her head snapped back.
+
+Then slowly, she looked towards the [Hero King], meeting his gaze. “I do not want you to suffer, Kallistus. That’s the last thing I want to do to you.”
+
+“So why did you bring me here?” Kallistus Kal spat. He swung at Amelia again, and she just took it once more. “Why would you torture me with my own grave?”
+
+“Because I am not here to just show you this, Kallistus,” Amelia said as she shook her head. “This is what I am here to show you.”
+
+And she looked towards the two graves laid on either side of the [Hero King]’s grave. He craned his neck slowly, his eyes narrowing as he glanced between Amelia and the two graves. Then he trudged forward to read the words inscribed on the first grave.
+
+Here lies Diana Kal
+
+Loving wife of Kallistus Kal
+
+Mother of Lily Kal
+
+May her soul Rest in Peace
+
+“Diana…” Kallistus trailed off as his breathing quickened.
+
+More tears began to stream down his face, and he tried to wipe them away. But he was overcome by sadness— by the memories that was all he had left of her.
+
+He remembered her amber eyes, glinting brightly even on the sunniest of days. He remembered her favorite flower. A lilac. Purple and vibrant. Just like the sundress she used to wear. And most importantly, he remembered her voice.
+
+“I love you, Kal,” she would say.
+
+And she would accompany him always. Wherever he went, she would stay by his side. Her soothing words would always bring him back to the moment. So that he would never feel any stress or worry in his life.
+
+Kallistus Kal ground his teeth together as these memories were replaced with regrets— a deluge of regrets that inundated his mind.
+
+“I am sorry for not being there for you. I am sorry… I am…”
+
+But he couldn’t muster up any more words as he broke down crying. He cried and cried and cried for what felt like an eternity. Until, finally, he forced himself back to his feet and whispered.
+
+“I am sorry.”
+
+“You don’t have to be sorry, Kallistus.” Amelia placed a hand on his shoulder.
+
+“No, I failed them.” The [Hero King] clenched his jaw. He shrugged Amelia’s hand off, before he punched a fist on the ground. “I am a failure of a father and a husband…”
+
+“Are you, though?” Amelia asked as she raised a brow. “Look at your daughter’s grave, and you tell me.”
+
+“What do you mean by that?” The [Hero King] frowned. He looked towards the other gravestone— it was a far larger and more ornate grave than the others in the graveyard. For a moment, he wondered why that was the case, and his eyes went wide as he read the etchings on the stone.
+
+Here lies Lily Kal
+
+Mayor of Greensbury
+
+Daughter
+
+May her soul Rest in Peace
+
+“Mayor…?” Kallistus Kal rose to his feet as he stared at the words in shock. “My daughter became the Mayor of Greensbury?”
+
+“You didn’t fail them. In fact, it was thanks to your efforts when you were around, they were able to live when you were gone,” Amelia said.
+
+Kallistus Kal just stumbled up to the grave, before dropping to his knees. He placed a hand on the gravestone as his head spun.
+
+“I can’t believe this… I—”
+
+“They loved you, Kallistus,” Amelia continued as she walked up behind his back. “She did everything she did for you, just like you did for her.”
+
+“I-I…” The [Hero King] hesitated.
+
+He closed his eyes as he thought of Lily— as he remembered the promises she made him when she was young.
+
+She had only been a child— so young and bright. Not even a teenager yet. But she had always been smart. He remembered how much she enjoyed reading books. How discerning she was for someone her age.
+
+And she always enjoyed the stories he would regale her or share with her.
+
+Perhaps that was why she always had an ambitious mind.
+
+“I want to become a knight!” she had said back then. But she also said, “I want to become a farmer! I want to become a doctor! I want to become the mayor!”
+
+Diana and Kallistus both laughed when they heard her. After all, those were not women-jobs. And yet, they never chastised her. Instead, they let the little girl dream all she wanted.
+
+“You can be anything you want, Lily,” Kallistus Kal had told her.
+
+“Your father is right, Lily,” Diana agreed. “You can be anything you want.”
+
+“Then I will become everything I want!” Lily had exclaimed.
+
+And both the parents could only smile at the sight of their adorable child.
+
+It was a memory from long ago. One that made Kallistus Kal feel warm inside. Especially seeing what was written on the gravestone. A small smile spread across his lips as he nodded to himself.
+
+“You really did it, huh?”
+
+Kallistus Kal felt a sense of pride washing over him— the joy in knowing that his daughter succeeded in achieving her dreams. He wanted to take credit for it. But he knew that he was barely in her life. That it was due to Diana that Lily turned out so well.
+
+Slowly, the [Hero King] looked back up towards Amelia as he nodded slowly at her.
+
+“Thank you for bringing me here.”
+
+His eyes fluttered shut as he continued.
+
+“For letting me see this.”
+
+It was truly a sight to behold. It was truly a dream come true, even if he wasn’t there to experience it— to see his daughter grow old and live out her dreams.
+
+To see his wife smiling as she witnessed their daughter growing older.
+
+To care for them and help them throughout their journeys.
+
+But at the very least, Kallistus Kal could see the results of their life. And he felt… calm now.
+
+The anger he felt was gone. The rage he had directed to Vacuos and the Fal-Deus had faded away.
+
+Looking down at himself, Kallistus Kal watched as his blotched and purple skin began to turn into a paler color. His third eye sealed shut, beginning to merge back into his forehead. The connection he felt to the mini-Void was completely gone.
+
+He was at peace.
+
+Then he thought of all the crimes he had committed back in Vacuos— all the horrible things he did to get back to see his family again. And he felt the weight of his sins bear down on his shoulder.
+
+“I realize now what I have done. I have committed far too much evil to be let free. I have done too much wrong to be given another chance at life.”
+
+Amelia remained silent. She just nodded at him as he lowered his head. He bowed at the graves of his family as he whispered.
+
+“Diana, Lily, I am sorry— for the atrocities I have committed in your name. What I have done is unforgivable. Your father… failed you.”
+
+“Are you sure this is what you want?” Amelia eventually asked as she unsheathed her sword. “You can still have a chance to do good.”
+
+“This is the only good I can do now,” Kallistus Kal said as he slowly raised his head. He faced the sky, looking towards the setting sun in the distance. “To pay for my crimes.”
+
+“I see.” Amelia sighed as she raised her sword. “Very well, if this is what you want.”
+
+And for a moment, she did nothing. Kallistus Kal just waited as he kept his eyes closed. He thought of his wife and his daughter waiting for him. And he mustered up a final smile.
+
+“Diana, Lily. I hope that I will become worthy to see you again one day.”
+
+And Amelia whispered a final word, before swinging down. “Goodbye.”
+
+Kallistus Kal braced himself. And then the last thing he saw was Diana and Lily waiting for him with smiles on their faces.
+
+Then nothing.

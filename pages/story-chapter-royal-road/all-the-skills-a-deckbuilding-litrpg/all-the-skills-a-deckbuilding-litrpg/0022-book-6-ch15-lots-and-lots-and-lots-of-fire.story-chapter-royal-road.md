@@ -1,0 +1,273 @@
+---
+id: 0cbe7865-e364-54df-ac9d-ef0c7283c9d3
+page-type-slug: story-chapter-royal-road
+title: "Book 6: Ch15: Lots and Lots and Lots of Fire"
+slug: 0022-book-6-ch15-lots-and-lots-and-lots-of-fire
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 22
+ownLength: 3042
+unit: words
+ownProgress: 3042
+publishedAt: 2025-06-19
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2369669/book-6-ch15-lots-and-lots-and-lots-of-fire"
+royalRoadId: "2369669"
+removedAt: "2026-07-03T13:47:43.448Z"
+---
+
+Brixaby turned to look at Arthur.
+
+He didn’t bother to ask, "Are you sure?" because he knew his rider, and that meant he knew he would never use a card like this unless he was absolutely certain.
+
+Arthur’s expression was grim. He now knew that Lung Bai giving him the Cataclysmic Firestorm card had been a setup from the start.
+
+Perhaps she hadn’t known this moment would arrive so soon, but she was occasionally called in to clean up for eruptions that had spun out of control. She’d certainly known that eventually Arthur would be put in a position to use this card.
+
+But what she couldn’t know was that the foundation of Arthur’s heart deck had been changed beyond what people in this kingdom had seen before. He had never bothered to replace his destroyed card anchor. Why should he? His heart was now much more flexible.
+
+Though the lower rankers, the poor, and the desperate did it, people could not—or should not—remove cards from their hearts. It left a hole behind. A constant ache that some grew to ignore, others used as fuel for darker urges, and still more found they could not live with.
+
+No one spoke about it in polite company, but it was understood that the longer a card remained, the more the heart grew around it—metaphorically, spiritually, and so on.
+
+Arthur shuddered at the thought of removing a card he’d had since he was a child, even with his more flexible deck. He felt renewed sympathy for his father and those who had been forced to leave their cards behind when they had been sent to the borderlands.
+
+The point of this was that Lung Bai did not know that removing cards from his heart no longer affected him as it did others. She thought she was forcing him into a decision. This was a temporary situation at best.
+
+With a moment of concentration on his Master of Cards and a touch of his meditation skill, Arthur quite literally hardened his heart.
+
+As he drew the Cataclysmic Firestorm card out, he felt every Legendary eye on him.
+
+Perhaps Lung Bai had several motives because after this, they too would know what power Arthur carried within him.
+
+He slipped the card into his chest.
+
+Heart decks were nebulous things. He couldn’t exactly wall off the Cataclysmic Firestorm card from the others, though he wanted to. Instead, he kept it as figuratively far away from the other cards as he could.
+
+This was a good thing because the moment the card clicked into his heart deck, it burned. It was hungry.
+
+His heart and soul recoiled, and he had to fight the urge to rip the card out again. He had never felt a card like this: it was as if it held a deep malevolence.
+
+But… no. Cards weren’t sapient. It had to be a part of his imagination, borne out by the fact that this card was so very different—magics meant purely for combat and deep destruction—and it didn’t mesh with anything else within his heart.
+
+I don’t have to keep this for long, he told himself, pushing down the growing distaste that already bordered on hatred for the new card.
+
+Then he took that power that ached to burn a hole through him and instead pushed it out.
+
+Fire exploded from his hand. The initial blast was so hot that Brixaby recoiled in surprise, putting dozens of feet of distance between them and the fire.
+
+That was a good thing because the flame didn’t fall. It hovered in place and became a being shaped like a twisting spiral. It was white in the middle with the spun-out arms deepening into deeper oranges and reds.
+
+In another situation, it could be pretty.
+
+But the moment it burst into its spiral shape, it started shrinking. Arthur could feel it feeding on the residual mana in the air, as well as the oxygen. But while it was enough to sustain it—only the caster could snuff it completely—this wasn’t enough for the spiral to thrive.
+
+So, as he was still connected, Arthur fed it more mana.
+
+That was the kickstart the spiral needed. It whirled faster and faster, growing in size until it was nearly three feet across.
+
+Suddenly, it split into two more fire spirals. Each whirled in an opposite direction. Then those two split into four, then six, twelve…
+
+At this point, Arthur was running low on mana, so he directed them downward where there would be more.
+
+The butterfly scourglings were helpfully flying up to meet them, though there was still a fair bit of distance to go.
+
+There is your target, Arthur silently told the whirls. Feed.
+
+Instantly, the whirls spun sideways and flew downward. The edges of the spirals were like blades that cut through the air, speeding directly down faster than a person could fall.
+
+Through them, Arthur felt a moment of fierce satisfaction when they hit the first of the butterflies. It was like a man dying of thirst finally dunking into a cold, clear lake.
+
+Though he was sitting on Brixaby high up in the air, he was still connected to the spirals. He could see, feel, be the fire spirals as if he were hovering right alongside them.
+
+The bare edge of a spiral brushed a scourge butterfly’s wing. The flames instantly caught and incinerated the entire creature in a flash of light.
+
+It had been rich with energy, yet the spiral’s hunger had not been abated in the least.
+
+Arthur caught a glint of something falling from the ashes of the butterfly—it was small, glinting in the sun, and felt like food—just before those ashes, too, were consumed. The glint fell away.
+
+Using the energy from the scourge, the fire spiral split into two. Both were larger than the one it had been before. Then they both turned, along with the other spirals, and sawed through the butterflies.
+
+They all sought out more, jumping from scourgling to scourgling. There was never enough. With new flushes of energy, the spirals burned faster until some were mere blurs, grew larger, and split to create even more of themselves.
+
+“Arthur…”
+
+The voice was huge and deep and yet sounded oddly far away. He ignored it.
+
+Within moments, the spirals grew so hot that they did not need to have direct contact with the scourglings to feed. Butterflies several feet away burst into flame that, too, turned into more spirals. Hot air washed up and out to consume even more butterflies.
+
+“Arthur, can you hear me?”
+
+More and more spirals were born into the world. Each whirled in a different way that battered the air until the wings were as turbulent as a storm.
+
+Scourglings were trying to fly away but couldn’t. Their large wings were meant for lift, but not for speed. And they were so grouped together that when one caught flame, instantly its neighbor went up too.
+
+Some of the spirals began to merge until the middle grew from white to a brilliant blue. These sawed straight through the layers of scourglings and started roasting the remains of the grubs on the ground.
+
+Then they found the growing accumulation of tiny shards that were the fallen remains of the scourgelings.
+
+These were exceptionally potent and allowed the spirals to saw through the soil itself to consume every bit of scourge dust, pollen, and every bit of organic life and matter that had managed to escape the eruption so far. They burned and burned until the ground was completely clean and sterile of life and mana both.
+
+But there were still vast riches to expand and expand…
+
+Distantly, through a body that did not seem to matter much anymore, Arthur felt his seat on Brixaby drop out from under him.
+
+And suddenly, Arthur sat in darkness.
+
+No, not darkness. But his eyes—his mind—were so dazzled by the flame spirals that for a moment he simply could not see.
+
+He blinked and nearly fell off his seat on Brixaby’s neck, dizzy.
+
+To add to the confusion, he felt an oddness radiating from the Time card in his heart. It was a lack of… something vital.
+
+Only then did he realize he was in a place that was without time. And the only way that could be true was that he was in direct, physical contact with Brixaby, whose natural nullification magic allowed him to move in this place.
+
+This was not Arthur’s Personal Space. It was Brixaby’s.
+
+His eyes fully cleared, and he saw Brixaby’s blacksmithing things all stacked up neat and orderly, with tools hanging against the wall. Ingots of different varieties of metal were arranged in rows. In fact, everything in his Personal Space was tidy and organized. That was a stark difference from Arthur’s own.
+
+“Where did you get shelving?” Arthur demanded.
+
+“From the hive. Who would dare stop me?” Brixaby was looking hard at him, but then he relaxed. “You are Arthur again. The flames have left your eyes.”
+
+“The flame… what?”
+
+“There were flames in the back of your eyes, and you were not replying to my summons, you were simply staring at the spirals. Naturally, I realized you were not yourself, and so I broke the connection.” He waved a claw around the room.
+
+Arthur rubbed at his chest. It felt like he was suffering from heartburn. On top of that, he wanted to throw up. The memories of what it was like to consume those scourglings were so vivid it was almost as if he could taste them in the back of his throat.
+
+“I… don’t think I’m meant for this card,” he muttered.
+
+“Should I take it instead?” Brixaby asked, though he didn’t sound enthusiastic.
+
+That was a thought, though he didn’t dare show any weakness in front of the other Legendries or Lung Bai. If Arthur couldn’t handle the card, they could talk about transferring it later.
+
+“Thanks for pulling me out, Brixaby. Those flames… they just want to eat.” It was such a bland description for what he had seen—all he had experienced. Yet he had no other words for it.
+
+“They are eating through the scourglings quite effectively,” Brixaby admitted.
+
+“And everything else too,” Arthur said, thinking of the bits of organics that the spirals had sawed through.
+
+Not that there had been much hope for anything down there. The scourglings had taken care of that first. But the spirals had chewed through all that was left: the remains of houses, bits of clothing, debris from trees… and life. The fires consumed it all.
+
+“Yes,” Brixaby added as if he could read Arthur’s thoughts. “They are also consuming the shards.”
+
+“The shards?” He nearly asked how Brixaby knew that but then remembered that little bit of crystal light which had fallen from the first of the scourglings and how the spirals on the ground were becoming more empowered.
+
+Arthur groaned. They weren’t going to be able to harvest anything from this cursed eruption.
+
+Then Brixaby asked the big question. “Can you stop the fires?”
+
+“I should be able to, according to the card,” Arthur said. Then he admitted, “It won’t be easy. They’re alive, Brixaby. They don’t want to die.”
+
+Brixaby nodded and flicked his wings. He was so large he nearly filled the entire room and had to curl his tail around just to fit comfortably. It was a lucky thing all his wares were so neatly placed.
+
+“Then the alternatives are to let the fire consume the kingdom.”
+
+His words were like a slap in the face.
+
+Arthur closed his eyes. “No, you’re right.” He firmed his will and accessed his Master of Cards. “They’ll only stop when I make them, and I will make them.”
+
+Brixaby flicked out his tongue in satisfaction. “That is what I like to hear.”
+
+Then he brought them out of his Personal Space.
+
+****
+
+Arthur felt the change at once. He was no longer with the fire.
+
+Though he now watched the destruction from above – it was incredible, mesmerizing – he made sure that this time he was not pulled in.
+
+After a few moments, Brixaby looked back up at him. “What are you waiting for?”
+
+“For the scourglings to die.”
+
+The fire spirals were chewing through the mass of butterflies at an amazing pace. Each one went up faster than a dry leaf in a bonfire. The spirals expanded outwards as they found new fodder.
+
+But they still had not eliminated all the scourglings. There were simply that many.
+
+Arthur continued, “The demi-scourgling is dead, but we still have too many Commons with mind control remaining. Once they die, I’ll recall the fire.”
+
+“Too bad the fires consume the shards as well,” Brixaby said.
+
+Arthur shrugged, though really it was too bad. He just didn’t have the fine control over the spirals to tell them what to eat and what not to. They were unreasoning. He could only set them in a direction and hope they consumed, or stop them. That was it.
+
+Pulling his gaze from the fires, he checked the Legendries. They were still taking shelter within the shield—and that shield had shifted hues from bluish to a distinct red.
+
+Probably to deal with the heat, Arthur thought to himself. He couldn’t imagine how hot it would be so close to those spirals.
+
+Some of the Legendries were staring up at Arthur. Others had their attention fixed nervously on the fires. There didn’t seem to be any conversation happening among them at all. Just dread silence.
+
+Well, they could think of him what they wanted.
+
+Arthur turned his attention back. The fires had expanded to near the perimeter in places, and he saw indications of the lower-ranked fighters pulling back in horror.
+
+… As one might do with a growing storm wall of flame spirals coming straight at them.
+
+It was time. He wouldn’t risk anyone being pulled into the fires.
+
+Arthur reached out and felt the thousands of spiral flame summons—each practically mad with hunger. There was never enough to satisfy them.
+
+Using the power of the card, he pulled back the magic from them, one and all. The little bit of mana he had granted them from the beginning—that spark tied him to every summon.
+
+The spirals protested in silent screams that shrilled through his head.
+
+If he were still caught in the throes of their power, he might not have been able to resist. But Brixaby had broken him out, and Arthur was in charge. Not the fires.
+
+He mercilessly yanked his mana back. He had not been asking, only demanding.
+
+The spirals unraveled and snuffed out instantly, not even leaving smoke behind.
+
+Arthur sagged in exhaustion against Brixaby’s neck.
+
+His dragon stayed steady in the air, letting him recover.
+
+Within a few minutes, he reported that the lower rankers on the edges were mopping up the last of the butterfly scourglings. Their mind magic was apparently not as terrible when they were a couple of hundred strong instead of tens of thousands.
+
+“You did well,” said the ghostly voice of Lung Bai.
+
+Arthur looked up to see her flying in snaky figure eights above them. The king was nowhere in sight on her neck, but she was plenty powerful on her own.
+
+“You knew that this eruption would go out of control… or one eventually would, and I would have to stop it,” Arthur said, alarmed at how weak his voice was.
+
+“I knew you would have to show strength in front of the other Legendries, and that it would be best if it were sooner rather than later.”
+
+Her tone was pointed, and so Arthur straightened up—though his arms felt as strong as noodles.
+
+Her particular type of snaky body did not allow her to hover as Brixaby did. Yet she twisted and turned in the air so quickly that she had the same effect as she came close to Arthur.
+
+“Take your healer back. He has assured me he has done what he could for my Elizar.”
+
+Before Arthur could react, she opened a man-sized diamond-encrusted portal. She withdrew Marion with one claw and his hatchling dragon, Asha, with the other.
+
+The pair didn’t have time to yell or squeak in surprise before Lung Bai placed them upon Brixaby’s back. It was a tight fit, even accounting for Brixaby’s new size.
+
+“What in the world?” Marion looked around frantically. “Arthur? What happened to him?”
+
+“Refresh him, Marion,” Lung Bai commanded.
+
+Marion did a double-take at Arthur, tsked, and then slapped him roundly on the back.
+
+Revitalizing energy immediately flowed through him. Suddenly, it was no longer a strain just to sit up.
+
+“Excellent work, Leader Arthur,” Lung Bai said, and Arthur got the distinct impression she had just transmitted those words to everyone.
+
+Then, lower, in almost a threat, she added, “I will call on you and your healer when my Elizar is in need again.”
+
+With that, she flipped on her tail and dove into a new diamond portal that opened in front of her.
+
+Then she was gone.
+
+Arthur turned back to look at Marion, who seemed a little windblown in shock.
+
+"Is that a new card? I don't remember you having an energy refresher card before."
+
+His friend gave him a weak smile. "Yeah, it's an Uncommon but a useful one. The king gave me a library of cards to choose from. Arthur, what happened here?"
+
+A lot had happened, but Arthur tried to sum it up the best he could. "Demi-scourge."
+
+Down below, the Legendries had finally broken out of the shield. Some were flying up to meet him, some were directing the lower ranks to get home or help mop up the last of the scourglings.
+
+They didn't have much time. "Brixaby, use your Call of the Heart. Is the demi-scourge's card still in play?"
+
+His dragon jerked in surprise under him, and Arthur realized that he had assumed it had been obliterated. But a moment later, he answered with a satisfied, "Yes, it is. It was deeply buried—your spirals did not have time to chew through enough earth to reach it."
+
+"Keep that quiet for now," Arthur said. "After this is done, I intend to retrieve it."

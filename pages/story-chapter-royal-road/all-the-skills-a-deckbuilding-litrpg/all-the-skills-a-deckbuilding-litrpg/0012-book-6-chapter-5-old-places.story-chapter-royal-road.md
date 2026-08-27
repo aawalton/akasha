@@ -1,0 +1,189 @@
+---
+id: 8f1b0692-3a90-5492-9f87-462de204fe30
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Chapter 5: Old Places"
+slug: 0012-book-6-chapter-5-old-places
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 12
+ownLength: 2060
+unit: words
+ownProgress: 2060
+publishedAt: 2025-04-15
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2205152/book-6-chapter-5-old-places"
+royalRoadId: "2205152"
+removedAt: "2026-07-03T13:47:25.544Z"
+---
+
+"Where is your dragon anyway?" Kenzie looked doubtfully around as if she expected Brixaby to come boiling out of the shadows at any moment.
+
+He just might, Arthur thought. Though nowadays he needs bigger shadows.
+
+"Brix is back at Blood Moon hive, though he has a way of finding me when he discovers I'm missing. We... may want to get a move on before that happens, too," he admitted.
+
+Kenzie suddenly looked a lot less assured.
+
+****
+
+Since Brixaby was not present, Marteen offered to give Arthur a ride. Kenzie's saddle was not built for two, but Arthur assured her he would have no problem hanging on. He trusted his dragon riding skill.
+
+After they took off and Marteen leveled out in the air, Arthur asked, "So, about Valentina..."
+
+"Dead," Kenzie confirmed.
+
+Under them, Marteen made a low note of sadness. Kenzie shrugged, unaffected. It made sense. As an Uncommon, she would have little opportunity to get to know the woman. She continued, "Whitaker’s taken over, but everyone knows he can’t find his hind end using both hands to help. His retinue of Rare riders have stepped up to run the hive, and everyone knows it. They've started demanding things left and right of Uncommons like us," she added.
+
+"Not us, really," corrected Marteen. "We're pretty much ignored since we're not active fights and can't bring them loot from eruptions."
+
+"Yeah, we have it easy in some ways," she agreed.
+
+Arthur's heart clenched. He was worried about the people who didn't have it so easy. As he had seen with Blood Moon, corruption could easily take hold in the stratified society of a hive. "Is that why you're not too worried about leaving Wolf Moon?"
+
+She shrugged again. "Things aren't like they used to be. Not that they were ever great for nobodies like us, but at least we had respect and a way to move up if we worked hard. Now... well, Marteen and I are good at staying out of the way."
+
+"Is that the worst of it?" Arthur asked, suspecting that it wasn't. On the other hand, at least no one here would ever be expected to pay the blood price.
+
+Marteen made an angry sound, which confirmed to Arthur that there was more.
+
+"Other than the Uncommons and Commons being forgotten about? Well, we don't even have any cards for sales in the hive Commissary stores any more. I don't know how they expect people to get stronger unless they’re making cards from shards themselves, and who has time for that?"
+
+The discounted cards in the hive stores had been a huge boon to the riders here. And the more favored they were to be positioned up on the higher levels, the better access to the stores. It had been a major benefit many had worked hard for.
+
+"It won't last," he said.
+
+"It won't," she agreed. "Someone who has a few powerful cards in their heart—maybe one of the Rares who's not in the retinues and is tired of getting pushed around, will get angry and—"
+
+"No," Arthur said. "Think higher than that. If Whitaker runs this hive like he does everything else, it's not going to take long for an ambitious Legendary from somewhere else to find out and take it away from him." He let out a laugh even he could tell was cynical. "I think Whitaker might actually welcome it. He's not going to fight someone just to have to do all the work. He just likes the results of being a leader, not what he has to do once he's there."
+
+"Another Legendary, huh?" She gave him a look he couldn't quite decipher. "You?"
+
+Trust Kenzie to get to the heart of the matter. Then again, she could read his emotions like a book.
+
+And Arthur had to admit he was tempted. Wolf Moon had been his home since he'd been a child. It held a special place in his heart.
+
+Then he thought about the people back at Blood Moon hive. He hadn't even gotten his feet wet as a leader, but as captain of wing Purple had had gotten to know a lot of good people. More importantly, he had promised to help them.
+
+Yes, he could bring those people with him to Wolf Moon, but that would mean letting Desmond and Sybil take over as full leaders back there.
+
+No, he and Brixaby had taken down Chester. He owed it to Blood Moon to lead better than he and Blood Drop had.
+
+Besides...
+
+"No," he said. "It doesn't matter—none of this petty infighting between leaders really matters, Kenzie. The larger battle is still ahead of us."
+
+A normal person would have asked something like, "What larger fight?"
+
+Instead, she grew very still. "What have you seen?"
+
+"Battles between Mythics and Scourge-Gods," he said quietly. "And it didn't seem to go well for the Mythics."
+
+Her voice went quiet. "Like... the king?"
+
+Arthur couldn't help it. He snorted. "I've spoken to the King. And yes, I've let him know about how Whitaker “leads”, though I didn't know the details until now. Maybe he can drop a line to another Legendary who is looking to move up. Someone who could actually lead effectively here."
+
+Again, she stared at him. It looked like she was trying to figure out if he was joking or not. Of course he wasn't.
+
+Finally, Kenzie shook her head. "Arthur, you have become a scary man to know."
+
+"Does that mean you don't want to Blood Moon?"
+
+She shook her head. "No, scary men are the best to know. Especially ones that need me to work for them."
+
+Marteen rumbled from below them. "We're almost there."
+
+Finally, Arthur thought.
+
+Marteen was a larger dragon than Brixaby, but she flew in a completely different fashion and her wing beats felt laborious. It wasn't her fault—she was hurrying – she just didn't have the speed of a Purple.
+
+Marteen used a thermal's lift to curl around the great cone of the hive to the other side—a more shadowed section.
+
+This was a much less developed area with very few human buildings—likely outposts—and littered with unpleasant foothills that were more like sharp rocky upthrusts.
+
+It also looked familiar.
+
+He tapped Kenzie's shoulder and when she looked back at him he asked, "Isn't this where they found Brixaby's egg?"
+
+She started to respond, but Marteen curved her head around and spoke first. "And Cori's body."
+
+"Cori?" Then he remembered. "Oh right, Brixaby's mother."
+
+Kenzie, however, was giving her dragon an odd look. Then she turned back to Arthur. "When we meet these wild dragons, maybe you shouldn't mention you're Brixaby's rider. At least, not at first."
+
+Arthur knew her advice was well-intentioned, but he still bristled. "I'm not ashamed of being his rider. Besides, any dragon can feel I'm at Legendary rank." More than that, he had several Legendary cards and that only compounded his power.
+
+"I suppose," she said, though she looked doubtful.
+
+Marteen flew on. Arthur didn't see any dragons among the outcroppings, though he caught glimpses of color here and there, as if they were rushing to hide.
+
+There was an unpleasant smell in the air, too. Not far beyond this side of the hive's cone lay the vast spread of dragon soil fields. That was the place where dragon leavings were spread out to let dry in the sun for a year and a day before it was deemed somewhat safe to use as fertilizer.
+
+Any wind blowing from that direction—and it often would be— would bring wafts of that smell over here.
+
+Marteen did a couple of quick passes, and no one rose to meet them or even called out a greeting. The foothills were littered with cracks, rifts, and some outright caves.
+
+"I think they're hiding," Marteen said sadly.
+
+"Then we'll just have to convince them to come out." Arthur looked around and then pointed to a flat area below. "Set down there, and hurry."
+
+Something in his gut told him they didn’t have a lot of time left.
+
+As Marteen started to back wing downward, Kenzie turned to frown at him. "What are you planning?"
+
+"Trust me," he said.
+
+The Silver landed neatly, and Arthur dismounted, walking onto a relatively flat area.
+
+He could feel the weight of eyes on him as well as the influence of stealth-type skills. He still saw nothing, but he caught excited whispers and shushes on the air.
+
+Well, since he was being watched he may as well make a show of it.
+
+Arthur crouched and unstored a giant soup pot from his Personal Space. It was already loaded with soup broth of a mixture of several animals. Steam rose up, and as he'd half a mind to boil this mixture down to jelly, it was particularly thick.
+
+Then he pulled out a ridiculously tall stack of bowls, set it to one side of the pot, and stood back.
+
+Sure enough, as the smell rose into the air, he caught more flashes of dragons peeking out from around rocks and lifting long necks from the cracks of ravines.
+
+But the first to approach him directly was a Pink dragon. Her scales were spotted with silver—not the bi-color that indicated she'd had several riders in her life— but the dull dimming of age.
+
+Regarding Arthur shrewdly, she came over and made a show of sniffing the soup.
+
+Dragons couldn't exactly raise their eyebrows in the same way as humans, but the thick scales around her face did the equivalent, making her eyes wide.
+
+"You enhanced with broth with magical herbs to boost strength."
+
+"A temporary boost, but yes. It's food. It's meant to nourish," Arthur said calmly.
+
+She stared down at him like a disapproving schoolmarm would to a student. "What exactly are you up to?"
+
+"My name is Arthur, bonded rider to—"
+
+"I know who you are." she snorted down her slightly crooked nose. "Get to the point."
+
+"The point is," Arthur said, "I want to know how many dragons who live here want riders again."
+
+That caused a new wave of whispers, quickly shushed. However, now dragons were peeking their heads out and he saw quite a few Purples among them.
+
+"Why?" the Pink asked again.
+
+"To fight, of course," Arthur said. "Dragons are the antithesis of scourglings, and as you all know there have been more scourgling eruptions than ever before."
+
+She stared at him, disbelieving. "And you want wild dragons to fight for you? Many of us do not have useful cards. Else, we would have riders." There was a measure of bitterness there.
+
+"All cards are useful," Arthur replied. "And if you know me, then you know my cards are utility based." He gestured backwards to Marteen and Kenzie who were watching this play out in silence. "And I travel with a Silver who has no combat ability."
+
+The Pink dragon huffed. "Don't pretend that you're not dangerous. I can smell the Legendary rank on you."
+
+Arthur had learned a thing or two from Brixaby. He grinned, showing teeth. "I’ve never pretended I wasn't dangerous. This," he added, gesturing back to the soup, "is a show of good faith. I am now the leader of Blood Moon hive and I want to increase its strength. You're welcome to taste what I've brought here and know there is a lot more where that came from."
+
+Suddenly, the air all around them shook with forewarning. Then a voice came from high above, as if the sky itself were calling out. But it wasn't the sky. It was the voice of an extremely angry Legendary dragon.
+
+"BEWARE! THE TRAITOR IS HERE. FIND HIM, BRING HIM TO ME AND BE REWARDED."
+
+It seemed that Reginald had finally gotten word to Whitaker about Arthur. Their time had been cut short.
+
+Arthur was just turning to Kenzie to warn her that they needed to get out soon when, in the next moment, a dark portal opened beside him.
+
+Uh-oh, Arthur thought. Whitaker’s dragon's voice had been annoying. This portal caused actual alarm.
+
+A dark dragon's head emerged with blood red eyes. The rest of Brixaby flowed out behind, and he looked absolutely furious
+
+His eyes flickered over Arthur long enough to make sure he was whole and healthy. Then he glanced around and his gaze fell upon the elderly Pink.

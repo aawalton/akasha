@@ -1,0 +1,175 @@
+---
+id: 49659804-9bc5-5104-bad9-e55ac264a190
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch41: Cleanup and Rewards"
+slug: 0048-b6-ch41-cleanup-and-rewards
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 48
+ownLength: 2468
+unit: words
+publishedAt: 2026-04-07
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3244645/b6-ch41-cleanup-and-rewards"
+royalRoadId: "3244645"
+---
+
+Arthur’s shield cracked like a thin egg and the scourglings fell upon them.
+
+Brixaby may have felt a moment of fear, if not for the energy of his Call of Life. With the power thrumming through his veins, he felt untouchable. Unstoppable.
+
+He would have to learn how to share it with Arthur without causing injury. Chester and Blood Drop, the former leaders of Blood Moon Hive, had been powerhouses with just this card.
+
+With it, he and Arthur could be truly great.
+
+Unfortunately, there was still the matter of the scourglings to deal with. With Arthur securely tucked away in his Personal Space, he was trapped alone in a press of enemies. Their stink filled his nose; their shrieks seemed to cut through his skull.
+
+Snarling, Brixaby tucked his wings flat against his back and surged upward—always upward, pushing, shoving, biting. Brixaby trusted in his Tanky Constitution card, his Toughened Scales. Without both, he, and especially his wings, would have been torn to ribbons.
+
+His only saving grace was that the scourglings were being crushed as well, and seemed to have no idea a dragon was among them until they died.
+
+Of course, since he was here, he harvested. Anything he touched for more than a split second had its shards ripped away and added to his Personal Space. It was Common and Uncommon riffraff with occasional Rare bonuses.
+
+All would do nicely to enrich him once he was free.
+
+At last, Brixaby again saw glimpses of something that might have been the sky—or at least light—above.
+
+He bit and scratched, pushed away stray boulders with counterfeited earth-manipulation cards. Until with a final roar and a scattering of scourgling bodies, he broke free, unfurling his wings at last and buzzing to freedom and fresh air.
+
+But his ascension was slower than usual. His back-left wing ached and could not move quite in tandem with the others. No surprise. Despite his protections, he had been bloodied.
+
+He was also victorious.
+
+Brixaby roared again, and now it was other dragons who were hastily giving way for him, cutting off their attacks on ascending scourglings to clear a path.
+
+Shaking blood out of his face, he took a swift look around. The earthquakes had stopped, and it seemed the scourglings were truly on the back foot. Some were still emerging out of the canyon, but they were immediately set upon by waiting dragons.
+
+The power behind the eruption had been eradicated. Now all that was left was to clean up the remains.
+
+And more importantly, Brixaby had emerged with yet another Legendary card. He couldn’t wait to examine it. Perhaps this one would add even more to his own impressive strength.
+
+Filled with his own power and victory, he laughed aloud as he climbed higher, filled with his own power. Perhaps that was why even more dragons drew back—though surely most of them were overly impressed with his might. He felt all eyes on him.
+
+“Yes!” he declared, answering the question he knew they must have. “We have stopped this eruption. You may all clean up the remains.”
+
+More dragons drew away. Idly, he wondered if there was about to be more assassination attempts. Well, let them try. He could always use more cards.
+
+Before Brixaby could act, Sams swooped close.
+
+“Where is your rider, Brixaby?”
+
+Brixaby bristled at the disapproval he heard in the Rare dragon’s voice. “Arthur is with me, of course.” He reached up to touch his chest, indicating his Personal Space. He did not necessarily want to draw him out in front of onlookers, as he may be in need of some healing.
+
+His explanation drew a buzz of whispers and some outcries among the ranks of the other hives. Blood Moon merely looked grim or accepting. However, too many draconic expressions were disturbed and someone called out, “What kind of a monster are you?”
+
+Brixaby swelled, but it was Sams who turned to roar. “Of course he did not consume his own bonded partner! Our leader has many strong, high-level cards and can of course keep him safe in an extra space.” He pointed downward to the canyon-sized crack in the ground. “Do you imagine that is any safe place for a human?”
+
+Ah, they thought . . . what?
+
+The dragons nodded, as this made perfect sense to them. Some humans sent up cries in outrage, but their voices were thin and did not carry far in the air. Filled with the life force he had stolen, Brixaby did not care about their opinions.
+
+So, instead of yelling at Sams, he directed his voice to boom throughout the ranks. “Wing Purple, there are egg sacs up and down the canyon walls. Sams, you are to use your cards to light their way.”
+
+Sams was much too large to squeeze into the canyon, but he could direct the purples who could.
+
+“The rest of you, clean up the stragglers,” Brixaby said, and then set his sights to find pink Cinderwood.
+
+She had landed on what had been once a prosperous field but was now burned from the fight, and perhaps blighted by scourglings. As Brixaby landed, she bobbed her head in greeting. “I assume your rider must have been in a state for you to tuck him away.” She swept him with a disapproving eye only a veteran of many clutches could give. “You look like you had fun down there.”
+
+For the first time, Brixaby took stock of himself. Perhaps it was the adrenaline or a lingering effect of the extra life force, but he’d felt almost no pain up until that point. His scales were scratched to the point he would be shedding many within the next few weeks. Despite his protections, the scourglings had managed to draw blood here and there. Worst was his slower back wing. The edges were as ragged as an old blanket, and he had been flinging tiny droplets of blood with every flap.
+
+“Bah,” he muttered, irritated. “The stink was the worst part, aside from the drain on Arthur. He has exhausted himself from his mighty effort of killing the eruption.” Knowing there were listening ears, he pitched that part to be overheard by all. “And you will help him recover.”
+
+She gave him a look but then beckoned an elderly human to step forward. Brixaby recognized the man as the one who had been riding with her before, but as they were not bonded by cards, he did not matter much.
+
+“I am not a healer,” the man said, “but I do have some tricks up my sleeves.”
+
+Brixaby would have liked more assurance, but he was not about to order Asha and her rider here. Arthur was not deathly injured, and Brixaby had a point to make. Many dragons and riders from the other hives were lingering above with an eye turned in their direction.
+
+“Very well,” he said, and unstored Arthur from his Personal Space.
+
+His rider appeared a moment later, wavering on his feet. He looked . . . diminished. Also covered in scratches, and his arm was bleeding with what may be a bite. He had only been exposed from under the shield for a few moments, but that had been more than enough.
+
+He had also given his Moderate Self-Repair card to his mate, Joy’s rider, Brixaby thought with further dissatisfaction.
+
+Cinderwood’s friend stepped forward to place his hand on Arthur’s forehead. Arthur looked like his knees were about to buckle before he gripped the other man’s shoulder to steady himself.
+
+“He is drained almost down to the bone,” Cinderwood’s rider said, sounding shocked. “I’ve boosted his mana and physical energy, but with that life force . . . you need a healer, son.” This last part was directed at Arthur.
+
+“No.” Arthur stepped back, already looking steadier, though from the dark circles under his eyes, he could also use a long rest. Brixaby suspected some of the reviving magic was meant to carry people through a battle, not allow them true rest and recovery.
+
+Arthur glanced at his bloody arm, grimaced, and then seemed to flicker in time as he accessed his own Personal Space. When he returned an eyeblink later, his arm was cleaned and wrapped in gauze. It seemed he had tipped a bucket of water on himself because his hair was wet, he wore new clothes, and the worst of the blood and scourgling muck was gone.
+
+Brixaby would have liked to do the same, but he did not have a water tank large enough in his Personal Space. Perhaps Arthur had a tiny point about storing anything and everything of value.
+
+“My rider is strong,” Brixaby said, again directing his voice to the listeners. “He will be fine. Meanwhile, you have helped, and you and Cinderwood deserve a reward.” He gave Arthur a significant look.
+
+Due to his lingering exhaustion, it took a beat for him to understand. His eyebrows shot up, but he did not argue. Instead, he turned to the man. “Your reward—what is your name?”
+
+“Dandan.” He saluted, grinning. “I can see the question in your eyes—no, Cinder and I aren’t bonded. I never got a card that would fit. But we’ve been friends for years.”
+
+“Decades,” the old dragon corrected fondly.
+
+Brixaby didn’t know why Cinderwood simply did not search for another human that fit her existing core cards, or else have this one seek out one that would fit them both. Arthur would have done that—had done something like that for Cressida, before Brixaby hatched. But, well, not all riders could hold both ambition or intelligence.
+
+Either way, Arthur smiled at the story, though the smile was wan. “I am glad to have your help—both of you,” he said, then as Brixaby hoped, he reached into his Personal Space and deposited a Legendary shard into Dandan’s hand, and held another out to Cinderwood.
+
+Well. Brixaby would have preferred he give one Legendary shard to both, but he at least understood most of what was wanted.
+
+Dandan staggered back so abruptly that Cinderwood had to put her muzzle behind to catch him. “This . . . this is too much!”
+
+The dragons who were openly eavesdropping—and quite a few who were being more subtle—felt the strength of the shards. There were gasps all around.
+
+“We reward those who serve us faithfully,” Brixaby said before Arthur could demur.
+
+The Legendary shard had their attention. Now Brixaby would buy some of their loyalty. Now was the time to show off power and wealth. Dragons would understand this. Perhaps some of the humans would as well.
+
+He looked up. “Come forward, those with earth powers who helped the initial push!”
+
+Dragons were supposed to be fighting the remaining scourglings, and some were, but the escapees had gone down to a trickle, and barely anyone had gone back through the portals. They had been too curious to see what Brixaby and Arthur would do next.
+
+So when Brixaby called for them, the dragons and riders with earth powers came forward. These, Brixaby rewarded with Rare shards. He had collected enough from the scourglings down below to cover the cost. While they weren’t Legendaries, it was certainly good pay, and the dragons seemed to be proud and a little awed at the casual pay.
+
+When all had been paid, Brixaby looked to the sky and bellowed. “Remember Blood Moon if you are interested in a hive where you may work hard to become powerful with cards. Now, there are scourglings that have escaped into the wild. Go reap them. Good hunting.”
+
+The dragons knew a dismissal when they heard one, and many scattered to the sky. Some, however, kept an eye on the canyon for any remaining scourglings that managed to crawl out.
+
+Arthur crossed the small space to Brixaby, and the dragon was alarmed when he practically slumped against him, breathing hard.
+
+“Arthur, are you—”
+
+He stopped as Arthur shook his head and climbed up to his seat at the base of Brixaby’s neck. It took much more visible effort than it should have. The boosts had helped, but he needed to be seen by a healer.
+
+Brixaby knew as well that he was hiding his weakness in front of the hives. That was only appropriate, but he felt a spike of worry.
+
+As if sensing it, Arthur patted his neck. “I’m surprised you wanted me to give away those Legendary shards,” he said in a low voice.
+
+Brixaby wasn’t going to pretend it didn’t hurt, but . . . “Shards are a tool. Besides,” he said with a flick of his tongue, chasing down a sudden feeling that resolved itself into a full thought, “I get the feeling that the Legendary and Rare shards would be best going out into the world. I cannot collect them all.”
+
+Arthur’s lips twitched. “Very thoughtful of you.”
+
+“You are Master of Cards,” Brixaby snapped, annoyed and unaccountably embarrassed. “Though, I admit I’m starting to see cards a bit differently than before.”
+
+“You and me both,” Arthur replied. “Speaking of that: Do you have the Legendary card?”
+
+Brixaby fixed him with a long look. As if he would drop it!
+
+Arthur held up his hands as if to fend him off. “All right, all right. Let’s see it, then.”
+
+Eagerly, Brixaby brought it out.
+
+Ultimate Earth Crafter
+
+Legendary
+
+Utility
+
+The wielder of this card will be able to carve stone, clay, brick, packed earth, and the stone itself without the use of tools. In addition, the wielder will start with a basic, intuitive understanding of the earth. Using mana, the user will be able to manipulate earth on a basic level. This is a skill-based card with all new skills starting at default level 5, increasing with training and experience. This card unlocks mana and will provide an independent store of mana to be used exclusively for earth-type spells and manipulation.
+
+Ultimate Earth Crafter is part of the Elemental Crafter set. Search for Air, Water, Fire, and Wood Crafting cards to complete this set.
+
+Brixaby let out a sigh. It was a powerful card, but not one he was interested in. Well, it was unlikely he would be allowed to keep it anyway.
+
+Arthur slumped, too, though his gaze strayed to the broken roads and buildings that had once made up this town.
+
+Knowing where his thoughts were going, Brixaby headed it off. “They cannot rebuild here. Not with a canyon through their village. This card would do these people no good, and giving it to them would only invite more trouble on our heads.”
+
+“I suppose . . .” Arthur answered reluctantly, then looked to the sky. “The other Legendary pairs will have heard what we’ve done, if they haven’t already. We should get going. Are you ready?”

@@ -1,0 +1,163 @@
+---
+id: cd0b672c-0aa4-51b2-af62-ed91c315733f
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch30: Skill Grind (end)"
+slug: 0037-b6-ch30-skill-grind-end
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 37
+ownLength: 2101
+unit: words
+ownProgress: 2101
+publishedAt: 2026-02-26
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3095809/b6-ch30-skill-grind-end"
+royalRoadId: "3095809"
+removedAt: "2026-07-03T13:48:09.842Z"
+---
+
+Arthur crossed his arms and looked Brixaby dead in the eye. It annoyed him that he had to crane his head so far up to do so.
+
+“No,” he said flatly.
+
+“You don't need this,” Brixaby shot back. “Any of this.”
+
+That irritated him even more. “You don't know that. There have been plenty of times when I have needed something unusual from my Personal Space. You never know when I'll need an extra blanket or a specific tool—you’re busy blacksmithing half the time. You have to understand the value of a good hammer.”
+
+“Yes, which is why I carry all of my tools in my own Personal Space for my specific skills,” Brixaby said, exasperated. “I do not carry tools for your skills, like kitchen knives or shrapnel.”
+
+“Those are important,” Arthur shot back. “I need all of that and more. For example, I have the turkey chicks because—”
+
+“Turkey chicks?” Brixaby actually reared back in surprise. “Why, by all the cards in my core, would anyone need turkey chicks?”
+
+Arthur threw up his hands. “In case we come across a farm that needs restocking. People need to eat! Plus, I couldn’t leave them back at the hive. There was no place to put them.”
+
+That wasn’t the truth. He’d just sort of forgotten them amongst all the other very needed objects in his Personal Space. It wasn’t like they required food or water while being frozen in time.
+
+Brixaby rolled his blood-red eyes. “And what about all the eggs I know you have stocked in there?”
+
+“Eggs are expensive,” Arthur said defensively. “And the Personal Space lets them stay fresh. Same with all the fresh meat, and the chickens, fresh-picked vegetables.”
+
+They glared at each other, neither willing to give an inch.
+
+Arthur could hear himself, and he knew he was, quite possibly, just a little in the wrong. Maybe. But he wasn't going to back down in the face of Brixaby's bullheadedness.
+
+He and his dragon had spent the last week and a half in their dimensional space in single-minded preparation. Not just for the two eruptions to come, but also for the confrontation they knew awaited them at the Rowantree Estate.
+
+They had already leveled their skills in every way that they could think of, and had been struggling to come up with other ways to optimize their time. That was when Brixaby noticed that they happened to be in an area of untouched land. Land that could provide them with riches if they could think of ways to use it.
+
+Brixaby first went through the quarries. He had already seen the results of dropping heavy items from a height. He picked out all the best, and sharpest, stones.
+
+Then he turned his crafter’s eye on the trees and came up with the idea of hurling dozens of javelins on enemies below.
+
+Brixaby's new size made it easy to knock over trees. In fact, he seemed to delight in it, and Arthur was happy to see him finding something positive about being so large.
+
+By stripping the bark away, Brixaby was able to create sharp slivers of wood. That wasn't good enough, however. It didn't take long for him to access and then level up in a Woodworking skill so he could turn those sharp slivers into double-edged javelins, made deadlier by a metallic weight added to one end. That would ensure that the sharpest point landed when thrown from a height.
+
+Ridiculous? Maybe. But it was a much better solution than releasing another Cataclysmic Firestorm. With enough javelins, they could create suppressive area-of-effect damage.
+
+That got Arthur’s attention. He lent a hand and quickly gained a Woodworking skill, too.
+
+Unfortunately, for the fights to come, they needed a lot of javelins, and Arthur's Personal Space was nearly full. Brixaby suggested he dump the excess, and that’s what brought them here.
+
+Finally, after a few moments of glaring at one another, Arthur hit his limit and said, “Fine, but I'm keeping the live animals. I'm not dumping them in a dimensional space that's going to collapse in a few days. And the food supplies, and the medical packs, as well as the books and the most important tools. What are you getting rid of?”
+
+Brixaby looked like he wanted to argue him down further, but he knew Arthur well, and agreeing to get rid of so much was a big concession.
+
+“I will remove all the bulky things,” Brixaby said, and was as good as his word, immediately pulling out bedding, tents, mattress pads, and the like. He did, Arthur noticed, keep his giant furnace. But that was mostly used for his blacksmithing, so Arthur couldn't complain.
+
+Every square foot made a difference when packing in slim javelins. Personal Space didn't mind weight, but it did count magical mass. Luckily, rocks meant to drop onto enemies' heads and javelins weren't exactly magical.
+
+Arthur started unpacking.
+
+****
+
+The landscape of the dimensional space had changed dramatically within the space of a week. Meaning, they were leaving it a complete mess. Brixaby had cleared swaths of trees, dug up the earth for stones, and there were quite a few potholes where Arthur's own experiments with card shards had gone wrong.
+
+Speaking of shards... Their time in this space was ending.
+
+There was so much he still wanted to do with his Master of Cards, if only he wasn't stymied by time and experience. But he thought he had just enough time for one last tweak to his Heart deck.
+
+Arthur pulled out his Nice Shot card.
+
+Hey Man, Nice (Metal) Shot
+
+Rare
+
+Combat
+
+This card grants its wielder a ballistic-telekinetic affinity to metal objects less than one centimeter in all dimensions. The wielder will have fine control of this object within one inch of their body. When charged with mana, these objects may be released and shot out at high speeds. Aim well. The wielder’s control of the metal ends once it passes beyond one inch of their body.
+
+This card grants the use of mana.
+
+At this point, the card had saved his life probably more times than he had fingers and toes. While he hadn't had it as long as other cards, he had used it so often that he felt he knew it best. His eyes skimmed over the text, but it was like reading the face of an old friend.
+
+He didn't have the Rare shards to patchwork in a correction. Well, he had a couple of Rare shards left, but he had been working with those for weeks now and instinctively knew that they wouldn't fit into this card. No, those cards were waiting for something else.
+
+He could by now reliably alter Command and many Uncommon cards without shards, as long as they were small alterations. Making that leap to Rare cards was trickier.
+
+“I wonder...” he said, then reached out to the side and absently grabbed one of the javelins. He didn't know exactly how he could tell, because he and Brixaby had both been making them en masse, and aside from the wooden patterning from tree to tree, they looked identical. But Arthur knew that he had created this. There was a very, very slight resonance with his Woodworking skill.
+
+Holding the javelin flat out in his palms, with his Nice Shot card in front of him, Arthur closed his eyes and accessed his meditation skill.
+
+He didn't have a real goal other than to clear his mind, but as he sank further and further into himself, he found that he could follow that very slight resonance. It was like following a silk thread of spider web that connected his Master of Skills to this javelin, and then out again to his Master of Cards.
+
+No, that was wrong. There was another piece of spider silk—another connection—that went straight from that javelin to his heart. Not his heart deck, but the core of Arthur himself.
+
+He had crafted this object, and both his Master of Skills and his Master of Cards whispered that was important.
+
+Still, in this meditative state, Arthur was in no hurry. He sat there and absorbed everything that his cards could give him, mentally following the connective string from point to point until he was absolutely certain that he had the image fixed in his mind.
+
+His eyes were still closed as he reached out for his pen knife and then placed the sharp nib on the Nice Shot card.
+
+He focused on his woodworking skill as he wrote the words that would alter the matrix of the card. Each slash of the pen knife was steady and sure, without either a hesitation or an error.
+
+He knew that the card would accept the change even before he was finished. Of course it would. It had been nestled in his heart for some time, and the card had come to know Arthur as well.
+
+In addition, Arthur had come to understand at least the basics of the woodworking craft through his skill. Master of Cards and Master of Skills were of the same set. They, too, had synergy.
+
+It was done. Arthur let his meditation skill drop and looked down at the card.
+
+Hey Man, Nice (Metal) Shot
+
+Rare
+
+Combat
+
+This card grants its wielder a ballistic-telekinetic affinity to metal and wooden objects less than one inch radius. The wielder will have fine control of this object within one inch of their body. When charged with mana, these objects may be released and shot out at high speeds. Aim well. The wielder’s control of the object ends once it passes beyond one inch of their body.
+
+This card grants the use of mana.
+
+He grinned. He had just changed a fundamental part of this high level card. Using this technique, he didn’t need shards to alter high-level cards—at least, not every time. This could change everything.
+
+Slipping the Nice Shot card back into his heart, he grabbed a javelin and pumped it with mana. It took a lot more than a regular shrapnel shard, and he wouldn't have control of it once he let it fly. So he had to make sure that he would be on target.
+
+That was where his throwing skill came in.
+
+Arthur let it fly, and it zipped away from his hand as fast as an arrow leaving a bowstring. It struck the side of a dirt hill 50 feet away and buried itself halfway in. A normal javelin would have exploded into splinters. It seemed that the extra mana helped keep its integrity.
+
+As he turned to call out to Brixaby and tell him about what he just learned, he saw the dragon at a far-off stand of trees, stripping branches from a trunk in preparation to make more javelins.
+
+Right, they had two more days and a dimensional space packed with wood in order to make weapons.
+
+Arthur started toward him on a path that took him past some of the supplies he had offloaded from his Personal Space. He felt a pang of loss, thinking of the stuff he would leave behind just because he didn't have room—
+
+He stopped in place then facepalmed.
+
+“I don't need to leave anything behind,” he muttered, realizing that he and Brixaby had both been so fixated on being the one who was right that they had both missed the bigger picture. “We could just open the exit a little early and toss everything we need out through the door. It doesn't need to come with us in the Personal Space.”
+
+Well, Brixaby would be happy that they could at least take more javelins with them.
+
+His dragon, though, looked faintly unimpressed when Arthur told him this a few minutes later after joining him near the trees.
+
+"Why do I have the feeling that in a few years you will have somehow filled up the entire hive with junk?"
+
+He grinned at Brixaby, in a fine mood now that he didn’t have to leave anything behind. "It's not junk if you need it. Besides, you act like I never throw anything away."
+
+"When was the last time you threw something away of value?"
+
+"Why would I throw something away of value? I'd rather give it to the quartermaster to sell."
+
+“Bah,” Brixaby said, and felled a tree with a satisfying crash. “I will strip these trees. You get started cutting.”
+
+“I will!” He smiled brightly, “How about I use the sharpened axe I brought along in my Personal Space? The one I didn’t know I would need until about a week ago?”
+
+“Bah!”

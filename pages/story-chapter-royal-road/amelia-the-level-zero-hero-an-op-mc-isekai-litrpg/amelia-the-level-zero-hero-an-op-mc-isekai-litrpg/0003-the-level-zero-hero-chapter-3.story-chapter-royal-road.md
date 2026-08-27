@@ -1,0 +1,139 @@
+---
+id: f534af21-2f81-575f-8315-d96e49f35adc
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero [Hero] Chapter 3"
+slug: 0003-the-level-zero-hero-chapter-3
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 3
+ownLength: 2014
+unit: words
+publishedAt: 2022-12-02
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1053904/the-level-zero-hero-chapter-3"
+royalRoadId: "1053904"
+---
+
+“Why do you protect that world?” a voice boomed in the endless void.
+
+Amelia looked up— up from the fractured moon she stood on. Her ragged and tattered cloak whipped behind her, battered by the unceasing winds. She stepped past a dark shadow and swept her gaze over the whirling world of floating rocks and molten rings.
+
+This was a broken world. A world where space tore and bent and twisted open before quickly dissipating. A cosmic canvas speckled with scintillating starlight that continuously shrank and expanded, receding into itself at the center and pouring out in an arc.
+
+But amidst the vast nebulae was a sliver of an untainted world. The visage of green trees and blue oceans, untouched by the darkness pervading this fractured realm. Dark tendrils lashed out, aiming for that little speck of vibrant colors, but Amelia leapt out and parried the whip-like attacks.
+
+“Vacuos is not your world. This is not your fight. So why do you oppose me?” the same voice asked.
+
+Amelia landed atop a comet, left arm hanging limply off her shoulder as she bent double and hacked. Her blood dripped onto the icy floor, and the voice continued.
+
+“I can see your dreams— I know your deepest desires. I can grant your wishes and give you power unimaginable. Simply forsake that world, and you shall find salvation.”
+
+From the expanse of nothingness, the source of the voice emerged. Tendrils ripped open a rift larger than even the fading nebula, revealing a mass of twisted lines and distorted angles and inverted dimensions and impossible shapes and non-existent colors—
+
+Amelia stared up into the Voidgod, and a creeping chill washed over her skin like the pinprick of crawling ants. Its fulsome flesh melted away, revealing thousands of baleful eyes, seemingly innocuous at first, only to blink with eyelashes made of human teeth.
+
+“Do you accept this offer?” the Voidgod asked, proffering her a tendril.
+
+It wasn’t her fight. It wasn’t her responsibility. She has been thrust into this situation unwittingly, forced to fight and survive for so long. She gritted her teeth, biting through the pain as she got to her feet. Amelia gazed back into the abyss and said—
+
+“Fuck you.”
+
+And all at once, the Voidgod let out a terrible scream. From the shadows, countless voidlings crawled out, shrieking in unison with their creator. This chittering noise filled the Fractured Realm as Amelia reeled.
+
+“How dare you reject me! I could have given you everything! You could have become God!”
+
+The tendrils shot down at her, but she charged forward, weaving in between the attacks. Reaching the end of the comet, she leapt up and raised her rusty sword. The blade glimmered— a white light that dispelled the shadows.
+
+“I don’t care about any of that bullshit!” she yelled back. “After all I’ve been through, I just want to live a normal fucking life!”
+
+With those words echoing in the darkness, Amelia clashed with the Voidgod—
+
+And I woke up.
+
+The sun was shining. The streets were busy, bustling with various activities. I could hear the bleating of sheeps and the clopping of horses. Yawning, I blearily blinked my eyes open and looked out the window. There were children playing by the roadside, and vendors filled the market street.
+
+I paused, looking at the sun hanging high in the sky. It was clearly late into the afternoon.
+
+“...fuck. How many hours did I sleep?”
+
+—--
+
+This city was called Windrip. I arrived here last night after defeating both the Lich King Ar’elith and his goon Zolan. I paid a toll to enter, before quickly finding one of the few still-open inns near market street. After that, I immediately passed out in my room.
+
+It was a well-deserved rest, honestly. In the Fractured Realm, I had no time to sleep— I couldn’t sleep. It was like I was living in a nightmare. If I had let my guard down for even a single second, a voidbeast would have pounced on the opportunity to kill me.
+
+I wanted to clamber back into bed and fall asleep once again, but I forced myself up. I had already resolved myself last night. I had to learn more about this world— figure out what I wanted to do. I knew that this was a medieval-esque world with Classes, Levels, and a System, but even here, I needed money to survive.
+
+I had about a hundred-and-fifty silver coins as well as a handful of gold coins from looting Zolan’s corpse. Judging by the one silver fee to enter the city, and the five silver cost to stay at an inn for a week, I didn’t have nearly enough money to retire with. I also personally wasn’t a big fan of relying on robbing dead bodies as a source of income.
+
+Maybe I could start a farm. Or become a cook— I was pretty good at cooking compared to my college roommates who ate takeout for both lunch and dinner. But considering that I was out of practice and without modern equipment, I wondered if I could even produce anything palatable.
+
+I wandered out of my room and down the stairs to the common room of the inn. The innkeeper— a middle-aged woman named Brynn— greeted me with a warm smile.
+
+“My, my, my.” She clapped her hands together as I took a seat. “Someone slept well last night. Unfortunately, I’m the only pair of hands around right now, so we only have cold leftovers from breakfast.”
+
+My stomach groaned, and I shook my head. “I’ll take whatever I can get,” I said.
+
+The innkeeper nodded before quickly bringing me a cold bowl of stew. It didn’t look very appetizing— in fact, it looked quite dull in texture— but I wasn’t going to be picky about my food. I hadn’t had a meal in ages. I instantly dug right in, savoring every single bite I could.
+
+And as I ate, I casually asked Brynn a few questions to gain my bearings on this world. She told me about the history of the city—the reason for its high walls was due to the location of Windrip. It was situated right at the edge of the Astrad Kingdom, bordering a dangerous region called Briar Glen that was teeming with monsters. And I found that odd.
+
+I hardly saw any animals while I was lost— let alone any monsters. Unless, maybe, the Lich King and his undead horde scared all the monsters off.
+
+I also asked the innkeeper about the kinds of jobs people worked here, and about the average wage earned each month. She waved a hand off dismissively.
+
+“There are all kinds of jobs out there, and the pay varies, of course,” Brynn explained. Then she shook her head and sighed. “I used to pay my cook seven silver a month— I even gave them lodging and food! But another tavern snatched her from me with a higher wage... now I don’t have a cook, and business hasn’t been doing as well as before.”
+
+I lowered the empty bowl of stew and eyed her curiously. “Are you looking for a cook?”
+
+“I am, but these days, they’re demanding to be paid ten silver a month. I can’t really afford that, y’know?” She rested her chin on the palm of her hand.
+
+“I see.” I inclined my head in thought. I got an idea. “I’m pretty good at cooking. I can fill in for a few days if you want.”
+
+I could even teach her a few modern recipes to maybe help her out. It also gave me something to do and let me earn a few coins on the side as I figured things out.
+
+Brynn brightened. “Oh, will you do that for me? Honestly, you would be doing me a wonderful favor!” Then she paused. The innkeeper raised her head as she crossed her arms. “But I’ll need to pay 50 copper to the Mage’s Guild to get you appraised. Seriously, why do they even charge so much for a single spell?”
+
+“To get me… appraised?” I frowned.
+
+“I’m not going to hire a Level 4 [Apprentice Cook], y’know? I need a Level 10 [Cook] at the very least or I’ll end up chasing away customers instead.” Brynn spoke casually, as if I understood a single thing she had just said.
+
+“A Level 10… [Cook]?” I stared at her, utterly confused. “Wait, why would you even need levels to learn how to cook?”
+
+The innkeeper gave me a reassuring look. “I’m sure you’re probably a Level 20 [Chef], but this is only a formality. You understand, right?
+
+“No, I don’t understand,” I said flatly. “I don’t have a single level in [Cook] or [Chef], and I can cook just fine.”
+
+“You… don’t?” Brynn froze. She looked me up and down for a moment. Then her shoulders sagged, and she gave me an apologetic look. “I’m sorry, but this won’t work—”
+
+—--
+
+“What’re ya even doing here if you ain’t a Level 10 [Lumberjack]?” the burly man snorted. “I ain’t hiring you just to teach you from the ground up, girl.”
+
+The farmer shook his head before gesturing at a young boy by his side. “Sorry, lass. I’ve already got a [Farm Helper] right here.”
+
+“I apologize, but we’re not looking to hire an [Apprentice Smith], right now,” the blacksmith said as he bowed deeply. “If you reach Level 20 as a [Smith], we would consider your application.”
+
+As it turned out, this world functioned vastly differently from Earth. It was also very distinct from what I thought it would be like. When the System first appeared in front of me, I thought that Vacuos would be like a video game of sorts where people fought and leveled to grow stronger. And granted, yes, that was true, it also extended to every aspect of life.
+
+Very few people in this world were without a Class. Almost everyone had levels— when I visited Windrip’s only library to research more about Vacuos and the Astrad Kingdom, a Level 21 [Librarian] helped me find the books I wanted to read.
+
+I was surprised to find that I could easily read the words on the books here without any complications. I didn’t even realize it until now, but I also could speak with everyone I met just fine. Perhaps it might’ve had to do something with the System. Or maybe it might be magic. Whatever it was, it was rather convenient for me as my research eventually led me to a crowded building.
+
+It looked like a fancy inn with a gilded arched doorway at the front. It stood at the very center of Windrip, lavishly decorated in comparison to its neighboring buildings. Oddly dressed figures entered and exited the building by the dozens. They wore brightly-colored armor, and they brandished knives or carried swords or walked with bows or played with staffs.
+
+“The Adventurer’s Guild, huh?” I murmured.
+
+Apparently, it was one of the few places I had a chance of getting a job despite my lack of levels. From what I read, there was some precedent for it before. It was also a lucrative job, with one of the highest average salaries, from what I could tell.
+
+“And all I have to do is kill some monsters? Honestly, that sounds pretty easy…”
+
+After all, killing a few monsters probably wasn’t going to be that much harder than killing a handful of voidlings. I could just kill a few monsters, make a good amount of money, then retire, right? It really sounded easy enough.
+
+Which was probably why it was going to go awry. With a sigh, I took a step forward, starting into the guild.
+
+“Well, may as well check it out anyways.”
+
+—--
+
+And as Amelia visited Windrip’s Adventurer’s Guild, there was a stirring a few miles out from the city. A large gathering hid behind the cover of the forest. They had stewed and waited, making preparations for what was to come.
+
+And now, after so long, finally, it was time to act.

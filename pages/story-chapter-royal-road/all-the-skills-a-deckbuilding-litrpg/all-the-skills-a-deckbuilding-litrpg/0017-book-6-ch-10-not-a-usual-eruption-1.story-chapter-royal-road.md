@@ -1,0 +1,185 @@
+---
+id: 1d2e0948-f299-5d47-9979-c8f12096f051
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Ch 10: Not A Usual Eruption (1)"
+slug: 0017-book-6-ch-10-not-a-usual-eruption-1
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 17
+ownLength: 1999
+unit: words
+ownProgress: 1999
+publishedAt: 2025-05-02
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2248203/book-6-ch-10-not-a-usual-eruption-1"
+royalRoadId: "2248203"
+removedAt: "2026-07-03T13:47:34.439Z"
+---
+
+t was a toss-up whether using the Dark Rower's portal or flying back to the hive directly was quicker. Brixaby must have trusted his wings. He gave Arthur a significant look, and Arthur knew he had to hold on tight.
+
+Curving his neck around, Brixaby looked at Pepper. "Meet me at the hive!"
+
+Pepper squeaked and hurriedly buzzed backward as Brixaby surged straight up into the air. She hadn't backed up fast enough. The little dragon was instantly caught in his slipstream and rolled over and over before she righted herself. Then she followed along, though with a lot more care.
+
+Brixaby's speed was enormous. It was a good thing he had a lot of dragon-riding experience because the wind threatened to tear him off his seat. What had been a buzzing drone of wings when he was smaller was now a deep roar that Arthur could feel in his chest.
+
+Maybe it's time I got Brixaby a dragon saddle, he thought, clutching onto the ridge in front of him in desperation. Except that when Brixaby grew, he tended to do it explosively. Arthur didn't want to think of what that would do to his neck and windpipe.
+
+Then, once they cleared the top of the sharp ridges, Brixaby accelerated even faster, and the world seemed to blur under him. He must have been using his Flying Sprint skill.
+
+Arthur glanced around and was surprised to see that Pepper seemed to be gamely keeping up, though she was certainly straining, all four wings beating at top speed.
+
+Brixaby wasn't faster than a quick purple. He just moved a lot more air around him.
+
+They arrived to see the hive in disorder. It used to be that Blood Moon was militaristic in how the wings arranged themselves in neat order before an eruption. Now many of the dragons flew to and fro through the sky, and their riders shouted questions back and forth to one another. While some were grouped, none were in the precise orderly wings. Their captains were nowhere in sight.
+
+There weren't any portals in the sky, either. No one had yet headed to the eruption point.
+
+All dragons scattered before Brixaby.
+
+"Up to the ledge," Arthur called. He could barely hear himself and was surprised when Brixaby immediately stopped in place. The roar of his wings took on a new pitch as he went vertical. In fact, he shot upward so fast that Arthur's ears popped.
+
+He spotted Desmond and Sybil's two dragons sunning themselves on the outer ledge. They were both massive beasts, much larger than Brixaby, but neither had physically or emotionally recovered from Blood Drop's attention. They barely picked up their heads as Brixaby passed them by.
+
+As his dragon drew closer, Arthur saw a knot of people gathered at the base of the ledge, using the outdoor seating. Desmond and Sybil were among them, as were the missing wing captains.
+
+Brixaby landed nearby as if he were still small, making people hurriedly get up and move to the side or else be squished. Arthur dismounted just as Brixaby's claws touched the stone.
+
+It was dead silent. All eyes were on him. Waiting.
+
+That made his frustration boil over.
+
+"What is going on? I was told there was an eruption," Arthur said, looking from one captain to another.
+
+There was a brief silence, as if each were afraid to speak.
+
+Finally, one reedy man Arthur didn’t know the name of stood forward. “Yes, sir. We were waiting for your orders, sir.” A smirk played at the corner of his mouth.
+
+So that's how it was, was it? Arthur looked at him, unimpressed.
+
+"I would hope that as captain, you would not need orders from higher rankings to know how to do your job. What is your name?"
+
+"Malian, sir."
+
+"Does this hive regularly sit out in eruption?" Arthur demanded.
+
+"No, sir."
+
+Arthur looked around, making his displeasure clear. "What is the problem? Did you need Chester to organize your wing for you?"
+
+"No, sir, but..." Malian started.
+
+Arthur swung to him. "But what?"
+
+The smirk was gone, and now Malian looked at his other captains as if for support, none of whom were meeting his eyes.
+
+“I’m waiting, Malian,” Arthur barked.
+
+The man flinched. "Things might have changed, sir. We didn’t know your wishes, ah, sir."
+
+Arthur felt a very, very small prick of pity. He had not had to deal with Chester for long, but the man did not strike him as the type to let mistakes pass without punishment. No doubt, one punishable mistake was captains not being mind readers. He had trained his people to only act when he told them to.
+
+That was crippling.
+
+"We are in a fight against the scourglings," Arthur said, "that does not change." He finally broke his attention off of Malian and looked to the other captains. "I want this hive ready to head out in ten minutes. Brixaby, spread the word."
+
+Brixaby's blood-red eyes glinted. He immediately sprang into the air and started booming out orders to the hive using his stunning shout. Meanwhile, the captains all turned to race to their own dragons.
+
+"Leader Arthur."
+
+The hive’s seer approached him with tentative steps. She was dressed in all white, and when she reached him, bowed low. She was trembling.
+
+"Sir, my sisters and I mispredicted. We first expected the eruption to happen sooner, and when it did not happen, we then reported that it would arrive at a later point. The failure is on me."
+
+Arthur was quiet for a moment. He wasn't sure if he should be angry with her or not. It was the seer’s job to predict such things. That’s why they were burdened with their cards.
+
+"Rise," he said stiffly. He did not want to be speaking to the back of her head. "How accurate are your predictions usually?"
+
+"Very." A flash of pride crossed her face despite the circumstances. "Unless the controlling scourgling is stronger than myself and my sister—a Legendary—or if… if it is strong in the mind."
+
+Arthur felt a chill go up his spine. He had dealt with an eruption featuring mind scourglings before. The eruption had spiraled so out of control that the King had nearly needed to be called in.
+
+"Cressida!" He turned, only to find her a few feet away. She and the rest of his retinue had been among the captains.
+
+"Here," she held up her hand, a smile on her face.
+
+But he was in no mood. "Go tell Brixaby to warn the rest of the hive: We might be dealing with scourglings with mind cards."
+
+Amusement fell off her face. She nodded and ran to join Joy.
+
+Arthur looked to the rest of his retinue. Horatio had a sour look, but that was his default expression.
+
+"What is it?" Arthur asked.
+
+He shook his head. "We need to change how the scourge alarms are handled here. No one would move until you showed up. That means the whole hive is going to be emerging into the thick of battle with no ramp-up. And all the easy pickings will be gone."
+
+"If the whole kingdom was down a hive, it means rescue operations are that much slower to get started. People will be killed," Arthur said.
+
+He closed his eyes in pain for a moment and wondered if he should reach for the Time card. Could he use it to somehow warn himself?
+
+But... No. That cheat came with heavy costs. As he had just seen, the hive depended on him to keep his wits.
+
+Pushing back the guilt, he turned, lastly, to Desmond and Sybil. They, of course, had not moved when Arthur was giving orders. They were still lounging on the furniture. Desmond had a wine glass at his side, though it looked like he had not yet taken a sip.
+
+Arthur strode up to them. It took everything he had to keep his voice controlled so he didn’t start yelling. "Why didn't you organize things?"
+
+This was greeted with blank looks.
+
+"Chester always did that," Sybil said.
+
+Of course he did.
+
+Arthur resisted the urge to pinch the bridge of his nose. Then a new thought occurred to him. “Wait, how do the portal greens always know where to go during eruptions?” He had never taken care of that detail himself. It just happened at Wolf Moon.
+
+"The seers pass along the location to them," Desmond said.
+
+"Then… just go and arrange that."
+
+And get out of my sight, Arthur did not say.
+
+This was a task so simple he could have assigned it to any courier. It was more than easy enough for one Legendary-ranked rider, much less two.
+
+But Arthur had made the mistake of not directing his order to one person. Both Desmond and Sybil stood up, and they seemed so pathetically grateful for a job to do that he didn't have the heart to recall one of them.
+
+Besides, he couldn't babysit his senior leaders. He had actual work to do.
+
+Arthur spent the next few minutes giving out orders and arranging the hive to his liking.
+
+Griff stood nearby. As he was technically not a wing captain, he had not gone with the others.
+
+At that moment, Cressida returned, and Arthur gestured for her to dismount and join the group.
+
+"Griff," Arthur said, "Wing Purple will be led today by Horatio and Cressida. Listen to Joy in particular. She's great with quests. Cressida, Horatio, try to scavenge what you can to bring back to the quartermaster here. But I want your emphasis today to be on rescue."
+
+"Wait, you're not coming with us?" Cressida said.
+
+Griff was too intimidated by a ranker to roll his eyes, but he looked like he very much wanted to. “Of course they aren't. They are the leaders. They only join the battle when there is a dire emergency.”
+
+"No, we are coming," Arthur said. "Brixaby still has his Rank Knockback hard, and I want to get a lay of the land."
+
+Actually, he wanted to scope out the eruption to see if it was one that the rest of Wing Purple could harvest later. The hive needed all the shards it could get now.
+
+At that moment, the portals opened way up in the sky above them. The rest of the dragons settled into their final wing configurations on the ground, and suddenly, Brixaby was the only one in the sky.
+
+His dragon cast an eye toward the portal, then to the dragons waiting for him.
+
+"What are you waiting for?" his voice boomed out, loud to every ear despite the distance. "Go, kill some scourglings and bring back treasure! For the hive!"
+
+He roared, and so did the rest of the dragons. One by one, the wing captains took to the air.
+
+Brixaby returned to the ledge and to Arthur.
+
+"We are going?" he asked, though there was no question in his tone.
+
+Arthur didn't think he could keep his dragon back even if he wanted to. He briefly wondered how the other legendaries managed. Maybe their dragons were not as bloodthirsty.
+
+"We'll go out initially with Wing Purple," Arthur confirmed, "but we'll be splitting off. I'll need you to use your Knockback card and keep us looking like Rares. The last thing we need is to be discovered by the other Legendary leaders."
+
+“If any of them ever fight the eruption personally without a demi-scourgling,” Brixaby scoffed.
+
+"I don't see why we should take the chance—"
+
+Arthur was suddenly cut off by a shout of alarm from multiple throats. He looked around, then up.
+
+The first two wings of dragons had gone through the portals, but some had returned immediately. They were staggering in the air, as if they had lost control of their wings, the riders unconscious in the saddles.
+
+Within moments, others returned as well. They were in even worse shape, with almost no control of their wings. They started falling.

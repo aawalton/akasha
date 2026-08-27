@@ -1,0 +1,279 @@
+---
+id: 3b745ccc-773a-536d-8956-e58f4488bb24
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch27: Skill Grind (3)"
+slug: 0034-b6-ch27-skill-grind-3
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 34
+ownLength: 3156
+unit: words
+ownProgress: 3156
+publishedAt: 2026-02-17
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3064819/b6-ch27-skill-grind-3"
+royalRoadId: "3064819"
+removedAt: "2026-07-03T13:48:04.596Z"
+---
+
+Without any warning, Brixaby twisted into one of his rapid barrel rolls, which Arthur was calling a ‘drill maneuver’ because they were flying straight down, spinning with Brixaby’s wings folded flat to his belly.
+
+Arthur hung on for dear life as the centripetal forces tried to fling him off his neck. The trick he had learned was to not look at the rapidly spinning ground. Every time he did, vertigo would overwhelm him, and somehow his hands would slip.
+
+He had no idea how his dragon did it—if it was a skill or something to do with being a flying creature.
+
+He was bracing for the moment, yet still taken by surprise when Brixaby’s wings snapped open. The stopping force was just as strong as the one trying to fling him straight off, and he bashed his chest against one of Brixaby’s sharp ridges.
+
+It was hard on the dragon as well. Arthur actually heard the bones in his four wings creak under the strain.
+
+But suddenly, all that momentum he had gathered while on his death dive down was transferred to forward motion. And then straight upward as Brixaby shifted his back wings to give himself more lift. The wind screamed in Arthur’s ears.
+
+Still, Arthur had held on like a burr stuck in a blanket, without any straps or saddle.
+
+Brixaby still wasn’t done and jerked right and left as if evading objects in the air. Though there were only two of them and the hourglass sun in the sky. His jinks to the side were nothing compared to the roll.
+
+Finally, Brixaby slowed, panting. Arthur was breathing hard as well. It took a lot of energy just to hold on.
+
+“Are you trying to shake me off?” Arthur demanded.
+
+“Of course I am,” Brixaby replied, utterly unrepentant. “I do wish we had real enemies to dodge against in this pocket space.” Before Arthur could reply to that, he demanded, “Did you receive another Dragon Riding skill?”
+
+“No.” Arthur couldn’t keep the frustration out of his voice. This had been Brixaby’s idea to push him forward, and it had done nothing.
+
+It typically became more difficult to gain levels in a skill. Arthur suspected he had hit some kind of bottleneck. He could break past those with some new insight into the skill, but Dragon Riding was fairly straightforward.
+
+“I’m not sure how else I’m meant to ride you,” he grumbled, “unless the skill wants me to learn to do it with a saddle.”
+
+Brixaby snorted his derision at that idea.
+
+Arthur did have one trick up his sleeve. He had been thinking about it off and on—at least, when his mind wasn’t filled with card smithing or ideas about how to increase his endurance and speed.
+
+“I’ve… always ridden at the base of your neck,” he said slowly, wondering how he was going to sell this to Brixaby. “Some Legendary riders sit on their dragon’s heads. You haven’t been large enough to do that, but we could try—”
+
+“I am not wearing a human hat,” Brixaby said. “It is undignified. You must have another idea. What is it?”
+
+He did have another idea, but that didn’t mean it was a better idea. In answer, Arthur set his feet and tentatively—very tentatively—stood.
+
+Only then did he think to glance over Brixaby’s shoulder to the ground below. His stomach did a flip-flop. They were only about a hundred feet up. He must have been at the very limit when he’d pulled out of that dive.
+
+“Brix, climb up in the air, slowly. If I fall off here, there won’t be enough time to catch me.”
+
+By now, he’d fallen off Brixaby’s neck so many times that it was no longer a horror for him. As the saying went, it wasn’t the fall that killed someone. It was the landing, and that ground was way too close.
+
+A few of those last-minute catches had been closer than he would have liked.
+
+While Brixaby could be mischievous, pushy, and rude, he wasn’t actually evil. He kept his body as straight as possible for Arthur’s benefit while he buzzed straight upward in the air.
+
+When they first came here nearly a month ago, Arthur had wondered if this entire pocket space had been a sphere of some sort. The truth turned out to be a bit more complicated.
+
+Traveling along the ground, either through walking or flying just above the landscape, eventually led them back to the spot they had started from. Every time.
+
+Flying straight up was a different story. The closer Brixaby came to reaching the designated ceiling or barrier, the slower he went until he could flap his wings furiously at full speed and barely gain an inch.
+
+That was great when the dragon wanted to train his endurance, but he’d yet to actually reach the very tip-top of the pocket space.
+
+In any case, as Brixaby rose, Arthur carefully walked back and forth along his back, testing his balance. It was amazing to see how large he had grown. Not too long ago, Brixaby had sat on his shoulder like a parrot, and now Arthur was about the same proportional size to him.
+
+The sharp ridges along his spine made for great handholds, as long as he was careful.
+
+Standing in the middle, Arthur took hold and called to be heard over the sound of Brixaby’s wings. “Shallow dive in a U at the bottom.” Lower, he added, “Let’s see if I can hold on.”
+
+Brixaby didn’t ask if he was ready. He suddenly dropped.
+
+Arthur had asked for a shallow dive, but his flip-flopping stomach told him it was otherwise. Standing was a much different sensation than sitting, and as Brixaby dove, his shoes lifted off the top of his scales.
+
+Arthur wrapped his arms around the ridge and held on, not caring if it was sharp.
+
+Thankfully, Brixaby either wanted to take it easy on him, or he could feel that Arthur was on the verge of trouble because he smoothly pulled out of his dive instead of his usual breakneck stop in the air.
+
+“That… wasn’t a good idea,” Arthur croaked.
+
+“Yes, but did you receive any new levels?”
+
+“No.”
+
+Brixaby let out a frustrated huff.
+
+“Let’s land,” Arthur said.
+
+****
+
+Arthur felt like he could have kissed the ground when he landed, but he didn't want to be dramatic.
+
+He jumped down and then backed up a few paces, looking Brixaby over, squinting. He might have been a bit too intense because Brixaby turned to look at his own scales.
+
+"Did your boots leave a mark?" he asked in a tone that said they better not have.
+
+"No, I was just thinking... you're definitely a Purple."
+
+Brixaby gave him a flat look, and Arthur waved it off.
+
+"I mean that even though you're now larger, you still have the exact proportions of a typical purple."
+
+"Yes, and?"
+
+"I want my Purple wing to be a rescue and transport loading team. You can fit two, maybe three people on the neck of a Common and maybe a two more on an Uncommon." He didn't bother talking about a Rare because there weren't any Rare purples in Blood Moon. "Those four wings give them a lot more strength than a typical dragon.”
+
+“You would like to see if they can carry more than they are now," Brixaby said.
+
+"I'm not saying I want to overload them, but I think there's some room for improvement. Especially with the wild dragons that don't want to carry a rider but might be able to transport goods."
+
+Brixaby seemed to consider it, but then he shrugged his wings. "This is interesting, but I do not see how this increases our skills."
+
+"It increases our hive's efficiency. We'll be going back in a month, and we'll be facing two more eruptions," Arthur reminded him.
+
+"What do you have in mind exactly? Create strength cards for them?" That was a ludicrous idea, and they both knew it.
+
+Arthur shook his head. "No, I want to see if there's an easier solution. Hold still, would you?" He pulled out lengths of soft cord from his Personal Space and stepped forward.
+
+Brixaby did as he was told, lifting his wings here and there so Arthur could thread the makeshift rigging along different places on his body, using his ridges as anchors. Brixaby flat-out refused to have any cords wrapping around the base of his wings, though. It would be all too easy in a combat situation for one to slip and foul up his flight.
+
+However, by crisscrossing across his ridges and body, Arthur was able to create a rough harness.
+
+Brixaby turned his neck to look over himself and was not impressed.
+
+"I look like one of those delicious horses people use to pull carts."
+
+Arthur wisely did not say that was where he got the idea. “It’s only a prototype.”
+
+"And these colors clash with my hide," Brixaby said.
+
+"Well, I don't expect you'll be wearing this outside of practice.”
+
+"Why do I need to practice?" he asked, affronted.
+
+"It's me who needs to practice," Arthur said. "The harness works, but I still have to work on my Dragon Riding skills."
+
+He took hold of one of the side cords that ran horizontally across Brixaby's scales, then he stepped on. The rigging held.
+
+"Okay, take us up in the air and start doing some easy exercises. I'll be climbing around and seeing how these hold up."
+
+Arthur felt a whole lot better with something to hold on to. He still waited until Brixaby got to a safe altitude before he started to move, using the bits of harness as hand and footholds.
+
+I need safety clips, he thought, and a rigging belt for myself in case I fall off.
+
+Brixaby did twists and turns—nothing too extreme, at least not yet—but Arthur didn’t slip and was still able to scrabble all over him. He even went across his chest.
+
+Brixaby didn’t like that at all, though he insisted it was not because he was ticklish.
+
+You have gained a level in Dragon Riding.
+
+New Level: 24
+
+Arthur grinned. If they could standardize a harness like this and put in points where they could tie objects or even people with sturdy enough belts, the little dragons would be able to carry more. All he'd have to do was experiment to see what the right amount of weight was.
+
+Of course, cards always made the difference—Candy Floss was a good example of that and actually carried objects with her rider inside. But most Purples already had some sort of flying or acrobatic type of card. There were some definite possibilities.
+
+Arthur had only gotten one skill level for the afternoon, but he still felt like he'd done a good day's work.
+
+As soon as Brixaby landed again, he decided it was time for his run.
+
+Running and Sprinting had ceased to be enough to get him more levels at least a week ago, and now he alternated it with whatever physical activity he could find along the way.
+
+He went in a determined straight line across the pocket dimensions’ land. If he hit a tree along the way, he had to climb up to the lowest branch and then back down again. If he ran across a pond or a lake, he'd have to take a swim. No exceptions.
+
+He didn't add anything to his endurance today, but he did get another two levels to his Swimming skill thanks to a medium-sized lake. It was something he’d neglected, not having access to ponds much in his life.
+
+Now, at level twelve, he felt downright comfortable in the water.
+
+Finally, damp and drying off in the warm late afternoon, he sat down at his card table. His mood fell as he started his work.
+
+The rare cards were proving difficult.
+
+Just like with Dragon Riding, he had come close to catastrophe a number of times. The higher-ranked cards seemed more set in their ways, yet more brittle. He could change a word or phrasing here as long as it was something that did not hold a lot of weight. He’d been able to do that with Cressida’s cards once. However, it seemed that there were some words within every card that couldn’t alter without collapsing the entire matrix.
+
+With a grimace, he took out his Return To Start card from his heart deck.
+
+Though it was one of his originals, it was also one of the most flawed.
+
+Return to Start
+
+Rare
+
+Trap
+
+When the wielder of this card is attacked with another card’s power, they will be instantly be transported to a previously keyed-in location point at no mana cost and with no restriction due to distance. If a location has not been designated, the wielder will be transported to the physical point they last started that day—either one second after the stroke of midnight or at the moment they last woke, whichever point is later.
+
+This trap card has a once-per-sunset usage restriction.
+
+It meant that if he was ever hit by a spell, charm, or any card effect without warning, he would be popped back to his set-point location. That might be fine if he lived in a small village where there were only a few carded individuals, but in a hive? With him being bonded to a dragon? That was unacceptable.
+
+Without his Nullification card to temper Return to Start, he might have been forced to take it out of his heart deck years ago, doing actual damage to himself.
+
+His first idea was to combine the Return to Start and Nullification cards into one original set. It wasn't the best idea, as he could always use the Nullification card for another purpose, but combining them would make them Two of a Kind and give him a bit more room in his heart.
+
+Even with the flexibility granted to him by the dark heart, it was getting a little crowded in there. He'd always liked to have room for more.
+
+But both those cards refused to be separated from their existing sets. Their matrices became unstable the moment he started adjusting the words.
+
+What about adding a word or short phrase?
+
+Taking the edge of a penknife, he started to scrape something simple into his Return to Start. However, halfway through, he could practically feel the card heating up under his fingertips. He pulled the penknife away, and the scratch resealed itself. The card returned to normal.
+
+"Okay, not that then," he muttered.
+
+Sitting back, he frowned down at the card. There had to be a way to alter these consistently. He'd done minor corrections to other cards, and even Rare cards before. But every time he tried to work on his own, it was as if he was hitting a wall.
+
+Was it because they were attached to his heart deck? No, if anything, that should make it easier. He was missing something.
+
+Maybe it was that the changes he wanted to make were so vital to the cards that it went against what they fundamentally were. It might be better to start fresh with new card shards.
+
+New shards...
+
+Arthur took out a Rare shard and looked at it. He had been thinking that Rare cards were too brittle, but maybe his thought process could do with more flexibility.
+
+"What if I could add to an existing card?"
+
+Placing the shard on the table, he started to scratch a short phrase on it. However, every time he did, the lines seemed to disappear within the shard. The shard was rejecting his changes.
+
+Frowning, Arthur put it aside and pulled out a new shard. He scratched out the same phrase, and this time, the strokes of his penknife stayed in place, looking like a freshly burned brand.
+
+A brand that started to smolder alarmingly.
+
+Arthur snatched it up and hurled it to the side, using his Throwing skill and every bit of strength he had.
+
+It blasted apart in a minor explosion in midair.
+
+Brixaby abandoned his forge and came over. "What was that?"
+
+"Nothing, just a bad shard,” he said, embarrassed.
+
+He'd thrown it some distance away, but it took Brixaby no time at all to sniff at the area. "I do not like this," he said. "Observe the grass but do not step on it."
+
+"Why not?"
+
+"It smells like dragon soil," he said.
+
+“Really?” Arthur stepped close, but not too close. He saw faintly glittering portions all over the grass, and some of that grass was starting to grow. Not enough for him to see, but fast enough that when he looked away to another part and then looked back several seconds later, there was a noticeable change.
+
+Dragon soil would renew the land, but fresh dragon soil caused overgrowth in living things, including cancerous tumors.
+
+Brixaby seemed to be frowning at him. "Perhaps whatever path you are following, you should consider a new one," he said, unusually grave.
+
+"I'll try with one more shard," Arthur said.
+
+He ended up using five more shards.
+
+This time, he moved much more carefully. If the shard felt at all strange, he would stop immediately and put it to the side.
+
+The ones that simply ate into his corrections didn't explode, and the ones that had the angry, burning lines slowly started to heal as long as he didn't push it.
+
+Finally, he hit on a shard that accepted the phrase he carved into it. His pen strokes brought bright white lines. It almost felt like it was rejoicing in finding something that matched it.
+
+Holding his breath, he focused on his Card Repair and pressed the shard right into the Rare card over the phrase he wanted to adjust.
+
+Return to Start seemed to flex and warp. And to his shock, the words separated from the card and started to reorder themselves in midair, looking like ethereal fireflies.
+
+"No," Arthur breathed. He didn't want to adjust the entire card. He didn't want to remake the entire card. What had he done?
+
+But then, slowly... very slowly, the words came back together again in mostly the same order. The words returned to the card and clicked back into place, with the new piece seamlessly added.
+
+Arthur had done it. He had fixed his most flawed card.
+
+Return to Start
+
+Rare
+
+Trap
+
+When the wielder of this card is attacked with another card’s power, they will be given the option to instantly be transported to a previously keyed-in location point at no mana cost and with no restriction due to distance. If a location has not been designated, the wielder will be transported to the physical point they last started that day—either one second after the stroke of midnight or at the moment they last woke, whichever point is later.
+
+This trap card has a once-per-sunset usage restriction.

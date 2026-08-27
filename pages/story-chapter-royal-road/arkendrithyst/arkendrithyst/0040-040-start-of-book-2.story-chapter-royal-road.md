@@ -1,0 +1,905 @@
+---
+id: 31d285cb-1562-5a11-9653-d3472674cb64
+page-type-slug: story-chapter-royal-road
+title: "040 - Start of Book 2"
+slug: 0040-040-start-of-book-2
+partOf: arkendrithyst
+position: 40
+ownLength: 10244
+unit: words
+ownProgress: 10244
+publishedAt: 2019-10-02
+link: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/409318/040-start-of-book-2"
+royalRoadId: "409318"
+markedReadAt: "2026-06-29T22:07:50.052Z"
+---
+
+Jane had only been gone for two days, but Erick was already missing her. He needed to send her a care package. It didn’t take long to figure out what to send her: Jane had wanted potatoes for a while, therefore, Erick wanted potatoes.
+
+It was a simple want, but there was a fundamental problem.
+
+Potatoes grew underground and you had to kill the plant to harvest the potato. Potatoes, as they were, were simply not a good crop for standard Spur farming practices, where the best veggies they could [Grow] were the ones telekinetically picked off of a vine, or a tree, and then the vine or tree could regrow more food from the same spot.
+
+There was a lot more to farming in Spur than that, but thanks to [Exalted Storm Aura], most of the problems these days came from inefficient harvest methods, storage, distribution, the rest of the logistical train, and [Grow] fatigue. [Grow] fatigue was the only complaint that made it up the chain from farmer to farmer, to Council, to Erick, though.
+
+When Erick showed genuine concern over [Grow] fatigue, everyone just laughed it off.
+
+‘[Grow] fatigue is your biggest problem? Nice, buddy. I’ve got cats eating all my chickens’.
+
+The newcomers to Spur’s farms would have said, instead, ‘Nice, buddy. I’ve got monster worms eating all my farmhands.’
+
+The whole thing was reminiscent of the ‘first world problems’ meme that went through the kids at school a few years ago, back on Earth. But, still, Erick didn’t want to add an inefficient plant to Spur’s farms; he wanted potatoes to be popular enough so Jane could order fries in a restaurant, and he wanted them to be hardy, with as little fatigue as possible.
+
+So, he improvised with one of the hardiest type of plants the Farmer’s Council knew: vines.
+
+Luckily, his [Exalted Storm Aura] beans were perfect for this plan.
+
+Erick stood at the edge of a freshly tilled garden plot on the back side of his house. The successes went in the front yard; the failures and the experiments started in this field. He had tilled this secondary field under several times by now, cleaning up past mistakes. The land was ready for Erick’s potato experiment.
+
+He held a white and silver bean in one hand, and concentrated...
+
+Starchy, solid till you cook them. Bland, but takes well to flavor. White flesh, thin edible skin—
+
+[Grow]!
+
+Erick shoved the bean into the ground. A few moments passed.
+
+Green tendrils slipped up out of the ground, moving along the soil, leaves uncurling in the afternoon light. Growth slowed. Erick Handy Aura’d a sprinkler of platinum water into his hands, then turned that off and slowly showered water onto the green plant as he activated [Growth Aura]. The vine grew, flowing across the new garden in three separate paths, leaves blooming wide, buds forming here and there in the sunlight.
+
+Big white flowers bloomed then curled up, and something other than a bean pod grew.
+
+Pale green, bulbous, getting big and then bigger.
+
+The green bulb settled, then stopped growing after it was the size of two fists, but the rest of the vine kept growing across loose soil, plunging roots into the ground. Erick sprinkled platinum water from his sprinkler over the whole length; The plant soaked it up. More green not-potatoes bloomed here and there. Soon, he had a full crop. He turned off [Growth Aura] and set the sprinkler bucket down to the side of the garden.
+
+Erick plucked a not-potato with his Handy Aura and lifted the fruit to his face. It was the right size and shape, if a bit big, but it was green. Pretty good for his first attempt. Lemons had taken several iterations away from Spice-Lady Ratchet’s not-limes to get right.
+
+Erick pried into the not-potato with his Handy Aura. He pushed into it—
+
+It crunched open like snapping a carrot; the inside was solid.
+
+No seeds, no beans.
+
+Good, good. Green flesh though? Thin skin… It even had the tiny potato eyes here and there. It looked good, except it was green. But how did it taste? Ah. Getting too far ahead.
+
+[Cleanse].
+
+No thick air. Good. Good. No toxins.
+
+Erick tossed the demolished not-potato into a large compost pile at the back of the house, under a [Scent Ward] Al had helped Erick add to his repertoire.
+
+Scent Ward, 10 days, close range, 350 mana
+
+Block all scents under a medium size moldable ward.
+
+Erick plucked another not-potato and washed it in the bucket of platinum water. As he was doing that, he cast a [Heat Ward] into a cauldron of cooking oil set up nearby. When the not-potato was clean, Erick sliced the not-potato into quarter inch thick slices, still marveling at the sheer versatility of his Handy Aura, days and days after making the skill.
+
+The oil began bubbling. Erick dumped the slices into the oil.
+
+The slices bubbled in pale yellow vegetable oil. The scent of fries rolled into the air. Erick could practically taste them already. Maybe this was a winner? On his first try? Even if the not-potatoes were green, they smelled and looked mostly correct.
+
+Erick smiled as he watched the slices of not-potato fry, because the green turned milder, barely green at all. Mostly gold, actually. Erick fished out the slices with his Handy Aura, then shook off the hot oil as he killed the [Heat Ward] in the cauldron.
+
+They smelled like fries. They looked like fries made from green potatoes. Erick let the air aspect of his Handy Aura brush against the slices; they cooled down rather fast as droplets of hot oil flicked away from Erick. Erick pulled the wind away from his aura, then picked a slice out of the air with his actual hands.
+
+Still hot!
+
+Erick bit into it—
+
+—and tasted heaven.
+
+They were green! But they were potatoes!
+
+“Success!” Erick pointed at the vine. “Potatoes!” He Handy Aura’d some slices at Poi. “Fries! Here!”
+
+Poi took two, then bit into one.
+
+Erick waited. He added, “They need salt, of course.”
+
+Poi took another bite. He finished off the first slice of fried potato, then started on the second. He nodded, saying, “These are good. I understand why Jane wanted ‘potatoes’.”
+
+“I need to grow some more! This entire field can be potatoes!” Erick paused in his mirth. He held a green potato and said, “This is good, but I can do better.”
+
+Erick plucked one of the green potatoes and used that to start his next batch, on the other side of the experimental garden.
+
+The next iteration was brown-gold skinned, white inside, with five potatoes to a flower bud.
+
+They tasted better than the green ones.
+
+Erick ripped the green not-potatoes out of the ground and tossed the whole vine in the compost pile. He said a small, silent prayer to Atunir about a path not taken, then returned to his brown-golds. He grew five full crops of his new potatoes, then went to the garden in front and planted one potato in his original field, alongside his other successes. After ensuring that potato bloomed into a full plant, he inspected the rest of his success-garden.
+
+Lemon trees, vining onions, tomatoes, vining lettuce, and now vining potatoes. Vining plants were just so nice. Everything could grow back multiple times on a vine without killing the original plant. [Exalted Storm Aura] beans were wonderful!
+
+Erick took his roughly 500 potatoes he had grown in the back yard, into the house, into the storage room next to the kitchen. The potatoes went into [Stoneshape]d bins prepared with cold and preservation [Ward]s.
+
+These were more than enough potatoes for Jane, but as Erick was making them, his plan for a simple care package had bloomed into something much larger. He would need invitations and a menu and many more Earth foods for the plan forming in his head.
+
+But first, Erick had to make sure these ‘potatoes’ still cooked up properly.
+
+Mashed, fried, baked, twice baked, roasted—
+
+“Frick! I need to make garlic!” Erick Handy Aura’d a piece of chalk to write ‘Garlic’ onto a chalkboard mounted on a wall of the kitchen. “And rosemary!” Erick added rosemary to the list.
+
+He decided to start with mashed potatoes. Erick filled a big iron pot with water from the fountain in the kitchen, then set it on the stove and turned on the burner. The burner sputtered. That wasn’t supposed to happen. He checked the rad compartment—
+
+Empty.
+
+He fished a rad out of the nearby drawer, and paused as he was about to shove it into the burner. This rad had been inside Jane’s spidersilk sack. Erick shivered, blinked, then put the rad into the stove compartment, and put all thoughts of spider grandchildren out of his mind. Potatoes went into the pot as water slowly heated; Erick had found indirect heat was better for certain foods, and plus, he wanted to cook how he knew how to cook. [Heat Ward]s were like microwaves; good for some things, bad for others.
+
+Erick paused.
+
+“And pepper!” Erick added pepper to the list. “Can’t have mashed potatoes without pepper.”
+
+White pepper was preferred, but Erick didn’t even have normal pepper.
+
+How does pepper grow?
+
+Eh. Probably on a vine.
+
+… mashed potatoes also needed butter, milk, cheese, and salt, which Erick already had in spades. He checked the cold box just to be sure. Yup! Lots of all the good stuff!
+
+Erick stopped still. He turned to Poi. “Do you have ice cream?”
+
+Poi frowned. “Sir?”
+
+“Milk and cream and sugar together with sweet spices, or maybe berries—” Erick added ‘strawberries’ to the list. “And then blended together in a [Cold Ward] or some other way. You end up with a creamy, sweet, cold dessert.”
+
+“Icies,” Poi said. “You’re talking about icies. I’ve had them before, but not in Spur. We do have cows and fresh milk, now, so that might change. Sugar cactus is always plentiful.”
+
+“Oh thank the goddess.” Erick turned back to his boiling potatoes, saying, “I can’t believe I forgot about ice cream.”
+
+Three seconds passed.
+
+“Frick! Pizza!” Erick added ‘pizza’ to the list. “I have the tomatoes now, too! … I need to get on that garlic, though.”
+
+- - - -
+
+Days passed. Erick worked.
+
+Erick bought all the various spices that Ratchet could supply, which wasn’t much, actually, as well as [Grow]ing the missing items on his menu. He personally delivered invites and talked to several people who were surprised they were invited to the Archmage’s house for any reason at all, let alone a house party.
+
+All of that was punctuated by telepathic conversations with Jane.
+
+She was doing well. The Army was an easy job. She mostly just killed monsters at range as they rushed into Forward Base at all odd hours. She met one Shade so far, but that Shade only guarded the Crack in the Wall; Fallopolis had well documented history as an eccentric, but she didn’t do much, according to Jane.
+
+Which was probably exactly the point of Fallopolis, Jane postulated. If Fallopolis looked and acted like someone capable of having a non-murderous conversation, then that just sets the [Force Trap] that is Ar’Kendrithyst.
+
+Also according to Jane, she was as safe as she could be in a city full of ancient monsters. Forward Base could survive everything except a direct attack by a Shade, and if that ever happened, she could run away through the kendrithyst crystal using [Shadowblend].
+
+Erick didn’t believe all of Jane’s story, but he wasn’t able to interfere with whatever she was doing with her life, in there. He had tried interfering in the past and it never went well. So he just said ‘ah ha’, ‘oh’ and asked the questions he was supposed to ask, and put all thoughts of her dying a horrible death out of his mind.
+
+After his third such conversation with his daughter, Erick laid down in bed, and cried a little.
+
+Then he steeled himself.
+
+The invites were out, RSVPs came back; tomorrow was the event.
+
+It might have looked like a simple party, but though the planet and the people might have changed, Erick had done these types of behind-the-scenes events many times before.
+
+Hopefully he didn’t fuck it up.
+
+- - - -
+
+A banquet of potatoes and other foods waited in the dining room.
+
+Two dozen twice baked potatoes rested artfully on one side. Several huge bowls of cheesy mashed potatoes with not-bacon gravy took center stage. Piles of fries and a dozen baked potatoes rested around the edge. Salt and spices bought from Ratchet sat around the display in labeled stone containers. Garlic and pepper and onions were inside all the foods they were supposed to be, including several pizzas of various styles; meaty, extra cheese, veggie, and plain.
+
+Two bowls of homemade plain sour cream he had made himself, from cream he had bought from the owners of the cows he helped to live in the desert, waited with spoons for dipping. A bowl of spicy red sour cream offset the white of the other two bowls. The ranch dressing was a failure because it lacked dill, but it tasted good enough to put out there, anyway.
+
+Herbs were rather tough to [Grow]. Rosemary-vines took him a dozen tries. Garlic-vines took five.
+
+Kegs of tapped beer sat on short tables beside the window, along with bottles of wine both purple and white. Coffee-tea, both normal and platinum, was ground and waiting to be made; he would make that after dinner was over.
+
+He even had two bottles of quicksilver, iron bars, and a few other metals on their own separate tables for the few wrought he had invited.
+
+In cold storage, ice cream waited for the end of the party.
+
+Erick looked over his banquet, kept at the appropriate temperatures under appropriate glittering white [Temperature Ward]s, and had a pang of fear. There wasn’t enough.
+
+No. There was more than enough.
+
+No! There wasn’t enough.
+
+Erick downed some beer and pushed all thoughts of inadequacy out of his mind. He had planned on several orcols, but he also planned on people inviting other people. They’d all focus on there not being enough meat, anyway. Erick laughed to himself. This wasn’t about meat, this was about foods from Earth…
+
+… and other, assorted plots.
+
+Everything was set.
+
+Rats was kept away from the food; Erick had seen him drop one too many things and finally put together why he was called ‘Rats’; it was rather poetic in that soldier kinda way. Rats was tasked with clean up. Teressa had gorged herself on Erick’s test recipes over the last few days, but she was already salivating over today’s event’s spread. She was tasked with whatever she wanted to do, and she wanted to guard the food. She’d also answer questions about the food, since she’d already tasted it all. Poi stayed with Erick; one of them had to.
+
+Erick had another beer, and in the middle of that beer, Al showed up, with a heavy knock on the front door that vibrated through the house. Erick rushed to the front door and swung it open.
+
+“Hello!”
+
+Al wore a fancy version of his mobster-sultan outfit, and carried yet another keg under one massive arm. “Thanks for the invite.” He flexed on the keg, asking. “Where do you want this?”
+
+“In the kitchen. But...”
+
+Erick looked to the left.
+
+Savral stood with his father, carrying a giant iron pot that wafted the smell of delicious meat into the air.
+
+This was a problem.
+
+Erick looked at the pot in Savral’s hand. “You shouldn’t have.”
+
+Al frowned at his son. “I told you.”
+
+Savral frowned at both of them. “What! You love my cooking!”
+
+“I want people to love my cooking, too.” Erick stepped into his house, ushering Al and Savral inside. Al left Savral with Erick, as he went to put his keg in the kitchen. Erick turned to Savral. “I’ve spent days getting today right, Savral.”
+
+“Bu—”
+
+“I’m keeping it and I love that you made and brought something. But that is going into storage under a [Scent Ward], only to be brought into the kitchen when everything else is gone—”
+
+Anhelia, Sizzi, and Zago walked together, across the flat land of the Human District, toward Erick’s house. The sun was still in the late afternoon sky; they were early. Early was fine. Erick was ready.
+
+Go time, Erick!
+
+Al cried out, “WOW! These ‘mashed taters’ are good!”
+
+Erick turned on Savral who was still standing in the foyer with his giant pot of food, looking sad.
+
+“I love you for this, Savral. But… Please.”
+
+Savral nodded, then took his cast iron pot into the dining room. The storage room was through there, and Teressa would help him find a spot in the cold for his hot dish.
+
+Erick heard Savral shout, ‘That’s a lot of food’, and Al say, ‘Try this one!’, as Erick turned to welcome Zago to the front door.
+
+“Zago! Anhelia! Sizzi~ Welcome.”
+
+All three of them were wearing magnificent dresses… Well, Zago and Sizzi were; Anhelia’s dress was just her metal body in a pleasing form. All three of them glittered in the light of the evening sun, be it trinkets attached to horns, or the shimmer of their [Personal Ward]s, which reminded Erick of another piece of his plan.
+
+“Good evening, Archmage.” Zago curtsied with all the elegance of a matronly mage who knew she was a big shot. “Thank you for welcoming us into your home.”
+
+Sizzi and Anhelia curtsied, in turn.
+
+Erick stepped into his house, saying, “Come on in!” When they did, Erick said, “And I have a gift for you, Anhelia.” Erick took a plain stone from his pocket and, quick as a whip, dumped 300 mana into an ultraviolet, foot-wide, [Permanent Special Ward], onto the stone. Anhelia, and all the white clothes between all of them, started to fluoresce brilliant purple. Zago and Sizzi’s horns shone brilliant violet. “I figured out how to make this work.”
+
+Sizzi went speechless as she poked at her own clothes. Zago simply smiled, then forced her expression down to a grin. Anhelia’s glowing body matched her radiant, happy face. Erick held the stone out to her; a faint blue haze of light, maybe a foot across, moved with the stone.
+
+Anhelia whispered, “Dear Rozeta.” She tentatively held out her hand, then pulled back. “You know the secret of the Glow Lights.” She said, “I cannot take this. You don’t know what this means.”
+
+“You’re absolutely right. But I know you like it, and that’s enough for me, right now.” Erick reached out to Anhelia’s hand, and put the stone into her palm. “If you knew the secret, you’d kick yourself. It’s rather simple from the right perspective.” He wrapped Anhelia’s iron fingers around the stone, but only because she let him. Her hands were warm. “It’s Permanent. Have fun.”
+
+Zago laid a gentle hand on Sizzi’s forearm, guiding her to the dining room, saying, “Thank you, Archmage—”
+
+“‘Erick’, please.”
+
+Zago paused. She smiled. “Erick. You may call me Sirocco, if you wish.” She spoke to Sizzi, “Let’s see about these ‘potatoes’, Sizzi.”
+
+“Yes, mother.” She curtsied to Erick, muttering, “Archmage,” before following Sirocco to the dining room
+
+Erick stood alone with Anhelia.
+
+Anhelia stood there with the stone in her curled fingers, still fluorescing violet light, visible even under the lightorbs of the room and the afternoon sun outside the open front door. She stared at the stone in her hands, silent.
+
+Erick waited for her to say something. He listened to people dig in to the food in the other room. He leaned to the side, looking just beyond Anhelia; more people were coming.
+
+Anhelia turned and saw the other people. One of them was Silverite.
+
+Anhelia rushed out of the house, intercepting Silverite at the edge of the property. A few people paused at Anhelia’s sudden arrival; Valok and Krakina. Others kept right on walking up to the house; Ulrick Ulrick and Mog. Erick didn’t hear what happened between Silverite and Anhelia, but he saw Silverite’s exposed skin light up, brilliant white-violet as Anhelia passed the stone to Silverite, saying something.
+
+Silverite swallowed the stone, and the light vanished into her chest; her torso must have been larger than the diameter of the [Ward].
+
+Mog approached, “I hear you have strange foods!” Mog smiled as she stood between him and whatever was going on with the blacklight stone. “I hope you have lots!”
+
+Erick put the ultraviolet lightward out of his mind as he stepped aside, welcoming Mog, saying, “I hope I do too! It’s all in the dining room. Teressa is overseeing it all, but if you want some to grow yourself, I have seeds and clippings!”
+
+Mog walked in, saying, “I’d much rather be invited to dine by you.”
+
+Erick was about to welcome Ulrick Ulrick in, but he flushed, his new Vitality supplying more than enough blood to his cheeks, and… other places. He said to Ulrick, “We— Welcome, to you too, Ulrick.” His voice cracked.
+
+Mog laughed, walking through the house to the dining room.
+
+Tealscale Ulrick smirked, saying, “She has that effect, doesn’t she?” as he walked through the house.
+
+Krakina walked up, saying, “I smell something good on the air.”
+
+“I hope you like potatoes, Krakina.” He turned to Valok, “And you as well, Valok.”
+
+“Thank you for welcoming me into your home, Erick.”
+
+“I smell fried things!” Krakina pulled Valok into the house, saying, “I love new fried things.”
+
+Erick turned just in time to see Silverite, but no Anhelia.
+
+“I’d like to talk to you, Archmage.”
+
+“Uh...”
+
+“Those kinds of lights are artifacts that no one has ever been able to duplicate. They reveal shadow monsters, as well as wrought. Even shadows that hide in plain sight.”
+
+Erick felt a chill. Oh dammit. What had he done, now?
+
+Silverite maintained her serious expression for all of three seconds.
+
+She burst out laughing.
+
+Erick frowned with every part of his body that could possibly frown. “That’s not funny.”
+
+Anhelia poked out from behind the edge of the door, smirking. “It’s a little funny.”
+
+“We had you going, didn’t we?” Silverite slid the stone through the center of her chest, where the [Ward] was too small to see, to her arm, where the blacklight showed through, to her hand; her silver skin shifting even more radiant white-purple as the stone appeared in her palm. “These are just fun trinkets that one company down in the Underworld has monopolized as a party supply. Like funny hats and streamers. I don’t think they have any real use.” She added, “Besides being ungodly expensive. A permanent one is 5000 gold, cast on a location. Consider your taxes paid for a year, if you make me one.” She handed the stone back to Anhelia.
+
+Erick frowned, a tinge of anger curling through his thoughts. “That’s not funny, Silverite.”
+
+Silverite said, “That wasn’t a joke. How would you price a mobile one of these, Anhelia?”
+
+Anhelia laughed louder, placing her ungodly expensive trinket onto the back of her hand. Suddenly serious, she said, “Priceless.”
+
+“Hahhh.” Erick gestured toward the dining room, trying to regain control of the situation. “I’ve got iron and mercury and a bunch of other metals imported from Portal.”
+
+Anhelia giggled as she went to the dining room, savoring the glow of her own skin.
+
+Silverite paused.
+
+Erick noticed. “I mean: quicksilver. We call it mercury where I’m from.”
+
+Silverite smiled softly. “Thank you, Erick. I’d like to taste these ‘potatoes’, too.”
+
+Now it was Erick’s turn to pause.
+
+“Did you think I couldn’t eat anything but quicksilver?” Silverite laughed. “A few wrought can eat fleshy foods, and I’m one of them. I don’t get anything but taste, though.”
+
+“You’re welcome to it, then!” He looked behind Silverite. “Do you know if Irogh is coming?”
+
+Silverite smiled. “He’ll be late, but he’s coming.”
+
+“Good! I invited lots of people. The plan is to get potatoes and pizza popular enough so I can order them in restaurants. Help me ensure this plot succeeds and I’ll make you one of those blacklights, too.”
+
+“Blacklights? I like it.” Silverite smiled wide. “Is that your only plot for this evening?”
+
+“Of course not!”
+
+Silverite smirked and made her way to the dining room. People were already talking amongst themselves as they moved around the house, in and out of the dining room. Erick left the door open as he went to—
+
+“Hello again!” came a barely familiar voice, from outside.
+
+Purplescale Bacci was walking up to the front door, wearing an elegant black dress.
+
+Erick smiled wide. “Welcome back to Spur! I never got a chance to say hello. How was your trip?”
+
+“Kendry is like fish; great for the first two days, then it starts to stink. I was one argument away from dismembering my cousins.”
+
+Erick laughed. “Come on in, people are already in the dining room and the rest of the house.”
+
+“Is Savral here, yet?”
+
+“He’s in there, somewhere, yeah.”
+
+Bacci adjusted her dress, smoothed down the scales on her eyebrows, nodded, then walked past Erick. She was a woman on a mission; let no one stand in her way.
+
+Erick stood by the door for a moment, savoring the sounds of people talking about lots of little things, and about his food, at his first real house party. Blacklights being priceless threw him for a major loop, but his emotions were settling; if he couldn’t handle something as inane as money, the rest of tonight’s plots would be impossible.
+
+Outside, the sun was starting to set. He looked over to the Mage Trio’s house. Would they…?
+
+As he watched, the first of the three walked out of their house. Maia waved at Erick. Erick smiled wide, then waved back.
+
+With a quick burst of Shaped X [Special Ward], Erick lit the outside of the his three story house like it was Christmas; white lights glowed above every exterior crease of rock, around every window, up the edges of walls, to line every [Stoneshape]d fake roofing tile.
+
+With another burst of magic, Erick paced lines of white light on his front yard, edging the walkways around the gardens, to the road, and everywhere else in a hundred feet around his home. Small streamers of light flowed up lemon trees to illuminate the garden.
+
+Maia shouted, “I love it!” running closer.
+
+Eduard and Ramizi were close behind Maia.
+
+Erick said, “I hope you love the food more. Come on in.”
+
+Maia smiled wide, coming inside. Eduard and Ramizi followed. All of them wore formal-looking mage outfits, with large, singular white ‘O’s on each shoulder of their Script-blue robes.
+
+Erick left the door open and followed the Mage Trio into the large dining room. Many guests had already gathered food, but when he saw the state of his display, he knew he had not made enough.
+
+He quickly found Savral talking to Bacci in the second dining room, and said, “We’re going to need your food. Thanks for bringing it, Savral. Thank you, so much.”
+
+Savral smiled wide. “Of course. I’ll put it out.”
+
+Mog laughed with Valok over slices of pizza.
+
+Anhelia showed off her glowing self to Al, and everyone else who would look.
+
+Ulrick spoke to Eduard about something magical, no doubt.
+
+Krakina and Maia were eyeing the last twice baked potato—
+
+Krakina snatched the last one. Maia frowned, settling for more fries.
+
+Erick grabbed a plate and got himself some pizza and some mashed potatoes, with lots of spicy sour cream.
+
+More people showed. Ratchet, and some of her family. Other people Erick had met but now couldn't remember.
+
+Erick had not made nearly enough food, but he certainly had enough potatoes for everyone who came to grow their own. Erick checked the [Temperature Ward]s over all the various foods, found them adequate, then helped move a few items aside so Savral could put his cast iron pot on the table. Savral opened the lid, and the scents of roasted meats flowed into the air. Several people perked up at the new smells.
+
+Erick said, “I do love how you cook, Savral.”
+
+Savral smirked. “And your potatoes are pretty good, too.”
+
+Erick made himself a plate of roasted meat that fell apart under the slightest touch of his fork, and mashed potatoes. With a good helping of gravy, Erick was ready.
+
+Time to make the rounds.
+
+- - - -
+
+“Enchanting for new magic.” Ulrick Ulrick said, “And you didn’t even speak in Ancient Script. I’m impressed and surprised.”
+
+“I was rather surprised, too.” Erick said, “Why do you use Ancient Script, anyway? I mean. I read up more on enchanting. You don’t have to use Ancient Script.”
+
+Zago moved to join the conversation.
+
+Ulrick said, “Guildmaster Zago has a better answer, I’m sure.”
+
+“I suspect Erick hasn’t tried to enchant any items, have you?” Zago asked, her fork speared on a fry.
+
+“I have not. I thought I would have, but there’s lots to do and very little time in which to do it all.”
+
+Zago nodded. “It has to do with the separation between casual language and the solidity of Ancient Script. Ancient Script hasn't shifted in 1300 years, according to everything I've ever read. So when you’re trying to imprint a specific spell into an item, that solidity of over a thousand years of unchanging meaning ensures more successes, and fewer error messages or failed enchants.”
+
+Ulrick grumbled at her final words. “I tried using Ecks in college, but all I ever got was days and days of forced downtime.”
+
+"Everyone tries. I was no different." Zago asked Ulrick, “Have you tried to make any Particle spells?”
+
+He shook his head. “I have too much work to get bogged down with errors. Eduard told me he’s lost days to recovery, and that does not sound pleasant.”
+
+Erick said, “Recovering from a successful spell also takes a while, but that rod of [Treat Wounds] you sold me helped a lot, Ulrick.”
+
+“That’s suddenly become one of my best sellers.” Ulrick laughed. “It always was, but I sell ten of those a day, now. Got a backorder twenty long.” He looked across the room to Maia who was talking to Al. “Those three have bought seven, with two more on backorder.”
+
+Zago asked, “Do you need me to increase your rad allotment?”
+
+“If you could, I could use them.”
+
+“How do you get enough?” Erick asked. “How does that all work, anyway?”
+
+Zago said, “Adventurers like to buy things with rads. Merchants then sell those to the Mages guild or use them as currency themselves. We transfer the rads we get to enchanters and such like Ulrick, and then those enchanters collect gold to pay for the rads they’ve gotten from the guild.”
+
+Ulrick smirked, “You lot take a good cut, too. Don’t forget that part.”
+
+“And Spur takes a cut, too.” Zago grinned. “And we all prosper from the actions of violent adventurers and the thousands of kilometers of monsters everywhere around Spur."
+
+Erick asked, “With all the new adventurers going into Ar’Kendrithyst, what does this mean for the guild?”
+
+Ulrick breathed deep, thinking.
+
+Zago guessed, “I’ve been going over the old ledgers from before the Great Purge; I know what to expect, but actually seeing the numbers go up everywhere is… Both wonderful and strange. We’re going to need to expand back to pre-Great Purge size, and soon. This won’t be a problem for us; I have the utmost confidence in my people. It just takes time.”
+
+Ulrick said, “I’m going to need to hire a second enchanter. Don’t know where I’m going to find a good one.”
+
+“I have some names I can give you.” Zago asked, “Or I could direct them your way?”
+
+“The second one. Thank you, Guildmaster.”
+
+“Of course! This is what I do.”
+
+Erick asked, “What about the Shades? Won’t they see this as an attack? Spur growing larger?”
+
+Zago went quiet, thinking.
+
+Ulrick said, “All of the people who come into my shop who’ve been in the Dead City say that the Shades are happy.”
+
+Zago said, “I’ve heard that too. And that scares me.”
+
+Erick firmly said, “I’m already working on a few new spells for defense.” He smiled, holding up his beer. “I live here, after all.”
+
+Ulrick held up his beer. “I’ll cheer to that.”
+
+“Hear hear!” Zago held up her wine glass, grinning. “Good show. And if you’d like to work together, I do have resources at my disposal that you might not, Erick.”
+
+Erick smiled. “Maybe I will. Thank you for the offer, Sirocco.”
+
+Zago smiled.
+
+- - - -
+
+Valok stood beside Erick’s garden of successes, holding a plate of sliced red tomatoes in one hand while nibbling on another slice. Krakina had already finished off her tomato slice and was inspecting the other vines in front of her. Sunlights shone down on the garden. Darkness loomed in the rest of the human district.
+
+Valok said, “Why red?”
+
+Krakina declared, “I like purple! Why not purp—”
+
+‘Hey, Dad!’
+
+Jane’s happy voice came into Erick’s mind.
+
+“Sorry, Valok. Krakina. Jane’s calling me.” Erick said, “Go ahead and pick whatever.”
+
+Valok smirked, then set his plate aside on a table beside the garden. He walked among the green, careful where he placed his feet. Krakina joined him, picking her way among the vines.
+
+Erick turned away to face the empty, dark lands of the Human District, and said, ‘Hey, Jane! Everyone loves the potatoes I made.’
+
+‘Where’s my care package!’
+
+‘I have it all set up. Just need to deliver it to the Courthouse, tomorrow.’
+
+‘I need it now. Hold on—’
+
+Erick smiled. He imagined Jane opening up the burlap sack Erick had prepared and crying for joy. She did that sometimes.
+
+‘Killzone is coming to get some samples.’
+
+Erick smiled wider. ‘Good! Tell him he was invite—’
+
+Killzone blipped into the air in front of Erick’s house. Krakina squawked as she leapt away from his sudden appearance, cursing in surprise. She switched to louder, more direct cursing, as Killzone walked up to the house and in the front door.
+
+‘He’s here now.’ Erick walked over toward the front door. ‘I’ll tell him myself.’
+
+‘Hows the party going?’
+
+‘Very well. A lot of people are here. I know almost all of them.’
+
+‘I love you, Dad. You sound busy. I’ll talk to you tomorrow.’
+
+‘Love you.’
+
+The gossamer thread of thought that connected them broke like so much dried out spider silk.
+
+Erick found Killzone talking to Silverite in the foyer.
+
+“Captain Killzone!” Erick said, “I sent you an invite!”
+
+Killzone turned, saying, “Your daughter will not shut up about the potatoes.”
+
+Erick laughed loud, then said, “I’ll get you some!”
+
+But before Erick could get them, Anhelia intercepted Killzone with the blacklight stone affixed to a finger, like it was a giant diamond ring and Anhelia was its angelic, violet caretaker. Killzone though… Killzone shimmered radioactive purple, almost as bright as a lightward. He stopped moving, then began to gaze at his own body.
+
+Silverite stepped into the room, saying, “Wow, Killzone. That’s a good look on you.”
+
+Erick had to watch… whatever was happening to Killzone right now. He was having some sort of deep emotional response, and even if Erick didn’t understand it, he could see it. Rats was nearby, so Erick asked, “Can you please get that care package I made for Jane, for Killzone?”
+
+Rats, and now Teressa, stood in the foyer, looking at Killzone, who looked like a purple wardlight. Rats didn’t move. He just stared, along with the rest of them.
+
+Killzone eyed the stone on Anhelia’s hand. “Can I—”
+
+“Heck no! This one is mine! Ask Erick if you want one. He’s already going to make Silverite one—” She smirked, adding, “—If he knows what’s good for him.”
+
+Killzone tore himself away from the faint blacklight [Ward], to look at Erick.
+
+Silverite stared at Erick, waiting.
+
+“Okay!” Erick stepped to the front door and [Stoneshape]d two dense pebbles from the ground outside. He stepped back inside, asking, “How big do you want your blacklights?”
+
+“I love that name, by the way,” said Silverite. “And Anhelia’s size is fine.”
+
+Killzone stared, pure want in his radiant purple eyes. He blinked, he said, “Uh. Very, small. Tiny, tiny.”
+
+Erick whipped out two blacklights, one about a foot across, the other the same size as the thumbnail sized stone; both of them seemed to pour out the same amount of ultraviolet light. Silverite eagerly took her larger blacklight. Killzone, however, froze. Erick had to reach up and take the man’s warm hand, then unfold his massive metal fingers to place the stone in the center of his radiant purple palm. Killzone stared at the stone, then let it fall into his flesh. Suddenly, he was back to solid black, save for the rim of purple glow from Silverite and Anhelia’s lights.
+
+Poi held out Jane’s burlap sack care package to Erick. “Sir.”
+
+Erick took the —oof! Heavy!— bag and held it out toward Killzone. “I hope my daughter isn’t giving you too much trouble.”
+
+Killzone looked at the bag he had grabbed. He broke from his trance. Scrawled in dark ink across the bag was ‘NOT SPIDER EGGS’.
+
+Erick smiled.
+
+Killzone laughed. He held the burlap sack like it was 5 pounds of potatoes, and not the 50 it was. “We got her running missions with the other people with shadow skills. She’s already saved several adventurers. She’s a good fit for the Army, if a bit hot headed.”
+
+Now it was Erick’s turn to be stunned.
+
+She’s really going to be okay, isn’t she?
+
+Erick said, “Thanks for taking care of her.”
+
+Killzone nodded, stepped back, and blipped away.
+
+Anhelia said, “I’m glad I told him about the blacklights. That was just adorable.”
+
+Al called out from the other room, “How do you make this coffee, Erick!”
+
+Erick rushed into the dining room to start making coffee.
+
+- - - -
+
+Erick sat with Silverite on the porch while people talked in the garden in front of them. Silverite had her blacklight in her chest, almost completely occluded by her body, and her clothes.
+
+Erick asked, “What happened in the Great Purge?”
+
+Silverite breathed, then said, “I fucked up.” She went quiet. She said, “In those days, there were many more Shades than today. Usually over two hundred. Three hundred, sometimes. We were killing them every other week, but more would show up just as fast. For hundreds of years it was a game for them, and, I admit, for us, too. Some adventurer from Spur would kill a Shade and the other Shades would laugh at whoever got taken down, and then the rest would forcefully recruit from whoever they could capture.
+
+“Someone arose that challenged the Shades too much. This was the start of the problems, though we never saw it as a problem in those days.” She got a far off look in her eyes, as she said, “He killed Shades by the dozens. More were dying than they could forcefully recruit. When they did try to find victims, he was there, and he killed them for their evil. Eventually, this man’s actions galvanized their society. A separate, infighting, immortal-except-for-idiocy society, became whole. Fractured factions banded together. The man was still tearing through them all, of course. Nothing they did mattered.
+
+“I’d love to blame the Great Purge on the Dark Dragon, but all that Void did was stand in the background while a hundred Shades simply avoided the man, and killed Spur instead. The man, for all his power, could not defend against a hundred Avatars of the Dark Dragon.”
+
+Silverite said, “One hundred and four years later, we don’t kill Shades unless we have to, and they stay inside their city. It’s a very simple truce: If we attack in force, they kill people who can’t get away, and if we do normal adventuring, they don’t force people to become Shades. Bulgan was actually the first person in ten years to become a Shade.”
+
+“What happened to the man? The one who killed Shades?”
+
+Silverite sighed, “He went away.”
+
+- - - -
+
+Erick sat in the second dining room with Mog, Al, and a twenty pound plate of fries that had been forty pounds when Mog set it down twenty minutes ago. One almost-empty keg sat to the side.
+
+And Erick had just said something strange.
+
+“You thought I was 30!” Mog laughed, “How could you possibly think I was 30?”
+
+“Blame it on your goddess!” Erick pointed at Al, “Al looks like’s hes 30, too, except for the little bit of grey. How old are you, Al?”
+
+“48. I think.” Al looked up and away, in the middle of sipping his tenth beer. “Is that right?” Al shouted behind him. “Savral!”
+
+Savral sat with Bacci in the loveseat in a corner of the room. He looked away from her, to yell at Al, “What!”
+
+“How old am I?”
+
+“You’re 50! And drunk!” Savral returned to sharing a moment with Bacci. She giggled, as Savral whispered something too quiet for Erick to hear.
+
+“Get a room!” Erick shouted, “In your own house!”
+
+Mog giggled, downing her twelfth beer. She said, “I’m 46, Erick! Two years younger than you.”
+
+Erick rushed to change the conversation. “Either of you know about the guy who caused the Great Purge?”
+
+“It’s one of the wroughts in town.” Al said, dismissive. “It has to be Killzone.”
+
+“It’s not him!” Mog declared, “It’s Silverite, for sure, back when she was ‘he’.”
+
+Savral yelled, “You’re both wrong. It’s—”
+
+Bacci pulled Savral’s face back to her. Erick looked away.
+
+“Why do you ask?” Al sipped his beer.
+
+“It just sounded interesting.”
+
+“You know what’s interesting?” Mog smiled, pressing her huge muscular arms against her equally ample chest, nearly spilling herself out of her slippery, silky red dress. “That this dress holds up this well. What do you think about this dress, Erick?”
+
+Al chimed in, “Oh no no no! He and I have a promised date when he reaches level 50.”
+
+Mog shrugged. “I’m comfortable having two boyfriends.”
+
+Al laughed loud.
+
+Erick had a plan, going into this conversation, but…
+
+“I’ll have to talk to you later.”
+
+Erick stood, pushing down his obvious enjoyment of this particular scenario, much to Mog’s and Al’s delight, and promptly rushed out of the room. There were too many balls in the air—
+
+No. Um...
+
+Too many assets to juggle—
+
+Not right either.
+
+Too many crushingly important investigations, with depths in need of plumbing and hard, so hard, problems that needed gentle, loving massaging—
+
+NOPE.
+
+Too many people to talk to.
+
+Sure. Let’s go with that.
+
+- - - -
+
+“The wind tells me many things, Erick.” Krakina drank coffee in the moonlights and the glows of the house lights. “They talk all funny these days, though… Your rain is nice. I love the lightning! Boom! Crash! But magic formed by the hands of people is not the most natural thing on this world. It confuses the wind.”
+
+“I heard. Sorry about that.”
+
+Krakina shook her head. “The good outweighs the bad. Spur is green! I have gold. I am satisfied.” She took a deep breath of night air, holding her coffee cup in one wing-hand, flexing the other wing out, feeling the dark air of the human district. “Are you satisfied?”
+
+“No.”
+
+Krakina withdrew her hand from the dark, laughing loud. “What! How! Look at your house! Look at the city! It glows! It grows. This is because of you!”
+
+Erick said, “I would like my daughter not to get herself killed. If there was a way to empty the Dead City of Shades, then I’d like that to happen, for sure.”
+
+“Phhbt!” Krakina said, “Your daughter is as thickheaded as they come. If you stopped one terror she would run around the world, trying to find another. She is like Ikawa! My granddaughter wants rid the Crystal Forest of mimics! Foolish children, chasing impossible dreams.”
+
+Erick smiled. “But that’s what kids do, and it makes me feel young again to be around them. 20 Vitality certainly helps, too.”
+
+Krakina cackled. “That’s right! You’re planar! Do they truly have no magic where you are from?”
+
+“None that I knew about, but there had to be some, right? I mean. I’m here, now, talking to you. Technology certainly didn’t get me here.”
+
+A breeze blew across the yard.
+
+Krakina sighed out, happy and content. “The wind is telling me you are trouble. That the world is balanced, right now. It’s not a great balance for everyone, sure. But balance does exist, and we are in an age of balance. Don’t go poking too hard at my reality, Particle Mage.”
+
+Erick stared into the darkness, alongside Krakina, both of them sipping their coffee.
+
+- - - -
+
+Maia slurred, “Yoouuu ned to go to Oshen-sad. Headmamer wants to kill all Shads, tao.”
+
+Erick said, “I’ve heard from multiple sources that concentrated attacks on the Shades is bad.”
+
+“Dey’re dum degelodaniacs! Yoush get one fight other! Do all da work of killsing demselves, demselves.”
+
+“That is one idea.” Erick looked over to Eduard, slurring his speech at Ramizi, whose hand was in Eduard’s pants. “I think another idea is you three go home. You’re drunk.”
+
+Maia shouted, “I’M NOT DUNK!” She muttered, “Otay. Aybe ‘m dunk.” She threw both hands wide. “BUT I GOT THIS! [CLEANSE]!”
+
+Thick air spilled out of her, and Eduard, and Ramizi.
+
+All three of them blinked. Ramizi instantly pulled his hands out of Eduard’s pants.
+
+Maia groaned into her hands. “I’m so sorry, Archmage.”
+
+Eduard shuffled off with Ramizi and Maia in tow.
+
+“Wait!” Erick stopped them before they got all the way gone. “Take some potatoes! And some ice cream— Icies.”
+
+Eduard paused. “… You have icies?”
+
+Ramizi laughed. “I want icies.”
+
+Eduard smacked Ramizi, but not that hard.
+
+- - - -
+
+Erick spotted Anhelia, still enjoying her blacklight, but now standing at the balcony railing of the second floor veranda. She was alone. An open bottle of quicksilver sat on the railing, while half an iron bar sat on a nearby stone table. The moons shone overhead. Anhelia fluoresced purple; brighter than the wardlight streamers strung around the house.
+
+Erick walked to her.
+
+Anhelia spoke before Erick could, her back still turned to him. “You’ve finally decided to come to the information source, have you? A girl would think you were teasing her, talking to everyone else first.” She turned and looked behind Erick. “And you’ve lost your ‘bodyguard’.”
+
+Erick sidled up to the railing. The successful garden was on the other side of the house; there was no one below to witness his conversation with Anhelia. A quick check with Meditation revealed no eyes in the air, either. He had already popped several eyes since the start of tonight's events; none of them reappeared.
+
+“I wasn’t sure what I was going to ask, before now.” Erick looked at the blacklight stone on the top of her hand. “I also didn’t know what I was going to offer as payment, until I realized we’re overbalanced.”
+
+Anhelia smiled. “Personally, this will get you a lot of answers. Professionally, I can only talk like this a few times without being seen as playing favorites.”
+
+“I’m torn between asking after who thinks you play favorites, why that would matter, and asking what I came here to know.” Erick looked down across the darkened district, toward the wall and the houses to the south. The wardlights of the city twinkled in the darkness. “And between just enjoying the night with friends.”
+
+“Now you are teasing me.”
+
+“Maybe.”
+
+Anhelia smirked. She said, “If Shades were truly monsters, they wouldn’t be able to do anything but kill. But since they can do things like threaten, and coordinate, and even have a society —however wretched it is— they’re only monsters in the technical and psychological sense. They’re the worst people you’ve ever known, but gifted with vast amounts of stolen power by an ancient terror, with no limits on how they use that power except for one commandment from their god: Keep Ar’Kendrithyst under his control.”
+
+She stared out into the darkness.
+
+She said, “The Dark Dragon has only ever rescinded his command once, and that was during the Great Purge. Some would say you would need to bargain with the source of the Shades in order to clear Ar’Kendrithyst. Others say you’d need to kill dozens of Shades, and then kill him when he appeared in defense of his interests.”
+
+“Do you know what he wants?”
+
+Anhelia smiled softly, then not at all. “The Shades say the Dark Dragon holds a terrible truth about the Sundering and the Script, and until an ancient injustice is rectified, the Shades are here to stay. Others say that he captured some fragment of the Old Cosmology and he uses it like any delusional megalomaniac would; for more and more power, built on more and more lies and lives. All I know is that Shades lie all the time, about anything and everything, and if the Dark Dragon cared about anyone or anything, he wouldn’t murder everyone he meets.”
+
+Erick had no idea what to say to that. Melemizargo didn’t murder him or Jane.
+
+But he wasn’t about to bring that up, not here, not to her, not to anyone.
+
+Anhelia looked south, and then up. Erick followed her gaze. Ar’Kendrithyst was a black void below a star filled sky.
+
+“My grandmother used to live there, you know? Back before it became the abomination it is today. The original fighting only lasted three months because the Dark Dragon destroyed some fundamental structure, and the city rose from the Underworld. A quarter of a billion people perished all at once.” Anhelia turned to Erick. “If you want someone to help you kill the Shades, or even just one or two, I’ll help. The Shades have killed my grandmother, my mother, and too many of my children for me to think about right now. We could murder one, or two. Ten to forty. Ideally I want to kill every single one of them, and then the Dark Dragon, too. Killing a single one is exceedingly difficult, but you and I? We could do it with just the two of us…” She looked away. “…Maybe.”
+
+Erick said, "But the reprisal...”
+
+She nodded. “Yes. The reprisal.”
+
+Erick stared at the night.
+
+Anhelia eventually said, “Bulgan’s death is assured. All he has to do is show himself, and Spur will rally to kill him. All of the other Shades will stand back and watch as Spur does it, too. Might even cheer us on.”
+
+“… how do we get that confrontation, and how do we ensure we win?”
+
+“If I were a betting woman, I would bet on you being the key factor to that, somehow. Some way. If you figure something out and you need my help, I’m available for this, all the way.” She smiled sadly, “But these kinds of conversations are best kept quiet. Your main detractors for any sort of grand plan are Silverite, Zago, strangely enough Mog, and even stranger: Killzone. Though you won’t get those stories out of me. I have to think about my own position in this world.”
+
+Erick nodded.
+
+- - - -
+
+Vanilla Icies were served, though Erick insisted on calling them vanilla ice creams. The ice cream was a major hit, but the only reason for that was because of the vanilla. It had been a very short hop from ‘Erick beans’, as the farmers had called them, to vanilla beans. Ratchet already had her vanilla clippings, but several other people wanted some, too.
+
+Erick gave them away. He gave away quite a lot, that night. Some unexpectedly priceless things, some spices he knew were priceless, as well as enough of everything else to cover the true nature of the evening.
+
+Erick was planting seeds, in some cases quite literally, in preparation for a future harvest.
+
+Some people saw through Erick’s machinations. Silverite, Anhelia, and Krakina, for sure.
+
+Others had their own agendas. Zago wanted Erick’s knowledge, Ratchet wanted his spices, Ulrick wanted various things from everyone at the party who was not Erick, and even Eduard wanted something. Eduard saw the vanilla icies and talked about the future.
+
+Valok was totally on board with Erick’s potatoes, though. Someone would want to grow them, and Valok knew the right people for all of that. Valok also knew the proprietors of almost every restaurant in Spur, too. Potatoes would be on many menus by the end of the week.
+
+Jane would be thrilled.
+
+- - - -
+
+Irogh showed up after everyone else had already gone home, wearing his normal clothes and walking with unearthly grace, through the open door of Erick’s house, then into the dining room where Erick and Rats were cleaning the remains of the spread; there wasn’t much food left at all.
+
+Not much, but there was still some food remaining. Rats promptly dropped the only dish that held all the remaining mashed potatoes. White mush went everywhere.
+
+Teressa rushed into the room. She saw the mess and swore, “Dammit, Rats!”
+
+“Sorry!” Rats squeaked.
+
+“It’s okay. It’s okay.” Erick dropped a [Cleanse] across the ground, then Handy Aura’d the dish together. One [Mend] later, the baking dish was good as new. Erick set the dish down, then turned to Irogh. “Hey! Welcome! Let me make you some fries.”
+
+Irogh smiled. “I didn’t come for food.”
+
+Erick turned to the storage room. He frowned. “I’d offer you vanilla icies, but that’s all gone, too.” He turned to Irogh. “Why didn’t you come sooner? Everyone was here.”
+
+“Rozeta told me to wait till the end.”
+
+Rats would have dropped another plate, had Erick not already had his Handy Aura out and active. Erick placed the plate back on the table, but he didn’t get a chance to say anything to Rats, because Rats vacated the room. Teressa and Poi also left. In seconds, Erick was alone with Irogh in the dining room.
+
+Eventually, Irogh said, “How goes your plan to rid the world of Shades?”
+
+“… Do you know more about the guy who killed enough Shades to make Melemizargo let them off their leash, to attack Spur?”
+
+Irogh remained silent.
+
+“That’s a ‘I can’t tell you’?” Erick frowned. “How about: How did they do it?”
+
+“That is a dead end of inquiry. You have your methods, why haven’t you put the pieces together? What are you waiting for?”
+
+“Because even if I did do this all on my own I would fail, or trigger another Great Purge. I don’t want to do either of those, and I’m only one man.”
+
+“Then enlist help.”
+
+“I’m working on that.”
+
+“Why am I here, Erick? And don’t say ‘doesn’t she know?’. Deities are allowed to be cryptic; when mortals are cryptic it’s just tiring for everyone involved.”
+
+Erick frowned. “What is Melemizargo’s ancient truth about the Sundering and the Script?”
+
+Irogh immediately said, “He claims that if the Script were destroyed, he could revert the New Cosmology back to the Old. Of course, he omits the fact that this is not guaranteed to work, would probably fail, and either way, everyone would die. Except for him and maybe his Shades.”
+
+Erick breathed out, trying to take all of that in. “Does he have the power to do such a thing?”
+
+“Not directly he doesn’t, and he never did.” Irogh said, “So he tries to kill all the wrought he can, in order to destabilize the Script at its base. If he were to succeed in killing the species that sustains the Script, then the Script would fall apart, all on its own. This would lead to a series of catastrophes, the first of which would likely be the Mana Ocean of Veird blowing away on cosmic wind as the surface is scoured of all life.”
+
+Erick felt existential dread blooming. He tried to crush that horrific emotion.
+
+Erick tried to change the topic, “… Is that why he teleported Jane and I into the sky, here? Instead of kill us? Because we’re not wrought?”
+
+Irogh said, “You tell me: Do you really think he spared you, at all? Melemizargo saw two innocent people pop out of a tunnel from another world, and then he sent them up here, to his largest stronghold on Veird. Jane immediately goes into Ar’Kendrithyst as one of the brightest martial talents Spur has seen in a generation, while the other contributes a whole new school of magic to the Script. Both of you genuinely want to kill Bulgan, and everyone in the town does, too.” Irogh stressed, “The Dark Dragon’s plots are never kind, or direct, least of all to his own Shades.”
+
+Erick’s anger spiked.
+
+Erick said, “I’m not a pawn of the Dark Dragon.”
+
+Irogh said, “No one in Spur thinks you are. I don’t think you are. The gods don’t think you are, either. But your words have power, and power corrupts more often than not.”
+
+“You’re wrong. Power reveals.”
+
+Irogh paused. He read the air for the briefest of moments.
+
+Irogh grinned at Erick. He nodded. “That might be true, too.” He looked to the open door to the storage room. “I can’t stay, but I’d love some potatoes. You just fry them in oil, right?”
+
+The heavy moment passed, like a shadow in the night.
+
+Erick smiled, saying, “Yup! Let me get you some to take home.”
+
+- - - -
+
+Killzone sat on the edge of the bowl of his stone bed, in his room in the very pinnacle of the kendrithyst spike that was Forward Base. The room was ringed in uninterrupted windows, giving him an unobstructed full view of the upper layer of Ar’Kendrithyst. The lights of the moons draped the land in pink and silver light, glinting off and through massive crystal spikes and bridges as far as the eye could see.
+
+Wrought didn’t see with their eyes, though. They saw with their whole bodies, and the glowgem [Ward] —the blacklight— sitting on the table in front of Killzone, in front of his entire, radiant purple body, was the second most beautiful thing Killzone had ever seen. ‘Blacklight’, as Erick called it, was magnificent. Only one secretive people down in the Underworld, known as the Gemslicers, made these, and they didn’t make them for just anyone. They made ‘blacklights’ for the crowns of kings and queens, to give legitimacy to lineages and opulence to thrones. Wars had been fought over blacklights. Dynasties toppled. Lives and loves lost, for all time. All for beautiful trinkets.
+
+And land and power, of course.
+
+But the stories, the rumors, the news, had always been about the glowgems; the completely useless blacklights.
+
+Killzone stared at the stone for a while longer, answering telepathic questions and orchestrating solutions to developing problems, but none of the problems laid at his feet were that serious; he could stare at the stone a while longer. He could dream.
+
+He could remember.
+
+He could laugh as a planar Archmage toppled a priceless, bloody currency.
+
+When he was done, he picked up the stone. He held it for a moment. He wrapped the stone in a black cloth and put that cloth into a stone box, then he tossed that box into a drawer in his desk. He shut the drawer. He thought no more of his old life, down there in the Underworld, where he had been a very different person with a very different future, until a Shade came to his geode, and everything changed.
+
+Killzone sent to Jane, ‘If you want to go Bulgan hunting, let’s go’.
+
+Jane’s reply came almost instantly, ‘Absolutely, yes!’
+
+- - - -
+
+Erick didn’t want to wake up so damn early, but he had to. He had to go back to Mog’s adventuring classes. He had missed too many days already.
+
+Draz, the ‘drill sargent’ incani who ran the class, dressed Erick down in front of everyone with as much politically polite vitriol as he could possibly muster.
+
+There were much fewer people in the class; only 4 had stuck around till day 10. Greenscale Kiri, from the Greensoil Republic, was still there, along with Zimmy Saker, the [Force Shrapnel] girl. Erick didn’t know the others; one crimsonscale male, one young long haired blond orcol woman. Kiri greeted Erick. The others did not.
+
+When sparring began, Kiri promptly flipped Erick onto his face. Most of the rest of the day proceeded with Erick’s face smashed into the sand in various, uncomfortable ways, until mid afternoon, when Draz announced a change.
+
+“Time to head into the Crystal Forest. I’m going to see how you all kill mimics—” Draz looked directly at Erick, to say, “Without your fancy spells.”
+
+Erick turned to Poi. Poi shrugged and nodded; the message was clear. If Erick wanted to go, they would.
+
+Erick said, “Okay then. Time to get my hands dirty.”
+
+“You’ll be fine.” Kiri said with a smile, “Just don’t ask the mimic to spar.”

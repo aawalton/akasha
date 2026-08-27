@@ -1,0 +1,532 @@
+---
+id: 42bb45bd-4681-5342-a78b-a9432e2cf37d
+page-type-slug: story-chapter-played
+title: "Iron Grip"
+slug: 0009-iron-grip
+partOf: the-idle-epoch
+position: 9
+ownLength: 6292
+unit: words
+---
+
+The knock came at dawn, and it sounded like authority.
+
+Not a fist against wood -- a gauntleted hand, three measured strikes against the warehouse's loading door, the rhythm of someone who had knocked on a thousand doors and expected every one to open. The sound rang through the stamping plant like a hammer on an anvil, cutting through the hum of three automation threads and the quiet scratch of Callum's pen on paper.
+
+He'd been awake for an hour, cross-referencing overnight idle reports against the compound loop's projected yield curve. The numbers were beautiful. Essence income had hit 8,600 overnight, up from 8,200 the day before, and the acceleration was steepening in exactly the way his models predicted. The Enhancement Construct's feedback cycle was tightening with every iteration, each loop shaving fractions off the next, the whole system converging on a rhythm that felt less like machinery and more like breathing.
+
+Three more knocks. Same cadence. Patient.
+
+"Cal." Mira's voice came through the workshop's interior door, low and tight. She'd been on perimeter patrol since four AM -- a habit she'd adopted two days after the Broker's warning, without being asked. "We've got company. Four Vanguard heavies and a sergeant. Full gear."
+
+Callum set down his pen. His hand was steady, but something cold moved through his chest -- not quite fear, not quite surprise. The feeling of a variable he'd modeled turning concrete.
+
+*Iron Vanguard. Inspection or intimidation. Probably both.*
+
+He closed his field notebook and slid it beneath the cot's thin mattress. Not because it contained anything illegal. Because the equations inside represented something he wasn't ready to have cataloged.
+
+"Jin," he said, louder. Across the warehouse, a camp cot creaked. Jin had moved in two days ago, ostensibly to optimize the summon-construct relay timing, actually because his previous squat near the Rustbelt Flats had developed a roof leak and Callum's warehouse had a working coffee setup. The kid slept like he coded -- in bursts and crashes, surrounded by a nest of handwritten notes.
+
+"Mmph." Jin surfaced from a U of M hoodie pulled over his head. "Wha?"
+
+"Get dressed. We have visitors."
+
+Jin blinked, processed, and his face went pale. "Vanguard?"
+
+"Mira's count says four plus a sergeant."
+
+"Oh no. Oh no no no." Jin was already scrambling for his boots, one hand reaching for his talisman -- the gutted TI-84 that served as his summoning focus. "Should I -- do I dismiss my summons? If they're running in the Shardfield right now and the Vanguard sees the patrol radius overlap with their --"
+
+"Leave them running. If we pull them back now, it looks like we're hiding something. We're not hiding anything."
+
+"We're a little bit hiding something," Jin said, very quietly.
+
+Callum met his eyes. "We're not hiding anything," he repeated. "Get dressed."
+
+He walked to the loading door and pulled it open.
+
+---
+
+Sergeant Tomas Bray stood in the gray morning light with the posture of a man who had been standing at attention for so long it had become his default shape. Broad-shouldered, thick through the chest, wearing Guardian-class plate armor that gleamed dull silver in the predawn haze. Level 35, if the gear quality was any indication. Behind him, four Iron Vanguard soldiers in full combat loadout: two with swords and tower shields, one with a polearm, one with a crossbow that hummed with stored Flux. All of them at least Level 25.
+
+The combined threat they represented was not subtle. It didn't need to be.
+
+"Callum Voss?" Bray's voice was professional. Not hostile. The kind of tone used by people who had authority and didn't need to prove it.
+
+"That's me."
+
+Bray produced a folded document from a belt pouch and offered it with the economy of someone who had done this many times. "Compact Security Directive 4-17. Authorization for inspection of construct operations within the Foundry District. I'll need access to your workshop, your construct array, and any deployed automation assets within the district's operational radius."
+
+Callum took the document. He scanned it -- the language was bureaucratic, the formatting official-looking, the authority cited was the Detroit Compact's "Resource Security Council." He was fairly certain the Resource Security Council had been formed sometime in the last week and consisted of whoever Drake Morrison told it consisted of.
+
+The legality was questionable. The four armed fighters behind Bray made the legality irrelevant.
+
+"Come in," Callum said, and stepped aside.
+
+Bray entered the warehouse with the methodical awareness of someone trained to assess threats in enclosed spaces. His eyes moved in a practiced sweep: walls, ceiling, exits, then the three active constructs humming in their anchor positions. The pale luminescence of the compound loop painted the air between them in threads of gold and green and blue, a cat's cradle of automated productivity that most people would find unremarkable.
+
+Bray did not find it unremarkable. His gaze lingered on the threads -- specifically on the Enhancement Construct's feedback channel, where the loop doubled back on itself in a tight spiral of self-reinforcing output. His jaw tightened, just slightly, the way a man's jaw tightens when he sees something he was hoping not to find.
+
+"This is the full array?" he asked.
+
+"Four active constructs." Callum gestured toward the Mk.V Sentinel's anchor point, where the combat construct's patrol thread pulsed in a steady amber loop. "Combat, gathering, processing, and a feedback unit. Standard compound configuration."
+
+"Standard." Bray repeated the word as though testing whether it fit. It didn't. He knew it didn't. "We'll need to catalog each unit. Loop configurations, resource flows, storage capacity." He glanced at the Flux Capacitor Mk.III on Callum's belt. "Including that."
+
+"Understood."
+
+Mira stood by the interior door, arms crossed, her Fracture-Tooth Saber sheathed at her hip but her hand resting on the pommel with the casual readiness of someone who could draw in a quarter-second. The four Vanguard soldiers noticed her. All of them noticed her. One of the shieldbearers straightened almost imperceptibly.
+
+Bray noticed too. "Vasquez." A note of surprise beneath the professional tone. "Didn't expect to see you here."
+
+"Morning, Sergeant." Mira's voice was even. Her eyes were not.
+
+"You're... affiliated with this operation?"
+
+"I'm standing in this warehouse. You can draw your own conclusions."
+
+Something passed across Bray's face -- not judgment, exactly. Something closer to recalculation. Mira Vasquez was known in the Detroit Barrier Zone. Known and respected, even by the Vanguard. Her presence here was not part of whatever briefing Bray had received, and it complicated his mental model.
+
+Good. Callum had not asked Mira to complicate the model. She was doing it because she was Mira.
+
+"The inspection," Callum said, redirecting. "Where do you want to start?"
+
+---
+
+They started with the Mk.V Sentinel and worked their way through every construct in the warehouse.
+
+Bray was thorough. He was also, Callum realized over the next ninety minutes, competent in ways that most active-combat players were not. He understood construct architecture. He asked precise questions about Flux draw rates, kill efficiency metrics, and thread synchronization timing -- questions that revealed a working knowledge of idle systems despite the Iron Vanguard's official disdain for them. Callum answered each one accurately and completely. He had nothing illegal, nothing restricted, nothing that violated any existing Compact regulation.
+
+But accuracy and completeness served a second purpose: they let Callum study what Bray paid attention to.
+
+Bray lingered on the Enhancement Construct.
+
+"Walk me through this one," he said, standing before the feedback array, the blue-gold light of the self-reinforcing loop playing across his armor.
+
+Callum explained the basic function -- how the Enhancement Construct took a fraction of the Refinery's processed output and fed it back into the other constructs as incremental upgrades. He kept the explanation simple. Accurate, but simple. He did not mention compound growth rates. He did not mention the feedback function's acceleration curve. He did not mention that this single construct was the reason his output had doubled twice in three days.
+
+Bray listened. Then he said, quietly enough that the soldiers behind him wouldn't catch it: "You're generating more than a ten-man farming squad." His eyes moved from the Enhancement Construct to Callum's face. "The Commander noticed."
+
+It was both a compliment and a threat, delivered with the weary precision of a man who understood that he was the instrument of someone else's anxiety.
+
+"The inspection requires a safety verification of all active constructs," Bray continued, louder now, official again. "All automation loops must be paused during verification. Standard procedure."
+
+Callum felt it before the words fully registered -- a cold drop in his stomach, the physical sensation of a clock stopping.
+
+"How long?"
+
+"Verification takes approximately fourteen hours."
+
+Fourteen hours. Callum's mind converted the number instantly, automatically, the way his mind converted everything: fourteen hours of compound loop downtime. His Compound Growth bonus -- the accumulated dividend of continuous, unbroken operation, currently at +31% -- would reset to zero. Every hour the Enhancement Construct ran without interruption, the bonus ticked up. Every interruption dropped it back to baseline. It was the single most valuable metric in his operation, and it was about to evaporate.
+
++31%. Gone.
+
+The math bloomed in his head with the clarity of pain. Thirty-one percent compound bonus, accumulated over days of continuous operation. Fourteen hours of lost generation time. At current rates, the lost output alone was worth roughly 5,000 Essence. But the real cost was the recovery time -- it would take thirty-one hours of unbroken operation to rebuild the bonus from zero. Total effective loss: forty-five hours of optimal productivity. Nearly two days of compounding, erased.
+
+He did not let any of this show on his face. Years of factory floor management had taught him the precise art of looking exactly as affected as the situation required and not one degree more.
+
+"Understood," he said. "I'll initiate construct standby."
+
+He gave the command through his System interface. The constructs powered down in sequence -- the Sentinel first, its combat loop fading to a dull amber glow, then the Scrap Collector's crawling presence going still somewhere in the ruins north of the warehouse, then the Refinery's rhythmic hum dropping to silence. The Enhancement Construct was last. He watched its feedback spiral unwind, the self-reinforcing loop loosening, slowing, dissolving into scattered motes of light that settled on the Flux core like dust.
+
+```stat-screen
+--------------------------------------
+  COMPOUND LOOP STATUS: SUSPENDED
+
+  Active Constructs: 0 / 4
+  Compound Growth Bonus: RESETTING...
+
+  +31% bonus lost.
+  Recovery time to +31%: ~31 hours
+
+  Estimated total productivity
+  loss: 45 hours effective output
+--------------------------------------
+```
+
+The warehouse went quiet. Not silent -- the ambient hum of the Essence Ley beneath the foundation was always there, a low, mineral vibration in the floor. But the living rhythm of the compound loop, the sound Callum had been sleeping beside for weeks, was gone. The absence was physical.
+
+On his shoulder, Pip flickered once and dimmed. Even the familiar seemed diminished by the sudden emptiness.
+
+Bray and his team spent the next two hours cataloging. They measured Flux output ratings. They recorded construct core serial numbers, if such a thing could be said to exist for Substrate-generated objects. They examined the Mk.V Sentinel at its anchor point, the crossbow-wielding soldier scanning it with what looked like a Vanguard-issue analysis tool. They were professional. They were not cruel. They were doing their job.
+
+Jin sat on his camp cot throughout the inspection, hands gripping his knees, Pixel the scout familiar curled tight against his ankle in a ball of blue light. He didn't speak. His silence was louder than anything he could have said -- Jin Park, who could fill any room with words at 1.5x speed, sitting mute and rigid while armed soldiers cataloged things he'd helped build. When Bray asked him about his summons in the Shardfield, Jin answered in clipped, accurate sentences. Yes, two elementals and a scout. Yes, running idle patrol routes. Yes, within the permitted zone boundary. No, not affiliated with any guild.
+
+His hands didn't stop shaking until the soldiers turned away.
+
+---
+
+When the catalog was complete, Bray delivered the message.
+
+He stood in the center of the warehouse, the four soldiers behind him in a loose formation that was not quite a combat stance and not quite casual. He held a second document -- thicker, printed on Compact-stamped paper that smelled of Flux ink and fresh bureaucracy.
+
+"Effective immediately," Bray said, reading from the document with the precision of someone who had been told the words mattered, "all unaffiliated construct operators within the Detroit Compact's jurisdiction are required to register with the Compact Resource Security Council. Registration entails quarterly output audits and a supplementary Residuum contribution of ten percent above the existing Barrier maintenance tax."
+
+The words settled into the warehouse like stones into still water.
+
+Ten percent. Above the existing tax. On top of the twenty percent surcharge for unaffiliated players that had already been implemented. Callum ran the arithmetic without thinking: his current Residuum contribution was already strained. An additional ten percent on construct output would eat into his operating margin badly enough to delay his timeline by weeks. Not a death blow. Economic strangulation, administered in increments too small to justify rebellion and too large to ignore.
+
+"Non-compliance," Bray continued, "will result in restricted zone access for all registered constructs. Specifically, access to the Overgrowth and Rustbelt Flats zones will be suspended pending compliance review."
+
+There it was. The real threat, buried in the bureaucratic language like a blade in a silk glove. Without the Overgrowth and Rustbelt Flats, his compound loop starved. The Gathering Construct had no zone to gather in. The Grinder had no mobs to farm. The entire feedback system would collapse not from a direct attack but from the simple, elegant withdrawal of the resources it needed to function.
+
+Drake Morrison was not stupid. Drake Morrison understood systems, even if he despised the people who built them.
+
+Callum took the registration form from Bray's outstretched hand. The paper was heavy, official, warm from Bray's gauntlet.
+
+"Thank you, Sergeant," he said. His voice was perfectly level.
+
+Bray held his gaze for a beat. Something moved behind the man's eyes -- not sympathy, exactly. Recognition. The look of a soldier who understood orders and obeyed them and would continue obeying them, but who had started wondering, in the quiet hours, whether the orders were pointed in the right direction.
+
+"You have fourteen days to submit the registration," Bray said. "I'd recommend sooner."
+
+He turned, nodded to his squad, and walked out into the gray morning. The loading door closed behind him with a sound like a period at the end of a sentence.
+
+The silence in the warehouse was heavy.
+
+---
+
+Mira's hand came off her saber pommel one finger at a time, as though each finger was making an independent decision to let go. Her knuckles were white. Her jaw was set in a line that Callum had learned to associate with the moment before she hit something.
+
+She did not hit anything. She paced instead -- three strides to the eastern wall, three strides back, her boots striking the concrete with a force that said more than words about what was happening inside her.
+
+"That," she said, "was not an inspection."
+
+"No," Callum agreed.
+
+"That was Drake Morrison putting his boot on your neck and asking you to say thank you." Three more strides. Her braid swung behind her like a pendulum counting down. "Registration. Audits. *Supplementary contributions.* Do you know what that is? That's protection money. That's a shakedown wearing a Compact seal."
+
+"I know what it is."
+
+"He's scared of you." She stopped pacing and turned to face him. Her dark eyes were hot, furious, and aimed at a target three miles away in Barrier Hall. "Drake Morrison is Level 42 and he's scared of a Level 19 construct operator in a stamping plant. Because your numbers doubled and he can't do that. Because your system works and his doesn't scale. Because he's hitting a wall and you're not and it makes everything he's built look --"
+
+She caught herself. Her jaw worked. She took a breath and let it out through her nose, slow and controlled, the way she breathed between bouts when the adrenaline was too high and she needed to come down.
+
+"He offered me a spot once," she said, quieter now. "Three months ago. 'Join us, Vasquez. We'll protect you.'" She smiled, and there was nothing warm in it. "I said no. I thought that was the end of it. But there's always an 'or else' with people like that. You just don't see it until later."
+
+She looked at Callum -- really looked, studying his face the way she studied an opponent's stance before a fight. He was sitting on the edge of his workbench, still holding the registration form, staring at the dead constructs. Quiet. Motionless. Running calculations behind eyes that had gone unfocused in the way that meant his mind was somewhere deep and the rest of him was on autopilot.
+
+She had thought that stillness was coldness, once. The absence of feeling. The systems-thinker retreating into his spreadsheets because the human stuff was too messy.
+
+She didn't think that now. She watched the registration form tremble, just slightly, in his grip. She watched his thumb press into the paper hard enough to dimple it. She saw the tension in his shoulders and the careful, deliberate steadiness of his breathing -- the breathing of someone who was choosing, with conscious effort, not to break.
+
+Not cold. Disciplined. There was a difference, and she was only now learning to see it.
+
+*They won't take this from him,* she thought. The thought was sudden, fierce, and so clear it surprised her. *I won't let them.*
+
+She didn't say it. She wasn't ready to say it. But she crossed her arms and stood between Callum and the loading door, and she did not leave.
+
+---
+
+Jin broke the silence. Of course he did. Jin always broke silence -- it offended him on a molecular level.
+
+"That's -- okay, that's a thirty-one percent compound bonus gone." He was pacing his own orbit around the warehouse, tighter and faster than Mira's, his hands moving through calculations that his mouth was trying to keep up with. "Thirty-one percent. Do you know how long it took to build that? And they just -- they walked in and --"
+
+"I know the numbers, Jin."
+
+"The registration tax alone is going to eat -- hang on, let me --" Jin grabbed a scrap of paper from his cot-nest and started writing. "Ten percent on construct output, that's roughly nine hundred Essence per day at current rates, except current rates are *zero* right now because they shut us down, so it's ten percent of whatever we rebuild to, which --"
+
+"Jin."
+
+Jin stopped writing. He looked at Callum with an expression Callum recognized: the face of someone who processes fear by converting it to math, finding the calculations inadequate, and running face-first into the fear he was trying to outrun.
+
+"This isn't fair," Jin said. The words came out smaller than anything else he'd said, raw and young. "We didn't do anything wrong. We built something that works. We built it *legally*, inside the rules, inside the zones, and they just walked in and turned it off because -- because it works too well? Because we're not in their guild? That's not how a system is supposed to --"
+
+"Systems," Callum said, "work the way the people who control them say they work. Drake controls the zones. The zones are the bottleneck. He's not breaking the rules. He's making new ones."
+
+Jin sat down on his cot. Pixel chirped at his ankle -- a thin, worried sound, the scout familiar responding to its summoner's distress.
+
+"So what do we do?"
+
+Callum set the registration form on the workbench. He smoothed it flat with one hand, pressing out the creases his grip had put into it. Then he stood, walked to his cot, retrieved his field notebook from beneath the mattress, and sat down with it in his lap.
+
+He opened to a fresh page.
+
+At the top, in precise block letters, he wrote:
+
+**Vanguard intervention cost: 14 hours downtime + Compound Growth reset (+31% to 0%). Effective loss: ~45 hours optimal productivity.**
+
+He underlined it. Then he underlined it again.
+
+Then he turned to the next page and started writing something else.
+
+---
+
+Night settled over the warehouse. The dead constructs sat in their anchor positions like dormant machines in a factory after shift change -- inert, patient, waiting. The Essence Ley hummed its low mineral hum beneath the floor. Outside, the Barrier Zone's ambient noise filtered through the walls: distant voices, the ring of a smith's hammer, the muted crack of someone testing a combat skill in the Grind Pits.
+
+Callum sat cross-legged on his cot with his System interface open and fifteen unallocated skill points burning a hole in his progression.
+
+He'd been saving them. Saving deliberately, with the patience of someone who understood that the best time to spend a strategic reserve was not when things were going well, but when the terrain shifted and the old approach stopped working. The terrain had shifted. His constructs were offline. His compound bonus was gone. The Iron Vanguard had demonstrated, with polite precision, that they could walk in and shut him down whenever they chose.
+
+Constructs were vulnerable. They were physical. They sat in known locations, drew measurable Flux, and operated in zones that other people controlled. Every construct Callum built was a hostage he'd handed to Drake Morrison without realizing it.
+
+He needed something that couldn't be shut down by a sergeant with a clipboard.
+
+He needed something that lived inside the System itself.
+
+Callum opened his skill tree and studied the three branches he'd been circling for weeks. Each one represented a different kind of resilience -- a capability that the Iron Vanguard couldn't catalog, couldn't power down, couldn't restrict by withdrawing zone access.
+
+He started with Compile Familiar.
+
+Pip flickered on his shoulder, the cursor-entity's soft gold light pulsing in its usual rhythm -- blink, pause, blink, like a heartbeat rendered in light. At Level 1, Pip was barely functional. A subroutine with form. A thread manager that happened to look like something alive. Jin had explained the deeper mechanics weeks ago, talking at his usual 1.5x speed: *"Summons aren't just magical constructs -- they're Substrate processes. Threads of computation given physical form. Your Compile Familiar skill does the same thing, but you're writing the thread from scratch instead of pulling a template. That's why it's slower to develop and has more potential. You're not summoning something that already exists. You're building something that has never existed."*
+
+Something that has never existed. Something that lives in the System, not in a zone.
+
+```stat-screen
+--------------------------------------
+  SKILL UPGRADE: Compile Familiar
+  Level 1 --> Level 2
+  SP Cost: 2
+
+  Familiar can now communicate
+  basic status reports. Expanded
+  operational awareness. Thread
+  management efficiency +15%.
+--------------------------------------
+```
+
+The upgrade rippled through his interface -- a brief, warm pulse that spread from the Compile Familiar node through his System link like a current through a wire. On his shoulder, Pip brightened. The cursor-entity's form sharpened, its edges crisping from a fuzzy blink to a clean, defined glow. It rotated slightly, as though orienting itself.
+
+Then it made a sound.
+
+A chime. Small, clear, and unmistakably intentional -- not a System notification sound, not a combat alert, but a single note that came from Pip itself. A sound that meant *I am here.*
+
+Callum went very still.
+
+"Pip?"
+
+Another chime. Higher, interrogative. A question rendered as tone.
+
+"Can you... understand me?"
+
+A pause. Then a chime that was different from both previous ones -- lower, steady, confident. Callum didn't know the vocabulary yet, but the meaning was clear enough that it bypassed language entirely.
+
+*Yes.*
+
+Something tight in Callum's chest loosened. He hadn't realized it was there until it released -- a tension he'd been carrying for days, for weeks, maybe longer. The tension of a man who talked to a blinking cursor every morning because it was the closest thing to company he'd had before Mira and Jin arrived. The tension of loneliness so practiced it had become invisible.
+
+"Good," he said. His voice was quiet. "That's good."
+
+Pip chimed once, softly, and settled into a steady glow on his shoulder.
+
+Callum returned to his skill tree. The warmth of that single chime stayed in his chest like an ember as he moved to the next investment.
+
+Loop Analysis. Currently Level 5. He'd raised it from 3 to 5 during the exponential growth phase, unlocking the ability to view other players' automation setups. Useful, but not what he needed now. Levels 6 and 7 opened a different capability entirely -- one he'd read the description of three times and committed to memory.
+
+Level 7: *Identify System processes. Detect spawn timers, loot table structures, and external monitoring of your automation threads.*
+
+External monitoring.
+
+The Iron Vanguard had been watching his construct output for weeks. He'd known it -- the Broker had told him -- but he hadn't been able to *see* it. At Loop Analysis Level 7, he would be able to detect when his constructs were being scanned, tracked, or surveilled through the System itself. He would know when the Vanguard was watching, and he would know from where.
+
+You couldn't hide from an enemy you couldn't see. But you could adapt around one you could.
+
+```stat-screen
+--------------------------------------
+  SKILL UPGRADE: Loop Analysis
+  Level 5 --> Level 7
+  SP Cost: 4
+
+  New capability: Identify System
+  processes including spawn timers,
+  loot table structures, and
+  external monitoring signatures.
+
+  Detection range: 200m (scales
+  with INT)
+--------------------------------------
+```
+
+The upgrade took hold with a sharper sensation than the Compile Familiar boost -- a brief vertigo, like the world had shifted a quarter-inch to the left and everything suddenly had more edges. Callum blinked, and when his eyes refocused, the warehouse looked different. Not visually -- the same gray walls, the same dead constructs, the same thin light from the Essence Ley. But there was a new layer. A shimmer at the boundary of perception, like heat haze rendered in data.
+
+He turned his attention outward, testing the new sense, and felt it immediately: a thin, cold thread of attention attached to his Grinder's anchor point. A monitoring signature. Vanguard-issue, based on the spectral profile -- the same type of analysis tool the crossbow soldier had used during the inspection. They'd left a passive scan running on his primary combat construct.
+
+They were still watching. Even now. Even while the constructs were offline.
+
+He noted the signature's position, its decay rate, its refresh interval. Then he filed the information away and moved on.
+
+Last investment. The big one.
+
+Script Engine.
+
+Currently Level 2. Five-line scripts with basic conditional logic. Enough to write crude automation rules, insufficient for anything that could adapt. Level 5 was a qualitative leap: twenty-line scripts with loops, functions, and enemy type detection. The gap between Level 2 and Level 5 wasn't a gradual improvement. It was the difference between a calculator and a computer. Between a tool that followed rules and a tool that could *think* about them.
+
+Six skill points. His largest single investment since he'd started playing the game.
+
+He thought about Drake Morrison. About a man who had built a system on personal sacrifice and direct effort and conviction -- a system that worked, that had kept a hundred and eighty thousand people alive -- and who was now using that system to crush anything that might make it obsolete. Drake wasn't wrong about everything. He was wrong about the thing that mattered most.
+
+He thought about Mira, standing between him and the door. Arms crossed. Not leaving.
+
+He thought about Jin, sitting on a cot with shaking hands, saying *this isn't fair* in a voice that sounded like a kid learning for the first time that the world didn't care about fair.
+
+He thought about Pip, chiming *yes* for the first time.
+
+He thought about the number 15 glowing at the bottom of his stat sheet, hidden and indelible.
+
+He allocated the points.
+
+```stat-screen
+--------------------------------------
+  SKILL UPGRADE: Script Engine
+  Level 2 --> Level 5
+  SP Cost: 6
+
+  Max script length: 20 lines
+  New capabilities:
+    - Loop constructs (FOR, WHILE)
+    - User-defined functions
+    - Enemy type detection
+    - Conditional branching (nested)
+    - Variable assignment
+
+  Script Complexity: 37.5
+  (INT 63 x 0.5 + 5 base)
+--------------------------------------
+```
+
+The upgrade hit like a door opening onto a room he'd always known was there but could never enter. His perception of automation didn't change -- it *expanded*. Where before he'd seen his construct scripts as simple if/then chains, he now saw branching trees of possibility. Conditional paths that forked and merged. Functions that could be called, reused, composed into larger structures. The Script Engine wasn't just better. It was a different language, and he was suddenly fluent.
+
+```stat-screen
+--------------------------------------
+  SKILL POINT SUMMARY
+
+  Compile Familiar: Lv 1 --> 2  (2 SP)
+  Loop Analysis:    Lv 5 --> 7  (4 SP)
+  Script Engine:    Lv 2 --> 5  (6 SP)
+
+  Total SP spent: 12
+  Remaining unallocated: 3
+--------------------------------------
+```
+
+Callum sat in the quiet warehouse with three upgraded skills humming in his interface and a familiar that could say *yes* sitting on his shoulder, and he began to write.
+
+Not in his field notebook. In the System.
+
+The first script he wrote was for the Grinder. Not the old script -- the simple three-hit combat loop that had been running since month one. A new script. A script that could detect enemy types, adjust its attack pattern based on resistance profiles, and retreat to a secondary position if it detected an external monitoring signature within fifty meters.
+
+The second script was for the Scrap Collector. Adaptive gathering routes that responded to resource depletion in real time, shifting harvest zones on a dynamic schedule instead of a fixed rotation. If a zone was restricted, the script would detect the restriction and reroute to the next available sector automatically. No zone dependency. No single point of failure.
+
+The third script was for the Enhancement Construct. A feedback function that monitored its own output and adjusted the distribution ratio between upgrade pathways based on which construct needed it most. Self-tuning. Self-correcting. A feedback loop that could optimize itself without Callum's intervention.
+
+He wasn't just restarting his operation. He was redesigning it from the ground up. The old compound loop had been a machine -- complex, efficient, and as vulnerable as anything that sat in one place and waited to be found. The new one would be something else. Something that adapted. Something that survived.
+
+Somewhere during the third hour of script writing, a notification interrupted him.
+
+```stat-screen
+======================================
+  LEVEL UP! 19 --> 20
+
+  +2 INT (63 --> 65)
+  +2 WIS (66 --> 68)
+  +1 WIL (34 --> 35)
+
+  LOOPWEAVER MILESTONE: Level 20
+  +1 to ALL stats
+
+  Final Stats:
+  INT: 66  WIS: 69  VIT: 20
+  WIL: 36  STR: 15  AGI: 16
+  PER: 17  LCK: 14
+
+  HP:  373 --> 390
+  MP:  864 --> 903
+
+  Stamina: 194
+
+  Script Complexity: 38.0
+  Idle Yield Multiplier: 2.40x
+
+  +3 Skill Points (unallocated: 6)
+======================================
+```
+
+Level 20. The notification filled his vision with the familiar warmth of System acknowledgment -- that clean, frictionless satisfaction of growth recognized and quantified. But beneath the warmth was something sharper. Level 20 meant he was five levels from Condense threshold. Five levels from the point where he could compress everything he'd built into denser information and start the exponential climb in earnest.
+
+Five levels. At current rates -- even accounting for the compound bonus reset, even accounting for the Vanguard's tax, even accounting for fourteen hours of lost time -- his projections said two weeks.
+
+Two weeks, and the curves would start to truly bend.
+
+He dismissed the notification and kept writing scripts.
+
+Mira appeared sometime around midnight. She'd been outside -- patrolling, or thinking, or both. She carried two tin cups of something hot that turned out to be instant coffee so bad it was nearly a debuff.
+
+"Drink," she said, setting one beside him.
+
+"Thanks."
+
+She looked at the Script Engine output glowing in his interface -- the branching logic trees, the function definitions, the adaptive routines spiraling out from his construct cores. She couldn't read the code. But she could read the expression on his face.
+
+"You've got a plan," she said. Not a question.
+
+"I've got the beginning of one."
+
+"Does it involve punching Sergeant Bray?"
+
+"No."
+
+"Shame." She settled against the workbench, cradling her coffee. "Does it involve making Drake Morrison very, very uncomfortable?"
+
+Callum looked up from his scripts. The ghost of something appeared at the corner of his mouth -- not quite a smile, but the scaffolding where a smile would be if he allowed it to finish constructing itself.
+
+"The constructs were always the vulnerability," he said. "They're physical. They sit in known locations. Anyone with enough authority or enough muscle can shut them down. The Vanguard proved that today." He turned back to the script tree. "So the answer isn't better constructs. It's smarter constructs. Scripts that adapt. Routes that reroute. Systems that survive interference because they're built to expect it."
+
+"And the familiar?" Mira glanced at Pip, who was glowing steadily on Callum's shoulder, brighter than she'd seen it before.
+
+Pip chimed once. Clear, warm, present.
+
+Mira blinked. "Did it just --"
+
+"Level 2. Basic communication." Callum reached up and touched the air near Pip, not quite making contact. The familiar pulsed gently in response. "Pip's a Substrate process. Not a construct. Can't be cataloged, can't be powered down, can't be restricted by zone access. Pip lives in the System. The Vanguard would have to shut down the Substrate itself to touch it."
+
+Mira studied the familiar with the sharp, evaluative focus she usually reserved for opponents. Then she looked at Callum.
+
+"You're not upset," she said. "I thought you'd be -- I don't know. You lost a thirty-one percent bonus and two days of productivity. I expected more... reaction."
+
+Callum set down the coffee. The warmth of it lingered in his hands.
+
+"The compound bonus will take thirty-one hours to recover," he said. "The new scripts will make the recovery faster than the original build. Script Engine Level 5 lets me write adaptive logic that the old scripts couldn't handle -- dynamic pathing, type-conditional combat routines, self-optimizing resource allocation. When the loop restarts, it won't just recover. It'll be better than it was."
+
+"So they hurt you and you came back stronger. That's the plan?"
+
+"That's the physics. The plan is bigger." He paused, choosing his words with the precision of someone who understood that the right frame could make any idea feel inevitable. "Drake controls the zones. He controls who operates in them and what they're allowed to build. As long as my power depends on zone access, he has leverage. So the real plan is to build something that doesn't depend on zones. Something that runs in the System layer, not the physical layer. Pip is the first step."
+
+"And the other steps?"
+
+"I need five more levels. Then I Condense."
+
+Mira was quiet for a moment. Then she took a sip of terrible coffee and said, "Fourteen days to submit the registration. You going to do it?"
+
+"Yes."
+
+She looked at him sharply.
+
+"I'll register. I'll pay the tax. I'll submit to the audits." He met her eyes. "And by the time any of it matters, I'll have Condensed, and the audit numbers they're tracking will be for a Level 1 character with a 1.5x multiplier and a Recursion stat they don't know exists."
+
+Mira stared at him. Then she laughed -- short, sharp, surprised out of her. "You're going to let them build a file on you and then reset the entire equation."
+
+"Compound growth," Callum said. "They can reset the bonus. They can't reset the architecture."
+
+On his shoulder, Pip chimed. The sound hung in the dark warehouse like a small, defiant bell.
+
+Callum turned back to his scripts. The constructs were dark. The compound bonus was gone. The Iron Vanguard's registration form sat on his workbench, waiting to be filled.
+
+And the numbers were already climbing again.
+
+He wrote a function -- the first real function his Script Engine had ever executed. It took the Grinder's combat loop and wrapped it in a conditional shell: if monitoring signature detected within range, shift to secondary patrol route. If secondary route blocked, fall back to tertiary. If all routes blocked, enter standby mode and log the restriction for manual review.
+
+It was elegant. It was adaptive. It was the smallest possible version of something much larger.
+
+He saved the script and gave the restart command.
+
+The Enhancement Construct stirred first. Its Flux core warmed from gray to pale blue, the feedback spiral beginning its slow, climbing rotation. Then the Refinery, its processing queues spinning up with a sound like distant machinery awakening. The Grinder last, its combat pattern loading the new script -- the first script Callum had ever written that could think about its own environment.
+
+The compound bonus sat at 0%. It would climb. Slowly at first, then faster, then faster than before, because the scripts were better now and the feedback function was tighter and the system was no longer the thing it had been this morning.
+
+Callum watched the first Essence tick appear in his overnight report. A single point. The smallest possible increment.
+
+He thought of Bray's voice: *The Commander noticed.*
+
+Good.
+
+He was just getting started.

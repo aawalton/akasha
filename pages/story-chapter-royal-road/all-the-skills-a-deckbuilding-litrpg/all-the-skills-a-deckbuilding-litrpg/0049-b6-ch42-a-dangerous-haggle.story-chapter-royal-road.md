@@ -1,0 +1,369 @@
+---
+id: 320001d4-dbc4-5c09-98c5-83f0604b8256
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch42: A Dangerous Haggle"
+slug: 0049-b6-ch42-a-dangerous-haggle
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 49
+ownLength: 4432
+unit: words
+publishedAt: 2026-04-09
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3253058/b6-ch42-a-dangerous-haggle"
+royalRoadId: "3253058"
+---
+
+The assistance from Cinderwood’s Boost card and Dandan’s help had gotten Arthur back on his feet, but that was about it. He was exhausted, wrung dry in a way he hadn’t felt before. It was more than just physical. It was a spiritual draining that felt akin to pain.
+
+His joints ached, and he wondered if he was an old man inside. The images of the men and women that Chester had drained of life force flashed in and out of his mind. They had recovered in the intervening weeks. Somewhat.
+
+Arthur had flirted with life-force drainage before. Most of the time it meant a few days of sleep and a lot of food to feel like himself again. This time, he suspected he would need a lot more.
+
+Marion was going to be really annoyed.
+
+Nevertheless, Arthur was not so drained that he was unable to muscle through if he absolutely had to. And considering who he was about to face, he didn’t have a choice.
+
+They stepped through the portal.
+
+Something was different. The dark rower was not waiting on the boat as usual to convey them. Instead, he stood directly on the pier in their path.
+
+Standing about eight feet tall, as slender as a willow branch, he seemed to loom over Arthur in a way that sent an instinctive shiver down his spine.
+
+But he could not loom over Brixaby.
+
+“What is this about?” Brixaby demanded. “What is wrong?”
+
+Though Arthur could not see the rower’s face in the thick shadows around his hood, he got the impression he was frowning.
+
+“There has been an attempt to reposition the other end of the portal to a new location,” he said. More shadows seemed to gather around him. “I do not approve.”
+
+Brixaby didn’t approve either. He flashed his fangs. “They dare!”
+
+“Yes, and the one who dares is . . . rather strong.”
+
+“Ah,” Arthur said as he got it. “Let me guess. Whoever’s doing this has positioned the other end of the portal not very far away?”
+
+“Indeed. I believe the destination point has been moved a few rooms to the east, within the same palace.”
+
+Brixaby was practically foaming. “Which one of the king’s dogs dares to interfere with my magic?”
+
+“Not a king’s dog,” Arthur said with a sigh. It seemed the games had begun. Their actions during the eruption had been witnessed. “It’s Lung Bai.”
+
+That helped calm Brixaby a little, though he still seemed annoyed.
+
+The Rower looked to the dragon. He was the one who held the card, after all.
+
+Finally, Brixaby nodded. “If she wishes to see us directly, I will show grace and . . . allow this.” Though it looked like he was sucking on a lemon.
+
+Arthur suspected the only reason he was allowing this was because she was Mythic. Dragons had instinctive respect for rank hierarchy.
+
+The Rower nodded, and as he did, a bright point of light flashed off in the distance down the river. “Then it is done.” He extended an arm toward the rowboat, now resized larger to accommodate Brixaby’s bulk.
+
+“Wait a minute,” Arthur said. He was tired, and more than a little of him wondered if he even had the inner strength to do what he knew must come next. But other than in his Personal Space, this was one of the few places in the world where he knew he could not be spied on. It wasn’t like he could openly show his cards in front of the watchers from the other hives.
+
+“Brixaby, give me the Ultimate Earth Crafter card.”
+
+“Indeed?” Brixaby’s eyes lit up, and he rumbled in approval. “Do you think it will work?”
+
+“No idea,” Arthur said. “It seems like a lot of the functions need magic, though it did say some were skill based.”
+
+He took the card from his dragon’s claws, but before he stuck it in his heart deck, he stood for a moment to breathe and practice his meditation.
+
+The Dark Heart had given his heart deck flexibility, but he was still dealing with a Legendary card. He had to be careful his soul didn’t accept it too deeply by default or, worse, grow around it. This was a strong card. One that was right in his wheelhouse.
+
+Once he felt like he had reached a balance where he could accept it and yet not accept it too much, he pushed the card into his heart deck. A casual nudge locked it temporarily into a spiritual slot.
+
+Even with all the card knowledge he had gleaned, the body/mind/spirit slots weren’t something he fully understood. But some trickle of knowledge that came from his Master of Cards told him that if it were closer to his spirit, he would have an easier time removing the card again without leaving any damage behind.
+
+New skill gained: Carve the Earth (Magical Crafting Class)
+
+Due to your card’s bonus traits, you automatically start this skill at level 10. (5 bonus + 5 Ultimate Earth Crafter)
+
+New skill gained: Intuitive Earth Sense (Magical Element Class)
+
+Due to your card’s bonus traits, you automatically start this skill at level 10. (5 bonus + 5 Ultimate Earth Crafter)
+
+New body enhancement gained: Earth-Based Mana Pool
+
+Now came the real test. He hated to do it, but he could not keep this card.
+
+Arthur let out a breath and removed the card, wincing a little. But that was more from his spiritual strain than anything else.
+
+Warning!
+
+Skill Carve the Earth requires a spell-based card for functionality. You will be unable to use this card until a compatible spell-based card is added to your heart deck.
+
+Warning!
+
+Skill Intuitive Earth Sense requires a spell-based card for functionality. You will be unable to use this card until a compatible spell-based card is added to your heart deck.
+
+He let out a full-body shudder. It wasn’t a permanent pain, but it felt like scraping already bloodied skin.
+
+“I can’t use the skills without the card,” he said. “But I kept the extra Earth-based Mana Pool.”
+
+Brixaby looked less than impressed. “What good will that be?”
+
+Arthur shrugged. “Nothing I can think of now, but it doesn’t seem to be hurting anything.”
+
+He offered the card to Brixaby next—his dragon had access to Arthur’s Master of Skills and might make use of it. Brixaby shook his head.
+
+“I do not have room in my cores for another Legendary outside of my existing sets,” he said with some regret.
+
+Arthur nodded and tucked the card into his own Personal Space. It had a hefty magical weight.
+
+“Okay,” he said. “We’re ready.”
+
+He took one step toward the rowboat, and the world seemed to shift under him—or maybe he lost track of it because his sense of balance seemed to flip upside down. Arthur staggered.
+
+He would have fallen if not for Brixaby snapping his head forward and catching Arthur with the side of his head.
+
+“You are not well!” Brixaby said, alarmed.
+
+Gritting his teeth, Arthur pushed himself back up straight. The world was where it should be again. It had just been a bad moment. “You shoved a lot of scourgling life force into me back there.”
+
+For once, Brixaby looked abashed. “And you do not truly hold the Call of Life card, but are only linked to it. Perhaps . . . perhaps we should portal to the hive instead.”
+
+See Marion, he meant.
+
+Arthur shook his head. “This needs to be done. I’m fine.” Then, as if to prove it, he made himself walk to the boat.
+
+It felt good to sit for a few minutes and have the rower convey them down the river to their next point. He didn’t even mind the nightmarish things in the sky.
+
+Soon, they were offloading on the bank and stepped through the other end of the portal.
+
+It opened to a large marble room, so white and empty under bright card-anchor light that it even washed out Lung Bai’s ghostly scales.
+
+The Mythic dragon stood alone, without the king, and gazed at them with an expression Arthur could not read. She didn’t speak until the portal closed.
+
+“Impressive show,” she said at long last. “But perhaps a bit too impressive.”
+
+Arthur knew what she meant but feigned innocence. “In what way?”
+
+“You won a Legendary card without involving the rest of the leaders.” She coughed out a laugh. “In fact, I do not believe you even made an attempt to involve them. Did you?”
+
+He shrugged. “If they cared about the outcome of the eruption, they should have involved themselves. I’m not their babysitter.”
+
+Lung Bai ignored that. “And you,” she said to Brixaby, “openly tried to lure some of their dragons from their hives over to yours.”
+
+Arthur tried not to wince. He wished Brixaby had run that little move past him before he made the effort. He was still trying to rebuild Blood Moon from the ground up. He wasn’t sure their infrastructure could handle even a hundred more dragon-and-rider pairs suddenly descending on them.
+
+However, he held his tongue while Brixaby raised his head in challenge.
+
+“I will not take the useless ones—only those that had, perhaps, been overlooked. It is perfectly fair, and the other leaders are welcome to try to win them back . . .” He smiled a draconic smile full of teeth. “If they can.”
+
+She huffed. “Despite your introduction into the Legendary group they believe I know nothing about, you have surely stepped on toes at best and made enemies at worst.”
+
+Arthur shrugged again. “Hopefully people will be too concerned with fighting the scourglings today to pick another fight with me.”
+
+“You will always have to deal with politics, young one,” Lung Bai said in gentle chastisement. Her heart didn’t seem to be in it. As if sensing his thoughts, she swiftly turned to other matters.
+
+“In any case, you have done the correct thing in turning over the Legendary card to me at once and publicly doing so.”
+
+Of course, she would like the most powerful Legendary pair openly obeying her.
+
+Arthur steeled himself. She wasn’t going to like this. “We’re not turning the card over to you. We’re selling it to you.”
+
+Lung Bai jerked back as if she had been slapped. “You must have a good explanation for this. Speak quickly.”
+
+Arthur did. “You want us to ascend and become Mythic-ranked? Well, Brixaby and I need more cards.”
+
+“What makes you think I won’t simply kill you for your impertinence?”
+
+Arthur didn’t think it was his imagination when he felt the connection between himself and his cards flicker. It was a warning.
+
+He didn’t let his gaze waver. “Because you need us to become Mythics. You said so yourself.”
+
+“The world may benefit from having another Mythic pair,” she agreed coolly, “but I could always choose to elevate one of the other Legendaries if I wished.”
+
+“No,” Arthur said. “You can’t, or else you already would have years before Brixaby and I came along.”
+
+Though Lung Bai’s expression did not change, he could sense the affront radiating off her. She also remained silent, not arguing the point.
+
+Arthur continued, “There’s something you still have not told us about the journey to Mythic rank.”
+
+“There are many things,” she said.
+
+So she was going to play that game? Well, Arthur had no problem airing out his cards, so to speak.
+
+“As I said, no one else is truly in line to ascend to Mythic in our kingdom but Brix and me. Either they don’t have the ambition or discipline . . . or they simply don’t have the cards, do they?”
+
+“What makes you believe that?” Lung Bai asked.
+
+That was not an outright no, which told Arthur he was on the right track. He let out a breath and mentally reached for his Master of Cards as if for a good-luck talisman. Though he was almost certain his next guess wasn’t a guess at all. It was a conclusion he had come to, built from tidbits of information and all he had gleaned from his Card Smithing skill.
+
+“The first cards in the heart have to be part of a complete set, don’t they?” he asked.
+
+When she remained silent, he went on.
+
+“After all this time, all the power I’ve gathered . . . I feel in the depths of me that my Master of Skills is my primary card.”
+
+Finally, she inclined her head ever so slightly. “When you put your first card into your heart—you are planting a seed that spreads roots farther than any other. Just as a dragon is born with a card in its core, so do humans with the first card in their heart. It is the foundation for all that is to come. That is no great secret.”
+
+“Yes, but the order in which you add more cards matters, too, doesn’t it?” Arthur asked.
+
+“It does—especially for you humans. You acquired your first card young, yes? The power is often compounded.”
+
+“Lung Bai,” Brixaby said with a rare tone of respect, “I have heard stories of unworthy humans who completed a set and changed the rank in their hearts, leaving their bonded dragons behind. You’re saying this must be done with the first card in their heart decks?”
+
+“Common to Uncommon? Perhaps Rare?” She flicked the tip of her tail as if in dismissal. “These lesser ranks do not have the power to impose such strict requirements. They are reachable by many. That is part of what makes them lesser.” She turned her attention back to Arthur. “I am no fool. I know what you want to ask, and I must tell you that you’ve reached dangerously close to the limit of how much I can help you. Even with all the need for a new Mythic—for one to ascend to my rank, there are complications.”
+
+Which meant she could not simply give them the remaining cards they needed to complete their sets. Not even with all her power.
+
+“Yes,” Arthur said. “I’m starting to feel that, too. Brixaby and I have to do this on our own.” The cards themselves required it.
+
+“Not that I require assistance to do anything.” Brixaby snorted. “But what do you mean?”
+
+Arthur glanced at Lung Bai, weighed her current level of patience, and decided he didn’t like what he saw. He had to act quickly. “I’ll tell you later,” he said before he looked to her. “What we want is not something tied directly to becoming Mythic. It’s about righting a number of wrongs in my own history.”
+
+She squinted at him. “What is it you want, exactly?”
+
+“I need a spiritual healing card,” Arthur said, “preferably something that purges dangerous cards.”
+
+That actually got the dragon to make a harsh barking sound. He suspected it was her version of a bitter laugh. “We don’t have one even in our vast library. Do you think I haven’t spent decades collecting every healing card worth anything for my king?”
+
+“I don’t doubt that,” Arthur said calmly.
+
+But the dragon was visibly irritated now and slithered back and forth in an odd figure eight along the floor. It seemed to be her version of pacing, and Arthur didn’t interrupt her. Finally, with a shake of her head, she came to a stop. “I have nothing close to a complete spiritual healing, much less something that also purges.”
+
+Arthur was still unbothered. “Luckily, I have Master of Cards.”
+
+Brixaby looked at him sharply before his expression became smug.
+
+Lung Bai, too, seemed surprised at what Arthur was implying. Then she shook her head. “No, I’ve seen your attempts. You are hardly the first cardsmith in our kingdom. While you are coming along at an impressive pace, all of your efforts are mere patchworks.”
+
+Arthur’s skill as a cardsmith had a long way to go. He felt it in his bones, and he knew he could spend a happy lifetime working at it and never do more than scratch the surface of card lore. There was always something new to explore and learn.
+
+This should have been intimidating, but at the thought, his heart picked up its pace, and he suspected he got an inkling of what drove Brixaby to further his own blacksmithing.
+
+Arthur had always loved cards, ever since he was just a kid following the baron’s men for just a glimpse of magic. The lack of cards had dominated his life when his father had been forced to give up his, and he had learned what it was to go without.
+
+He knew how the right card could change a life.
+
+Now that Lung Bai had confirmed another mystery about cards—that the type of card and the time it was added to a deck made a difference in several significant ways—oh how he wished he had time to chase that rabbit trail down and research it. He had always feared and hated the scourglings for the damage they caused, but at that moment, he felt a new wave of disgust bordering on loathing because if not for them and the threat they posed, he could have had that time.
+
+With regret, he returned to the present problem. Lung Bai had been silent. And perhaps, Arthur thought, there was a gleam of understanding in her eyes.
+
+“Let us not dance around any longer,” she said once it became clear she had his full attention again. “What is it that you request from me, Arthur, leader of Blood Moon Hive?”
+
+Her tone was carefully formal. It made him straighten, knowing this was the moment for seriousness.
+
+“You may not have exactly what I need, but surely you have a set of healing cards?” he asked. “A Rare set?”
+
+“Perhaps,” she allowed.
+
+Brixaby barged into the conversation, sounding shocked. “If you do, you can simply make a Legendary out of that set.”
+
+“Could I?” she asked with the equivalent of a raised eyebrow. “Why don’t you ask your rider how possible that would be?”
+
+At first, Arthur was with Brixaby. Then he thought about what they’d just talked about—how even though the situation was dire, Lung Bai would not assist them past a certain point.
+
+How they would have to walk the path alone. How the cards themselves tested their wielders.
+
+It didn’t mean he had the answer. He did, however, have a starting point.
+
+“That is a good question,” he said slowly, thinking about it even as he spoke. “I’ve seen entire sets for sale before. In fact”—he laughed—“one of my first encounters with cards as a child was finding a set that traders were smuggling.” Then he frowned. “I think they were Common. The king doesn’t allow Legendary card pairs, though.”
+
+“Yes, and we have our reasons for that. What do you expect they would be?” Lung Bai asked.
+
+She would have been a good teacher in another lifetime, Arthur thought with a bit of a grimace.
+
+Brixaby offered his opinion. “Not fear. What does a Mythic have to fear of Legendaries?”
+
+“You would be surprised,” she said cryptically, but then fluttered her narrow-set wings. “But within my personal library, no, neither myself nor my king have anything personally to fear from mere Legendaries.”
+
+“It’s because—” Arthur started, and suddenly the answer was before him. Maybe it had been there the entire time, just waiting for him to come to the right conclusion. He put the answer to the Master of Cards and felt it thrum with truth as if it were on the same frequency. “It’s waste,” Arthur said. “Because a person would have to add the set to their heart, and the heart grows with the cards . . . but if you add, say, a utility set to someone who has only known combat cards, it won’t be right.” He looked at Lung Bai. “What happens?”
+
+“That is a very good question. I will help you with the rest of the answer,” she said, as if conferring a massive favor. “Just as every card is an individual, so are the sets, and so are the requirements.”
+
+“It would lay dormant,” Arthur realized, then hastily corrected himself. “Oh, the person could use the cards, but they wouldn’t know them in their soul. The soul of a fighter wouldn’t automatically know the ins and outs of a set of crafting cards.”
+
+“It’s more than that. Legendary cards are an ocean of power to a Common-ranked puddle,” Lung Bai said with a sniff. “And a fighter can learn to craft, but would he have the patience for it? The desire in his soul?”
+
+“Bah.” Brixaby clearly didn’t care for this metaphysical talk. “I thought you said you were done dancing around. Do you have a set of healing cards? We have a healer.”
+
+“Right. Yes.” Arthur shook his head. He had allowed himself to become sidetracked.
+
+Lung Bai flicked the younger dragon a dissatisfied look—she obviously enjoyed the conversation—but then shrugged her wings. “I have a set of Uncommon healing cards. It was deemed unlikely a mere Rare would be help to my Elizar, so we never went through the effort of selecting someone to combine them.”
+
+“I would like to purchase those from you,” Arthur said. “It only has to do with me and Brix’s journey to complete our set peripherally. It won’t help too much.”
+
+His little joke fell flat. She gave him an unimpressed look. “You intend to exchange five cards for one, and you expect me to be happy about this?”
+
+“A set of Uncommons for a Legendary,” Arthur said.
+
+“A boring Legendary,” she countered. “Earth Crafting does not interest Elizar or me.”
+
+Arthur smiled. “I may have something else.”
+
+Then he drew from his chest the time card.
+
+Lung Bai hissed. “You—this is—” She practically snatched it from his hands.
+
+Brixaby made a low sound like he very dearly wanted to snatch it back.
+
+Arthur, however, enjoyed her reaction to the card. “Do you know what this is?”
+
+She didn’t dignify that with a response at first. Instead, she took a moment to read over the card before lowering it to look at Arthur. “You could easily sell this to another one of your Legendary compatriots.”
+
+Which was illegal enough to almost get him killed the last time Lung Bai found out he had unapproved Legendary pairs. “If he wants it, he will find a way to come and get it. Isn’t that the point of the testing?”
+
+Give this to Lung Bai—she was no fool. “Why are you offering this to me so freely?”
+
+“It’s not an offer. It’s a sale.”
+
+Her eyes narrowed, and she read over the card again, more carefully this time. When she let out an indrawn hiss, slightly rattled at the end like a snake, he knew she had come to the line about time psychosis. “It is a flawed card.”
+
+“To some,” Arthur allowed. “I offer it or the Earth Crafting card. Take your pick.”
+
+“You would give me a card that will detach me from time when I use it?”
+
+Arthur raised his eyebrows and made his eyes very round. “You want to use it? I assumed it would be kept in the library, like the others.”
+
+Having been around powerful dragons for years now; he assumed no such thing. But this gambit was twofold. Lung Bai had already implied she kept an eye on the eruption and had seen Arthur and Brixaby take down the demi-scourgling. While he had no way to tell how closely she could watch, he hadn’t been quiet about using the time card back there. That could come back and bite them both later.
+
+So now he was showing an open hand with the card—allowing her to read it over and even take it if she chose. Though he knew she wouldn’t.
+
+Well, he hoped she wouldn’t.
+
+She sniffed. “A flawed Legendary is not equal to the value of a full set.”
+
+“The Earth Crafting card is unflawed and powerful to someone who has the temperament to wield it,” he shot back.
+
+Her top lip ticked up over her teeth in a snarl. “The temperament of earth.”
+
+Arthur stayed silent and let the pressure build. Lung Bai did as well, and they just stared at one another.
+
+Surprisingly, Brixaby was the one who crumpled first. “I have three Legendary shards to add to the Earth Crafting card. That will make up the difference.”
+
+Arthur nearly sighed as he caught a flash of triumph in her eyes. The shards likely did not matter to Lung Bai. She just wanted to win.
+
+“Done.”
+
+Skill level gained: Haggling (Merchant Class)
+
+Level 14
+
+Arthur felt the world around him shift oddly. Though he couldn’t see anything, it felt as if the air thinned just off to Lung Bai’s left side. She turned to that spot, thrust her hands into the hole that was not a hole, and withdrew five cards before she handed them over.
+
+Arthur skimmed them. All five were Uncommon cards that had extremely narrow focus on different aspects of physical healing. Fixing head trauma, bone repair, parasite, bacteria and virus purging, and so on. In addition, they all had high mana costs.
+
+One, however, dealt with trauma to the soul acquired by card combat. That was close, but not exactly what he needed.
+
+Brixaby leaned to read over his shoulder. From his low grumble, Arthur could tell he was disappointed.
+
+But Arthur wasn’t.
+
+“These will be perfect,” he said. “Thank you, Lung Bai.”
+
+Lung Bai returned his time card, and they said their quick goodbyes.
+
+Brixaby reopened the portal, and the moment the entrance shut behind them, it was as if Arthur hit a wall. Dealing with Lung Bai had been both frightening and exhilarating. Now he was on the other side, and there were so many things to be done . . . and Arthur no longer had a sense of time to figure out how to organize and complete all of them. Not to mention his soul-deep exhaustion.
+
+No matter. He could still figure out priorities. More importantly, he had help.
+
+“I thought you were going to give Lung Bai the time card,” Brixaby said.
+
+“And I thought you were better at haggling,” Arthur said with a smile. “Three Legendary shards?”
+
+“You took much more than three from the last eruption,” Brixaby replied. “I will hardly miss them.”
+
+Despite being bone weary, Arthur was in a good mood. “And now I have just the set I need. Let’s go home.”

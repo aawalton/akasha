@@ -1,0 +1,123 @@
+---
+id: fb847863-a892-5bac-8969-7100adbc1808
+page-type-slug: story-chapter-royal-road
+title: "Chapter 124  The Arrival (Four Hours Earlier)"
+slug: 0007-chapter-124-the-arrival-four-hours-earlier
+partOf: alexa-thyme-formerly-alexithymia
+position: 7
+ownLength: 3037
+unit: words
+publishedAt: 2023-03-23
+link: "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1146570/chapter-124-the-arrival-four-hours-earlier"
+royalRoadId: "1146570"
+---
+
+Chapter 124
+
+The Arrival
+
+Saturday (Four Hours Earlier)
+
+Like a beacon, Alexa could feel a deep seeded connection to a point off in the distance, a point that forever bound her fate to that of a distant creature. In her mind she somehow instinctively knew that there was a tie, a deep seeded karmic link that bound her to a spot off in the distance.
+
+Only after a few minutes of evaluating the bond did she realize it was the karmic bond that binds all twins, the bond that all twins inherently have with each other. In this case, the karmic bond was the one that forever marked her as the killer of the dragon’s twin. The reason she was able to see and understand this bond so easily was the fact that she herself had the very same bond, with her fraternal twin Luke.
+
+The moment she found the link to her twin, she felt a wave of different experiences. The first she felt was the distance that now separated them, but even being separated by so many miles, their bond still remained true. The second thing she felt was overwhelming joy, he was happy. Just knowing that let Alexa feel calmer, as a smile came to her lips. She herself had been happy, for she just slew a dragon and had learned the power of interweaving magic to amplify her overall capabilities. With the weaving of different schools of magic, the sky was the limit, of course she knew that she had a lot to catch up on, that her own understanding was by far and away lacking compared to some of the infinite beings that would soon be allowed to come to their currently pre-integrated planet. As it was, she only had weeks left to do several things that would be necessary to survive the integration.
+
+Alexa knew she need to complete her Trials of Ascension, only then would her class choices that had been locked to her thus far, finally become available. She also knew that she would have to go into and complete as many dungeons as possible, trying to gain the hidden knowledges of her world that they all offered. As an aside, Alexa found herself wondering if different dungeons from different worlds offered different knowledge based on what was already known by the residents of those planets. This would explain why some of the dungeons that were used as part of the different stages for the Trials of Ascension offered such unique rewards. Only from conquering some of these did she first learn about manifesting Precursor words to have tangible effects in the world. That was also how she learned the skill that was now paying off exponentially for her, that of Mana Weaving (Tier IV). By itself the concepts seem simple, link different schools of magic together to create greater and greater magical effects. The only problem was, this knowledge seemed to have been a hidden gem, knowledge that her kind were never meant to know. Knowledge that the three great oppressors; the elves, the orcs, and the dragons all wished to keep hidden. But they had messed up.
+
+They created trials designed to limit the growth of humans and other newly integrating races. The trials were of course dungeons that had been found and altered from their original purpose, to provide training to anyone who entered. The one thing that the people who overtook the dungeons didn’t realize was that while they had overwritten some of the commands of the dungeon, the core, the purpose of the dungeons would not be altered so easily. So there were in fact two ways to solve the different stages of the Trials of Ascension, there was the apparent way that the elves and orcs had set up, where you swear yourself to their armies, then conquer the enemy forces. Or you solve the dungeon they were meant to be. It is the solving of the dungeons that Alexa has chosen as her way, and now she is so close. She is just two stages away from completing her Trials of Ascension, in fact she even has aid on this next stage, stage nine of the Trials in the form of Kelvin Mackie, the half human, half elven fighter. Given that Kelvin already has a class, his completing of the Trials of Ascension is not necessary, though having a second set of eyes would be invaluable. Then again now with her recently acquired Illusion magic, her previous need for Kelvin is now unnecessary, as she can provide her own multiple sets of eyes to both watch her back and strike at enemies with ruthless efficiency. However, she knows that this train of thought is limiting, her Strategy skill all but screams that she will need more people, an army to help protect earth, before, during, and especially after the integration. That is why she has made it a point to focus her on something she is terrible at, interpersonal relations. Ever since she was young, she has suffered from her condition, alexithymia, only with the aid of the system has she ever been able to overcome the deficiencies that she suffers from. Only with the system telling her how people are feeling has she finally been able to interact with people on any meaningful level.
+
+Realistically, she knows that while doing things alone is the easier option, this will only get her so far in the end.
+
+“Are you ready?” TSI agent Bullford, the burly seven-foot-tall former lykanthropy sufferer asks. He and the TSI captain just so happened to take personal vacation time to head out to jolly old England. While their trip had obviously been done to help Alexa, who was still in her Aru’ka Super persona, kill the two dragons that had been plaguing England for a while. As a noted Dragon Slayer, having 21 confirmed kills to her name, as referenced by her stacking title by the same name, she was widely considered to be the leading expert on dragon slaying. Given that the first dragon she slew in the heart of London had given numerous supers a hard time, and she was able to singlehandedly slay said dragon, it seemed to be no surprise that the TSI Agents, and the remainder of the English special forces were doing everything in their power to help Alexa track down and slay the final dragon. The only problem, the pesky thing would not stop moving.
+
+“Yes.” Alexa says, her voice cold and emotionless, a sign that it had been long enough since her killing of the beast that she no longer felt her mind alive with emotions. This was a special case, while alexithymia didn’t normally cause a complete lack of emotions, in Alexa’s case, she found that only by consuming energy did certain parts of her mind awaken, these were of course the parts of the mind that dealt with both experiencing and interpreting emotions.
+
+“Well good. We got word that our bird is on the move and heading to Stonehenge.” TSI Captain Rayne Johnston said, a faint puff of smoke coming from her chest, a clear sign that she was getting worked up.
+
+Seeing the smoke, Alexa saw and understood this to be a tell, one that was supported by the system that confirmed her own understanding of the TSI Captain’s emotional state.
+
+Seeing the system message, Alexa inwardly nodded to herself, making a note to associate the smoke the Captain created as a sign of her own nervousness. Then thinking about it, her mind began to fill in some of the gaps as to why this was. Instantly, she made the connection that the Captain would of course be anxious when dealing with dragons. She herself had been forcefully bound to one apparently, fortunately Alexa had been able to break that forced servitude thanks to her use of the first power word she found, that of Hope.
+
+That had severed the ties that bound the Captain to dragons, Lieutenant Bullford to the orcs, and the second TSI Lieutenant Fletcher to the elves. Now that the entire team was free, Alexa expected them to focus more on helping humanity out, which seemed to be apparent now, given that they were spending their leave on helping her track down and destroy monsters to the world.
+
+“Oh, in case you were wondering, they found the body of Ryelifa, the elven warrior you went off to slay the dragon with.” Bullford says, in a casual tone.
+
+This was of course the elven delegate that Alexa had dueled and defeated, thereby gaining a knowledge of the elven resources that were already on Earth, resources that she made a plan to eliminate shortly.
+
+Had Alexa been in her emotional state, she likely would have had some type of bodily reaction, the quickening of her heartbeat, the widening of her pupils, something that would give away how much this topic meant to her.
+
+“Oh?” Is all Alexa asked about the subject, her tone a forced curious that she had learned to mimic over the years.
+
+“Yeah, they found her a half mile away from the site, with puncture wounds all over her body. Near as we can tell, the dragon must have grabbed her, chomped down once then thrown her body with its mouth.” Bullford said, trying to mimic the back and forth throwing motion the dragon likely had to have done.
+
+Given the size of the beast, such an assumption was not out of the question. The beast had been massive, and its mouth more than wide enough to have chomped down on Ryelifa as Bullford had explained.
+
+The only problem was that this was not the case, during their duel Ryelifa had begun her own attack with a similar spiked pattern. When countering, Alexa had just mirrored the original attack formed by Ryelifa, along with a few additions of her own. Those additions kept her own Illusion magic from being turned against her. At the time she had thought nothing of it, but now, looking back she realized two things. First, she was glad she had mirrored the attack of her opponent. At the time it had been done to try to throw off Ryelifa, so she would underestimate the true attack that was hiding just underneath the Illusion, that was actually a real construct of the spell being visualized. The second thing she realized was just how much foresight Ryelifa had in her attack, by going for a spiked cage approach, Alexa originally thought the attack was that of an iron maiden, or some other form of torture. When in reality, the attack was something far more treacherous. The elf had always planned on killing Alexa, that much was apparent, at least it had been to Alexa. But to even try to use the duel to obfuscate the actual cause of death, now that was ingenious. Thinking about it, Alexa felt a slight surge of respect for the vile monster, had things gone differently she would be dead there lying in the streets and it would be Ryelifa who would be cleared of any crimes. This was advantageous, especially as Alexa had just left the body there right in plain sight. Though in retrospect she was glad she had been too injured to do anything other than seek cover. At the time, she had hoped the dragon would have been alerted to the duel and come to inspect the body, and likely consume it. This way however, the body was found and Ryelifa would be linked to dying, while trying to slay the dragon.
+
+In the end, it likely painted Ryelifa and the elves in a better light than Alexa wanted, but it still showed one thing, that the elves couldn’t do it, only humans could.
+
+Silence.
+
+“I do have some good news, and some bad news.” Captain Johnston said.
+
+At that Alexa, still wearing her mask just turned her head to face the TSI Captain, who was far outside her normal jurisdiction.
+
+“The good news is that you have help incoming, both Warder and Judge are on their way here now.”
+
+Hearing that her parents, the two previously retired supers Judge and Warder were coming was not something Alexa had hoped for. Realizing this, Captain Johnston apparently had a plan.
+
+“Unfortunately, conditions as they are, we have been told that they will get here a little late. Currently the only active airport in the area is in Dublin, from there they will have to take the tube here. The only problem is that the boys here,” Johnston says this last part pointing to the drivers of the large LMTV that they are all being carried in. “They have heard from the surveillance team that the dragon is already on the move and seeming to create an interdimensional rift. Now, we don’t know what that rift is supposed to be to, but we don’t want to know either. Your goal would be to go there and try to stop the beast, before that rift can be fully formed, that or hold out until help arrives. Again, all intelligence seems to point to the dragon as being the originator of the rift, killing the dragon should close the rift.”
+
+At that Alexa nodded in her understanding, “got it.”
+
+Whoosh!
+
+Bolts of electricity could be seen and felt crashing into the ground, rain began to pour down as they got closer. Just feeling the surge of energy, Alexa could tell that the planet itself was seemingly rebelling against the conditions that were coming, as if the planet itself knew of the horrors that awaited on the other end of the portal.
+
+The portal itself was easy to find, as a seeming second bright red sun seemed to be shining up from the ground, illuminating the clouds darkened sky with an eerie red glow.
+
+ZZappp!
+
+A bolt of lightning struck down right in front of the vehicle causing the driver to twist and swerve out of the way.
+
+Skreech.
+
+The vehicle slammed to a stop, as everyone who had been sitting on the long benches in the back felt jostled. Had they been regular unawakened people, they would have been thrown around and out of the vehicle violently. As it was, their heightened attributes and reflexes allowed them to quickly grab hold of different parts of the vehicle and maintain their position.
+
+“Looks like we are here.” Captain Johnston said, peering forward.
+
+Splish-splash.
+
+Hearing the sound Rayne turned to face the back of the vehicle, only to see that Alexa had already dashed out of the vehicle and was now running forward, towards the giant storm bubble that now appeared to be covering Stonehenge.
+
+“What do you want us to do now?” The British special forces driver asked, coming out of the vehicle to ask Captain Johnston her opinion on what to do next. For all intents and purposes, the driver’s mission was clear, drive the Captain and her team to wherever they ask, and provide them with anything necessary within reason.
+
+“Us?” Johnston said, as a slight smile filled her lips. “Nothing, we are to sit back here and watch the show.”
+
+“The show?” The driver asked, suddenly sounding distraught.
+
+“Oh, you have never seen our girl at work before, have you?” Johnston asked.
+
+The question was not a bad one, she was after all a yank, and a relatively new one at that. One who had been billed up only as a Healer, which is how she gained media attention, by healing the British Prime Minister’s daughter of a Necromantic scourge. That was how she first appeared on the radar of the British, then seeing her and the way she took down a similar dragon in the states, one that had appeared at roughly the same time as these twin dragons did, that was when they began asking for her by name.
+
+Of course, this only meant she was important to pop culture, and other media outlets. The idea that a foreign soldier had no idea who she was, or why he had been ordered to drive foreign elements to a strategic military site never truly crossed his mind. In his mind she was a Super, as was evident by the fancy costume she wore. England had plenty of Supers of their own, unfortunately all of them had been thwarted by the twin dragons who first teamed up, until they both leveled up enough to survive independently of each other. Now, here was a yank who thought they were the one who was going to save the day.
+
+“No, honestly I don’t know who you all are.” The driver said, as mentally he was preparing to fill out the casualty report that was likely going to come next. A lone Super going up against a dragon, while this was England, a land famous for tales of dragon slayers, he knew those were only dreams of writers who never saw the beasts in actions.
+
+“Don’t worry, you don’t need to know who I am. But her, you should pay attention to my girl, she’s about to show you something.” Captain Johnston said, as she stared off into the distance watching Alexa charge forward seeming to move faster than the vehicle had been able to move in the pouring rain.
+
+“And just who was she?”
+
+“She is Aru’ka, and she is about to do what all Americans do best.”
+
+“What is that?”
+
+“Be loud and get into one helluva fight.”
+
+The driver looked at Captain Johnston for a moment, before turning back to face Alexa. Then off in the distance, he saw something that he couldn’t quite believe with his eyes. “Did she just split into four copies?”
+
+“Technically, I believe there would only be three copies, since there are four of them.” Bullford said, butting into the conversation.
+
+At that both Johnston and the driver turned to look at the large brute of a man, but rather than saying anything they just turned back and watched as the four versions of Aru’ka charged forward and finally entered the protective bubble that surrounded the dragon and their odd blood ritual on the alter of Stonehenge.

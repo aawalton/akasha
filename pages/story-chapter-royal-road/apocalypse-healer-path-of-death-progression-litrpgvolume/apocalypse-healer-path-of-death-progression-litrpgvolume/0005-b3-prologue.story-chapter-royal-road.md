@@ -1,0 +1,65 @@
+---
+id: d1b3365b-ee2b-5155-ab47-e87e96238b75
+page-type-slug: story-chapter-royal-road
+title: "B3 - Prologue"
+slug: 0005-b3-prologue
+partOf: apocalypse-healer-path-of-death-progression-litrpgvolume
+position: 5
+ownLength: 605
+unit: words
+publishedAt: 2025-05-28
+link: "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/2311166/b3-prologue"
+royalRoadId: "2311166"
+---
+
+William jerked upright, his breath coming in ragged pants.
+
+How am I still alive? He wondered, recalling the fleeting memories of the pain that should have killed him. Yet, he was alive and well.
+
+No, he felt far better than just well. William jumped to his feet, his eyes widening ever so slightly as his body lifted effortlessly off the ground.
+
+He landed with a soft squelch on the wet soil and furrowed his brows, confused about… everything around him.
+
+Ambient Aether was just as potent as ever, but William could sense it with much more clarity. He could see it too—the streams of Aether flowing all around him. But that was not all that changed. William’s vision was better than ever, and as it turned out, he could smell and hear much more than before as well.
+
+My senses have improved, but why? Master wanted to kill me, didn’t he? He thought, his eyes bulging as he recognized his mistake.
+
+Zephir never intended to kill him.
+
+‘If you survive this, you will be stronger than ever.’
+
+William shuddered as the final memory before pain and darkness overtook him resurfaced. The serpent, presumably an incarnation of Zephir’s power, had restrained him before digging its fangs deep into his neck.
+
+‘You will be part of me.’
+
+William took a step back as fragments of the pain and suffering he had gone through returned, but there was something far more bothersome. His feet were wet, the squelching of them pressing deep into the wet soil bothering him much more than it should.
+
+Why are my feet nak—... He wondered, glancing down at his feet, only to see… claws?
+
+His heart skipped a beat at the green-scaled feet—if one could still call them that—and the claws replacing what had once been toes.
+
+“Fuck!” William cursed, rushing to the nearest puddle to see a human-like creature covered in thick, dark-green scales in the reflection.
+
+There were some similarities: fair features, long, silky hair, and large, bloated ears. But was that really him? Did he really just look at himself?
+
+“I am a reptilian…” he gasped, a large tail covered in similarly dark-green scales hitting the wet soil behind him angrily. It moved, wiggled, and it had a… head. A serpentine head with the same yellowish serpentine eyes as he had now.
+
+The serpentine head hissed at him as the tail hit the wet soil, drenching the once-pristine scales in mud.
+
+“Is that… what he meant?” William muttered, emotions slowly settling as he closed his eyes to inspect the changes in his mind space.
+
+It did not take long to find the first changes. Quite the contrary, William struggled to find anything that hadn’t been changed or altered by the bite.
+
+However, the most gargantuan difference was the appearance of a crystal where his Venomized Reservoir and Soul Marks had once been. The Reservoir and Marks no longer existed, yet William found himself caring little.
+
+He analyzed the humongous crystal hovering high above his mind space, towering above his Skill Runes like a superior entity. Simply because it was. It was superior, better than anything he had ever felt. Not even Zephir’s child had felt this powerful.
+
+The corner of his lips curled upward as a particular notification flashed before his eyes.
+
+[The User has survived the trial of Thousand Poisons and adapted successfully to the Divine Fragment of the Poisonous Beast God.]
+
+You are mine now.
+
+The words lingered on William’s mind. However, this time, there was no hesitation—no fear.
+
+He accepted his fate, his eyes ice-cold as the final remnants of his emotions dispersed, making space for more.

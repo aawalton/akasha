@@ -1,0 +1,191 @@
+---
+id: 9bf39662-b090-5162-864a-9bbf88bf3db9
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Chapter 12: Snow Moon"
+slug: 0019-book-6-chapter-12-snow-moon
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 19
+ownLength: 2258
+unit: words
+ownProgress: 2258
+publishedAt: 2025-06-10
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2346152/book-6-chapter-12-snow-moon"
+royalRoadId: "2346152"
+removedAt: "2026-07-03T13:47:37.982Z"
+---
+
+Arthur and Brixaby arrived at an unfamiliar hive.
+
+The first thing Arthur noticed was the impression of gray and white all around him. Then he and Brixaby were buffeted by freezing cold and stinging snow pellets. It took every bit of his dragon riding skill to hold on.
+
+Looking around wildly, he saw the hive as only a dark, cone-shaped shadow. It wasn't Wolf Moon, though. The lines were a bit too severe. And while the weather could be challenging in the northern altitudes, it had been sunny and warm when he'd recently visited. That meant...
+
+"Do you think this is Snow Moon?" he snarked.
+
+Below him, Brixaby yelled something, though even his deep voice was caught and muffled by the wind.
+
+"What?" Arthur yelled back.
+
+This time, Brixaby's voice came into his mind. Hold on! If you fall, I may not be able to catch you for some time.
+
+Not reassuring.
+
+Then he felt a natural weight as Brixaby veered sharply up into the sky.
+
+If anything, the wind only got worse. He and Brixaby were thrown back and forth like the dragon weighed nothing. For a moment, Arthur was certain they were tossed upside down as he completely lost sight of the hive and his sense of direction. Brixaby righted himself so fast he didn't have time for his rear end to leave his seat. Then they were struck sharply to the left by another gust of wind.
+
+Arthur was on the verge of telling him to go back and they would try another portal, but... now, time was of the essence, and this hive needed to be warned just as much as any of the others.
+
+So, he just held on and gritted his teeth... with the addition of a heavy blanket from his Personal Space wrapped around his shoulders. It wasn't the most dignified look, but it kept him warm enough to hold on.
+
+Finally, Brixaby alighted to the top of the hive. There was a ledge and an orange glow that signified an opening to the hive ahead. Easy for Arthur to imagine a fireplace and warmth inside. It wasn't big enough for Brixaby's new size, though. He would have to endure the cold.
+
+"Stay here, I'll be right back," Arthur said, then staggered inside.
+
+The moment he stepped in, the wind dropped to nothing and was replaced by air so warm that it was shocking.
+
+Arthur barely had time to get his bearings before someone belted out a crisp, "Report."
+
+There were two women and a man sitting at a nearby table, their backs indeed to a large, roaring fire. One was dressed in the white robes of a mind mage. They all looked at him with expectation, but no hint of recognition.
+
+They just thought he was a regular rider.
+
+Well, if this lasted, that would make his life easier. He doubted it would, though.
+
+"The eruption is going badly," Arthur said. "The scourglings are using mind-based pressure attacks. All the fighters have been moved to the perimeter, and the area around the cone itself is completely undefended and currently growing out of control."
+
+His words definitely had an impact.
+
+"What?!" the man barked, standing.
+
+"How could this be?" said the other woman, who was not in mind mage robes. She was the youngest of them all, though clearly in her middle-aged years with streaks of silver in her hair. She didn't wait for Arthur to reply before she looked at the man. "And we've heard nothing? Wait." She looked back at Arthur, this time with suspicion. "I don't recognize your face. Who are you?"
+
+Now, the woman in mage robes looked alarmed. "Beware, Leaders," she said. "He holds a Legendary card."
+
+More like Legendary cards, he thought, but didn't bother to correct her.
+
+The man stared at him with narrowed eyes. "You're that whelp that Wolf Moon is always bleating about." He looked to his partner. "He rides the tiny card eater."
+
+"I know about him," she said easily. "Let me warn you, young man, if this is a trap—"
+
+Arthur did not have time for this, so he just stared directly at the mind mage. He didn't know what kind of mind card she had, but considering that she was sitting there having a meeting with the Legendary leaders, it was probably powerful. And some things were universal.
+
+So, meeting her gaze, he concentrated on his memories of the eruption and visualized sending them to her. He didn't have a skill for it, but it was up to her to receive if he could—
+
+To his shock, he felt those memories hit a shield. Then, in the next moment, the walls of that shield thinned. In the speed of thought, he gave her everything that he had seen at the eruption.
+
+"Wait," she held up a hand, stopping the two Legendary leaders before they could build up a head of steam. "The boy is telling the truth."
+
+"I'm not a boy," he grumbled, then remembered he was holding a blanket around his shoulders like a child. With a sigh, he stored it back in his Personal Space and straightened to his full height. "But yes, I'm telling the truth. This eruption has gone badly."
+
+The man looked unconvinced. "This could still be a trap."
+
+"We don't have time for this," Arthur began, then corrected himself. "No, the people in the eruption's path, and your own hive riders, don't have time for this. If you don't believe me, go there and see for yourself. I have people to warn."
+
+That was when he turned to go... and was stopped dead by a giant polar bear made of icy wisps crouched right behind him.
+
+It had the same ghostly qualities that Cressida's summons shared, only this being had Legendary power. It had to be one of the leaders'.
+
+The bear stared at him with beady eyes. Beyond, an identical one faced Brixaby, who had stuck his snow-covered muzzle in and growled at it. The summon made no move against them, though its head was twice as large as Arthur's, and it could probably end him in one bite.
+
+Despite the fact that every instinct told him not to turn his back on such a dangerous summon, he did exactly that. He gave the two leaders an unimpressed look. "We don't have the time."
+
+"Leaders," the mind mage said, "from what I see from his thoughts, this is not a trap. Our people may not be in danger, but they cannot return back through the hive's portal, and the eruption is currently out of control."
+
+The female leader had softened a touch. "No riders had returned—I suspected it was the strength of the snowstorm here, and they were taking their time. But I'm curious... Arthur, is it?"
+
+He nodded, though he had not given her his name. It wasn't a surprise that she knew of him. There weren't so many Legendary dragon riders around that they could completely be ignorant of one another, and she might have actually seen him bond with Brixaby.
+
+Her next question surprised him. "Where do you think you're going?"
+
+"To warn the other hives, of course. We can't just sit here and do nothing," he snapped, frustrated.
+
+But it seemed he just confused the others. The man furrowed his brow, and the two ladies exchanged a glance.
+
+"Brixaby and I can stand the mind pressure," Arthur said, thinking that was the issue.
+
+"You just plan to jump from hive to hive?" the man asked slowly, as if Arthur were an idiot. "You don't want to use the card anchors?"
+
+"What card anchors?"
+
+The two leaders exchanged a look. Then the woman rose. "Well, it will be a simple matter to see if he is telling the truth or if this is some wild ploy to get his dragon to eat our cards."
+
+For some reason, she sent a smirk in his direction, almost as if she were daring him to find out what would happen if he tried.
+
+Arthur had no such intention. He just felt the pressure of the seconds and minutes ticking down... or was it seconds? Maybe not as much had passed as he had feared.
+
+Or maybe it had been more.
+
+With unnatural, fluid grace, she stepped around her chair to walk up to the side wall. When she pressed her fingers upon it, several different pictures lit up on what had been bare stone. She pressed her fingers to one and held them there.
+
+Then she spoke.
+
+"Yes, it's me—" Pause. "Oh, you were about to reach out?" Pause. "Yes." Pause. "No riders have returned here, either."
+
+Arthur had seen a similar system before, in that strange challenge that the Dark Heart had issued. What had those people called it? A telephone? Only this was made of card anchors.
+
+The hive leaders can talk to one another? Arthur felt both a little stunned and angry at himself for not guessing that something like this was possible. Mostly, though, he was furious that nobody had told him about this. Not Whitaker, not Desmond, not Sybil. He had been prepared to fly from hive to hive, and he could have saved so much time—when time equaled lives.
+
+She spoke for a few moments, glancing at Arthur, then nodding. Then her fingers left the wall, and the images went dark.
+
+"Well, it appears that he is telling the truth. The calls have just gone down the emergency anchor tree, and we were the next to be alerted. So, Arthur, where are you hailing from now?"
+
+No point in hiding it. "Blood Moon."
+
+Her eyebrows went up. "I didn't think anyone would be desperate enough to align themselves with Chester. Surely, Whitaker isn't that bad."
+
+"Chester's dead," Arthur said flatly. Best they didn't expect him to save the day as he had done with the previous eruption.
+
+There was silence for a second, then the man snorted. "Well, today does have a bit of a silver lining then. My name is Hale, and this is Rose. Our seer here is Mercy."
+
+Hale made a gesture as he spoke, and the howling winds outside stopped.
+
+Arthur glanced back over his shoulder. The polar bear summon had been dismissed, and through the open archway, he saw that the storm was gone as well. There was only blue sky, though it looked just as cold as before.
+
+"Well, Leader Arthur of Blood Moon hive," Rose said with an ironically upraised eyebrow. It seemed she was amused at finding someone so young in the position he was currently in. "Will Sybil and Desmond be joining us in this fight?"
+
+Arthur thought about their passivity and how they didn't seem to care not only about the goings-on of their own hive but the incuriosity of the people they were supposed to lead and protect.
+
+"No, I'm afraid it will only be me and Brix."
+
+"Let's get this done, then," Hale said. He smiled at Mercy, who rolled her eyes. "I do love a good fight."
+
+****
+
+He had been concerned about Brixaby being out in the cold for some minutes—seconds? Surely it hadn't been an hour—but his dragon was made of sterner stuff than that. When Arthur walked outside into the now clear, but bitterly cold air, it was to see Brixaby picking icicles off his scales but looking fine otherwise.
+
+Behind him, further out on the wide ledge, stood a Blue who was so pale his scales looked as if they had been chipped from deep ice, and a delicately proportioned Green.
+
+Against the stereotype, Rose went to the hulking ice blue and Hale to the green.
+
+"Finally," Brixaby said to Arthur. "We're off to the other hives now?"
+
+"No need. Apparently, they have ways to contact each other." He couldn't keep the bitterness out of his voice and added, "If I had known that, we could have gone straight back to Blood Moon and you wouldn't have had to freeze out here."
+
+How am I supposed to be a leader if I don't have the tools to lead? he thought, exasperated.
+
+Brixaby, however, took the news with surprising ease. "If we hadn't come here, then I wouldn't have had the chance to make friends here."
+
+Arthur froze and turned to look hard at his dragon, mostly to make sure he was talking to Brixaby and not Joy.
+
+Then he caught the look of evil delight Brixaby sent to the other two, and the dragon equivalent of amusement they were sending back to him.
+
+"What's going on?" Arthur asked.
+
+But Hale and Rose had reached their dragons and had mounted up. Arthur hastened to follow. He didn't want to be left behind.
+
+And it seemed Brixaby wanted to drag out the mystery. "Those two have such interesting cards."
+
+At a silent signal, all three Legendary dragons leapt off the edge. The delicate Green motioned in front of her, and it seemed the air unweaved itself in a perfect circle ahead.
+
+She was the first through, followed by the ice blue.
+
+Lastly went Arthur and Brixaby.
+
+The transition was so smooth it was as if they had stepped through a doorway. One moment in frigid air; the next back at the eruption with a mental pressure like a vice trying to squeeze Arthur's head in.
+
+That wasn't his biggest problem, though.
+
+The air was now busy with giant, Legendary-level dragons.
+
+And Whitaker's Orange beast of a dragon had spotted Brixaby and was flying straight at them, claws out and teeth bared.

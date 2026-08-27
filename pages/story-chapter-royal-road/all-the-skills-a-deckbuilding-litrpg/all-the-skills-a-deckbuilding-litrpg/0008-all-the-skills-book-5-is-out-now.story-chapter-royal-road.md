@@ -1,0 +1,31 @@
+---
+id: e50cc6d2-dabf-58ea-8d46-da04247e067f
+page-type-slug: story-chapter-royal-road
+title: "All The Skills Book 5 is out now!"
+slug: 0008-all-the-skills-book-5-is-out-now
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 8
+ownLength: 177
+unit: words
+ownProgress: 177
+publishedAt: 2025-03-25
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2150403/all-the-skills-book-5-is-out-now"
+royalRoadId: "2150403"
+markedReadAt: "2026-06-29T20:09:57.304Z"
+---
+
+Hi guys!
+
+All The Skills 5 is now available on eBook and Audio (read by the talented Luke Daniels!).
+
+eBook: https://www.royalroad.com/amazon/B0DSVBKLP9
+
+Audio: https://www.royalroad.com/amazon/B0DV1KF592
+
+To gain a formidable new card, Arthur must brave the unknown in a hive notorious for its evil side, as this thrilling deck-building fantasy continues.
+
+Having survived their journey into the Dark Heart, Arthur and his dragon, Brixaby, have a new goal: complete their Legendary card sets. Unfortunately, the next Legendary card is locked away in Blood Moon, a hive with a reputation for chaos, lawlessness, scourgling eruptions, and—rumor has it—dedicated dragon hunters.
+
+Still, Arthur and his retinue feel they have little to fear. Then again, they also don't have much knowledge of what actually lies ahead. What they find is a hive full of training and leadership opportunities—if they're able to avoid paying the blood price.
+
+But the lure of the Legendary card in the Blood Moon Hive may be a ruse. In fact, it could very well be a trap set by the scourglings themselves. Or something even worse . . .

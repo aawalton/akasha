@@ -1,0 +1,285 @@
+---
+id: 04b8e423-f078-5d24-85b2-ff2fa549f2f4
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Ch4 - Old Friends"
+slug: 0011-book-6-ch4-old-friends
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 11
+ownLength: 3087
+unit: words
+ownProgress: 3087
+publishedAt: 2025-04-10
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2191421/book-6-ch4-old-friends"
+royalRoadId: "2191421"
+removedAt: "2026-07-03T13:47:23.673Z"
+---
+
+Arthur could not simply walk into Wolf Moon hive.
+
+And, as it was still blazing daylight, he couldn't climb on the outside walls of the hive as he had done when he'd first infiltrated Blood Moon.
+
+For one thing, his Stealth skills didn't make him entirely invisible and anyone who could see through them would rightfully wonder what he was doing. For another, he was known here as Brixaby's rider and had lived in Wolf Moon city for years before that. People had known him under different names—Arthur and Ernest— but there was every chance someone would know his face.
+
+Finally, anyone sensitive to the strength of others' cards would be able to tell instantly that he was of Legendary rank.
+
+He could take care of the last problem using Brixaby's Knockback card, which would give him the illusion of being a rank-lower Rare. He could also add his illusion card, which would change one aspect of himself. Brixaby, in his arrogance, had figured out that "one change" could literally be his entire appearance.
+
+But the Knockback card was extremely mana-intensive—so much so that Arthur wasn't sure if he could even use it for himself. Even if he did, he would have little to no reserve left if something went wrong.
+
+Also, it would be a... reach, as both cards were in Brixaby's secondary core. Not his primary one.
+
+Arthur thought he could still reach them. Thanks to his Master of Cards and the flexibility he'd received from his time in the Dark Heart.
+
+I'll save those for an emergency, he thought. I don't need to walk into Wolf Moon to find what I need.
+
+Besides, if Reginald was successful, the entire hive would shortly be on the lookout for him.
+
+He craned his neck up and watched the comings and goings with consideration. Then, a familiar buzzing sound caught his attention.
+
+He caught sight of a lone Purple dragon returning to the hive. It was too far away for him to identify, though by its size he suspected it was an Uncommon.
+
+It didn't have a rider.
+
+Blood Moon hive had a lot of riderless purples. For the first time, he wondered if Wolf Moon had the same issue. It hadn't been something he had thought to look into during his short time being a rider here. And as a civilian, he certainly hadn't known.
+
+I just assumed dragons had to bond to people once they hatched. It wasn't like there were any riderless Legendaries out there for me. I had to wait for Brixaby to hatch, no matter what. I just never thought much about riderless, wild dragons.
+
+He was disappointed in himself for letting that detail slip. But today, it gave him an idea.
+
+Lots of riderless dragons earned extra food and attention by passing on messages.
+
+I wonder...
+
+Turning away from the hive, Arthur jogged back up the street, turning around corners he knew like the back of his hand. After all, he had spent years here.
+
+He found an alleyway with a ladder that went to the second-story window. But someone who was nimble, or bored enough, could jump and grab the edge of the roof, which was just within arm's-length distance upward.
+
+Or, it had been a dangerous arms'-stretch distance when he was smaller. Arthur now found that either he had grown a bit since he'd last done this, or more likely, his Climbing skills gave him an extra edge.
+
+The heart-pounding reach from the top of the latter to the rooftop was as easy as a breeze in summer.
+
+With a heave, he found himself up on the flat roof.
+
+He was not the only one who knew of this spot. There was detritus and waxed papers left over from people's meals, and an empty mug of beer with the contents dried out and sticky.
+
+Right now, all was clear and Arthur had a spectacular view of the hive.
+
+He reached into his Personal Space and pulled out a bright yellow shirt— Yellow was the color Wolf Moon used for needing to send out a message— then he waved it around his head.
+
+He fully expected it would take a few minutes to catch the attention of any dragon and rider. After all, someone looking to pass messages would be focused on the ledges along the hive itself. Not in the city that surrounded it.
+
+To his surprise, only about a minute after he started waving his impromptu flag, he heard the familiar droning buzz of purple wings. Arthur held his breath, hoping that it wasn't someone he knew—and that it would be a wild, riderless dragon.
+
+He was only partially lucky.
+
+The purple dragon had a rider, but Arthur didn't recognize him. The man, who had a ridiculously bushy red mustache that peeked out on either side of his rider's hood, frowned at Arthur and gave a significant look around at the trash that had piled on the rooftop. "I hope you haven't just called me to waste my time."
+
+"No," Arthur replied, then held out a silver coin. "I'd like you to pass a message to a dragon rider, if you please."
+
+"Lover's spat?" the man asked with a smile.
+
+Before Arthur could answer, the Purple dragon shifted back and put his head between Arthur and his rider.
+
+"Strong," he said in a gravelly voice. "He is strong."
+
+"Tatum!" The man reached to shove the dragon's head to the side. "What are you doing?"
+
+"Strong. Be careful." The Purple's vivid green eyes stared at Arthur warily.
+
+He sensed the strength of his cards.
+
+"What do you mean by strong?" the rider asked with a frown.
+
+"Oh!" Arthur laughed. "Thank you. I've been working out." He held up one of his arms, proudly. "I've been getting up at the crack of dawn every day to do two laps around the entire hive. It takes a few hours, but it's worth it. That and the seaweed diet. Would you like me to tell you about it?"
+
+The man recoiled. "No thank you." Reaching around his dragon, he snatched the coin from Arthur's fingers. "You do realize I'm only passing along a message. I can't force them to read it. Who is it that you wanted to speak to again?"
+
+Arthur nodded. "Kenzie who rides Silver Marteen. Uncommon riders. Tell them that Ernest will meet them here."
+
+"Here? You can choose a more romantic spot, kid, but it's not my relationship."
+
+He didn't wait for Arthur's reply, only tapped his Purple on the shoulder in the signal to take off.
+
+The dragon, however, gave Arthur a long look before he complied, buzzing into the air.
+
+Arthur let out a sigh.
+
+No doubt, the dragon had sensed the strength of the cards in his heart and had known something was amiss. Thankfully, even here in Wolf Moon, people were used to ignoring the chatter of Purples.
+
+He made a note of that for the future: When dragons in his hive said something, their riders should listen, damn it!
+
+Anyway, this time it worked to his advantage. Now all he had to do was wait.
+
+He sat on the edge of the rooftop, staring idly at the hive's massive cone. He fully expected this to take a while. Kenzie was probably at training, and was certainly not expecting a message from him.
+
+So he was surprised when, only a couple minutes later, a glint of silver peeled itself off from Wolf Moon and flew in his direction.
+
+Arthur stood up, barely daring to hope.
+
+Sure though, the Silver dragon took on a familiar shape — it was Marteen, and she seemed to be set on landing on this very roof.
+
+That wasn't a good idea. The building didn't seem very stable.
+
+Arthur tried to wave Marteen off, but the Silver made a quick turn mid-air and landed anyway. There was no tremor of impact on the roof's edge. Maybe she had a card to make him lighter?
+
+Before Arthur could wonder too much about that, Marteen curved her big head around and looked at Arthur. "I know you."
+
+"Arthur!" The next moment, Kenzie slid off her dragon and came running up to him.
+
+She looked exactly as he remembered—perhaps her hair was a touch longer.
+
+That was all he had time to take in before Kenzie punched him hard in the shoulder.
+
+"Hey—" He started to say, but in the next moment she wrapped her arms around him in a hug... then leaned back and punched him again in the same spot.
+
+"What are you doing here?" she demanded in a low hiss. "Is your dragon around?" She looked wildly about as if searching for a vicious bird. "Is he off stealing cards or something?"
+
+"No, he's back at my... at Blood Moon."
+
+"That creepy hive? Arthur, what are you doing here?" she demanded again.
+
+He opened and closed his mouth. "I... don't know where to start."
+
+Kenzie's expression darkened. "How about you start where you bonded with the evilest-sounding Legendary dragon anyone has ever heard of, and then completely ditched me!"
+
+"I didn't ditch you," he said quickly. "Something happened while I was in training with Brixaby. We sort of got kidnapped to another hive and..." Yeah, he had kind of ditched her, "A lot happened. I'm sorry, I didn't forget you."
+
+Her expression puckered as if she didn’t believe him. Likely because she could see his own inner doubt within his emotions with her card. "Why are you here now?"
+
+Arthur wanted to explain but he had to make it good between himself and his friend, first. "You're right to be angry: You were left behind but trust me with all that has happened... well, it's best that you and Marteen weren't a part of it. Besides, I knew you two would be okay—"
+
+"Why would you think that?" she demanded.
+
+"Because you were the ones who referred me as a Legendary Recruit, which means you got the credit..." he trailed off at the expression on her face.
+
+Marteen made a sad sound.
+
+"We got stiffed for the honor and all the credits," Kenzie said flatly.
+
+"What?" Then a new thought struck him. "Because Brix and I left the hive?"
+
+"No," she said, though it looked like it annoyed her to admit it. "This was before then, and... okay, I knew you guys were in training and I've been through it myself. It's busy enough with a normal dragon, and I figured... Well, you're a big shot now. I didn't want to bother you."
+
+"Not until you were done with training," Marteen added.
+
+Kenzie nodded. "Yeah, we were going to wait because I figured since I knew you we had a way into the top of the hive, or at least to get what we deserved." She scowled. "Then you left or died or something—"
+
+"I didn't think you died," Marteen added. "But the Great Legendary Crag says you've become a traitor now." She looked at Arthur with big, sad eyes as if silently begging him to say it wasn't true.
+
+"Whitaker says the same," Kenzie said.
+
+"And you trust what Whitaker says?" Arthur asked, wryly.
+
+She snorted, which was all the answer he needed.
+
+He took a deep breath. "I'm sorry. I should have checked in with you before, but... things have been busy and dangerous. I'm now the leader of Blood Moon hive."
+
+She stared at him for a moment as if she was waiting for the punchline. When it didn't come she blurted, "Isn't that the hive with all the assassins?"
+
+"No," he said. "At least... I'm not sure. Maybe?"
+
+Kenzie exchanged a look with Marteen and the two seemed to shrug at one another. She turned back to him.
+
+"If you're telling the truth, why are you here?" Why are you talking to me? was in the air, unsaid.
+
+"I need good people on my side, and while you two always have your angle... you are good people."
+
+His words weren’t the most eloquent, but he knew she had ways of ferreting out his true emotions. Sure enough, she stared at him with an intensity that was almost unnerving.
+
+"There's more," she said. "Out with it."
+
+He knew he was about to ask a lot, especially as Kenzie was still annoyed with him. But she always appreciated boldness. "Coming here was an accident," he admitted, because she would read the truth in his emotions anyway. "But since I'm here anyway, I'm going to take advantage of it. Kenzie, I need people on my side I can trust."
+
+Her eyebrows raised. "You want us to come to Blood Moon?" Not waiting for his answer, she turned to look at Marteen.
+
+The Silver shrugged her wings as if the idea didn't bother her one way or the other.
+
+That gave Arthur a bad feeling.
+
+"Have you two been okay here?" he asked.
+
+Rider and dragon exchanged another long look before Kenzie sighed. "We haven't had it easy. Whitaker labeled you as a traitor, and I was the one who officially referred you as a Legendary recruit."
+
+Arthur stiffened. "He didn't—"
+
+"No. Before Valentina died, she told me that the hive owed me, and she wanted to help me but it would be a good idea to... lay low. But laying low means we don't have the opportunity to seek out more people to bring in." Her expression darkened. "Oh, we get fed, but they reassigned our room all the way down to level five again. It's not even high enough for Marteen to have her own ledge, and she's going through a growth spurt! It's not fair. We have to hunt on our own, and I don't want the cards for it."
+
+"Kenzie... I'm so sorry. I had no idea."
+
+"Of course you didn't. You were gone." But then she softened. "I know it's not all your fault and... I could have reached out to you back when you were in this hive. I've been kicking myself for the last year for staying quiet."
+
+"I'm not sure what I could have done at that point," Arthur admitted. "I was in training and the only political power I had was to file Whitaker’s paperwork. But that's changed." Unconsciously, his hand clenched into a fist. "Brixaby and I disposed of the last leader. The other two Legendaries are too cowed to challenge me. But I don't know if that will last. Blood Moon isn't the friendliest hive. That's why I need you."
+
+"You need my cards, you mean. I'm surprised your dragon hasn't just come in and taken them."
+
+"You think that's how we operate?" Arthur asked, a bit stung.
+
+"I don't know how you operate anymore."
+
+Then he caught the corner of her mouth ticking up in a surprised smile—just a flash, there and gone again. Kenzie had always been a schemer looking for an angle. He was too, which was why they had gotten along so well.
+
+He suspected she wasn't nearly as upset as she was pretending to be. But he was in the wrong for leaving her without so much as a letter of explanation. So he decided to play into her game.
+
+"What would it take for you to consider Blood Moon?"
+
+Her answer was immediate. "A top level room for myself—one with a wide ledge for Marteen."
+
+"It needs to get a lot of sun," the Silver added.
+
+"Done," he said.
+
+Kenzie's eyes narrowed. "I want top-grade food privileges. Enough for at least three—no, six months."
+
+"Done."
+
+"I want a real apology."
+
+"I'm sorry," Arthur said again, without hesitation. "I should have reached out to you before, though with what me and my friends have been through... I'm not certain you would have survived it."
+
+"Has the danger passed?" Marteen asked with an edge of nervousness. She was not a fighter.
+
+Again, Arthur decided that honesty was the best policy. "I don't know, and that is why I need people on my side. people I can trust."
+
+"You mean that you need Marteen's nose just as much as you need my insight," Kenzie said.
+
+Now they were getting into the heart of the matter.
+
+Arthur laughed. "Of course I do. The reason for needing you around is obvious. I got betrayed by a head servant a few hours ago. But more importantly, I need Marteen to sniff out anyone and everyone who would make a good dragon rider."
+
+"Why?" She arched an eyebrow. "Trying to build up the ranks of creepy assassins?"
+
+That last question sobered him. "This doesn't have to do directly with Blood Moon. You must have noticed the eruptions are coming more frequently."
+
+"Of course I have. We're not fighters, but we aren't blind."
+
+He gave her a look. "The scourglings aren't doing that because they're growing weaker."
+
+Any idiot could figure that out, but the truth was even worse. There were fewer dragon Mythics in the world then there were Scourge-Gods, and the balance of power seemed to be slowly sliding to the scourglings."
+
+She must have seen the grim certainty in his aura because she paled. "I don't think I like whatever you’re thinking."
+
+"You don't," he agreed. "And it's something I can only tell you about in full once we're away from here."
+
+She let out a long breath and exchanged another look with her dragon. But Arthur had known Kenzie for a long time. He'd had her loyalty the moment he agreed to her terms.
+
+"Okay," she said. "We're in. I assume we're leaving on the fly?"
+
+He nodded. "Before Whitaker is alerted, preferably. But there's still a few things I need to do."
+
+"What's that?"
+
+“Carley. I want to get her out, too, if I can.”
+
+“Oh, that little assistant of yours?” She rolled her eyes. “She’s toadying up to Whitaker now. Don’t bother.”
+
+He hesitated. “And he’s allowing that? Even though I was the one who brought her here?”
+
+She smirked at him. “I doubt she’s told him who she worked for before. And you know Whitaker. He’s—”
+
+“Incompetent. Yeah.” Arthur sighed. He shouldn’t be surprised Carley landed on her feet, though he hated the thought of her wasting her time working for an idiot.
+
+Nothing he could do about it now. Moving on, he looked to Marteen. "Is there a colony of rider-less dragons around here?"
+
+"The wild dragons?" She seemed surprised. "Yes, why?"
+
+"Because if you're going to sniff out people, we're going to need the dragons to go along with them," Arthur said.

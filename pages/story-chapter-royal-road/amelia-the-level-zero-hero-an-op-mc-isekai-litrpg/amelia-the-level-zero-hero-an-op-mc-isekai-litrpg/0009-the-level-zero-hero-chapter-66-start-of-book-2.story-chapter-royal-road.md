@@ -1,0 +1,93 @@
+---
+id: b12de3c8-5dcd-54f0-ab17-830f389fb9d9
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 66 (Start of Book 2)"
+slug: 0009-the-level-zero-hero-chapter-66-start-of-book-2
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 9
+ownLength: 1502
+unit: words
+publishedAt: 2023-02-22
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1120228/the-level-zero-hero-chapter-66-start-of-book-2"
+royalRoadId: "1120228"
+---
+
+Guardian Angel Z357 opened his eyes. All twelve of them snapped wide, facing different directions. They were uniformly placed in his face, although each differed in size, with the largest eyes at the center, while the smallest were on his forehead and his chin. They formed the vague shape of a diamond, layering on top of each other— one, three, four, three, one.
+
+He had no mouth. No nose, no hair, and no ears. There were square-shaped holes on the side of his head, but they were small and shallow. His skin was gray like it was made of metal, and he raised his head mechanically as he heard the command of the World System.
+
+[New Main Objective: Halt the Return of the Fal-Deus
+
+Vacuos is in danger! Rifts in space have ripped their way through Laxo, Alius, Drazyl, and Mare. The Void’s infraction is threatening the stability of Planet 16B, and potentially the entire universe. Ensure that all traces of the Fal-Deus are eliminated so that Vacuos is not disconnected from the World System.
+
+Threat Level: Planetary Cataclysm(?)*
+
+*Tentative
+
+Reward: Promotion]
+
+After such a long slumber, awakening was no quick process. It had to have taken Guardian Angel Z357 at least a full rotation for him to have even opened his eyes. Maybe more. Now, he heard the words ringing in his head, then it flashed before him. A red screen hovered over his face. All twelve of his eyes darted towards the familiar objective. He had received such a command from the World System once before.
+
+Looking up, he saw the planet slowly spinning before him. It orbited around a star in the far distance, although he only saw a fraction of the golden rays. Most of the star was obscured by the planet due to his current location.
+
+Guardian Angel Z357 was currently tied to the orbit of the moon due to one of his Techniques. But he broke off as he descended towards Planet 16B. This was his first time entering the atmosphere in over ten millennia. The last time he had been awakened, he had been tasked to complete a similar objective that resulted in the destruction of a continent.
+
+It had not been a simple task. But he had diligently carried out his duties to prevent a Planetary Apocalypse. His current objective appeared to be a lesser threat than that of the past, and yet, he was offered a Promotion now. While Guardian Angel Z357 was not one to question the World System, he did wonder why this was the case.
+
+He did not further this line of thought, instead adhering to his command. His body burned as he entered the atmosphere of Planet 16B. He scanned the three surviving continents in the distance. He spotted an odd dark shadow where Mare used to be, but he paid it no mind. He looked past Alius, searching for the most recent rift in space, and all he detected was a weak ripple. He swept his gaze over Drazyl, detecting a similar low-level of Void-activity. But his gaze briefly halted when he saw that a quarter of the elven continent had been flooded.
+
+Guardian Angel Z357 dismissed any curiosity he had for the current geopolitical climate of Planet 16B. He had to focus only on matters pertinent to his Main Objective. He looked towards the final continent— Laxo— and he paused.
+
+High-levels of Void-activity detected, he thought as he came to a sudden stop just above the ocean. Activating Without A Trace, his figure vanished. Investigating anomaly.
+
+He shot forward, crossing hundreds of miles in mere moments. He didn’t feel the wind whipping against his body. Air passed through him like he wasn’t even there— it was as if he had become completely incorporeal.
+
+And that was true.
+
+Guardian Angel Z357 could phase through walls if he wished. He couldn’t be burned by fire, nor could he be affected by lesser magic. He was nigh invulnerable in his current state. At least, when facing the inhabitants of this universe.
+
+Only the Void-blessed stood a chance of harming him. But just barely.
+
+So he continued on until he reached Laxo. The human continent. He hardly surveyed the landscape as he flew towards his destination, but he discerned that there had been quite some substantial changes since he had last been here. There were colossal monuments and tall buildings located in just about every major city, and the protective walls girdling these settlements were significantly smaller than before.
+
+But a lot could change in ten thousand years, so Guardian Angel Z357 did not bother questioning these changes. Instead, he zoned in on his destination. The strongest residual essence of Void magic was just up ahead. His twelve eyes flickered as he saw it.
+
+It was Mount Arkais. The tallest mountain in all of Planet 16B. A grandiose peak that reached high above the clouds—
+
+…where was its peak?
+
+Guardian Angel Z357 stared at the devastated terrain. A quarter of the mountain top had been blown off— like it had been destroyed by a violent explosion. The surrounding area had been devastated by terrible wildfires, and molten rocks lay sizzling at the base of the hill.
+
+An eruption? But Mount Arkais was not supposed to be a volcano. It had to have been the result of a battle. Perhaps it was related to the rift located at this location. More information was required before a cause could be determined. And so, Guardian Angel Z357 flew towards the caldera atop the mountain, beginning his investigation into the rifts.
+
+Ding!
+
+[In Progress: (1/5) Rifts Investigated!]
+
+—--
+
+Three months had passed since I escaped the Fractured Realm and arrived in Vacuos. Compared to the ten years— or more… definitely more— I spent in that broken world of nightmares, the roughly ninety days I had spent here was nothing. But while I was constantly fighting against voidlings, voidbeasts, and the Voidgod itself back there, I was mostly relaxing here.
+
+The fact that I was currently lying down in bed as the sun set over the horizon was proof of that. In the Fractured Realm, I hadn’t even been able to sleep for a single moment. But here, in this farm, I could get up whenever I wanted. I could even literally go back to sleep right now if I felt like it.
+
+It was calming.
+
+But things hadn’t always been this way. It had taken me a while before I even ended up here, on this farm. When I first arrived in Vacuos, I had still been busy fighting, even though I was no longer in the Fractured Realm. I killed a Lich King, I defeated a Goblin army, and I made an Elder Dragon surrender.
+
+I saved Noele, before taking her on as an apprentice. I became an adventurer, and I fought off an insane elf. Well— I didn’t actually fight him. He just kept challenging me to a duel non-stop until I finally managed to chase him off.
+
+…and he left to bother the aforementioned Elder Dragon, which I did feel a little bit bad about.
+
+But it was not my problem, so I didn’t stop him. Instead, I went on to save Noele’s parents from a Dungeon, then fought some bandits, and then fought even more bandits later on. It wasn’t a lot of action compared to what I had been through in the Fractured Realm, but neither was it the peaceful life I desired since arriving in Vacuos.
+
+I had only managed to find some peace and quiet once I had arrived at Wolfwater. Working in Nolan’s farm had given me quite the reprieve, even if I still ended up having to fend off a bunch of bandits after only a week or two of being here. I was still quite content with what I had here on this farm. It was the closest thing to a truly peaceful life I had experienced thus far.
+
+There was something here for me to do that I found fulfilling. I had friends— Noele, her parents, and Garron— surrounding me when I had lunch and dinner. We laughed and chatted and spent time together. Almost like a family. I was content.
+
+And yet, I was also dissatisfied.
+
+Because every passing moment I spent here on this farm, I couldn’t help but think of my family back home in my world. I thought of my sister, my parents, and my friends. I missed them. I wished I could return to them. But I couldn’t. No matter how hard I tried, no matter how strong I got, I knew I was never going to see them again.
+
+After all, nearly a hundred years had passed since I disappeared on Earth, and my parents were dead. Only my sister remained, but she was merely a husk of her former self. Returning to such a world would be… miserable.
+
+So I remained here in Vacuos, content with what I had, but still yearning for what I had lost.

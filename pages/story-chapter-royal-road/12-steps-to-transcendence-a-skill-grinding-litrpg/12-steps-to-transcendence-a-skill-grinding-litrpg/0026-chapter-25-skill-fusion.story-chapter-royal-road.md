@@ -1,0 +1,187 @@
+---
+id: 7e3e85c3-d3ba-5586-bb89-c900a9ae894a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: Skill Fusion"
+slug: 0026-chapter-25-skill-fusion
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 26
+ownLength: 2132
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3775188/chapter-25-skill-fusion"
+royalRoadId: "3775188"
+---
+
+Plummeting completely straight down, Ben braced himself for a brutal impact. The roaring waterfall deafened him entirely. As he fell, he was worried that the goblin would follow him. So glancing upward, he fully expected to see a massive green body diving right after him.
+
+But the sky remained completely empty. There was no goblin behind him.
+
+Huh
+
+Looking a bit farther, Ben was surprised to see the goblin standing at the very edge of the massive cliff. It just watched him fall. The beast didn't even try to throw its heavy iron spear this time.
+
+Why? What happened? Maybe it hates deep water?
+
+Ben scoffed. That sounded ridiculous even to him. There had to be another reason. Maybe this was some other beast's territory?
+
+Honestly, he didn't care. He was just overwhelmingly glad the invincible meat shield wasn't continuing the chase.
+
+But still, if this was indeed some other beast's territory, he would rather just get the hell out of there.
+
+Ben shoved mana straight down into his heels, and detonated a massive [Fire Burst] directly toward the rapidly approaching river below. The immense force completely halted his downward momentum in a single jarring instant.
+
+His already cracked ribs screamed in pure agony at the sudden deceleration. [Focus] clamped down on his pain as much as it could, but it still hurt.
+
+That hurts.
+
+Splashing heavily into the freezing water anyway, he immediately paddled toward the rocky shore. He pulled himself from the river and collapsed onto the wet stones.
+
+He just lay there, staring blankly at the wet dirt.
+
+And he felt utterly defeated.
+
+Well, at least I got something… so not a total defeat.
+
+Ben looked at the notifications he'd gotten during the fight.
+
+[Focus Lvl 8 > Lvl 9]
+
+[Mana Reinforcement Lvl 7 > 8]
+
+Using the winding river as a rough guide, Ben started making his way back to camp.
+
+Pushing a steady stream of mana into his feet, he moved through the dense trees. He fired off small, continuous bursts of fire from his heels to propel himself forward, not even bothering to touch the ground.
+
+He was completely exhausted.
+
+More importantly, he was frustrated.
+
+He had finally tracked down the exact healer goblin he needed, only for it to turn out to be a Tier 2 monster.
+
+I didn't even stand a chance.
+
+He couldn't kill that thing. He not only physically lacked the damage output to outpace its instant regeneration, relying entirely on a basic dagger and point blank explosions just wasn't cutting it anymore.
+
+He was playing a dangerous game of attrition, and he was losing horribly.
+
+I need something else. And I have to merge [Physical Conditioning] and [Mana Reinforcement].
+
+Thinking back to his brutal fight with the troll, he remembered a very specific, fleeting feeling.
+
+He had been operating in a weird, semi conscious trance back then. He had somehow manipulated the kinetic energy, blending his bodily momentum and mana together without even consciously trying.
+
+Maybe I can replicate that exact feeling. I no doubt have a kinetic affinity.
+
+If he could just force himself back into that specific headspace, he might actually figure out how to learn a kinetic skill. Spotting the familiar clearing of the camp just up ahead, Ben cut the mana flow to his heels.
+
+###
+
+Waking up the next morning, Ben immediately got to work. He had decided to fuse the skills, but he was also incredibly greedy. Why merge them right now when he could be squeezing out a little more levels first? It was just basic gamer logic.
+
+He still didn't know whether that was actually beneficial or not, but he didn't really care. He would rather gain the levels and then fuse the skill instead of just fusing it now and then later wondering if those levels had any kind of effect. He was intending to figure that out someday though, maybe ask someone, but for that he needed to get to civilization first.
+
+He didn't intend to go to the academy with these noble kids in their expedition. He intended to drop down at the nearest town or city that they'd go through.
+
+Or at least one with a rift nearby. He had been wanting to figure out rifts for quite some time now. He knew that they were something like a pocket dimension, but he wasn't really sure what the specifics were and what they held inside them. If there were a lot of essence shards or memory shards inside, it would be so worth it.
+
+Or who knew, maybe even skill shards or something like that. That would be worth it. He just needed to get inside one first.
+
+So yeah, he intended to drop down from this expedition thing because he didn't want to get involved with these politics more than he really needed to. Maybe after that, he could head out to an academy.
+
+Still, that was in the distant future. For now, he was focused on fusing his skills. More so, he was focused on leveling up [Mana Reinforcement] because that was the only skill that wasn't up to par with what he wanted it to be.
+
+For the next three days, he completely dedicated himself to physical training. Pushing a steady stream of mana through his entire body, he forced his body through endless sets of exercises and training.
+
+He was sweating buckets, actively tearing his muscle fibers, and constantly healing himself with whatever minor rest he could afford.
+
+While he did that, he also tried to figure out [Unarmed Combat] more. It was an interesting skill in that it wasn't quite a passive skill, but it wasn't really an active skill either. It was more of an instinct that helped him fight better. But the more he knew about fighting and the more experience he got fighting himself, the better it worked.
+
+Since he'd been teleported, he'd been fighting constantly. First the goblins, then more goblins, the troll, and wolves. And then the other day that weird goblin with spears. He'd been constantly putting himself in danger.
+
+Logan had been entirely right about what he said about danger. He told him that danger worked wonders for levels. So the more he put himself into danger, the more quickly he could level up his skills.
+
+He theorized it was because the more he put himself into danger, the more experienced with the skills he was getting, but more importantly, the more essence he was absorbing.
+
+He wasn't really sure what exactly essence did to his body before reaching the peak of a Tier and advancing to the next Tier. But it had to be something. Otherwise, danger alone couldn't really explain his growth.
+
+Regardless, back to his training, in the three days, he did everything he could to try and level up [Mana Reinforcement].And it was actually working flawlessly.
+
+But it was also working a little too flawlessly.
+
+[Physical Conditioning Lvl 8 > Lvl 9]
+
+Staring blankly at the notification, Ben sighed.
+
+Once it hit level 10, it was automatically going to trigger an evolution. And he honestly had zero idea what its uncommon variant would even look like, and if it would be possible to still fuse with [Mana Reinforcement].
+
+Then, [Mana Reinforcement] would just be permanently stuck taking up a precious slot in his status.
+
+I really can't risk that.
+
+So over the next two days, he was a bit more careful to not push himself physically too much, and just found new ways to use [Mana Reinforcement], especially together with [Physical Conditioning]. While doing all that, he got an idea, and started combining it all with [Unarmed Combat] as well.
+
+But he was getting incredibly sick of the constant interruptions. While most of the noble kids were out hunting and gaining experience and essence, one specific person kept coming up to bother him.
+
+Ben typically just ignored the loud noble kid demanding spars. Good on the kid that he didn't get physical, at least. He clearly wanted to prove some kind of twisted, noble superiority.
+
+Ben didn't even bother acknowledging his existence. Eventually, the kid would just stomp off in a huff.
+
+Good riddance.
+
+Honestly, no one else had bothered him. He was a little isolated in the camp, most people never talked to him. And he liked it that way. Alice bothered him way too much to balance that out anyway. She talked a lot, and he typically just listened without saying anything in return.
+
+So that just made her come to him daily to talk about what she did that day all the more.
+
+It was honestly a bit annoying, but she was at least better than the noble brat. She didn't bother him too much when it actually mattered, so he tolerated her a little.
+
+Especially because he sneaked in some questions of his own regarding the system or the world at large.
+
+She gladly explained things to him when he asked, but since she realized he was after information, she'd given him this cheeky little grin and had been holding information as a carrot in front of him to keep him talking to her.
+
+Honestly, he wondered if he was cursed. Most people he'd interacted with in this world so far, everyone withheld information from him for one reason or another.
+
+Still, the noble kid was proving to be an issue, always coming to bother him when least expected, and now he was getting a bit more handsy, too.
+
+Ben tolerated it, but he didn't know if he could take it more. He knew, logically, that the brat was just a teenager. But so was Ben, hormones and emotions were a bit all over the place, and if it weren't for [Focus], he would've already beaten the guy up probably.
+
+He knew that nobles weren't really going to be all snobbish because he'd already met some good people like Hannah, Duncan and Logan and they were technically nobles even if they were just sent out there as soldiers. There had to be other people that had good in them as well.
+
+After all, real life wasn't really black and white. Not everyone was bad and not everyone was good. Everyone had a shade of grey. So he really did not want to lump all the nobles together into a bad bunch before he actually got some time to meet them. Take Alice for instance.
+
+Regardless, these days, focusing entirely back on his internal mana channels, he pushed his body even harder, because he saw a new path forward with three skills instead of just one.
+
+His [Focus] skill had been an immense help. Hannah, as usual, had been right. Keeping [Focus] was a good idea. It helped him with his skills a lot, isolating different aspects of his skills so he could train them.
+
+If he had to make a comparison, it was like working out normally at the gym doing compound exercises that targeted many muscles together compared to doing isolation exercises to focus on one muscle or movement.
+
+Both ways of training his skill worked and had their places, but when he wanted to improve one particular aspect of a skill, isolating it got him there faster.
+
+Still, he'd noticed something when he'd been training with [Focus].
+
+[Unarmed Combat] had a weird kind of synergy with [Mana Reinforcement] and [Physical Conditioning] that he never expected.
+
+But the more he used them together, the more he realized that this could actually work.
+
+It was a gamble, but maybe it would work?
+
+There wasn't anything bad in trying, at least. And finally, the system rewarded his hard work.
+
+[Mana Reinforcement Lvl 8> Lvl 9]
+
+Dropping completely flat onto the hard dirt, Ben let out a massive breath.
+
+Finally!
+
+That was it. Enough was enough. He absolutely wasn't going to push his luck any further and risk accidentally maxing out [Physical Conditioning], but then again, maybe he was just worrying for no reason and it didn't matter? Hannah had never really told him the specifics of how this all worked…
+
+Sitting up slowly, he focused his mind entirely on the three skills in his status. He just mentally smashed them together, actively triggering the fusion process. He'd tried this a few times, and it was easy to do as long as there was some sort of synergy between the skills that he'd discovered. If there was none, however, nothing happened.
+
+This time, though, a prompt appeared in his vision.
+
+Synergy detected between [Mana Reinforcement], [Unarmed Combat], and [Physical Conditioning]. Fusion requirements met. Warning: The base skills will be permanently lost in the process. This choice is irreversible. Do you wish to proceed?
+
+Staring at the prompt in excitement, Ben stopped himself from jumping up and down.
+
+Yes.
+
+Skill fusion commencing…

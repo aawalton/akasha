@@ -1,0 +1,131 @@
+---
+id: bc9b64f3-7312-59fd-9292-54075ef6d918
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 252"
+slug: 0040-the-level-zero-hero-chapter-252
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 40
+ownLength: 1485
+unit: words
+publishedAt: 2024-08-25
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1773519/the-level-zero-hero-chapter-252"
+royalRoadId: "1773519"
+---
+
+Principality Z1 opened her single eye as she floated in the orbit of the supermassive blackhole. She was a machine. A rarity amongst all angels.
+
+Anyone and anything in the collection of universes under the rule of the World System could become an Angel.
+
+But as it turned out, most beings that existed were made from organic matter, rather than metal like she. She knew very few Angels that were machine like her, even across dozens of universes.
+
+There was another Angel that was like her in Vacuos— a machine that was in charge of safeguarding Planet 16B. He was one of the greatest of the Guardian Angels, which was why he was designated at that location.
+
+After all, that planet was where the last of the Fal-Deus’ resistance fell when the World System conquered this universe.
+
+And it seemed that the Fal-Deus was attempting another rebellion, which was why she was awakened.
+
+Principality Z1 regarded the World System’s message, before scanning the universe of Vacuos. Her single eye widened as she realized what she detected moving rapidly between galaxies.
+
+It was the Fal-Deus. No— a vessel of the Fal-Deus.
+
+And the Void Essence it was carrying was rapidly approaching the threshold that could destroy the entire universe.
+
+But that was not all. The vessel of the Fal-Deus was locked in battle with a being of equal strength.
+
+Principality Z1 immediately shot forward as she realized the urgency of the situation. Whatever was happening needed to be contained immediately, before it destroyed all of Vacuos.
+
+And so, she focused for a moment, locating every single Guardian Angel located in Vacuos, sending them a single message.
+
+Awaken, Guardian Angels of Vacuos, and eliminate the threat to the World System.
+
+A handful of Guardian Angels that were within the vicinity of the fighting had already woken up and were currently mobilizing to exterminate the vessel of the Fal-Deus.
+
+However, now, across the universe, hundreds of Guardian Angels began to move all at once. They flew through galaxies and out of superclusters, boosted by the commanding blessing of Principality Z1. And together with her, they began to close in on the fighting that was flying across the universe.
+
+—--
+
+I swung down at Kallistus Kal as he raised his blade just in time to block it. I blinked, taken aback by that.
+
+“Oh, good. You can actually block my attacks now,” I said. But there was nobody there. Because the impact from parrying my strike sent him flying into a star. “Not that blocking it means much if you’re not even strong enough to hold your ground.”
+
+I watched as the star erupted into a powerful supernova. The white aura coating my body flickered as the blast washed over me like it was nothing more than a gust of wind.
+
+Kallistus Kal panted as he glared at me from the remnants of the destroyed star. He raised his sword as space began to distort on the tip of his blade.
+
+“I TIRE OF YOUR MOCKERY!” he screamed as the distortion grew larger.
+
+“Also, if you’re wondering how we’re speaking in the vacuum of space, the answer is—” I started.
+
+But the [Hero King] interrupted me.
+
+“DIE!”
+
+He hurled a black hole that was the same size as the destroyed star right at me. I watched as space and time twisted and bent around the sphere of nothingness— the glowing accretion disc that surrounded it shone purple, the only indication that the black hole was even there.
+
+And I sliced the singularity in half as it reached me. Behind me, the black hole evaporated into nothingness.
+
+I scoffed as I looked up towards Kallistus Kal. “Come on, did you think that would be enough to kill me?”
+
+But he wasn’t there. My eyes flickered as I glanced to the side, and he was already flanking me. He let out a guttural cry as he swung at my neck with his sword, glowing with a purple light.
+
+I brought up my rusty blade and casually parried his swing. A shockwave shot out behind me from the impact of his attack. In the far distance, entire solar systems were obliterated from the sheer force of strike.
+
+He slashed down with a follow-up attack which I easily blocked once again. The [Hero King] screamed with an unbridled rage, unleashing a flurry of strikes which didn’t touch me once. However, as he let out this onslaught of attacks, I spotted something moving in the corner of my eye.
+
+My eyes flickered as I looked up, still blocking Kallistus Kal’s attacks. His blade was moving faster and faster with each passing second. But I instinctively parried them as I tracked the object moving across the vast expanse of space towards us.
+
+No— it was not an object. It was a person. A lot of people, in fact.
+
+“We’re starting to attract a lot of onlookers, huh?” I muttered under my breath as I let out a short jab in-between the [Hero King]’s slashes.
+
+He flew back as he yelped in pain, before I crossed my arms. I saw hundreds of winged figures converging around me— all of them varying in their appearance. Many of them looked familiar-ish. Or at least, whatever race or species they were was familiar to me.
+
+Some looked similar to humans, but with an eclectic array of different skin-tones. Others looked like orcs, but with four arms. And even more looked like a kind of animal or insect hybrid mix with a human.
+
+It was a wide variety of physiology.
+
+There were some that even looked like monsters. A sea serpent swam through space with tiny wings on its back, and a giant squid floated its way down from above me.
+
+All in all, there were at least a thousand of these beings surrounding Kallistus Kal and I from all angles. I swept my gaze around to take them in as I raised a brow.
+
+“What are they?” I asked.
+
+And a voice came in response. “Those are…”
+
+Kallistus Kal’s brows snapped together as he eyed the zipping figures surrounding us. Then a pulse shot out from his chest, and the mini-Void he created flickered. He groaned as he grabbed at his chest, the third eye on his forehead violently darting around in every direction.
+
+I frowned when I saw that. His access to the Voidgod’s power was only growing. But that also was starting to give the Voidgod more of a control over him. Still, he fought back as he straightened himself.
+
+“Guardian Angels. They must be here to eliminate me.”
+
+“Well, they can stay out of this,” I said simply as I crossed my arms. “This is between you and me.”
+
+Kallistus Kal paused when he heard that. He peered at me quizzically. “What does that mean…?”
+
+But I didn’t elaborate. Instead, my gaze snapped up to a figure descending from above. I blinked, seeing the way the other Guardian Angels seemed to look deferringly up towards it. And that was not all— I also sensed the power disparity between it and the others.
+
+“That’s their leader?” I asked, seeing the figure raise a sword.
+
+It looked like a machine, unlike the other Angels. In fact, it bore a bit of a resemblance to Guardian Angel Z357. Except, it only had a single red eye, while taking on a more feminine figure.
+
+Kallistus Kal gritted his teeth. “That is a Principality— an Angel that is tasked with overseeing this universe.”
+
+Considering that he hadn’t even known what a universe was not that long ago, I was going to guess he was getting this information from the Voidgod. I shook my head as I looked back at the [Hero King].
+
+“It’s pretty strong. I’m pretty sure it’s even stronger than you are right now. So I suggest you try to avoid it if it attacks. I don’t want it to kill you, you know?”
+
+“What are you talking about?” Kallistus Kal’s brows scrunched up as he looked back my way.
+
+“You heard what I said.” I shrugged back at him. “I don’t want you to die yet.”
+
+“Are you pitying me—” he started.
+
+But then there was a flash of light. All the Angels came to a sudden halt, before raising their hands. Magical white lines shot out of their hands, forming a fractal pattern all around us. The span of this ostensible barrier covered millions of miles at once.
+
+“What are they doing?” the [Hero King] asked as he blinked a few times.
+
+“They’re trying to trap us,” I observed.
+
+The Principality brought its sword down to the glass-like dome. And all at once, it flashed with a brilliant blue light. And as the light faded away, so did the endless expanse of space all around us. Now, all we saw was a blue dome surrounding us from all sides.
+
+“They’re trying to recreate the Void,” I finished.

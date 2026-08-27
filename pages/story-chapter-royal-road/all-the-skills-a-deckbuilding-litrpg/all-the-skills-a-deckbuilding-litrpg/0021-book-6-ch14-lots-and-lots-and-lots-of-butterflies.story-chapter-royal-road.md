@@ -1,0 +1,203 @@
+---
+id: bde87a55-d638-5c0d-a96f-bcae77ec8090
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Ch14: Lots and Lots and Lots of Butterflies"
+slug: 0021-book-6-ch14-lots-and-lots-and-lots-of-butterflies
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 21
+ownLength: 2274
+unit: words
+ownProgress: 2274
+publishedAt: 2025-06-18
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2365227/book-6-ch14-lots-and-lots-and-lots-of-butterflies"
+royalRoadId: "2365227"
+removedAt: "2026-07-03T13:47:41.662Z"
+---
+
+The scourgling butterflies came at them in a slow but unstoppable wave.
+
+Immediately, Brixaby buzzed straight upward. However, not every dragon was built for speed. A Legendary dragon not too far away roared in pain.
+
+Arthur swung around to see him climbing upward, great sweeps of his wings frantically beating at the air. But his size made him horrifically slow.
+
+The first of the butterflies had already reached him, and their wings sliced into his scales.
+
+A great gout of air split off from the rider and knocked a huge portion of them away, blowing the leading wave aside to give the dragon more room.
+
+Brixaby, with his four wings and natural Purple speed, was much faster. But even using his Flying Sprint skill, he wasn't moving nearly as fast as Arthur knew he could. The butterflies had no problems at all and were gaining.
+
+"The pollen!" Brixaby yelled, sounding winded. "It is mixed with the air and makes everything within it heavy!" He let out a roar of frustration, and in the next moment, a dark portal opened right before them.
+
+He and Brixaby spilled inside the dark rower's realm. Immediately, Brixaby closed the portal again, cutting off a scourgling wing.
+
+That had been close.
+
+Brixaby didn't even wait for Arthur to dismount. With flapping wings, he leapt to the rowboat and barked at the rower, "Take me to this place I see in my mind. We must get high above them— as high as a dragon can fly!"
+
+The rower nodded and immediately pushed off from the pier.
+
+Arthur tried to speak but found his voice unusually weak. His breathing was heavy too— now that Brixaby wasn't flying for his life, he was able to notice the little things.
+
+Focusing inward, he realized his moderate healing card was working. It took him several swallows to be able to get anything out.
+
+"That pollen—it's worse than scourge dust. I didn't realize I'd breathed any in."
+
+Brixaby twisted his neck around to look at him. "Are you well?"
+
+Arthur nodded. "Yes, but I don't want to be trapped in the middle of a flock of those."
+
+"Neither do I."
+
+Brixaby looked angry enough to spit. His black claws flexed on the wooden rowboat, and if it were not a metal object, he might have split the wood. "I dislike running from mere Commons."
+
+"Are they Common?" Arthur asked. It had happened so fast, he hadn't been sure. The scourglings had metamorphosized in front of them. Perhaps in doing so, they had increased in rank. Stranger things had happened.
+
+Tellingly, Brixaby did not answer.
+
+Unexpectedly, the rower spoke up. "You could accelerate your personal time and perhaps give yourself the chance to warn the others of the situation." Though Arthur could not see his face from under his heavy hood, it seemed he was looking directly at him.
+
+Arthur felt a chill. Yes. Yes, he could... if he was willing to use the Time card.
+
+"And I could suck the life out of all of them and use their power to end the threat decisively," Brixaby snapped. "No, we still have many options before either of us uses those cards."
+
+That made him feel marginally better. Brix, who feared little, did not want him to use the Time card.
+
+"What of the others?" Arthur asked.
+
+Though Brixaby was brave, he wasn't the most empathetic. He shrugged, the motion rolling Arthur back and forth in his seat.
+
+"They would not be true Legendaries if they allowed mere Commons to end them."
+
+****
+
+The boat ride was thankfully short, and the moment they touched land and were free to move, they shot through the other side of the portal again.
+
+Arthur and Brixaby arrived so high up that the sky was noticeably a deeper blue hue. It was also startlingly cold. The thin air did nothing for his abused lungs, but he could still breathe. Most importantly, no scourglings were in sight.
+
+Under him, he saw the plague of butterflies and the positioning of the other Legendaries. It seemed in the short time they'd been gone, Whitaker had abandoned his hold on the demi-scourge.
+
+It now lay, undulating in what Arthur thought of as triumph, at the base of the eruption cone.
+
+Meanwhile, the eruption continued to spill out grubs, which immediately metamorphosized.
+
+Whitaker and the rest of the Legendaries were busy sheltering within a large bubble shield. As Arthur watched, one pink Legendary that had helped kill the Commons was rescued via portal and placed safely inside.
+
+And, from Arthur's view from up high, it was easy to see that the plague of butterflies was rapidly spreading outward in all directions. It was bad enough when they'd only been slow-moving grubs. Now they had truly lost control of the scourge eruption. He hated to ask, but it had come to this point.
+
+"Brix, your Call of Life..."
+
+The dragon was silent for a long moment. "I can kill a good number of them with it, I believe, but not all." He made an equally weighted pause. "Your time card?"
+
+He had just been thinking how relieved he was that he didn’t have to use the card—it was a mark of how desperate the situation actually was.
+
+Arthur thought. "I could use the extra time but there are so many scourgelings, I don't know what good it would do."
+
+"And it would be more damaging to you," Brixaby said, arguing against himself. "No."
+
+Down below, he could see that the butterflies were starting to escape the boundaries that the lower ranks had tried to put up. Here and there were blooms of color as hive dragons on the perimeter used card powers to put up a good fight and keep them contained. They were hampered by being spread so thin. Eleven hives' worth of dragons. Eleven hives made for a lot of dragons, but the perimeter was huge, and if any of them grouped up together to help with the fight, that left gaps.
+
+That wasn't even going into the trap that the other Legendaries had fallen into. By now, he and Brixaby were the only ones who were outside of the shield. The rest were huddled within, and all of the scourge butterflies near the eruption point seemed dead set on getting at them. They beat at the shield with their razor-sharp wings, very likely draining it of mana by the second. That wasn’t even the worst part. That was the pollen.
+
+Arthur's throat still felt raw from breathing in a small portion of it. The ground below now looked hazy with the accumulation of the pollen. If anybody were caught up within that...
+
+He had to face it. They had failed. Any minute now, scourglings were going to breach the perimeter containment the lower ranks had set up and start flying out to wreak havoc on the rest of the kingdom.
+
+He had no doubt that eventually they'd get a handle on things, but not before devastation had been racked up over a wide area.
+
+They were looking down the throat of, if not a defeat, then something very close to it.
+
+No, he thought in the next moment, firming his resolve. This couldn't be it. They had at least two portal-type Legendaries with them, including Ismael's Marv, who could actually tunnel through time—his card was infamous for it. The fact that he had not done it so far was extremely telling.
+
+Maybe he has the same restrictions as my time card, he thought.
+
+The Legendaries within the shield had huddled up together, and Arthur guessed that they were working on a plan. He needed to work on his own.
+
+Looking down, he tried to see where he and Brixaby could do the most good.
+
+His gaze fell on the demi-scourgling, which still lay at the bottom of the eruption, undulating in place in a rhythmic pattern. That pattern happened to match the strikes he could still feel against his mental shielding. It was working hard to keep anybody without a mental block away.
+
+If he could get rid of it...
+
+Brixaby was staring in disgust at the other Legendaries. "Why are they not firing at the butterflies? They are safely hiding when there are scourglings to kill?”
+
+“The shield might not let card power pass through that way,” Arthur replied distantly, still looking. Though Brixaby had a point. The shield was cast by a Legendary user. Why shouldn’t something like that be possible?
+
+His dragon snorted his derision. “Perhaps they are cowards and will only strike from afar.”
+
+Then an idea—a really stupid idea, but an idea—struck him.
+
+"Brix, do you still have your old furnace?"
+
+"Yes," Brixaby said, surprised. "In my Personal Space, why? I cannot work on a weapon now. Besides, it is too small for me," he added with frustration.
+
+Arthur grinned. "Do you think that you could take us right over that demi-scourge?"
+
+Brixaby brightened, then cast his attention downward. He darted back and forth, eyeing the demi-scourgling below, which, at their height, still looked as small as an actual grub.
+
+He took so long that Arthur wondered if he was hesitating. He did love that furnace, even though he had literally outgrown it. Then Brixaby stopped to hover.
+
+"Here is the place," he said, then tilted his head, considering. "Perhaps I should fill the furnace with metal ingots.”
+
+“The heavier, the better." Arthur leaned to look over his dragon's neck. "I don't think we're right above the demi-scourge, though. We're a little off angle.”
+
+“I am taking the wind into account. You may tell me how to fly when you grow four wings," Brixaby said testily.
+
+"Alright, alright." Almost laughing, Arthur backed away. Clearly, his dragon knew his business.
+
+There was a slight stutter as Brixaby blinked in and out of existence, almost too fast for Arthur to catch. That was followed by a quick dip as Brixaby pulled the furnace out from his mental space and dropped it.
+
+An instant later, a giant metal and stone monstrosity was falling at great speed.
+
+Arthur squinted. The furnace was glowing. "Did you light it?"
+
+"Yes, I thought it would make a lovely surprise."
+
+As it fell, however, a new shimmering portal in the sky opened. And though it was easily a half-mile away, Arthur saw that this one seemed to be encrusted with diamonds. Very fancy… and high-powered.
+
+Lung Bai slithered out of the portal, and the king sat regally on her neck. Clearly, the other Legendary dragons had called her in.
+
+Lung Bai opened her mouth to speak what was no doubt a regal command… then froze in place. She snaked her head upward to look at the falling furnace.
+
+The other Legendaries followed her gaze. Silently, everybody watched it fall, and fall, and fall. After all, Arthur and Brixaby were extremely high up.
+
+In fact, the only one who wasn't aware seemed to be the semi-scourge. Brixaby knew his business. The furnace hit dead on.
+
+Arthur expected the demi-scourge to be crushed, or perhaps struck hard but then badly burnt by molten metal, thanks to Brixaby lighting the thing.
+
+But he had vastly underestimated the force of something that heavy striking an object from that high up. A word drifted in and out of his mind, learned from his time in the Dark Heart Challenge: velocity.
+
+Yes, something that was possibly thousands of pounds, including the ingots, had a huge amount of velocity from falling about as high as a dragon could fly.
+
+It didn't just obliterate the demi-scourgling, it created a blast that rolled outward, ripping apart the emerging scourglings from fissures at the base of the volcano. Then, a large part of that side of the cone crumbled into a giant landslide that buried and crushed more emerging scourglings.
+
+The throat of the eruption was open for a moment, spilling scourglings everywhere, before it too collapsed under its weight, throwing up a huge mass of dust, dead land, and poison scourge pollen.
+
+Arthur and Brixaby looked at each other.
+
+Finally, after a few minutes, the rumbling from the collapsing cone stopped. The dust cloud continued to rise, obscuring everything.
+
+Lung Bai flapped her narrow wings once. Suddenly, all of the dust and pollen fell to earth as if she had grabbed each mote and forcefully pressed it down.
+
+The scourgling volcano was revealed, not completely obliterated, but very close to it. It had been flattened in a series of cascading landslides, and it seemed that many of the fissures around it had been closed, crushed, or simply plugged.
+
+Nothing more emerged.
+
+Thankfully, the other Legendary dragons had been safe within their shield. They looked up at Arthur and Brixaby too, and Arthur wished very much that he could read the expressions on their faces.
+
+Despite the distance between them, Lung Bai's voice slithered into his ear and everybody else's. "We were summoned because we were told this eruption was out of control, but now I see it is well in hand."
+
+One of the Legendaries—all of whom were still hiding in the bubble shield, Arthur noticed—spoke something back to Lung Bai. Though they were so distant, Arthur could not hear exactly what was said.
+
+He only heard Lung Bai’s reply.
+
+“On the contrary, you do have the means to control what remains of this scourge infection.”
+
+Then she tilted her head up to stare very obviously at Arthur.
+
+What did she mean?
+
+Then it hit him. Oh.
+
+Reluctantly, Arthur withdrew his Cataclysmic Firestorm card from his pocket.
+
+Note: YES I'm aware butterflies come from caterpillars not grubs, but they're scourglings. They don't follow the rules. ;)

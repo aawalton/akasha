@@ -1,0 +1,143 @@
+---
+id: 28405d98-18f4-5c56-9e60-2bd516969ac9
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 137"
+slug: 0021-the-level-zero-hero-chapter-137
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 21
+ownLength: 1672
+unit: words
+publishedAt: 2023-06-25
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1257765/the-level-zero-hero-chapter-137"
+royalRoadId: "1257765"
+---
+
+I was lost. I didn’t know where I was anymore. I wandered aimlessly— without any sense of direction. Everything was so alien to me. I didn’t recognize this place. I couldn’t find my way back.
+
+I couldn’t find my way home.
+
+Oh, and I didn’t mean it in a figurative sense. Nor did I mean it in a metaphorical sense. I was, quite literally, lost. As in, I didn’t know where I was right now.
+
+I raised my head as I took in my surroundings. I stood in the middle of a dense forest, surrounded by thickets of towering trees. This was Briar Glenn. It was a vast forest that expanded dozens of miles, hiding many dangerous monsters.
+
+Well… so-called ‘dangerous’ monsters. For an ordinary person living in Vacuos, encountering even a single one of the creatures lurking this region would mean instant death. But as for me? They literally weren’t a threat.
+
+I had come to this world from the Fractured Realm. Which was a bit complicated since the Fractured Realm was technically still a part of this world— just not in the same plane of space. It was… isolated from the rest of Vacuos.
+
+And for good reason. Because it contained the Voidgod and all its twisted creation hidden within. I had been summoned there from Earth, before being forced to fight voidlings and voidbeasts for my survival. Eventually, I grew strong enough to break out and that was how I ended up here.
+
+That was how I ended up in this situation.
+
+The strongest in all of Vacuos, and somehow still lost in some forest.
+
+I sighed as I turned back to face the elf accompanying me. “We’re lost.”
+
+“We’re not lost,” he snorted. “I told you— we’re heading the right way. Just follow me.”
+
+He was Jax the Forsaken Archer. An elf. An SS-ranked adventurer now. When I met him, he was still only an S-ranked adventurer. But then he went away for a few months, before coming back stronger.
+
+And he had sought me out to warn me— to tell me that the [Hero King] Kallistus Kal was coming after me.
+
+I… didn’t really care about that. But I was concerned about those around me who were affected by the [Hero King]’s actions. Especially those in Windrip. Like Guildmaster Evan.
+
+I wasn’t really close with Evan. I would consider him a friendly acquaintance— he had helped me out at times, and I was grateful to him for it. When I learned from Jax that I had endangered Evan’s life because the [Hero King] was after me, I couldn’t just sit around and do nothing.
+
+I had to act. So I left Wolfwater. I abandoned the farming village that I had made my home. I had spent months setting up a restaurant back there— Bucky’s Out of this World Restaurant, also known as Bucky’s.
+
+With the help of Xakor— a world-famous [Chef] and an otherworlder like me— we had managed to turn the restaurant into a success. And we turned it into even more of a success when we… recruited the help of an angel in our staff.
+
+He was called Guardian Angel Z357, but I called him Z. He was helpful at times, and other times, he was honestly quite a pain in the ass to deal with. But he was nothing like the mindless drone of the World System I thought he’d be.
+
+He could think for himself, which was how he caused problems for me. Anyways, I tolerated it because I found him to be quite interesting… and because he was a very good employee. He did his job well while attracting large crowds to my restaurant.
+
+But unfortunately for me, he resigned the night before I left Wolfwater. So I was going to be leaving my restaurant understaffed in the hands of Xakor.
+
+…and while Xakor did have four hands, it was still a lot of work for him on such short notice.
+
+Noele— my apprentice— said she’d help out where she could. But she wasn’t a chef. She could only help out as a waitress. And I felt bad about offloading so much of my work to Xakor, especially after everything he had already done for me.
+
+That was why I wanted to get back to Wolfwater as soon as possible. So I arrived at Windrip, asked around for some information, and quickly found Guildmaster Evan. Then I defeated a couple of annoying soldiers who were escorting him, which should have meant that I could now return home.
+
+Unfortunately, things weren’t so simple. Because—
+
+“Why did I decide to follow the guy who literally took months to find me when I was just chilling in Wolfwater.” I massaged my temples as I stared at Jax.
+
+The Forsaken Archer crossed his arms indignantly, turning back to face me. “It is no easy feat— to track down someone as elusive as you.”
+
+“But I’m literally not elusive,” I sighed. “ I wasn’t even trying to hide from anyone. I even opened a restaurant for anyone to dine in.”
+
+“I am an elf,” he said, shaking his head. “I am well-versed in navigating these kinds of terrain. Just trust me.”
+
+I raised a finger as I stared back at him with a deadpan gaze. “Or maybe I could just carry us back to Windrip. We’d literally arrive back in the city in seconds…”
+
+“And if you did that, would he even survive the trip?” Jax glanced past me, looking towards a weary figure.
+
+I paused. I stared at Guildmaster Evan as he leant against a tree. His silver-gray hair was drenched in sweat, and he had dark circles under his eyes. His body was covered in fading bruises— markings and scars that were freshly healed, but still visible to the eye.
+
+When I had found him, he was in a terrible state. He was barely even conscious— having been tortured by the soldiers of the Kingdom of Kal to learn of my location. But he never told them anything, which I was grateful for.
+
+I gave him a healing potion, and most of his wounds faded away. But even then, the damage he had received from his torture took quite the toll on his body, so a couple of healing potions wasn’t going to be enough for him to fully recover.
+
+Evan panted as he looked back up towards me reassuringly.
+
+“I… am fine…” the Guildermaster mustered up. He tried to push himself off the tree, before stumbling forward. “I can handle it…”
+
+“No—” I sighed. “No you can’t.”
+
+As much as it pained me to admit it, Jax was right. While the Forsaken Archer could handle… my expedited trip back to Windrip, Evan could not. The Guildmaster was in no condition to walk, let alone fly through the air as I carried him in my arms like he was a princess.
+
+“I’m an A-ranked adventurer. I can—” Evan started.
+
+But then a group of ragged figures trailing after us dashed forward to support him.
+
+“Are you alright, Guildmaster?”
+
+“Don’t push yourself!”
+
+“We’ll help you!”
+
+Jax stared at them, before turning to me. He gestured at the group. “And what about them?”
+
+“What about them?” I repeated after him, crossing my arms.
+
+“You can’t carry all of them back to Windrip,” the elf said.
+
+I stared at the ragged figures fussing over Guildmaster Evan, before shaking my head. “Firstly, yes I can. And secondly— I literally don’t care about any of them. I was here for Evan, not them.”
+
+I didn’t even know who they were. Apparently, they were a group of mercenaries hired by the Adventurer’s Guild to rescue Evan. But they weren’t very good at their job because they got their asses kicked and I had to save them from being slaughtered.
+
+Their leader— a tanned man named Giles— stepped forward. “Don’t worry, we can take care of Evan.”
+
+“No,” I said simply. “I don’t know what you guys want from him, so go away.”
+
+“We can’t!” he protested. “The Adventurer’s Guild—”
+
+I glared at him. “I don’t care.”
+
+Giles flinched, and I turned away from him. I swept my gaze past the group, looking at a young woman trailing further behind from us.
+
+“And you—” I pointed at her. “Why are you even following us?”
+
+Eloise the Dark Wizard blinked. Jax, Evan, Giles, and the group of mercenaries turned to face her. She shifted back uncomfortably.
+
+She was a mercenary that had been hired by the Kingdom of Kal to transport Evan out of Windrip. I had given her a chance to surrender, and she did. But since then, she had just been following us like a lost puppy.
+
+“I…” She hesitated.
+
+I shook my head and looked towards Giles and his team. “Are you guys seriously fine with her just following us? Didn’t she try to kill you just half an hour ago?”
+
+“It is just business.” He shrugged back at me. A young woman nodded in agreement next to him as he continued. “We’re mercenaries— we hold no grudges. We understand that it’s all a part of our contracts.”
+
+“Are you guys serious?” I stared at the mercenaries in disbelief.
+
+And Jax cut me off as he clapped his hands together. “Look— if we just stop arguing, we’d already have reached Windrip by now!”
+
+“We’re literally heading the wrong way,” I retorted. “We’re never getting to Windrip if we listen to you.”
+
+“You’re never getting back to Windrip if you keep arguing.” The Forsaken Archer crossed his arms.
+
+I stared at him. I opened my mouth. “I’m just going to—”
+
+But I didn’t even finish. I leapt into the air by myself as Jax watched with wide eyes. Evan, the mercenaries, and Eloise looked on as I  flew up high into the sky, getting a good survey of my surroundings. I narrowed my eyes as I caught sight of Windrip in the distance.
+
+“Fuck,” I cursed under my breath. “Jax was right… we aren’t lost— we are heading the right way.”

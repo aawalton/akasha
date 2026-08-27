@@ -1,0 +1,82 @@
+---
+id: 8af16008-a8e2-5379-88f6-a323937ac03a
+page-type-slug: story-chapter-played
+title: "The Road South"
+slug: 0006-the-road-south
+partOf: dragons-and-dungeons
+position: 6
+ownLength: 2909
+unit: words
+---
+
+The moon over Caer Arianrhod had wheeled a little since I'd left it — the same silver, a newer hour — and Aria was already at her table when I came back, and did not pretend she hadn't been waiting.
+
+"There he is," she said. "Sit — you've earned the chair twice over now." She poured, and the cup was warm in my hands before I'd touched it. "Last night was supposed to be a rehearsal, you know. A little stretch of the legs to see how we played together. Instead you unchained a dragon, refused his debt, took a rib for a girl with scales on her cheek, and made a corpse into a sentence for every chain-maker still breathing." A low, pleased hum. "Session zero, they call that. Cute name for a night like that one."
+
+I told her I felt rested, and she said good, that I'd want to be. Her smile tilted, knowing. "The table's about to grow fuller than you've seen it. I have family. They don't always knock." She let that sit a moment, then nodded toward the dark beyond the candles. "And out there in the field, your friend and his great-granddaughter are stirring in the grey light with a map between them and two roads still unwalked — one into deep ice, one toward a closed eye over water." She settled, elbow on the table, chin on her knuckles, her eyes on me. "But that's the field, and we're not there yet. We're here, just us, one breath before the plunge. So tell me, before I open the door and the cold morning comes in — how does it sit with you, the road waiting?"
+
+"Oh," I said, "I think I'm ready to go down any road you're taking me down."
+
+That earned a real laugh, low and delighted, the kind she said she didn't perform. "Spoken like a man who's read ahead in the book. We'll see how brave that mouth stays when the road bites back." She rose, and the silk and silver of her caught the moonlight one last time. "Hold onto that warmth. You'll want it where we're going."
+
+And she opened the door.
+
+---
+
+The cold came in first. Then the grey.
+
+Dawn at the kin-fire ring was not gentle. The blue-white flame had burned down to a banked, breathing coal-glow at the center of the standing stones, and the world around it had gone the color of old ash and pewter — that hour when the night has left but the sun hasn't committed. Mist pooled low between the carved map-stones, curling cold around my ankles, beading on the throat-cut and the rib-cut that ached now in the way wounds do once the fight's heat has long since drained off. My knuckles had scabbed dark. My breath smoked.
+
+Tygryth was awake — of course he was. He had taken the dusk-skinned man-shape again, seated on a fallen stone with his forearms on his knees, those molten-gold eyes fixed east, where the light would come. He didn't look at me when he spoke, only tipped his chin a fraction. "You slept like a man who'd made up his mind about something." A pause. "Wren didn't sleep at all."
+
+She hadn't. She was crouched at the largest map-stone across the ring, a charcoal stub in her scale-flecked fingers, the great rubbing-cloth spread and weighted at its corners with rocks. She'd been copying in the dark by touch and coal-glow, and now in the thin light I could see what she'd traced: the valley, and the three scattered marks of Tygryth's brood. The one beneath her own feet, done. And the two that weren't — north, where the lines crowded tight, a country of deep ice and deeper silence; and south, over a stretch of water, the mark a single closed eye, lids sealed, as if whatever waited there were sleeping, or did not wish to be seen.
+
+She looked up at me — not at Tygryth, at me — red-eyed and fierce and exhausted, holding the map like it was the only warm thing left. "He won't choose," she said, jerking her chin at her great-grandfather. "Says it's not his to choose. So." She turned the cloth toward me, both roads laid bare. "You're the one who keeps deciding things. North or south, monk. Which of his children do we go and find first?"
+
+I did not want to choose blind. "I know little of the threats we may face in either direction," I said. "Is there reason to hope that success in one would help us face the other? Which seems most perilous?"
+
+Tygryth's gold eyes finally left the east and settled on me, and there was approval in them, the quiet kind. "Three hundred years collared teaches a creature to listen for its own blood," he said, slow, dragging the memory up from somewhere deep and cold. "I can feel them both, the way you'd feel a tooth gone bad without touching it. North is silent because something there sleeps deep, and has chosen to. Ice that thick is not weather — it is a door, pulled shut from the inside. That child went under to hide, and whatever could make one of my get burrow into the dark and stop singing, I do not know if I want to wake it, or if it can be woken kindly." A long breath. "It is the safer road to walk. It may be the harder one to arrive at the end of." He nodded at the southern mark. "South is the danger you can see coming — and that is its own kind of mercy. Water means a crossing, and a crossing means we are slow, and exposed, and cannot simply fly free of trouble." He did not have to add that the chain-makers knew that too.
+
+Wren cut in, tapping the closed-eye sigil hard with her charcoal. "The eye's not sleeping. Look at the lid-lines — they're carved taut, not slack. That's a thing that shut its own eye on purpose and is watching anyway. Someone's kept down there. Maybe willingly, maybe not." Her finger dragged north. "But here — see how the strokes crowd? Whoever carved this stone ran out of certainty going north. The lines get to be guesses. We'd be walking into the part of the map the mapmaker themselves didn't trust." She looked between us and landed the real thing. "South we could reach in days, and a freed kin who's been kept might know who keeps people — might know where the other corners truly lie, ice and all. North we might walk a fortnight to find a sealed door we can't open without the very thing we're trying to find. South first might buy us the north. North first buys us nothing but cold."
+
+Tygryth said nothing more. He had left it where it belonged.
+
+"I would say south first, then," I said. "It sounds as though your kin in that direction is the more likely to be at risk. And who knows — perhaps the one behind the lidded eye is themselves a friend waiting to be unchained."
+
+Something moved across Tygryth's face at that word. He had been the kept thing once; three hundred years of collar had taught him exactly what a sealed lid costs the creature behind it. "A friend waiting to be unchained," he repeated, low, and there was a roughness in it. "You say that like a man who's done it before." He rose off the fallen stone, and for a moment the dusk-skin did not quite hide what was underneath — too tall, too still, gold eyes banked like the fire. "South, then. If one of mine is kept, I will not be the one who chose the cold road and left them another year in the dark." A glance at me, almost wry. "You keep deciding things the way I'd hope to. It's unsettling."
+
+Wren was already moving — no ceremony with her. She lifted the corner-rocks, rolled the rubbing-cloth tight, and bound it across her back like a quiver. The kin-fire she did not put out; she scooped the banked coal-glow into a small lidded iron vessel, and it kept breathing blue in there, low. "It's blood-lit," she said, catching my look. "Hers. My great-great-grandmother's. It doesn't go out till the line does. Carrying it south means the next stone we find, we can wake it." She slung the vessel at her hip. "Pragmatism, monk. Don't make it sentimental." It was a little sentimental.
+
+We went south as the sun finally cleared the valley wall.
+
+The standing stones fell behind us within the hour, and the land tilted down — the high cold country giving way by degrees to something greener and wetter, the air thickening, the mist burning off into a pale gold haze. Tygryth walked point in his man-shape, deliberately grounded, because a dragon on the wing over open country is a banner that announces itself to anyone still hunting the chain that got away. Wren read the land as much as the map, naming things under her breath — a watercourse here, a drover's track there. The pace was steady, the kind that eats leagues without burning you out.
+
+By midday the sound reached us before the sight did: water. Not a stream — something wide. A great slow river-mouth, or the near edge of a lake too big to see across, silver-flat under the haze. The road bent down toward it, toward a place where the bank had been worked by hands: old pilings, a rotted jetty, the bones of a crossing someone had once maintained. And on the far side, almost lost in the haze, the closed-eye country waited.
+
+Tygryth stopped at the tree-line above the water and held up a hand — the plain sign for wait. He had seen something at the crossing that I had not. So I went forward to see what he saw.
+
+I moved the way the temple taught me — weight rolled through the outside of the foot, breath low in the belly, each branch parted before it could whisper. He did not startle at my arrival beside him; he only flicked two fingers down toward the bank. Look.
+
+The worked crossing was not abandoned after all. Someone had made it theirs. Down at the rotted jetty the pilings had been re-braced with fresh timber, and lashed to them, riding low in the silver water, was a broad flat barge, big enough for cargo, poled rather than sailed. Three figures moved on the bank around a banked cookfire: two with the heavy, rolling build of men who carry loads for a living, and a third, thinner, who did not carry — who sat on a crate with a ledger across his knees and watched the others work. A boss. Knee-deep in the shallows, a fourth waded the pilings, checking the lashings.
+
+And then I saw the thing that had made Tygryth stop. Stacked at the head of the jetty, waiting to be loaded, were cages. Low slatted wooden ones. Two stood empty. The third did not — there was a shape inside it, hunched and still, a person-sized darkness under a draped cloth, and looped over the cage's top bar, catching the light dull and grey, was a collar and chain of the exact make I had broken off Tygryth's neck two nights before. The same iron. The same maker's hand.
+
+Tygryth had gone very, very still beside me — the kind of still that has heat under it. "Slavers," he breathed, barely sound at all. "Or worse — suppliers. That collar is theirs." His gold eyes were fixed on the covered cage. "There is someone in that cage. And we cannot take the water without taking the crossing."
+
+The read was clean, and it was mine to make: four of them, only the boss likely armed for real, the two haulers strong but slow, the wader off-balance in the shallows. No sentries posted — they did not expect trouble out here. The covered cage sat perhaps thirty paces down an open bank, with no cover between the tree-line and it. And whatever was beneath that cloth had not moved once.
+
+I had thought on Tygryth's words a long time, and I told him so. "Yesterday, friend, after I ended the last slaver, you asked me about the chain of mercy — which surprised me, given what you have suffered at their hands. I have thought long and hard about it since. While I know these men may be victims in their own way, I cannot find mercy in my heart for the holder of chains. There are some deeds that cannot be excused, which a man should choose even death rather than killing his own soul to save his flesh. These men are already dead. I would put their flesh to rest and free the one they have chained. Let all who hold chains beware." I held his gold eyes. "If this is too bloody for you, say so, and I will attempt it alone if I must. But if you too would see the slavers ended, tell me — how best could this be done? You have seen most of my meager abilities. I expect I have seen only the barest glimpse of yours."
+
+He listened without moving, and when I finished he was quiet for a long breath — long enough that the river filled it. "I asked you that question," he said at last, "because I have watched the killing decide for better men than either of us. It gets a taste for itself. It starts choosing, and tells you afterward that you did." His gold eyes came off the cage and onto me, and there was something in them that had not been there two nights before — not approval. Recognition. "But that is not what this is. You did not flinch your way here and call it mercy. You weighed it, you named the cost, and you chose with your eyes open and your soul intact. That is the whole of what I meant. The chain you take off is the one you decided to take off." The faintest dark curve of a smile. "You have thought longer on my words than I thought a short-lived man would bother to. I am glad I gave you my name."
+
+Then the warmth went out of him like a banked coal raked over, and what was left was the thing that had been collared for three hundred years. "Too bloody for me," he echoed, almost amused. "Friend. I have wanted to do this for three centuries. I only needed someone whose reasons I could stand beside."
+
+He shifted his weight, and the man-shape stopped being a disguise and started being a coiled spring. "You have seen me burn and you have seen me fly. Those are the loud things. Here is a quiet one." He lifted one hand, palm down, toward the bank below — and I felt it before I understood it: the river-sound, the birdcall, the clink of the wader's lashings, all of it thinned and drew back, like the world inhaling. "Three hundred years they kept me from roaring. I learned to take the sound out of a place instead. Step into the hush and no cry leaves it. No alarm. No scream to carry across the water to whoever waits on the far shore." His own voice stayed somehow audible inside the deadening — a dragon's privilege. "It costs me to hold. So once it falls, we are fast, or not at all."
+
+The plan came together between us in clipped, low words. The hush would drop over the whole bank on his mark, and from that instant nothing the slavers did would make a sound that traveled. The boss was the mind and the only real blade — he went first, or he rallied the rest. The wader was off his feet in the shallows, the least urgent; the river would hold him for us. The two haulers were strong and slow, and in the hush they could not call to one another. And the covered cage was sacred ground. "I will not breathe fire near it," Tygryth murmured. "Whoever is under that cloth has had enough of dragons doing things to them in cages. The cage is yours to reach. The slavers are ours to end."
+
+I gave the shape of it back to him plainly. "Excellent. I suggest we repeat our success of last night. I will guard the cage against any who would do the chained one harm. Wren — I trust you to find a way to open it, by guile or by force. Evaluate, and tell us what you need, but stay behind me and stay safe. Tygryth, the men are yours if you wish them. I have heard dragons live mostly on magic, but I would not begrudge you a meal."
+
+The smile that crossed the man-shape was not a man's at all. "A meal," he said. "You have no idea what you've offered."
+
+He looked at me then, coiled, gold eyes lit, the hush trembling at the edge of his held hand, waiting only for me to spend it. "It falls the moment you move. So — when you are ready, monk."

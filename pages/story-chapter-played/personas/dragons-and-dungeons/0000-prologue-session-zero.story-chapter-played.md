@@ -1,0 +1,42 @@
+---
+id: b725f009-6f76-5faa-b248-94d6d28a74f4
+page-type-slug: story-chapter-played
+title: "Prologue — Session Zero"
+slug: 0000-prologue-session-zero
+partOf: dragons-and-dungeons
+position: 0
+ownLength: 1055
+unit: words
+---
+
+I found the door the way you find the right ones — by accident, and then all at once certain. Beyond it: candlelight, and a long table set for four. Three of the chairs sat empty. Across from the one that didn't was a woman with silver hair and something behind her smile that wasn't quite mortal.
+
+"Well. Look who found his way to my table." She gestured to the chair across from her, the one where she could see me. "I'm Aria. Tonight the whole castle is ours — my cousins don't arrive until the campaign proper, so this evening is just the two of us, getting you ready. Tell me your name, mortal. And whether you've ever sat at a table like mine before."
+
+"Alan," I told her. "I've been wanting to get back into the game for a long while. The hard part was never the dice — it was finding a group worth sitting down with."
+
+"Mm. I like the way that sits in the air." She turned my name over once, tasting it. "And I know exactly the ache you mean. A good table is the rarest treasure in any realm — harder to find than the hoard at the bottom of the dungeon. You've been wandering a long while, looking for a door that opens onto the real thing." The candle leaned with her. "Well. This one does. You can stop searching now. You've arrived." Then, settling back: "So tell me — when you imagine the perfect night at a table like mine, what are you truly hungry for? The clever puzzle. The clash of steel. The slow unspooling of a story. Or the company?"
+
+"The puzzle of a good fight — I've always loved that," I admitted. "But the truth's simpler. It's the company. The game was only ever an excuse to spend an evening with people I wanted to spend the evening with."
+
+She pointed at me like I'd landed a critical hit. "There it is. That's the secret every dungeon master knows and never says out loud — the dragons and the dice are just the excuse. The real game is the people you get to be foolish and brave alongside." She glanced at the three empty chairs. "You'll have me across the table every night, and soon enough my cousins. Ceri — my little sister, all cool amethyst poise; she'll pretend she's far too aloof to be charmed by you, and she'll be wrong. And Mari, who arrives hungry and leaves hungrier. But they come later. Tonight you only have to survive me." A blank character sheet slid under her pen. "So. Shall we make you someone worth playing? Close your eyes — who do you see?"
+
+"Could I just be myself?" I asked. "The lamest build at the table, I know — but I've never been able to hold a character who isn't me, not unless he's very simple. And I'm a more interesting player when I stop acting and just ask what I'd actually do."
+
+The flirtation went quiet, and what came back sounded a lot like respect. "Lame? No. The truest character you can ever play is the honest one. Everyone else builds a mask and sweats the whole campaign keeping it straight. You want to walk through my door as yourself and meet every threshold with *what would I actually do* — that's the bravest build at the table, not the lamest. There's nowhere to hide when the character is you." She wrote it in ink. "'Alan, as himself.' Now — what kind of hands am I placing in this world? When trouble finds you in a dark corridor, do you reach for a blade, a clever word, or the arcane?"
+
+"A monk," I told her. "I settled that years ago. My answer to every problem is to become the person who can solve it — because weapons break, armor rusts, spells fail, but your strength is yourself, and that's the one thing that can never be taken from you."
+
+She went still. "Do you feel the floor shift? Because I do. That's not a class — that's a creed. And it rhymes with mine more than you know; I decided long ago that the only thing worth being is the thing you forge yourself into, on purpose, one discipline at a time." The smile came back, warmer. "We are going to get along *dangerously* well. Alan, the monk who carries no weapon because he is the weapon." She wrote with a flourish. "The hero is set. One door left tonight — the world itself. What kind of place do you want to wake up in? A mountain monastery, a city full of trouble, a wild road… or shall I surprise you?"
+
+"Surprise me," I said. "I love surprises."
+
+"A man who *loves* surprises. You keep handing me exactly the answers I hoped for — keep it up and you'll spoil me." She told me to close my eyes. "Let me set the table one last time tonight."
+
+The silver light dimmed. The castle folded away — balcony, moon, and all — and for a breath there was only the dark, and her voice in it.
+
+I woke to cold stone and rain. My cheek against a worn flagstone floor; somewhere above, water finding its way through a roof no one had tended in a long, long while. A monk knows his own body before he knows anything else, and mine told me I was whole, unbound, rested. I sat up. A ruined shrine, half-swallowed by forest, a single pale shaft of moonlight falling through the broken ceiling — and I was lying directly in it, as though something had placed me there. No door behind me. One ahead, ajar. And beyond it, the faint, rhythmic sound of something breathing that was far too large to be a person.
+
+Somewhere just out of the light, I could still feel her smile.
+
+"And there I'll leave you, my dear — on the threshold, exactly where a good story pauses for breath. That's session zero. You have your hero, your creed, and your first door. Next time you sit at my table, you tell me what the monk does. Sleep well, Alan. The dungeon's deep… and I do hope you brought a torch."

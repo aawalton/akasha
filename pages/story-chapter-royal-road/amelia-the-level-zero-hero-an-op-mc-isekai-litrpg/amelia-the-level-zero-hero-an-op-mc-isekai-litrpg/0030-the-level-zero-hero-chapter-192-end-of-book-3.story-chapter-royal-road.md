@@ -1,0 +1,51 @@
+---
+id: d7a27e2e-31ea-5efb-bf84-7d62e083597c
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 192 (End of Book 3)"
+slug: 0030-the-level-zero-hero-chapter-192-end-of-book-3
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 30
+ownLength: 709
+unit: words
+publishedAt: 2023-11-09
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1403170/the-level-zero-hero-chapter-192-end-of-book-3"
+royalRoadId: "1403170"
+---
+
+It had been a month now since Guardian Angel Z357 had perished to the [Hero King]’s trap. And during this month, Kallistus Kal finally had full autonomy to delve deeper into the power of the Void.
+
+In the past, he had barely been able to hear the echoes of a voice— he might have had a stronger sense of the full extent of the Void than the other members of the Sect of the Abyssal Thorns, including even the Archmage King. But ever since his brief encounter with the Fal-Deus in Mount Arkais and Windrip, his understanding of it had grown immensely.
+
+While the [Hero King] did not communicate with the Fal-Deus, he had been gifted with a greater grasp of the power he had been blessed with. Now, he could summon an army of voidlings that could number in the tens of thousands, and he could create dozens of clones of himself— each one nearly as capable and powerful as himself in combat.
+
+Such an ability was unheard of before in the current era of Vacuos. Perhaps in the times of old, when the Elder Dragons still ruled the world, the presence of nigh-perfect clones was possible, but it would still have been a rarity. As such, Kallistus Kal had sent off only a single clone out into the world to handle his matters for him.
+
+And that allowed him to handle matters that were truly important to the [Hero King]. He sat there in silence, beneath his Capital City, studying a rift into the Void. It was something he could now create, although it took quite some effort. It was a powerful tool— it allowed him to further expand his understanding of the desires of the Fal-Deus, letting him grow immensely stronger with each passing day. Not only that, it was also how he had trapped and defeated Guardian Angel Z357.
+
+Because the creatures that were lurking in the Void were far too powerful for even him to overcome. Certainly, he sent clones into the depths of the darkness. However, they were never able to venture too far in, because they were always slain by the terrible beasts lurking within.
+
+It was such a hellish place. Kallistus Kal’s gaze bore into the darkness, and he beheld its death and destruction. But that was not all he saw. In the Void, he saw a glimmer of hope.
+
+Hope that he had never seen before.
+
+Ever since he was summoned to this world, the [Hero King] had been fighting for one reason only— to go back to his home. And yet, even as he dutifully did as he was told, he was never shown any possible route to return.
+
+Even the Fal-Deus which had spoken to him— which had given him visions and made him promises— didn’t offer any semblance of hope. Kallistus Kal had been desperately fighting for what he believed to be a hopeless endeavor. After all, just because he was told he could see his family again, didn’t actually mean it was possible.
+
+But now, seeing how he could tear these holes into space on his own into the Void, he could foresee a future where he would have enough strength to create a rift that was strong enough to return to his own world.
+
+Was it even something that actually could be done? Kallistus Kal didn’t know. But he hoped that it was possible. For the sake of his sanity, he hoped he could see his family once again. Because if it were truly impossible… if he could not go back to his world…
+
+Kallistus Kal would ensure that all of Vacuos shall suffer— he shall ensure that this world is destroyed— for taking him from his own.
+
+End of Book 3
+
+Author's Notes:
+
+Short epilogue chapter.
+
+Well, Book 3 took longer to complete than expected. But I think this is a pretty good ending point for the book, especially with everything I want to cover for the next major arc.
+
+Hopefully you guys enjoyed this book, and as always, I'll try to improve with my next book as well!
+
+PS: RoyalRoad won't be updating for a few weeks, so now is the best time to subscribe to my Patreon as it is still updating!

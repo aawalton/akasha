@@ -1,0 +1,214 @@
+---
+id: 41bc9515-b900-5881-98cb-a281b929d876
+page-type-slug: story-chapter-played
+title: "Floor 8 Has an Opinion"
+slug: 0004-floor-8-has-an-opinion
+partOf: tower-and-the-star
+position: 4
+ownLength: 3595
+unit: words
+---
+
+# Chapter 4: Floor 8 Has an Opinion
+
+The water was wrong.
+
+Dayo knew this the way she knew a defender had overcommitted — not through analysis, not through the overlay Solenne ran across her vision, but through the floor under her boots and the air against her face and the particular quality of stillness that meant a space was holding something it hadn't been holding last time someone checked.
+
+Floor 8 opened into limestone. High ceilings, pale formations hanging in the bioluminescent dark, the faint mineral smell of stone that had been wet for a long time. The entry corridor was dry. The first junction was dry. The second junction had a film of water on the floor, thin enough to look like condensation, and Dayo felt the change in her footing before she saw it — the slight give, the way the stone stopped gripping her boots and started suggesting she pay attention.
+
+She was paying attention.
+
+Tomás was thirty meters ahead, a shadow against the pale formations, already feeding the scout report through the party channel. His voice came through flat and clean the way it always did when he was giving her terrain data: no performance, no interpretation, just what was there.
+
+"Corridor splits in forty meters. Left branch matches the Compact route. Right branch is unmapped — new formation, post-survey." A pause. Not hesitation. Organization. "The left branch is flooded. Surface water starts at the split and deepens. I'm reading thirty meters of submerged corridor before it opens into the first chamber."
+
+Dayo looked at the map overlay Solenne was feeding through Harmony Conductor. The Compact's route — the one their scout data was built on, three weeks old, from a team that had cleared this floor and logged it for climbers behind them — showed dry corridors with shallow pools. Manageable. Routine.
+
+The overlay did not match the floor.
+
+Thirty percent of the planned route was underwater. Not shallow-pool underwater. Corridor-flooded, ceiling-close, swim-or-don't underwater.
+
+"Eagle Eye range on the submerged section?" Solenne's voice on the party channel. Controlled. Already calculating.
+
+"Twenty meters surface. Eight submerged, maybe less." Tomás delivered this without apology. "Aquatic limitation. The water diffuses the skill's targeting — I can read structure but not movement below the surface past eight meters. Ambush detection doesn't function for submerged hostiles outside that range."
+
+Eight meters. Dayo turned the number over the way she turned field positions: eight meters of visibility in thirty meters of flooded corridor meant twenty-two meters of blind swimming. She ran the party through it in her head, body by body, the way she'd run a defensive formation — who could handle it, who couldn't, where the gaps were.
+
+Herself: yes. She could swim thirty meters in composite plate. The armor was heavy but Vesper had distributed the weight for mobility, and Dayo had been a strong swimmer since the YMCA pool on 47th Street, since her mother had insisted all three Okonkwo girls learn to swim properly because Lake Michigan was right there and drowning was not an acceptable life outcome.
+
+Tomás: already had an alternative. She could hear it in the quality of his pause — not the empty pause of someone without information but the held pause of someone who had the next thing ready and was giving her space to reach for it first.
+
+Nadia: she would make a joke about it and then do it. Nadia could swim. Nadia could do most physical things with more competence than her frame suggested, because the Jester's AGI was real and because Nadia had spent nineteen years being underestimated by spaces and responding by moving through them anyway.
+
+Vesper: uncertain. Not her strength. She carried the Workframe and the material cache and the weight of being the party's supply chain, and none of that was built for water.
+
+Miriam: probably. Miriam could do most things that needed doing. She would not like it and she would do it and she would not mention not liking it.
+
+Solenne: she would not like it. The staff, the chalk notations, the notebook — Solenne's entire operating system was built for dry conditions and careful positioning. She could swim. She would hate every second of it with the specific resentment of someone whose tools were being rendered useless by the environment.
+
+Dayo was already moving.
+
+Not charging. Moving. There was a difference. Charging was Iron Stance energy applied to forward motion, all commitment, no retrieval. Moving was what she did when the route was in front of her and the only way to know if the route worked was to put a body on it and see what the body reported back.
+
+She stepped into the flooded section at the corridor split. The water was cold — not Tower-cold, not supernatural cold, just the honest cold of underground water that had never seen sunlight. It hit her boots, then her shins. She moved forward. Knee-deep. The limestone floor was smooth under the water, slightly silted, and she could feel the grade dropping ahead of her, the corridor descending into deeper water at a slope she was mapping with her feet the way she'd mapped a pitch by running it.
+
+Five meters in. The water was at her thighs.
+
+"Dayo, hold."
+
+Solenne's voice. On the party channel. And the tone — not the analytical register, not the planning register. The one underneath those. The one that meant Solenne had seen something in the data or felt something through the Resonance Map or simply calculated a probability that had changed the math, and the math was not good, and she was about to provide information Dayo would not enjoy.
+
+Dayo stopped.
+
+She could have pretended she didn't hear it. Five meters of flooded corridor, thigh-deep, the party behind her at the dry split. She could have taken two more steps and been committed enough that turning back would cost more than pushing forward. She knew this. She had done this math in the half-second between hearing the word and stopping her legs.
+
+She did not pretend. She stopped. She turned.
+
+The five seconds cost her.
+
+---
+
+The hook came from below and to the left, through water she couldn't see through and from a direction she hadn't been facing. It caught the outside of her left forearm where the bracer met the elbow guard, punched through the gap in the composite with a sound like a staple gun hitting wood, and pulled.
+
+Dayo went sideways. Not down — the thing that had her was not trying to drown her, it was trying to move her, to drag her into the deeper water where the corridor dropped away, and the pull was strong and fast and wrong in a way that made her inner ear revolt because she was being moved by something she could not see in a medium she could not control.
+
+A second hook hit her shoulder. Same side. The Sillfin Hunter was below her, in the water, and it was using the hooked forelimbs the way a grappler used underhooks — to establish control before the fight started, to take her off her base, to make her something it could manage.
+
+The pain arrived late. Pain always arrived late when the adrenaline was running — she'd learned that on the soccer field when a cleat caught her shin and she played three more seconds before the nerves reported in. One fifty-eight HP. She felt the number drop in the Combat Perception's peripheral awareness, the spatial map of her own body registering damage the way it registered the positions of her teammates: as a fact, immediate and numerical and not up for debate.
+
+Four twenty-seven to two sixty-nine. Sixty-three percent.
+
+She did not have time to think about the number. The Hunter was pulling. She was knee-deep and losing her footing on the silted limestone and if she went under, if the thing got her into the deep section where she couldn't plant —
+
+Dayo grabbed the hook.
+
+Not the arm it was attached to. The hook itself, the curved bone-structure that had punched through her bracer gap and was buried in the meat of her forearm. She grabbed it with her right hand, the gauntlet's striking surface closing around it, and she pulled back.
+
+Shield Rush was not designed for this. Shield Rush was a forward charge, a line of force, eight meters of committed momentum. She used it anyway. She reversed the direction — planted her back foot in the silted floor and activated the skill backward, toward the dry corridor, and the force multiplication ripped the Hunter halfway out of the water on the end of its own hook.
+
+It was ugly. Gray-green, elongated, a body built for ambush — wide flat head, four hooked forelimbs folded against a streamlined torso, a float-bladder visible along its dorsal ridge that pulsed with the effort of being suddenly airborne. It was the size of a large dog and it moved like a thing that had never expected to be on the losing end of a grapple.
+
+It hit the corridor floor in a spray of water and limestone silt and Dayo's blood, and then the party was on it.
+
+Miriam's Thorned Ground erupted at the water's edge — the ground splitting into sharp root-formations that caught the Hunter's lower body and held it. The roots bit into the limestone and into the creature's underbelly simultaneously, and the Hunter shrieked, a high wet sound that echoed off the cave walls and came back wrong.
+
+From above — Tomás had found the formation, had been on the formation before the fight started, because Tomás was always on the formation — two arrows hit the float-bladder in quick succession. The bladder ruptured. The Hunter's shriek became a gurgle. Its body lost the rigid streamlining and went slack and heavy.
+
+Dayo put her gauntlet through its skull.
+
+The sound was not pleasant. The silence after was.
+
+---
+
+Nobody spoke for eight seconds.
+
+Dayo stood in the shallows, water to her knees, forearm and shoulder bleeding from four deep hook-lacerations that she could feel now, properly, the adrenaline fading and the nerves doing their full report. Her left arm was not functional in the way she needed it to be functional. The hooks had gone deep. The bracer gap was a design problem she was going to talk to Vesper about later, calmly, with specifics.
+
+The party channel was open. She could hear everyone breathing.
+
+Then Solenne's voice: "Your HP is at sixty-three percent."
+
+Flat. Informational. The register Solenne used when she was providing data to keep from providing the thing underneath the data. Dayo knew this voice. She knew what it meant. It meant Solenne had been scared — not in the general way, not the background radiation of Tower-fear that everyone carried — but specifically, acutely, in the way that happened when someone you were responsible for moved before your plan and the plan would have caught this and the five seconds between "hold" and the hook were five seconds Solenne was going to replay in her head tonight and probably tomorrow and possibly for longer than that.
+
+Dayo could not handle this. Not the information — the recursion. Someone was scared for her. She could not be scared on behalf of someone being scared for her, because that went nowhere useful, it just folded back on itself until you were standing in thigh-deep water thinking about feelings instead of acting.
+
+She didn't have a better approach. She knew she didn't have a better approach. This was the problem.
+
+"Copy," Dayo said.
+
+---
+
+Tomás had the dry alternative before the silence finished.
+
+He dropped from the limestone formation — quiet, contained, the landing absorbed in his legs the way a cat absorbs a drop, no wasted energy — and presented the route to Dayo and Solenne simultaneously. The map overlay updated through Harmony Conductor: a longer path, winding through the upper cave system, above the waterline. Dry footing. Clear sight lines. More distance, which meant more time, which meant more encounters, which meant Floor 8 was going to take longer than planned.
+
+But dry. And visible. And mapped, because Tomás had mapped it while the fight was still happening, because that was what Tomás did — he read terrain with one hand and covered the party with the other and he gave you the answer in the format you needed it, spatial and direct and already decided.
+
+Dayo adopted the route without argument.
+
+The argument was not worth having. She was at sixty-three percent with four holes in her arm and she had moved before the plan and the plan had been forming and if she had waited — she would not have been in the water when the Hunter's territory extended into the corridor. Tomás's Eagle Eye had been sweeping from the entry point. Another ten seconds and he would have had the Hunter's position. Another ten seconds and Solenne would have had targeting data. Another ten seconds and Dayo would have known there was a thing in the water that wanted to pull her under, and she would have dealt with it from dry ground, on her terms, with the full party ready.
+
+She had not waited. She had moved, because the route was there and the route was wrong and the only way she knew to confirm the route was wrong was to check it, with her body, the way she had always checked things — by being in motion, by being the first one on the field, by making the problem physical so she didn't have to make it anything else.
+
+She had been wrong. Not catastrophically. Not in a way that cost someone else. But wrong in the specific way she tracked: an error, noted, filed. It happened. It cost something. It would not happen the same way again.
+
+She scratched a mark into the inside of her left bracer with her right thumbnail. Floor 8. The mark joined the others in a neat row. It was harder to scratch with her off-hand. She did it anyway.
+
+Nadia appeared beside her. "I've done worse."
+
+Dayo looked at her.
+
+"I once swam in Lake Michigan in March." Nadia delivered this with the particular timing that meant the bit was mostly finished and she was watching for the landing. "This is wetter but at least nothing in Lake Michigan was specifically trying to eat me." She paused. "That I know of."
+
+Dayo laughed. Not the big involuntary sound — a shorter one, surprised out of her, half-formed and rough at the edges because her arm hurt and the laugh jostled something in the shoulder lacerations. But real.
+
+"March?" Dayo said.
+
+"A dare. I was seventeen. The water was thirty-eight degrees and I have never been the same." Nadia looked at the flooded corridor behind them, the water still settling from the fight. "Also my friend Carla told me there was a catfish in Lake Michigan the size of a Honda Civic and I think about that at least once a week."
+
+---
+
+The dry route opened into a narrow passage that climbed through the upper limestone. Tomás moved ahead in the particular quality of silence that was his working mode — each step placed, each formation checked, the Eagle Eye sweeping the space ahead with the focused discipline of someone who had watched a party member bleed twenty minutes ago and was not going to let the next room be a surprise.
+
+The first rest alcove was thirty meters up the dry path — a natural shelf in the limestone, wide enough for six, with a shallow overhang and the faint bioluminescence of Cavelight Moths drifting in the upper formations. The moths were soft blue-white, reactive to movement, and they pulsed brighter as the party entered the space — not aggressively, more like a room noticing someone had arrived. The light they cast was cool and steady and made the limestone look like something carved rather than grown.
+
+Dayo sat.
+
+She sat on the limestone shelf with her back against the wall and her legs out in front of her and she did not move. This was the hard part. Not the fight. Not the hooks, not the blood, not the hundred-and-fifty-eight HP she was down. The sitting. The letting someone come to her and work on the damage while she held still and did not redirect and did not say she was fine.
+
+Vesper was there first. She produced a healing potion and an antidote from her belt with the quiet efficiency of someone who had already decided what the post-fight protocol was before the fight started. The potion was placed in Dayo's right hand without ceremony. The antidote was set on the shelf beside her.
+
+"Sillfin toxin is mild," Vesper said. "Better addressed early."
+
+"Yeah," Dayo said. She drank the potion. She felt the HP climb — 150 points flowing back in, the specific warmth of System-mediated healing that was different from Miriam's warmth but effective in the same mechanical direction. The antidote went down next, sharp and bitter, and whatever precautionary effect it was having registered as a faint cooling in the lacerations.
+
+Then Miriam.
+
+Miriam did not hurry. She crossed the alcove to Dayo with the unhurried inevitability of someone who had assessed the situation from across the room and allocated her resources and determined that this was where she needed to be, now, with these hands, on these wounds. She knelt beside Dayo. She did not ask if Dayo was okay. She placed her hands on Dayo's forearm.
+
+Four lacerations. Dayo could feel them individually now — the two on the forearm where the hooks had punched through, the two on the shoulder where the second strike had landed. They were deep and clean and ugly, the kind of wound that came from something that was designed to catch and hold.
+
+Mending Touch activated. Level 9, and the Warmhearted Aspect underneath it — the thing Miriam carried that made her healing run hotter than the formula said it should, because the formula didn't account for whatever it was that happened when Miriam genuinely cared about the tissue she was mending. One hundred and forty-two HP flowed back. The lacerations began to close, not instantly but with the measured pace of tissue that was being asked, politely and firmly, to remember what it was supposed to look like.
+
+Dayo sat still for it. She watched Miriam's hands move from wound to wound — forearm first, then shoulder, each one getting a moment of focused attention that was not just healing but reading. Miriam's eyes had the quality they always had when she was working: full. Present. More there than she was in most other contexts. Dayo noticed this without having a word for it. Miriam in healing mode was a version of Miriam that had no gap between what she was doing and who she was, and Dayo could see it the way she could see an open lane on a pitch — clearly, spatially, without needing to name it to use it.
+
+"Empathic Sense pick up anything interesting from the hooks?" Dayo said.
+
+Miriam did not look up. Her hands moved to the second shoulder laceration. "They showed that being hooked by something that ambushes from below water is extremely unpleasant."
+
+"Yeah," Dayo said. "That tracks."
+
+Miriam's mouth twitched. The healing continued. The Cavelight Moths pulsed their soft blue-white above them and the limestone alcove held six people in various states of quiet and the air smelled like mineral water and something faintly metallic underneath.
+
+Dayo sat still. She let the warmth work. She did not say she was fine.
+
+This was as close as she came.
+
+---
+
+The dry route wound upward through the upper caves for another two hundred meters before Tomás stopped.
+
+He was forty meters ahead of the main group, at the edge of a formation where the corridor opened into something wider. He had been still for six seconds — not his scanning stillness, not his reading stillness. A different one. The one that meant Eagle Eye had found something he was evaluating before he reported it.
+
+"Tomás." Solenne, on the party channel.
+
+"There is a chamber ahead." His voice was careful. Not uncertain — organized around a piece of information he wanted to deliver precisely. "Sixty meters, opening off the dry route. Larger than what I've been mapping. More light than the ambient bioluminescence would explain."
+
+He paused. The pause was deliberate.
+
+"And a sound. Not monster noise. Not cave noise."
+
+Dayo felt her weight shift forward. Her body reading the information before her mind finished processing it. The Combat Perception pulsed in its quiet peripheral way, registering the positions of everyone in the party — Solenne twelve meters behind her, Miriam and Vesper together at fifteen, Nadia on the left at ten, Tomás ahead at forty.
+
+"What kind of sound?" Dayo said.
+
+Tomás took a moment. When he spoke, the word was chosen.
+
+"Organized."
+
+The Cavelight Moths in the upper formations pulsed once, bright, as if something in the cave system ahead of them had shifted, and the light they cast threw long shadows down the dry corridor, and the shadows moved in a way that looked, for one brief second, deliberate.
+
+Dayo's hand went to her bracer. She did not scratch a new mark. Not yet.
+
+But her fingers found the row of old ones, and she held them there, and she waited.

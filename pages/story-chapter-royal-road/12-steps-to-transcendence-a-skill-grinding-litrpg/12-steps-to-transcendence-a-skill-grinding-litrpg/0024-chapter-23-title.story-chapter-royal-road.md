@@ -1,0 +1,237 @@
+---
+id: 599c7cbc-ee5d-550d-b9e8-b0b976587ab5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23: Title"
+slug: 0024-chapter-23-title
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 24
+ownLength: 1973
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3765624/chapter-23-title"
+royalRoadId: "3765624"
+---
+
+While washing himself, he finally looked through the notifications he'd gotten.
+
+[Mana Sonar Lvl 1 > Lvl 2]
+
+[Tier 1 Wolf slain. Essence gained.]
+
+[Tier 1 Wolf slain. Essence gained.]
+
+[Tier 1 Wolf slain. Essence gained.]
+
+[Tier 1 Horned Wolf slain. Essence gained. Title usurped.]
+
+Staring blankly at the notification, Ben just paused, wiping the blood off his chest.
+
+Title usurped?
+
+He honestly had no idea what that even meant.
+
+What the hell is a title? Duncan and Hannah never told me about this.
+
+Then again, knowing them… they only ever told him what was absolutely necessary. So he might not know everything there was to know about the system.
+
+Goddammit.
+
+He hadn't seen a single mention of titles anywhere in his system before this. And the system obviously wasn't going to offer a helpful, unprompted tutorial.
+
+Flicking the remaining water off his hands, he mentally pulled up his status screen.
+
+Name: Benjamin
+
+Title: [Hunter]
+
+Tier: 1
+
+Skills (6/10):
+
+Focus - Lvl 8
+
+Physical Conditioning - Lvl 8
+
+Mana Sonar - Lvl 2
+
+Fire Burst - Lvl 10
+
+Mana Reinforcement - Lvl 6
+
+Unarmed Combat - Lvl 7
+
+Spotting the brand new section right under his name, he immediately zeroed in on it.
+
+He honestly expected the system to just give him absolute silence like it did with his skills. But surprisingly, the system actually responded to his inquiry.
+
+A block of text materialized directly in his line of sight.
+
+Titles:
+
+Oh.
+
+It was just a new window where all his titles would be listed, it seemed.
+
+What else did he expect? A description? Still, the title didn't have a level attached to it like his skills did. It was just a passive, permanent enhancement to his senses, or at least that's what it seemed like to him from the vague idea the system put into his brain about the Title.
+
+And more importantly, he had apparently stolen it directly from the horned wolf.
+
+Usurped, huh.
+
+That specific wording implied he hadn't just earned it by meeting some hidden criteria. He had literally ripped it from the monster's dead hands.
+
+Or paws, in this case.
+
+Still, [Hunter] will pair well with [Mana Sonar].
+
+Pulling his ruined shirt back over his head, he grimaced at the sticky sensation of drying blood. He was completely filthy, and his fresh scratches were throbbing with a dull ache.
+
+I seriously need to find that healer goblin.
+
+Deciding to test his brand new combination, Ben channeled a small bit of mana and activated [Mana Sonar]. He sent a pulse of mana rippling out into the surrounding forest.
+
+He didn't have to wait long.
+
+Walking just a few steps past the treeline, a faint ping bounced back into his mind. It was a vague sense of presence, indicating something was alive near the roots of a large tree. Closing the distance quietly, he peered through the bushes to establish a line of sight.
+
+He spotted a small, fat rabbit happily chewing on some weeds.
+
+Locking his eyes onto the animal, he felt as a sensation instantly pulsed behind his neck.
+
+Unworthy, huh.
+
+The skill and the title were working together flawlessly. [Mana Sonar] found the targets, and [Hunter] told him if they were a complete waste of time.
+
+'This is going to make tracking so much easier.'
+
+Pushing mana into his legs, Ben launched himself deeper into the woods with a [Fire Burst]. He skipped effortlessly across the exposed tree roots, covering ground at a rapid pace. He kept sending out mana pulses, letting his sonar do all the heavy lifting.
+
+Over the next twenty minutes, [Mana Sonar] pinged a dozen different presences.
+
+Getting close enough to lay eyes on them, Ben watched the [Hunter] title dismiss birds, squirrels, and a normal deer as completely unworthy. He didn't bother slowing down for any of them, as even the essence they provided would probably be negligible.
+
+Then, the sonar pinged three distinct presences just ahead. Approaching them, Ben dropped into a crouch. He looked through the dense foliage, laying his eyes on the source of the pings.
+
+There they were, gathered around a small boar, three green skinned goblins were tearing at the raw meat. Two of them were just the standard, ugly runts he was used to killing. But the third one was slightly different.
+
+Wearing a necklace made of small, yellowed bones, the third goblin was sitting slightly apart from the other two. It held a crude, wooden staff in one hand.
+
+The absolute second he looked at them, a sharp shiver ran down his spine. It carried a distinct edge of anticipation.
+
+Worthy.
+
+The title had confirmed it. And looking at the staff, Ben felt a surge of hope.
+
+Please tell me you're a healer.
+
+He really didn't want to keep wandering around this forest bleeding all over himself. Gripping his dagger tightly, Ben meticulously planned his approach. The element of surprise was his best weapon, and he wasn't going to waste it like he did with the wolves.
+
+Targeting the two standard goblins first, he slowly channeled a massive amount of mana directly into his feet. He waited until the staff wielding goblin looked away to inspect a piece of bone. And he detonated the compressed mana.
+
+Shooting out of the bushes like a fired missile, Ben crossed the distance. The sheer concussive force of his launch sent leaves and dirt flying everywhere. Catching the first normal goblin completely off guard, he just slammed a kick directly into the side of the monster's ugly face, propelling his leg with a [Fire Burst].
+
+The resulting explosion instantly snapped the goblin's neck with a sickening crunch.
+
+The small green body was thrown across the clearing, tumbling into the floor as Ben pivoted entirely on his other foot using [Fire Burst] without losing any moment, immediately shifting his momentum toward the second grunt.
+
+The goblin had barely just registered the noise. Dropping its piece of raw meat, the monster fumbled wildly for the sword resting on its hip. But Ben was way too fast. Closing the distance in a blur of motion, he viciously drove his steel dagger straight up under the goblin's jaw.
+
+The sharp blade punched easily through the soft tissue, burying itself deep into the monster's brain cavity.
+
+Ripping the blade out with a wet tear, he let the twitching corpse slump to the grass. Turning his attention directly to the staff wielding goblin, Ben expected the monster to charge him. Or at least try to run away.
+
+But the goblin just shrieked in absolute fury.
+
+Raising its crude wooden staff into the air, the goblin rapidly chanted something in its guttural, disgusting language. A sickly green light immediately flared to life around the tip of the staff.
+
+And the goblin pointed the glowing wood directly at the first grunt Ben had kicked away.
+
+Wait... is that…
+
+Shocked, Ben stopped to see what happened in hope. The pale green light washed over the dead goblin's broken neck. The skin started actively knitting back together.
+
+The monster's twisted spine forcibly snapped back into proper alignment with a series of loud pops.
+
+You've got to be kidding me.
+
+He wanted to laugh. It was actually a healing skill.
+
+I definitely want that.
+
+Not wanting to fight an immortal horde of self healing goblins, Ben instantly blasted forward. Seeing him charge, the staff wielding goblin panicked. It desperately tried to redirect the staff toward him, a small bolt of green energy forming at the tip.
+
+But Ben didn't give it the chance to fire as he dropped completely flat onto his back mid sprint, sliding across the floor. He perfectly ducked under the erratic bolt of magic, letting it harmlessly scorch a tree behind him.
+
+Using the sliding momentum, he heavily kicked the goblin's legs right out from under it. The monster shrieked as it fell backward, the wooden staff clattering out of its grip.
+
+Scrambling instantly to his feet, Ben drove his foot right into the center of the goblin's chest, pinning it firmly to the dirt. The monster couldn't even claw at his foot before a [Fire Burst] rattled its brain out of its skull.
+
+The monster's limbs went completely rigid for a brief second, before going entirely limp.
+
+Ben immediately spun around to face the first goblin.
+
+The healing magic had abruptly cut off when the caster died, but the grunt was already staggering back up onto its feet.
+
+A violent [Fire Burst] slammed into the goblin like a physical wall.
+
+It instantly blasted the monster backward, completely shattering its already weakened neck a second time.
+
+The body crashed heavily into a tree and didn't move again.
+
+Finally.
+
+Breathing a sigh of relief, Ben relaxed his combat stance as well as the hold [Focus] had on him. He wiped the fresh sweat off his forehead, ignoring the stinging pain from his scratched ribs. He stared at the healer goblin expectantly.
+
+He really, really hoped the universe wouldn't screw him over right now. He had literally tracked down the exact target he wanted.
+
+So, he pulled up the notifications.
+
+[Tier 1 Goblin Shaman slain. Essence gained.]
+
+[Tier 1 Goblin slain. Essence gained.]
+
+[Tier 1 Goblin slain. Essence gained.]
+
+[Mana Sonar Lvl 2 > Lvl 3]
+
+[Fire Burst Lvl 10 > Lvl 11]
+
+[Mana Reinforcement Lvl 6 > Lvl 7]
+
+[Unarmed Combat Lvl 7 > Lvl 8]
+
+He stared at the messages.
+
+...Where is the shard?
+
+Grinding his teeth, Ben felt a massive surge of pure annoyance bubble up in his chest. Of course. Just because he killed a monster with a specific skill didn't guarantee he would actually get its shard, even if these healer goblins were supposedly what people killed to get said shard.
+
+While he was happy about the skill levels, he still kicked the dead shaman's corpse in frustration, and let out a long string of curses. He had wasted all that time and effort for nothing.
+
+Whatever. I'll just hunt another one.
+
+If the system wanted to play a game of statistics, he would just brute force the odds. He had [Mana Sonar] and [Hunter] now. He could track down every single healer goblin in this damn forest if he had to.
+
+Reactivating [Mana Sonar] to scan for his next target, Ben sent out another pulse. And he immediately froze. A suffocating presence pinged directly above him.
+
+Snapping his head upward, he locked eyes with the thick tree branches. Standing on a sturdy branch, a massive muscle bound goblin glared down at him.
+
+The absolute second he perceived the monster, the [Hunter] title actively screamed at him. A blaring siren of pure panic spiked in the back of his neck.
+
+Danger.
+
+Not bothering to assess the threat any further, Ben instantly obeyed his instincts. He channeled a massive amount of mana directly into his feet, and threw himself backward with the most violent [Fire Burst] he could manage.
+
+The massive explosion blasted him completely out of the clearing, sending him crashing recklessly through the thick underbrush.
+
+He tumbled wildly across the forest floor, completely tearing his ruined shirt on the thorny bushes.
+
+Scrambling frantically back to his feet, he whipped his head around to look at the spot he had just been standing in.
+
+A massive iron spear was currently buried deep into the dirt.
+
+It had completely impaled the dead goblin shaman's corpse, pinning it to the ground. If he hadn't moved, that massive chunk of iron would have easily punched straight through his skull.
+
+Following the trajectory of the thrown weapon, Ben looked back at the massive beast in the trees.
+
+It was easily twice the size of a normal human, sporting dark green skin and a series of tribal tattoos across its chest. It rested another massive spear on its broad shoulder, connected to the first spear with a chain.

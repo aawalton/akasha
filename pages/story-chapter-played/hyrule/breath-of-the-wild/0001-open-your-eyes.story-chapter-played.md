@@ -1,0 +1,282 @@
+---
+id: 8f50cb64-92fc-54ef-a0fc-d10e778e7d7b
+page-type-slug: story-chapter-played
+title: "Open Your Eyes"
+slug: 0001-open-your-eyes
+partOf: breath-of-the-wild
+position: 1
+ownLength: 4943
+unit: words
+---
+
+The voice came first.
+
+Before light, before the cold, before the shallow panic of lungs remembering how to breathe — there was a voice. A woman's voice, stripped thin by distance or exhaustion or something older than either, repeating the same words with the patience of someone who had been saying them for longer than patience should last.
+
+*Open your eyes.*
+
+He did not know what eyes were. He did not know what opening meant. He knew only that the warmth around him was draining away and something cooler was taking its place, and that the voice — quiet, steady, unbroken — expected him to do something about it.
+
+*Wake up, Link.*
+
+The name landed somewhere inside him, in a place that had no shape yet. It fit. He did not know why.
+
+Water was running off him. He could feel it now — thin sheets sliding along his ribs, pooling in the grooves of whatever he was lying on. Stone. Cold stone, curved to fit a body, carved by someone who had known exactly how heavy a person would be. His fingers moved first. Small involuntary contractions — the kind of movement that doesn't ask permission. Then his lungs, pulling air in one long ragged draw that tasted of minerals and age and a staleness that might have been centuries of sealed air.
+
+His eyes opened.
+
+Blue.
+
+The ceiling was blue — carved in patterns he didn't recognize, glowing with a light that had no source he could find. It pulsed, slowly, like the breathing of something vast and patient and old. The glow moved across the stone in rhythms that felt deliberate. Not decoration. Not ornament. Functional — built to run for a very long time, and still running.
+
+He lay there. His body was cataloguing itself without his permission — heartbeat, lungs, the weight of each limb against wet stone. His mouth was dry. The air tasted of stone and something sharp, like the smell before lightning, and underneath it a faint mineral sweetness that clung to the back of his throat. He swallowed. It was the body's first conscious act of self-care, and it happened before he understood what swallowing was for.
+
+Sitting up cost him more than it should have. His body was heavy in a way that felt wrong, as though the weight of it was a surprise — as though he'd been somewhere without weight and had only just come back to it. The last of the water drained from the stone basin beneath him — luminous blue, the same colour as the ceiling, running through channels carved into the stone with a precision that suggested the designers had known exactly how quickly a body would need to surface. The water was warm where it touched him and cool where it left, and the air that replaced it raised the fine hairs on his forearms and made him shiver.
+
+He looked at his hands. They were his. He was fairly sure they were his. They were calloused in places that implied work he couldn't remember, and the knuckles of the right hand were slightly larger than the left, and he stared at them for a long time because they were the only proof he had that he existed and had existed before this moment.
+
+The chamber was small. Oval, carved from living stone, every surface etched with the same geometric patterns that glowed on the ceiling. Two chests sat against the far wall, dark metal banded with orange light. A pedestal near the sealed door held something — a flat, rectangular shape, faintly luminous, waiting.
+
+He swung his legs over the edge of the basin. His feet hit the floor and his knees nearly buckled — not from weakness, but from the sudden reality of standing. The ground was solid. His body was solid. Everything was real and cold and immediate, and the part of him that should have known what to do with all of it was empty.
+
+The chests first. They were old — the metal cold under his fingers, the hinges stiff, the latches built for hands that knew their mechanism. His hands knew. They found the release without hesitation, and the lids opened with a sound like a held breath finally let go.
+
+Inside the first: a shirt, rough-woven, faded to a blue so pale it was almost grey. The fabric was coarse between his fingers. He lifted it to his face — stone, stillness, and a faint herbal sharpness that might have been a preservative or might have been the ghost of whoever had folded it and placed it here. Inside the second chest: trousers, the same colour, the same age. Both fit. Both had been waiting for him specifically, and the fact of that — clothing, sized to his body, sealed in a tomb — was a question he had no framework to ask.
+
+Dressing in the blue light, his fingers fumbled with the fastenings — not because they were complicated, but because the act of dressing felt like something he was learning for the first time and remembering from long practice, simultaneously. The shirt was thin. The trousers were thin. He was not warm.
+
+The pedestal. It stood between him and the sealed door like a condition — not blocking the way, but making it clear that the way required something of him first. A cradle of carved stone, inlaid with the same geometric patterns, and resting in its centre: the object.
+
+It was smooth, dark, rectangular. It fit his hand when he lifted it — fit so precisely that his grip closed around it without adjustment, as though the thing had been shaped for his palm specifically. It was warm. Warmer than the stone, warmer than the air, warm like something alive. A vibration ran through it and into his wrist and forearm, faint, continuous, patient.
+
+Then a sound — a two-note chime, clear and precise, cutting through the low hum of the chamber like a bell through fog.
+
+The screen lit up. An eye symbol, stylised, geometric — the same motif carved into every surface of this room. It glowed for a moment. Then text, appearing line by line with the unhurried precision of something that had been waiting to say this:
+
+```stat-screen
+    SHEIKAH SLATE — ACTIVATED
+    ---
+    Authenticating user.
+    Authentication complete.
+    ---
+    Vitals detected.
+    Hearts: ||| 3/3
+    Stamina: 1 wheel
+    ---
+    Rune slots: [locked] [locked] [locked] [locked]
+    Map: [data unavailable]
+    Sensor: [calibration required]
+    ---
+```
+
+He didn't understand. Hearts. Stamina. Rune slots. Words without meaning, delivered with the confidence of something that expected him to catch up. Three short lines under the word *hearts* — he touched his chest, felt the beat there, and didn't know if the two were connected.
+
+Behind the pedestal, the door groaned — stone on stone, a sound that hadn't been made in a very long time. Ancient mechanisms ground into motion, panels sliding apart with the reluctance of ten thousand years of stillness. Beyond it: a corridor, carved from the same stone, lit by the same sourceless blue light. And at the end of the corridor, where the blue gave way to a brighter, less patient glow —
+
+Daylight. A thin, bright line of it, growing wider as the corridor stretched ahead.
+
+He walked toward it. His bare feet made no sound on the stone — the floor was worn smooth, polished by time or by design, and it was warmer here than in the chamber. The walls narrowed as the corridor climbed, and the blue glow dimmed by degrees, yielding to the brighter thing at the end. The slate hummed against his hip where he'd fastened it, a steady pulse that matched his heartbeat or his heartbeat matched it — he couldn't tell which.
+
+The light ahead was warm. Not blue. Alive, almost — shifting, moving, restless in a way the chamber light had never been.
+
+---
+
+The corridor ended at a cliff.
+
+He didn't stop in time. His feet carried him past the last of the stone — the transition was sudden, from smooth carved floor to rough earth, then scrub grass, then real grass, warm and thick and alive under his bare feet in a way that made him pause and press his toes into it. Green. Growing. The first living thing he had touched. Then the ground dropped away and he was standing at the edge of the world, and the grass didn't matter any more because there was too much of everything else.
+
+Wind hit him. It smelled of earth and growing things and distance, and it pushed against the wet fabric of his shirt and dried the stone-water from his skin and made him take a step back because the drop was farther than he could process. The sky was enormous. Blue — a different blue than the chamber, a wilder, more careless blue, streaked with white cloud and lit by a sun that was warm on his face and bright enough to make his eyes water.
+
+He shielded his eyes with one hand. The slate hung at his side in the other.
+
+Below: a landscape that kept going. Green fields fading into forests. Ruined stone structures, their walls half-swallowed by grass and time. A building — something like a temple, its spire broken but still reaching — sat in the middle distance, surrounded by rubble and wildflowers. Beyond it, the land fell away into a broad valley, and beyond that —
+
+A mountain on fire. Far to the northeast, wreathed in smoke and a dull orange glow that pulsed against the skyline. Not burning the way a forest burns. Burning the way a thing burns that has always been burning.
+
+And straight ahead, farther than everything else — a castle. Or what had been a castle. Something was wrong with it. Dark tendrils spiraled upward from its towers, purple-black against the sky, coiled around the structure like smoke that had decided to stay. They moved. Slowly, patiently, with the certainty of a thing that had nowhere else to be.
+
+He stared at it. The wind pulled at his shirt. His heart was beating faster than it had been in the chamber, and he did not know if that was fear or recognition or both.
+
+The world smelled of distance. He had no other word for it — the scent of air that had crossed miles of grass and forest and water before reaching him, carrying traces of everything it had passed through. Pine and river-mud and the sulfur edge of the burning mountain and, faintly, a sweetness like crushed petals. His lungs filled with it. He breathed out. His breath was visible in the cold morning air, a thin ghost that dissolved before his eyes.
+
+A bird — brown, small, darting — shot past him close enough that he felt the wind of its passage on his cheek. He flinched. Arms coming up, weight shifting back — a full-body response to a bird that was already gone. He stood there with his arms half-raised and no threat in sight, feeling foolish in a way that was new and not entirely unpleasant.
+
+The slate chimed — once, softly, as though drawing his attention — and the screen showed a map he didn't understand. A single blip, pulsing: his own location, at the top of a place with no name.
+
+He looked down at the temple with the broken spire. A thin line of smoke rose from somewhere near its base — a campfire, maybe. And near it, too far to see clearly, a figure. Small. Dark. Standing by the fire.
+
+He looked back at the castle and its coiling darkness.
+
+Then he started down the hill.
+
+---
+
+The world was louder than the chamber.
+
+Every step produced sounds he had no names for — the crunch of dry grass, the scrape of his bare feet on stone, the rustle of something small and alive darting away through the underbrush. Birds. He heard birds, though it took him three separate calls before he placed the sound as something that belonged to a creature and not to the landscape itself.
+
+He was hungry. He knew this the way he'd known the name — suddenly, without context, a fact arriving fully formed. His stomach was a knot. His mouth was dry. The air tasted of pollen and warm stone, and none of it was food.
+
+The hillside was scattered with trees. Low, gnarled things with pale bark and broad leaves, and in their branches: fruit. Red, round, the size of his fist. He pulled one from the lowest branch and held it. It was firm and cool and smelled sweet. He bit into it before the thought of whether it was safe had finished forming.
+
+The taste hit him like the sunlight had — too much, too sudden, flooding a system that had been empty for longer than empty should mean. Tart and sweet and wet, the juice running down his chin, and he ate the entire thing standing under the tree, breathing hard through his nose, his free hand already reaching for the next one.
+
+He ate three apples. Then he kept walking.
+
+The branch was on the ground near the bottom of the hill, half-hidden in tall grass. A fallen limb, thick as his forearm, one end broken to a rough point. He picked it up without thinking. His hand closed around it and his grip adjusted — wrist angled, elbow tucked, weight balanced across his knuckles — and the adjustment happened faster than his awareness of it. His body knew something about holding weapons. His mind offered no explanation.
+
+The branch was light. Dry. It would not last.
+
+He didn't know how he knew that.
+
+The smell reached him before the sound did — something cooking, but wrong. Greasy and charred, with an animal quality that made his stomach tighten in a different way than hunger. Then: grunting. Low, guttural, punctuated by high-pitched barks. Not human sounds. Not animal sounds. Something in between.
+
+He crouched. The movement was instinctive, immediate, and silent — his centre of gravity dropping, his weight shifting to the balls of his feet, the branch held close to his body. He didn't decide to do any of this. It happened.
+
+Through the grass: a clearing. A crude camp built around a low fire — a rack of drying meat, a scattered pile of mushrooms and apples, a rough wooden platform where something was sleeping. And around the fire, two creatures.
+
+They were squat and thick, with flat snouts and small dark eyes and skin the colour of dried clay. Their mouths were too wide. Their arms were too long. One held a club made from bone — thick, knotted, stained at the striking end. The other was prodding the fire with a stick, making sounds that might have been conversation.
+
+He counted. Two at the fire. One on the platform, asleep. Three.
+
+He noted the terrain without being aware he was noting it. Open ground between him and the camp — twelve paces, maybe fifteen. No cover. The fire was in the centre. The sleeping one was elevated. The one with the club was between him and the food.
+
+The branch in his hand weighed almost nothing.
+
+He could go around. He should go around. Three of them, one of him, and a stick that wouldn't survive —
+
+The one with the club saw him.
+
+It happened fast. The creature's head snapped toward the grass where he was crouching, and its eyes — small, dark, unexpectedly sharp — locked onto his. It barked. A single sound, high and urgent, and the second creature was already turning, already reaching for something, and the one on the platform jerked awake and rolled to its feet with a speed that didn't match its size.
+
+He was already moving.
+
+The gap closed in four strides. His body moved ahead of his thinking — weight forward, branch up, feet finding purchase on the uneven ground with a precision that felt practised. The club-creature swung first, a wide horizontal arc aimed at his ribs. He turned sideways. The club passed close enough that he felt the displaced air on his stomach. Then he struck — branch driving forward into the creature's midsection, hard, the impact jarring up through his wrist and shoulder.
+
+The creature staggered. He hit it again. And again — short, efficient blows that came from somewhere deeper than conscious thought. His footwork was precise. His breathing was controlled. His body knew this. His body had done this before, with better weapons, against worse things, and the knowledge was in his muscles and joints and the angle of his spine and nowhere else.
+
+The branch cracked on the fourth swing.
+
+The sound was sharp and final — a dry snap that he felt more than heard. The impact carried through air instead of into the creature. His hand was suddenly holding half of what it had been holding. The other half spun away into the dirt.
+
+The creature was still standing.
+
+His breath caught. For a half-second he was empty-handed and the creature was drawing its club back and the world narrowed to the space between its weapon and his body.
+
+He dropped. Not away — forward, under the club's arc, his hand closing on the bone weapon of the first creature he'd knocked down. It was heavier than the branch. Denser. His grip shifted and settled and he came up swinging.
+
+The fight lasted less than a minute after that. The club was crude but solid, and his hands knew what to do with solid things. He moved between the three creatures with an economy that would have frightened him if he'd had time to notice it — always turning, always between them, never letting two attack at once. The sleeping one was slow and he put it down first. The fire-tender swung wild and he stepped inside its reach and struck twice at its shoulder and once across its jaw. The first one, the one that had seen him, came at him from behind. He heard its foot scrape on gravel and pivoted and drove the club into its chest and it sat down hard and didn't get up.
+
+Silence. Then the fire, crackling. Then his own breathing — harder than it should have been, faster, his pulse hammering at the base of his throat.
+
+His hands were shaking.
+
+He looked at them. They were scraped raw — the branch had left splinters in his right palm, and his left knuckles were bleeding where they'd struck something harder than skin. The slate on his hip chimed. He looked down at it.
+
+```stat-screen
+    [Damage received.]
+    Hearts: ||| (3/3 — 4 quarter-hearts lost)
+    ---
+```
+
+Three lines, one of them noticeably shorter than the other two. He didn't know what hearts meant. He knew that a piece of him was missing — a full piece, not a sliver — and that the device was telling him this mattered.
+
+The creatures had dissolved. Not collapsed, not died in any way he understood — they had come apart into dark smoke and fading light, leaving behind their weapons and a few scraps of material that smelled like hide and something acrid underneath. The smoke hung in the air for a moment, as though uncertain where to go, and then the wind took it.
+
+The camp remained. The fire still crackled. A crude bow lay near the sleeping platform, and beside it a quiver of arrows — rough-shafted, stone-tipped, but intact. The meat on the rack was charred past eating, but the apples scattered near the fire were fine, and there were mushrooms too, pale-capped, growing in the shadow of a fallen log.
+
+He gathered what he could. The bow went over his shoulder — his body knew the motion, the adjustment of weight across his back. The arrows went with it. An apple in each pocket. The mushrooms he wasn't sure about, but he took them anyway.
+
+Then he sat down. His legs decided this for him. He sat in the dirt next to the creatures' fire and ate their apples and examined the bone club in his hands and tried to make his breathing slow down.
+
+The broken branch lay where it had fallen, in two pieces, the splintered ends pale against the dark ground.
+
+He looked at it for a while.
+
+---
+
+The old man was sitting by a different fire, farther down the hill, near the base of the broken temple. He was wrapped in a dark cloak with the hood pulled low, and he was watching the flames with the stillness of someone who had been watching flames for a very long time.
+
+He looked up when Link approached. His eyes — visible beneath the hood — were sharp and patient and knew things they weren't saying.
+
+"Well," the old man said. "You're awake."
+
+Link stopped at the edge of the firelight. The bone club was in his hand. The slate was on his hip. He was scraped and bleeding and barefoot and wearing clothes that were a hundred years old, and the old man looked at all of this and nodded as though it confirmed something he'd been expecting.
+
+"Sit," the old man said. He gestured to a spot near the fire. "You look like you've had a difficult introduction to the Plateau."
+
+Link sat. The fire was warm. The warmth was the best thing he had felt since waking — better than the sunlight, better than the apples, because it was given. Someone had built this fire before he arrived, and the building of it was a kind of care.
+
+The old man was watching him. Not staring — watching, with the practiced attention of someone accustomed to reading people who don't speak. After a moment, he reached into the folds of his cloak and produced an apple. He held it over the flames on the end of a stick, turning it slowly.
+
+"Cooking," the old man said. "The simplest kind. Heat and patience. Most people overcomplicate it." He pulled the apple from the fire. It was soft and golden-brown, the skin split and beading with juice. He offered it to Link.
+
+Link took it. It was almost too hot to hold. He bit into it anyway.
+
+The taste was different from the raw apples — deeper, sweeter, with a warmth that seemed to start in his mouth and spread outward through his chest. He ate the whole thing in four bites, juice running between his fingers, and then he looked up and the old man was watching him with an expression caught between amusement and grief.
+
+"You eat like you haven't in a while," the old man said quietly. A weight moved behind his eyes — not quite sadness, not quite recognition. Older and more practiced than either.
+
+Link looked at his empty hands. The juice was cooling on his fingers. His stomach was still asking for more, and the asking felt like the most honest thing about him.
+
+The old man produced a second apple. He didn't cook this one — he tossed it directly to Link, a casual underhand throw, and Link caught it one-handed without looking. The old man's eyebrows rose a fraction. Then he looked away, toward the fire, and whatever he had seen in that catch he kept to himself.
+
+Link ate the second apple raw. It wasn't as good as the baked one. He didn't care.
+
+"There will be time for that." The old man's gaze drifted to the broken temple behind them — its spire dark against the evening sky, the stone saints along its walls eroded to soft, featureless shapes. "This plateau has been sealed for some time. The place you came from — the cave up on the ridge — that was quite the location. I don't imagine it offered much in the way of provisions."
+
+Link said nothing. Not because he chose not to — because the mechanism for choosing was not yet connected to the rest of him. Language sat somewhere behind his sternum, heavy and unformed.
+
+The old man didn't seem to mind. He filled the silence naturally, the way a fire fills a room — steadily, from the centre outward, until the cold had nowhere left to stand.
+
+"You may have noticed the glow." He pointed toward the hillside to the east, where a faint amber light pulsed against the darkening sky. A structure, partially buried, its entrance framed by the same geometric patterns as the cave. "There are four of those on this Plateau. Shrines, the old texts called them. Each one holds something — a trial, and a reward for passing it. Bring me what you find inside them, and I will give you something that will help you leave this place."
+
+He reached behind him and produced an object — folded fabric stretched over a lightweight frame, compact, worn at the edges. He held it up briefly, then tucked it back into his cloak.
+
+"A paraglider. Sturdy enough to carry a person off these cliffs, if the wind cooperates." He looked at Link. "The Plateau is high. The only way down is to fly or to fall. I'd recommend the former."
+
+Link looked at the shrine in the distance. It looked like the place he had woken up. Same glow, same ancient geometry. He had been born in one of those. Now he had to enter another.
+
+The old man followed his gaze. "In the morning, perhaps. The night on the Plateau is not especially dangerous, but it is cold, and you —" he looked at Link's threadbare shirt, his scraped knuckles, his bare feet "— are not especially prepared."
+
+He put another log on the fire. The sparks climbed into the dark. Somewhere behind the temple, an owl called — two notes, low and clear, and then silence. The old man tilted his head at the sound, and for a moment his expression was unguarded, and what was underneath was very old and very tired and not at all what a hermit on a plateau should carry in his face.
+
+Then it passed. He adjusted his hood and settled back against the stone.
+
+"Rest," he said. "The world will still be here in the morning. It has been here for a very long time."
+
+---
+
+Night came the way the water had drained from the basin — gradually, then all at once.
+
+The old man had stopped talking. He sat on the far side of the fire, wrapped in his cloak, his breathing steady and even. Perhaps sleeping. Perhaps not.
+
+Link sat with the slate in his lap. The screen glowed faintly — the eye symbol, steady, patient, watching him with the same calm intensity the old man had. He didn't know what it wanted. He didn't know what anything wanted from him. The fire was warm on his face and the dark was cold on his back and the space between those two facts was where he lived now.
+
+The broken branch was still in two pieces near the edge of the firelight, where he'd carried it without knowing why. He picked up the longer half. Turned it over. The splintered end was pale, almost white, the wood grain exposed where it had sheared apart under the force of his swing. It had been a weapon for about three minutes. Now it was kindling.
+
+He leaned forward and placed it in the fire. It caught immediately — the dry wood flaring orange, the splinters curling black, the flame climbing along the grain with a sound like breathing in. He watched it burn. The wood popped once, softly, and a thread of smoke twisted upward into the dark.
+
+The first thing this world had given him, it had also taken away. He was going to need better weapons. He was going to need to understand that better weapons would also break.
+
+He fed the second piece into the flames. It burned faster than the first.
+
+The fire settled. The stars were out — more of them than seemed possible, scattered across the dark in patterns he didn't recognise. Somewhere far below the Plateau's edge, a sound he couldn't identify — rhythmic, distant, alive. The castle was invisible in the dark, but he knew it was there. He could feel it the way he could feel the empty place where his memory should have been. A weight on the horizon. A question he didn't know how to ask.
+
+He was cold. He was alive. He was alone.
+
+And then — faintly, so faintly he wasn't sure if he was hearing it or remembering it or inventing it entirely — the voice.
+
+Not words. Not this time. Just the sound of someone present at a distance, the way you can hear a person breathing in a room you can't see. Patient. Steady. The same quality as before — stripped thin by time, by exhaustion, by whatever it cost to keep speaking to someone who could not answer.
+
+The voice had been the first thing. Before the water. Before the light. Before the name.
+
+It was still there.
+
+He didn't know who she was. He didn't know where she was. But she had called him by a name that fit, and she was still calling, and the fact of her patience implied a faith he could not explain.
+
+Someone believed he would get up tomorrow.
+
+The fire cracked. The branch was gone. The stars turned overhead, slow and indifferent and vast.
+
+He closed his eyes.

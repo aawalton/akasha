@@ -1,0 +1,255 @@
+---
+id: 58b5b9d0-9fc7-50f4-9b33-f415939c42bb
+page-type-slug: story-chapter-royal-road
+title: "ATS B6 Ch22: The Trusted Few"
+slug: 0029-ats-b6-ch22-the-trusted-few
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 29
+ownLength: 3031
+unit: words
+ownProgress: 3031
+publishedAt: 2025-08-26
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2550374/ats-b6-ch22-the-trusted-few"
+royalRoadId: "2550374"
+removedAt: "2026-07-03T13:47:55.799Z"
+---
+
+Judging by the sour expressions on his retinue’s faces, the next morning had come too early. Still, everyone was there, including Asha and Equinox, the hatchlings. Cinderwood, Kenzie and Marteen were also asked to come. Arthur wanted full representation on his trip to Buck Moon.
+
+Which made Desmond and Sybil’s absence all the more conspicuous.
+
+He glanced at Horatio. “You told them to be here, right?”
+
+“You know I did,” he said, looking grumpier than ever.
+
+Arthur pressed his lips into a thin line and then gestured to Brixaby. “Go remind them to show up on time.”
+
+The words were barely out of his mouth before his dragon lifted into the air. The drone of his wings was like a mild roar as he flew off to the ledge the other two Legendaries often shared with one another. The tips of his claws glowed green, though Arthur suspected that it was just for show. He hoped it was for show.
+
+It was probably for show.
+
+A moment later, there was a roar loud enough to shake the very foundations of the hive.
+
+Joy sighed happily. “He’s so impressive when he does that.”
+
+Brixaby returned moments later, looking smug. “They are most certainly awake now.”
+
+Within a few minutes, Desmond and Sybil showed up looking disheveled but also intimidated. Neither would meet Arthur’s eye.
+
+“Thank you for joining us,” Arthur said, noting Sybil was still patting her gray hair into place.
+
+Desmond scowled, but he still wouldn’t look directly at Arthur. “I don’t see the sense in getting us up at the crack of dawn, sir. We never had to before.”
+
+Arthur hoped he could feel the force of his displeasure, even though he wasn’t looking directly at him. “Buck Moon is a few hours ahead of us, and this is the time we agreed to meet.”
+
+“Chester never used to arrive at their order.”
+
+The man was actually showing a bit of spine. Arthur was almost impressed.
+
+“We’re not coming at their order. It’s called being polite and trustworthy by arriving when you say you will.”
+
+He let that land with a thud before he looked at his dragon. “Brix, open a portal.”
+
+****
+
+One hair-raising boat ride later—where for some reason, the formless things in the sky seemed to be more energetic than usual—they arrived.
+
+It seemed that Desmond and Sybil were both cowed again and allowed Arthur and his retinue to exit first, despite the fact that, as Legendaries, they outranked all the Rares.
+
+The portal opened high in the air above Buck Moon. As they exited, the air hit them like a hot, moist slap in the face, overly scented with so many flowers that it was almost gag-inducing.
+
+Horatio, who was helping to transport Marion and Soledad on Sams, made a face. “I forgot it was like this. Now I remember why I left.”
+
+“The jungle was not the only reason,” Sams added, “but I wasn’t unhappy to leave it.”
+
+Buck Moon was a traditionally shaped hive, and it wasn’t hard to find the Leader’s meeting place, up at the tip of the cone.
+
+It seemed that Ismael invited quite a few people to this meeting. A large Rare white dragon was sunning herself nearby, wings spread out so delicately thin that they looked translucent. He also saw, to his relief, the other two leaders of Snow Moon hive, Rose and Hale, as well as a couple others. He was glad not to see any sign of Whitaker.
+
+With so many Legendaries on hand, the area was extremely crowded. So Brixaby took Arthur down first, as leader.
+
+Ismael came to greet him with a wide, genuine smile on his tanned face. “I’m glad you’ve arrived. Your retinue can join the get-together over there.” He gestured off to a wider pavilion set up under a blue-tinted dome of mana. Arthur assumed that was for temperature control in the humidity and heat.
+
+Ismael obliquely confirmed this by adding, “The heat can be a little too much for you Northerners.” He cast a glance over his shoulder. Arthur followed his gaze to see the Legendary meeting area—another pavilion, made more luxurious with a thousand little touches and also under a temperature control dome.
+
+This is an easy way to separate us, Arthur thought, but nodded and gestured for Horatio, Cressida, and the others to go mingle. Kenzie would be invaluable in reading what was unsaid by the other retinues. He didn’t fully trust the other Legendaries, but it would be dumb to insult his host right off the bat.
+
+Besides, if they tried anything... he was a Legendary, too, with just as much access to Brixaby’s cards as the dragon had with his own.
+
+A memory leaked in from his time in one of the Dark Heart’s challenges. An old saying: Trust but verify.
+
+Desmond and Sybil were the last to land. They looked sullen and not very well put together. Exactly as if they had been rousted out of bed, in fact.
+
+Ismael’s expression faltered and his eyes flicked to Arthur.
+
+He could practically read the man’s thoughts: Was Arthur draining them like Chester used to do?
+
+Arthur grimaced and then sent the other two Legendaries to mingle with the retinue riders. If they noticed the slight, they didn’t show any reaction.
+
+Ismael said nothing but led Arthur to the Legendary pavilion. The immediate change the moment he stepped through was literally a breath of fresh air. In addition, outside noises seemed to be limited. He doubted anyone would be able to hear inside.
+
+He was introduced politely around and told to have a seat. Several people, however, were grinning slyly at one another and not being subtle about it.
+
+It gave Arthur an eerie feeling, as if he were being set up for a practical joke. That was odd because all of these people were double, or at the very least, triple, his own age.
+
+“Do your thing, Ismael,” one man said.
+
+Arthur tensed and reflexively checked his Telekinesis Block skill. It wasn’t active. “What’s going on?”
+
+Ismael sent an annoyed glance at the speaker. “It’s an initiation of sorts. Nothing dangerous, only strenuous for me.” He took a chair and scooted it across from Arthur.
+
+“An initiation for what?”
+
+Rose from Snow Moon, who sat near him, patted him on the arm. “To see if you have a brain inside your head and can be trusted, or if you’re someone like Whitaker.” She looked at Ismael. “Valentina did trust him, and she was always a good judge of character.”
+
+“No offense, but Valentina was dying,” said the only non-Legendary in the group, the Rare white rider who functioned as Buck Moon's seer. Arthur had met her before. “People don’t always make the best decisions when they’re facing the end.”
+
+He hated it when people talked around him. Arthur opened his mouth to ask what, exactly, was going on when something about Ismael changed.
+
+He began to stutter, motions jerky and out of sync, skipping forward and back. It was very much like when Brixaby used his nullification magic to fight the time-stopping abilities in Arthur’s Personal Space. Through his Master of Cards, he felt his own Time Card resonate with the other man.
+
+Ismael was using a Legendary-level time card on him. He couldn’t sense it, but the cards in his heart could.
+
+Arthur started to rise from his chair, but Rose grabbed his arm and stopped him. “Trust me.”
+
+She had done him a good turn before, but he wasn’t certain he trusted her that far. Everyone else, however, was watching the two of them with curiosity with no dark expectation.
+
+Reluctantly, Arthur decided to see this through.
+
+Ismael’s form stuttered back and forth for another few moments—it was like watching quick pieces of a conversation he could not quite recall—before he settled back fully into time again.
+
+The man looked tired, as if several hours had passed for him, but extremely pleased. “Okay, you’re the blunt sort. I can understand that.”
+
+“What is going on?” Arthur demanded through gritted teeth.
+
+“So he’s trustworthy?” another Legendary rider asked.
+
+Ismael nodded at Arthur. “He is." Catching Arthur's gaze, he smiled crookedly. "You already suspect what I was doing. I ran through different conversations with you under a variety of topics, seeing how you reacted. Seeing where your loyalties lay.”
+
+Arthur narrowed his eyes. “Loyalties?”
+
+“To us, or the scourgelings,” Ismael said bluntly.
+
+That caught him off guard. “Why is that even a question?”
+
+His grin widened subtly. “You say that every time, and believe me, that is the answer I hope to get.”
+
+“You’re saying that people are siding with scourgelings?” Arthur looked from him to the faces around him. “How would that even work? They’re the antithesis of life.”
+
+“’Siding with’ is maybe too strong of a description,” Rose said. Her eyes were full of inner grief, though Arthur couldn’t say from where. Maybe she was just tired from the long fight. “But there are those who find the presence of scourgelings... useful. A common enemy allows them to remain in power.”
+
+“And that enemy is growing in power,” Ismael said. “It seems you want the blunt explanation, and you weren’t at all surprised to hear the eruptions were happening more and more frequently.”
+
+“Should I be?” Arthur asked. “Isn’t that obvious to anyone who can keep track of dates?”
+
+“People are remarkably good at deluding themselves,” Rose said. “One of my retinue riders calls it ‘boiling the frog’. We have all been independently tracking eruption events and comparing them to past records. There have been periods of increased eruptions, but nothing like this. More importantly, ours are showing no signs of slowing down.”
+
+“Actually, the last few days have been one of the longer breaks we’ve had recently,” Ismael said. “I don’t expect it to last.”
+
+Arthur wondered if that was because the scourglings had turned their attention to the Rowantree Estate.
+
+Rose continued, “Yes, well I don’t expect this break to last. If this cycle continues its trends, soon the kingdom will be experiencing two eruptions in a day. And slowly, that won’t become Uncommon. Then there will be three a day.”
+
+Arthur had known things were bad for quite a while now, ever since he learned the Scourge Gods outnumbered the Mythics. That didn’t keep his stomach from twisting anew. “How long will this keep going?”
+
+“As long as it takes to wear us down,” Ismael said. “Until they break… or the scourgelings do. There has to be a cost to creating all these eruptions.” His smile returned. “Which is partially why we’re glad to see you. Chester was a cancer, and the best we could do was isolate him in one hive.”
+
+“But he surely took Chester’s card,” blurted one man. He was a scowling fellow with deep lines of concern carved into his face. Arthur remembered him being introduced as being from Worm Moon hive. “Lung Bai and the King must be aware. Why did they allow it?”
+
+“My dragon took his card,” Arthur said. It wasn’t quite an answer, but he didn’t feel the need to hide the fact.
+
+The man’s expression darkened. “I hear your dragon likes taking cards.”
+
+Arthur met his gaze square on. “Yes. He’s very good at it.”
+
+“And Desmond and Sybil?” he growled, sitting up straighter. “We all saw them when they landed—they looked like kicked dogs, and you sent them off like they’re part of your retinue.”
+
+“Are they part of this group?” Arthur asked, looking around. “The…”
+
+“The Trusted Few,” Rose murmured. “And no, we could never disclose anything to someone so close to Chester.”
+
+The gazes of the others were still on him. This was an important question, and considering everything Chester did, he couldn’t blame them. That card was terrifying.
+
+“I sent them off with the Rares, but I’m not sure they’re even up to that level of power, anymore,” Arthur said. “They have been scared for a long time, and what Chester did broke them. I don’t know if they’ll ever recover.”
+
+There were a couple of frowns, but no one seemed overly dismayed. Clearly, Desmond and Sybil didn’t have close friends among this group.
+
+Ismael shook his head and slapped his own knee in frustration. “They are Legendaries. They can’t afford to be broken—none of us can. We need to be stronger.” He looked directly at Arthur. “You need to be stronger if you expect to hold Blood Moon.”
+
+Arthur stiffened. “What does that mean?”
+
+It was the man from Worm Moon who answered him, looking like an annoyed teacher facing down a student who hadn’t done his homework. “Is that all the Retinue you have? Those hatchlings and that Uncommon too?”
+
+“It’s not as if he could pull any of Chester’s captains into his retinue,” Rose muttered.
+
+“They are the ones I trust,” Arthur agreed.
+
+“If you want a bit of advice,” Ismael said, “you’ll need more, soon. A proper retinue functions as high-level administration for the hive. They help you carry the load, which will be even more important for you because you are going at this alone.”
+
+The Worm Moon man barked out a laugh. “It will be even more important for your dragon. All Legendaries need to have a fawning group under them that they can personally manage. Yours is young, but believe me, once he finds his feet, he will want more than the handful you have now.”
+
+Everyone nodded with various smiles.
+
+“And then when you add more Legendaries, they’ll spend most of their days plotting to steal dragons from their rivals. Keeps ‘em busy,” Hale from Snow Moon said. Then he grew more downcast. “Or that was the case before the whole hive was rushing to eruptions so often.”
+
+Rose added, “Rares should attend every eruption, you know, even if we aren’t needed.”
+
+Arthur knew then that these were people who had the same unique problems as he did. Brixaby was a strong personality and could—and sometimes did—run roughshod over his retinue. Arthur did what he could, and on the draconic end, Sams seemed to know how to deal with him. But that was mostly because Sams was older, wiser, and so much larger than Brixaby.
+
+Brixaby was closing every one of those gaps.
+
+Arthur had also noticed that he had been more pensive than usual. Upset about having to gain new forging equipment for his larger size, worried about what the Call of Life meant for him. Arthur thought that part of it was him maturing, but what if he had completely missed a deeper layer of unhappiness? One that Brixaby didn’t realize he was feeling, himself?
+
+He remembered how eagerly Brixaby had taken the wild dragons from Wolf Moon and how deftly he had managed those Purples when they had been Wing Captains.
+
+That aside, he realized he needed more retinue riders to represent himself and Brixaby in future eruptions. No, he needed more retinue riders now to deal with Rowantree estate.
+
+All of this passed through his mind in a flash. Meanwhile, Ismael was still speaking. “Legendaries tend to be strong-willed, and the ones that aren’t are fairly stupid.”
+
+“Like Whitaker’s beast,” Rose said with a mean little smile behind her wine glass. “But that may be why he picked Whitaker.”
+
+“To circle back to the point, Arthur, you need a strong retinue,” Ismael said.
+
+“Not those hatchlings,” the man from Worm Moon grumbled.
+
+“Those are my riders,” Arthur warned. “I’m not getting rid of them, and I’m not taking in Rares from other hives.” These people were playing nice right now, but that was a guaranteed way to bring spies close.
+
+Ismael smiled like he had passed a test.
+
+Unexpectedly, Hale spoke up. He seemed to be a man of few words and had kept mostly quiet during this conversation. “No one is suggesting that. We’re saying make them stronger.”
+
+“With cards?” Arthur asked, silently thinking of that empty library. Curse Chester.
+
+“Well, that, too. But those babies of yours need to grow up. That’s where I can help.” Then to Arthur’s shock, he casually flicked out a description of his card.
+
+Like Sands Through The Hourglass
+
+Utility/ Spatial
+
+Legendary
+
+The wielder of this card will be able to create a medium-sized pocket dimension that will either run faster or slower than current time on a log base 5 scale, depending on the wielder’s will and rank of sacrifice shard. The wielder will have complete control over who is allowed to enter or exit this space, and may enter or exit at will. This card is able to create multiple pocket spaces, however each space will require its own sacrifice to create and run. This card does not use mana and instead runs off sacrificed shards, which are immediately powered into an hourglass that is visible in the pocket dimension in place of a sun. Denizens inside may sacrifice one shard to the hourglass to maintain the integrity of the dimensional space. The wielder may make this sacrifice while outside the space. Note: Refresh rates are based on time inside the dimension, not outside.
+
+Pocket dimension shard cost:
+
+Common: 1 to open, 1 refresh every 5 hours.
+
+Uncommon: 2 to open, 1 refresh every 25 hours.
+
+Rare: 3 to open, 1 refresh every 125 hours.
+
+Legendary: 4 to open, 1 refresh every 625 hours.
+
+“It’s great for growing crops,” he said. “Snow Moon’s even more northern than Wolf Moon, and it can make the difference between having a meal or having ice to eat.” Full of good cheer, he winked at Arthur. “It’s even better for making hatchlings and their riders grow up fast. You interested?”
+
+Outtake:
+
+“But he surely took Chester’s card,” blurted one man.
+
+“My dragon took his card,” Arthur said. It wasn’t quite an answer, but he didn’t feel the need to hide the fact.
+
+The man’s expression darkened. “I hear your dragon likes taking cards.”
+
+Arthur flicked on a pair of sunglasses. “It’s kind of his thing.”
+
+Then, flipping the double-bird, he jumped backwards off the ledge. Brixaby caught him mid-air, and for some reason there were explosions right behind them. Neither looked back.

@@ -1,0 +1,139 @@
+---
+id: 049a266a-29d9-5224-9f76-2de8a4ebdcbd
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch23: Negotiations"
+slug: 0030-b6-ch23-negotiations
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 30
+ownLength: 1832
+unit: words
+ownProgress: 1832
+publishedAt: 2026-02-03
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3009657/b6-ch23-negotiations"
+royalRoadId: "3009657"
+removedAt: "2026-07-03T13:47:57.601Z"
+---
+
+Arthur’s first thought was that the Sands Through The Hourglass card seemed too good to be true.
+
+His second thought was that he knew it was too good to be true.
+
+There was no such thing as a free lunch, yet the Hourglass card provided just the solution to quite a few problems he was facing. On top of that, Arthur just happened to have harvested Legendary shards from the core of the eruption.
+
+Did Hale and the others know that? But how could they? Did they know something and were fishing around to see what Arthur would reveal? Should he walk away right now?
+
+No. How could he? This card was almost entirely perfect for his needs. So perfect that for a moment he felt like Brixaby and dearly wanted it for himself.
+
+His Acting skill ensured that none of his thoughts crossed his face. He reached for it so often nowadays that it was practically second nature.
+
+That was why he was surprised when he received notification of a level-up.
+
+Maybe it was because he was under the direct examination from so many high-leveled individuals. Some of them might have cards to read micro-expressions and body language.
+
+His thoughts went to the mind healer, who had mostly kept her opinion to herself during this meeting. Though he had too much self-control to so much as glance at her. That would be practically yelling out that he didn’t want his thoughts to be read.
+
+Arthur couldn’t dither for too long. He quickly accessed his Haggling Skill.
+
+“This is an interesting offer.” He deliberately kept his voice as neutral as possible. “What do you want to allow me to use it?”
+
+“Well,” Hale said with a chuckle, “the first thing is I want you to strengthen your retinue, like we said. That will make it less likely for Whitaker to shove you around. I hate that guy.” He paused to blow out a gust of air from his cheeks. “But the truth is, Arthur, you’re going to have to pay for the new instance yourself—that's what I call each dimensional space I open. I usually have a few running at the same time, but I can’t cover the cost of another. You’ve probably figured out by now that running a hive is expensive. That goes double for northern hives when our growing season is short, and the heating costs are high.”
+
+The people from the south, including Buck Moon, looked smug. But Arthur was fully aware that Wolf Moon had run through a huge cost of heating via salaries for people with the correct cards who could modulate temperature.
+
+He nodded but kept his expression neutral and didn’t add anything further. He just kept patient because he knew that simply paying his own way wouldn’t be the entire cost.
+
+To his surprise, Ismael was the one who took the bait. “We want you to drop your hive’s policy of the blood price.”
+
+Arthur gave him a flat look. He knew he could waffle a little, go through the motions of having them pretend to talk him out of it, and maybe score a little advantage in negotiation... and he probably should.
+
+But everything about the Blood Price was abhorrent to him.
+
+“That’s already been done,” he said.
+
+“Not from what I heard.”
+
+Which meant they had spies, or at least people willing to gossip to them, in his hive.
+
+Arthur let them see his grimace. “You’re a leader. You know how hard it is to change people’s habits—even destructive ones. Paying the blood price has practically become systematic in the hive, and changing that thought process is slow. But I am changing it. The blood price will not continue in my hive,” he said fiercely, then shook his head, cutting across any argument with a sweep of his hand. “Tell me what you really want.”
+
+“Your dragon,” grunted the man from Worm Moon. “Don’t forget about that issue.”
+
+Arthur turned to him, startled. “What about him?”
+
+“What Garragos means to say is we want a card oath that your dragon will not steal any cards from this group here,” Rose said with a sympathetic smile. Arthur got the distinct impression that she was playing the motherly figure to try to get on his good side. “He has a bit of a reputation, you know.”
+
+Arthur almost laughed. Apparently, it never occurred to them that Brixaby could eat card oaths too.
+
+Now it was time for his Acting skills to truly come into play. He didn’t have any intention of allowing Brixaby to steal cards from anyone here—unless they revealed themselves to be his enemy. But he had to play this smart.
+
+Arthur hesitated for a moment as if he were intimidated by the thought of oath cards. Taking a long look around at the group, he said, “Just us here?”
+
+“These Chosen Few,” she said. “Though I think we would all rather you not take any cards from the Legendaries of the kingdom unless under dire circumstances.”
+
+“If nothing else, that would affect the balance of the hives,” Ismael said.
+
+That was an interesting way to split the difference, Arthur thought. What he said was, “We need every powerful dragon to fight the scourge, especially as there will be more frequent eruptions.”
+
+He could tell this was the right answer by the way a few people relaxed. It helped that he absolutely meant it.
+
+Rose continued, “But yes, the oath itself should cover anyone here, and those who are added to our group in the future.”
+
+That set them off on the negotiation. Arthur made sure to be extremely picky about the wording and hemmed and hawed a little—but not too much—and generally made a show about being reluctant. Even though he didn’t care one whit about a card he would have Brixaby remove the moment he could.
+
+It would be suspicious if he agreed too quickly.
+
+At the same time, he was aware that time mattered (as much as he was having trouble accurately tracking it). Once this was over, the Rowantree estate had to be dealt with.
+
+His original idea was to come to these people and ask for their assistance. A number of Legendaries working together against a Rare power like the Mind Singer could surely take care of the problem. They’d had a poor showing at the last eruption, but these were Legendaries. They had hidden depths.
+
+Now he realized that would be starting off on the wrong foot. He needed to think of these people as equals and not come pleading for their help.
+
+They had unwittingly given him the keys to take care of the problem himself.
+
+Finally, they came to an agreement on the exact wording of the oath.
+
+Arthur made a show of looking over it a few times to make sure it had no lingering hooks—it didn’t. Then he slid the card into his own heart.
+
+Part of the agreement he had worked out was that he would be the one to take the oath, and not Brixaby. It was clear to anyone who was watching for it that he and his dragon had a close bond and could use each other’s cards. They seemed to think that the oath would naturally grow to extend to his dragon as well.
+
+They didn’t know of Brixaby’s nullification magic. People saw a Purple and assumed he had flight acrobatics, and that the odd effects he had on spells came from his Call of the Void. Arthur didn’t feel like correcting them.
+
+Once he accepted the card, a noticeable release of lingering tension swept through the group. Arthur hadn’t realized that everyone had still been a bit on edge.
+
+They are scared of me, he thought, then corrected himself. Well, they’re scared of Brixaby.
+
+But he couldn’t be much more than amused at that. He pulled Hale aside and started talking specifics about the pocket space.
+
+“I have a few Legendary shards,” he told the man.
+
+His bushy gray eyebrows rose. “Truly? I have only used those a few times. Though I suppose the way Chester ran his hive, he was able to squirrel quite a lot away, eh?”
+
+Arthur nodded, not correcting his assumption. It mattered less if Hale thought that Blood Moon was rich if Arthur was actively running through shards to pay for time. “How big of a pocket space will that create, and how many people can I add to it?”
+
+“Thinking big, are you? Well, that would make sense with access to Legendary shards.” He rubbed his chin for a moment, and they got down to talking specifics.
+
+Meanwhile, the rest of the group chatted with each other on other subjects. This was a general meeting and a meet-and-greet, and Arthur was not the only item on the agenda. Once he was done hashing things out with Hale, he intended to see about making more connections. Especially if there were other Purples that needed a home.
+
+However, a hiccup came when a bright message burst into the room.
+
+It was a card power shaped like a rolled-up scroll, and glowing a vibrant red so that it instantly caught everyone’s attention.
+
+“Excuse the interruption,” Ismael said smoothly. “My secretary is not usually this dramatic, though the red is urgent.” He quickly crossed the room.
+
+The moment he touched the scroll, it lost its glow and fell, unrolled into his hands. Ismael read it, and his expression turned grim. He spoke loud enough so the rest of the group had no problem hearing.
+
+“It seems our little break is over. My hive’s seers have seen the future, and it is grim. In 48 hours, we will have two eruptions in quick succession. They have seen the first in a large city but have not managed to identify which one. The second, thankfully, is in a less populated area.”
+
+Which meant that the second would be less attended by exhausted fighters. All the hives might not be able to battle it at once if the first eruption was still ongoing by the time the second one hit.
+
+Less populated wasn’t a great thing. It meant more farmland destroyed.
+
+“Should we alert Lung Bai?” Hale asked. “She could destroy the second eruption the moment it starts, and we could concentrate on saving more people and property from the first.”
+
+Ismael shook his head. “Perhaps, but I would rather get a read on the situation before we reach out to her. We have already called her in, and... you know how displeased she could become.”
+
+Everyone but Arthur shuddered.
+
+The group got down to a general talk about the pros and cons of alerting their Mythic. From the general tone of the conversation, Arthur suspected they wouldn’t unless the first eruption was in the middle of a central city or became out of control and they couldn’t put down.
+
+It didn’t matter. Arthur sensed an opportunity, and he had two days to put it into action.

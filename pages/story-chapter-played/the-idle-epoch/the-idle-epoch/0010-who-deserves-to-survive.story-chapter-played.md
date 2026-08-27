@@ -1,0 +1,417 @@
+---
+id: 40146f9c-b7c0-5fa4-bb72-31c9802a1203
+page-type-slug: story-chapter-played
+title: "Who Deserves to Survive"
+slug: 0010-who-deserves-to-survive
+partOf: the-idle-epoch
+position: 10
+ownLength: 5563
+unit: words
+---
+
+Pip chimed twice -- a sharp, staccato warning that Callum had never heard before.
+
+He looked up from his notebook. The compound loop's numbers had been climbing all morning, Compound Growth ticking back toward the percentages the Vanguard's inspection had stolen. 9.4%. 9.7%. The Enhancement Construct's feedback cycle was running tighter than ever since the Script Engine upgrade, each iteration a fraction more efficient than the last. He'd been annotating the curve when the chime cut through his concentration like a knife through wire.
+
+Pip's golden light had shifted. The familiar's usual steady blink had become a rapid pulse -- a pattern Callum hadn't programmed but recognized instinctively. The cursor-entity hovered at the edge of his shoulder, oriented toward the warehouse's loading door, its glow cycling between warm gold and something colder. Harder.
+
+*External approach,* Pip's status report flickered in his peripheral vision. *Single entity. Threat assessment: indeterminate.*
+
+"Jin." Callum's voice was quiet. "Wake up."
+
+Jin stirred on his camp cot across the warehouse floor, one arm draped over Chunk -- the waist-high earth elemental serving as both bodyguard and, apparently, pillow. "Wha--"
+
+"Someone's coming. One person."
+
+Jin sat up, instantly alert in the way that only someone who'd lost party members to surprise attacks could manage. Pixel, his fox-shaped scout familiar, materialized from the shadows near the eastern wall and chirped once, confirming Pip's reading. Jin's hands were already moving, summoning Zephyr from standby.
+
+Callum crossed to the workbench where his Flux Density Probe lay among tools and crystal fragments. He pulled up Loop Analysis and swept the approach vector, reading the data the way he'd once read production manifests -- fast, clinical, looking for the variable that didn't fit.
+
+One contact. No construct signatures. No automation threads running in the approach corridor. No Vanguard squad comms chatter on the frequencies Loop Analysis could detect. Just a single biological signature with a power reading that made Callum's throat tighten.
+
+The number was enormous. Dense. A concentrated mass of combat stats packed into a single frame, radiating the kind of ambient energy that high-level fighters leaked the way reactors leaked heat.
+
+Level 40-plus. Solo.
+
+"Mira," Callum said.
+
+She was already at the loading door, her hand resting on the hilt of the Fracture-Tooth Saber. She'd heard Pip before Callum had -- Danger Sense at Level 10 gave her a threat-detection radius that made most people's look like nearsightedness. She stood with her weight on her toes, balanced, blade still sheathed. Not committed to action. Reading the situation.
+
+Through the gap in the loading door, morning light spilled across oil-stained concrete. The Foundry District was quiet at this hour -- the second shift hadn't started, and the overnight construct operators were still reviewing idle reports. The air smelled like cold metal and Flux exhaust, the baseline scent of the industrial zone.
+
+A man walked up the access road toward the warehouse. Alone.
+
+He was tall -- six-two, maybe six-three, built like someone who had never stopped training and never intended to. Short-cropped hair going grey at the temples. Square jaw. Deep-set eyes that carried the specific kind of exhaustion that came not from lack of sleep but from carrying too much for too long. He wore armor -- the Iron Vanguard Commander Set, scarred and dented in ways that told stories -- but the insignia display was off. No guild banner. No entourage. Just a man in heavy plate with a greatsword strapped across his back, walking toward Callum's warehouse the way someone walks toward a conversation they've been putting off.
+
+Drake Morrison.
+
+Mira's grip shifted on her saber. Not drawing. Adjusting. Her body had gone still in the way Callum had learned to recognize as her highest state of readiness -- the calm before the kinetic explosion.
+
+"He's alone," she said.
+
+"I noticed."
+
+"That's either very good or very bad."
+
+Drake stopped ten feet from the loading door. He looked at Mira. Something passed between them -- recognition, assessment, the shorthand of two fighters who understood each other's capability without needing a System readout. He nodded once, a motion that carried respect in its economy.
+
+"I'm here to talk to your builder," Drake said. His voice was low and measured, the kind of voice that commanded rooms without raising its volume. "Not fight."
+
+Mira didn't move. "You brought a sword."
+
+"I always bring a sword." The faintest shadow of something that might have been humor. "So do you."
+
+She held his gaze for three seconds. Then she stepped aside -- not far. Close enough to hear. Close enough to move.
+
+Drake ducked under the loading door and entered the warehouse.
+
+---
+
+The construct array hummed around them. Three active constructs and the Enhancement Construct, their Flux cores pulsing with the steady rhythm of automated processes, threads of luminous data weaving between them in gold and green and blue. The air was warm with residual Flux energy. On his camp cot, Jin sat rigid, Chunk positioned between him and the door, Zephyr circling overhead in a tight pattern. Pixel had vanished -- scouting the perimeter, Callum knew. Making sure "alone" meant alone.
+
+Drake Morrison walked through the construct array without comment. His eyes moved from anchor point to anchor point, relay crystal to relay crystal, following the thread lines with a methodical attention that Callum had not expected. He paused at the Mk.V Sentinel, studying the combat pattern crystallized in its Flux core. Paused again at the Refinery, where processed materials cycled through conversion queues in orderly batches. Stopped at the Enhancement Construct and stood there for a long time, watching the feedback loop cycle.
+
+He was not impressed. He was not dismissive. He was *evaluating*. The way a general evaluates a new kind of weapon -- with the cold clarity of someone who needs to understand what it can do before deciding whether to use it or destroy it.
+
+Callum stood by his workbench and waited. He had learned, in four months of building systems, that the most important phase of any process was the observation phase. You watched the system run. You identified the variables. Then you acted.
+
+Drake was a variable. The most dangerous variable that had ever walked into this warehouse.
+
+"Your output doubled five times in two weeks." Drake's voice was matter-of-fact. He didn't turn from the Enhancement Construct. "My logistics officer flagged it after Bray's inspection report. At this rate, you'll outproduce my entire east-sector farming operation by month's end." He turned, then. His eyes found Callum's. "And you're Level 20."
+
+"Twenty-two."
+
+The number had changed that morning. Two level-ups in quick succession, the compound loop's acceleration pushing him through the XP thresholds faster than he could allocate stat points. He'd dumped the points mechanically -- INT, WIS, always INT and WIS -- and barely registered the notifications before Drake's approach had wiped everything else from his attention.
+
+But the number mattered. He said it clearly.
+
+Drake's jaw tightened. A small motion, controlled, but Callum caught it. "Twenty-two. I'm forty-two. I've been Level forty-two for three weeks because the XP curve past forty is a cliff. I killed a Fracture boss last Tuesday that would eat this entire warehouse. A thing with six legs and a mouth like a garbage compactor. Took me forty minutes and I went through three healing potions." He paused. "And a twenty-eight-year-old engineer with four constructs is going to out-earn me by doing nothing."
+
+"Not nothing," Callum said. "Automation."
+
+"Same thing."
+
+"It isn't."
+
+Drake looked at him. The look was not hostile. It was something worse -- it was searching. The look of a man trying to understand something that contradicted everything he believed, and hating the fact that he had to try.
+
+"I know what you are," Drake said. "Loopweaver. Unique class. The Substrate gave you a class designed for exactly this -- building systems that build themselves. My people pulled the class registry records. There's one Loopweaver in the world, and he's in my zone, in a warehouse, running constructs that are scaling faster than anything my forty-two levels of active grinding can match." He took a breath. "I want you to understand something. I'm not here because I'm angry. I'm here because I'm scared."
+
+The word sat in the warehouse air like a dropped tool. Callum had not expected it. Drake Morrison did not seem like a man who admitted fear. But there it was, offered without hedging, and the honesty of it was more disarming than any threat.
+
+"Scared of what?" Callum asked.
+
+"Of what happens when the next surge hits and the only person producing enough Residuum to keep the Barrier standing is someone who's never held a weapon in a real fight." Drake's voice dropped. Not quieter -- lower. Denser. "I've buried sixty-three people since the Emergence. Forty-one of them were in the first month. I know all their names. I write them in a journal because someone should. And every single one of them died because they weren't strong enough, or fast enough, or skilled enough to survive what came through the Fracture." He stopped. Gathered himself. "If your machines crash. If your loop breaks. If a Fracture surge pops in this district and your constructs go down -- who fights? You? With your fifteen Strength?"
+
+Callum said nothing.
+
+"That's what I thought."
+
+---
+
+"I'm not here to threaten you," Drake said, and Callum believed him -- which was itself a data point he wasn't sure how to process. "I'm here to offer you a choice."
+
+They stood facing each other across the workbench. Drake had not sat down. Callum had not offered a seat. The construct array hummed between them, oblivious to politics.
+
+"Option one." Drake held up a finger. Gauntleted. Scarred. "Join the Iron Vanguard. Your compound loop operates under Vanguard oversight. Full guild protection -- nobody touches your constructs, your warehouse, your operation. You get resource access, zone priority, equipment support from our smiths. In exchange, forty percent of your output flows through Vanguard logistics, and you comply with guild directives on deployment priorities." He paused. "You'd be valued. Protected. And you'd have the strongest guild in Detroit at your back."
+
+"And constrained."
+
+"Everyone's constrained. The question is whether your constraints come from people who want you alive or from a Fracture surge that doesn't care."
+
+Callum let the offer sit. It was not unreasonable. That was the dangerous part. Forty percent of his output was enormous -- it would cut his compound loop's acceleration by nearly half, stretching his Condense timeline from weeks to months. But the protection was real. The resources were real. And Drake was not lying about the Fracture surges.
+
+*If I were optimizing purely for survival,* Callum thought, *I'd take it.*
+
+But he wasn't optimizing for survival. He was optimizing for throughput. And throughput required autonomy.
+
+"Option two," Drake said. He didn't raise a second finger. His hand dropped to his side. "Cease independent construct operations in Compact-controlled zones. Register your output with the logistics chain. Contribute your Residuum through official channels, not independent production." His tone shifted -- not threatening. Resigned. "The Barrier needs every Residuum point flowing through organized channels. I can't have rogue systems operating outside my logistics chain when a surge can hit any district, any hour. The math doesn't work if I can't predict the inputs."
+
+"I'm not rogue. I pay my Residuum contribution."
+
+"You pay the minimum. You could be producing ten times what you contribute, and no one in the Compact would know because you operate in the dark." Drake's gaze was level. "I'm not accusing you. I'm telling you what it looks like from the command post."
+
+Callum ran the second option through his mental model. It was worse than the first. Ceasing independent operations meant dismantling his compound loop -- the Enhancement Construct couldn't function within the Compact's linear logistics framework. It would be like asking a factory to run on a schedule designed for a blacksmith's forge. The output model was fundamentally incompatible.
+
+"What if I choose neither?"
+
+Drake was quiet for a beat. The kind of quiet that had weight.
+
+"Then I can't guarantee your zone access continues."
+
+There it was. Not a threat. A fact. Drake controlled the zones. Without zone access, the constructs starved. Without the constructs, the compound loop stopped. Without the compound loop, Callum was a Level 22 engineer with mediocre combat stats in a world that killed people twice his level on a bad Tuesday.
+
+Jin shifted on his cot. Chunk's stone body ground softly as it repositioned, the earth elemental reading its summoner's tension. From the loading door, Callum heard Mira's breathing -- steady, controlled, the rhythm of someone holding themselves very still.
+
+"You said you're scared," Callum said. "Can I tell you what scares me?"
+
+Drake waited.
+
+"You're hitting a wall. Level forty-two and slowing. Your best fighters are thirty-five and slowing. The XP curve past forty is -- you called it a cliff, and you're right, it's a cliff. Meanwhile, the Fracture Zones are getting worse. Vanguard intelligence says monster wave intensity has increased by five percent per month for the last three months. That's not linear. That's exponential." He paused, choosing the next words with the precision of someone placing components in a circuit. "Your philosophy produces linear output. You fight harder, you level slower, you hit the wall higher but you still hit the wall. I'm not your enemy, Drake. I'm the only thing in this zone that's scaling fast enough to match what's coming."
+
+The silence that followed had texture. Callum could hear the Refinery's conversion queue cycling. Could hear Jin's breathing. Could hear, faintly, the ambient hum of the Barrier three miles away -- the sound of civilization's last electrical fence, buzzing against the dark.
+
+Drake's expression didn't change. But something behind it shifted -- a tectonic motion, deep and slow, the kind of internal realignment that happened when a load-bearing belief took its first crack.
+
+"You build machines to fight," Drake said. Very quietly. "I fight. Every scar on these hands is a monster that didn't reach the Barrier." He held up his hands. They were a topographic map of violence -- burns, cuts, calluses layered on calluses, the deep-tissue damage of six months of melee combat and eleven years of firefighting before that. "What did your machines sacrifice? What did *you* sacrifice? Power that isn't earned is power that can't be trusted."
+
+"The Substrate doesn't care about sacrifice," Callum said. "It cares about throughput."
+
+"Then the Substrate is wrong."
+
+The words landed with the weight of something Drake had been carrying for a long time. This was not rhetoric. This was belief -- the bedrock kind, the kind built on graves. Callum thought of the sixty-three names in Drake's journal. Thought of Marcus Morrison, who died on Day Three holding a line so civilians could cross I-94. Thought of the creed carved into the Iron Vanguard's founding charter: *What you earn, you keep. What you idle, you don't deserve.*
+
+Drake's philosophy was mathematically wrong. Callum knew this with the certainty of someone who had spent four months watching the curves. Linear effort could not keep pace with exponential demand. The Barrier costs were accelerating. The Fracture surges were accelerating. Drake's approach would hold for months, maybe a year. Then the lines would cross, and no amount of personal sacrifice would be enough.
+
+But the philosophy was not morally wrong. It was not even unreasonable. It was a belief that said: *the things worth having cost something real. Power should require skin in the game. If you automate the sacrifice out of survival, what's left?*
+
+Callum did not have an answer. He had numbers, and the numbers were unambiguous. But numbers were not answers. They were measurements. And some things resisted measurement.
+
+"I lost seven people on the factory floor," Callum said. The words came out before his internal filter could stop them. "The day the Emergence hit. I was running a time study. The Fracture opened a quarter mile away. I hid in a hydraulic press for nine hours while my coworkers died." He paused. "I didn't fight. I hid. And I survived because I was lucky, and they weren't. So don't tell me I don't know what sacrifice costs. I know exactly what it costs. I just can't afford to keep paying it the way you do."
+
+Drake looked at him for a long time.
+
+Then he nodded. Once. Not agreement -- acknowledgment. The nod of a man who had heard something true and chose not to argue with it.
+
+"Think about it," Drake said. "You have a week."
+
+He turned and walked toward the loading door. His boots rang on the warehouse concrete with the measured cadence of someone who had learned to walk under fire and never lost the rhythm. At the door, he paused.
+
+"Your constructs are impressive," he said, without turning. "But constructs don't bleed. And in my experience, things that don't bleed don't fight hard enough when it matters."
+
+He ducked under the loading door and walked into the morning light. His silhouette against the gray sky was the silhouette of the strongest man in Detroit -- scarred armor, greatsword across his back, the exhausted bearing of someone who had carried a city on his shoulders for six months.
+
+Mira watched him go. She did not relax until his footsteps faded beyond the range of her Danger Sense.
+
+---
+
+The warehouse was very quiet.
+
+Jin spoke first, because Jin always spoke first. "That was -- okay, that was terrifying. That was specifically and precisely terrifying. His power reading on my scout was like looking at the sun through a pinhole. I don't even want to know what his stat sheet looks like."
+
+"98 Strength," Callum said absently. "94 Vitality. 1,338 HP. The highest physical attack value in the Detroit zone by a factor of three."
+
+Jin stared at him. "How do you know that?"
+
+"Loop Analysis can read publicly registered guild stats. His are filed with the Compact." Callum was staring at the Enhancement Construct, but he wasn't seeing it. He was running scenarios. *Drake gave me a week. Option A: join. Option B: cease. Option C: neither, and lose zone access.* Each option fed into his mental model and produced an output. Each output was unacceptable.
+
+There was a fourth option. It had been sitting in the back of his mind since Vera had shown him what Condensing truly meant -- since she had looked at his compound loop through the Cartographer's Lens and told him that Condensing was not a reset but a compression. Since she had said: *The multiplier isn't a reward. It's the output of higher informational density.*
+
+"I'm going to Condense," Callum said.
+
+The words came out flat. Factual. The way he stated production estimates or Flux calculations. But his hands, resting on the workbench, were not steady. Pip's light flickered rapidly on his shoulder -- the familiar's basic status reporting interpreting his elevated heart rate, his shallow breathing, the cascade of stress indicators that the Substrate tracked because the Substrate tracked everything.
+
+Mira crossed the warehouse floor. She moved with the fluid economy of a fighter transitioning from guard stance to engagement, and when she stopped in front of Callum, she was close enough that he could see the scar on her left forearm -- the one from her first week post-Emergence, the one she'd earned with a fence post and fury.
+
+"You'll drop to Level 1," she said.
+
+"Yes."
+
+"Everything resets. Stats, skills, equipment lockout. You'll have the HP of a tutorial player. Anything in this zone that can kill a Level 20 will kill you in a single hit."
+
+"Yes."
+
+"The Vanguard will see a Level 1 in a warehouse full of constructs he can no longer operate and they'll --"
+
+"That's why I need you." The words came out faster than he intended. More raw. The analytical filter dropped for a moment and what came through was simply human. "Both of you. While I'm weak."
+
+Jin straightened on his cot. "Hold on. Hold on. You're talking about a full prestige reset. Level 1. In a zone where the ambient monster level is -- you know what the ambient monster level is. You're talking about being the most vulnerable person in the Detroit Barrier Zone for --"
+
+"Nine days," Callum said. "I've calculated the re-leveling curve. With a 1.5x permanent multiplier on all gain rates -- which is the projected output of a first Condense at Level 25 -- I can reach Level 25 again in nine days. In two weeks, I'll be back where I am now. In a month, I'll be past where Drake is. And then I Condense again, and the multipliers compound, and the curve--"
+
+"Callum." Mira's voice cut through his acceleration the way her blade cut through Flux bolts -- clean, precise, absolute. "Stop mathing and listen to me."
+
+He stopped.
+
+"Nine days," she said. "Nine days where you can't run. Can't fight. Can't operate your constructs because you won't meet the level requirements. Nine days where anyone who wants to shut you down just has to walk in and *push*." Her dark eyes held his. "You're asking me to stand between you and every threat in this zone for nine days. You're asking me to trust that your math is worth more than my instincts, which are screaming that dropping to Level 1 in a world that eats Level 20s is insane."
+
+"Is it insane if the math works?"
+
+"Math doesn't stop a sword."
+
+"No. That's what you're for."
+
+She stared at him. He held her gaze because looking away would mean something he couldn't afford it to mean right now. The warehouse hummed. The compound loop cycled. Somewhere in the Foundry District, a construct smith's hammer rang against crystal, the sound carrying through thin walls like a distant bell.
+
+"Okay," Mira said.
+
+One word. She said it the way she said everything -- fast, direct, without hedging. But there was something underneath it that wasn't fast at all. Something that had taken weeks to build, from the first day she'd walked into this warehouse and seen a skinny engineer running constructs that fought like drunk children, to the night she'd watched the Vanguard shut him down and decided she wouldn't let it happen again. Trust. Not the easy kind -- not the kind that came from shared experience or mutual advantage. The hard kind. The kind that required betting on someone else's certainty when your own told you to run.
+
+"Okay," she said again, softer, as if confirming it to herself. Then, louder: "But we're doing this smart. I want a plan. I want fallback positions. I want to know exactly what happens at Level 1 and exactly how fast you get back. And if your math is wrong, Callum -- if you're off by even a day -- I will drag you to the Barrier by your collar and personally throw you inside the safe zone."
+
+"My math isn't wrong."
+
+"It better not be." She turned to Jin. "You in?"
+
+Jin looked between them. His hands were shaking -- with fear or excitement, possibly both, the line between them thin in a nineteen-year-old who treated existential threats as optimization puzzles. "You're asking me if I want to participate in the first documented compound-prestige acceleration attempt in the Detroit Barrier Zone? With a Loopweaver running a feedback loop that the Substrate itself is apparently watching?" He pushed his glasses up with one trembling finger. "Obviously I'm in. Are you kidding?"
+
+Callum felt something loosen in his chest. A tension he hadn't known he was carrying. He looked at the two people standing in his warehouse -- a sword saint who could kill anything she could reach and had chosen to protect a man she could out-fight in her sleep, and a college sophomore with a graphing-calculator talisman and a heart three sizes too big for his body -- and for a moment the optimization mindset flickered and what was left was simply gratitude.
+
+He filed the feeling away. There would be time to process it later. Right now, there was work.
+
+"First," he said. "We level."
+
+---
+
+The next forty-eight hours were a sprint.
+
+Callum had three remaining skill points. He invested all three into Compile Familiar, pushing it to Level 3. The effect was immediate: Pip's flickering cursor-form brightened and stabilized, its golden light taking on a warmer hue. A new capability unlocked -- basic status display. Pip could now project a simplified version of Callum's thread status into his peripheral vision without requiring him to open the full System interface. More importantly, Pip could manage one thread semi-autonomously, adjusting minor parameters -- kill target selection, retreat threshold calibration -- without Callum's direct input.
+
+```stat-screen
+  Compile Familiar has reached Level 3!
+  Pip — Compiled Familiar
+
+  New Capability: Status Display
+    Pip can project simplified thread
+    status to user's peripheral vision.
+
+  New Capability: Semi-Autonomous
+    Thread Management (1 thread)
+    Pip can manage basic parameters
+    on one thread independently.
+```
+
+"Hey," Callum said softly, watching the familiar's new, steadier glow. "You in there?"
+
+Pip chimed once. Not the warning chime from earlier. A clear, warm tone -- like a note struck on a tuning fork. Acknowledgment. Presence. Not language, not yet. But something that lived in the space between computation and communication.
+
+"Good. We're going to need you."
+
+He turned to the compound loop and began the push.
+
+The Enhancement Construct's feedback cycle had been running for thirty-one hours since the Vanguard reset. Compound Growth was at 11.2% -- modest, but climbing. Callum rewrote the Sentinel's combat script with Script Engine Level 5, incorporating conditional targeting, enemy-type prioritization, and a retreat protocol that was surgical rather than panicked. The new script was nineteen lines of tight, efficient automation that squeezed an additional eight percent kill-speed from the Sentinel's combat pattern.
+
+Jin contributed his summons. Chunk and Zephyr deployed alongside the Sentinel in the Rustbelt Flats, creating a combined formation that cleared spawns forty percent faster than either could alone. The Summoner-Loopweaver synergy Callum had theorized about was real -- Jin's summons operating inside Callum's optimized loop infrastructure created a force multiplier that made the math sing. Jin watched the combined output numbers tick upward and made a sound that was half laugh, half prayer.
+
+Mira ran the Overgrowth. Physically. She spent twelve hours per day in the field, cutting through Tier 2 mobs with the focused brutality of a woman who had been told she had nine days to keep someone alive and intended to front-load the danger. Her XP flowed through the party bonus. Her kills fed the gathering constructs' material collection. Her presence in the zone deterred anything large enough to threaten the construct deployments.
+
+The numbers climbed.
+
+```stat-screen
+══════════════════════════════════
+  LEVEL UP! 22 → 23
+
+  +5 Stat Points available.
+  +3 Skill Points available.
+
+  Allocation:
+    +2 INT (72)  |  +2 WIS (75)
+    +1 WIL (39)
+══════════════════════════════════
+```
+
+Callum allocated without hesitation. INT and WIS, always INT and WIS, the twin engines of his idle architecture. The one point into WIL pushed his session duration higher, buying another twelve minutes of continuous operation before decay. He banked the skill points. No time for skill decisions now -- everything was about velocity.
+
+The level-up rush hit him in the sternum like a warm fist. He'd felt it before, that familiar Substrate acknowledgment of growth, but it was different now. Sharper. More urgent. Each level was a step closer to 25 and the choice that waited there.
+
+Fourteen hours later:
+
+```stat-screen
+══════════════════════════════════
+  LEVEL UP! 23 → 24
+
+  +5 Stat Points available.
+  +3 Skill Points available.
+
+  Allocation:
+    +2 INT (74)  |  +2 WIS (77)
+    +1 WIL (40)
+
+  Compound Growth: +27.8%
+  Daily Essence: ~14,200
+══════════════════════════════════
+```
+
+Level 24. The number pulsed in his interface like a heartbeat. One level from the threshold. One level from the edge.
+
+Callum sat on his cot in the blue-dark warehouse, constructs humming around him, and pulled up his full status for the first time in days. The numbers arranged themselves in his vision with the clean precision of a production readout -- except these numbers were him, were the quantified total of everything he'd built and everything he was about to risk.
+
+```stat-screen
+╔══════════════════════════════════════════╗
+║  CALLUM VOSS                             ║
+║  Class: Loopweaver    | Level: 24        ║
+║  Prestige: 0 (Awakened)                  ║
+║  Automation Tier: 3                      ║
+╠══════════════════════════════════════════╣
+║  STR:  15          AGI:  16              ║
+║  VIT:  20          INT:  74  (+2/lvl)    ║
+║  WIS:  77  (+2/lvl)  PER:  17           ║
+║  WIL:  40          LCK:  14             ║
+╠══════════════════════════════════════════╣
+║  HP:  410/410      MP:  1,007/1,007      ║
+║  Stamina: 194/194                        ║
+╠══════════════════════════════════════════╣
+║  Script Complexity: 42.0 instructions    ║
+║  Idle Yield Multiplier: 2.54x           ║
+║  Session Duration: 12 hrs                ║
+║  Thread Count: 3                         ║
+║  Construct Slots: 4                      ║
+╠══════════════════════════════════════════╣
+║  Recursion: 15                           ║
+║  Compound Growth: +27.8%                 ║
+║  Daily Essence: ~14,200                  ║
+╠══════════════════════════════════════════╣
+║  Unallocated Stat Points: 0             ║
+║  Unallocated Skill Points: 6            ║
+╚══════════════════════════════════════════╝
+```
+
+Seventy-seven Wisdom. Seventy-four Intelligence. Numbers that would have been respectable on a Level 40 mage, packed into a Level 24 frame that had fifteen Strength and sixteen Agility. A body that couldn't outrun a moderately annoyed dog, running a mind that could script automation loops more complex than anything in the Detroit zone. The stat distribution was absurd. It was also exactly right.
+
+He closed the screen and opened a different one. A notification that had been sitting at the bottom of his queue, patient, clinical, waiting.
+
+```stat-screen
+╔════════════════════════════════════════════════╗
+║  CONDENSE — THRESHOLD APPROACHING             ║
+║                                               ║
+║  Current Level: 24                            ║
+║  Required Level: 25                           ║
+║                                               ║
+║  Estimated Prestige Shards: ~42              ║
+║  Projected Permanent Multiplier: 1.5x        ║
+║    all gain rates                             ║
+║                                               ║
+║  NOTE: Upon reaching Level 25, Condense      ║
+║  will become available. Condensing resets     ║
+║  level, stats, and skill progress.            ║
+║  This cannot be reversed.                     ║
+║                                               ║
+║  [DISMISS]                                    ║
+╚════════════════════════════════════════════════╝
+```
+
+*This cannot be reversed.*
+
+The Substrate used the word "WARNING" exactly once in its communications, and it was in the Condense prompt. Callum had read Vera's notes on this. The clinical, indifferent System that never expressed concern, never editorialized, never told you that what you were about to do might be a terrible idea -- except here. Except at this threshold, where it paused long enough to say: *are you sure?*
+
+He dismissed the notification and lay back on the cot.
+
+One more level. Roughly fourteen thousand more Essence at his current rate. At fourteen thousand per day, that was... tomorrow. Maybe the day after, depending on how the compound curve bent overnight. The Enhancement Construct's feedback cycle would push harder through the night hours when the zone spawn rates peaked. Pip would manage the combat thread while he slept. Jin's summons would hold the line.
+
+And then the button would appear. The real one. Not the threshold warning but the actual prompt -- CONDENSE, in letters that meant giving up everything he'd built for the promise that building it again would be faster. Level 24 to Level 1. From 410 HP to 151. From 1,007 MP to 160. From the architect of the most sophisticated idle system in the Detroit Barrier Zone to a man who couldn't survive a single hit from anything outside the Barrier's training zones.
+
+*But the multiplier,* the systems-thinking part of his mind whispered, relentless, already running the projection. *1.5x on everything. XP, Essence, Flux, materials. The compound loop doesn't reset -- the constructs keep running even if you can't control them. Mira and Jin keep the operation alive while you re-level. Nine days to 25 again. Then you Condense a second time and the multiplier stacks. Three weeks to your third Condense. By the fourth cycle, you're gaining XP faster than Drake at Level 42. By the sixth, there's no comparison.*
+
+The exponential. The curve that always won, given enough time.
+
+*If you survive the nine days.*
+
+He thought of Drake Morrison's hands. Scarred, calloused, mapped with violence. *Things that don't bleed don't fight hard enough when it matters.*
+
+He thought of Mira's one word. *Okay.*
+
+He thought of his seven coworkers on the factory floor, and the sound of their dying filtered through sheet metal, and the nine hours of silence that came after.
+
+On his shoulder, Pip glowed steadily. The familiar's light cast a small circle of gold on the wall beside the cot -- warm, persistent, the luminous equivalent of someone sitting quietly beside you in the dark.
+
+"One more level," Callum said to the empty warehouse.
+
+Pip chimed once, soft and sure.
+
+Outside, the Detroit Barrier hummed. Inside, the constructs cycled. The Enhancement Construct fed the Sentinel fed the Collector fed the Refinery fed the Enhancement Construct, around and around, the loop that never stopped, the curve that never straightened, the compound function climbing toward a threshold that would erase it and rebuild it stronger.
+
+Callum closed his eyes. He did not sleep. He watched the numbers climb behind his eyelids -- the Essence counter ticking upward in his System interface, each increment a fraction of a percent closer to the moment when the button would appear and he would have to choose between the safety of what he had and the terrifying promise of what he could become.
+
+The slope was steepening.
+
+This time, everyone was watching.

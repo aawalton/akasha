@@ -1,0 +1,227 @@
+---
+id: 20b6af30-86ab-5bc3-a2f7-475bd446ebf9
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch29: Skill Grind (5)"
+slug: 0036-b6-ch29-skill-grind-5
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 36
+ownLength: 2532
+unit: words
+ownProgress: 2532
+publishedAt: 2026-02-24
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3088731/b6-ch29-skill-grind-5"
+royalRoadId: "3088731"
+removedAt: "2026-07-03T13:48:08.103Z"
+---
+
+Arthur was running up against a problem, and that problem was a quickly diminishing number of card shards.
+
+Slowly but surely, he was going through the pile he’d brought. He was still seeing results and becoming noticeably more efficient at almost every aspect of his card smithing.
+
+Still, after literal weeks of practice, it was coming down to the ‘make it or break it’ point, and he was certain he wasn’t ready.
+
+Sitting back in his chair, he reluctantly pulled out his Time card. Ironically, he didn’t actually need more time on his side. He and Brixaby still had two more weeks remaining in this dimensional space.
+
+No, what he needed was more resources.
+
+Also, a seer to tell him which path to take—and also the one that wouldn’t kill him—would be nice.
+
+Pursing his lips, he toyed with the idea of seeing if he could create a card that would give him more resources out of thin air. It should be possible, but probably not with Common shards, which was what he had left enough of to make another whole card.
+
+Oh, who was he kidding? He would have a hard time making it that specific. It turned out he could indeed direct the path of creating a card, but the final destination was a bit… random. He had his successes, but he had his failures as well. It was like trying to roll a ball down a tall hill and making it hit a basket at the bottom.
+
+He could start at the top and throw the ball, directing its momentum and direction to a large degree. But the ball would eventually have to bounce and lose some speed if he wanted it to hit the bucket. And those bounces and eventual rolls were random as it hit divots and clumps of grass and stones.
+
+The clumps of grass and stones were the individual shards.
+
+Arthur, of course, had skills. Each time he rolled the ball, he improved himself. Getting it into the bucket every time—ending up with almost exactly the card he wanted—was possible. He knew it was. He just needed a lot more practice.
+
+Okay, maybe he could use more time as well.
+
+Speaking of time.
+
+Leaning back, he once again read over the description of the Time Card.
+
+It’s About Time!
+
+Legendary
+
+Time
+
+The wielder of this card will be able to manipulate time at will. By using a high amount of mana, the wielder will be able to increase or decrease the passage of time. This effectively speeds up or slows down the world around them. There is no set limit on the time delay or increase, but the wielder may experience temporal strain or sustained feeling of disconnection with overuse. Warning: Extreme feelings of temporal disconnection may induce psychosis.
+
+Seek out other time-based cards for future sight, past travel, temporal illusions, and age manipulation.
+
+He felt that just possibly, his injury from using this card was getting better. Time still slipped by when he became really involved with a project, but that was normal for anyone. Arthur felt like he was getting his feel back for ten minutes passing versus an hour.
+
+Healing was taking… time.
+
+Arthur winced at his own pun and then let out a long sigh.
+
+He might have been a bit too loud because Brixaby popped his head up from where he was noodling around with a bit of blacksmithing nearby.
+
+“What is wrong?”
+
+A corner of Arthur’s mind noticed that Brixaby seemed to be prone to becoming distracted from his projects recently. Was something going on with him? Well, Arthur didn’t really feel like talking about his own issues at the moment, and it was always easy to distract Brix. He just had to ask about himself.
+
+“What are you working on?”
+
+Brixaby hesitated for a long moment and Arthur got the impression he was holding himself back. But whatever it was, it seemed his excitement burst the dam. He flapped-hopped over and held out his clawed hand. In the middle sat a small, milky white rock.
+
+“Observe! This is my newest creation!” He dropped it, and Arthur caught it easily.
+
+It was about the size of the largest joint. Turning it this way and that, he caught the glimmer of runes on the surface.
+
+“What is this?” Arthur asked.
+
+“It will provide shielding from mental magic in the emotional, telepathic, visual, and audio ranges,” Brixaby said proudly. “It is also much more mana efficient than my previous metal pieces. It is made of quartz.” He reached out and tapped it with the tip of a claw. “It would normally be clear, but I had to sand it into size without the use of gem-making equipment. Anyway, this must be in direct contact with the body to work. It will be a simple matter for dragons to swallow, but I know you humans are squeamish.”
+
+That was quite the speech for him. He must have been exited.
+
+“It is a little big to swallow,” Arthur said, though the rock was tiny for a dragon of his size. He was surprised that Brixaby was able to manipulate it with his claws. “Do you have a skill for rock manipulation?”
+
+“Gemstones,” he said shortly. “I cannot manufacture a proper gemstone cutter in this place, but once we return, I could perhaps make it something  beautiful  and functional.”
+
+He turned it between his fingers, noting the glimmer of runes. “How did you carve the enchantments on them?”
+
+“The ‘miniaturize enchantment’ enchantment, of course,” Brixaby said. “It is rather simple.”
+
+Oh. Right. He had read through the books himself and remembered that one. Though it wasn’t a ‘rather’ simple enchantment. At least, not for a beginner.
+
+“Even if a human could get this down their throat, I’m not sure a rock this size would, uh, pass through. But it has to always be touching skin? Would a secure bracelet work? Or a ring?”
+
+The moment the word was out, he thought of giving Cressida a ring of white quartz. It would look like a diamond ring.
+
+Well, he would be giving one to Horatio, too. That was awkward.
+
+Brixaby shot his idea down. “I cannot miniaturize it to that size yet. I could arrange a bracelet to go around the wrist or upper arm with a band of chain mail… unless you have leather?”
+
+“I do, but the hides are uncut.”
+
+Arthur removed the two cow hides he had stored in his Personal Space. They had been mostly cured with the fur removed, leaving only the soft, oblong hide. He hadn’t had a plan for it when he stored these, but one never knew when they’d need the basics.
+
+Brixaby took the hides, tested their suppleness with his claws, then nodded and started to return to his work area.
+
+He suddenly stopped and turned around, looking hesitant and awkward. “I neglected to ask. How are your projects?”
+
+Arthur almost let him go. It was painfully clear his dragon wanted to work on his new inspiration. But… he supposed he could use another ear to help him sort things out.
+
+“I’m at a crossroads,” he admitted. “Maybe a tri-roads? I don’t know. I have three options.”
+
+Briefly, he hashed out the basics to Brixaby before continuing.
+
+“The first option would be to alter the Time card so it’s less of a drawback—”
+
+“The drawback being your time psychosis,” Brixaby said.
+
+Arthur made a face at the word psychosis. “I wouldn’t call it that.”
+
+Brixaby ignored him. “It is in the card description. But that is not what concerns me: what if your attempt fails?”
+
+He took a deep breath. “If it’s catastrophic? Well, it will kill me, and you too if you’re standing too close. That’s if one of the Legendary-ranked shards goes. If the entire card matrix collapses, it will probably rupture this pocket space, which would do who-knows-what to the hive outside of it.”
+
+Brixaby flicked out his tongue in thought. He seemed to be seriously considering it.
+
+“I’m surprised you aren’t telling me not to do it right away,” Arthur said.
+
+“You are careful and thoughtful. I am certain with the stakes so high that you would work with the most extreme care. Besides, you have been working with Rares which can certainly kill you if they blew up too close. Though,” he hesitated, “in crafting, one can make all the right moves and still fail due to outside forces no one can foresee.”
+
+Arthur reflected that his dragon could be wise some of the time.
+
+Brixaby shook his head as if casting off the idea. “What else? You said there were two other choices?”
+
+In answer, Arthur pulled out his Moderate Self-Repair card. Or healing card for short.
+
+“I can adjust this instead to heal the damage. I might have enough shards to do it, though sometimes the shards just don’t cooperate. Still, at the end of the day, it’s only a moderate healing card.”
+
+“Could you just make it an Ultra Healing card?” Brixaby demanded. “Or an Arthur-only powerful healing card?”
+
+“I thought of that, but it would be changing the entire matrix of the card. I still have to limit myself to small changes with the Rares to see success. If I were going to make it an ‘Arthur-only Powerful Healing Card,’ I’d be better off making a whole new one instead.” He paused. “That’s the third option: make a new card.”
+
+“Then do that,” Brixaby said with a snort.
+
+“I’d need more Rare shards. I mean, I technically have enough, but the more I work with them the more it feels like each one has its own personality. Or… pre-destination, I guess. Though they’re still a little moldable when they’re still shards. I don’t think I have enough of the right type to do exactly what I want. It would have to wait until we get back and I can harvest more from old eruptions.”
+
+Of course, Brixaby saw the problems with that immediately. “You will not have time. We will be shortly fighting two eruptions.”
+
+“That would give me what I need to get those Rare shards,” Arthur argued.
+
+“Except we must find out what has happened to the Rowantree Estate,” Brixaby said. “Only a few hours have passed for them, but soon it may be a few hours too many.”
+
+Arthur slumped. He had come to the same conclusion. “Yeah. My time difficulties are mostly an inconvenience right now, but what if it makes me jump to the wrong decision at the wrong moment? Or what if I have to use the Time card again and my problems get worse?”
+
+Brixaby tapped his claws against the ground in thought.
+
+“There is no need to decide at this moment. Come fly with me.”
+
+It had been a few days since Arthur and Brixaby had flown together, mostly because Brixaby had been excited to show off his new skill that generated a wall of wind.
+
+“You gave me whiplash the last time,” Arthur said pointedly. He was proud of his dragon for figuring out that skill, but he hadn’t been warned when he showed it off. His neck had only started to feel normal today.
+
+“I will not practice my skills,” Brixaby promised. “We will just fly.”
+
+That sounded… nice, actually.
+
+Arthur took his seat at the base of Brixaby’s neck. They didn’t bother with the rigging harness they had worked on. For once, they were taking a quick break from grinding out skills and ideas for the future.
+
+After all their crazy practice, flying straight could get a little boring. Soon, Brixaby was doing loop-de-loops. Not to shake Arthur off, but because Arthur’s dragon riding skills were now high enough that it was perfectly safe when he was seated.
+
+Though just for the fun of it, Arthur did stand a few times.
+
+It was pretty fun.
+
+The hourglass sun was starting to set, casting long shadows across the untainted lands of the pocket space. Brixaby flew low just to run his claws across the still water of a large pond. Over the sound of the wind, Arthur caught the chirp of frogs.
+
+By the time they landed, Arthur had decided what he wanted to do.
+
+The most risk often yielded the greatest rewards, yes, but that was mostly because the people who reported their success were the ones who lived.
+
+Arthur had to be truthful with himself: he wasn’t ready to significantly alter a Legendary card. Not yet.
+
+But he could with the Rares.
+
+Lighting a few torches to give him light—he felt refreshed after the flight and wasn’t going to waste time on mere sleep—he started working on the shards for his healing card.
+
+Gone were the days when he would scratch out changes on them and find out what happened next. He had been studying the shards for so long now that he had slowly developed a good feeling for them.
+
+Arthur hovered his hand over the small stack of remaining Rare shards, using his insight to feel for one that would be receptive to the change he wanted.
+
+He found three.
+
+Those were the ones he started scrawling new commands. The card was simple and there was a lot he could add, if only it would allow it.
+
+The first was halfway there before it started to reject the changes. The white writing suddenly turned an angry red. He set it aside, and it slowly healed.
+
+Arthur went to the second shard. It almost instantly rejected the change and started to collapse. He threw as far as he could and still felt the heat of the explosion roll over him.
+
+From his crafting station, Brixaby gave him a look.
+
+Arthur held up the third shard. “Last one.”
+
+It… also blew up.
+
+With a scowl, Arthur sat back. His eye caught the first shard he had tried to alter. By now it had completely healed.
+
+It had started to accept his change, but he had gone too far.
+
+Arthur read over the card again: The wielder of this card will be granted the ability to repair minor to moderate wounds and injuries.
+
+What was the difference between ‘wounds’ and ‘injuries’? Marion might have something to say about it, but to Arthur wounds were also injuries. He was the card smith here, so he figured the intent counted. That also gave him an important gap where he could add his additional, altered shard.
+
+This time he added one word: dimensional.
+
+The shard accepted it, and he grinned wide as he added it to the card.
+
+Moderate Self-Repair
+
+Uncommon
+
+Healing
+
+The wielder of this card will be granted the ability to repair minor to moderate wounds and dimensional injuries. Severe, crippling, complex, or mortal wounds may be only partially healed. This is an active effect and requires the use of mana.
+
+It was, at the end of the day, only a Moderate Self-Repair, healing card. His sense of time still may take a bit to fully heal, but now he was absolutely certain that it would.
+
+That done, he now had to focus on the two eruptions to come.
+
+He and Brixaby had two weeks to prepare.

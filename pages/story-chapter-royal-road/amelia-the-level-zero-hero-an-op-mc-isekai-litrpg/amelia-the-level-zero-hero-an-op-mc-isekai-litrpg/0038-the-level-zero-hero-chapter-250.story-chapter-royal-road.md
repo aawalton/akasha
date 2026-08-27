@@ -1,0 +1,145 @@
+---
+id: 32eaa944-5d77-5085-b6e1-f513a7118d77
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 250"
+slug: 0038-the-level-zero-hero-chapter-250
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 38
+ownLength: 1523
+unit: words
+publishedAt: 2024-08-23
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1771146/the-level-zero-hero-chapter-250"
+royalRoadId: "1771146"
+---
+
+I hated being a hero. That was why I had always given excuses to avoid having to be a hero.
+
+But my arguments were always moralistic, philosophical, and selfish.
+
+So I had completely forgotten what it meant to be a hero.
+
+To be a hero was to protect those who were weak.
+
+To be a hero was to give hope to those who were afraid.
+
+To be a hero was to save those who were suffering.
+
+But most importantly, to be a hero was to do what was right, even if I didn’t want to.
+
+And that was why, at the end of the day, I was a hero.
+
+I closed my eyes as I stood behind Kallistus Kal. The [Hero King] hadn’t even so much as glanced at me, despite my sudden arrival. However, he did acknowledge my presence.
+
+“I do not know you, girl,” he said, still not moving. “But I must ask you to leave me alone for I am mourning.”
+
+I stared at him for a moment. I saw the flakes of the Void Essence wisping off his body. I saw the slight bit of distortion through his back inside of his chest. “My name is Amelia. And I see you have absorbed the power of the Voidgod.”
+
+Kallistus Kal twitched. It was evident he was wondering how I knew that. But he didn’t comment on that. Instead, he rose to his feet as he spoke somberly.
+
+“Indeed,” the [Hero King] replied morosely as he brought a hand up. He still didn’t face me, looking towards the empty air right in front of him. “I have labored hard for all these years to do what I could to return home. No matter who was my enemy, and no matter who I had to use, I did it all just so I could see my wife— my daughter— again.”
+
+I watched as a distortion began to form before him. And a portal appeared— one that led to another world.
+
+It was Earth.
+
+Except it was not Earth. At least, not the one I knew.
+
+When I last saw my Earth, it had advanced to a point that flying cars existed. Skyscrapers that stood as tall as mountains littered the landscape, and rampant pollution coated the planet in a permanent fog of smoke.
+
+Meanwhile, this Earth that Kallistus Kal came from looked like it was in the middle of its industrial revolution— it looked like that not long ago, it had still been in the medieval ages, with serfs and peasants tilling the fields for their lords.
+
+Kallistus Kal shook his head as he stared at this sight. “Everything I did was for this one goal. I conquered all of Laxo, defeated a Guardian Angel, and even tricked the Fal-Deus. And yet… and yet…”
+
+He brought a hand forward, and the portal closed. Slowly, he brought his hand down to his chest, clutching his heart. He made a pained face as he turned to me. Tears streamed down all three of his eyes as he whispered.
+
+“It was all for naught.”
+
+“I am sorry,” I said as I lowered my head.
+
+“Diana… Lily… they were the reason for my existence,” Kallistus Kal continued as he met my gaze. He continued speaking in a melancholic tone. “Everything I did was to see them again. But I cannot see them again. All because of this foolish world.”
+
+And the tone of his voice shifted. It became harsher— angrier. I could see the rage in his eyes— the hatred. But most importantly, I could see his suffering.
+
+“This world took everything away from me,” the [Hero King] said as his gaze hardened. His tears dried up, and he reached for his broadsword at his side. “That is why I will destroy it.
+
+I could understand how he felt— truly, I did. Even if I barely knew him, I had been in a similar situation as him. That was why I knew that no matter what I said, I wouldn’t be able to reach him.
+
+I wouldn’t be able to talk him out of this.
+
+“You will destroy this world, just like the Voidgod wants,” I said simply.
+
+“I do not care for the God of the Void or its ambitions,” Kallistus Kal snarled as raised his weapon. “I have enslaved it, and now, its power is mine.”
+
+“Your prison you created will not hold the Voidgod. It will break free, and when that happens, you will become nothing more than its vessel.”
+
+“Then let me be its vessel after I reduce this world to ash,” the [Hero King] spoke calmly, the tone in his voice suddenly changing again. The purple aura covering his body began to shine brighter. I could sense his power growing with each passing moment. “I do not care what happens to me after I have made them all pay for taking my family away from me.”
+
+“What about your country? Your people? Your friends?” I asked, a white glow beginning to overcome my body.
+
+“I will destroy them too,” Kallistus Kal said as he took a step forward. “I do not care who it is. Ammon, Rakash, Si-Vus, Melissa. My country. My servants. My enemies. My allies. They will all pay as well.”
+
+The [Hero King]’s blade began to shine with a violent purple light as he continued to march up towards me. His rage had completely overcome him. Purple veins began to spread out from the third eye on his forehead, and he raised his blade as he screamed, shaking the entire planet.
+
+“I WILL DESTROY IT ALL—”
+
+And I moved, grabbing him by the face as I leapt into the sky.
+
+Then the rumbling that shook the planet stopped.
+
+The overcast sky cleared.
+
+The storm vanished.
+
+And we were gone.
+
+—--
+
+Kallistus Kal blinked.
+
+He hadn’t known what just happened. One moment, he was about to destroy everything. And the next, he was now standing in the middle of an icy world, encased by a black sky. He looked around in confusion as he scanned his surroundings. But all he saw was Amelia standing before him, uncaring.
+
+“Where are we…?” he asked, staring at the endless space that spread out around him. “Are we in the Void?”
+
+“No,” Amelia said as she shook her head.
+
+A white glow still covered her body, and her cloak flapped behind her back as she stepped forward. She raised her sword, pointing at a white ball of light that shone in the sky. It was tiny, but it was evidently the sun.
+
+“We are on an uninhabited planet at the very edge of the solar system,” Amelia explained. “I brought us here because our fighting would have destroyed the planet we were in and killed everyone I know.”
+
+“The planet?” Kallistus Kal’s brows snapped together. “You mean Vacuos.”
+
+“Nope, we’re still in Vacuos,” Amelia corrected him.
+
+The [Hero King] stared at her uncomprehendingly. For a moment, his anger was forgotten. He was still trying to understand his situation.
+
+“What does that mean?” he asked.
+
+And Amelia sighed, “It’s common knowledge. Basic science.”
+
+Then she paused as she tilted her head back. She tapped a finger on her chin as the [Hero King] frowned.
+
+“Well, I mean, I guess it makes sense that you didn’t realize it, since you come from a medieval world. But Vacuos is not a single planet.” And Amelia gestured at the stars in the distance, before shrugging. “It is an entire universe with literally trillions of galaxies.”
+
+“What…?” Kallistus Kal’s head spun as he processed what she said.
+
+His confusion must have been evident on his face as Amelia sighed. She wagged a finger and spoke dismissively.
+
+“In simple terms: the world is a lot bigger than you thought. A lot bigger. So you’re going to need to be a lot stronger than you are right now if you’re planning on destroying all of Vacuos. Because as of right now, you are still weak.”
+
+Kallistus Kal froze when he heard that. Even though he had already absorbed the Fal-Deus’s power, she thought he was weak? No— that was ridiculous.
+
+He felt his anger resurging from earlier as he drew more power from the Fal-Deus. The purple aura coating his body returned, this time larger than before. He knew what he wanted to do now. First, he was going to kill this strange woman. Then he was going to destroy the entire universe.
+
+He began to march forward as he raised his sword once more.
+
+Amelia pursed her lips when she watched him approach. “Although, you are growing exponentially stronger with each passing second. So our fighting will eventually affect the people back in Wolfwater. We probably need to get even further away, huh?”
+
+Kallistus Kal leapt at her as he screamed.
+
+“YOU—”
+
+And Amelia appeared in front of him, grabbing him by the face again as his three eyes went wide.
+
+“Let’s get further away, shall we?” she said simply.
+
+Before she leapt into the sky once more, but this time, the force of her jump destroyed the uninhabited planet behind her, reducing it to rock and rubble.

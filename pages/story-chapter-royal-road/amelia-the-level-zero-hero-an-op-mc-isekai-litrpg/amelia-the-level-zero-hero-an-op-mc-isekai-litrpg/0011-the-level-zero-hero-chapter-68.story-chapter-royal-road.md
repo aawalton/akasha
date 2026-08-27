@@ -1,0 +1,153 @@
+---
+id: f3240753-8671-5411-83e9-0759e39fc0a3
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 68"
+slug: 0011-the-level-zero-hero-chapter-68
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 11
+ownLength: 2115
+unit: words
+publishedAt: 2023-02-24
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1122019/the-level-zero-hero-chapter-68"
+royalRoadId: "1122019"
+---
+
+The rapping stopped. A shadowed figure shifted at the other side of the doorway. My eyes narrowed, and Bucky backed up. I could hear her clucking nervously behind me as I reached for the doorknob.
+
+Whoever it was out there— I knew I could handle them. But I still didn’t like how aloof they were acting. The shadow shifted, and I yanked the door open.
+
+“You—” I started as I stepped out of the doorway.
+
+And I stared at the figure waiting there. A purple-skinned man waited at the other side. He had four long arms, and a pair of antennae protruding from his head. His oversized head bobbed back as he peered at me with beady black eyes. He raised a hand with three fingers and nodded at me.
+
+“Hey,” he said.
+
+I just blinked. “Who… what the fuck are you?”
+
+He grinned. “I am, xrr, Xakor. An otherworlder, just like you. May I come in, Amelia the Unranked Adventurer?”
+
+—--
+
+I let Xakor into the house. He took a seat in the living room as Bucky backed up warily. The chicken was afraid of him. She clucked nervously, even as I tried to calm her. I gave her some seeds to distract her before patting her gently.
+
+“It’ll be fine,” I reassured her.
+
+I could understand why Bucky was antsy around Xakor. He was quite literally an alien. Well, I was technically an alien too, but I was still a human. So while I didn’t belong to Vacuos, I still fit in to a certain extent.
+
+Xakor did not at all. He looked like an alien straight from a movie. The only thing that seemed normal about him were the clothes he wore— plain white robes that buttoned up to the top. He flashed a toothy smile my way as I sat before him.
+
+“I apologize for my unexpected visit,” he said in a gravelly voice. He inhaled before he spoke, like he was snorting the phlegm in his throat. “Xrr, I was under the impression that my friend informed you I was coming. But knowing him, I can see how he could neglect mentioning that.”
+
+“No, he did.” I shook my head. “Guildmaster Evan, right? From Windrip.”
+
+Xakor raised an amused brow. “Indeed, that is him. Now that is surprising. I did not expect him to exhibit such consideration. He is typically quite the… xrr, aloof individual.”
+
+“He’s weird as fuck,” I said flatly.
+
+“That is one way to put it, yes.” Xakor nodded and leant back in his chair. “But Evan is no bad person. He put me in touch with you for a good reason. And I am quite grateful to be able to have this opportunity to speak with you, Amelia the Unranked Adventurer.”
+
+“Don’t call me that.” I rolled my eyes.
+
+“Xrr, so you’d prefer to be referred to as the Unranked Adventurer?” The otherworlder didn’t blink, even as he gazed at me curiously. He hadn’t blinked once since we had met. I was pretty sure he couldn’t close his eyes even if he wanted to.
+
+“No,” I said as I shook my head. “Just call me Amelia. I don’t have a Title.”
+
+“Of course, how silly of me.” He brought one hand up to rub his chin while he folded two more arms across his chest. He had a rather thin frame, even though he was quite tall. “I believe Evan said such a thing— that you don’t have a Class.”
+
+“I don’t. Do you?” I quirked a brow.
+
+He laughed as he spread his four arms wide. “I do, indeed. They call me Xakor the Patron of the Culinary Sciences, and I am a Level 55 [Chef].”
+
+“You’re… a [Chef]?” I frowned. “Even though you’re from another world?”
+
+Xakor nodded. I found that interesting. It confirmed my suspicions that I really was the only one in Vacuos who couldn’t gain any other Classes. There was supposedly a [Hero King] out there, and he was an otherworlder too, but I considered the possibility that he was only pretending to have a Class.
+
+But the fact that Xakor had a Class— a mundane non-combat Class like a [Chef] too— made it clear to me that there was either something wrong with me or something wrong with the System. Either way, this wasn’t an ordinary predicament in the slightest.
+
+Or maybe Xakor was already from a world with a System too.
+
+“Where are you from, anyways?” I asked, tilting my head. “I’m from Earth.”
+
+“I am from a world called Krakos,” Xakor replied simply. He raised his head as his black eyes glinted. “It is a universe far more advanced than Vacuos. A world where ships can sail the cosmos— where power can be drawn from the sun itself. My people have conquered entire solar systems, and we have befriended all kinds of peoples across the galaxy.”
+
+“That’s…” I furrowed my brows. “Sci-fi as fuck. Do you guys have laser swords and laser guns?”
+
+“Laser swords and laser guns?” He gave me a quizzical look.
+
+I gestured vaguely around me. “I don’t know— to fight and stuff?”
+
+He shrugged. “My people have long since abandoned the concept of warfare. It was what we needed to shed to make the leap into a spacefaring civilization. How can we travel the galaxy, if we cannot even find peace within ourselves?”
+
+“Fair.” I thought of my world.  “Maybe Earth can learn a thing or two from your universe…” I muttered.
+
+“The same could be said for Vacuos.” Xakor spoke as he lowered his head.
+
+I pursed my lips. But I didn’t add anything else to that. The purple-skinned man just chuckled as he got to his feet.
+
+“Xrr, let’s not dwell on such grim thoughts.” He stepped forward, and Bucky clucked in a panic. She backed away to the far side of the room as he glanced at her with a kind smile. “I came here for one reason alone, and that is to acquaint myself with you. I was quite surprised to hear that another otherworlder has appeared here in this world.”
+
+“Do you befriend every single otherworlder or something?” I asked curiously. “I do appreciate that you sought me out, but why does it matter to you?”
+
+“The other otherworlders in Vacuos are… xrr, you’ve seen what the [Hero King] has done. And the [Mystic Craftsman] is not much different. They are individuals I would rather not be associated with.” Xakor sighed and shook his head. “Do not misunderstand me— I have spoken once before to Kallistus, and Zil has exchanged a few letters with me. But I have been searching for someone who has been trapped in the same dilemma as myself.”
+
+“And that is?” I prompted the purple-skinned man.
+
+His antennae twitched. “A desire to live a simple life.”
+
+He spoke, and I paused. “That is… accurate.”
+
+Xakor just chortled as he waved a hand dismissively. “I have heard plenty from Evan about your struggles. But beyond that, I have heard about these strange meals you have concocted during your time in Windrip.”
+
+“Yeah, but everyone hated it,” I sighed as I got to my feet. “No one wants to try my cooking because I don’t have a Class.”
+
+“Oh, but I beg to differ.” Xakor stood by the kitchen, smirking at me. His pure black eyes twinkled, and I blinked. “I would love to have a taste of these Earth meals.”
+
+I stared at the alien for a moment. For the first time since I arrived in Vacuos, someone was willingly offering to try my food even while knowing that I wasn’t a [Cook] or a [Chef]. I opened my mouth— and then I just smiled.
+
+“Well, as long as I can try some of your world’s dishes too, then sure...”
+
+—--
+
+Guardian Angel Z357 found nothing at Mount Arkais. He had investigated the caldera— he had swept over the burning forest. And all that remained here were traces of the Void’s power. But there was no rift. No tears in space.
+
+If the world had been sheared open, it was repaired now. That was unusual. When Guardian Angel Z357 last repelled the Fal-Deus, the entirety of Planet 16B had been riddled with rifts that had refused to close until his intervention. An army of Elder Dragons had to take the skies to repel the hordes of voidlings pouring out of the Fractured Realm, and when the war was over, Principality Z1 herself had to descend upon the planet to cleanse the residual depravity of the Void.
+
+But things were different now. Evidently so. Guardian Angel Z357 flew above Mount Arkais and shook his head. He determined that there were no remnants of the Void here— nothing that had leaked out remained. There was nothing of use for him to discern. No trails left behind that could explain the resurgence of the Fal-Deus.
+
+So he took off, searching for the next rift. He zipped through the sky, crossing over countless valleys and hills in minutes. He continued until he arrived at his next destination— where he detected traces of battle and the lingering essence of the Void.
+
+It was a city. A small city by the looks of it— certainly incomparable to the cities of the Grand Nova Empire. Perhaps a simple outpost? Guardian Angel Z357 wasn’t certain. He simply landed right in the middle of a destroyed street as humans passed by him like he wasn’t even there.
+
+They couldn’t see him. Not while he was under the effects of Without a Trace. He studied a crater in the middle of a street junction, and he raised one of his hands mechanically into the air. He ran his fingers over the magic permeating the world, lifting corrupted strands of mana into his palm. His fist tightened and his twelve eyes focused.
+
+He saw the ghost of a rift that had torn its way through space here. Just like in Mount Arkais, it had been sealed shut since then. But unlike the first rift, Guardian Angel Z357 could determine that this rift was created from a mutual effort in both the Fractured Realm and in Vacuos. Meanwhile, the rift in Mount Arkais had been opened through sheer force from the Fractured Realm.
+
+The fact that this rift here in this small city was opened in such a manner meant one thing. The Fal-Deus wasn’t working alone. There were people here in Planet 16B who have fallen under the prey of the Void’s power.
+
+Void-blessed, Guardian Angel Z357 thought. An unusual method for the Fal-Deus. It would have been much more efficient to simply send hordes of voidlings— or even voidbeasts— into Vacuos. But for some undetermined reason, the Fal-Deus was employing a roundabout method to cross through.
+
+Guardian Angel Z357 detected further traces of the Void up ahead, away from the city, and he investigated it. He reached a farming village and cast his gaze over the terrain. Once again, there were signs of battle here. But it must have ended quickly.
+
+It was impressive. Guardian Angel Z357 was certain it had been no lesser than an Elder Dragon who had defeated the Void-blessed here. Although— he thought there was a potential chance that the battle that took place in this village was against a mere Void-touched.
+
+But again, he didn’t know. He could only paint a vague image of what happened. He landed on the dirt road where the remnants of the Void’s essence was the strongest outside of the city, and he wondered who it was who defeated the Void-touched and Void-blessed here.
+
+Perhaps it hadn’t even been an Elder Dragon. It could have been a [Hero]. Guardian Angel Z357 hoped to consult with said individual for further information about the current situation plaguing Planet 16B. He glanced to the right. He saw a small small farm waiting there, and a pair of figures milled about inside. A brown-haired woman stood before a stove as she laughed.
+
+Guardian Angel Z357 shook his head and took to the skies. Whoever it was who repelled the Void here, it couldn’t have been any of the [Farmers] living around the area. That would be ridiculous.
+
+And Guardian Angel Z357 continued on to his next location.
+
+Ding!
+
+[In Progression: (2/5) Rifts Investigated!]
+
+—--
+
+“Did you see that?” I blinked, looking up from the frying pan and towards the window.
+
+I could have sworn I saw something flicker in the air above the clouds. But Xakor just shook his head. He crossed his four arms at me and spoke simply.
+
+“I did not notice anything,” he said.
+
+“Uh-huh…” I narrowed my eyes, before shrugging. “Well, whatever. As I was saying…”

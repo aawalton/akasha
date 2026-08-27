@@ -1,0 +1,123 @@
+---
+id: f93b9e5e-25c9-58c1-b729-1b04d3784d96
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 138"
+slug: 0022-the-level-zero-hero-chapter-138
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 22
+ownLength: 1485
+unit: words
+publishedAt: 2023-07-04
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1266239/the-level-zero-hero-chapter-138"
+royalRoadId: "1266239"
+---
+
+Jax was actually right. We were headed in the right direction back to Windrip— it just took longer than I expected to trek our way there on foot.
+
+When I had left the city, I was in a rush to save Guildmaster Evan. I had heard an explosion, followed by a small tremor coming from quite a distance away. So I just made my way to the source of the blast in an instant with a single jump.
+
+I was too acclimated to fast travel. I wasn’t used to walking to places anymore, so I was impatient. Well… at least it was a nice change of pace to take in the scenery around me instead of running around in a rush to save the day.
+
+We brought Guildmaster Evan to Brynn’s inn. The building had apparently been repurposed into a base of operations for the Clawed Hands— they were the mercenaries hired by the Adventurer’s Guild to save Evan.
+
+But I had to save them because they were about to be murdered by Eloise the Dark Wizard. And she was currently with us too… even though she tried to kill them. I wasn’t going to question it. It was ridiculous, however they brushed it off, and I didn’t care enough to press the issue.
+
+Now, I sat in one of the many rooms of Brynn’s inn as Guildmaster Evan lay in the bed before me. The Clawed Hands waited in the lobby downstairs, recovering from the battle. Meanwhile, Jax and Eloise waited outside of the small building. The two of them were keeping on the lookout in case the city guard somehow took notice of us.
+
+I highly doubted that would happen. The bulk of the elite soldiers from the Kingdom of Kal had been with the convoy which I attacked to save Evan. And while I spared most of their soldiers, letting them flee back to Windrip. I highly doubted that they would expect us to return to the city.
+
+Not when we were discreet about it too. After all, all of us… or most of us… were competent enough at remaining stealthy. So we were fine.
+
+I was certain that Jax wasn’t even concerned about being found out. He was probably just annoyed by the noise, and wanted some space for himself. Meanwhile, for whatever reason, I was pretty sure that Eloise wanted to speak with him.
+
+Anyways, all that meant was that Evan and I were left alone in his room. Brynn had brought the Guildmaster a bowl of soup, but she excused herself quickly enough. And now, we waited in silence.
+
+There was no clock sitting on the desk to fill the air with its ticks. Nor was there a buzzing crowd passing through the street right outside. Most of the people of Windrip stayed indoors— refusing to leave their homes ever since the Kingdom of Kal had taken the city.
+
+So it was quiet. I didn’t know what to say. After all, it was my fault that Kallistus Kal even went after the Guildmaster. I felt bad about it. Which was why I saved him. And it seemed that he fully understood that fact as well as I did.
+
+“You should not have saved me,” Evan finally said as he lowered his head. “They are after you, you know?”
+
+I stared at him for a moment, before looking away. I took in the room— it was the very same room I had stayed in when I was living here in Windrip. I turned back to the Guildmaster.
+
+“I am aware of that,” I replied simply.
+
+“I never once told them about you,” Evan continued. “Even when they tortured me. Even when they threatened to kill me.”
+
+I shifted back. “...right.”
+
+“And you revealed yourself to them. They have seen your face, Ms Amelia.” Even in his current state, the Guildmaster never forgot his manners— which was as expected from his eccentric self.
+
+I stared at him— I saw the worried look on his face. And I shook my head.
+
+“But they don’t know that I’m the one they’re looking for. As far as they’re aware, I’m probably with the Clawed Hands.”
+
+Evan remained silent for a moment. His right arm twitched, and he looked down into his trembling palm. Even with a healing potion, he still hadn’t fully recovered from the torture.
+
+“You’re right,” the Guildmaster whispered as he clenched a fist. “They don’t know who you are right now. But if you keep getting in their way, they’ll eventually figure it out. And that is when they’ll come after you.”
+
+I shrugged as I took a step back. “Let them come. I can deal with them.”
+
+Evan paused, studying the look on my face. His eyes narrowed as he settled back into the bed. “I was under the impression that you wanted to live a normal life, Ms Amelia.”
+
+“I do.” I nodded.
+
+“If the [Hero King] comes after you—” Evan started.
+
+And I gently placed a hand on the hilt of my sword. “Then I’ll be very annoyed. So I hope— for his sake— that he gives up what he’s doing and decides to mind his own business.”
+
+The Guildmaster stared at me. He blinked a few times, before chuckling. He shook his head as he spoke softly. “You know, you are a terrifying woman, Ms Amelia.”
+
+“I’m just a regular restaurant owner.” I smirked back at him. “I don’t see why anyone should be scared of me.”
+
+Evan smiled in return. He lay there for a moment as his eyes fluttered shut. I stared at the resting Guildmaster, before turning towards the shuttered window. A sliver of sunlight leaked into the room through the slits, but we were otherwise closed off from the outside world.
+
+What will you do now?” I finally asked after the moment passed.
+
+“Indeed, what will I do now?” he repeated after me.
+
+He sat up as he opened his eyes. He looked down at himself, before looking up at me. He held my gaze as I gestured vaguely around the room.
+
+“If you want, I can bring you back to my restaurant in Wolfwater. You’ll be safe there. And I am looking for a new employee…” I trailed off hopefully.
+
+Now that Guardian Angel Z357 was gone, I needed another server to help Harlan. Otherwise, that would be too much work for one man to deal with. Unfortunately, Evan shook his head.
+
+“I appreciate the offer, however I will leave Windrip tomorrow with the Clawed Hands.”
+
+I frowned. “Where will you be going?”
+
+“I shall speak with the Council of Adventurers— I need to inform them of what happened here in Windrip.” Evan raised his head as he wore a dour gaze. “The fact that Kallistus Kal wields the power of the Void… it only means one thing.”
+
+“That he’s a part of the Sect of the Abyssal Thorns?” I said as I raised a brow.
+
+“Correct.” The Guildmaster sighed, massaging his temples. “And if that is true, it means that the reason why he is waging this war— the reason why he is acting to unite all of Laxo— is to bring the continent under the banner of the Sect of the Abyssal Thorns.”
+
+I crossed my arms. “And I’m going to assume that’s a bad thing.”
+
+Evan took in a deep breath. “Very much so. That is why the Adventurer’s Guild must act to protect the Astrad Kingdom— we cannot remain neutral any longer. Now, it will be a war that goes beyond just the borders of two nations.”
+
+He relaxed his fist. He exhaled slowly, before turning to hold my gaze.
+
+“It will be a war to protect all of Vacuos from the Void.”
+
+I stared at the Guildmaster— I took in his words. And I pinched the bridge of my nose.
+
+“That sounds like quite the pain in the ass— good luck, though.”
+
+I took a step back, and Evan smiled at me.
+
+“I see you’re not going to offer us your help,” he said simply.
+
+“Of course not,” I snorted. “You guys should have to deal with your own problems. I’m not a [Hero].”
+
+“You may not have the Class, but you are a hero,” Evan corrected me.
+
+I waved a hand dismissively. “Well, you know heroes— I’ll be there to save the world just in time if it comes down to it. But until then… I’ll be busy running my restaurant.”
+
+“Amelia the Unranked Adventurer and the Ordinary Restaurateur. You indeed are quite the average lady.” The Guildmaster grinned at me.
+
+I just rolled my eyes before starting towards the door. “Anyways, if you ever need me, you know where to find me.”
+
+“Indeed.” Evan closed his eyes, whispering softly to himself. “Now let’s just hope that the [Hero King] never learns where to find you either…”
+
+And with that, I stepped out of the room.

@@ -1,0 +1,201 @@
+---
+id: 6ed9df55-b7c3-532a-8667-2b611aaefd25
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32: This Changes Everything"
+slug: 0033-chapter-32-this-changes-everything
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 33
+ownLength: 1744
+unit: words
+publishedAt: 2026-08-12
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3806111/chapter-32-this-changes-everything"
+royalRoadId: "3806111"
+---
+
+Ben closed the distance instantly and shoved his good left palm right into the closest goblin's chest.
+
+Pulling the mental trigger, he unleashed a point blank [Mana Missile] that tore a hole straight through its torso, bursting out the other side. Ben loved [Mana Missile], not only was it so cool, it also gave him another avenue for attacking he didn't have before.
+
+Reacting to the distinct ping from his [Mana Sonar], he threw himself backward, using [Fire Burst] to move around an axe cleaving right through the empty space his head had just occupied.
+
+Hitting the dirt, he rapidly scrambled away from the goblin leader.
+
+He was definitely getting the hang of keeping [Mana Sonar] running in the background during a fight. But something else pinged in his brain right then.
+
+Wait, what?
+
+That was entirely new.
+
+Usually, [Mana Sonar] just mapped out physical objects. But right now, with his [Focus] running in the background, the feedback was completely different. He wanted a better look.
+
+Instantly, [Focus] ramped up to full throttle. His lingering panic vanished into a cold void. He locked his eyes directly onto the giant leader, dodging around the creature's attacks as he focused on something else entirely.
+
+The monster was glowing with life mana moving around to heal the minor scrapes from Ben's near misses.
+
+But instead of just seeing the surface healing, Ben saw the exact internal pathway the mana took. He literally watched it surge from the goblin's core and flow perfectly into its damaged tissues.
+
+Wow, I can see how it works.
+
+Deciding to test a sudden theory, he stopped trying to immediately kill the leader. He needed to see exactly how this healing crap functioned if he ever wanted to replicate it.
+
+So he just became a complete nuisance. Dodging a sloppy backhand, he drove a [Fire Burst] powered knee right into the giant's thigh.
+
+The bone didn't break thanks to the goblin's sheer mass, but the flesh definitely tore wide open when he blasted another explosion of fire straight into it with his other foot.
+
+Kicking off the creature to back out, he just watched in fascination as the mana inside the goblin began moving.
+
+Sure enough, the mana inside the goblin pulsed aggressively toward the new injury.
+
+Following the glowing trail in his mind, he memorized the exact pathway it used to knit the muscle back together while dodging not only the goblin leader's attacks, but also the remaining goblin's.
+
+Trading a few more quick blows, he intentionally let [Warforged] absorb the glancing hits just to keep the exchange going.
+
+Getting slapped away by a thick green forearm, he barely felt the bruising under the heavy blanket of [Focus] even though he got injured. Jumping right back into the fray, he slammed a quick [Mana Missile] across the leader's shoulder.
+
+Again, the mana surged up to stitch the fresh wound closed.
+
+Fascinating.
+
+Roaring in total annoyance, the giant leader swung its axe in a massive overhead chop.
+
+Ben sidestepped, letting the axe slam directly into the corpse of the goblin he had just killed. A sickening crunch echoed as the axe head bit deep into the dead monster's spine.
+
+And the giant leader actually struggled to pull it back out of the tangled bone and flesh.
+
+Grinning fiercely, Ben didn't waste the golden opening. He'd observed enough. Igniting both heels, he launched himself straight forward. He rained down a brutal series of kicks against the giant's chest, using [Fire Burst] on impact to multiply the force.
+
+The giant staggered backward, completely stunned by the rapid fire assault.
+
+Twisting his body in midair, Ben aimed his bare heel directly at the leader's ugly face. He triggered a massive [Fire Burst] for a blinding finishing blow.
+
+But a sudden, jarring impact slammed hard into his ribs from the side.
+
+The last goblin managed to land a hit, knocking him hard into the ground. Because of that, he missed his chance for a finishing blow. The [Fire Burst] only grazed the goblin leader's cheek instead of taking its head off.
+
+Damn it.
+
+Yanking its massive arms backward, the giant leader tore its embedded axe straight through the dead goblin's ribcage.
+
+And it used that exact drag to haul its heavy body forward.
+
+Crossing the distance way faster than such a big goblin had any right to, it swung and Ben tried to trigger another [Fire Burst] to backpedal, but he was just a second too late, having been distracted by the other goblin.
+
+The blade bit brutally into his left calf. Blood splattered across the grass.
+
+But before the shock could even make him stumble, [Focus] clamped down on his brain like a steel vault.
+
+The overwhelming pain vanished. Everything around him just seemed to slow down as adrenaline flooded his system. His heartbeat leveled out entirely, plunging his mind into a state of absolute clarity. [Warforged] reinforced his calf and focused on keeping him functioning, and [Focus] helped it do what was needed.
+
+Right now, he existed, and the goblins did. There was absolutely nothing else.
+
+Backing away with a limp, Ben calmly evaluated his current situation.
+
+It was objectively terrible.
+
+His right arm was already a mangled mess from his earlier [Mana Missile] spam. He couldn't use it without risking permanent nerve damage.
+
+And now, his left leg was severely compromised. The muscle was cleanly sliced open, and he was losing a dangerous amount of blood.
+
+So his movement was completely compromised. He hadn't practiced [Fire Burst] with one leg only, so he really only had two choices left.
+
+He could either try to retreat on a busted leg, or he could fully commit and kill this bastard right here. If he wanted to put this thing down, he had to completely bypass its healing entirely. He needed to hit a single target.
+
+Taking out the throat or an eye was the only way to kill it faster than the mana could fix it.
+
+Barely a second had passed in real time as his [Focus] enhanced adrenaline filled brain processed everything and came to a decision. He barely even felt his torn calf muscle straining against the heavy reinforcement of [Warforged].
+
+He was literally only holding his broken body together right now through [Focus].
+
+Guess it's time to test my luck.
+
+Flooding his mana into his heel, he blasted forward and he swung his foot in a fire propelled arc right at the leader's face.
+
+But that was only a distraction.
+
+Twisting his upper body incredibly awkwardly, he brought up his left arm. He hadn't built the stable gun-barrel construct in this limb properly yet, and he was positioned terribly to even aim it right so it was going to mess up his arm. But it was already loaded long before he kicked the leader.
+
+Fuck it.
+
+Shoving the unstable magic forward, he slammed his palm directly against the giant's windpipe.
+
+And he fired.
+
+The [Mana Missile] blew cleanly through the monster's thick neck. Rupturing violently right out the other side, it sent a massive spray of dark blood into the air.
+
+But it wasn't just goblin blood raining down.
+
+Tearing through his own flesh, the uncontained recoil completely shattered his left arm. Bone crunching as his skin tore open, painting his own chest red.
+
+So now both his arms were entirely useless.
+
+Committing everything to that single decisive opening obviously came with a steep physical price, as well, as he left the remaining goblin unattended.
+
+Swinging its rusty blade from his blind spot, the remaining lackey attacked him. The weapon carved a deep, agonizing trench straight across Ben's unprotected back.
+
+Pain.
+
+Or rather, there would have been, if [Focus] wasn't completely numbing his brain to the horrific trauma.
+
+It was like this in moments of extreme danger. [Focus] just didn't let him feel a thing. It had been the same when he was forced to teleport. And it had been the same when he was in that weird trance fighting the troll.
+
+Ignoring the potentially fatal wound, Ben blasted himself backward using his one good leg to escape the blade's path.
+
+And he drove his other, deeply gashed leg directly into the lackey's ugly face.
+
+Grinding his teeth together, he dumped his mana and detonated a[Fire Burst] right against its skull.
+
+The goblin's head exploded, and the headless corpse hit the ground with a thud.
+
+And a second later, Ben's utterly ruined body followed it down.
+
+But staring up at the dark forest canopy, an imperceptible smile somehow forced its way onto his face. He was bleeding out, severely crippled, and completely exhausted.
+
+But he had won.
+
+…Why the hell am I smiling?
+
+Being startled by his own bloodthirsty reaction, he quickly forced a frown. But there was absolutely no time to unpack his weird psychological issues right now.
+
+Laying perfectly still, his brain rapidly shifted gears to immediately start listing out his current, very immediate problems.
+
+He was bleeding heavily from his back and his arms.
+
+Even worse, his leg was practically trashed, leaving him entirely immobile in a forest full of things that wanted to kill him.
+
+Thinking about his legs, a random, completely unhelpful thought suddenly popped into his head.
+
+Since his leg was completely useless in the fight, he noted he really needed to figure out how to propel himself through the air using [Fire Burst] on just a single foot.
+
+I should probably file that away for later when I'm not actively bleeding out.
+
+He seriously needed to move.
+
+The explosions from his [Fire Burst] had definitely functioned as a massive dinner bell for every monster in the vicinity.
+
+He really didn't have much time before local scavengers showed up to investigate the noise. But how the hell was he supposed to move?
+
+His leg was deeply cut, and both his arms were essentially floppy noodles. He was practically a bleeding dinner bell just sitting on the grass.
+
+So he really needed to figure out an escape route, and incredibly fast.
+
+Blinking away the creeping exhaustion, he finally looked at the notifications hovering in his vision.
+
+[Tier 1 Goblin slain. Essence gained.]
+
+[Tier 1 Goblin slain. Essence gained.]
+
+[Tier 1 Goblin slain. Essence gained.]
+
+[Tier 1 Hobgoblin slain. Essence gained. Memory shard gained.]
+
+[Tier 1 Goblin slain. Essence gained.]
+
+[Focus Lvl 9 > Lvl 11]
+
+[Mana Sonar Lvl 3 > 5]
+
+[Warforged Lvl 1 > 3]
+
+[Fire Burst Lvl 11 > 13]
+
+[Mana Missile Lvl 3 > 5]

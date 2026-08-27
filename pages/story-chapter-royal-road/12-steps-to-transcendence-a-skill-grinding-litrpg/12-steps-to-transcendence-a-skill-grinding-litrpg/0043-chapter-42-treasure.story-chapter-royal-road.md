@@ -1,0 +1,129 @@
+---
+id: 3a20685c-046e-5292-87e8-688a3e0adb90
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42: Treasure"
+slug: 0043-chapter-42-treasure
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 43
+ownLength: 1420
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3864943/chapter-42-treasure"
+royalRoadId: "3864943"
+---
+
+Returning to the log with his mind churning, Ben sat down. Just what the hell was happening? Thinking back, he 'leveled up' the Title when he snuck around and killed that monkey earlier, and went up some more when he snuck around the three monkeys afterward.
+
+So I literally just have to be stealthy to level it up.
+
+And leveling it up, or gaining more experience, he wondered what that did? Was it like skills in that he could sneak better? Or was that 100 some kind of milestone he needed to hit before he could get better?
+
+Honestly so confusing. He got a bit melancholic. If Hannah was here, he could've asked her.
+
+She would've answered without hesitation. But she hadn't told him anything about Titles when he'd been with them, and he wondered why, only for the answer to slap him in the face. It was so obvious in hindsight… She just thought he wouldn't get a Title so early.
+
+So Titles are somewhat rare?
+
+That would make sense considering he'd only encountered two monsters with Titles so far. Ben sighed and stood up. Thinking about it wouldn't really solve anything, so he should just do what he needed to do and hunt more of these rift beasts and rack up as many points as possible.
+
+Thinking of points, he pulled up the tab to see how many he had so far.
+
+Current Points: [70]
+
+Nice.
+
+Making quick work of a few more wandering Tier 1 monkeys, relying heavily on [Lurker] he simply killed them, got their essence, and moved on.
+
+So it really wasn't long before he found a clearing in the forest. And smack in the middle of it sat a pristine, unnervingly calm little pond. Stepping closer, he realized the sheer density of ambient mana and essence rolling off the water was practically suffocating.
+
+Excitement bubbled inside him. Ben neared the pond and touched the water, bringing some water up to taste it. Given his Tier 1 body, it wouldn't really hurt him. The moment the water touched his tongue, his eyes widened.
+
+Rifts really were full of opportunity!
+
+The water replenished a tiny bit just from that little lick! Just imagine the essence too! He needed to use his cycling technique in this pond.
+
+Wow this is amazing—
+
+Suddenly bursting from the calm surface just as [Hunter] warned him, a massive blur of motion slammed directly into his stomach. Ripping right through his flesh, something sharp and heavy punctured into his stomach in a fraction of a second.
+
+Fuck!
+
+Coughing up a mouthful of blood, he didn't even bother looking at the creature, triggering [Fire Burst]. He blasted out of there in an instant, the explosion rattling the surroundings as he used too much mana to do it in a panic.
+
+He ripped through the trees into the sky, catching a glimpse of a shimmering barrier that enclosed this area before he fell. Crashing through the leaves, he managed to land safely and sprinted away as fast as his mangled stomach would let him.
+
+Leaving a bloody trail in the dirt, he put some serious distance between himself and the water. He glanced back over his shoulder and thanked the stars that the damn thing hadn't followed him on land.
+
+[Hunter] had warned him, but [Mana Sonar] hadn't detected it. He needed to tinker with the frequency again. It probably couldn't even leave the pond, or it just didn't want to, given how much of a treasure the pond seemed to be.
+
+Bleeding profusely and startled out of his mind, he dove into a dense patch of shadowy ferns. Letting the shadows wash over him, he relied entirely on [Lurker] to keep him safely hidden from the world.
+
+Pushing his [Focus] to the absolute limit, he kept [Hunter] and [Mana Sonar] fully active just to watch for any incoming threats, constantly adjusting the sonar's frequency with [Mana Manipulation].
+
+When he found nothing, he let out a breath and finally tried to process what had just happened.
+
+What the fuck was that?!
+
+He flooded his remaining mana straight into [Regeneration] as he looked down at his stomach. Whatever thing had attacked him had fortunately only just punctured his stomach, it hadn't actually gutted him.
+
+He'd managed to blast away in time.
+
+He just hoped there wasn't any dangerous poison on it.
+
+Feeling his torn flesh slowly knit back together, he sat in agonizing pain for a few torturous minutes as [Focus] was concentrated entirely on [Hunter], [Mana Sonar], and [Mana Manipulation].
+
+So while the healing definitely worked, it was slow and his mana tank was completely running on fumes by the time his stomach finally closed up.
+
+He felt entirely drained.
+
+But feeling the absurdly thick essence drifting through the air from the pond, a decent idea popped into his head. He should just use the abundant essence in this area and cycle for a bit.
+
+[Lurker] will keep me hidden anyway.
+
+Trusting his camouflage, he closed his eyes and began to cycle the rich essence into his core and slowly refined it, simultaneously absorbing the mana to refill his depleted reserves.
+
+Breathing in and out, his mind started wandering.
+
+It really would be so much more convenient if he could just actively absorb mana all the time. Maybe there was some kind of skill he could learn?
+
+Waiting for his tank to naturally refill or manually cycling like this was just a massive pain in the ass. But switching between concentrating [Focus] on his other skills and cycling, he managed to fill up his mana reserves again while also healing the leftover damage.
+
+Finally done, he opened his eyes and let out a sigh.
+
+Channeling mana straight down to his feet, he triggered [Fire Burst] in a continuous stream. The massive propulsion blasted him right up into the sky.
+
+Ripping out of the trees, he kept the flames burning just enough to hover in place. Squinting against the wind, he finally got a good look at that shimmering barrier he'd spotted earlier.
+
+It was a massive rectangle boxing in the entire area. Tracing the distant lines of light, he realized the whole space was divided perfectly into four equal regions, with different terrains. He just happened to be in the forest.
+
+So the others are probably in the other three zones.
+
+Of course, some had to be in this forest too. He just had to find them.
+
+That definitely explained why the rift felt so huge. Objective-type rifts probably needed massive maps just to accommodate the sheer amount of people the system dumped inside.
+
+Satisfied with his scouting, he cut off the flames and dropped back down toward the forest and immediately slipped into stealth and headed back to the pond. He stayed way the hell back from the water's edge this time.
+
+He wasn't taking any chances of getting gutted twice in one day.
+
+Pushing his [Mana Manipulation], he constantly tweaked the frequency of his [Mana Sonar] as he scanned the water. Sweeping the depths over and over, he finally hit the exact right frequency.
+
+A signature pinged back at him, resting dead center at the bottom of the pond. Peering through the calm water, he finally made out its shape observing some more with [Mana Sonar] to make out the shape.
+
+Is that a fucking frog?
+
+Blinking in surprise, he just stared at the motionless amphibian resting in the water with [Mana Sonar]. It was huge. It wasn't shifting its camouflage to hide from his [Mana Sonar] like the shadow monkey had done.
+
+So its camouflage skill obviously wasn't adaptive, just some static cloaking effect.
+
+But a static skill didn't necessarily mean the ugly bastard was weaker. Given the sheer speed and power of that strike earlier, which he assumed was its tongue attack, it was highly likely he was looking at a Tier 2 monster.
+
+Should I even risk challenging it?
+
+Shaking his head, he still couldn't believe a giant frog was hoarding this entire pond. And to think he'd just casually lapped up some of the water earlier. Remembering the slight shudder that had gone through his body when he swallowed it, he tried not to feel disgusted.
+
+But honestly, essence was essence.
+
+He'd drink again.
+
+He highly doubted the system would put a massive treasure like this pond in a rift just to make the water secretly poisonous or not pure. He was going to take a dip in it. But first, he had to deal with the frog.

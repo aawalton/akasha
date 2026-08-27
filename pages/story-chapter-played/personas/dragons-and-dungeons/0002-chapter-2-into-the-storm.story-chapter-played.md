@@ -1,0 +1,42 @@
+---
+id: de934c45-ffe4-5b2c-9ce6-b7d613adb1c5
+page-type-slug: story-chapter-played
+title: "Chapter 2 — Into the Storm"
+slug: 0002-chapter-2-into-the-storm
+partOf: dragons-and-dungeons
+position: 2
+ownLength: 1138
+unit: words
+---
+
+I did not think about it. The chains fell, the great shape rose, and I vaulted onto the dragon's back and took careful hold of the neck spines as though I had been doing it my whole life. The scales were warm under my hands, warmer than I expected, and I could feel the enormous machinery of the body shifting beneath me, gathering itself.
+
+"I do not know what hunts you," I said into the dark behind its skull. "You owe me no debt — I did not turn that key to be owed. But if you would have me, I would gladly call you friend."
+
+The dragon went rigid under my hands. Then a sound moved through its whole vast frame — not quite a laugh, not quite a sob, the kind of sound a thing that old makes when it has forgotten it could. "You refuse the debt," it breathed, wonder and disbelief braided together. "You stand on the only ground I have never been offered, and you call it *equal*. Friend." The molten eye rolled back to find me on its neck, and there was nothing ambiguous left in it at all — only a fierce, startled warmth. "Then hear it, the thing I said you would earn. My name is Tygryth. Say it when you need me and I will come from whatever sky I am under. You have it because you wanted *me*, and not what I owe."
+
+"Now hold fast — and forgive me, this part is never gentle."
+
+The wings opened with a crack like sails catching a gale, and the world dropped. Tygryth surged up through the broken ceiling in a single thunderous beat, stone and shattered tile spinning away beneath us, and then there was no roof and no shrine and no floor — only night, cold and enormous, the ruined forest falling away into silver dark and the moon huge and close overhead. My stomach was somewhere four wingbeats below. The wind tore tears from my eyes. It was the most terrifying and the most alive I had ever been, and some monkish part of me noted, almost amused, that I had spent years learning to be present and here at last was a present moment I could not have escaped if I tried.
+
+Then I saw what the horns had been calling. Behind and below, three dark towers raked the night, and from each of them lights were rising — not torches, *wings*, pale shapes lifting off the battlements, three, then six, then more, banking toward us across the moonlit sky, fast and silent and climbing.
+
+"They have given chase," Tygryth called over the wind, the muscles surging under me. "Riders on lesser wyrms — quick, but they tire. I can outrun them in open sky, or lose them in the storm-wall to the east —" a flash of distant lightning lit a black cliff of cloud on the horizon "— but the storm will try to throw you from my back, and I will not be able to spare a wing to catch you. Open sky and a long race, or the storm and a short violent one. Your call. You are the one with hands to lose his grip."
+
+I did not weigh it long. "Take to the storm," I said. "I have no fears for my grip. These hands have held violent foes and worse than foes. I will not lose hold of a friend."
+
+His answer was a single fierce beat of the wings and one word torn back to me on the wind: "Then we fly into the dark together — HOLD."
+
+The storm-wall came up not like a cloud but like a cliff, black and boiling and lit from within by veins of lightning, and Tygryth did not slow. He folded and dived, and the moonlit world was gone, swallowed whole. The cold hit like a fist. Rain became horizontal nails. The wind did not blow in there, it *grabbed* — and it grabbed at me specifically, hauling at my shoulders, my ankles, trying every grip a body has and looking for the one I would give up first.
+
+And there my years paid their last and steepest debt. I did not fight the storm; a monk knows you cannot fight a storm. I flowed with it — knees soft against the spines, weight low, breath timed to the great surging muscles beneath me, becoming part of the dragon rather than cargo on him. Every gust that should have flung me, I poured around. I held. I held.
+
+But the storm took its price anyway. A wind-shear slammed me sideways, and for one white instant my legs were gone off the dragon's flank and my whole life had narrowed to two hands locked on a neck-spine slick with rain — and the spine's edge, ridged like dark glass, opened my palms as I clamped down. I screamed, and I did not let go. I dragged myself back. My hands were bleeding and my grip was bought with skin, but I was on, and I was alive, and I had not fallen.
+
+Behind us the pursuit broke. Through a tear in the cloud I glimpsed the wyrm-riders pulling up at the storm-wall's edge, wheeling away — all but one. One pale shape followed us in, reckless, closing — and then the storm found it, and I watched a rider and his mount tumble end over end into the dark and not come out. The storm did not take sides. It had nearly taken me too.
+
+Then — sudden as a held breath released — Tygryth punched through the far side. Stillness. Clean cold air. Stars. Below us, unrolling in the moonlight, a land I had never seen: a great dark valley, a river of silver winding through it, and far off, small and steady and wrong, a single light burning where no light should be.
+
+"We are through," Tygryth said, ragged and triumphant, banking gently now to spare my torn hands. "They will not follow past the storm. You held, friend — you *held* — and few who were born to this world could say the same." The molten eye found me, dropped to my bleeding palms, and softened. "But you are hurt, and we are far from anywhere I know."
+
+I looked at my hands. They were a mess, and they hurt, and it did not seem to matter very much. "These hands are no more than flesh," I told him. "They will heal wherever we go." And because there was a thing I had wanted to ask him from the moment the collar came off, I asked it now, into the clean cold air on the far side of the storm. "What is your wish, now that you are free?"

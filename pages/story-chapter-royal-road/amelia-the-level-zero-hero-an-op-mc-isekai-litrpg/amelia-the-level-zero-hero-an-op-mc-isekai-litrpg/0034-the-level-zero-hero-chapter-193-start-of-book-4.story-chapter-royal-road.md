@@ -1,0 +1,113 @@
+---
+id: f28f9e7a-1842-55d5-bd3b-33b6b2283876
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 193 (Start of Book 4)"
+slug: 0034-the-level-zero-hero-chapter-193-start-of-book-4
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 34
+ownLength: 1667
+unit: words
+publishedAt: 2024-01-06
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1467455/the-level-zero-hero-chapter-193-start-of-book"
+royalRoadId: "1467455"
+---
+
+Memories. That was all they were. Fractured moments in time. Dreams and nightmares that haunted me. To remind me of the past.
+
+I never dwelled on it. Or at the very least, I tried to forget about it. I knew that remembering the time I spent in that living hell was pointless. After all, the memories blended together into a terrible recollection of killing and nearly dying.
+
+And yet, these memories seeped into my dreams. They’d wake me up in the middle of night, plaguing my sleep. Even during the day, I’d be in the middle of cooking when I suddenly recalled the reverberating voice of the Voidgod.
+
+It didn’t upset me as much as it slightly irked me. It was like randomly recalling an embarrassing moment from middle school— it was unsettling for a moment, but I always let it pass soon enough.
+
+However, for the first time ever, I had forced myself to remember the events of my time in the Fractured Realm. I had spoken with Noele, my apprentice and my friend, and I had regaled what had happened back then.
+
+It was only a sliver of a moment for me— a fraction of the eternity I felt I had experienced fighting for my life in the Void. But it was one of the most impactful moments of my time there.
+
+After all, it was when I had finally spoken to the Voidgod for the first time. It was when I had opened myself up to its temptations, letting it peer into my vulnerabilities. Because I could not let myself ignore it any longer. Otherwise, I would have truly gone insane.
+
+Anyways, I told what I told to Noele, not because I could assuage her worries, but because I could not help her. She needed guidance, and I could give her none.
+
+All I could tell her was what the Voidgod had told me— that it had said the World System was evil.
+
+Whether or not that was true? I did not know. However, as far as I was aware, the Voidgod had not lied to me just yet. And I told Noele as much.
+
+It shocked her, of course. I had told her in the past that I could not see my family again. And all this time, she believed that it was because I could not return to my world.
+
+But the truth was— the life I had left behind was gone. I had gone back once before, and I found nothing there for me.
+
+That was why I had come here to Vacuos. To this world I did not know. That I saved.
+
+To leave my past life behind. To start my life anew.
+
+And as much as my memories haunted me, they couldn’t harm me. My past life couldn’t hold me down. While all I learned from the time in the Fractured Realm was fighting, that didn’t define me.
+
+That was why I sought to live a normal life. That was why I had started Bucky’s Out of this World Restaurant. To escape that life of hell.
+
+And while it pursued me in my dreams, I was not dreaming. This was reality. I had succeeded in carving out a normal life for myself. A life where I no longer had to fight to survive. A life that I was happy with. A life that freed me from my past.
+
+I had succeeded in doing all that.
+
+…right?
+
+—--
+
+It was another normal day of working at Bucky’s Out of this World Restaurant. A peaceful, calm, and relaxing day… it was not.
+
+For a day at Bucky’s Out of this World Restaurant to be peaceful, calm, or relaxing, it wasn’t going to be a normal day at the restaurant. It would’ve been a very unusual day— a rare day. In most cases, a day off.
+
+Except, even in his days off, Harlan learned that something would still be happening. Like when Noele had apparently been randomly attacked by a group of S-ranked adventurers. The former guardsman didn’t hear all the details of the encounter, but he had gotten the gist of it.
+
+However, despite the chaos that came with working here in this rather extraordinary restaurant, Harlan quite enjoyed working here. Even if it often put his life in danger, it was a drastically better living condition for him than before.
+
+For the first time in his life, he felt like he belonged somewhere. He never felt this way before ever. Perhaps at one brief fleeting moment in time, when he had first become an adventurer a decade ago, he thought he belonged there. He thought that was the future he would live. But he quickly learned that the life of an adventurer was nowhere near as glorious as it seemed.
+
+Because of that, he had retired from adventuring and became a simple guardsman. He could at least put the skills he learned as an adventurer to use, while keeping himself out of danger. Or so he thought. But then the Miststorm Riders attacked the city of Whiteridge, and he soon learned that nowhere was safe.
+
+He wandered around at a loss of what to do, realizing that his future was bleak. At one point, he had been without a home and completely broke. He would have been shunned and kicked out of Wolfwater, left with no place to go. Until Amelia gave him a chance to start things anew in this farming town.
+
+So he was forever grateful to her for that. He was thankful for the opportunity he had been given, otherwise he would not be here. He might even be dead in a ditch right now if not for his employer. And because of that, he would never badmouth her, no matter how insane she might seem.
+
+Unfortunately, the same degree of gratitude was absent in the other employees of Bucky’s Out of this World Restaurant. Or at the very least, the newest [Chef] that had been hired seemed to lack the same enthusiasm for Amelia as Harlan did.
+
+Arthur seemed to be fairly neutral. But Harlan didn’t really know the bartender that well. For whatever reason, Arthur liked to keep to himself, even if he was amicable most of the time.
+
+And Jax was… Jax.
+
+Harlan hoped that the elf would leave soon. However, knowing both Jax and Amelia, that wasn’t going to happen, because of both their selfish desires to use each other for their own purposes.
+
+So Edlyn was the only one of Harlan’s coworkers who was actually willing to open up to him. But she was still in her… disbelief-phase, as Harlan would call it.
+
+“Why must we do this?” Edlyn protested as she eyed the dank rock formation from afar. She hid behind Harlan, nearly knocking over the bucket at her feet.
+
+And he just scratched the back of his head. “We’re out of curry, and Amelia asked us to harvest some for today. It’s not that big of a deal.”
+
+“But there are monsters in there!” the [Royal Chef] exclaimed, pointing into the bastion bee hive.
+
+“And they’re the ones who produce our curry,” Harlan said simply as he picked up the fallen bucket. He strode forward, and Edlyn gulped.
+
+She shifted uncomfortably as she eyed the dark entrance of the hive. “Are you sure this is safe? Shouldn’t we let Amelia handle this?”
+
+“Come on, we can’t let Amelia handle everything. She may be strong, but she is only human.” Harlan waved a hand off as he walked up to the hive. As he approached, he began to hear the faint cacophony of buzzing coming from within. He hesitated for a second, but he continued on, having done this many times before.
+
+Edlyn pursed her lips and muttered under her breath, “I mean… that’s debatable.”
+
+And Harlan probably would have agreed with that assessment. But his focus was fully drawn to the flickering red light coming from inside the hive. He had harvested the honey of the bastion bees in the past. He had even done so after the new queen had hatched.
+
+However, this was the first time he had ventured in after the swarm of baby bastion bees had attacked Amelia. So he was nervous. Even if he put on a brave face. He knew that it was entirely possible that they would be aggressive towards him too now.
+
+But he assumed that they had already calmed down after their brief rebellion against the brown-haired woman. And even if that wasn’t the case, they had left him and everyone else alone back then, so perhaps they would leave him alone now too.
+
+His main solace was knowing that the baby bastion bees were probably too low-leveled to instantly kill him, unlike their higher-leveled adult counterparts. So the former guardsman took a step forward, entering the hive.
+
+And the buzzing stopped. Harlan blinked as he looked around in the darkness. He slowly reached down as he tried to scoop the honey into the bucket.
+
+“I’ll just be taking—”
+
+But Harlan froze as a pair of beady balls of red light flashed into existence before him. Crimson eyes. At first, just a single pair. But then more began to shine in the darkness. Hundreds more. And they surrounded the man as he just stared.
+
+“Uh… hello?” he mustered out as his blood ran cold.
+
+Harlan heard the buzzing return as a sinking realization began to settle in. While the baby bastion bees couldn’t instantly kill him, they were still utterly terrifying. All at once, they swarmed out towards him, and he spun around and ran, screaming as he dropped his bucket.
+
+It was another normal day of working at Bucky’s Out of this World Restaurant. Which meant that it was extraordinary, and even a little bit terrifying. And as Edlyn shouted for help, watching the former guardsman sprint his way across Wolfwater, being chased by the swarm of baby bastion bees, he knew he wouldn’t want any other job than this.

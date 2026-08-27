@@ -1,0 +1,215 @@
+---
+id: 9ccbc2ba-fd10-5f51-83b4-394eafcc3ade
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38: It's Time"
+slug: 0039-chapter-38-its-time
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 39
+ownLength: 1843
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3836407/chapter-38-its-time"
+royalRoadId: "3836407"
+---
+
+For the first time since arriving, Ben had actually managed to fall into a comfortable routine at the camp. Typically, he would wake up extremely early in the morning and head straight out into the woods for a long walk.
+
+He never walked too far, he wandered near the stream, washing up or just enjoying his time. Maybe catch a fish. It was a mandatory reset that actively helped him keep his wildly fluctuating emotions perfectly in check.
+
+Taking that time to just breathe almost daily thoroughly grounded him before the rest of the camp could start their usual bullshit.
+
+And obviously, he didn't let his skills sit completely idle while he walked.
+
+Keeping [Focus] active almost always was kind of second nature to him now. At first, keeping the skill active had been a bit hard, but as time went on, it grew easier and easier. Meanwhile, he continuously practiced [Regeneration], [Mana Sonar], and [Mana Manipulation] all at the exact same time.
+
+Before the system had graciously handed him the manipulation skill, he had still forced himself to do this exact same routine.
+
+Trying to blindly shove mana through his veins back then without the skill had been an absolute pain in the ass.
+
+Seriously, it sucked so much.
+
+But doing it the hard way had clearly paid off.
+
+After finishing his morning skill grinding, his routine typically shifted to making food.
+
+Ever since he had cooked a decent meal for Marcus that one time, the older boy literally refused to eat anywhere else in the entire encampment.
+
+The guy would just show up every single day with fresh ingredients, dropping them off like a mandatory daily quest.
+
+I'm basically running a private cafeteria at this point.
+
+Ben didn't actually mind the setup at all.
+
+He wanted to do the cooking himself, after all.
+
+His own meals just tasted infinitely better than whatever the hell the camp cook was boiling in those giant iron pots.
+
+After eating breakfast, Ben generally just defaulted to training. Aside from that, there was basically nothing else for him to do in the camp anyway.
+
+Back on Earth, school had easily swallowed up the vast majority of his time, with studying eating up whatever was left. He had spent his few spare moments hanging out with his family or friends, and the rest of his life had been entirely dictated by his phone. He had never actually experienced "living" without constant distractions and a packed schedule.
+
+So adjusting to this sudden emptiness felt weirdly jarring.
+
+It was just too quiet.
+
+To fill the void, he just threw himself into mindlessly grinding his skills. Sometimes Alice would show up to annoy him, and occasionally Marcus would wander over whenever he got too bored.
+
+He honestly learned a decent amount from just interacting with them, and by the time they left, it was usually already afternoon.
+
+Which meant it was time for lunch.
+
+Marcus never ate lunch, no one did, but Ben still cooked and ate a meal entirely on his own, mostly just to maintain a sense of normalcy and habit.
+
+Technically, Ben didn't actually need to eat as much anymore either since hitting Tier 1.
+
+He had fully expected the system to upgrade his body, but completely losing the biological need for food as much as he needed it before… had been a surprise.
+
+He wondered if essence or mana was the substitute? Maybe it was just that his body was more efficient, and better in general. He didn't know.
+
+But he actually enjoyed eating, so he just kept doing it anyway.
+
+Wiping his mouth after he was done eating, Ben usually just headed straight out through the hidden path Alice had shown him. He spent a good chunk of his afternoon hunting down random goblins and wolves and just looking around the forest.
+
+And honestly, it was pretty damn peaceful out there.
+
+Usually, anyway.
+
+Whenever he actually stumbled into genuine danger, he typically just noped right out of the situation. Activating [Fire Burst], he would blast himself straight into the sky and run away.
+
+Flying… flying was pretty amazing.
+
+Seriously unbelievable.
+
+The very first few times he had launched himself into the air, he only did it because he absolutely needed to. To survive, basically. But since then, he had finally gotten some actual time to rest and breathe.
+
+Gliding high above, he genuinely loved the freedom of it all. Feeling the cold air gently caress his cheeks was just the best sensation in the world.
+
+It was all so incredibly peaceful.
+
+Looking down from way up high, he could see the seemingly endless forest stretching out below him, basically nothing in between the trees except for some occasional clearings or that one stream cutting through the landscape.
+
+And then there was the wall in the far, far distance on the very edge of the horizon.
+
+Except, it wasn't actually a physical wall.
+
+It was way more like a massive magical barrier that pulsed every five minutes.
+
+Whenever it pulsed, these ridiculously complex runes would temporarily flash across its entire surface.
+
+The runes were so utterly complex his human brain literally couldn't comprehend even looking at them, so he'd stopped trying to discern them. Landing safely back near the camp after all that flying, it was instantly time for his second training session of the day.
+
+He basically just did the exact same mind numbing skill grinding as the morning until his mana ran completely dry. Training completely done, he finally shifted gears and made dinner for himself.
+
+And then after stuffing his face, he would just lie flat on his bed, staring up at the dark ceiling. He sometimes spent more than an hour just thinking, thinking, and thinking some more while he played around with mana.
+
+Until he eventually just passed out. His routine had grown predictable again.
+
+"Ben! Wake up!" Alice shook him awake.
+
+Blinking the heavy sleep out of his eyes, he glared up at the ceiling.
+
+Too damn early.
+
+"The rift access just opened! We're going in today!"
+
+Vibrating with way too much energy, she practically bounced on her heels next to his bed.
+
+Groaning loudly, he just pulled his blanket right back over his head.
+
+He currently had [Focus] toggled completely off. And honestly, he absolutely refused to turn it back on just to deal with her morning bullshit.
+
+How the hell is she so energetic this early?
+
+Yanking the blanket completely out of his grip, Alice leaned down right into his personal space.
+
+Pinching the corners of his mouth with her fingers, she forcefully stretched his lips upward into a highly uncomfortable smile.
+
+"Get up!"
+
+Swatting her hands away immediately, he just dropped his face into a deadpan scowl.
+
+"No."
+
+He was feeling incredibly petty right now.
+
+She barged in and ruined his sleep, so she fully deserved whatever happened next.
+
+Flicking his wrist, he sent a tiny, compressed ball of mana straight at her forehead. It popped harmlessly against her skin with a snap, making her yelp and stumble back a step as it made a mess of her hair.
+
+Puffing her cheeks out, she crossed her arms and started visibly huffing at his utter lack of decorum. Ignoring her little temper tantrum entirely, he smoothly slipped out from under the covers and stood up.
+
+He casually strolled toward the exit, waving a lazy hand at her.
+
+"I'm gonna go wash up."
+
+Washing up by the stream was usually his favorite part of the day even if the water was just okay, but today it just felt rushed. The cold water instantly snapped the last bit of sleep out of his system.
+
+So the rift is finally opening.
+
+The first group going into was just a small run, nothing too dangerous.
+
+But considering my luck, it's going to be a complete shitshow.
+
+Drying his face roughly with his sleeve, he checked his notifications just out of habit.
+
+[Focus Lvl 15 > Lvl 16]
+
+[Mana Manipulation Lvl 3 > Lvl 5]
+
+He smirked.
+
+Since it was still early on, the levels were coming quite quickly for [Mana Manipulation], which he definitely liked. He also noticed the healing worked really well, though it was still slow, even if the pace had increased since the start.
+
+Better than bleeding to death, I guess.
+
+"What are you doing here?"
+
+Despite Ben trying to not stand out, his cover was ruined the moment he got near the gathering group with Alice.
+
+Of course, the absolute worst person here had to be the first to spot him.
+
+"I mean, truly, it is a tragedy that the standards of this vanguard have plummeted so profoundly." Brian sneered. "To think I must share the same breathing space as a commoner."
+
+Glancing down at the noble's leg, Ben just held back a heavy sigh.
+
+The guy was literally acting like Ben hadn't blown half his leg off with a [Mana Missile] just last week.
+
+Does healing magic also erase memories?
+
+"And furthermore, if you think that your little tricks—"
+
+Looking up, Ben just locked eyes with the annoying noble. Brian instantly clamped his mouth shut. The noble broke eye contact and spun around to face his lackeys.
+
+"What are you looking at?!"
+
+Flinching back, the group of boys instantly pretended to be fascinated by the dirt. Ben couldn't fault them, the dirt was truly fascinating.
+
+"Alright, listen up!"
+
+Arthur clapped his hands together to grab everyone's attention.
+
+"The rift access is finally open."
+
+Gesturing toward the glowing forest, Arthur kept his tone dead serious.
+
+"We have a lot of groups that need to head into the rift, and you're going in one by one. You're the first ones to head inside."
+
+Scanning the small group he was apparently stuck with, Ben suddenly froze. Standing right at the edge, that crazy guy was just beaming at him.
+
+His dimples deepened when he noticed Ben looking at him. Unblinking, he waved at Ben.
+
+Why the hell is he here?
+
+Ben knew for a fact this guy was completely out of their league and far stronger than anyone else in the camp he'd met.
+
+So why is he going in with us?
+
+Biting his tongue, he quickly decided against saying anything. He genuinely just wanted to remain lowkey and survive this camp long enough to fuck right off at the first town they took him too. And that was supposedly going to happen after this rift if he understood the goals of the expedition properly.
+
+There were already way too many annoying noble brats here to deal with today.
+
+Drawing unnecessary attention to himself right before stepping into a rift was just a terrible idea, so he kept his mouth shut. The group finally started moving into the forest with Arthur at the front and some other nobles right behind them.
+
+Slinging a heavy arm casually around Ben's neck, someone suddenly leaned in extremely close. Ben glanced sideways.
+
+"Good to meet you again, Benjamin." Dimples widened. "I never introduced myself, I'm Theodore Ardent. It is so nice to meet you."

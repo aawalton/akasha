@@ -1,0 +1,155 @@
+---
+id: 29a6076c-7dcf-5d94-9d26-b516ad619aa6
+page-type-slug: story-chapter-royal-road
+title: "B1 Chapter 3 - Escape"
+slug: 0003-b1-chapter-3-escape
+partOf: apocalypse-healer-path-of-death-progression-litrpgvolume
+position: 3
+ownLength: 1967
+unit: words
+publishedAt: 2024-10-23
+link: "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/1864005/b1-chapter-3-escape"
+royalRoadId: "1864005"
+---
+
+His heart was beating wildly again. David had just fought the dead, gotten infected, and healed himself using magic. If he put enough effort and holy power into it, perhaps he could mend his broken body properly.
+
+All he had to do was to use [Cure Wounds] often enough. Probably.
+
+That would be an extraordinary achievement. No. It would be much more than that. It would be miraculous, impossible… in the world he used to live.
+
+However, the Earthen Union was not what it used to be. Everything had either changed already or was changing now.
+
+Despite all the trouble and the pain fueling him, David’s eyes landed on a pair of sneakers. His chest was beaten black and blue, and drenched in both sweat and blood, yet his bare feet troubled him the most.
+
+He chuckled, wondering if he was weird for thinking like that, but grimaced when a pang of pain assaulted him.
+
+He swallowed hard, used [Cure Wounds] again, and approached the pair of sneakers. They were torn and dirty but probably the best shoes he would find in this mess.
+
+David reflected on his behavior with a pained smile.
+
+Being this excited about a torn pair of sneakers is a new low.
+
+He had to mend his wounds and be in as good a condition as he could be in order to survive whatever lay ahead of him. A pair of sneakers, albeit damaged, would do well enough to protect his feet.
+
+As [Cure Wounds] jumped into effect, the Holy Sea’s energy level dropped below half. His ribs didn’t hurt as much as before, and the throbbing pain in his head had subsided.
+
+His situation had improved significantly, which was a relief because he might have died putting on the sneakers and getting dressed.
+
+[Proficiency of Cure Wounds increased.]
+
+Beads of sweat poured down his forehead, yet David took several seconds to recognize that he’d broken into a cold sweat.
+
+But he didn’t feel too bad. In fact, David felt like he was on the verge of achieving something great, though he couldn’t grasp what it was.
+
+Suddenly, his mind turned blank for a moment. He took a deep breath as mental exhaustion assaulted him.
+
+He wondered if he had pushed himself too far.
+
+David crumbled inwardly. His Holy Sea was still half full, meaning he should be able to use his Skill Runes two, perhaps three more times.
+
+The manual [Cleanse] consumed roughly two or three times more holy power than the second skill. Though it was probably worth it. Overclocking [Cleanse] helped remove the Infection faster. It also activates much more quickly than the automatic activation with a mental command.
+
+David made some quick calculations and decided that he could use [Cleanse] and [Cure Wounds] between six to eight times, depending on how much holy power he used. However, that also meant his Holy Sea had to be filled to the brim to use his Skill Runes that often.
+
+David had no idea how to actively refill his Holy Sea. He wondered if that was even possible.
+
+The only advantage he’d discovered was that the Holy Sea seemed to replenish the used-up holy power passively. He didn’t have to do anything if he could accept that his Holy Sea needed hours to be full again.
+
+That should be a problem for later.
+
+David turned to the rattling groans and discovered Infected coming his way. He didn’t know the Infected or who they had once been, but it wouldn’t have changed anything even if he’d known them. They were dead already, and threatened his survival.
+
+David lowered his body slowly and reached for the stone covered in brain mass. He’d much rather pick up another stone or search for a loose metal bar lying around, a mace, or something even better, like a machine gun. Unfortunately, David wasn’t given the luxury of time to search the ruins of the building complex he’d once called his home. Not that he expected to find a machine gun in the ruins in the first place.
+
+One of the Infected was already close by. It stumbled forward slowly, its movements uncoordinated, but David couldn’t find a way to escape. The Infected inched closer, ready to capture him if he moved in their direction.
+
+Broken walls blocked him in two directions, forcing him to face the Infected, even if that meant he could be infected again.
+
+David expected himself to panic in a situation like this; he felt everyone would react the same way. He was oddly calm as he weighed his chances. A quarter of a second was all David needed to make a decision.
+
+He clutched the stone tightly and dashed to the closest Infected. His body screamed in pain, telling him to slow down and rest until he’d recovered, but his condition was already a lot better than before. David pushed the pain aside, gritted his teeth, and dashed toward the Infected. Suddenly, the Infected accelerated. Or was David too slow to react to the Infected’s sudden movement?
+
+David’s vision blurred for a moment. His body felt like it was about to burst apart from a sudden wave of pain overwhelming him, while the Infected’s hands shot forward, reaching him in his moment of weakness.
+
+The creature’s hands swept across his skin, its nails scratching him deeply.
+
+[You have been infected.]
+
+He would have loved to avoid the Infected’s initial attack, but David had to think creatively since his earlier attempts had failed.
+
+He used the accumulated momentum and ignored the rapidly increasing threat to his life as he raised his arm. A moment later, with the Infected’s face inching closer to his neck, ready to tear him apart, David’s hand smashed down with the stone hard on the Infected’s head, perfectly hitting the spot he’d wanted to reach.
+
+A loud crack echoed. It rang through David’s ear like a sonorous melody even as the stone in his hand cracked. It may have been luck, great fortune bestowed upon David, but the stone cracked open after crushing the Infected’s skull, creating the opening he needed to lift his arm to thrust out again.
+
+Time seemed to crawl as everything around him unfolded simultaneously. It almost felt like time had slowed to show David what was happening in his last living moments. But David refused to die like that. He was unwilling to just give up.
+
+The Infected behind him inched closer. It was only a matter of seconds before it would reach him, its foul scent filling the air, breathing down David’s neck to feast on his blood and flesh. However, nothing shook him this time. He was eerily calm, his attention solely on the enemy before him. If the Infected before him survived, he would be dead either way.
+
+Die!  David screamed in his mind as the cracked stone passed neatly through the Infected’s crushed skull, obliterating the creature’s brain in one swift motion.
+
+[You have defeated an Infected(Common).]
+
+David didn’t bother pulling the stone out of the Infected’s skull. The Infected collapsed dead, truly dead, to the ground while his body continued screaming at him. The screams intensified as David pushed through the rubble. He reached the surface but wasn’t able to take in the morning sun.
+
+Instead, he was forced to sprint, evading the other Infected by a hair’s breadth as he moved through the uneven rubble.
+
+Just like zombies in the shows and movies. He noted the lessons learned from his brief encounter with the undead. The Infected behind him groaned and hissed, but was too slow to keep up with him.
+
+Unfortunately, his struggle didn’t end even after he escaped the encirclement. The commotion had attracted other Infected.
+
+They appeared out of nowhere. The once-quiet building ruins transformed into a cacophony of snarls and hisses. Some Infected shoved rubble aside to chase David, while others were stuck in place.
+
+Unfortunately – only for them, of course – only a few Infected could move naturally. Most Infected had been crushed when the building collapsed.
+
+Even if the dead couldn’t feel any pain, they couldn’t move in broken bodies. Their movement was restrained by their own crushed legs.
+
+That was to David’s benefit. He discovered a few Infected in his way as he escaped but rushed past a pair when he noticed that they moved even slower than the average Infected.
+
+He ran for a few minutes, turning his head left and right to search for a safe spot without Infected, and to assess the situation. Of course, he didn’t forget the infection.
+
+[Cleanse]!
+
+Holy power drained from his energy reservoir, leaving him with even less to use later. While he hoped to replenish it enough to activate his Skill Runes more frequently, that remained uncertain. David lacked the information to make any definitive conclusions. The one thing he knew for sure was that the holy power coursing through his veins possessed mending properties. Even without using [Cure Wounds], he felt an undeniable sense of relief as the holy power fueled him.
+
+[Infection has been cleansed.]
+
+[Proficiency of Cleanse increased.]
+
+The cleansing process was the same as before, but it felt less mentally taxing this time.
+
+He believed he had made progress, but the infection might not have been as severe as the one earlier.
+
+Either way, it was beneficial, just like the notification that popped up a moment later.
+
+[Your Rank increased by one..]   [Iron I] → [Iron II]
+
+[One Attribute Point has been added]
+
+A burst of vigor filled David, easing some of his mental and physical exhaustion. The vigor surged toward the Holy Sea, but didn’t enter the energy reservoir.
+
+The energy within the Holy Sea rippled and stirred, hastening its replenishment.
+
+Even though David had little understanding of the situation, he considered it lucky.
+
+This feels like a game. You level up and grow stronger, only to fight stronger enemies. The only downside is the lack of a respawn point. Death is permanent, except for the Infected. Well, they’re still dead, but in a different sense.
+
+David looked around and noticed no Infected nearby. Some Infected crawled out of a destroyed skyscraper, but they were too far away to notice him. He felt like sitting down to rest for a while, and maybe he would have done that if he hadn’t been unarmed in a world full of undead creatures trying to eat him alive.
+
+David started searching for a useful weapon. A metal rod would be best, but he wouldn’t complain about finding some jagged stones. While walking across a concrete street that couldn’t have looked any worse, David was graced with his first moments of silence. Everything had been hectic until it came to a sudden halt now that he was in a safe area, if something like that still existed in the first place.
+
+Was the earthquake only in this area, or did it happen all over the Earthen Union? If it’s the latter…what happened to my parents? My family and friends?
+
+David didn’t like thinking about it, but he would have to accept the bitter reality whether he wanted it or not.
+
+He reached for his phone, but it wasn’t with him anymore.
+
+Good job, David!
+
+He cursed inwardly and kicked a small stone in a fit of rage. Unfortunately, the turmoil of emotions raging within him didn’t help anyone. If anything, it would push David toward stupid decisions, something he couldn’t afford to make right now.
+
+“Dad is a fighter. He won’t die that easily,” he reminded himself out loud, “And he will never allow anyone or anything to kill Mom either. They’ll be fine.”
+
+At least, that was what he sincerely hoped.
+
+No matter how much they had tortured him with their acts and attitude, David didn’t want them to die.

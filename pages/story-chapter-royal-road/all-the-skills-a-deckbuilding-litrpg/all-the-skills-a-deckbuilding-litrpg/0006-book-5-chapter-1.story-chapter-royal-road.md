@@ -1,0 +1,139 @@
+---
+id: 8f988ec9-8e2e-5a07-9502-d31603442e90
+page-type-slug: story-chapter-royal-road
+title: "Book 5: Chapter 1"
+slug: 0006-book-5-chapter-1
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 6
+ownLength: 2037
+unit: words
+ownProgress: 2037
+publishedAt: 2024-08-19
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/1765748/book-5-chapter-1"
+royalRoadId: "1765748"
+markedReadAt: "2026-06-29T20:09:53.612Z"
+---
+
+The pain lodged at the base of Arthur’s skull was threatening to bloom outward into a truly massive headache. He didn’t care. Let it come.
+
+Narrowing his eyes, he focused on the three cards that sat on the table in front of him. All were Common and had at least some vague similarities to one another.
+
+One allowed the wielder to bind books like a Journeyman bookbinder with ease, the second turned wood pulp into pages using mana (which it didn’t unlock. This was only a Common card). The third allowed its wielder to instantly translate the text from one ancient language, Spanish, into English, which as he understood, was a derivative of Texan.
+
+The goal he had set himself for today was to combine these three Common cards into a set. And he was failing. Even using his Master of Cards as well as his Meta Card Trio and several skills he had picked up over the last few weeks including Card Lore and Card Intuition. None of it was enough. He just couldn’t seem to alter the wording of all three cards so that they reflected each other enough to become a set.
+
+He could, technically, brute force it by using his Master of Cards to carve entire new phrases into all three. It was about the same as trying to chisel a master-crafted poem into a block of stone with his mind.
+
+It would be technically doable using his skills, another magic card, and a whole load of mana… but essentially impossible. Also, extremely prone to disintegrating the entire card.
+
+He had actually tried that a few times before. That was how he got his Card Integrity skill. That had been when he had messed up while working on a single card, and he practically had to hold the poor thing together with his willpower alone while he quickly worked to undo the changes he had made. The outcome from letting a card disintegrate was catastrophic. Not only would that remove the card from the world forever… disintegrating and rotting cards spawned scourgelings.
+
+Using all these skills, of course, was butting up against pure magic… which, unfortunately, his Master of Skills card did not cover.
+
+Not yet at least, Arthur thought ruefully. But if I can get my card repair skills up to level 50…
+
+It was possible. A tall order. But it is possible.
+
+But right now, his mind was threatening to wander and that could spell disaster.
+
+He redoubled his efforts, but however he tried to approach the problem, the delicate matrices inside the cards wouldn’t bend the way he wanted. It was like trying to put together pieces of a jigsaw puzzle that simply didn’t fit.
+
+Arthur wasn’t going to give up. He would hammer the jigsaw puzzle together if he had to… or maybe cut it up into different parts and rearrange the entire puzzle. Or maybe some glue…
+
+He was so intent on his goal that he ignored the outside world.
+
+“Maybe I’m coming at this all wrong,” he muttered, “I could just add a phrase saying it’s part of a new set—”
+
+Abruptly, something shockingly cold and wet touched the back of his neck.
+
+Arthur flinched in his seat so far, he nearly fell over. He whirled to see Cressida holding out a wet face cloth to him. His first thought that this was some sort of prank went awry when he saw the look of concern on her face. Also, Cressida wasn’t the pranking sort. Horatio, yes. Her? Not really.
+
+“You’re about to work yourself into a faint,” she said. Before Arthur could be indignant about that, she added, “You’re red as a tomato and sweating so badly I can smell you from ten feet away.”
+
+“What? I’m not that—” He looked down at himself and noticed the wetness on his shirt, especially around his armpits. Also, the skin on his forearm – which was a little more tanned than usual thanks to his and Brixaby’s flights to check on the status of the Dark Heart – was flushed red like he was suffering from sunburn.
+
+Mildly mortified, he grabbed the cloth from her and dabbed at his soaking face. As he cooled, he realized the cloth had only been soaked with room temperature water, but it had felt like an ice-bath in his state.
+
+Cressida didn’t say anything. She only left to the kitchen area of the work-barn Arthur had rented out for himself, Brixaby, and the retinue. She returned a moment later with a bucket of water and a ladle. Seeing it, he was taken by raging thirst. He dipped the ladle and drank eagerly.
+
+Despite the smell, she sat near him.
+
+“Arthur, I know this is important, but working on these cards takes a lot out of you. I’m worried that one day you’ll overdo it.”
+
+He shook his head and made himself drink more slowly. Already, he was feeling much better. “I can’t slow down. There’s too much to do. So much to get ready for.” He took a breath and tried not to let the self-doubt he felt show on his face. He had to be strong for her. For everyone. “We need to be as strong as possible before we head back to our kingdom.”
+
+She looked at him for a long moment as if weighing his words. Then she said, lightly, “Do you think we’ll find out what Horatio’s new card is before or after we get into our first fight back home?”
+
+Arthur rolled his eyes. His friend’s secrecy over that card was getting annoying. He had picked it up from the Dark Heart’s library, but still, it couldn’t be that good.
+
+Cressida put her hand over his own. “What are you trying to do here, really? Because I know you don’t care about…” she glanced down. “Book binding. Don’t you have a skill for that?”
+
+“I don’t, actually, but I’ve been meaning to pick it up…” he trailed off as she gave him an unimpressed look for trying to change the subject. “I… wanted to make your cards into a real set.”
+
+“My cards? Oh, the animal cards.” She smiled ruefully.
+
+Cressida had, by several strokes of luck helped along by the Dark Heart, come across very similar combat summon cards: A flame summon bear, water cranes, an earth hedgehog, and some mind-warping kittens.
+
+Her shadow messenger snakes were not among them, but Arthur already knew why. That card was closer to Cressida’s Shadow Teleport than her combat animal summons.
+
+The summons were in completely different sets, though this was not entirely unexpected. It was said that every possible type of magical spell and ability was contained in cards. After seeing how many types of stone skin spell cards there were out there, Arthur believed it. No card was exactly the same: Even if it was off by a word, a letter, or even a bit of punctuation that gave an emphasis to a part phrase on the card versus another.
+
+So having different cards of animal summons did not mean they were of the same set.
+
+Except, in theory, Arthur should be able to change the rules and make them into a set.
+
+“I didn’t ask you to do that for me,” Cressida said. “You should be working on your skills.”
+
+He chuckled. “I am with the other 18 hours in my day. But Cressida, you don’t understand how powerful a set can be. The powers overlap and strengthen one another.”
+
+She still looked skeptical, so he added, “And having all your cards in a set means it only takes up one place in your heart deck.”
+
+“Well, I suppose that will be useful. Being around you will turn anyone into a crazy card collector.” Then she looked harder at him. “Your face is approaching a normal color again.”
+
+Arthur had to clamp down hard on his emotions not to allow embarrassment to redden his face all over again. He was supposed to be the leader, cool and collected. And not look like he had been sitting at his desk straining to relieve himself for hours on end, in front of a girl he… admired.
+
+“I’m about ready to try again. I’m fine, Cress. Don’t worry about me.”
+
+She studied him for a moment longer, then grimaced to herself. Before Arthur could stop her, she reached for her heart.
+
+“Cressida!” He reached to grab her wrist. “Don’t—”
+
+But she already had. Before he could stop her, she withdrew four cards from her own heart.
+
+This was a strain for anyone, and he had seen lesser people fall over and start seizing – granted, that was when Brixaby had ripped the cards out of their hearts instead of giving them voluntarily. But still, it had to be painful.
+
+Cressida looked down at her four animal summon cards. Then, pale faced but determined, she swept the Commons to the side and placed her cards in front of Arthur in an elegant fan.
+
+“Here.” Her voice was hoarse. “If you’re determined to do this, then stop fiddling around with Commons and work on the real things. You do have enough mana, don’t you?”
+
+“Cressida, I can’t.” He gestured hopelessly to the Commons. “That’s why I’m practicing on these.”
+
+She gave the lesser ranked cards a sniff. “Mine are much more alike than those. They barely have anything to do with one another—”
+
+“Which is why they make good practice,” Arthur interrupted. “They’re Commons, so they’re much less powerful in case I—” he swallowed. “In case I screw up and they disintegrate.”
+
+Cressida closed her eyes, a delicate shudder running down her frame. No one liked the thought of cards that had been in your very heart gone forever.
+
+But when she opened her eyes, they were strong and steady. “I have faith in you.” She held up a hand as he started to object. “And we can’t stay here much longer. The Dark Heart is starting to close, and more fights are breaking out through the city. They call it the reshuffling, but it’s more like a giant power grab. We don’t want to get caught up in it.”
+
+People who had grown more powerful thanks to cards they had found in the Dark Heart were now starting to flex their strength. That meant duels through the city -- when both sides were honorable, and assassinations when they weren’t. Most disturbingly to Arthur, people were starting to band together in coalitions and take power by force.
+
+The only good news was that the Dark Heart had not ripened into a full-blown eruption. The people here had avoided that trap… though Arthur suspected it had more to do with the Mythics attacking the Scourge-Gods than anything he and his retinue had done. Though removing so many Rares and a Legendary had likely helped some.
+
+In exchange for their help, the Mythic dragon, Lung Bei, had demanded Arthur return to Wolf Moon hive. He planned to stretch her patience as long as possible, but he and his retinue still needed to get a move on, as the people around here said.
+
+Sighing, Arthur looked down at Cressida’s cards and knew that time was running out. She was right. He had practiced and if things got too hairy… he could always reverse any changes and try again after more practice.
+
+He just hoped he was not about to make a huge mistake.
+
+Arthur grabbed a stack of mana chips from his Personal Space. He had originally bought them to power the oven in the barn. But Brixaby, who would eat anything that remotely smelled of power, had found that consuming the chips helped refresh his mana as well.
+
+Arthur had replaced his Mana Vault card into one of his new heart slots, but these chips would top him off to full.
+
+Also, they were pleasantly fizzy on his tongue.
+
+He took one more swig from the bucket, set it aside and said, “No matter how red I get, or how bad my sweat is… it’s important you don’t interrupt me.”
+
+“I won’t, and I’ll make sure no one bothers you either.”
+
+Arthur nodded, and with another deep breath, concentrated on altering Cressida’s cards.

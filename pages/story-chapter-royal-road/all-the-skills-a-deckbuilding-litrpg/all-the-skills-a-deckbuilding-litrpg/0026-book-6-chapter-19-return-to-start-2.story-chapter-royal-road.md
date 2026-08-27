@@ -1,0 +1,233 @@
+---
+id: c5eecd2e-c05c-577d-a4c5-fb5662db5c78
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Chapter 19: Return To Start (2)"
+slug: 0026-book-6-chapter-19-return-to-start-2
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 26
+ownLength: 2436
+unit: words
+ownProgress: 2436
+publishedAt: 2025-07-03
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2406896/book-6-chapter-19-return-to-start-2"
+royalRoadId: "2406896"
+removedAt: "2026-07-03T13:47:50.442Z"
+---
+
+Trap Card conditions met.
+
+Return to Start: Activated.
+
+The next thing Arthur knew, he was lying flat on his back in the middle of his luxurious bed at Blood Moon Hive.
+
+Though he'd been incredibly busy since becoming leader, he had taken a few moments to reset the key point of his Return to Start card. Lucky thing. Return to Start was one of his oldest cards—one to be used in a dire emergency, which this had been.
+
+Return to Start
+
+Rare
+
+Trap
+
+When the wielder of this card is attacked with another card’s power, they will be instantly be transported to a previously keyed-in location point at no mana cost and with no restriction due to distance. If a location has not been designated, the wielder will be transported to the physical point they last started that day—either one second after the stroke of midnight or at the moment they last woke, whichever point is later.
+
+This trap card has a once-per-sunset usage restriction.
+
+His head swam and his body ached from a combination of sheer exhaustion and what he suspected was life force drain. Thankfully, both should fix themselves with a combination of a good meal and rest.
+
+Too bad he didn't have time for rest.
+
+Arthur made himself sit up, ignoring the way the room seemed to churn around him. His thoughts flashed to what he had seen in the vision. The sign that had said: Rowantree.
+
+Was this a trap of some sort? The heart of the eruption had gotten past his shields and into his thoughts. Maybe it had picked up his worry about his confrontation with his cousin. If that were the case, tricking him into speeding up that moment would make sense. Penn would be ready to kill, and Arthur was going to have to do it to get his card.
+
+But the icy feeling in his gut told him that this wasn't a trick.
+
+One thing at a time, he told himself.
+
+Painfully, he stood to his feet. Every joint ached as if he were suffering from a bad flu.
+
+Closing his eyes, he reached for his Meditation skill and took a few moments to replace his Nullification card.
+
+Even though his Return to Start card had a cooldown, the last thing he needed was to forget about it and then get yanked back to his bed at the wrong time.
+
+That task done, he stood slightly wavering on his feet for a few seconds and just breathed.
+
+Being down on his lifeforce was bad enough, but his mana had been bottomed out. Though his Mana card was working hard to refill his store, it would take time to be of any use again.
+
+He had nowhere near enough to use the Dark Rower's portal card and return to his friends.
+
+He was down on mana, down on lifeforce, but Arthur was no longer down on resources.
+
+He made himself straighten, shoulders back. Cinderwood's warning echoed in his mind. No one should see his weakness.
+
+Arthur walked out of his bedroom at not quite a stride, but the closest thing he could come to it, and out toward the ledge.
+
+Before he got there, he heard light footsteps in the hall. He turned to see Kenzie walking up with what looked to be a bundle of fresh bed linens and new clothing in her arms.
+
+"Back already?" she asked, then stopped and stared hard at him. "What happened?" No doubt she'd picked up something from his emotions.
+
+He smiled wanly at her. "You busy?"
+
+"Just getting my room together." She set her bundle down on the floor where she stood, clearly not caring about the new things. "What do you need?"
+
+"Go fetch me a green portal dragon and..." He winced. "I'll need a ride through it on Marteen."
+
+"First," she took his shoulder and steered him to a passageway to the right. It was a mark of how bad he felt that he let her do it, "you need to see that healer of yours. Your aura has... holes in it."
+
+"Holes?"
+
+"It's thin in places it shouldn't be. Like a giant mouse was nibbling chunks out of it." The more she looked at him, the more alarmed she grew. "What kind of card did you and Brixaby run up against out there? How are the others?"
+
+"They're still there, but they should be fine. I faced it alone. Mind magic," he clarified ruefully.
+
+She whistled between her teeth. "It must have been some wallop."
+
+"Yeah." He flashed again to the Rowantree estate he didn't know from his own memories but still somehow knew. "It was."
+
+She steered him sharply to the left into another room, which turned out to be a library—not a card library, but the traditional kind where Arthur had found stacks and stacks of hive records. He hadn't gotten a chance to go over them. Just looking at the massive piles made him feel overwhelmed. In fact, he doubted anyone had gone in-depth into the records for years. They had just tossed them into the room and were done with them.
+
+He was only a little surprised to see Marion sitting at a desk, surrounded by stacks half as high as he stood tall.
+
+Marion glanced at Arthur, did a double-take, and immediately rose to come over.
+
+"If you look this bad, I hate to see how bad Brixaby is." He turned. "Asha, wake up, sweetie."
+
+The little Silver hatching who had been snoozing by the fire, sleepily lifted her head and peeped.
+
+"Brix is back at the eruption site," Arthur said as Kenzie helped drop him into a chair.
+
+Marion pressed a hand to his neck, probably to check his pulse. A moment later, Arthur felt the welcome relief of his Refreshment card.
+
+It was a mark of how bad he was that it washed through him, still leaving him at half-strength.
+
+Still, he didn't feel like he was about to fall on his face anymore, and most of his aches eased.
+
+His thoughts cleared, and he looked up sharply at Kenzie. "Get me that portal dragon."
+
+"On it." She sketched a sloppy salute and went out.
+
+"Meanwhile," Marion said, "tell me what's happened."
+
+****
+
+Though Arthur was still having issues with his perception of time, it seemed to take forever for Kenzie to come back with a Green portal dragon.
+
+The Green's rider arrived reluctantly and only snapped to attention when she saw Arthur waiting. From her hasty apology, she hadn't really believed Kenzie was on Arthur's business, as she was only Uncommon rank.
+
+I need to get my retinue a badge or something, he thought. Number 181 on the to-do list.
+
+The Green could easily open the portal for them without having to go through herself. Arthur directed her to set it up over the former eruption point. Then he, Kenzie, Marion, and little Asha, all riding on Marteen, went through. By the curve of Marteen's silver neck, she felt very proud of herself for carrying such important passengers.
+
+The moment they emerged, Sams and Joy roared a challenge, but then both seemed to recognize Marteen quickly enough. There was a bit of confused fuss when they noted that Arthur was with them.
+
+Marteen landed, and Cressida was the first to run up to them. She looked Arthur up and down as if to make sure he was still in one piece, then immediately backed off with a nod, saying nothing. The forced professionalism stung.
+
+Horatio was right behind her. "Arthur, why'd you come back the long way? All your cards fail you?"
+
+"Something like that. How's Brix?" He brushed by his friend, barely waiting for an answer.
+
+Brixaby was still passed out, though more of the venom green had bled out from his scales, with large swathes of purple returned. Arthur was glad to see it. He would love his dragon no matter what color he was, but the green clashed with the purple.
+
+He also seemed larger. Though he hadn't undergone yet another dramatic growth spurt, he seemed more developed in the shoulders, and he had lost some of the coltish, stretched look. His breathing was even, and he didn't so much as switch an eyelid when Arthur stroked his muzzle.
+
+Marion and Asha started their examination, though Marion first gave Arthur a disgruntled look. "You two always put yourselves in danger. Isn't that what the rest of your retinue is for?"
+
+"Hey now," Horatio said, "I like being backup, thank you very much."
+
+Marion rolled his eyes and pressed a hand to Brixaby's scales to cast his spells.
+
+Meanwhile, Asha touched her nose to the tip of Brixaby's muzzle and closed her eyes, apparently doing the same.
+
+"I've given him a Refresh," Marion reported after a few minutes, "but it's like a drop of water in a raging stream. He's suffering from deep exhaustion."
+
+"Magical exhaustion," Asha added. "And we are magical beings, so it hits us harder."
+
+Arthur's stomach fell. "Then he's not waking up soon?"
+
+"You said he ate a Legendary card?"
+
+"He was out for a while last time he did it, too," Arthur admitted.
+
+Marion looked grim. "It wasn't too long ago that he took in that Life card and grew from the energy he harvested right after. He's had a couple of shocks to his system, but resting is for the best," he added, seeing Arthur's expression, "he's assimilating the card, and we should give him as much time as he needs to do that."
+
+Arthur looked around and felt once again how exposed they were in this wasteland. Anyone who came to check on the extinguished eruption would see them. Surely, Arthur was not the only one who wondered what happened to the demi-scourge.
+
+He turned to his retinue. "I'm open to suggestions."
+
+"We can't stay here," Cressida said immediately. "It's too risky. Horatio and I might be able to fight off a handful of Rares and certainly some Uncommons. But Brixaby is our heavy hitter for Legendary battles, and he's out."
+
+More than out, Arthur thought. He's vulnerable.
+
+"No one's come yet," Horatio said, immediately taking the opposite stance. He was good at that. "We've been lucky so far, and you don't want to be seen by the hive as weak, right? Just wait it out until he wakes up. We'll deal with it if someone comes. They might not be looking for a fight."
+
+Behind him, Sams nodded.
+
+Cinderwood simply shrugged. "I defer to you, Leader."
+
+"I already gave my answer," Marion said. "He needs to rest. I don't care where."
+
+Kenzie looked startled when Arthur glanced at her. "I get a vote? Um..." She looked around. "Get him out of here. This place is creepy."
+
+“Yeah,” Marteen agreed.
+
+Finally, Arthur looked to Joy, who had her uncanny ability to sense danger as well as her quest card, which often acted as forewarning.
+
+"I don't know," she said. "I don't like him being put in danger, but I never like anything like that."
+
+Arthur nodded to himself. "Okay, I've changed my mind on being seen. If Brix hasn't woken up by nightfall, then we should move him. I'll see if my Stealth skills can help cover us, but I can deal with rumors."
+
+The others nodded, even Horatio. Cressida, surprisingly, scowled.
+
+"Are you just saying that because it was my idea?"
+
+He looked at her, confused. "It was a good idea."
+
+She huffed and turned her back, walking to Joy, who dipped her head and spoke softly to her rider.
+
+"Um, what did I do wrong?" Arthur asked Horatio.
+
+Horatio just reached over and slapped him companionably on the shoulder. "Good luck," he said with a grin that made Arthur sort of want to hit him.
+
+It was unlike Cressida to get snippy this way, and he knew he should go see what was bothering her, but here, out in this barren, windswept destruction zone without so much as a twig for cover... there wasn't any privacy.
+
+Marion wasn't a help either, rolling his eyes at him when Arthur looked at him askance.
+
+So, without anything else to do, he went over to keep Brixaby company.
+
+By nightfall, it was visually obvious that Brixaby had grown a few more feet. The green was, thankfully, fading fast.
+
+Evening was just falling when Joy suddenly sat bolt upright.
+
+"I got a quest! Oh no!"
+
+"What is it?" Cressida and Arthur asked at the same time. They looked at each other, then away.
+
+Joy flicked her wings in agitation. "It's a countdown timer. We have twelve minutes—well, eleven minutes and fifty-seven seconds—to leave before we're in danger. But I don't understand—"
+
+"Look!" Cinderwood pointed up.
+
+In the sky to the west, partially obscured by the orange setting sun, a portal had opened up. A blue dragon appeared, circled once, clearly saw them, then beat a hasty retreat back for the portal.
+
+"That was a scout," Arthur said. "It's reporting back to its hive, and we have less than twelve minutes for whoever sent it to get over here. Let's get a move on."
+
+****
+
+Luckily, Arthur had recovered enough of his mana over the last few hours to open a portal to the Dark Rower's land. He did it from the ground so they didn't need to haul Brixaby airborne.
+
+Sams was the largest of their group, and once Cinderwood and Marteen helped drag Brixaby up on the Yellow's back, he took most of his weight.
+
+Brixaby was completely dead to the world, his head and neck hanging at an awkward angle over Sams's shoulders.
+
+Still, it took more time than Arthur would have liked, and they entered the portal with thirty seconds to spare.
+
+After a quick boat ride, with things in the sky shrieking over them, they reappeared right at the ledge of the leader's level. They managed to haul Brixaby through the large archway to the main indoor cavern, with plans for the Rares to stay out front and guard.
+
+As far as Arthur could tell, no one had noticed them at all.
+
+I'm home, he thought in relief. Then he checked himself. Home? This was Blood Moon Hive. When did it become home?
+
+He pushed that thought away. There were more important things to think of. He had to tend to Brixaby, of course, see about that vision or warning of the Rowantree estate, and put out whatever fires had cropped up that came along with being Hive leader.
+
+But there was something more important he had to do first.
+
+He touched Cressida's shoulder. "We need to talk."

@@ -1,0 +1,227 @@
+---
+id: 529bd31d-59b1-527c-ac9a-2f29275834e3
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch40: Let's Stop The Eruption (3)"
+slug: 0047-b6-ch40-let-s-stop-the-eruption-3
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 47
+ownLength: 2911
+unit: words
+publishedAt: 2026-04-02
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3223608/b6-ch40-lets-stop-the-eruption-3"
+royalRoadId: "3223608"
+---
+
+The wind screamed around them as they fell, and it took all of Arthur’s Dragon Riding skill just to keep from being flung off.
+
+He thought he heard others screaming, too—people who were likely wondering what in the world he was doing.
+
+That’s a fair question, Arthur thought, half giddy and half terrified. Hopefully, they’d look back on this and think he had been daring and not committing a suicide run.
+
+They flashed by the team of earthen card users who had successfully sealed the northern end of the rift. But there was so much left to go, and now their protectors were diving down into the depths. Most were wisely taking to the skies to fight from above.
+
+Their efforts were not for nothing. They had briefly stalled the eruption, and the scourglings inside had less room to move. It would be that much harder for the demi-scourgling to hatch and crawl out.
+
+Unfortunately, there was that much less space for Arthur and Brixaby.
+
+It was utterly pitch black below, but Sams and Horatio had their eyes on them and solved that problem. Light blazed from above, and a beam shot out in front of them to bounce around the canyon walls.
+
+Arthur sort of wished that it hadn’t.
+
+They were diving into a roiling mass of scourglings below, and already the walls of the canyon were covered. Most were too surprised to take bites at them as they flashed downward, though some tried. Arthur heard Brixaby grunt as his scales were buffeted by the occasional snap of teeth or claw strike. Luckily, he had his Tanky Constitution to help shield him.
+
+Arthur used his Nice Shot card to pepper the scourglings with shrapnel. If it didn’t clear the way ahead, it at least distracted them long enough for him and Brixaby to get past.
+
+They fell and fell.
+
+Here and there, Arthur saw flashes of clusters of scourgling egg sacs hanging off the walls. Some of these were hatching, dropping down their newborns into the mass below. Some of the newly hatched were more deft, and would catch the walls with their hooked claws to start the long climb.
+
+The stink was incredible.
+
+Arthur held his nerve, and from Brixaby’s stiff posture, he knew he was doing the same. The canyon had narrowed, and the mass of scourglings at the bottom writhed just before them. Some were reaching up as if eager to welcome them in.
+
+Not yet . . . not yet . . . NOW.
+
+Arthur activated his Phase In, Phase Out card a moment before the tip of Brixaby’s nose hit the first of the scourglings.
+
+This was the real risk. Phasing out meant he was completely disconnected from the world, and therefore disconnected from Brixaby, too, who had also reached for the card’s power.
+
+While phased, Arthur was no longer riding Brixaby, and his dragon was no longer carrying him. But they still fell together.
+
+As they did, Arthur didn’t move a muscle lest he accidentally float into Brixaby. That would make emerging back into the world . . . difficult.
+
+Also, they only had thirty seconds.
+
+They entered the scourgling mass a second after they phased. It was a place where not even Sams’s and Horatio’s light could reach. Down and down and down. He passed through a press of bodies that was so tight he suspected that many of these scourglings had to be dead. At least, he hoped they were.
+
+However, he and Brixaby still kept moving downward by sheer momentum. The darkness was punctuated by occasional flashes of light, and none of it was bright enough to give him a sense of how much farther they had to go. The seconds ticked down, and if he had not been certain there was an eventual end to the crush of bodies, he might have started to panic.
+
+Finally, out of nowhere, both he and Brixaby emerged into open space lit by sickly green light. They had two seconds to spare.
+
+Arthur phased back into the world. Before he had the chance to fall for real, he reached out and grabbed one of Brixaby’s neck spines and used it to haul himself back into place. Somehow, they had become separated by a few feet.
+
+Brixaby buzzed his wings but then stopped a moment later, looking puzzled.
+
+“Something keeps me aloft. It is pushing me up from below.”
+
+Arthur glanced up. The ceiling was a writhing mass of scourglings, all crawling over one another and ripping each other to pieces as they did so. He habitually kept a tight hold on his seat using his legs. Curious, he relaxed and felt himself being gently pushed upward as if gravity had been reversed. He would have floated up to join the scourglings on the “ceiling” if he hadn’t caught himself.
+
+He glanced down and frowned. “That light is what’s doing it. You’re a lot heavier than the scourglings up there, so it’s keeping us clear of them.”
+
+Brixaby swelled with pride. He’d had more than a little trouble adjusting to his much larger form and was clearly pleased to find another positive.
+
+Arthur ignored him, still focused on the glow below. That was where the heart of the eruption lay. He had seen a few hearts by now and had never experienced this strange sense of being pushed away. But those had been at the bottom of regular eruption cones and not a crack eruption. Could that be the difference?
+
+The heart of the eruption was also where Legendary card shards were made, and for a moment he was sorely tempted to bypass the demi-scourgling and go straight for it.
+
+Except that would be a bad idea. Using Stone Sense, he could clearly feel the sheer size of the cavern they were in. It was huge—by his estimation, more than half again the size of the town above.
+
+And below them, obscured by the green light to be no more than just a shadow, lay the pulsing egg sac that contained the demi-scourgling. It took up the entire bottom of the cavern except for the pulsing heart. A mix of its own weight and being partially buttressed by the earth caused it to remain below. As Arthur’s eyes adjusted, he saw something wet and slick flex just under the surface. With the movement came another shaking of the earth.
+
+A pulsing green vein snaked from the sac downward to the heart of the eruption. He guessed it acted like an umbilical cord, and the heart was pumping the last bit of energy the demi-scourgling needed before it fully hatched.
+
+Brixaby saw the same thing. His neck snaked down as he locked on to his target. Then he started flapping his wings—not to rise, but to dive.
+
+The first few dozen feet were easily achievable, but the lower they sank, the more the upward pressure grew. Soon, Brixaby was buzzing his wings all out, using every trick he had ever learned in the air to force himself against the pressure.
+
+Arthur lay flat on his back. He had to hold on for dear life just so he didn’t get flung off. It was as if the two of them were flying into a windstorm.
+
+Slowly but surely, they were gaining ground. But it wasn’t fast enough.
+
+A single claw emerged from the wet sac, tearing it open.
+
+The demi-scourgling was emerging.
+
+Brixaby let out a roar that was warped and lost in the pressure around him. They weren’t advancing fast enough. Either it was bad timing on their part, or the heart of the eruption knew its enemy was close. They had perhaps seconds.
+
+Arthur activated Cressida’s shield around them.
+
+If they were fighting against true wind, the wide bubble would have acted like a sail and flung them back up. But this wasn’t wind. It was the pressure of a card’s power. That pressure bounced off the shield, and like a bird’s wing cutting through the air, he and Brixaby suddenly fell like rocks through the area of calm around them.
+
+Arthur’s supply of mana fell just as quickly. Then they crashed upon the surface of the sac.
+
+It was . . . weirdly spongy.
+
+Brixaby thrust glowing poison-green claws forward to grab on just as the shield shattered. His claws ripped through the sac like it was tissue paper and delivered a dose of poison to what was underneath. Arthur caught sight of something below, a yellow eye snapping open for the first time.
+
+Roaring, Brixaby ripped out the demi-scourgling’s card.
+
+The thing inside the sac gave a keening wail, dying before it was fully hatched.
+
+Abruptly, all the pressure in the cavern ceased. Darkness fell, except for the glow on the other side of the cavern. It reminded Arthur of the last ember of a once-blazing fire.
+
+This was the true heart of the eruption, and it was not dead yet.
+
+Unfortunately, the cessation of the pressure meant there was nothing keeping the scourglings above them.
+
+Arthur looked up, saw a falling black mass, and then raised Cressida’s shield once again. He didn’t have time to yell before the huge crush of scourglings crashed upon himself and Brixaby.
+
+How he kept the shield active, he wasn’t sure. The mass of screeching, wriggling, clawing bodies wasn’t quite as draining as the pressure from the heart had been, but it was close.
+
+Arthur felt his mana bottom out, and as it did, the card started to eat into his life force to maintain itself. All Arthur could do was hang on to Brixaby and trust that the dragon was strong enough to dig their way out.
+
+Brixaby didn’t bother to do that. He activated his Call of Life.
+
+There was a flash of green light so bright it looked white. Arthur was treated to a blink-image of a wolf-shaped scourgling madly chewing at the shield from a few inches in front of his nose.
+
+Then, abruptly, every scourgling within a few feet of them was dead, and Brixaby was strong.
+
+“Arthur!” his dragon yelled. “Prepare yourself.”
+
+“For what—”
+
+He didn’t know how the dragon did it exactly—he wasn’t sure Brixaby knew he was capable until he felt the need—but some of that power slammed into Arthur, racing upward from his dragon’s scales.
+
+It felt about as comfortable as riding a bolt of lightning.
+
+Arthur’s body convulsed. If he had any control over his muscles, he would have instinctively leapt right off.
+
+But he knew what Brixaby was doing, and using his Master of Cards, he shuttled that energy straight to his Mana Vault card. His mana pool jumped up, though the conversion rate was terrible and he suspected that a lot energy was lost. The wild, snapping power of the life-force energy also fed Cressida’s shield card.
+
+The shield went from transparent to arcing with dangerous green light. With a snap and a BOOM, scourglings were flung away in all directions.
+
+Brixaby flew upward with a surge of strength. He then jinked sideways, searching.
+
+Arthur spied it in the same moment: Some of the scourglings were trying to climb the canyon walls again. Most were on the ground, crippled either from the fall, victims of a mauling from their own kind, or killed by Brixaby.
+
+However, there was one bare spot in the corner. It was where the glow emanated.
+
+The heart of the eruption had just enough power to push the scourglings away from itself, but that also left it exposed.
+
+More than that, the umbilical cord was visible as a glowing snake through the gaps of the scourglings.
+
+Arthur pointed. “The cord!” He had to yell at the top of his voice to be heard over the shrieks and whistles of the scourglings below.
+
+“I can taste its power,” Brixaby agreed. “It is feeding energy into the corpse. But why?”
+
+“Last-ditch effort. It’s trying to revive the scourgling—maybe give it a new card.” And Arthur guessed that it wouldn’t take the heart much time. The demi-scourgling’s body was built, but the heart had Legendary shards to spare. “We have to stop it.”
+
+Brixaby didn’t need to be told twice. With the speed only a purple could have, he shot over and fell upon the cord right where it connected to the glowing heart. Its power could push away scourglings, but he weighed quite a bit more.
+
+Brixaby fell upon the thing, tearing at it with his teeth, injecting poison with his claws.
+
+Meanwhile, contracting the shield around him so he wouldn’t be flung away, Arthur leapt for the heart itself.
+
+The gap was too large, and if he didn’t have the Jumping skill, he never would have bridged it. But he did and got another skill level for his efforts.
+
+Even through Cressida’s shield and his Toughened Skin, he felt the heart’s power trying to blast him back. It wasn’t quite enough.
+
+Arthur thrust his fist into the heart and came out with a small handful of shards, which he threw into his Personal Space. No time to even look at them. He took another handful. He had seconds, maybe less.
+
+Brixaby roared in triumph as Arthur tossed in his third handful of shards. He glanced over in time to see the umbilical cord severed under his dragon’s claws.
+
+But the heart was still pumping faster and faster.
+
+He couldn’t imagine the amount of energy it would take to build a demi-scourgling in the first place, not to mention the thousands of the lesser rankers. Now that energy had nowhere to go. It didn’t spurt out of the severed cord. It simply backed up into the heart itself.
+
+“Brix, it’s going to explode!”
+
+Even with his own warning, it was still hard to tear himself away and not try for a fourth handful of high-end shards.
+
+Wrenching back took a physical effort. Arthur ran for his dragon, but by the second step, he knew that he would be too slow. The heart was not pulsing so much as flashing.
+
+So he slowed the world around him using the time card. Time psychosis meant nothing to him if he was dead.
+
+The world seemed to freeze while Arthur sped forward. But in doing so, the time card sucked down almost all of his renewed mana.
+
+He reached his dragon just in time for Brixaby to snap a wing protectively around him. Arthur threw everything he had left into Cressida’s shield.
+
+The explosion was so loud and shattering that Arthur had no memory of it at all. One moment he was braced, and the next he felt the shield impact against the wall.
+
+Then rocks came tumbling down on top of them, as well as scourglings both living and dead.
+
+There was no more power from the heart. Nothing left to keep the ravening scourglings away. Injury meant nothing to them. The ones that were alive had been slavering all this time for the magic and meat from the upper world. Arthur and Brixaby provided both.
+
+Arthur’s mind was buzzing from the impact, and he felt like the world was strangely tilted. Brixaby was yelling something, but though Arthur could hear, he could not understand.
+
+All he could do was keep his shield up and scrabble clumsily on Brixaby’s back. The moment he sat, the dragon surged upward.
+
+Thanks to the earth powers their Counterfeit Siphon card picked up, the rocks and earth meant nothing.
+
+He felt Brixaby still moving upward—a bubble of space among the clawing, whistling scourglings.
+
+But the strain on the shield was enormous, and Arthur’s mana was down to a sliver.
+
+“Brix . . . I can’t keep up the shield.”
+
+Brixaby roared and once again siphoned life force from the hapless scourglings around them. Though Arthur thought he was prepared, receiving the raw power felt no better than last time.
+
+Again, he shoved as much as he could into his mana pool, and again the shield snapped green with unbridled energy. This time, Arthur felt something inside of him burn. His scream was lost in the howl of chaos all around.
+
+But no matter what, he kept the shield up.
+
+The infusion of power gave them perhaps a minute of cover while Brixaby clawed his way upward. But soon the mana was running low again.
+
+He didn’t want to get another infusion of life force. There was something wrong with it—life should not burn.
+
+So Arthur kept quiet and held on. Looking back, he wasn’t quite sure how he did it. He kept the shield up until his store of mana completely ran dry, and the shield began to eat into his life force. Not the energy stolen from the scourglings. A vital part of himself was flowing out to power what his mana no longer could.
+
+Brixaby roared again, this time using his Stunning Shout and blasted a path straight upward. Arthur caught a glimpse of blue sky.
+
+It was still too far away, and the gap was filled by scourglings a moment later.
+
+Though it was dark, Arthur felt the world darken still more around him. The bubble shield started to contract, and he knew the moment it failed, the crush of the scourglings would fall on them both. He would be torn from the dragon’s back.
+
+So when he felt Brixaby reach back and grab him, Arthur gave his silent consent.
+
+The next thing he knew—though he didn’t know it at all—he was in Brixaby’s Personal Space.

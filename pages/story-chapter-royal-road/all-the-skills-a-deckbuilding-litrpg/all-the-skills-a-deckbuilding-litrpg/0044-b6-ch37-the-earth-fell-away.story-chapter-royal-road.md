@@ -1,0 +1,191 @@
+---
+id: 38beb58a-5b0d-5824-a9ad-eff0ac50afaf
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch37: The Earth Fell Away"
+slug: 0044-b6-ch37-the-earth-fell-away
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 44
+ownLength: 2080
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3189046/b6-ch37-the-earth-fell-away"
+royalRoadId: "3189046"
+---
+
+Arthur felt the weight of the dark rower’s cold eyes. When he looked up, he could not see its face behind the shadow of its deep hood.
+
+Instinctively, he held Cressida a bit tighter—so tight he could feel the reassuring thump of her heart. She had passed out again, and he wasn’t going to let go until she was in a healer’s care.
+
+“What is it?” he asked the rower.
+
+“I can feel my brother’s influence. You have been touched by one of his cards.” There was an undercurrent to the rower’s voice that Arthur did not like at all. For the first time in a long time, he felt threatened by the thing.
+
+Touched by one of the cards? Did he mean Cressida’s bleeding curse? Tensing, Arthur opened his mouth to tell him to stay away from her.
+
+Bristling, Brixaby spoke first. “I do not like the way you are staring at Arthur.”
+
+At him?
+
+Then he realized the rower wasn’t paying Cressida any attention at all. It was a little hard to tell when he didn’t have a face. But no, once Arthur let go of his instinctive protectiveness, he realized that the rower was staring directly at his chest—ignoring the way he held Cressida in a bridal carry.
+
+But why? He hadn’t added any cards since the rower last saw him.
+
+Then it hit him.
+
+“It’s Penn,” he said with a look to Brixaby. “He’s seeing him in my Personal Space.” He turned his attention to the rower. “Do you know which card it is?”
+
+“A powerful one.” It gave a rattling inhale, as if smelling the card. “A strong one.”
+
+“Will it hurt him?” Arthur asked.
+
+The rower gave no answer, and less than a second later, the edge of the rowboat thumped against the outgoing pier.
+
+Arthur wanted to follow up on this, but Cressida came first. “We’ll talk about this again,” he said, lifting Cressida up. Then he, Brixaby, and Joy rushed for the portal back to the hive. Arthur was already hollering for a healer on their way out.
+
+The next few hours were a bit hectic.
+
+The hive had healers, and they were very much alerted and on duty thanks to the eruption. Unfortunately, that made them a bit busy. There was an entire cavern on the first level of the hive dedicated to seeking healing assistance. It could be accessed on foot by humans, and the ceiling itself was lifted high enough to allow all but the largest dragons to crawl in for help.
+
+Arthur, being the leader, was seen to immediately. Meanwhile, Brixaby flew up to their personal level to see about breaking Horatio’s group out of their pocket place early.
+
+Within a few minutes, Arthur was told that Cressida was already on her way to healing, thanks to his Moderate Self-Repair card.
+
+“Then why isn’t she awake yet?” Arthur demanded.
+
+The healer looked a bit overawed and glanced around as if hoping someone else would answer the question for him. Unfortunately, he was the only one at Cressida’s bedside. “Well . . . she has lost a lot of blood?”
+
+Why is that a question? Arthur wanted to know.
+
+There were a distressing number of other people needing healing right now. Gritting his teeth, Arthur dismissed the man with a nod. Then he took a seat by Cressida’s bed and took her hand in his. One of the healers had used a cleansing card on her to wash away the blood, but her skin still looked as pale as one of the crisp bedsheets.
+
+From the number of people looking for healing, this was a rough eruption. At least there had been no sign of a demi-scourgling or other call for the Legendary leaders to attend. If that happened, Arthur wasn’t sure if he could go. For once, duty could go hang.
+
+. . . Except when he thought of all the other families—all the other people like Cressida who might need his help.
+
+Forcefully, he pushed that thought away. It hadn’t happened yet. For now, the hive’s regular fighters were handling the eruption.
+
+That didn’t stop him from cursing himself as a fool over and over. He should have waited for Horatio’s group and the rest of his retinue. Then, with them at his back, he could have brought everything down at once on the Rowantree Estate. He and Brixaby had gotten arrogant from their time in training. He’d thought they were ready.
+
+He ignored the little voice in his head that told him he had been ready and had, in fact, come out of the encounter ahead. Penn was essentially his prisoner and would have valuable knowledge on the Mind Singer.
+
+If it hadn’t been Cressida, then someone else—some other nameless face in Wing Purple—might have gotten hurt instead. Nobody came out of every fight untouched.
+
+But staring at Cressida’s face, none of that mattered. She was the one who had come out the worst. That made all the difference.
+
+Why wasn’t she waking up? Should he have asked Brixaby to transmit some of the energy from Call of Life to her?
+
+This was awful. He couldn’t just sit here. Should he find someone? Did he dare leave her? What if—
+
+An imperious, yet vaguely familiar voice boomed out across the large cavern’s space. “Let me through! Let me through!”
+
+Arthur looked up to see a young, though mostly grown, silver dragon pushing her way past people and stepping over cots. She seemed somewhat familiar until he saw the man at her side rushing to keep up with her.
+
+Marion?
+
+Still holding Cressida’s hand, Arthur half stood. The man looked like Marion, but yet wasn’t. He had grown at least four inches in height and was tanner than Arthur had ever seen him before. So tan, his light eyes stood out starkly from his face. His hair had been allowed to grow, too, and was messy and disordered. The look went along with his glasses, which looked like they had been fixed and refixed over and over again.
+
+Didn’t anyone have a repair card in their pocket space?
+
+Spotting him, Marion grinned and said, “There he is, Asha.”
+
+The dragon—who he realized was Asha and was certainly not a hatchling anymore—was not entirely full grown, but at least most of the way there, pushed forward and looked down at Cressida in concern.
+
+“What happened?” Marion asked.
+
+Arthur was about to ask the same thing to Marion, but his question snapped him back to reality. “She was hit with something—a blood curse, I think. She was bleeding from her skin until I gave her my Moderate Self-Repair card. They say she’s fine, but she doesn’t look like it, and she’s not waking up.”
+
+“All right, step back,” Marion said.
+
+“Listen to him, Arthur. Give him room,” said another male voice, along with a hand on his shoulder to draw him away a few steps.
+
+He looked and saw it was Horatio, also markedly changed. Not only was he visibly older by a couple of years, he had cut his dark hair to the scalp and was also extremely tanned. “Did you guys get dropped in a desert in the pocket space?” he demanded.
+
+Horatio smiled, and it crinkled new lines around his eyes. “Nah, this is what happens when you’re outside training day in and day out, and not following around your crazy friend as he delves into Dark Hearts or conquers entire hives.”
+
+Before Arthur could retort, Marion spoke up. “Do you know the strength of the card that hit her?”
+
+Arthur shook his head, swallowing. “I . . . wasn’t there with her.”
+
+Horatio squeezed his shoulder, and they stood by while Marion and his dragon cast several diagnosis spells over Cressida. They’d always been competent, but there was a marked new confidence to the two of them that Arthur had never noticed before.
+
+“Did you guys discover new healing cards or something?” he asked.
+
+“No,” Horatio said with a laugh. “Our former prince just finally grew up a little.”
+
+“I heard that,” Marion muttered.
+
+“You were meant to!”
+
+“You grew up, too,” Arthur said.
+
+“Yeah, well, trying to wrangle a few dozen wild dragons into discipline—including all those troublemaking purples—will do that to you.” Horatio gave his friend a look. “Nothing we couldn’t handle, of course. No deaths,” he added with a grin. “Soledad is wrangling them right now. You’ll like the way she and Equinox have come along, but they’re hungry for more cards. I understand we’re in the middle of the first eruption?”
+
+Arthur nodded, having gone back to watching over Cressida.
+
+“Good,” Horatio said. “We all got used to adding new cards what felt like every other week. It’s been over a year and a half without anything new for us.”
+
+He registered what his friend was saying, and from the sound of it, the pocket space experiment had been a success, but right now Arthur couldn’t give a damn. Marion and Asha were still working over Cressida. Why hadn’t they found anything yet?
+
+Suddenly, Asha breathed over Cressida, and her breath glimmered like mist catching the sunlight. It seemed to settle over Cressida and then sink into her skin.
+
+“She had shreds of that curse left in her body,” Marion explained, then held up a hand as Arthur straightened with outrage. “I don’t blame the other healers for missing it, and truthfully, it’s nothing that wouldn’t have dissipated in a few hours. But why wait?”
+
+Cressida started blinking open her eyes. Arthur pushed past Marion to take her hand again. “How are you feeling?”
+
+“Shouldn’t that be my question?” Marion muttered.
+
+“Huh?” Cressida didn’t look entirely awake yet. She saw Arthur, smiled, then looked around in confusion. “I’m back in the hive?”
+
+“She was low on blood and generally exhausted,” Marion supplied. “Honestly, Arthur, you could have done one of those life transfers. It wouldn’t have killed the curse entirely, but it would have helped.”
+
+“I’m not used to the card yet. If I overloaded her, I would have given her tumors.”
+
+“Well, there is that. Luckily, you have a healer on your side.”
+
+Cressida just blinked at them, bemused. “Joy?”
+
+“She’s fine,” Arthur told her. “She’s with Brixaby, I think.”
+
+She reached up to touch his cheek. “And you’re okay? Did you get your family’s estate back?”
+
+He thought of the destroyed land, the fields once rich with crops and people. “No, but I faced my cousin.”
+
+“You what?” Horatio demanded. “Then what were we all training for?”
+
+“The fight to come,” Arthur said.
+
+But nobody looked impressed.
+
+With a sigh, Arthur quickly outlined what had happened.
+
+“So you put a guy who had a bunch of trap cards inside your Personal Space?” Horatio rolled his eyes. “This is going to end in tears. I am so glad I’m back.”
+
+“We’re back to interesting times,” Marion said with a grin. It seemed the two of them had become friends.
+
+Cressida sat up and looked at Marion. “I’m fixed, right? So I’m free to help out with the eruption?”
+
+“No,” Arthur said.
+
+She pierced him with a look. “Why not? Unless you weren’t telling me the truth about Joy?”
+
+“No, I mean, yes! I mean . . . you need to stay here and recover,” he said, feeling dumb because it was clear that Cressida was recovered. “I could have lost you.”
+
+Horatio coughed into his fist and not-so-subtly pushed Marion away.
+
+Cressida, though, was scowling. “You didn’t lose me. I’m sorry I couldn’t help keep those dragons away from you.”
+
+“You did! You and Joy gave me the time I needed, but I don’t care about that. You were hurt. Badly.” He was holding her hand again, but too tightly. He quickly loosened it.
+
+She gave him an exasperated look. “Now you know how I feel whenever you go on wild adventures.”
+
+“That’s not fair,” Arthur said. “I rarely get hurt.”
+
+“You get hurt all the time,” she said softly. “I hate it, too.”
+
+He wished they weren’t in a cavern full of wounded and weeping people. It wasn’t very romantic, but as Cressida spoke, their gazes met, and it was as if the rest of the world fell away.
+
+Nobody, not even the silliest purple, dared interrupt them.
+
+Instead, it was the general horn: The second eruption was starting. Surely they would be needed now more than ever.
+
+To the depths with it, Arthur thought, and kissed her anyway.

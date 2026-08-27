@@ -1,0 +1,103 @@
+---
+id: ba9282f5-9097-50c9-a5a3-a67adcc7489c
+page-type-slug: story-chapter-royal-road
+title: "B5 Prologue"
+slug: 0008-b5-prologue
+partOf: apocalypse-healer-path-of-death-progression-litrpgvolume
+position: 8
+ownLength: 1058
+unit: words
+publishedAt: 2026-01-06
+link: "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/2916703/b5-prologue"
+royalRoadId: "2916703"
+---
+
+Star-like blades orbited him and pulled closer, leaving deep gashes on David’s skin.
+
+He thought about dispelling them, forcing his way through Zachariah’s power, but the Regressor didn’t look very pleased—or patient.
+
+David healed his wounds the moment they formed and smiled flatly at his friend. But was Zachariah really his friend? It was hard to tell.
+
+The Regressor gritted his teeth as he stepped closer.
+
+“WHY do you wield the End’s power? Did you—” he growled, but David waved dismissively. Unfortunately, Zachariah was not up for any fun. His blades ripped through David’s arm the moment he moved.
+
+His arm was nearly severed, which helped little to ease the tension. If anything, David was starting to feel annoyed.
+
+“Are you nuts, dude? Why would I betray the Origin?” David snapped, ready to make a move if Zachariah didn’t retrieve his star blades soon.
+
+Then again… do I have a reason I’m on the cosmos’ side? he mused inwardly.
+
+He preferred the Origin to the End. The abundance of life in the cosmos was great. On the other hand, the nothingness of the Naughtrealm had been… David shuddered thinking about it, which only resulted in more severe wounds as the star blades cut into his neck.
+
+“How about you remove those damn things?” David asked, yet he acted before Zachariah could do anything. He accessed the Weave and willed the star blades to dissipate. They resisted his will greatly but shattered nonetheless.
+
+Zachariah raised an eyebrow. “You… are already at the second Star?”
+
+That was wrong, but the Regressor didn’t have to know that. Looking at Zachariah, he appeared overly cautious, but also surprised at what he was looking at—David. Unfortunately, what he saw seemed to put him more on edge.
+
+But why should I care about that? David wondered.
+
+Their eyes clashed, and David lifted a finger. He released a trace of Vitae Nihilum and met Zachariah’s fury with resolve.
+
+“Are you talking about that?”
+
+Zachariah growled and attacked again, but whatever he had planned seemed to fail as David disappeared from the spot. Space distorted and David reappeared beside Maja, a blade jutting from his chest.
+
+He clicked his tongue and devoured the blade using Vitae, which seemed to worsen Zachariah’s state. He stared at David in frenzy—and was that disappointment?—but Maja stepped between them with arms spread wide.
+
+“I have no idea what is happening right now,” Maja snapped, furious eyes lingering on Zachariah. “But fuck you, Zachariah!”
+
+Somehow, David doubted anyone knew why, but Maja’s words worked wonders.
+
+She shouted at the Regressor for disappearing whenever they needed him and for causing a mess every single time he returned. Zachariah faltered, and the anger on his face was replaced by sourness. He did not like what Maja said at all. It was a good thing she didn’t care about that.
+
+David stepped up to Maja and rubbed her back. Somehow, that was enough to put the Regressor back into fighting mode.
+
+“I second Maja. Fuck you, Zachariah,” David offered with a faint smile, trying hard to control his raging emotions. Fighting Zachariah was foolish. He was a regressed god and too strong to deal with—for now. David’s condition was a mess, for lack of a better word. Exhaustion threatened to consume him, his Source was cracked… again, and even his Corrupted Divine Heart was troubling him.
+
+“How about we calm down for a moment? Can’t you just look properly at this?” David asked, conjuring a trace of Vitae once again. “Is that really Nihilum?”
+
+He hesitated for a moment before adding, “And are we not talking too much about Them?”
+
+Not that he paid much attention to that. He’d probably thought about the Voidlings, the End, and everything he’d experienced in the Naughtrealm hundreds of times since then.
+
+Zachariah seemed pleasantly surprised at his words but waved him off.
+
+“The End can only affect mortals in the same way. Our connection to the Weave ensures our discussion won’t empower the End and the creatures from beyond. If it did… well, then the cosmos would have lost the siege against the End a long time ago. Long before the Earthen Union was integrated into the Pantheon the first time.”
+
+Okay, whatever. David glanced at Maja, who was definitely not an Ascendant, but didn’t pay much more attention to it. Instead, he let Zachariah silently inspect the all-consuming darkness revolving around his fingers.
+
+“That is… Nihilum… yet it isn’t.”
+
+He looked up.
+
+“How did you ascend if you did not accept the End’s power? You haven’t consumed any Divinity Fragments, and your Body, Mind, and Soul are clearly stronger than the norm. That would mean you created a Divine Seed in your heart like I did. No matter how fast you are, you shouldn’t have been able to make it this far without any help. You should still be collecting Attribute Points for years if—”
+
+“How about you stop theorizing for a goddamn second?” David snapped, tired of listening to Zachariah.
+
+“First of all, fuck you,” he repeated. “Second, the Divine Seed is from a god called Xeros.”
+
+Zachariah’s eyes widened. Clearly, they knew each other.
+
+“Well, he is dead now. Apparently, he was waiting for you in the Naughtrealm. I guess he wanted to give you his heart to accelerate your growth.”
+
+Ignoring the Regressor’s shock, David continued.
+
+“Putting the months I spent in the Naughtrealm, killing thousands of Voidlings using my version of Nihilum aside, I met Fallen Xeros. He was chained and drained of his lifeforce and divine power to nurture thousands of Voidlings, including nine Voidre—eight if we exclude the Void Wolf you killed.”
+
+“He died giving me his Corrupted Divine Heart, which also contained a shitload of Nihilum. I absorbed it and made it mine, and I returned to the Earthen Union,” he summarized quickly. “That is how I became an Ascendant. Satisfied?”
+
+The Regressor stared at David, jaw hitting the ground. He did not look satisfied in the slightest—or like he understood anything, really.
+
+But it was not like that was David’s responsibility.
+
+“Explanation done.” He clasped his hands and turned to Maja. “Let’s go.”
+
+Maja’s gaze lingered on David, uncertainty glimmering in her eyes.
+
+“Go where? There is nowhere left to go.”
+
+He flashed her with a bright smile and patted the downtrodden girl.
+
+“Home. We will go home.”

@@ -1,0 +1,265 @@
+---
+id: a6a24001-3429-58d1-ba07-5b4f7f4041bd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Goals"
+slug: 0002-chapter-2-goals
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 2
+ownLength: 2131
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701705/chapter-2-goals"
+royalRoadId: "3701705"
+---
+
+If it were revealed that his soul wasn't from this world, that would definitely look suspicious. What if they decided he was a demon in disguise, hijacking this body? Was he really going to die here?
+
+"Hurry up," the woman snapped, her amusement gone in an instant.
+
+With no other choice, Ben selected 'yes' in his mind, his throat tightening as he braced himself for the worst.
+
+The assessment tablet's coldness bit into his palm as it came to life. A faint blue light shot upward, projecting a clear hologram into the air.
+
+It only showed a few lines of text.
+
+Name: Benjamin
+
+Tier: 0
+
+Skills:
+
+Focus - Lvl 1
+
+Ben blinked at the floating words, staring in disbelief.
+
+That's it?
+
+The woman let out a sigh of relief and dropped her threatening posture right away.
+
+"Well, you don't have a skinwalker skill, that's for sure. We apologize."
+
+She bowed her head a little and stepped back. The invisible pressure around Ben's wrist disappeared at once.
+
+Ben rubbed his wrist and kept quiet.
+
+Are skinwalkers really that dangerous?
+
+Still, he could not help but marvel at the status before him.
+
+Holy shit.
+
+So this world really was like a video game after all.
+
+He had never seen his status before, and seeing it now made the weight of his current situation settle with all the more intensity.
+
+Still, I can't help but wonder...
+
+Why were there no stats? Maybe they simply didn't exist in this world.
+
+When he checked the skills section, he felt a real spark of excitement for the first time.
+
+This pretty much confirmed one of his biggest suspicions since he got Benjamin's memories. If the woman forcing him to move with some strange force hadn't already convinced him, this did:
+
+Magic was real. And magic was cool. Honestly, mana and magic systems were the entire reason he played most games back on Earth.
+
+But now, he wasn't on Earth anymore. That thought made him feel a bit melancholic. Benjamin's life was nothing like his own. He came from a small, remote village where nobody was particularly strong. His life was pretty ordinary, but Ben would have preferred that to the fire.
+
+He knew of basic concepts like tiers, skills, levels, and what a status screen was. But beyond that, he didn't know much else. He had no idea how someone actually moved up a Tier. At least he knew that skills improved just by using them over and over, or practicing.
+
+Looking at his only skill, it seemed simple enough.
+
+[Focus].
+
+It obviously just helped him focus, or at least that's what the borrowed memories suggested. Suddenly, the woman let out a low whistle, breaking his train of thought.
+
+"[Focus]?"
+
+Leaning back, she smirked in amusement.
+
+"No wonder the boys told me your eyes are 'creepy as fuck'."
+
+Ben frowned, feeling completely lost. "Isn't [Focus] just a skill that helps me concentrate better?"
+
+She let out a chuckle and shook her head.
+
+"You really are a village kid."
+
+Crossing her arms, she explained further.
+
+"Well, yes and no. It helps you focus, but it also has a passive effect that a lot of people in my field don't like. This effect gets stronger when you use the skill, unless you turn off the passive effect, that is."
+
+"What does it do?"
+
+"It regulates your emotions."
+
+Suddenly, it all made sense to him.
+
+Is that why I've been handling this whole nightmare situation so well?
+
+Not once had he panicked, broken down, or lost control since waking up in that burned village full of dead bodies. Instead, he stayed strangely calm. He still felt things, but his reactions were much weaker than they should have been.
+
+Since he was already a bit detached like that, he hadn't really thought about it before, but now he understood. She waved her hand to brush it all aside and changed the subject.
+
+"You'll be given a place to stay here at the camp."
+
+She sighed and rubbed her temples, looking tired.
+
+"There will be a shipment coming to the camp. You can go back with them, but that will take a while, so you'll have to stay with us for the time being."
+
+Glancing back at the tablet, she shrugged.
+
+"Still, it looks like I don't have to worry about you. Only a certain kind of person has that skill, so you'll be perfectly fine on your own."
+
+She turned to the exit and glanced over her shoulder.
+
+"Actually, here's a tip, kid. Don't use that skill in the presence of strong people."
+
+Smirking dryly, she added a warning.
+
+"It is really annoying being stared at like that."
+
+Ben just stared with a blank expression.
+
+She stared at him, her smirk fading.
+
+"Don't tell me you don't even know how to stop using a skill."
+
+When he didn't respond, she rolled her eyes in exasperation. Muttering something about clueless village bumpkins under her breath, she walked toward the tent flap.
+
+Well, she's certainly a piece of work.
+
+"I'll see if I have some time to teach you a few things later. It's the least we owe you for treating you like shit, assuming the boys told me the truth."
+
+She pushed the heavy fabric aside, glanced at the old man who still hadn't moved at all, and gave Ben one last look.
+
+"Anyway, I'll be leaving, old man. Do with him what you will."
+
+She stepped out into the camp, leaving Ben alone with the commander.
+
+The old man kept his face blank and stared at him. Ben hadn't heard a word from him since the ordeal began, and the silence made him uneasy.
+
+"Sit."
+
+Ben walked over and sat on the wooden chair across from the old man.
+
+The old man stood up slowly. Suddenly, he was holding a glass and a metal jug, as if they had just appeared in his hands out of nowhere.
+
+What? How did he do that? Was it some kind of magic?
+
+Ben's eyes tracked the commander’s every move with intense focus as the man poured a shimmering amber liquid into the glass and slid it across the wooden table.
+
+Looking down at the mysterious drink, Ben hesitated. But when he looked up at the old man's serious, scarred face, he decided it was wiser to accept.
+
+He quietly picked up the glass and took a hesitant sip.
+
+Right away, a warm, calming feeling spread through his whole body. It tasted very sweet, like honey mixed with something refreshing, and it made all his fatigue disappear.
+
+Ben enjoyed the strong flavor and took a deeper sip. The old man waited quietly until he finished. When Ben was done, the old man finally spoke.
+
+"How are you feeling, kid?"
+
+Ben blinked, caught off guard by the sudden question.
+
+Honestly, this was probably just a tactic to get a traumatized teenager to open up. Most teens would be devastated and deeply depressed in this situation.
+
+But the question actually made him stop and think.
+
+Just how am I really feeling?
+
+Lowering the glass, he decided to answer truthfully, only leaving out the parts that would sound completely insane. After all… he hadn't had much time to think about everything.
+
+"I'm overwhelmed. I'd say I'm scared. I'm not really sure what to do anymore."
+
+He stared at his reflection in the amber drink.
+
+"I've lost everything."
+
+In this life, he truly had nothing left. The village was gone, his home erased, and the faces he barely remembered felt like they belonged to another life. The life of Benjamin, who was undeniably a part of him now, even if his Earth side outweighed the scale.
+
+But he had also lost something more: his life. His home. Earth. His people. Family. Since waking up in the ash, this was the first calm moment he'd had to face that frightening truth.
+
+A tight knot formed in his chest, making it hard to breathe.
+
+I wonder how my parents and little sister are doing back home. I never got to give her that necklace she wanted.
+
+Would she resent him for that?
+
+Did he die in his sleep at his desk? Did they find his cold body the next morning, or did he just disappear without a trace?
+
+Were they heartbroken about his death? Or something else entirely, thinking he just ran away and left them? And what about his friends?
+
+All these questions spun through his mind, and he had no answers for any of them.
+
+He held the glass tighter as the strong drink broke down his mental defenses. He could feel his walls crumbling. When he looked up, he met the eyes of the scarred man in front of him. The soldier's stare cut through the fog and seemed to look right into his soul.
+
+"I mean, this entire situation is supposed to be some kind of sick cosmic joke, right?"
+
+Gesturing vaguely in the general direction of the burned village, Ben let out a hollow chuckle.
+
+"A village burns to the ground, and one kid miraculously survives the ashes. It's the perfect tragic story that makes for a legend. The grand push to force me out into the wider world."
+
+He swirled the amber liquid in his glass and watched the small ripples bounce against the edges.
+
+"And sure, it's working. Right now, I'm absolutely burning with it."
+
+He leaned back in his chair and stared up at the tent ceiling.
+
+"I'm feeling the anger, the sadness, the grief. I have this crazy strong longing for a home that was just burned to ashes, and a home I can never, ever go back to. Even if I could, I am too weak."
+
+He dropped his gaze, then met the old man's deadpan stare with a piercing look of his own.
+
+"I feel incredibly driven. I feel like I could do absolutely anything."
+
+He took a deep breath and let it out in a tired sigh.
+
+"But I'm a realist, old man. I know exactly how this works."
+
+He tapped his finger on the table and let the silence linger.
+
+"I know very well that this strong motivation will eventually fade into something much weaker. I know I'll eventually just push the trauma aside and get used to the strange new reality without anything I've ever known."
+
+He knew he would adapt. He knew he would make it through.
+
+"I'll get used to the magic, the monsters, the death, or whatever else the world throws at me, because that's just what people do. I'll make new friends, new family, everything. But knowing I'll eventually get over it doesn't make it hurt any less right now. Right now... it just really sucks."
+
+The commander sat quietly and let him talk.
+
+"I just... I don't know much about the world," Ben admitted quietly, finally steering the conversation away from his own existential dread. "I mean, I'm a village kid. Heck, I've never even left the village. My parents wouldn't let me. But I know academies exist. Places to learn about the system. Skills. About... Mana."
+
+The old man leaned forward and fixed his sharp gaze on Ben.
+
+"So what is your goal now? What do you want to do? Do you want to explore the world? Do you want to be an adventurer? Join one of those academies you mentioned? Do you want to explore skills and magic? Do you want to be strong?"
+
+Ben heard the questions but didn't have an answer right away.
+
+He hadn't really thought much about any of it yet, but after a long breath, he gave the most honest answer he could.
+
+"Maybe I'll do it all. I have nothing left to strive for, so why not?"
+
+He shrugged and looked back at the old man's intense gaze.
+
+"I just want to see how far I can go."
+
+And make sure something like this never happens again.
+
+He meant every word of it. The conviction felt real in his chest, but then a flicker of doubt washed over him: was it even his? Or was this all [Focus]?
+
+Silence settled over the tent once again.
+
+Suddenly realizing how much he had talked without stopping, Ben looked down at the empty glass in his hand. The drink had made him very relaxed and far too loose with his words.
+
+He squinted at the old man, feeling suspicious.
+
+"Just how much does a bottle of this stuff cost?"
+
+For a moment, Ben thought he saw the faintest smile at the corner of the commander’s lips.
+
+"It costs more than your entire village, probably."
+
+Ben just sat there in complete silence.
+
+Holy shit.
+
+He looked at the jug on the table.
+
+Then, without hesitating, he reached out, grabbed the jug, and filled his glass to the brim.

@@ -1,0 +1,149 @@
+---
+id: 96346f4a-1397-5f47-bd11-d381a5f0ef91
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch33: Hammer Comes Down"
+slug: 0040-b6-ch33-hammer-comes-down
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 40
+ownLength: 1883
+unit: words
+publishedAt: 2026-03-10
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3137636/b6-ch33-hammer-comes-down"
+royalRoadId: "3137636"
+---
+
+Arthur watched the captains fly off to join their wings. The gathered Rares made for a brave sight out there. He only hoped they’d live up to it. It was going to be a long day.
+
+Brixaby took that moment to join him, beating his wings heavily to land beside Arthur on the ledge.
+
+“How did the meeting go?” Brixaby asked in a vaguely threatening way that implied the meeting better have gone well for the wing captains’ sakes.
+
+Arthur shrugged. “It went as well as could be expected. There will be more pushback, and next time I’ll have to publicly slap someone down.”
+
+He wasn’t looking forward to it, but this was unfortunately part of being a leader in a hive that had been ruled by force for years. He aimed to change the way things were managed, but it would take time.
+
+Speaking of time . . .
+
+Arthur let out a sigh. “I hoped that we’d have more time before the two eruptions started.”
+
+“It is only one so far, and from the initial reports I just received, it is not the one in the city. That may not be for some time.” Brixaby resettled his four wings across his back in a relaxed, confident pose. “Besides, each eruption is an opportunity to gather more wealth for the hive and further our own power.”
+
+That was a good reminder that dragons did not think in the same way humans did. Even if this eruption wasn’t in the middle of the city, Arthur worried about all the property, the livelihoods, and lives that were about to be lost. It was going to be horrific.
+
+But . . . that line of thinking wasn’t productive. It wasn’t like he was responsible for this eruption or the actions of the scourglings. He could only fight them.
+
+“This will go smoother with Horatio and his group, but they still have time remaining in their dimensional pocket space,” Arthur said.
+
+Brixaby purred out a smooth “Then shall we retrieve them?”
+
+To him, breaking something was easy. There was every chance that he just had to go at it with his natural nullification magic.
+
+“No,” Arthur said quickly. “We don’t know what will happen if you try to nullify it. The last thing I want is for the pocket to collapse on them. Hale could probably close it safely—he does have a Legendary card, and it would make sense if he had more dimensional cards in his heart to act as support, but . . .”
+
+Brixaby made an aggrieved sound. “It is not wise to owe a favor to another Legendary.”
+
+“No,” Arthur agreed. “I trust him to a point, but that’s a slippery slope. Plus, we sent Horatio and the others there for a reason. At the very least, Equinox and Asha need to grow up.”
+
+His dragon didn’t disagree. “What are we going to do about this eruption?” he asked instead. Arthur heard the real question: Are we going to attend this eruption?
+
+With a sudden grin, Arthur swung up on his dragon’s neck.
+
+“No, we don’t have to deal with this one. We have minions for that. Let’s go see what Desmond and Sybil are up to.”
+
+Knowing those two, it was a whole lot of nothing. As of today, that was going to change.
+
+Arthur and Brixaby found the other two Legendaries easily. They were out on their own ledge, having an early breakfast at a tasteful stone table that had been set outside.
+
+Brixaby landed on the far side of the ledge so as not to knock plates and glasses away with the wind of his wingbeats. Arthur dismounted and immediately looked down at his shoes and frowned.
+
+There was caked dirt underfoot, making the stone ledge gritty. Not an easy feat when they were at the top of the hive, where there would not be a lot of natural dust in the air.
+
+Nobody, not even their staff, had cleaned in a long time. He suddenly wondered what the interior of their rooms looked like, then decided he didn’t want to know.
+
+Desmond’s and Sybil’s dragons huddled together out on the point of their ledge, looking like they had lost a good deal of weight and were only just starting to put it back on. The scales practically hung off their bones in places.
+
+The weight loss was Chester’s doing—through stress and through the periodic draining. He hoped that they were on the road to recovery, both for their sakes and for the fact that the dragons were a reflection of their riders.
+
+Part of Arthur felt a good deal of sympathy for what Desmond and Sybil had gone through with Chester. But the practical part of him knew that the time for sympathy was over. They’d had their rest. Worse, it seemed like they were beginning to actively undermine him.
+
+He’d already made his displeasure clear with the wing captains. Now it was their turn.
+
+Arthur strolled up to the table. The other two Legendary riders only stopped their meal and looked at him curiously. No one stood, and there was not a hint of a salute.
+
+“That’s a very nice meal,” Arthur said, and it was. It seemed both preferred fresh fruit. “Why are you here eating it and not out there helping with the muster for the eruption? Can’t you hear the bells?”
+
+Sybil looked confused and Desmond affronted.
+
+“We are Legendary rankers,” Desmond said as if Arthur were an idiot. “Surely we would be told if a demi-scourgling had appeared already.”
+
+“But they don’t ever show up this early in an eruption,” Sybil said with an anxious glance. “That would be unprecedented!”
+
+“Like two eruptions in one day?” Arthur asked pointedly. He didn’t wait for them to reply before he went on. “Also, I sent word of a wing captains’ meeting this morning. I notice neither of you attended it.”
+
+“Why should we?” Desmond asked. “We aren’t mere captains.”
+
+Arthur snapped, “Because you are part of the leadership of this hive!” With that, he pulled out two bags of garnets. They landed with a thump on the table before them. Then he gave a truncated version of the new system he and Brixaby were spinning up. “This is going to be the new hive currency going forward, replacing the blood price. As Legendaries, you’re paid better than most. The larger garnets in the bag count as Uncommons.”
+
+“Garnets?” Desmond said. “I know those stones—they’re as common as brass, and you want to use them as money?”
+
+Now Sybil looked a little angry, too. That was actually a good thing. Normally there was just . . . nothing going on with her.
+
+“This is ridiculous,” she said with a haughty sniff. “At least shards hold value.”
+
+“My dragon has enchanted these garnets to ensure that no forgeries can be introduced. And what’s ridiculous, Sybil, are two Legendaries that haven’t seen combat in—” Arthur broke off. “Actually, when was the last time you two saw active combat? Not just attending an eruption, but being part of it?”
+
+“You mean with a demi-scourgling?” Sybil seemed horrified.
+
+“Chester takes care of the hard fighting,” Desmond said. “Or he did. I suppose that’s your job now.” There was the tiniest hint of a smirk on his face, as if he wished Arthur all the best with that annoying chore.
+
+Arthur didn’t take the bait. “You two will go out with the wings today, monitor the situation, and fight where you can.” As he spoke, one of the portals ripped itself open into the sky overhead. The glimpse of the land beyond was still cloaked in darkness. The eruption was happening somewhere out to the west, where it was still night. That was going to be a rude awakening for some people.
+
+The wings of Blood Moon were already well used to acting on their own. One by one, with challenging roars, their captains led them up and through the portal.
+
+Desmond and Sybil watched this normal process with looks of horror.
+
+“Out there? To fight scourglings?” Sybil asked, as if Arthur had just told her to do something disgusting.
+
+“Preferably, I want you to kill scourglings. I understand you’re still recovering,” Arthur said, “but it’s past time that you two got back into the saddle.”
+
+“But . . . but . . .” Sybil looked completely flabbergasted. She glanced to her husband for support, only to find him aghast as well. She turned back to Arthur. “You want us to fight?”
+
+Maybe Chester had drained a part of her intelligence as well as her life force.
+
+“Yes,” Arthur said. “I want you to use any area of effect you have to attack Common, Uncommon, and Rare scourglings. Give some relief to the wings. This should be well within your abilities. It’s not like I’m asking you to take on a Legendary-level demi-scourgling alone.” He looked back and forth between them, waiting for a reaction. He got nothing.
+
+Frustrated, Arthur hardened his voice. “I’m not making a request. Get to it.”
+
+This, he knew, was the moment. If either one of them were inclined to challenge him, they would do it now.
+
+Though Brixaby was on the point of the ledge giving his own special brand of encouragement to the dragons, he could feel his attention. Just in case he needed to provide backup.
+
+Arthur would rip the cards out of their hearts if they moved against him. He hated to do it, but he wouldn’t hesitate.
+
+Perhaps they knew that, too, or any hint of rebellion had been snuffed out a long time ago.
+
+Sybil’s eyes watered, and she looked down at her half-eaten meal, making Arthur feel like he had just kicked a puppy instead of telling someone to go do something that should be easy.
+
+“Yes,” she said softly. “Of course.”
+
+Desmond said nothing, but Arthur saw resentment in his eyes. That was fine. He could hate him, just as long as he obeyed him.
+
+But Arthur would watch his back.
+
+Arthur joined Brixaby, who was looking very pleased with himself.
+
+The two dragons he was speaking to, if anything, looked more cowed than Desmond and Sybil.
+
+We’re doing the right thing, Arthur thought and hardened his heart.
+
+Everybody else had to get out there and fight the scourglings. Going forward, with more eruptions predicted, this fight was going to get harder, not easier.
+
+Brixaby finished his “conversation” and the cowed dragons quickly bobbed their heads, taking off to circle around and pick up their riders. They would rather go through that extra effort than walk past Brixaby on the ledge.
+
+“All done?” Arthur asked dryly.
+
+“Yes.” Brixaby turned to him. “Now, when will we get to do the real work?”
+
+Arthur looked around. Most of the wings were headed out, and the real excitement wouldn’t begin until the second eruption happened. They needed to get this taken care of before then. Arthur had hoped to have Horatio and some of Wing Purple with him, but this task could wait no longer. They had prepared in the dimensional space. They had a rare window to leave the hive without being noticed. It had to be now.
+
+“Call Cressida and Joy,” he said. “We’re going to the Rowantree Estate.”

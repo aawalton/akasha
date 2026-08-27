@@ -1,0 +1,87 @@
+---
+id: 61caffec-5d44-54e7-8910-50c3fb7c6b2d
+page-type-slug: story-chapter-royal-road
+title: "Fanfiction and Fanart Contest RESULTS"
+slug: 0013-fanfiction-and-fanart-contest-results
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 13
+ownLength: 731
+unit: words
+publishedAt: 2023-04-10
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1164345/fanfiction-and-fanart-contest-results"
+royalRoadId: "1164345"
+---
+
+So I reviewed all the submissions, and there were a LOT. As in, a lot more than I expected. Especially in the fanart side of things. It's also why the results came out a little bit later than originally promised. But to make up for being late, I'm going to be giving four additional consolation prizes of $50 each in addition to the actual prize I promised for the winners. Essentially, I'll be giving a consolation prize for those who scored fourth to sixth in the fanart contest, along with the person who scored fourth in the fanfiction contest as well.
+
+The reason why I am giving more additional prizes for the fanart contest than the fanfiction contest is because there was surprisingly a disproportionate amount of fanart submissions to fanfiction submissions. There was over twice as many fanart submissions than there are fanfiction submissions-- 34 fanfarts and 15 fanfictions. Basically, the breakdown of the rewards now is:
+
+$500 for the first-place winner of the fanart contest
+
+$500 for the first-place winner of the fanfiction contest
+
+$300 for the second-place winner of the fanart contest
+
+$300 for the second-place winner of the fanfic contest
+
+$200 for the third-place winner of the fanart contest
+
+$200 for the third-place winner of the fanfic contest
+
+$50 for the fourth-place winner of the fanart contest
+
+$50 for the fourth-place winner of the fanfiction contest
+
+$50 for the fifth-place winner of the fanart contest
+
+$50 for the sixth-place winner of the fanart contest
+
+For a grand total of $2,200 prize pool! (Instead of the original $2,000 prize pool)
+
+The judges for the contest were myself, Azrie, and Nameless. There were so many submissions, it was hard to decide. But finally, the judging is done, so here are the results of the contest!
+
+Fanart Contest:
+
+1st Place: Eggy
+
+2nd Place: Medefici
+
+3rd Place: Merricke
+
+4th Place: Maury
+
+5th Place: MetalHead
+
+6th Place: Gerard (Comic / not going to show the full thing)
+
+Fanfiction Contest:
+
+1st Place: Steven (Poem)
+
+Poems cooked up by XakorCredits to: Bucky, for being the first chicken to write a poem.(for this fanfic competition I decided to do something unique, I like writing poetry and so I did
+
+A freshly laid poemCooking up poems on the pen,That is not what one expects from a hen.But after seeing Xakor make one tooBucky came, Bucky saw and Bucky do.
+
+Boundless realm Feeling of uncertainty and dread,Constant fear and a constant threat, Years gone by, decades gone past,In this struggle would not be her last.Long fights, many enemies dead, Their blood painting her blade red,Enemy after enemy she surpassed,Compared to the past a stark contrast.One last enemy one last desperate fight, For all the suffering she’d show her might.When they clashed the endless void rippled,Eventually one of them came out crippled,And a victory it was to her great delight,Finally in her life, there would again be light.
+
+Fresh lines from the grillAs I am cooking food I feel completely alive,Making me feel bliss with every chop of the knife.Ending it is something I have never wish to do, Likely because of the fact cooking is all I want to pursue. In that light I slash down the knife swiftly at the fresh hen And if it weren’t for Amelia Bucky would’ve died then. (Note, this Poem has a hidden feature)
+
+Syst-emic Failures The chance of getting a good class,That is something most can’t pass. A strong class is everything in life,As it can liberate one from strife.But that isn’t the case for a certain lass,As for Amelia this is a difficult impasse. Gain power and become a hero,Or stay classless at level zero.
+
+The Miststorm ridersA shaking ground,A nearing sound.Thunderous slamming hooves,Bringing death to all that moves.To those in the village there was only an ever increasing dread,They knew what was coming, there was nothing more to be said.When they left everything was dead, And the fields were all colored red, The only question left was when, When this would happen once again
+
+2nd Place: Edward Oakley
+
+Amelia The Level Zero Investor
+
+3rd Place: Jackers/Zyriam
+
+Natalie: The level zero [Hero] B-Side | Royal Road
+
+4th Place: Kane
+
+A Boy And His Chicken
+
+And that's it! These are the contest winners! I will be contacting the winners over the next few days, so if you won, keep your DMs open!
+
+Thank you all for your wonderful submissions :)

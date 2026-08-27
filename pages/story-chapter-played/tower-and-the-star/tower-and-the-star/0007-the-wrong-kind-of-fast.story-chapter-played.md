@@ -1,0 +1,430 @@
+---
+id: f49ca080-c9df-58d7-b273-a0c1d9ca4562
+page-type-slug: story-chapter-played
+title: "The Wrong Kind of Fast"
+slug: 0007-the-wrong-kind-of-fast
+partOf: tower-and-the-star
+position: 7
+ownLength: 6453
+unit: words
+---
+
+# Chapter 7: The Wrong Kind of Fast
+
+The roots smelled like rain that had happened a long time ago.
+
+Solenne had been trying to place the scent for twenty minutes -- something between wet bark and the mineral undertone of old stone, layered with a sweetness that came from the bioluminescent fungi clustering along the ceiling forty meters above. The fungi grew in uneven constellations, their pale blue-green light casting the Deep Root Labyrinth in a permanent underwater glow that made distances feel approximate and the air feel thick with something that was not quite humidity.
+
+The roots themselves were enormous. The smallest were the diameter of Solenne's torso. The largest -- the ones that formed the corridor walls and floor and, in places, the ceiling -- were the width of cars, their surfaces ridged and dark, slick with condensation where the fungi grew closest. They twisted through the labyrinth in patterns that were almost architectural, almost organic, almost deliberate, and the spaces between them formed corridors and chambers and junctions that Tomas's Terrain Read was mapping with steady efficiency.
+
+Floor 9. Three hours in. Good progress.
+
+Solenne was walking in the center of the formation -- Tomas forty meters ahead, Dayo eight meters in front of her, Miriam and Vesper behind at twelve, Nadia on the left flank at ten. The standard spacing. The spacing that said: we are not in combat, we are not relaxed, we are in the Tower and we are making time.
+
+They were talking. This was the notable thing. Not tactical chatter -- actual conversation, the kind that bled out of rest-floor warmth and into the climb when progress was good and the encounters were manageable and the party had enough margin to be people instead of archetypes.
+
+"The roots are load-bearing," Vesper was saying to Miriam, her voice carrying the particular quality it had when she was reading structural properties through Openhanded perception. "Not just decoratively. Whatever grew these -- the surface organism, if there is one -- is supporting the entire ceiling structure through the root network. If you cut one of the major roots, the ceiling would sag. Cut three and you'd lose the corridor."
+
+"Please do not cut three," Nadia said from the left flank.
+
+"I am making an observation, not a suggestion."
+
+"The observation had knife energy."
+
+Dayo laughed. The sound was brief, warm, and it traveled down the root corridor and came back softer. Solenne watched the back of Dayo's head -- the close-cropped hair, the set of her shoulders under the composite plate, the particular way she moved through this space that was half-scout and half-athlete, every step placed with a spatial awareness that had nothing to do with the System and everything to do with fifteen years of reading fields.
+
+Good progress. Good air. The party talking freely in the blue-green dark.
+
+Solenne made a note of the moment, not in her notebook but in the part of her that tracked emotional weather. She had learned to notice when things felt right, because when things felt right was often when they were about to stop feeling right.
+
+---
+
+Tomas's voice came through the party channel clean and flat.
+
+"Heat signatures ahead. Significant."
+
+The conversation stopped. Not abruptly -- it folded, the way the party folded from casual to operational, each person's posture shifting by a few degrees toward the version of themselves that survived things.
+
+"Details," Solenne said.
+
+"Large chamber, sixty meters ahead, off the main corridor. Multiple contacts -- I'm reading at least twenty small signatures clustered around one large one. The large signature is two to three times standard crawler mass. Complex positioning -- they're arranged in a defensive pattern around the central signature."
+
+Elite encounter. Solenne processed this through Arcane Analysis and felt the skill's feedback confirm what Tomas's Terrain Read was showing: heat signatures consistent with a Stoneback variant colony, organized around a queen-class creature. The kind of encounter the Compact's route data had flagged as possible on Floor 9 but not guaranteed.
+
+"There's something else," Tomas said. His voice did not change register. His pauses did. "The root network above the chamber is climbable. A fast-moving, high-STR fighter could bypass the ground approach entirely and reach an elevated position above the colony. The root structure is stable -- load-bearing, confirmed. Overhead approach would put someone above the engagement before the ground team arrives."
+
+He delivered this as information. Not a recommendation. Solenne understood the distinction. Tomas had learned, over nine floors and three months, that presenting tactical options to the party was different from presenting tactical options to Dayo. Options presented to Dayo became trajectories.
+
+Dayo was already looking up. Solenne could see it in the angle of her head -- the slight tilt, the eyes tracking the root network overhead where the corridor's wall-roots branched into a canopy of interlocking structures. She was reading it. Running the geometry. Finding the line.
+
+"I can take the overhead," Dayo said. "Hit them from above while you come through the ground approach. Pin them between two fronts."
+
+"Wait," Solenne said. "We need to plan the timing--"
+
+Dayo was moving.
+
+Not the conversation version of moving -- not "I'm going to do this, here is the preamble." The actual physical version, hands on the nearest root, boots finding grip on the ridged surface, body already two meters up and climbing with the contained explosive efficiency of someone whose decision-making looked like motion because for Dayo the distance between deciding and doing was not a distance.
+
+She had heard Solenne say "wait." Solenne knew she had heard it. The quality of Dayo's ascent -- fluid, committed, without the half-second hesitation of someone who had not registered the instruction -- told Solenne everything. Dayo had heard "wait, we need to plan the timing" and had decided the timing issue would resolve itself.
+
+Solenne's hand tightened on her staff. She did not call out again. Calling out again would mean shouting, and shouting would alert whatever was in that chamber, and Dayo was already fifteen meters up and climbing fast and the moment for intervention had passed in the three seconds between "wait" and "gone."
+
+The party looked at Solenne. Five people in a root corridor, watching their Vanguard disappear into the canopy.
+
+"Ground approach," Solenne said. "Now. Move."
+
+---
+
+Dayo topped the root climb at thirty meters.
+
+She could feel it -- the moment the corridor's close geometry opened into something wider, the air shifting from the mineral-and-bark compression of the root tunnel into the larger breath of a chamber. The roots up here were thinner, braided, forming a network she could move across if she kept her weight distributed and her footing sure. She had done something like this in high school, traversing the rafters of the old gymnasium on a dare, except the gymnasium had not been alive and the rafters had not been pulsing with faint bioluminescence and there had not been twenty-four things below her that wanted her dead.
+
+She saw the chamber.
+
+It opened beneath her like a bowl carved into the root system -- thirty meters across, the floor a tangle of root-mass and compacted organic material, the walls formed by the interlocking trunks of roots too large to be called roots. The bioluminescent fungi here grew in denser clusters, throwing more light than the corridors, and in that light she saw them.
+
+Drones. Stoneback Crawlers, but smaller than the ones she had fought on Floor 7 -- faster-looking, their carapaces a crystalline variant that caught the blue-green light and scattered it in sharp fragments. Two dozen of them, arranged in concentric rings around--
+
+The Queen.
+
+She was three times the mass of a standard crawler. Her carapace was not just crystalline -- it was faceted, angular, a natural armor of interlocking crystal plates that looked like they had been grown rather than evolved. Her eye cluster -- eight dark points arranged in a crescent above her mandibles -- reflected light with the specific quality of something that saw in wavelengths Dayo did not have names for.
+
+The Crystalback Queen. Elite. And this was not an isolated position above a standard encounter. This was the edge of a queen's territory, and Dayo was in it.
+
+The Queen's eye cluster moved. Eight points of reflected light, tracking upward, finding the root network, finding her.
+
+Six seconds.
+
+Dayo had six seconds before the drones reached her.
+
+She did not think about the plan. She did not think about the word "wait" or the timing or the ground approach that was sixty meters and several minutes away. She thought about where the party was.
+
+Anchor activated.
+
+Not the passive warmth -- the skill she had been carrying since before she understood it as a skill, the low background hum that told her where everyone was the way her lungs told her she was breathing. This was different. This was deliberate. She reached, with something that was not her hands and not her mind but the part of her that had always known where the people she loved were, and she found them.
+
+Solenne: thirty-two meters below and east, moving fast through the ground-level corridor, staff in both hands, Harmony Conductor radiating the particular warmth that meant she was feeding tactical data to the party.
+
+Miriam: thirty-five meters, behind Solenne, running -- not Miriam's natural pace, faster than that, the pace of someone who had felt something through Empathic Sense and was responding.
+
+Tomas: twenty-eight meters, already repositioning, the Pathfinder's angular movement translating through the Anchor bond as precise, economical, a body that wasted nothing.
+
+Vesper: thirty-four meters, with Miriam, her Workframe's weight not slowing her because Vesper did not let her equipment slow her.
+
+Nadia: thirty meters, left flank, still on the left flank, the Jester's movement pattern reading through the Anchor as something quicker and less predictable than the others.
+
+She knew exactly where they were. Every one of them.
+
+They were not close enough.
+
+The first drone reached the root network.
+
+---
+
+Zero seconds.
+
+The drone was fast -- faster than Floor 7 crawlers, its crystalline carapace lighter, its legs finding purchase on the root surface with a clicking precision that sounded like hail on glass. It came at Dayo from below and to the right, mandibles open, and behind it three more were climbing and behind those the rest of the swarm was mobilizing.
+
+Shield Rush.
+
+She fired it laterally along the root network, not as a charge but as a displacement -- eight meters of momentum redirecting the first drone off the root surface and into the open air of the chamber. It fell. The crystalline carapace hit the chamber floor thirty meters below with a sound like a windshield breaking.
+
+Cooldown: eight seconds.
+
+One.
+
+Iron Stance activated. She planted on the widest root junction she could reach -- a nexus point where three major roots converged, wide enough for her boots, stable enough to hold. The toggle engaged. Her legs locked. The world narrowed to the immediate geometry of threat.
+
+Two.
+
+Two drones reached her simultaneously, one from each side. She caught the left one on her buckler -- the mandibles scraped across the Tower-Steel surface with a shriek that traveled up her arm and settled in her teeth. She punched the right one with her gauntlet. STR thirty-one. The striking surface connected with the crystalline carapace and the carapace cracked and the drone stumbled backward on the root surface, legs scrambling.
+
+Three.
+
+From below -- Miriam. Solenne could feel the Anchor bond telling her exactly how far away Miriam was, and the answer was too far, and Miriam was already casting. Mending Touch at thirty-five meters. The skill's documented range was touch. Its effective range through Empathic Sense was fifteen meters, maybe twenty on a good day. Miriam was thirty-five meters away and the heal arrived anyway -- weakened, attenuated, a fraction of what it should have been, but warm and present and undeniable. The Warmhearted Aspect was doing something the System's formulas did not account for. Twenty-eight HP flowed back. Not enough. Enough to matter.
+
+Four.
+
+Three drones on the root network now, closing from three directions. Dayo tracked them with the spatial logic that was not the System's Combat Perception but the thing underneath it -- the defensive midfielder's read, the way a body maps a pitch, the geometry of multiple threats converging on a single point. She knew which one would arrive first (left, two seconds), which would arrive second (above-right, three seconds), which was flanking (below, four seconds, trying to get underneath her root junction and attack from below).
+
+Five.
+
+The left drone arrived. She caught it on Iron Stance's threat generation -- the creature's aggression redirecting toward her planted position, mandibles and forelegs committed to the attack, and she met it with a short-range Shield Rush that she should not have had back yet but she had been counting and the cooldown was eight seconds and she was at five and she did not have Shield Rush.
+
+She hit it with her gauntlet instead. Raw STR. The drone's crystalline carapace fractured under the impact and the creature fell sideways off the root network. Her HP was at 382. Eighty-two percent. A mandible strike from behind had caught the gap between her shoulder guards while she was punching.
+
+Six.
+
+Shield Rush. Off cooldown. She used it on the drone coming from above-right, firing upward along the root surface, the momentum carrying her into the creature's approach path. The impact was clean -- the drone went sideways, cartwheeling through the air, its carapace scattering blue-green light as it fell.
+
+Seven.
+
+The flanking drone from below reached her root junction. It came up through the gap between the converging roots and its mandibles found her leg. She felt the bite through the composite plate -- not sharp enough to penetrate, but the crushing force was real, her HP dropping from 382 to 341.
+
+From below: another Miriam heal. Weakened. Arriving from thirty-five meters through the root-wall, the warmth diffused and thin but there. Twenty-two HP. She was at 363.
+
+Eight.
+
+Four more drones on the root network. Two climbing from the chamber floor, two traversing from the far wall. The Queen below had not moved -- she did not need to move, her drones were her movement, her mandibles were twenty-four sets of mandibles arranged in closing geometry around a single target.
+
+Nine.
+
+Shield Rush. Off cooldown. She fired it into the nearest pair of approaching drones, hitting the lead one and knocking it into the second. Both fell. The root network vibrated with the impact and bioluminescent spores shook loose from the fungi overhead, drifting down in a slow blue-green snow.
+
+Ten.
+
+She was counting. Not seconds -- intervals. Shield Rush intervals. Eight seconds between each use, six shield rushes in her MP reserve, and she had used three. Three remaining. Fifteen MP each. Her MP was at 140 of 185. Math she was doing with the part of her brain that processed field geometry while the rest of her fought.
+
+Eleven.
+
+A drone's mandible caught her forearm -- the same left forearm, the armored wrap Vesper had made after the Sillfin Hunter, and the wrap held, the composite absorbing the mandible's crushing force and distributing it across the bracer surface instead of through the gap. Vesper's work. The wrap she had made in silence and placed in Dayo's reach without ceremony.
+
+Twelve.
+
+Her HP was at 312. Sixty-seven percent. Three drones on the root network and five more climbing. Below and behind: the Queen shifted, her crystalline bulk realigning, the eye cluster tracking Dayo's position with eight-point precision.
+
+Thirteen.
+
+Miriam's third heal arrived. Weaker still -- the distance was not changing, but Miriam's MP was not infinite and the heals at this range were costing more for less and Dayo could feel, through the Anchor bond, the specific quality of Miriam's effort. Not frustration. Something worse than frustration. The focused precision of someone working at the edge of their capability who knew the edge was not enough.
+
+Fourteen.
+
+Shield Rush. Fourth use. Into a drone climbing the root above her, driving it upward and off the network. Her boots slid on the root surface as she returned to the junction and Iron Stance re-engaged and her legs found the anchor point and held.
+
+Fifteen.
+
+Her HP crossed the threshold.
+
+Ten percent. Forty-seven of 467. The number where Defiant Last Stand stopped waiting and made its offer. Unbroken Line would have triggered it earlier -- at twenty-five percent, with Miriam in range -- but Miriam was thirty-five meters away and Unbroken Line required fifteen. So the skill waited until the base threshold, and the base threshold was ten percent, and ten percent of four sixty-seven was forty-seven, and Dayo had forty-seven hit points left.
+
+Defiant Last Stand activated.
+
+The world changed. Not the visual field, not the root network, not the seven drones converging on her position. The contract changed. Between her body and the damage that was being done to it, a new clause appeared: fifty percent. All incoming damage halved. She could not drop below one HP. For thirty seconds, she was the thing between the drones and the end, and the System had decided she was not allowed to fall.
+
+She had one charge per floor. One. She was burning it on Floor 9, three hours into the labyrinth, alone on a root network because she had moved before the plan.
+
+Sixteen.
+
+A drone hit her. The damage was halved. She felt the difference -- not less painful, less consequential. The number that should have been thirty was fifteen. Her HP held at 32.
+
+Seventeen. Eighteen.
+
+Two more hits. She was counting drone geometry now the way she had counted defenders on a pitch -- not individually but as a formation, the way six attackers running at a defensive line created overlapping threat zones that could be managed by positioning rather than by facing each one. She could not face each drone. She could manage the angles. Turn here. Buckler there. Gauntlet into the nearest mandible. Shield Rush would be back in three seconds.
+
+Nineteen.
+
+Her HP was at 98. Twenty-one percent. Last Stand's damage reduction holding, the numbers arriving halved and survivable, and below her through the Anchor bond she could feel them -- all five of them, closer now, the party breaking through the ground-level approach, Solenne's Ley Conduit channeling with the specific vulnerability that meant she had opened herself to the Tower's arcane current to push more power through her Arcane Bolt, clearing the corridor, and she was doing this without being able to see the frontline, without seeing Dayo, firing into ground-level drones based on Tomas's targeting data alone, and Solenne did not like it and she was doing it anyway.
+
+Twenty. Twenty-one.
+
+Shield Rush. Fifth. Into a cluster of three drones that had converged on the root junction from the same direction -- she hit the center one and the knockback scattered all three and one fell and two caught themselves on adjacent roots and she was breathing hard now, really hard, the kind of breathing that came from fighting at the limits of what a body could do while the System held the line between her and death.
+
+Twenty-two through twenty-six.
+
+The seconds blurred. Not in her perception -- she was aware of each one, counting them the way she counted Shield Rush cooldowns, the way she counted drone angles, the way she counted the weakened Miriam heals arriving through thirty-five meters of root and stone and distance. Three more heals. Each one smaller than the last. Each one arriving.
+
+Her HP fluctuated: 82, 91 after a heal, 74, 86, 68. The drones were thinning -- she had knocked seven off the network and three were down on the chamber floor, their crystalline carapaces broken or cracked, and the remaining ones were having to cross dead zones where their fallen siblings had been, which slowed them, which gave her seconds, which was what she needed.
+
+Twenty-seven.
+
+From below -- not a heal. A sound. The sound of a root-wall barrier shattering under concentrated arcane force, and through the Anchor bond five signatures flooded closer, not thirty-five meters but twenty-five, then twenty, then--
+
+Twenty-eight through thirty-two.
+
+Tomas was the first one Dayo saw.
+
+He came through the ground-level entrance of the chamber at a dead run and his bow was already drawn and the first arrow was already leaving the string. Three arrows in rapid succession -- not Precision Shot, not the aimed single-fire he had used to kill the Tidebreaker. Fast shots, utility shots, each one hitting a drone on the chamber floor with enough force to pin it in place. He was clearing the ground approach for the others.
+
+Nadia was next. She came through the gap Tomas had opened and she did not stop -- she was moving across the chamber floor with the Jester's agility, twenty-two AGI, reading the drone formation the way she read every formation, finding the pattern in the convergence.
+
+Four drones were closing on the root junction from four directions. A convergence. A pincer. The Queen's tactical logic expressed through twenty-four sets of legs.
+
+Nadia's Pattern Break fired.
+
+Solenne felt it through the Harmony Conductor -- not as a visual effect or a damage number but as a disruption in the ambient Mana, a hiccup in the signal, like a record skipping. Pattern Break disrupted the ongoing Mana construct that was coordinating the drones' converging movement, scrambled the signal between Queen and swarm, and three of the four drones redirected. Not randomly -- toward each other. Their own convergence momentum carried them into collision, mandibles and carapaces meeting at the intersection point where Dayo had been, and Dayo was not there because the drones had veered and the geometry was broken.
+
+Three drones hit each other. The sound was crystalline and ugly.
+
+Thirty-three through thirty-eight.
+
+Solenne was in the chamber now. She could see Dayo -- thirty meters up, on the root junction, Last Stand's golden shimmer visible at the edges of her armor like a second skin. Dayo's HP was a number in Solenne's Harmony Conductor feed: 56. Fifty-six out of 467. Twelve percent.
+
+Vesper.
+
+Vesper was at the edge of the chamber with a Reinforcement already prepared -- not a standard application, not a walk-up placement on a stationary target. A throw. Thirty meters, upward, to a moving target on a root network who was fighting four remaining drones while a Tier III defensive skill counted down its final seconds.
+
+The throw had to hit Dayo's armor specifically. It had to land at the moment Last Stand dropped. It had to be the thing between Dayo and the next hit.
+
+Vesper threw.
+
+Thirty-nine.
+
+The Reinforcement hit Dayo's shoulder plate. Solenne saw it land -- the protective layer settling onto the composite armor with the specific shimmer of an Artificer skill connecting to a target, and it connected, and it held.
+
+Forty.
+
+Last Stand expired.
+
+The golden shimmer faded from Dayo's armor. For one half-second, she was standing on a root junction at twelve percent HP with no damage reduction and no floor-saving mechanic, just composite plate and Vesper's Reinforcement and whatever Miriam could push through thirty meters of root and distance.
+
+The Queen charged.
+
+Not the drones. The Queen herself, moving for the first time, her crystalline bulk surging up the root network with a speed that should not have been possible for something her size. The root surface cracked under her mass. Her mandibles were open.
+
+Forty-one.
+
+Tomas fired. Not from the ground this time -- he had repositioned during the fight, finding a formation in the chamber wall, and his angle was clean and his distance was twenty meters and his AGI was thirty-three. Three arrows into the Queen's eye cluster. Precision Shot, all three. The arrows hit the crystalline plates around the eye cluster and two deflected and one found the gap between the plates and the eye cluster's flesh and the Queen's charge faltered.
+
+Forty-two.
+
+The party was there.
+
+Solenne's Arcane Bolt hit the Queen from below -- INT doubled through Ley Conduit, the channeled skill burning five MP per second and leaving her vulnerable and she did not care. The bolt struck the Queen's underside where the crystalline plates were thinner. The damage was real.
+
+Miriam's Thorned Ground erupted on the root surface beneath the Queen -- the roots splitting into sharp formations that caught the Queen's legs and held, the Warden's anger expressed through the ground in a way that was not gentle and was not meant to be.
+
+Nadia's second Pattern Break -- she was out of Mana for the Harmony skill, but she was there, throwing knife in hand, one of the Daves finding the Queen's mandible joint with Stumble's activation window open, the defense debuff dropping twenty percent.
+
+Dayo used her sixth and final Shield Rush.
+
+She fired it downward. Off the root junction, along the root surface, directly into the Queen's exposed face where Tomas's arrow had opened the gap and Nadia's Stumble had dropped the defenses and Miriam's Thorned Ground was holding the legs and Solenne's Arcane Bolt had cracked the underside.
+
+STR thirty-one. The gauntlet hit the Queen's fractured eye cluster with every point of damage the System could calculate from a Vanguard at twelve percent HP who had been holding a position alone for forty-five seconds and had just used the last Shield Rush in her reserves.
+
+The Queen went down.
+
+She fell sideways off the root network the way the Tidebreaker had fallen off the central platform -- slow, enormous, the crystalline carapace catching the bioluminescent light as it scattered and fractured and came apart. The chamber floor shuddered when she hit. The remaining drones -- four of them, disorganized without the Queen's coordination signal -- scattered into the root-walls and did not come back.
+
+Forty-five seconds.
+
+---
+
+The silence lasted thirty of its own.
+
+The chamber was still. The bioluminescent fungi pulsed their blue-green light and the scattered spores drifted down from the ceiling and the Queen's body was motionless on the chamber floor and the four surviving drones had vanished into the root network and the only sound was breathing. Six people breathing in a root chamber on Floor 9 of a Tower that was not done with them.
+
+Dayo was on the root junction. Still standing. Iron Stance had disengaged when the last drone fell and she was standing on the braided surface of three converging roots with her gauntlets at her sides and her breathing coming in long, controlled draws that were not calm but were disciplined, the breathing of someone who had trained her body to recover under pressure because the pitch did not stop when you were tired.
+
+Her HP was at 37. Eight percent.
+
+Solenne read the number through the Harmony Conductor feed and did not say it out loud. She did not need to. Everyone with a Status Window could see Dayo's HP in the party display. Everyone could do the math: 37 out of 467. The number sat in the chamber's silence like a stone dropped into still water.
+
+```stat-screen
+[ELITE DEFEATED]
+Crystalback Queen -- Elite Mini-Boss (Lv. 14)
+
+Party XP Earned: 350
+Loot:
+  Crystalback Plate x3 (Rare crafting material)
+  Toxin Filter Bracelet (Uncommon)
+    Grants immunity to contact venom effects
+```
+
+The notification appeared and faded. Solenne processed it and felt nothing about it. Three hundred and fifty XP. Crystalback Plates. A bracelet that would go to Vesper because Vesper was most exposed during crafting. These were facts. They were not what mattered.
+
+Dayo climbed down.
+
+She descended the root network slowly -- not injured-slowly, deliberately-slowly. Each handhold found, each foothold tested. The kind of descent that happened when someone who had been moving at combat speed chose to stop moving at combat speed and the choice itself was a new thing, unfamiliar, a skill she did not have a System entry for.
+
+She reached the chamber floor. She stood in front of the party. Her gauntlets were scratched, the striking surfaces marked with crystalline residue from a dozen impacts. Her armor was intact -- Vesper's work, Vesper's Reinforcement, the armored wrap on her left forearm that had held through eight seconds of mandible pressure.
+
+Nobody spoke.
+
+The Defiant Last Stand charge was gone. Once per floor. The charge that would have been available for Floor 10 -- for the Ironjaw Sentinel, the Major Boss that stood between them and Class Selection -- was spent. Burned on an elite encounter that had happened because Dayo had moved before the plan.
+
+Everyone knew this. The knowledge sat in the chamber's silence and took up space.
+
+Then Miriam spoke.
+
+"You knew I couldn't reliably reach you from that range."
+
+Her voice was quiet. Not the quiet of someone who was angry and containing it, not the quiet of someone who was about to cry. The quiet of someone who had been holding something for exactly as long as she could hold it and had stopped holding it. Measured. Precise. The words chosen with the same care Miriam used when she placed her hands on a wound -- not rushed, not tentative. Placed.
+
+Dayo looked at her.
+
+"I knew you would try," Dayo said.
+
+The silence after this was not comfortable.
+
+Miriam did not break it quickly. She held it the way she held a diagnostic assessment -- letting the information develop, letting the space around it clarify what the words alone could not.
+
+"That is not the same as knowing I could," Miriam said.
+
+Dayo did not answer. Her hands were at her sides. The gauntlets were still on. She was standing the way she stood when something had hit her that she could not redirect with her body.
+
+"You have been treating my healing as a net," Miriam said. Still quiet. Still precise. The words arriving with the unhurried inevitability of someone who had been watching a pattern for three floors and had decided to name it. "A net beneath whatever fall you decide to take. Without asking whether I can be that net at every distance and in every configuration you choose."
+
+The chamber's blue-green light pulsed. The spores drifted. Solenne stood with her staff in both hands and watched and did not speak.
+
+"The party has been working around your forward momentum because it is too fast to interrupt and because it mostly works and because the outcome is mostly fine." Miriam paused. The pause was not for effect. It was the space she always left before she said something true. "Mostly fine is not the word I would choose for a forty-five-second solo hold against an Elite Queen."
+
+Solenne felt the words land. Not in herself -- in the chamber. In the quality of the air, the way the silence rearranged itself around what Miriam had said. She looked at the party.
+
+Tomas was watching. The Clearvoiced Aspect's full attention was focused on the space between Miriam and Dayo, reading the exchange with the precision of someone who perceived that what was being said was exactly true and that it was being received. He did not add to it. Slowly, deliberately, he reached behind his shoulder and unclipped his bow from its carry position and lowered it to his side and set it on the ground.
+
+Nadia was still. Not performing stillness -- actually still, the way she was still when something was happening that she understood was not hers to make lighter. Her Pattern Break had saved the fight at the critical moment, three drones redirected, the convergence shattered. She did not mention this. She filed it somewhere behind her eyes and she stood and she was quiet.
+
+Vesper had already begun counting. Solenne could see it in her expression -- the mental inventory, the resource calculation, the Artificer's mind running the numbers on what their options were for the Ironjaw Sentinel without Defiant Last Stand. Zero charges remaining. Floor 10. Major Boss. The number was zero and Vesper was already building a plan around the absence and she did not bring this up because the chamber was holding something more important than logistics.
+
+Solenne did not say "I told you to wait."
+
+She did not say it because she was looking at Dayo's HP at eight percent and what she felt was too many things at once -- relief and anger and the particular ache of watching someone you are responsible for survive something they should not have had to survive -- and none of those things could be reduced to "I told you so." She felt too many things to make the feeling small enough for that sentence.
+
+Dayo did not argue.
+
+She did not explain. She did not say "I had it" or "it worked out" or "I won't do it again." She did not perform contrition or deflect with physicality or redirect with humor.
+
+She sat down.
+
+On the root-covered floor of the chamber, next to the Queen's body, with her gauntlets still on and her armor still scratched and her HP still at thirty-seven. She sat down. Her legs folded under her and her back rested against a root-mass and she was still.
+
+Solenne watched it happen and understood what she was seeing. Dayo sitting down was not defeat. It was not collapse. It was the first time -- the first time in nine floors and three months and every fight Solenne had watched her fight -- that Dayo had stopped moving because she should, rather than because the environment forced her to. The root chamber had not knocked her down. The drones had not knocked her down. The Queen had not knocked her down.
+
+Miriam's words had reached the part of her that the Tower couldn't touch, and Dayo had chosen to stop.
+
+```stat-screen
+[PARTY RECORD UPDATE]
+Harmony Skill (Steadfast: Anchor)
+Intentional use confirmed -- full party range
+Status: Active / Conscious direction: full party
+```
+
+The notification flickered at the edge of Solenne's vision and she let it fade. The System had noticed Dayo's deliberate Anchor deployment. The Anchor that had reached for all five of them from thirty meters up, that had known exactly where they were and known they were not close enough. The first time Dayo had used it intentionally as a location skill rather than a passive comfort.
+
+The System was updating its records. Solenne was not interested in the System's records right now.
+
+---
+
+Miriam crossed the chamber to Dayo.
+
+She did not hurry. She walked with the measured pace that was her working pace -- the one that said *I am here and I am not panicking and neither are you*. She knelt. She placed her hands on Dayo's shoulder, the one where a drone's mandible had found the gap in the composite plate, and Mending Touch activated. Level 9. WIS twenty-eight. The Warmhearted Aspect burning underneath. The heal was warm and it was close this time -- not thirty-five meters away, not attenuated through root and stone. Close. Full strength. One hundred and forty-two HP flowing back.
+
+Dayo's HP climbed from 37 to 179.
+
+Nature's Veil followed. The regeneration settled onto Dayo's body like a second warmth, less immediate than Mending Touch but persistent, WIS-scaled HP ticking back second by second. Miriam's hands moved from the shoulder wound to the forearm where the armored wrap had held, checking the tissue underneath, reading the damage with the same attention she had given the Sillfin lacerations on Floor 8.
+
+She did not say "you're okay" or "you're going to be fine." She healed. That was the sentence.
+
+Dayo sat still for it. She did not redirect. She did not say she was fine. She sat against the root-mass with her gauntlets in her lap and her HP climbing and the tally marks on the inside of her left bracer catching the blue-green light, and she was still in a way that was not exhaustion but choice.
+
+Ten minutes passed. Miriam's heals brought Dayo to 327. Seventy percent. The HP would not fully recover until the rest node -- the Nature's Veil regeneration had limits, and Miriam's MP was not infinite, and the distance healing she had pushed through the root-wall during the fight had cost more than the standard formula. But seventy percent was functional. Seventy percent was enough to walk.
+
+Vesper placed the Toxin Filter Bracelet beside Dayo without speaking. Not for Dayo -- for herself, later, because Vesper was most exposed during crafting. But she placed it near Dayo because that was where she was, and proximity was its own kind of language.
+
+Nadia did not make a joke. She sat against the opposite root-mass, cleaning a throwing knife, and did not make a joke. The silence she held was not the silence of someone who had nothing to say. It was the silence of someone who understood that the space in this chamber had been shaped by Miriam's words and that the shape needed to hold.
+
+Tomas picked up his bow. He reslung it across his back and walked to the chamber entrance and began scanning the corridor ahead with Eagle Eye, because the floor was not cleared and the party was not safe and someone needed to be looking forward while the rest of them looked at each other.
+
+Solenne opened her notebook. She did not write. She held the pen over the page and she looked at Dayo sitting on the root floor at seventy percent HP with the Last Stand charge spent and Floor 10 ahead of them, and she felt the weight of the sentence she was not going to write yet because the sentence needed more time to become itself.
+
+Dayo's hand went to her bracer. Her fingers found the row of tally marks -- Floor 7, Floor 8, and now she scratched a new one with her thumbnail. Floor 9. The mark was shallow and uneven because her hands were not quite steady.
+
+She did not stand up.
+
+She sat in the blue-green light of the Deep Root Labyrinth with her party around her and the Queen dead beside her and the Last Stand charge gone and Miriam's words still in the air, and she did not stand up because standing up was what she always did and sitting down was the harder thing.
+
+The fungi pulsed overhead. The spores drifted. Somewhere ahead, on Floor 10, the Ironjaw Sentinel waited in a chamber they would have to enter without their strongest defensive skill.
+
+Dayo sat still.
+
+The party waited with her.

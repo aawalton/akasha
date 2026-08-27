@@ -1,0 +1,205 @@
+---
+id: b88d79c1-d48c-5351-afe2-702d1e680f09
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15: Poison"
+slug: 0016-chapter-15-poison
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 16
+ownLength: 2009
+unit: words
+publishedAt: 2026-07-26
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3729975/chapter-15-poison"
+royalRoadId: "3729975"
+---
+
+Ben stared at the dark purple veins crawling up his neck. Cold terror shot through his chest. He was absolutely going to die out here.
+
+Should I pull the arrow tip out? But then blood will flow freely…
+
+[Focus] instantly clamped down on his fraying nerves. The cold detachment of the skill forcefully shoved all of his rising panic into a tiny mental box and slammed the lid shut.
+
+He had no time to panic about the poison spreading through his arm.
+
+So, he just forced the fear away and quickly checked the system notifications he had ignored during the fight.
+
+[Mana Sense Lvl 7 > Lvl 8]
+
+[Fire Burst Lvl 7 > Lvl 8]
+
+[Focus Lvl 4 > Lvl 5]
+
+[Mana Reinforcement Lvl 2 > Lvl 3]
+
+[Tier 1 Goblin slain. Essence gained.]
+
+Grinding his teeth together, he swiped the notification away. He had absolutely no options to heal this poison. If he didn't do anything about this, he was a dead man.
+
+He hadn’t learned [Regeneration] from Hannah before they got separated, and now he needed it more than ever. Even so, a tiny spark of hope stubbornly ignited in his chest.
+
+The very presence of that goblin with the healing skill made him incredibly hopeful.
+
+Those monsters could drop memory shards, couldn’t they?
+
+What if he could get his hands on a healing skill memory shard?
+
+He couldn’t learn the skill himself yet, since he didn’t know the pathway, and didn’t know how to actually manipulate mana.
+
+But suppose he could hunt down another goblin healer and kill it; maybe he’d get a shard? The last one hadn’t dropped anything, but he might get lucky if he kept trying.
+
+Deciding his next steps instantly, Ben formulated a plan. The first step was to pull out this arrowhead stuck deep in his left shoulder. Then he needed to cauterize the gaping wound to stop the bleeding entirely.
+
+He had no other choice. If he pulled it out without cauterizing, he would bleed badly. If he left it in, the poison would spread faster.
+
+Pushing himself up with his good right arm, he stumbled over to the decapitated goblin corpse. Rifling roughly through the creature's leather belt, he found a dagger.
+
+He grabbed it and held on tight.
+
+He was definitely going to need it, since he could only use fire from his heels.
+
+He searched the area around the crushed trees for a thick stick. When he found a sturdy branch, he picked it up.
+
+It was thick enough that he wouldn’t bite through it right away if the pain got too bad.
+
+Ben started moving right away. He needed to put some real distance between himself and the goblins. He also wanted to find a hidden spot to take care of the cauterization, which was going to be a total bitch to deal with if he didn’t learn some kind of healing skill soon enough.
+
+The explosion from his fight had been incredibly loud.
+
+Loud enough to draw every single creature within a mile radius straight to this spot, no doubt. So, he pushed through the forest, moving as fast as his legs could carry him.
+
+He grabbed his limp arm with his right hand to keep it steady and stop it from hitting anything. The poison made everything feel numb, heavy, and terribly hot all at once.
+
+He dragged his feet and looked around the woods. He couldn’t burn his own flesh out in the open and leave himself exposed.
+
+Dragging his heavy feet through the forest, Ben spent what felt like hours searching for a safe spot. He was running entirely on fumes and adrenaline.
+
+He could feel warm blood soaking through the entire left side of his shirt.
+
+It was a sticky, disgusting mess.
+
+Panting heavily, he forced his blurry vision to focus purely on the uneven terrain ahead. Sweat stung his eyes, making it hard to see. But he just wiped it away with the back of his right hand and stubbornly kept trudging forward.
+
+After pushing through a patch of thorny bushes, he found a huge formation of jagged boulders. Several of the largest rocks leaned heavily against one another, creating a cave like alcove beneath them. The entrance was a dark gap wedged right between the stones.
+
+Near the base, a rounded tunnel sloped down into the darkness. He was too big to fit easily, so he turned sideways and wriggled his way through the narrow opening.
+
+He did his best not to catch the arrow on the rough rock walls. After squeezing through, he finally popped out into a small chamber.
+
+Collapsing heavily onto the floor, he finally let himself sit down. [Focus] was actively working overtime right now. Pulling the crude goblin dagger out, he stared blankly at it.
+
+Now comes the truly stupid and awkward thing…
+
+Since he could only shoot magic out of his heels, this was going to be incredibly difficult. Bringing his right knee all the way up to his chest, he positioned his foot carefully.
+
+He gripped the dagger tightly in his right hand, pressed the flat of the blade against his heel, and triggered [Fire Burst].
+
+The intense heat instantly washed over his exposed knuckles.
+
+He cringed and let go, letting the dagger drop. Golden flames licked at the cold iron, and slowly, the dagger started to change color.
+
+Cauterizing a deep puncture wound wasn't like putting a simple band aid on a scrape. Just thinking about the pain made his stomach twist and churn.
+
+Time ticked by in the suffocating darkness of the tiny cave. And finally, it was hot enough. Cutting the flow of mana completely, he dropped his leg flat against the dirt.
+
+The sudden absence of the bright flame plunged the small space back into deep shadow. The only light source now was the orange glow of the superheated metal in his hand.
+
+He quickly reached into his pocket and pulled out the thick piece of wood. Clamping his teeth down incredibly hard, he brought his right hand up and firmly grasped the broken wooden shaft of the arrow still lodged in his shoulder.
+
+The jagged wood was highly slick with his own warm blood, so his grip slipped slightly. Adjusting his fingers, he squeezed the shaft with a literal death grip.
+
+Taking a long breath directly through his nose, he braced himself.
+
+[Focus].
+
+This is gonna hurt like a—
+
+He pulled it out before he could even finish his thought. The jagged arrowhead tore ruthlessly through his muscles on the way out. Pain slammed into his entire nervous system.
+
+It was a physical shockwave of absolute agony that instantly blinded him.
+
+Tears erupted from his eyes in a bodily reaction. [Focus] tried its best to dull the massive spike in sensory input. Nothing existed in his head now.
+
+Blood poured from the wound. Instantly, he put the broad side of the glowing red hot dagger directly against the open wound.
+
+Damn it all!
+
+He let out a series of pained curses directly through his grinding teeth. The stick in his mouth splintered loudly under the immense pressure of his locked jaws. He pushed the hot metal deeper against the torn tissue, making absolutely sure the bleeding stopped.
+
+The agony was so intense that his vision literally went completely black for a few seconds.
+
+His brain simply refused to process anything but the burning iron melting his shoulder.
+
+He yanked the dagger away from his skin and let it drop uselessly onto the dirt floor.
+
+A notification abruptly flashed directly into his blurry vision.
+
+[Focus Lvl 5 > Lvl 6]
+
+Ignoring that completely, he just sat there in the dark as the mangled wood freely fell out of his mouth. He slumped heavily against the cold stone wall behind him, breathing in ragged gasps.
+
+The smell of burnt meat was nauseatingly thick in the cramped air. But the bleeding had definitely stopped.
+
+The wound was an ugly, charred mess of blackened flesh, but it was sealed entirely shut.
+
+However, the sinking feeling in his chest still hadn't vanished. After all, the poison was still inside him. He knew it with absolute certainty. He didn't even need to take a look at his shoulder to confirm it.
+
+Cauterizing the wound had only stopped him from quickly bleeding to death.
+
+So he just sat there, waiting for his racing heart rate to finally slow down. Calming down took a few minutes of just staring blankly into the dark as he dealt with the pain.
+
+But with [Focus] running at all times, his mind remained completely detached from the sheer horror of his situation. The clock was ticking. He was definitely on a strict time limit before this poison finally reached his heart or his brain.
+
+So, he pushed himself up off the dirt floor. When he stood, the cave spun and his vision went dark for a moment. He blinked away the dizziness. He needed to find more goblins right now.
+
+Only this time, he wouldn't let himself get caught off guard like at the river. Now he was the hunter. He could sneak through the trees easily.
+
+He could pick his targets from the shadows.
+
+He just had to isolate the healers, blow their heads off, and hope the system that some kind of healing skill memory shard finally dropped.
+
+It was a terrible plan.
+
+But it was the only plan he had if he wanted to survive the night. Who knew how long it would take him to find civilization? He didn't even know where he was.
+
+I'm hungry.
+
+Ben stared at the two dead rabbits by his feet and sighed.
+
+Well, they mostly looked like regular rabbits.
+
+Except for the jagged bone spikes sticking out of their foreheads, he supposed.
+
+Are these things actual monsters?
+
+Were they magically toxic or just completely inedible?
+
+He genuinely could not bring himself to give a single flying fuck right now. What would adding another poison into the mix do to him? Kill him? He was already dying.
+
+Catching the furry little bastards had been a nightmare anyway.
+
+Since he had no real survival or trapping skills, he had to chase them down like a madman. Using [Fire Burst] from his heels, he blasted himself around to keep up with their speed.
+
+Because of course he had to use magic explosions just to catch a rabbit.
+
+He might have muttered a quick apology to the second one before snapping its neck. Bending down, he grabbed them by their long ears and carried them back to his hidden shelter after a quick visit to the river.
+
+When he reached the rock formation, he dropped the carcasses near the roots of a big tree outside the cave entrance. Lighting a fire inside that small, closed space would just fill it with smoke and probably just suffocate him.
+
+So, he spent the next few minutes wandering the immediate area to gather up dry branches and twigs. Dumping a large pile of wood onto the dirt clearing, he quickly arranged a crude little campfire.
+
+He lit the wood in seconds. Using his stolen goblin dagger, which was probably free of any and all germs due to how hot it'd been, he quickly skewered the meat on a thick branch. He’d already gutted and cleaned them at the river.
+
+He propped the stick over the flames and sat back to watch his dinner cook.
+
+The smell of roasting meat hit him, and his stomach rumbled.
+
+Finally…
+
+Tearing frantically into the half burnt meat a few minutes later, he practically swallowed it whole. It was ridiculously tough, entirely unseasoned, and tasted absolutely incredible to his starving brain.
+
+Gobbling down every last bite, he tossed the bones directly into the dark woods.
+
+He wiped the grease from his chin with the back of his hand, then kicked dirt over the dying embers until the fire went out.
+
+He stepped away from his camp and slipped into the shadows of the trees.
+
+It was time to hunt some goblins.

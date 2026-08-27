@@ -1,0 +1,541 @@
+---
+id: c0de48dd-312d-56cc-9314-dc799181a34f
+page-type-slug: story-chapter-royal-road
+title: "081, 1/2 — Start of Book 4"
+slug: 0100-081-1-2-start-of-book-4
+partOf: arkendrithyst
+position: 100
+ownLength: 9912
+unit: words
+ownProgress: 9912
+publishedAt: 2020-05-04
+link: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/491499/081-12-start-of-book-4"
+royalRoadId: "491499"
+markedReadAt: "2026-06-29T22:10:08.971Z"
+---
+
+A crowd gathered around Erick’s front door just before noon. Poi informed Erick of who they were and what they wanted twenty minutes before they arrived, so he was somewhat ready for them, but what they wanted was a nebulous thing. That’s why they came to him, for they wanted to find out what he wanted, too. After some initial introductions and some initial understandings, Erick would have invited them inside, but Poi had already made a fair point earlier about that setting an unwanted precedent.
+
+So Erick went out into the front yard a ways away from the house, and [Stoneshape]d a nice, medium-sized stone pavilion, with a large table in the center and chairs enough for everyone. If he got grief from this unsactioned use of the city’s stone, then he’d put it back later, but he doubted that he would; these people had come here on official city business, after all.
+
+Soon, everyone was inside the pavilion, while Kiri went to fetch drinks, and Poi took up his position behind Erick.
+
+Old greyscale Ratchet, the spice lady, smiled as she sat down, saying, “All the transients are gone, but we locals are here to stay.”
+
+An incani man with magenta skin, who Erick knew as a vendor in the Farmer’s Market named Rollo, was already sitting. He said, “Ain’t no small thing like Red Dots gonna drive us real spurians away.”
+
+The only wrought in attendance, a blue metal dragonkin-shaped named Kip, said, “But it has driven a lot more people to live outside of the city. I hope that this won’t prove to be a problem with regard to the new regulations with Portal.”
+
+Erick didn’t know much about Kip, but he knew that the wrought was a caravaneer, and one of the porters for the goods produced by the former Farm.
+
+Hera, the yellowscale who was Silverite’s right hand woman, said, “Silverite has gained concessions that we are able to sell to anyone who is a citizen of Spur, or adventuring with Spur as a base. Citizens living outside of the walls still count.”
+
+“Bah!” Rollo said, “Let those feckless people starve! The real citizens live inside the city and kill those who would seek to undermine Spur. I killed two hunters that night, you know! Actually gained ten levels. Those people living outside the walls are too safe. They shouldn’t be citizens.”
+
+Kip’s voice took a careful edge as he said, “Those people are still a part of Spur.”
+
+“Debatable,” Rollo countered.
+
+Hera added, “Not debatable. They are citizens. End of discussion.”
+
+Rollo waved a dismissive hand through the air. “Bah!”
+
+“We’re here to talk about plants, Rollo, not logistics or politics,” said a deeply purple, older incani woman with small black horns. Her name was Calizi. She was the former head of the Farmer’s Council, years and years ago. She had been tending to her private gardens and enjoyed her retirement in Spur, but then the Farms were directly attacked. She stepped up in the aftermath, to take a spot on the new Community Gardening Council. “Let’s get to dividing the land and hashing out crops.” She pointed to the west side of the Human District, some hundreds of meters away. “I want the plots over there.”
+
+“Me too.” Rollo said, “As will everyone. That’s prime real estate next to expensive property.”
+
+“I’m taking at least one portion down south, near my house,” Ratchet said.
+
+Rollo added, “Everyone except her.”
+
+Hera said, “Everyone will get their share. If there is some debate, then we will roll dice or something to see who wins.”
+
+Calizi seemed to quote someone as she said, “To each their need and their ability to help their neighbor.” She stared daggers at Rollo, saying, “All he’s good for is money. I can produce more than him. Always have, always will.”
+
+“And there’s the politics,” said a violetscaled younger woman named Missoli, who had been somewhere in Valok’s administration of the Farms.
+
+Erick watched the arguments unfold, familiarizing himself with these people who would become his new partners going forward. He barely knew anything about any of them, so he decided to only step in when the conversation turned to rains and schedules. Their conversations had not turned in that direction though, not yet.
+
+They spoke at and over each other, about plots and produce, contracts and customers. Voices rose, but no one yelled. Rollo and Calizi obviously had some sort of long history with each other. Their bickering was almost pleasant. Erick watched, smiling.
+
+Hera frowned at Erick.
+
+Erick looked away from Hera and cleared his throat before he spoke over the crowd, beginning with, “I’m sure we can come to agreements over all of—”
+
+“Not meaning to disparage, archmage, or to negate the importance of your rains,” Rollo interrupted. “But that’s the thing, isn’t it? You were hands off.” He looked to Calizi, saying, “I was there. Calizi was the old Farm Master. I’d trust in the success of this enterprise if either of us took the actual lead.” He looked to Missoli, saying, “Or even Missoli, here.”
+
+Calizi and Missoli grumbled. Erick lost his smile.
+
+“Then I’ll do it!” Rollo said.
+
+Calizi instantly said, “No you will not!” She turned to Erick, saying, “He can sell a furnace to a firebug but he can’t grow shit, archmage.”
+
+“This isn’t about growing anything, Calizi.” Rollo said, “This is about feeding Spur, and you just don’t have the mind for those logistics. Never have, never will. You think putting out a hundred tons of grain is good enough! Or those awful sour fruits you flooded the markets with twenty years ago! I still have nightmares about selling those.”
+
+Calizi rounded on the man, saying, “Purlberrys are great and good for you! You have no taste!”
+
+Hera spoke up, “The people here are all cleared for whatever this endeavor requires. Silverite doesn’t care how it happens, only that the restaurants and the Market gets their food.”
+
+Rollo and Calizi both frowned, but went silent.
+
+Erick said, “Then that demand comes to me, doesn’t it? How much land does it take to fill the cold boxes of everyone in Spur, using platinum rain? Anyone got any hard numbers?”
+
+Rollo rattled off numbers, “Spur’s population is currently around 250,000 people, but orcols count twice and we don’t service wrought via the food we produce here. We’re about 5 percent wrought and 25 percent orcol, so this means roughly 300,000 person’s worth of demands on food. One 100 meter by 100 meter plot of land, a hectare, under the effects of [Exalted Storm Aura], can create almost a thousand tons of rice every 24 hours. The average spurian eats a hundred kilos of dry rice a year, or a little over a quarter kilo per day.” He said, “In one day of rain, on one hectare of land, we can produce enough rice to feed every single person in this city for about 15 days. Less, if rice is all they’re eating.” He added, “But that’s just going off of one hectare. The Farms had over 300,000 hectares. The land we’re taking from this district is only about 176 hectares; 25 percent of the nearly seven square kilometers of this mostly empty land.” He concluded, “We can easily fill the cold boxes of Spur with just some platinum rain on the weekends. Normal rains and shading [Ward]s are all that’s necessary to keep the plants from baking in the harsh light of the Crystal Forest between harvests.”
+
+Erick’s eyes went wide. “That’s… We really were a breadbasket, weren’t we?”
+
+The table went silent for a small moment.
+
+Erick added, “We don’t have to worry about actually feeding everyone, then. We just need to worry about division of labor and goods.”
+
+Rollo said, “So about those divisions—”
+
+“Before we get to carving up the Human District...” began a brownscaled man named Apogee, who Erick had never seen before this morning. He was also the last person in their little group to speak.
+
+Apogee was a dragonkin, of course, but he was unlike any other dragonkin Erick had ever seen. Backswept horns crowned his head, while his face was closer to a dragon’s muzzle than a human’s visage. And he had a tail. It was thick and ridged like a gator’s and it came out of the backside of his pants like a third leg. His legs were also shaped more like a dragon’s, too. Apogee was literally the only dragonkin Erick had ever seen who truly resembled a dragon, and not just a scaled humanoid. He was also about 130 years old, at least, according to Poi, but he didn’t look older than anyone else around the table. Was he actually part true-dragon? Probably not. That would have put a target on his back for the hidden dragons of the world.
+
+But maybe he had already gone through all that trouble, and shrugged it off?
+
+He was certainly muscular enough to make people think he specialized into Strength and was able to defend himself, but that would have been a false conclusion, because Apogee was well known as a Scion of Focus. Apogee was the proprietor of the Wayfarer’s Guild, after all. Everyone knew Apogee was one of the best Spatial Mages in the area. Everyone except Erick, until Poi told him during their introductions ten minutes ago.
+
+The thing everyone else also knew about Apogee was that he was Planar, exactly like Erick and Jane, but also not at all.
+
+Erick needed to talk to this man, in private. He had resolved as much as soon as Poi filled in a bit of history earlier in their meeting. Poi had tried to dissuade him from that course of action, but Erick was having none of that. Not at that moment, anyway.
+
+Apogee said, “I need meat. That’s not hyperbole. So all this talk of vegetables and such is great and all, but I enjoyed having cows so close. I’m sure you all did, too. Not to mention the milk and the cheese that came with those cows. Now I’ve got someone lined up already to take over the meat production that Mister Ooragh did so well, but the problem is getting Silverite to agree. According to those trading rules she hammered out with Portal, we can have no off-season production outside of the city limits. But I know I’d never get everyone here to agree to cows in the city.” He turned to Hera. “So I want those rules she made with Portal bent, somehow.” He asked, “Can we put a short wall around outside? Claim the ranch as technically inside the city walls?” He added, “And what about all the chickens and bees, too? I don’t want to go without chicken and honey, either.”
+
+Missoli teared up, murmuring, “That Red Dot killed all my cats, too.”
+
+“No more crying, dear.” Calizi sat straight, saying, “There’s been enough of that already.”
+
+Missoli sniffled, then said, “Sorry.” She added, “I want the cats to come back, along with all the other animals, too.”
+
+This garnered more than a few nods and assents around the table. Everyone wanted the bees and chickens and cows to come back to Spur. Some of them were more than happy that the cats were dead. Rollo complained that they ate too many chickens. Missoli just glared at the old man until he apologized.
+
+Hera frowned throughout the whole discussion of meat getting back on the menu. A single line of intent radiated from her head to vanish into the manasphere.
+
+Erick wasn’t the only one to notice Hera’s displeasure, but he was the one to speak up about it, “We all want the meat to stay, Hera.” He glanced north, saying, “Silverite was talking about a reservoir north of the city. What if it were grasslands for cattle and a short wall and a reservoir? Would that be possible?”
+
+The table went silent, as they turned to Hera.
+
+After a long moment, Hera said, “Silverite is comfortable with building a short wall for the cows and such, but the problem is not Portal, in that case. The problem is Ar’Kendrithyst. Whenever we expand the walls, something happens, and it’s never a straight retaliation.”
+
+Erick felt his anger rise. He controlled his temper, to say, “They’re already doing something weird and new in there. I say we expand the walls just to prove the point that we can do weird and new, too.”
+
+Hera, Apogee, Ratchet, Rollo, Kip, Calizi, and Missoli, each looked to Erick. Some of them smiled a little. Others sighed.
+
+Hera said, “We were already doing something weird and new in the first place with your rain, Erick.”
+
+“They started first, with Bulgan,” Rollo countered.
+
+Ratchet said, “I never thought I’d live see the day when those assholes finally got it up their ass to spawn another of themselves.”
+
+Hera leveled with Apogee, asking, “Who do you have in mind to run the cattle ranch?”
+
+Apogee smiled, revealing rows of sharp teeth. “Me. That’s why I came here today.”
+
+Hera frowned.
+
+Rollo said, “I thought you’d get back to your guild?”
+
+“I trained up ten wayfarers in the last three months to meet Valok’s demands —rest his soul—”
+
+Most everyone bowed their head for a moment.
+
+Apogee continued, “—But now that the Farm is glassed, we’re overstaffed by half. Instead of firing the people I trained, I’m stepping out. My son, Fork, is taking over.” He said, “I want cattle, chickens, and bees back in Spur, so if I gotta do it myself, then I will. I figure Silverite won’t object if I’m putting myself on the line.”
+
+Hera sighed, then said, “Silverite has made a decision. We’ll build a short wall to encompass the cattle land, and another for a reservoir.”
+
+Apogee smiled wide.
+
+Erick spoke up, “Fish in the reservoir? Make it a lake, instead?”
+
+“This is expected,” Hera said. “The lake is expected to be about the size of the Human District itself. We can move some plans around and incorporate a ranch of a similar size outside of the city walls.”
+
+“Excellent!” Apogee said.
+
+Erick glanced out of the pavilion to the orange stone of the Human District. “If it’s just the people here farming for the whole of Spur, then we should be able to knock out a rough plan in a few hours. So? 170 hectare plots? Really?”
+
+Rollo said, “It’s under 2 square kilometers.”
+
+Apogee said, “I don’t need any land inside the city. The ranch is good enough.”
+
+Hera spoke up, saying, “The plans for the plots have already been set. They’re more or less evenly spaced out around the edge of this district.” She looked to everyone, saying, “There will be a trial period of a month, and then Silverite will reevaluate how everything is going, but Spur has been without the Farms for almost a week, now. We’re starting to see shortages in the stores. She wants this up and running by the end of the day.”
+
+Calizi frowned at Rollo, saying, “I want that land to the west. I already got some workers lined up.”
+
+“You’re gonna have to roll some dice for it, Calizi,” Rollo said. “I got help just waiting for me to give the word, too."
+
+Calizi brought out a deck of cards from her shoulderbag, saying, “Cards. Not dice.”
+
+“You’re going to lose either way.”
+
+Hera ignored the two of them, as she cast a hand across the table. A miniature lightward version of the Human District sprang into existence, complete with a panoply of rectangular lots all along the outside edge. She said, “These are the plans. Make your choices however you want. Silverite trusts you all to get it done in a timely and orderly fashion.”
+
+Rollo started yelling about dice. Calizi vehemently rebutted, demanding cards. Kip sarcastically offered a test of marksmanship, which the others immediately decried. Ratchet just went ahead and declared a grouping of plots in the south as hers, while Missoli said she’d take whatever was left, but it had to be continuous.
+
+Erick said, “I got my own garden around my house so I won’t be taking any land, but I’ll probably be selling to some people in town, anyway.”
+
+Rollo said, “We’ll get you set up, too, archmage.”
+
+“Thank you.” He said, “You can all call me Erick, by the way.”
+
+“Sure thing, Erick,” Calizi said, “Those potatoes are great. Reminds me almost of the whiteroot I ate as a kid.”
+
+Rollo frowned at Calizi, saying, “I’m growing the potatoes, Calizi. We already had that discussion.”
+
+Calizi smiled beatifically at Rollo, saying, “And I won.” She dropped the smile. “I’m growing the potatoes.”
+
+Erick asked, “We’re not actually splitting up the harvest like that, are we? Can’t everyone just grow whatever they want?”
+
+Ratchet spoke up, “Those two can’t.” She added, “I’m on the spices.”
+
+Rollo said, “You’re not getting a monopoly on those, Ratchet.”
+
+“On this, we agree,” Calizi said.
+
+Erick sat back in his chair, relaxing as people spoke of growing things and feeding people, of potatoes and corn, of purple tomatoes and Erick’s red variety. Of corn, and wheat, and rice. Parts of the discussion were not pleasant. But it was all about normal, mundane things. Not of life and death, or about the deeper mysteries of magic. It was kinda nice for a change.
+
+When Missoli spoke of cats again, Kip brought up the shadowcats from before, and Erick’s mind wandered to threats left living, out there in the world.
+
+He needed to search for Bulgan. Give it at least a half-assed try, though he doubted he would find anything. He couldn’t directly search Ar’Kendrithyst, but he could have a little look-see from the outside.
+
+As the conversation chugged on around him, Erick thought more of that man, and how he had tried to set a trap in Spur’s sewers, expecting Erick and Jane to find the oozes first, but how unfortunate rookies had lost their lives to the living acid, instead. There was no concrete proof that Bulgan was behind the lethal Sewerhouse attack, but Erick did not doubt that he was behind that, too.
+
+… Or maybe there was concrete proof, and Silverite didn’t want to tell Erick for fear of rocking the boat.
+
+At the time, a lot of the incani of Spur that were involved in those attacks, either directly, or simply in the know. Erick never found out exactly who all was directly involved. Zago was involved, for sure, but she seemed repentant enough, and no one was comfortable with how far Bulgan actually took his crusade. Not after Bulgan brought shadowcats into the city. He had planted them into the Human District that Erick now lived in, in an effort to kill Erick and Jane, heedless of the collateral damage and deaths he caused. It took the whole city to rout that infestation.
+
+That infestation was the first time Erick had used [Call Lightning] against a living target. At the time, it was a sobering experience. But looking back at it now, almost nine months later...
+
+Shadow monsters certainly didn’t do well versus lightning.
+
+Not many things could!
+
+The new Community Garden Council continued to talk about plants and plots, while Kiri delivered lemonade in huge pitchers to the gathering, eliciting a whole new discussion on sugar cactus, and who would be growing that. Sugar cactus was one of the most lucrative products to grow. Everyone wanted a piece of that pie. Missoli wanted that whole pie, all to herself, but that was simply not happening.
+
+Erick joined in on the discussion when necessary, but mostly only when they spoke of the raining schedule. Instead of raining every morning for a few hours, Erick and the Council worked out a plan for platinum rain on the weekends to ensure a grand seconday harvest in the Market, while normal rain would blanket the whole city on a to-be-decided schedule. According to Hera, every house and apartment building was getting outfitted with their own extra water collection areas, so the whole city could use some rain.
+
+The discussion about the city-rain schedule was out of this Council’s hands. Silverite would hold a vote however she wanted to soon enough, to decide how much rain would come, but Hera, and thus Silverite, was expecting a few hours of rain once or twice a week.
+
+While they all talked of planning around rain, Erick’s mind went to his own plans, to thinking of how to kill Shades.
+
+Shadow monsters were rather vulnerable to lightning, weren’t they? The books Erick had read at Oceanside even said as much. Oceanside had considered Mana Altering to Lightning to be an extreme form of light, before Erick came along, meaning that they thought that shadows were vulnerable to extreme forms of light, but when there was only a little light, that little light made the shadows stronger.
+
+But obviously lightning was not light. Was there something special about the violent movement of electrons equalizing charge that shadows were vulnerable to? Or was there a much simpler answer? Were living things simply vulnerable to electrical disruption, and ‘light’ was not involved at all?
+
+Erick would have to experiment a little on the monsters near the Hole up north; the nearest open entrance to the Underworld. Other than Ar’Kendrithyst, the Hole was the only other local place where shadowolves and other shadow monsters lived.
+
+… Could he make a [Summon Lightning Elemental]?
+
+Bah. No. He couldn’t do that. He would need Particulate Force, the Particle Mage Class Ability to combine normal magic and Particle magic, in order to get [Conjure Force Elemental] and [Call Lightning] to play with each other. But Jane said that she’d never talk to him ever again if he ever took that Ability.
+
+Oh! But Rats has [Greater Treat Wounds], too! He could make a rod of—
+
+Rats was gone. Shit. How could Erick have forgotten that? Dammit. Hopefully Rats was doing okay out there with Messilina… wherever he was.
+
+Oh. Jane could make a rod of [Greater Treat Wounds], too. And she would be home soon. Maybe they could work on some magic together? Ah, but she would have to learn Ancient Script. That was no big deal. He could pay Irogh a grand-rad to get [Comprehend Languages] cast for Jane. Maybe he would get that spell cast on him, too. Everyone spoke Ecks, for the most part, but not every book was written in Ecks. Most of the books in the Mage Guild’s library were written in other languages, like Inferni for all the technical books coming out of the Wasteland Kingdoms, or Draconic for the rarely used genetically-imprinted language of all dragonkin. There were orcol exploratory journals written in Gargantual that Erick wanted to read, too, to understand a bit more about the wilder places of Veird. Jane already knew Karstar, the language of human nobility and the angels, so Erick needed to learn that, too.
+
+How would Jane react to him wanting to take Particulate Force?
+
+… But what Class Ability would he have give up to get Particulate Force?
+
+… Shape Spell? But Shape Spell was so useful.
+
+… He would have to give up something to get Particulate Force, to prepare for whatever was coming out of Ar’Kendrithyst.
+
+Erick casually looked up from the discussion, to gaze south. Spur rose past the flat lands of the Human District like orange blocks and spires. Beyond that was the wall; barely visible between buildings. Beyond that wall was a large expanse of Crystal Forest, and beyond that, lay the much larger wall of Ar’Kendrithyst, dominating the southern horizon.
+
+They were up to something in there.
+
+- - - -
+
+Far away from the tall walls of Ar’Kendrithyst, in the deep south, east of the Wall that separated the Wasteland Kingdoms from the Crystal Forest, there stood a man. While the sun shone overhead, that man stared at the western sky. He was close to his homeland, but this is as close as he wanted to go.
+
+This place, in the middle of nowhere, not even near the ocean, was perfect.
+
+In the distance, further than mortal eyes could see without the aid of magic, lay the Wall. There were many such ‘Wall’s on Veird, but this one was the only one the man would ever consider the true ‘Wall’.
+
+This division between biomes was like a minor mountain range, but it was flatter, more organized. It was a necessary Wall, too, for the Greyhorn mountains to the north did not fully close the gap between themselves and the ocean, so the people of the lands beyond had had to raise this minor mountain range on their own, hundreds and hundreds of years ago, to keep the Crystal Mimics out. The Wall was mostly unmanned, but every hundred kilometers towers rose from the Wall and settlements lived on the other side. It was a harsh life, no one really thrived there, but it was a good life, and it was barely more difficult than living in Spur.
+
+The man stared at the Wall, thinking. He had lived there when he was a child. He had traded with travelers, and he had helped his mother bake bread. He had grown jewelfruit and apridates with his father, and played with his brothers and sisters under tall trees and in the deep dunes on the other side, where the danger came from sunburn and heatstroke, and other people.
+
+That had all changed when the humans attacked. His home was gone, now. It had been gone for twenty years. His real home had been Spur, until recently.
+
+A spike of deep, thrumming anger tingled at the edge of the man’s mind, but his anger was a well worn armor. It was a cool breeze on a hot day, or a hot dagger held coldly; a centering emotion. He held his anger close, and used it to further his goals, just like he always did, and just how he was doing right now.
+
+Today was the start of something special, and the man was going to make this plan work, even if he had to kill his former countrymen to do so.
+
+The man was born an incani. His skin had always been dark and his horns of a goodly size. Now, his skin was the color of night, and his horns were flickers of shadow barely longer than his black hair. His clothes were darker than black; the color of almost everything about him, these days.
+
+He smiled, staring at the wall separating the Crystal Forest from the Wasteland Kingdoms.
+
+He turned to a puddle of darkness on the ground next to him. “This is your new home. Make of it what you will.”
+
+The puddle vibrated. The noon sun seemed to stretch down into the darkness, as the darkness opened. People gripped the edge of that hole in the ground and pulled themselves out, onto the sands of the Crystal Forest. They were not as perfectly formed as the man, but these shadelings had begun to show intellect in the recent months, and thus, they were here, taking part in this plan.
+
+The people hauled themselves out of the hole in twos and threes, easily lifting themselves into the sun, each of them spreading out in whatever direction they decided. If some of them chose to run, the man would hunt them down, but none of them did. They were smarter than that. Some of them spoke to each other in hushed tones; discussions of where and what they should build.
+
+A trio walked a short distance from the hole in the ground and joined hands. Shadowstuff stretched from each of the people; a creation from nowhere, taking hold in the light like a mirage turning real. With practiced effort, the shadelings pulled a squat building out of the air, and then began to stretch it taller.
+
+Other shadelings created thin towers. Or crystalline spikes the size of small kendrithyst towers. Trees made of illusions stretched over sand that turned into dark stone roadways.
+
+There were no Crystal Mimics to fight, or agave to clear away; the man had already taken care of that with a wave of his hand, not five minutes ago. There were just buildings to make, and the shadelings made them. In ten minutes, the overall construction was the size of a village, and shadelings were still pouring out of the ground. In an hour, the village had become a small town. In two more hours, shadelings stopped coming out of the hole right as a wall went up around the city.
+
+It was a shadowy facsimile of a normal town, but with five large spires of fake kendrithyst in the center and smaller crystalline growths adorning every building edge.
+
+The man stood on top of the tallest shadowy kendrithyst, overlooking his new project. A western wind whipped through his hair and got into his clothes, bringing him the faint smell of apridates on the breeze. It was a sweet smell.
+
+He spoke to the shadeling at his side, “I want an apridate grove.”
+
+The shadeling bowed. “As you wish, Master Bulgan.”
+
+Bulgan smiled, looking to the west, as the shadeling vanished into the false-crystal underfoot, off to complete their assignment. Another shadeling took the place of the one that left, waiting to serve however they could. Bulgan almost went back to waiting, but something was off about the second shadeling. Bulgan frowned. The shadeling, for her part, shivered at his frown. That was a good sign. Bulgan lost his frown and gave the shadeling a greater portion of his attention.
+
+The shadeling in question was a woman wearing humanoid clothes instead of shadows. Bulgan hesitated to call them clothes; they were not well made leathers and cloth, and they did not fit the woman. They must have been scavenged from some dead adventurer, or maybe they were her own. Whatever the case, they were full of knife holes and torn edges and barely covered any of her body. The woman herself looked to be from human stock, but her eyes were the dark, normal pools of a shadeling. A spark of intelligence seemed to squirm in those shallow depths, trying to assert itself, but the tool was clearly stuck halfway to sapience. If that intelligence didn’t surface soon...
+
+Bulgan asked, “Why are you here? You should be off living like a person.”
+
+“I cannot remember my name, sir.”
+
+Bulgan studied her ‘clothes’, and her face. “You’ve cleared several steps out of order.” He asked, “What do you remember?”
+
+“Numbers, sir.”
+
+“Anything else?”
+
+“I lived alone and I counted gold.”
+
+The woman spoke well enough, hinting at what her future would hold, so Bulgan asked no more questions. He turned back toward the west, saying, “If you can’t remember a name in another day, then take one, and then take a prominent job dealing with the quest board, or something. Receptionist. Or accountant. I don’t care.” He gestured down to the center of the shadowy city, down below. “Go mingle. Learn more about yourself. Get some proper clothes.”
+
+The shadeling bowed, accepting her command. She flickered down into the false-kendrithyst underfoot, off to do what he commanded, and maybe find some sapience along the way. If not, it was no big deal to kill her again.
+
+Another shadeling took the place of the woman. This one was just shadow and soul made substance; a drone.
+
+Bulgan returned to his vigil.
+
+- - - -
+
+Erick surveyed his garden, and it was good.
+
+Pruned and tall lemon trees dangled yellow fruits along the northern edge, blocking a fair bit of the constant wind that swept down through the Crystal Forest. In another grove, grew cinnamon trees. Potatoes grew on vines, spilling out tubers on top of the soil, within easy reach and allowing the plant to be harvested multiple times. Erick beans, the product of [Exalted Storm Aura] and the basis for much of Erick’s [Grow] experiments, flowed on vines over stone trellises. Corn grew in nice, tall rows, while hot peppers and garlic and a whole bunch of other spices grew nearer to the house in raised beds. Vine lettuce and eggplant. Peas and vine carrots. Most of the vegetables grew on vines. Erick didn’t want to kill the whole plant to harvest a meal, and this method ensured that [Grow] Fatigue was easily managed.
+
+And then there were the plants from Veird. Purple tomatoes. Green spiraling cauliflower, called fractis. Tall sugar cactus with spigots in the base, like they were maple trees, growing separate from everything else; too much rain made the sugar harvest too diluted. Or, at least that was the case for other people.
+
+Erick smiled. The other farmers used a specialized [Watershape] spell to draw the sugar out of the cactus water; something almost like his [Distill]. But it wasn’t [Distill]. [Distill] was far, far better.
+
+Honestly, Erick could probably plant nothing but sugar cactus and make himself a sugar empire using his magic. Not in Spur, for sure, and he wasn’t a hundred percent sure it was possible, but he imagined a hundred thousand sugar cactus tapped and piped together, and all that sugar water draining into a vat that he could [Distill] into sugar. Theoretically, he could build an empire on sweets. A country on candy. A livelihood on lollipops.
+
+But.
+
+That seemed not-fun. This small garden? That was fun.
+
+Erick gazed over his garden, and smiled. It was a large garden. Probably too large. It would have certainly been too large if not for his Handy Aura. [Flight of a Thousand Hands] was one of the most useful spells Erick had ever made. Flight, fight, and utility, all in one neat, thousand-handed package.
+
+And if he hadn’t needed to replant the garden days ago, he’d probably be using his Handy Aura right now to keep the garden in proper shape; to snip off overgrown vines or uproot unwanted plants. There wasn’t much need to weed when the soil was mostly dead sand. But there was a need to water; the garden was mostly sand, it didn’t hold much moisture.
+
+He should have mulched the dirt a few times with some clover, to turn the sand into soil, before he replanted. He could have blipped over to somewhere with good, brown dirt, and taken a bunch for himself. But this was okay, too. He’d just have to watch the garden for a month or two, keeping it all healthy, while the compost pile he started on the other side of the house turned into proper compost.
+
+Erick studied his plants.
+
+Oh. The potato vines were wilting a little. Too much heat and light. Not enough water. He almost rained, right then, but he had already done that this morning. Instead, he cast a wide lightmask into the air over the plants, dimming the light from the sun by half. He’d water them later, when he wasn’t just trying to get away from the arguments for a moment with a half-assed ‘I need to check on my garden’ excuse.
+
+He glanced back to the stone pavilion. Calizi and Rollo were still arguing. Apogee was the first to leave. He blipped away in a shattering of bronze light when Calizi and Rollo’s argument devolved into what it meant to roll ‘7’ with a ‘1’ and a ‘6’ versus rolling a ‘7’ with a ‘3’ and a ‘4’. Hera had begged off when their arguments over sugar cactus began in earnest. Kip and Ratchet followed soon after; those two managed to secure for themselves a monopoly on rice production and spice production. Missoli only remained in the pavilion to watch over Calizi and Rollo’s argument so that they ‘didn’t kill each other’. Missoli seemed to be a mitigating factor regarding whatever was going on with Calizi and Rollo, so Erick left them to it.
+
+He turned back to his garden.
+
+He missed Valok. And Krakina. And Apogough. In that brief moment, everything seemed to darken as emotions threatened to overwhelm. Erick breathed. He kept breathing. He sniffled and wiped away an unruly tear.
+
+He put on a better face, and asked, “Poi? I want a meeting with Apogee. Can I just go to the Wayfarer’s Guild? Would he be there?”
+
+Poi said, “He doesn’t like being asked about his former world.”
+
+“... I’m gonna do it anyway.”
+
+- - - -
+
+Spur was packed. The streets might have been seven meters wide, but those meters filled up fast. As Erick walked down the roads on his way to the Wayfarer’s Guild, it seemed that more people than ever were in the city. More than a few people even noticed and understood who Erick was, but only the guards who noticed him actually tried to speak to him. They asked after the Community Gardening Council they heard about. They wondered if the rains were still coming. They hadn’t seen any silver clouds in days. One particularly insistent young man claimed that the Farmer’s Market held slim pickings. When were the grocers getting restocked? Erick gladly put the kid’s fears to rest. Fresh produce would be on Market Street soon enough. A day, or two.
+
+He had to repeat that conversation a few times, for a few different people, but he was glad to put some fears to rest. He hadn’t actually known that the grocers and the Farmer’s Market were down to slim pickings, but that problem would be solved soon enough.
+
+He asked after how the Guard was doing, in the wake of the attack. They were doing okay on their end, but fights had started to break out over hoarders buying up all the rice or potatoes or wheat. Besides all that, they’d had worse things happen to them than the Red Dot, but with people like Erick to help to prevent the worst of those attacks, everything was going about as good as ever. Each guard Erick spoke to thanked him for his [Cascade Imaging], too. With that spell, and with what they had done to those who dared to strike Spur, they had sent ripples through the less savory societies and organizations that operated near the city.
+
+Some of the conversations with the guards were a little darker than Erick would have liked, but the truth was a dark thing, sometimes. The guards seemed to be happy, though. Erick made sure to talk up how their diligence in vetting the trails Erick found was just as important as finding the trail itself. Some of them understood what Erick was saying. Others… He wasn’t quite sure. But Erick trusted Merit to do the right thing, and hire the right sort of people, so he didn’t say much when a few guards spoke variations of ‘giving those assholes what they deserve’.
+
+Eventually, Erick made his way to the Wayfarer’s Guild.
+
+The Wayfarer’s Guild was located near the Adventurer’s District, on the main road running north of the Guildhouse, but not in the district itself. The large, orange building was four stories tall, and except for the conspicuous silver-coated guard station built directly beside the Wayfarer building, it fit in well with the rest of Spur’s spartan, blocky desert dwellings. Erick had never been here before. From what Poi had told him, business was exclusively conducted on the first and second floor, and mostly dealt in the transportation of people from one location to the next, with a secondary focus on the shipping of individual goods. The Wayfarer’s Guild had another location near Market Street that dealt in bulk produce and meats, but Poi had heard that they were shutting down that location since the Farm was gone.
+
+The guildhouse was busy. Erick walked up the short staircase of the Wayfarer’s Guild, dodging people walking in and out of the front entrance, and stepped out of the desert heat into a sky-blue tiled room. The room was huge, and at least half the size of the entire first floor. It could have been a subway station back on Earth for the atmosphere of the space. It was not crowded, but there were people of all kinds inside, milling about from place to place.
+
+There was a counter in the back that separated about a tenth of the floor from public access. People wearing normal clothes dropped off packages on that counter, handing them off to people wearing light blue clothes and blue badges, who in turn handed them off through holes in the back wall, to a room where some sort of transportation likely took place. Other people wearing normal clothes waited in a queue at an archway that led to the guard station next door; the Wayfarer’s Guild and the guard station were directly connected.
+
+This place was basically a postal office and an airport, all in one. Erick smiled as he remembered the post office back home and the flirts behind the counter. He couldn't remember their names right now, but that’d come back to him when he wasn’t thinking of it.
+
+This large front room was not just blue tile, though. There were also reds and greens and blacks, but those colors delineated lines on the ground, acting as directional markers. On second look, the black tiles were solely used to indicate ‘landing platforms’. They weren’t really [Platforms], as in the magical spell, but the black tiles spelled [Teleport], and every moving person in the room steered clear. The reason for the wide berths given to those spaces seemed obvious to Erick, and he was proven right not ten steps into the building.
+
+As Erick got halfway into the main room, the air over one of the black outlines blipped bright yellow. Ten people appeared out of the air. Nine of them looked young and somewhat lost. The tenth person was an older yellowscale man wearing blue who called out instructions to the group. He wore a bright blue badge on his chest. Erick walked across the room, to the counter in the back, while the new arrivals got into the queue at the line to the guardhouse. Whatever arrival procedures the people were going through seemed to be going quick; the line at the guardhouse entrance was down to two people, from the several that had been there when Erick first entered the guild, not a minute ago.
+
+He approached one of three bored looking incani standing behind the counter, not talking to anyone or dealing with any customers or their packages. The woman he approached gave him a once over. Recognition clicked in her eyes. She suddenly stood straight.
+
+She spoke eloquently, “Greetings, Archmage Flatt. How may the Wayfarer’s Guild assist you?”
+
+The Wayfarer Guildhouse was not quiet, but it wasn’t that loud, either. A few nearby people flinched upon hearing Erick’s name, pausing to look his way. They quickly got back to their business, either picking up packages off of the shelves behind the counter, or placing down packages, or dealing with other customers, or just looking away and pretending at paperwork.
+
+Erick said, “I don’t have an appointment, but I’d like to speak to Guildmaster Apogee, if I could.”
+
+The woman glanced away. She looked back to Erick. She took a second to say, “Um. I don’t mean to dissuade you, but other planars have tried to talk to him before, and he—” Her professional facade went back up, as she said, “He’ll see you now.” She gestured to a staircase to the right. “Go on up.”
+
+Erick nodded to the woman, saying “Thanks,” as he went on his way.
+
+Upstairs was no less loud and open as downstairs, but it was mostly piles of packages either in the process of being unloaded from [Teleport Platforms] or being loaded onto [Teleport Platforms]. There were no customers up here; everyone had blue badges on their blue shirts. Erick barely had time to take in the sights, when a young bluescale woman came over to him.
+
+She said, “Archmage Flatt? Guildmaster Apogee is in his office. This way.”
+
+“Thank you.”
+
+Erick followed the girl through the packaging room, following a green path on the tile floor. A platform full of wooden boxes —he just now noticed that they were wood. Shouldn’t they be using stone? Wasn’t that more plentiful? Or maybe there was a weight concern. It was probably a weight concern.— A platform full of wooden boxes, and its purple incani, vanished in a blip of black light. In another part of the room, a tiny orange [Scry] eye appeared over another designated landing spot, followed by a blip of orange that resolved into a pale incani and her [Teleporting Platform].
+
+Erick tried not lose pace with the bluescale girl on their way to Apogee, but there was just so much to see.
+
+Soon enough, the woman stopped at a large, open door, big enough for an orcol. The woman nodded, then walked away, back to work, or whatever she was doing.
+
+Apogee was inside the room. He saw Erick, and said, “Come on in! Don’t mind the mess.”
+
+Erick took several steps into the room, avoiding wooden crates as he said, “Are you moving?”
+
+Apogee’s office had probably been a very full, very lived-in place at one point in time, but right now it was laden with boxes. The master of Spur’s Wayfarer’s Guild was packing up, telekinetically and manually placing keepsakes and pillows and paintings and papers into storage containers; some of the boxes were open, and their contents looked expensive. Erick had caught the brownscale dragonkin rolling up a rug and placing it into a long crate, along with five other similar sized rugs.
+
+Apogee said, “I’m in the cattle industry now!” He smiled wide, revealing rows of teeth and a long, straight tongue. “I’d offer you some rum to mark the occasion, but I packed... Hmm.” He turned to his crates and began rummaging. “… Ah ha!” He lifted an ornate crystal bottle of dark red booze out of a crate, along with two glasses. He offered, “Care to share a drink?”
+
+Erick smiled, saying, “I’d love one.”
+
+“But if you’re here to ask after planar business, then this conversation is over.” He briefly lost his smile, as he said, “I usually give other planars a warning before I [Teleport] them away. Veirdians get the ‘port; no warning. The first time it’s just a ‘port downstairs.”
+
+Erick reoriented his goal. “Well. Okay. A non-consensual [Teleport], you say?”
+
+“Yup!” Apogee smiled wide as he poured a pair of drinks, and handed one to Erick, saying, “Kaveneen!” He tossed his drink back.
+
+“Cheers.” Erick went with the flow and downed his shot. The booze went down like a warm fire to settle in his arms and legs with a shiver. It tasted of spices and cinnamon, and of hot summer nights. Erick savored the taste for a moment, then said, “That’s delicious.”
+
+“I call it Ruby Brandy, because it doesn’t have a commonly accepted name.” Apogee put the booze away, cheerfully adding, “I won it off a tribe of ruby harpies in Nelboor who claim they found it in a dragon’s hoard, nigh on thirty five years ago. I’ve been trying to recreate the taste for thirty years, but haven’t found the right spices, and if I haven’t found the right spices—” He turned back to Erick, saying, “They don’t exist. Which means it was made with some unique plant that doesn’t exist anymore.”
+
+Erick smiled as he pondered the cost of what he had just downed. He held the glass to his nose and breathed in the scent of the remaining red drops. Cinnamon, for sure. He asked, “What does it taste like to you?”
+
+“That’s the thing.” Apogee said, “I could never place the scent or the taste, until recently. Until I caught wind of those tall brown trees near your house.”
+
+“You should come over for dinner sometime, or to poke around in the garden.” Erick said, “I’ll make some cinnamon barbecue and you can take some clippings home. Obligate carnivore, right?”
+
+“Correct.” Apogee said, “I might just take you up on that offer.”
+
+Erick asked, “But since we’re not talking planar stuff and you are a Spatial Mage, I have another question for you: Do you need an Elemental Body skill to recreate [Teleport]?”
+
+Apogee frowned. He paused. He said, “It’s a bit of a trade secret, but since you’re so close anyway, I must warn you: If you do it wrong, you’re gonna die. It’s not worth the risk.”
+
+Erick patted Ophiel on his shoulder, saying, “I can cast through him, so there’s no personal risk.” Ophiel trilled in violin sounds before going back to silence; back to watching everything with wide open eyes. Erick added, “I was hoping to get around the Elemental Body requirement. I’ve already tried with lightwards and such, but Ophiel explodes every time.”
+
+Ophiel gave a few flutey notes at that.
+
+Apogee smirked. “I recommend [Air Body], but if you can swing it, [Lightwalk] is better. You made a light slime dungeon for That Old Dragon. Right?”
+
+“Silverite is going to get some soldiers [Lightwalk] when she can.” Erick asked, “So what made you decide to go for the rancher position in this Community Garden Council?” He glanced back at the busy second floor of the Wayfarer’s Guild. “This place looks busy.”
+
+“Too busy for me! Fork can handle it, and more power to him. He’s wanted the position for a decade already.” Apogee said, “We can talk about the gardening and all of that more, later. Thanks for coming by. I’ll hit you up for the clippings tomorrow.” He held out his hand, palm up. “Cup?”
+
+Erick put the glass cup in his hand, then said, “Sure. Then I’ll see you—”
+
+“It was nice talking to you, but I can’t have people thinking I’m getting weak willed just because some planar archmage shows up and acts nice.”
+
+The air blipped bronze.
+
+When the air cleared, Erick was standing in front of his house. He blinked a few times, while Ophiel, still on his shoulder, trilled in surprised flutes and cellos. Apogee hadn’t even touched Erick. Or had he? Maybe a finger, when he handed over the cup? No. Erick would have felt that.
+
+A blue blip resolved in the air nearby; it was Poi.
+
+“How does a [Force Teleport] work, Poi?”
+
+“I’m sure I don’t know,” Poi said.
+
+Erick opened the door to his house and went inside, saying, “He seems like an okay guy. A bit gruff, I guess, but that’s fine.”
+
+- - - -
+
+Shadowy people wandered through a city of dark towers and towering crystals that had not existed five hours ago. They pretended to live their lives, and someday, some of them might have lives to live.
+
+Bulgan stood atop the tallest shadow kendrithyst spike, in the center of his city. A northwestern wind brought scents of his first life to him, hidden in the breeze. He spared a glance down, to the northwestern side of town. There, amid the black buildings and tumbled dirt, hard, green shoots poked up from the ground. Shadelings conjured tiny clouds above the new growths, spilling water onto the land. The trees drank it up, filling out and growing tall, sending thin, tough branches and spiky fronds into the air. The shadelings continued to tiny-rain on the land, and the trees continued to grow. Bulgan smiled as the trees sent out different sorts of fronds, laden with tiny pods instead of green spikes. Those pods turned to bunches of hard shelled fruit that dragged the branch down with their weight.
+
+Oh? He had been distracted, hadn’t he?
+
+How curious.
+
+Bulgan turned his attention back to the west—
+
+No. That was wrong.
+
+Bulgan turned southwest. “Childish.” He spoke to the sky, his voice booming like a god’s, “You get one warning. An attack will demand a reprisal.”
+
+They tried to hide in the sky, downwind and a kilometer away, surrounded by some mutated version of [Invisibility] and [Lightshape]. [Diversion] was in there, too, but the caster was inexperienced. Bulgan had been inexperienced, too, half a year ago, but that version of himself was long gone. Mostly. Whoever this interloper was, they had managed to make him look down at his growing apridate farm. They weren’t an archmage, but they were obviously an accomplished assassin.
+
+With a thought, Bulgan shifted the city into shadows. The black crystal under his feet turned wispy, but he remained in the sky, floating under his own power.
+
+The assassin flickered to visibility.
+
+Bulgan took a long microsecond to make sure to understand his attacker, as the man readied spell after spell, like dots of light in the bright blue sky. The assassin was an older man with white skin, but he wore white robes and gloves and boots. A white cloth covered his whole head, except for his eyes and the strip of white skin between them. It was entirely possible that his white skin was merely white paint. Maybe he wasn’t even a man under all those concealing clothes.
+
+Whatever they were didn’t really matter. Bulgan waited to see the damage from the interloper’s spell before he decided on his response.
+
+White balls of light crashed into the city. Shadows turned solid under the bright light. Secondary explosions broke buildings and killed shadelings who failed to properly hide. Bulgan’s apridate garden shattered like broken glass.
+
+Bulgan mused, “A [Shattering Light]? Maybe you’re not worthless after all.”
+
+The assassin flickered away—
+
+No. They flickered to the north. Bulgan turned to face them. The assassin flickered again, this time to the south. Bulgan turned to face them, again, giving them the opportunity to flee, or call off their attack. They chose neither. [Shattering Light] crashed into more buildings, killing more people and harming progress.
+
+Bulgan filled the land with his Blessing, denying all spatial magic.
+
+The assassin froze. They had tried to flicker away, but they failed. They raised their arms and filled the sky with descending [Shattering Light]s. Shadows broke. Shadelings died. The assassin prepared another salvo.
+
+With that choice, the white assassin had done more than enough to warrant a devoted response.
+
+Bulgan lifted his arm. With a concentrated thought, he crushed the assassin’s remaining spells mid-flight, before they could strike his city. With another crush of his fist, the assassin became red pulp. Bulgan released his grip, then he turned to the south, and crushed another two intruders. They had been trying to remain hidden as they charged up some sort of hostile magic, but that just didn’t need to happen. They turned to red paste, and the attack was over. Bulgan hadn’t gained the full flavor of whatever the secondary strike team was doing, but it sounded like a deeper [Stoneshape] than most. It was likely [Stonequake], or something similar.
+
+Whatever the case, the attack was over. Bulgan turned the city tangible again. Shadelings set to repairing broken structures with mending shadows, while some of the more cognizant shadelings began to cry or curse at their unknown enemies, and pick up the bodies of their fallen friends.
+
+Bulgan considered the rest of his response to this attack.
+
+He smiled.
+
+The Wall between the Crystal Forest and the Wasteland Kingdoms stood far to the west, like a minor, organized chain of large hills. Cities existed here and there along the entire length. He didn’t want to kill the cities, but he could give them a nice headache.
+
+Bulgan stepped through space to reach the Wall.
+
+With a thought, ten kilometers of Wall turned to sand. He repeated the process ten more times, making sure to miss the cities but destroy the Wall itself, opening up the lands beyond to the plague that lived in the Crystal Forest.
+
+And then, for good measure, he wrapped up a hundred Crystal Mimics in stone and deposited them far beyond the Wall, and far from each other, where the sands had turned to grassland. As the Crystal Mimics noticed their new environs, they went into a frenzy, ripping up the greenery and multiplying to better deal with the problem.
+
+Bulgan returned to his city. He smiled to himself.
+
+By the time night fell, a hundred mimics had become 150. The people of the Wall had yet to fully repair Bulgan’s breaches. People were still turning sand into stone and stemming the tide of mimics pouring through by the time they realized that mimics had already gotten far behind the border.
+
+The Crystal Plague was spreading in the Wasteland Kingdoms, and it wasn’t just a minor infestation. Bulgan had spread them over a hundred kilometers. He had always wondered how the Kingdoms would respond to a real infestation. When he was younger, his parents and the elders had always spoken of the deadly threat of the Crystal Mimic.
+
+Spreading Crystal Mimics was a warcrime unlike any other in the entire world, and that was especially true here, in this place. When he was younger, before the raid came that changed his life forever, some would-be alchemist was always getting themselves executed for experimenting on [Polymorph] potions on the wrong side of the Wall.
+
+Ah, memories.
+
+Bulgan smiled as he remotely viewed the destruction beyond the Wall.
+
+Oh, sure, they’d clear out that infestation in a week. Maybe a month. Eventually, they’d kill all the mimics, but it would take an incredible amount of resources and time. Did they think they had that sort of time, what with Bulgan and his new city sitting right outside their border? How long would it take before they called in reinforcements?
+
+Whoever the white-robed assassin was, they would surely be the first of many. Who else would the Kingdoms send?
+
+Hopefully they’d send Black Death. Bulgan had heard of that woman’s exploits ever since he was a child. He would love to see her from the other side of the battlefield. Oh! Or maybe they’d send Hocnihai— No. Wait. Bulgan frowned. Hocnihai was dead. Old age. Bulgan had heard of his death through the shadelings on Umber Street, hadn’t he? Damn. That man was legendary. Did Tania know he was dead? She probably did. She idolized that man. He started off on the wrong side of the Quiet War, but he switched sides soon enough. Everyone who wasn't brainwashed by the angels eventually switched sides.
+
+He had to have left behind some tomes, right? And his heir? Surely he had an heir.
+
+Bulgan thought of how he might get his hand on Hocnihai’s tomes. A quest, for sure, but it wouldn’t be an introductory quest. Something further along the line, without a doubt.
+
+A second attack came while Bulgan was thinking of the other heavy hitters of the Wasteland Kingdoms. He didn’t have to focus on his attacker; they were pitiful, truly. Soon enough, another blot of red paste landed in the Crystal Forest. Bulgan made a show of breaking the Wall again; of completely reversing the repair effort. He almost spread another hundred mimics beyond the border, but that would have been overkill. They needed to see him as a threat to be respected, not as a petty tyrant.
+
+How many bodies would it take, how much of the Wall would need to be turned to sand, before the Wasteland Kingdoms decided to try a different approach?

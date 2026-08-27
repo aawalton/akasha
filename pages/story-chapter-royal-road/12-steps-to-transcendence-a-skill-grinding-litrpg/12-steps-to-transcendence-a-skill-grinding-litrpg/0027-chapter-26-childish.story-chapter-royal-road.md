@@ -1,0 +1,443 @@
+---
+id: bb98309d-a5a3-54f8-a6b6-3683fc7d684e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26: Childish"
+slug: 0027-chapter-26-childish
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 27
+ownLength: 3661
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3779497/chapter-26-childish"
+royalRoadId: "3779497"
+---
+
+Congratulations! [Physical Conditioning] (Common), [Mana Reinforcement] (Uncommon), and [Unarmed Combat] (Common) have fused into [Warforged - Lvl 1] (Rare)!
+
+Staring blankly at the notification, Ben's jaw slowly hung open, as [Focus] was pretty much inactive at the moment. Reading the notification over and over again, he just became more perplexed and confused.
+
+He didn't even care about what fused skill he got. He was just looking at one specific skill. [Mana Reinforcement] was an uncommon skill?
+
+Hannah, not you too!
+
+Logan had done the same thing with [Fire Burst] and now Hannah had done it with [Mana Reinforcement]. If he had just known it was an uncommon skill, he would have squeezed so many more levels out of it.
+
+My precious levels...
+
+Sighing heavily, he just shook his head. There was absolutely no point crying over spilled milk now. He wouldn't be getting those levels back.
+
+Regretful as that may be. He couldn't do anything about it. And besides, he got a completely badass rare skill out of it. At least that's what he thought when he read further down and looked at the skill's name.
+
+[Warforged].
+
+That just sounds incredibly cool.
+
+As always, he had no idea what the skill actually did because there was no description, but he had suddenly gained a sense of the skill as it was basically carved into his soul.
+
+So while a description would help, it wasn't really necessary because he knew the skills that combined into [Warforged], and he knew intimately what they could do..
+
+So he could guess what [Warforged] did.
+
+Pausing, a sudden thought struck him.
+
+He remembered Hannah mentioning that once he had a rare skill, the system would update and show him rarities of all his skills. Did the system update finally show the hidden rarities for all his other skills now too?
+
+Calling up his status, he was curious to see all the rarities of his skills even though he knew what they were now.
+
+Name: Benjamin
+
+Title: [Hunter]
+
+Tier: 1
+
+Skills (4/10):
+
+Focus (Uncommon) - Lvl 9
+
+Mana Sonar (Uncommon) - Lvl 3
+
+Fire Burst (Uncommon) - Lvl 11
+
+Warforged (Rare) - Lvl 1
+
+Looking over all the rarities, he found it quite pleasing to look at. Especially because he could see now that he'd combined his skills, he had more empty slots now. Which was nice. He could actually learn more skills now.
+
+Still, all of this didn't even come close to the excitement of gaining a new skill. As he looked at the skill at the bottom, he thought about fusion for a moment. It was completely different from a standard evolution. He hadn't been given a single path to choose from this time.
+
+So you only get multiple choices when evolving a skill, not fusing them.
+
+Interesting.
+
+Tapping his chin thoughtfully, he wondered about the specific mechanics behind it. Could he actually dictate the final outcome by manually choosing the exact order of the fusion? The system had specifically listed the synergy starting with [Mana Reinforcement], then [Unarmed Combat], and finally [Physical Conditioning].
+
+Maybe the order completely changes the resulting fusion?
+
+He definitely had to test that theory out next time, because the thought just hadn't occurred to him in his excitement. As he thought about all this, he kept staring intensely at the [Warforged] skill for almost a full minute.
+
+He didn't expect anything to happen, but a new window suddenly appeared before him. Jumping back slightly, he blinked at the brand new window.
+
+The system had literally never given him a detailed breakdown of a skill before.
+
+Maybe this new rarity update unlocked tooltips or descriptions?
+
+Leaning in closer, he eagerly read the description.
+
+Warforged - Lvl 1
+
+Rare
+
+Fused from: [Mana Reinforcement] (Uncommon), [Unarmed Combat] (Common), and [Physical Conditioning] (Common).
+
+Reading the utterly brief description, his excited smile completely vanished.
+
+What did I even expect?
+
+Sighing loudly, he dismissed the utterly useless window. Well, not utterly useless, but still. Classic system bullshit. Standing up, he immediately felt the massive difference.
+
+He felt reinvigorated. This skill felt a little weird to use. It was almost as if it had a passive effect like [Physical Conditioning] but an active effect like that of [Mana Reinforcement] when he used it, which was way stronger than before.
+
+His body felt stronger.
+
+Not to mention there was an effect of some kind that [Unarmed Combat] left behind? It had evolved, too, so he was just very curious about what had happened to this skill.
+
+Looking down at his hands, he slowly clenched his fists.
+
+He didn't even have to consciously push mana through his internal channels anymore. It was just intrinsically there, right beneath his skin like a coiled spring.
+
+Let's test this out.
+
+Walking over to a massive boulder near the edge of the camp, he sized it up. It was easily twice his height and quite solid.
+
+Squaring his stance, he pulled his right arm back, activating [Warforged] to its fullest potential. Mana flooded into him and reinforced his body, and enhanced his punch, while he got an instinctive sense of where to hit to get the most damage.
+
+He threw a completely basic, straightforward punch.
+
+Crack.
+
+The booming sound was genuinely startling.
+
+Staring wide eyed, Ben watched the gigantic rock literally explode outward into a shower. The boulder was still whole, but there was a crater inside, and cracks spread outward from the punch's impact.
+
+...Holy shit.
+
+Dust settled around him in a thick, choking cloud.
+
+He blinked, looking down at his knuckles. They were entirely unscathed, without a single scratch or bruise in sight.
+
+I'm a walking tank now.
+
+Well, that was quite an overstatement given he himself hadn't put anything in any essence path other than mana, but still, he felt pretty good about himself at the moment.
+
+He just wanted some skills that would let him use his bigger mana reserves and mana path properly, as his current fighting style relied heavily on close quarters. But then again, perhaps that had been his teachers’ intention? So he'd put himself into more danger and learn to defend himself instead of sitting back hurling massive amounts of mana at problems.
+
+He still hoped they could've taught him some more destructive mana skills, though.
+
+Whatever, he'd just have to learn them on his own!
+
+His path was, at the end of the day, his to forge and walk.
+
+Still, this rare skill was a nice addition. It completely bypassed the awkward middleman of actively commanding his mana to reinforce his frail human—albeit Tier 1 enhanced—muscles, mana just flooded into his body and did all the work. But he could also do MORE if he so wished to do so, but he just had to do it actively.
+
+Sitting cross legged in the dirt, Ben stared intensely at his open palm. He pushed fire mana up his arms and straight into his hands. Or at least he tried to. He didn't really know if it was working because doing it with his skills was easy because he just had to learn the pathway once and then it just worked. The skill helped him out.
+
+That was exactly why he wanted to figure this out to do it manually, because he just didn't want to rely on skills as a crutch. While it wasn't really fair to call them a crutch because they weren't really doing all the work, they were just there to enhance it.
+
+What he was trying to do was create a new skill, learning it without the help of anyone else. But he was not able to do it. So he just had to wonder, what was it? What exactly created a skill?
+
+He desperately wanted a hand cannon version of [Fire Burst].
+
+It made perfect sense in his head. If he could blast himself into the air from his heels, he should absolutely be able to shoot an explosion from his palms.
+
+But instead of a concussive blast, his hands just felt uncomfortably hot.
+
+The skin on his palms rapidly turned bright red. Shaking his stinging fingers, he quickly dropped the fire mana entirely.
+
+It clearly didn't work like that.
+
+So, he shifted tactics. Bypassing the elemental fire, he just pushed raw mana straight out through his fingertips.
+
+Mana was a weird sensation. If he had to describe it, he would describe it as a fuzzy, warm feeling. A feeling, yes. He could control that feeling, much like he could control his attention. It was like staring at an object, then, without moving your eyes away from the object, shifting your awareness to anything specific around it.
+
+At first, it seemed impossible. The moment you tried, your eyes naturally turned toward whatever had caught your attention. But if you kept your gaze fixed at the object, keeping it in focus, and instead shifted only your awareness, details slowly emerged from the blur, even if it remained as blurry as it had been before.
+
+Mana was familiar to that awareness, and controlling it was kind of like moving that awareness around in your vision without actually moving your eyes' focus on whatever you were looking at.
+
+He could feel it in his body. He could feel it when he used [Fire Burst] or when he'd used [Mana Reinforcement] beforehand, how mana, or the "awareness" moved.
+
+But he couldn't quite control it.
+
+Hannah had told him that mana was something that you couldn't just learn to control so easily, So that was why they were guiding his mana through different tactics, through different breathing methods and through different kinds of training. So it would just naturally flow down the pathways needed to develop the kind of skill they wanted him to get.
+
+But the end result of that was that while he had learned many skills, he'd never really learned how to manipulate mana himself. All he could do was let the skills guide him a little, at which point it was easy to follow. However, that also meant that the end result was far weaker than it could be.
+
+So he was having a bit of a hard time because his training got cut short when that wyvern—
+
+Ben focused on the task at hand.
+
+He focused on the awareness of mana. It was hard, but he tried bringing it out of his chest, where his core was located, even if not physically inside there it helped to visualize better.
+
+Pushing the feeling through his bicep onto his elbows and then up his arm into his hand, Ben tried to wriggle it out of his forefinger. [Focus] was really helpful in this regard because controlling that feeling was really hard.
+
+When he focused really hard and pushed the mana out of his fingertip, he felt a little bit of tingle on his tip, as if there was some kind of electric charge on there. Faint blue wisps immediately curled around his finger like smoke.
+
+It was infinitely easier to control than the fire mana. But that small lapse in concentration made him lose sight of the feeling of mana. And then it just snapped right back where it was, back in his chest.
+
+He sighed. He just didn't know what to do with it yet. Could he condense it into something sharp?
+
+Maybe?
+
+If he couldn't use fire mana to do it, maybe he could use raw mana. There was nothing really stopping him from creating some kind of attack out of raw mana was there?
+
+Squinting hard, he tried to force the wispy blue mana into a solid, structured line above his index finger. To do that, he focused on the awareness in his chest again, trying to get a grasp on it.
+
+"Are you attempting to knit a sweater out of raw mana?"
+
+Sighing heavily, Ben let the gathered mana instantly dissipate.
+
+He didn't even need to look up to know who it was.
+
+"I'm experimenting."
+
+Alice stepped into his peripheral vision. She clasped her hands neatly in front of her remarkably pristine dress. She looked completely and utterly out of place in a forest camp.
+
+"Experimenting usually implies a hypothesis, commoner. You just look severely constipated."
+
+Ben gave her a completely flat stare.
+
+"It's called trial and error."
+
+Tilting her chin up, she flashed him a distinctly cheeky grin.
+
+"Well, you are certainly mastering the error portion. You're on the right track, though, that is indeed how we learn how to control mana as children."
+
+Ignoring the obvious jab, Ben decided to put her annoying presence to actual use.
+
+"Since you're here, tell me something about the system."
+
+Her smile instantly widened a fraction.
+
+"Oh? Is the solitary hunter finally asking for my esteemed guidance?"
+
+Ben just crossed his arms.
+
+"Just answer the question, Lady Alice."
+
+She gracefully lowered herself onto a relatively clean boulder nearby.
+
+"That depends entirely on the question. And my current mood."
+
+She is literally holding information hostage again.
+
+Ben wanted to rub his temples, but he knew that giving any reaction would have her just dig more into him from that direction. So, he formulated his question carefully.
+
+"How do people figure out skill evolutions before hitting level ten? Are there system records?"
+
+Alice smoothed her skirt with practiced precision.
+
+"Of course there are records. The Great Archives of House Vane hold over four centuries of documented skill paths."
+
+She casually buffed her fingernails on her sleeve.
+
+"I was thoroughly tested on the first three volumes by my eighth nameday."
+
+Eight years old? Jesus.
+
+Ben frowned, actually looking at her properly for once.
+
+"You memorized thousands of skills when you were eight?"
+
+Her cheeky demeanor completely faltered for just a fraction of a second. Her shoulders instantly tensed up.
+
+"It was... mandatory. A scion must inherently know the optimal paths for our retainers."
+
+She quickly puffed her chest back out, regaining her haughty posture.
+
+"My tutors were incredibly strict, but obviously, a genius like myself mastered it flawlessly."
+
+Yeah, right.
+
+That sounded way less like aristocratic genius and way more like a miserable, high pressure childhood.
+
+Of course, the rich kid had a terrible upbringing.
+
+"So," Ben leaned forward slightly. "If you know them all, what does a common or uncommon raw mana skill usually evolve into? What are some good ones, anyway?"
+
+Alice tapped a delicate finger against her chin, deliberately making him wait.
+
+"I could tell you."
+
+She tilted her head, her blonde hair catching the late afternoon sun.
+
+"But what do I get in return?"
+
+"My continued silence."
+
+She let out a very sudden, very un-noble snort.
+
+Slapping both hands over her mouth, she instantly looked utterly mortified.
+
+"Very graceful." Ben, of course, didn't forget to jab back at her.
+
+He could be very petty sometimes.
+
+Glaring at him, her cheeks flushed a bright, angry red.
+
+"You are entirely insufferable."
+
+Smiling faintly, Ben thoroughly enjoyed her sudden loss of composure.
+
+It is just way too easy.
+
+He kept his expression completely neutral.
+
+"So about that information."
+
+Glaring daggers at him, Alice aggressively smoothed her perfectly pristine skirt once again.
+
+"You are pushing your luck, commoner."
+
+"I'm just cashing in on my silence. Tell me about skill fusions."
+
+"What about them?"
+
+"Does it actually matter if you max out the skill before skill fusion?" Ben asked, genuinely wanting to know if his recent paranoia had been justified. "Or can you just smash them together the second you can get the synergy notification?"
+
+Alice scoffed loudly, lifting her chin back into that signature haughty position.
+
+"Only an absolute idiot would fuse skills the moment a synergy appears, unless they genuinely don't know better. Which could be the case. Among Noble Houses though, everyone knows to wait."
+
+Good to know I am not an absolute idiot.
+
+Because the synergy had appeared long ago.
+
+"The level of the base skills directly dictates the foundation of the resulting fusion." She lectured smoothly, tracing a completely arbitrary circle in the dirt with her expensive leather boot. "If you fuse underdeveloped skills, you get an unstable result. It could pay off, sure, but it could also mean your fused skill is worse. It's not typically a concern at early Tiers though, mostly difficult when the skills grow too complex."
+
+"So it affects the rarity?"
+
+Rolling her eyes, she crossed her arms firmly over her chest.
+
+"Not necessarily the rarity, but absolutely the potency and the efficiency. A level 10 common skill inherently holds significantly more dense essence than a level five. When they fuse, that accumulated density permanently shapes the new skill."
+
+So squeezing out every last drop of levels was exactly the right play.
+
+Ben couldn't stop the smug little smirk from creeping onto his face, only for his mood to come crashing down when he recalled [Mana Reinforcement] was uncommon.
+
+Nevermind, I am indeed an idiot.
+
+A lesson well learned, he supposed.
+
+"What?" She narrowed her eyes suspiciously.
+
+"Nothing." He waved his hand dismissively. "I'm just glad my basic instincts are better than four centuries of Vane family records."
+
+Alice physically recoiled, gasping in offense.
+
+"You absolute brute!"
+
+Smiling even wider, Ben just went back to pushing raw mana out of his fingertips.
+
+"Keep talking, Lady Alice." He kept his focus entirely on the buzzing energy in his hands. "I'm sure the grand archives have more to say."
+
+Letting out a very unladylike groan, she kicked a small pebble straight at his shin.
+
+He didn't react.
+
+Yeah, she was definitely just a kid under all that aristocratic snobbery.
+
+He focused back on the fuzzy awareness in his chest.
+
+"So, what happens if the common skill hits level ten?" Ben asked, pushing the wriggling raw mana out past his knuckles. "Does the system just force evolution, or can you just sit on it and max out the other skill before fusion?"
+
+Alice let out an incredibly exaggerated sigh, leaning back against the boulder.
+
+"Obviously, you can just not accept the evolution and keep it at bay. You can still use the skill, you just can't level it up until you either accept the evolution or fuse."
+
+The buzzing awareness instantly sputtered out of Ben's fingers as he froze.
+
+"You can decline it?"
+
+Alice blinked, looking genuinely confused at his sudden reaction.
+
+"Well, yes. If you reject the prompt, the skill simply remains at level 10, completely maxed out and ready to be fused or evolved whenever you wish. It just doesn't level up."
+
+You can just say no.
+
+Ben slowly lowered his hands, staring blankly at the dirt.
+
+I panicked and fused my skills early for literally no reason.
+
+He could have squeezed out more levels from [Physical Conditioning]. He could have leveled up [Mana Reinforcement] way more, too, before slamming them together. Sure, [Mana Reinforcement] turned out to be uncommon, but [Physical Conditioning] wasn't. To him, both of them had been common. He'd thought if they hit level 10 he'd be forced to evolve.
+
+But that wasn't the case.
+
+A groan escaped his lips. He let his head thunk down against his raised knees.
+
+My precious levels…
+
+Seeing his sudden misery, Alice's eyes immediately lit up with glee.
+
+"Oh my." She leaned forward, resting her chin on her hands. "Did the solitary hunter perhaps make a minor miscalculation?"
+
+Ben refused to lift his head.
+
+"Shut up."
+
+"Did you perhaps panic and fuse your skills prematurely?" Her tone was absolutely dripping with haughty satisfaction. "Because you were ignorant of basic system functions? Don't worry though, it doesn't matter much at this point, especially if you got a higher rarity skill out of it."
+
+"I said shut up."
+
+She let out a distinctly villainous little giggle.
+
+"My, my. It seems natural instincts don't quite measure up to the grand archives after all."
+
+Gritting his teeth, Ben suddenly pushed a tiny burst of fire mana straight into the ground by his feet, not realizing what he did. The dirt puffed up, sending a small cloud of dry dust drifting directly toward her pristine dress.
+
+Alice shrieked, instantly scrambling away from him.
+
+"You savage!" She furiously batted at her clothes, coughing as the dust settled over her skirt. "My dress!"
+
+Finally lifting his head, Ben flashed her a wide, entirely unrepentant smile.
+
+"Oops. Basic instincts misfired."
+
+Glaring absolute daggers at him, she stomped her foot angrily in the dirt.
+
+"You are the most aggravating commoner I have ever had the misfortune of encountering!"
+
+"And you're the most helpful noble I've ever met," Ben shot back smoothly, turning his attention back to his open palms. "So tell me, helpful noble. Can you fuse a skill that's already been fused?"
+
+Alice's face twisted in outrage.
+
+I've definitely pushed her past her limit.
+
+"You will not have any more answers from me! Not a single one!"
+
+"Are you sure? I still have a lot of silence to trade."
+
+"You are incredibly childish! And incredibly petty!"
+
+Well, she isn't wrong.
+
+He just shrugged lazily.
+
+Breathing heavily, her face turned an even brighter, furious shade of crimson.
+
+"You cheeky brat!" She took a threatening step forward, her hands balled into tight fists. "I should have your head for that!"
+
+Ignoring her completely, he just focused back again. She was just like that, lashing out at the tiniest of things. This wasn't the first time she was being like this, either.
+
+"You can certainly try." He didn't bother looking up from his hand. "But then who would listen to you complain?"
+
+She let out a frustrated, strangled noise that sounded halfway between a shriek and a growl.
+
+Whirling around dramatically, she marched right back toward the center of the camp, furiously brushing dust off her skirt.
+
+"I am never speaking to you again!"
+
+Sure you aren't.
+
+He knew for an absolute fact she would be back tomorrow to complain about something else entirely. But for now, he finally had some peace and quiet.
+
+So he focused on the fuzzy awareness while his mind wandered to something she'd said.
+
+Am I really that petty and childish?

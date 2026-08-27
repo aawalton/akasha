@@ -1,0 +1,179 @@
+---
+id: cf111aaa-159c-5341-97a6-2abcbf7d751d
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch35: Well Met"
+slug: 0042-b6-ch35-well-met
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 42
+ownLength: 2144
+unit: words
+publishedAt: 2026-03-17
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3163025/b6-ch35-well-met"
+royalRoadId: "3163025"
+---
+
+The last jump had taken Arthur directly into the Rowantree Estate. The world spun around him wildly, and he was so disoriented that he barely registered the dragon’s claws spring open. Arthur hit the floor hard, retching.
+
+His mind screamed to get up, turn around, and rip the card out of the dragon that had brought him here. But he couldn’t really think past trying to keep the contents of his stomach from ejecting. Through watery eyes, he vaguely saw that the room around him was steady, but his inner ear and guts insisted it was spinning wildly.
+
+He lurched to the side awkwardly. All he needed was a touch to activate the effect.
+
+The only thing that seemed to be truly steady were the notifications in front of his eyes.
+
+New Counterfeit spell obtained: In a Blink
+
+Remaining time: 11 Hours, 59 Minutes, 59 seconds
+
+This was an Uncommon card? No wonder the jump had been so rough. He could activate it and get himself to Brixaby, maybe, but considering how bad he felt, blink-teleporting again would leave him completely disabled.
+
+A part of him wondered why Brixaby hadn’t used Counterfeit Siphon to follow him. He must have been out of range when Arthur was first blinked away.
+
+He had to get that card. Arthur flopped toward the dragon and missed. Then, with a whoosh of air, the dragon blinked out for the final time. It was gone, and Arthur was left alone in this large, echoing hall.
+
+No, not a hall, he realized as the world slowly seemed to stop spinning. This had once been a grand gathering space. Feasts and announcements before the people were held here. He had vague memories and impressions of it being even larger—the memories of a child. But he remembered those windows to the right. They’d once provided a sweeping vista of the entire valley. Now they were covered with dirt and grime.
+
+The grand trestle tables were gone, too, as were the richly colored curtains, hangings, and rugs. All was empty and hollow. There had even been a painting of the sky on the ceiling, which had been enchanted by a card power to show clouds scuttling by. Now it sat in darkness. Not enough light got through the grime on the windows.
+
+This hadn’t happened over the course of weeks or even months. This was years of neglect.
+
+What had happened here after his father was banished?
+
+Arthur pulled himself to his feet.
+
+The air smelled of scourge-rot, but it was not nearly as thick as he remembered it being in the captured hives.
+
+Still, there was danger here. The hair rose on his arms and the back of his neck. Something was seriously wrong. Arthur took a couple of stumbling steps forward. Every movement echoed back at him.
+
+He pulled out his kitchen knives, settling them to orbit around him, accessed even more shrapnel from his Personal Space, and even grabbed a javelin, charging the tip with mana. There was no movement in the gathering hall, but Arthur didn’t trust it for a moment.
+
+His wariness bore fruit when he saw a shape moving out of the darkness, just to the side of where large double doors used to be.
+
+Arthur was so jumpy and on edge that he immediately sent the first javelin hurtling toward it, followed by three of his knives and half of the shrapnel.
+
+The shape dodged with liquid, unnatural grace, and as it did, it resolved itself into the form of a man.
+
+Arthur knew who it had to be even before the shadow fully emerged.
+
+Penn.
+
+He was tall and lankier than Arthur remembered, with unkempt hair. The shadows made pits out of his eyes.
+
+Arthur snatched another javelin out of his Personal Space and launched it at him. No hesitation. He aimed for Penn’s heart.
+
+Penn caught it out of the air, spun with the momentum, and threw it back at Arthur. Arthur dove to the side, and it missed him by inches.
+
+Grabbing for a third javelin, he found Penn almost on top of him. Too close to throw, he swung it.
+
+A sword appeared in Penn’s hand. One easy chop lopped the end off the javelin. He made it look effortless.
+
+Arthur threw the rest of his shrapnel. There was too much to duck. Penn raised an arm to shield his face. Some struck, but most clanked right off him. He was wearing armor under his dirty and patched clothes.
+
+The second the storm of shrapnel ended, Penn stepped forward again, rapidly closing in.
+
+Fine. Arthur needed to be within touching distance anyway.
+
+But Penn wasn’t done. The sword seemed to warp in his hands, the pommel twisting into a wooden handle with a chain and a spiked morning star attached to it. He swung the star straight for Arthur’s head.
+
+Arthur activated Phase In, Phase Out and let it pass through him.
+
+He didn’t have many phasings left.
+
+Time card? he thought. No, not yet. That was a last resort.
+
+Girding himself for the dizziness to come, he activated his Counterfeit Siphon and concentrated on the space right behind Penn.
+
+In an instant, Penn was swinging the morning star—but in the next, Arthur wasn’t there. He found himself behind his cousin, and not dizzy at all. That must have been an effect of being the caster instead of a passenger.
+
+Penn was bent slightly forward from the force of his swing. For a single second, Arthur had a clear shot. One touch, and he could rip out Master of Combat.
+
+In that instant, all Arthur could feel was relief. Relief that finally, this would be over. Relief that it was so easy—
+
+Too easy.
+
+Something was wrong. His Master of Skills, Master of Body Enhancement, and especially his Master of Cards didn’t feel a connection to Penn whatsoever.
+
+Instead of reaching out, placing his hand on the back of Penn’s neck, and ripping out his card, he took the more direct route. Arthur tackled his cousin, bringing them both to the ground. The morning star slipped from Penn’s hand and clattered to the floor.
+
+In that moment of contact, Arthur felt something distinctly from his Master of Cards, distantly echoed by Brixaby’s Call of the Void. There was potent card magic, but he couldn’t identify it, and none of it was triggering his Counterfeit Siphon.
+
+In retrospect, tackling a Master of Combat had been foolish. He had no idea how Penn managed to twist from his awkward position, but suddenly, he had Arthur pinned in a wrestling hold.
+
+Penn also wore metal armor beneath his clothes. With a thought, Arthur charged it with his Nice Shot card and flung him back as hard as he could.
+
+Penn grunted as he flew straight backward and smacked against the back wall hard enough to make something crunch.
+
+He slid to the floor, unconscious.
+
+Arthur staggered to his feet, breath heaving and heart pounding as if it were trying to escape his chest.
+
+All of his instincts screamed at him: This isn’t right. Something is wrong. You’re in danger.
+
+Arthur swung around, grabbing yet another javelin from his storage space, peering anxiously at every shadow.
+
+There was nothing.
+
+And yet everything in him insisted that he needed to act now. The fight wasn’t over.
+
+Wait a minute.
+
+Arthur took a deep breath, let it out, and reached for his Meditation skill. He didn’t fall directly into a trance—he wasn’t foolish. Penn could wake again at any moment, or this could be a trick. Or . . . or . . .
+
+He let those thoughts wash through him, focusing on his breathing.
+
+Only then did he realize that the nameless fear and anxiety weren’t coming from him—but from the outside. Somehow, it was strong enough not only to wiggle past his Mental Shield skill but also Brixaby’s enchantments. It was clouding his thoughts and trying to make him react instead of think clearly.
+
+Someone wants me to make a hasty decision.
+
+With that in mind, Arthur walked up to the unconscious man and looked him over. Yes, it was definitely his cousin, though his cheeks were sharper than Arthur remembered, and he looked like he could use a shave, a haircut, and a bath. Given the amount of casual grime smeared on him, the bath should come first.
+
+He could wake up at any moment. Take his cards, end this! his heart shrieked at him.
+
+“No,” Arthur said.
+
+At that moment, there was a crack of displaced air, and the great gathering hall was suddenly filled with a very angry Brixaby. Blood dripped from his claws, and every spine he had was bristled, the look in his eyes frantic—until he saw Arthur.
+
+“You got the teleportation dragon?” Arthur asked, nodding toward his claws. That wasn’t Brixaby’s blood.
+
+“Yes, though it is only an Uncommon. Are you well—who is that?” Brixaby interrupted himself and stepped over to peer down at Penn. “You have defeated him? Take his cards, quickly!”
+
+Holding up a hand in a signal to wait, Arthur positioned himself between Penn and his dragon. “Wait, Brix. First, are Cressida and Joy okay?”
+
+“Of course they are,” Brixaby said, drawing himself up slightly as if offended. “I would never leave them in a vulnerable position during a battle. They have gone for backup, and I ensured no one is in good enough health to follow us. Why have you not secured your victory? He can wake up at any moment. Though, I suppose I am large enough now that I can just step on him . . .”
+
+Brixaby sounded a little puzzled, as if he was also feeling anxious but could not quite figure out why.
+
+Arthur let out a breath and nodded. He pointed to Penn. “I’m almost certain he’s under an illusion. Can your nullification magic dispel it?”
+
+Brixaby opened his mouth as if to argue but then squinted hard at Penn. “There is something there . . . Hmm.”
+
+He moved closer, and Arthur half expected him to breathe over Penn or somehow gracefully extend his natural magic to cover him.
+
+Instead, the dragon snatched the unconscious man up in his claws and shook him back and forth.
+
+Penn snapped awake with a wordless yell, cut short when Brixaby effortlessly dropped him from six feet up. He hit the ground like a sack of wheat, and in that moment, Arthur saw it. He had been under an illusion. The skin visible under the grime and patched clothing was completely covered with glowing runes. It looked as if someone had painted them all over his body. It was strong magic, and they were already starting to fade from view as the illusion began taking over again.
+
+Penn started to get up, but Brixaby, true to his word, simply reached out and pinned him with a clawed hand. The man looked up—and up—and met the unamused face of a dragon who, when he had last seen him, was the size of a bird.
+
+His mouth worked, but he said nothing. No . . . it seemed he was unable to speak. He hadn’t spoken this entire time, and Penn hadn’t been the quietly dignified type.
+
+Another effect of the runes, Arthur guessed.
+
+He looked up at Brixaby, who knew enchanting much better than him. “Which ones do we take off?”
+
+“All of them,” Brixaby said. “I don’t suppose you have any paint thinner?”
+
+“Actually, I have a bucket of mineral-based stuff that’s supposed to help with paint,” Arthur said, reaching into his Personal Space.
+
+Brixaby did a double take. “That was a joke. Why do you even have a bucket of paint thinner?”
+
+“After I got back from training, I realized I hated most of my rooms in the hive. Chester painted them blood red, and the quartermaster suggested— Look, it doesn’t matter. Penn, close your eyes,” Arthur said, then upended the bucket over the man. Paint varnish probably wasn’t very good for someone. Judging by the way Penn spluttered and yelled out in shock and anger, it definitely stung.
+
+Instantly, the runes started to melt away.
+
+Arthur’s quick-beating heart calmed, as did the unspoken need to act now. He noticed Brixaby subtly relaxing, too.
+
+Luckily, Arthur had buckets of water as well. Of course he did. What if he were ever in need of fresh water? Brixaby drank gallons at a time. He hated the waste, but he upended several buckets over his still-spluttering cousin. That helped wash off most of it, and in a cascading effect, once some of the key runes were destroyed, the whole enchantment collapsed along with it.
+
+Finally, Penn took a deep breath, like someone who had just surfaced from deep water.
+
+“You son of a bitch,” he growled up at Arthur. “Why didn’t you just kill me?”

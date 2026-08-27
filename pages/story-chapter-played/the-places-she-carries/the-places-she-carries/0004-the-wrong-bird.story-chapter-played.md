@@ -1,0 +1,446 @@
+---
+id: 04d89ce6-7b97-5a40-828a-d9875c86fcfe
+page-type-slug: story-chapter-played
+title: "The Wrong Bird"
+slug: 0004-the-wrong-bird
+partOf: the-places-she-carries
+position: 4
+ownLength: 6126
+unit: words
+---
+
+She woke to the wrong bird.
+
+Not wrong in the sense of alien or threatening -- wrong in the sense of *not the millwheel*, which was the sound her body expected when it surfaced from sleep, the one it used to calibrate the morning's realness. On the plateau the millwheel ran from before dawn until after dark, a constant, water-driven rhythm that had marked every day of her life. Here the insect chorus had guttered out sometime in the small hours and been replaced by birds -- dozens of them, layered calls and counter-calls that filled the canopy's green silence with a sound like an argument conducted in a language she had not learned yet.
+
+She lay on her back under the tarp and listened to it.
+
+The morning light came through the canopy gap above her in a specific way. Not the flat grey of dawn she knew from the plateau, but a green-gold that had already been filtered through thirty meters of leaf. She could see the individual leaves against the sky -- the ghost-elm canopy in the gap above, each leaf catching the early light at a slightly different angle, so the whole surface moved in small, asynchronous shimmer. Not wind. Thermal updraft from the warming forest floor, invisible, expressing itself in leaf.
+
+She noticed. She let the wrongness register without acting on it. She stayed lying down for another minute and let the wrongness of the morning sit beside her without fighting it.
+
+*Day 2,* she thought. *This is what day 2 feels like.*
+
+It did not feel bad. It felt like something she would have to learn, the way she had learned to sleep through the millwheel's sound in the first place -- an accommodation, a recalibration. Her body had spent sixteen years waking to one world. It would take time to teach it a new one.
+
+She sat up.
+
+The Thornwild was there. It was always there -- not a revelation, just a confirmation. The ghost elms standing in their patient verticals, the fern-bed east of the ridge still holding the night's damp, the camp's cold fire pit unchanged. She could hear Theron's camp, or rather she could hear the absence of it, the way she could hear when sound was being deliberately managed. No chopping. Not yet. But she could smell tea.
+
+She folded her bedroll with the automatic efficiency her mother had drilled into her at age nine ("*If everything in your pack has a place, you spend your energy on things that matter*"), tucked it into her pack in the order she had worked out on the descent -- heaviest things against her back, softest things outward, the things she might need quickly in accessible pockets -- and walked toward the smoke she couldn't quite smell yet but knew was there.
+
+---
+
+Theron was at the fire.
+
+He had rebuilt it from the previous night's coals, something Wren had not known was possible without fresh kindling -- but he had done it, arranging the coals just so and adding a single carefully chosen piece of hardwood that caught without fuss. The clay pot sat above it. He held a cup and looked at the fire.
+
+He did not look up when Wren stepped into the clearing, which she took as permission to be present without announcement. She found the flat stone she had sat on the night before and sat on it.
+
+Hadley was not here yet. She could hear him, distantly -- a one-sided conversation with the forest or possibly himself, the words not carrying but the rhythm of them clear, that same unpausing flow that needed no response to continue. He was somewhere east of the ridge.
+
+Theron poured a second cup. He set it on the flat stone beside her without looking at her or speaking.
+
+The tea was the same as last night's -- the thornwild sage, sharp and grounding, the smell of it clearing something in the back of her throat that she had not realized needed clearing. She cupped her hands around the clay and drank and watched the fire.
+
+"You slept," Theron said. Not a question.
+
+"I did." She had expected not to -- new place, unfamiliar sounds, the slight disorientation of the compass's deviation pressing against her navigation instincts even in sleep. But she had slept. The Warden's Shelf had been there in her chest, cool and steady, and the forest had breathed around her, and she had simply -- slept. "The insect chorus woke me before the birds did."
+
+"That means the night was dry." Theron looked at the canopy. "Mist would have kept it going longer."
+
+She tucked that away. *Insect chorus duration is a weather indicator.*
+
+They drank in silence for a minute. The fire settled. A bird called in the upper canopy -- one of the layered morning calls, a kind she had not identified yet, three short syllables descending. She listened to it repeat. Three syllables. A pause. Three syllables.
+
+"What's the bird?" she said.
+
+"Basin thrush. Calls from the upper branches. You won't see it -- it stays high." He looked at the canopy. "It calls in threes when the weather is steady. When it calls in fours, check the sky."
+
+She wrote that in the margin of her mind, next to the insect chorus entry. *This is what his knowledge sounds like,* she thought. *Short. Functional. No explanation offered until asked.* She understood the language now, or was beginning to. Theron communicated in the format of a field note, not a story. He was telling her things that were true, not things that were interesting, and he expected her to tell the difference.
+
+"I'm going to go south today," she said. "As far as feels sound."
+
+Theron looked at the fire. "The woodland thins about a mile south of here. There's a fen at the basin floor -- the Ashbrook comes through it. The Rimfolk call it the Mudgrass. Good water. Plants you won't find in the transition woodland." He paused. "Paths change faster there. The limestone shifts. Mark your landmarks."
+
+"I'll sketch them."
+
+"Better." He stood, took his cup, and moved toward his lean-to. He stopped in the lean-to's mouth without turning. "Hadley will want to come. He has gathering to do in the fen. Let him. He knows the Mudgrass."
+
+It was not phrasing as a suggestion.
+
+"I'll let him," Wren said.
+
+---
+
+Hadley materialized from the eastern ferns at a pace that suggested he had been watching for the moment she stood to leave. He was carrying the same root as yesterday -- or possibly a different root, she could not tell, they all looked like roots -- and his boots were already muddy.
+
+"I heard you're going to the Mudgrass," he said, falling into step beside her before she had taken three paces south of the camp. "I have to gather mirewillow bark anyway, Theron uses it for the sealant he puts on the lean-to frames, and the bark's only good in late morning when the sap's not running yet, which gives us about two hours before it's too late, so we should move, but also --" He held up the root. "This is a different root. I found it an hour ago. It's from a ghost-elm but the spiral is counter-clockwise. I've never seen a counter-clockwise spiral. I have been thinking about it all morning."
+
+Wren looked at the root. It was pale, thumb-thick, trailing soil. The filament pattern spiraled left where every other ghost-elm root she had seen spiraled right.
+
+"Counter-clockwise," she said. "Where did you find it?"
+
+"East of the ridge, about forty paces. There's a small ghost-elm there, younger than the others. I almost didn't dig it up because I was looking for something else. The tree looks normal from above -- same bark, same hum, same everything. It's only underground that it's different." He looked at the root. "What would make a ghost-elm grow its roots the wrong way?"
+
+"I don't know." She was looking at it. [Wayfinder's Eye] was quiet -- not shimmering, not indicating. The root was interesting, but it was a detached thing now, removed from its context. "Can you show me the tree tomorrow? I'd want to see the roots in situ."
+
+"*Yes,*" he said, with a conviction that suggested this was the only correct answer anyone had given him all morning.
+
+They walked south.
+
+---
+
+The transition woodland changed as they moved.
+
+Wren had been paying attention since she entered it yesterday, building the map in her head that her hands would eventually commit to paper. The oaks and ash had thinned first, she had noted that -- ghost-elms becoming dominant by the half-mile mark. Now, a mile south of the camp, the ghost-elms themselves were changing. Taller, she thought. Or not taller -- the canopy was at the same height -- but their trunks were larger, older, the bark's silver-green deepen to something more grey. She pressed her palm to one as she passed. The hum was lower. Different note. A ghost-elm's pitch decreased with age, she filed, or perhaps with girth. She would need more samples to say which.
+
+"The older trees sound different," she said aloud.
+
+Hadley, who had been delivering a discourse on the counter-clockwise root to the forest generally, paused. "Theron's always said the oldest ones have the deepest voices. He doesn't think about it much -- he knows it the way he knows everything, by feel, not by -- he doesn't explain things, he just knows them. But you could be the one who explains it."
+
+"I can try."
+
+"That would be good." He said it simply, without flattery. "Theron knows everything about the upper basin. He just can't tell you *why* it's that way. He can tell you the bark sealer recipe in his sleep, but he can't tell you why the mirewillow bark is the active ingredient rather than the wood. He doesn't -- he doesn't need to know why. He needs to know *how.*" A pause. "I need to know why. It's annoying for both of us."
+
+Wren understood something about Hadley then: he was not asking her to explain things for his benefit alone. He had been sitting on unanswered questions for years, in a camp with a man who did not ask questions, and the presence of someone who did was a relief he had not yet found words to express. She was not the answer to his questions. She was another person willing to be confused alongside him.
+
+"Let me know when you find something you can't explain," she said. "I'll add it to the list."
+
+He grinned without looking at her. "The list is already long."
+
+---
+
+She found the silvervein moss forty minutes south of the camp.
+
+[Wayfinder's Eye] shimmered first -- a warm, greenish pulse on the base of a ghost-elm trunk about ten meters east of the path they were walking. She stopped. Hadley stopped two paces later, mid-sentence, and turned to follow her gaze.
+
+"What?"
+
+"Something." She moved toward it.
+
+The moss grew in the root flare at the base of the trunk, in the curved concavity where the roots met the soil. It was delicate -- not the robust, spreading kind she had seen on the escarpment ceiling, but a fine-textured mat, close-growing, the individual fronds barely a centimeter tall. The color was wrong for moss. Most moss was green, the universal color of chlorophyll and water. This was green too, but with a threading of silver through it -- actual silver, or something close, the filaments catching the filtered light in a way that separated them from the green base and made the whole mat look like green fabric shot through with metallic thread.
+
+She crouched. Up close, the silver threads were not uniformly distributed. They followed lines. Not random lines, not the branching veins of a leaf, but something more regular -- parallel tracks, following the direction of water flow down the root surface, collecting where the flow concentrated and sparse where it dispersed.
+
+"Silvervein moss," Hadley said, at her elbow. He had crouched beside her without her noticing. "Hesta sells it in Millhaven. Did you know that? Theron gathers it sometimes, sends it upslope. It's a medicinal plant -- Hesta makes a salve from it. Something about the silver threads. I've never been sure what."
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY LOGGED
+  Location: Upper Basin — Transition Woodland
+  Type: Flora Identification (Medicinal Property)
+-------------------------------------------------------------
+
+  Silvervein moss (*Argentum frondis*, Rimfolk name:
+  "wire-thatch"). Silver threads visible in the fronds
+  are structural filaments that conduct and redistribute
+  water along root surfaces.
+
+  Grows in the root flare of mature ghost-elms only.
+  Appears to depend on the ghost-elm's resonance for
+  spore activation -- has not been successfully
+  cultivated off-host.
+
+  Medicinal application: raw fronds heated in water
+  produce a gel with tissue-repair properties.
+
+  +35 XP
+  Identification: +3 proficiency
+  Herbalism: activated (first use)
+-------------------------------------------------------------
+```
+
+The notification settled in her awareness. A new skill activated -- Herbalism -- and she felt it less as a change and more as a naming. She had known what to do with the moss before the System told her. She had known it the way she knew how to hold a pen or read a topo-mark, from watching Hesta's hands at the supply post counter, from the afternoons she had spent in the back room learning the names of things that came off the plateau roads and into Hesta's jars.
+
+*Heat it in water.* Hesta's voice, from somewhere in her memory. *Not boiling. You'll kill the active component. Hot enough to open the structure, not hot enough to cook it.*
+
+She looked at her blister. It had developed yesterday, the third hour of walking, where the pack strap crossed her collarbone at an angle slightly wrong for her frame. She had compensated her stride without noticing, which was why her left shoulder had been pulling by evening.
+
+"Can I take some?" she asked Hadley.
+
+"Theron gathers it selectively. Take what you'll use, leave the rest." He looked at the mat. "That's the formula. Always that formula."
+
+She gathered a small fistful -- less than a quarter of what grew at this root flare, leaving the mat visually intact. The moss was cool against her palm. The silver threads were finer than she had thought, almost hair-thin, and where they lay against her skin she could feel them, not as texture but as temperature, faintly cooler than the green fronds around them. Something conducting heat away.
+
+She tucked the moss into the side pocket of her pack, in the cloth she had brought for exactly this purpose without quite knowing she had brought it for this purpose. Another thing her mother had insisted on.
+
+---
+
+The fen arrived without announcement.
+
+One step the forest floor was its usual composite of soil and leaf and root lattice, and the next step Wren's boot sank an inch into mud that she had not seen coming. She pulled her foot free with a sound the forest should have been embarrassed by and stepped sideways onto a ridge of root.
+
+Hadley was already past her, moving through the fen's margins with the specific technique of someone who had learned it by immersion: small steps, weight distributed, reading the ground's color rather than its texture. Dark patches were soft. Lighter patches were firmer. He moved in a series of small arcs that kept him on the lighter ground without him appearing to look for it.
+
+"Watch the color," he said, not looking back. "Dark means water. Light means root."
+
+She watched the color. She moved in small arcs. Her boots got muddy but not soaked.
+
+The fen opened ahead of her.
+
+It was not what she had imagined. She had pictured a bog -- flat, featureless, dark water. This was not flat. The ground rose and fell in subtle hummocks, each hummock crowning with a distinctive plant: narrow-leaved, knee-high, with stems that were almost white at their base and faded to green at the tip. Between the hummocks, the water was not water-colored -- it was pale amber, the color of watered-down tea, with a faint shimmer on its surface that was not quite reflection.
+
+The smell was different here. Not the Thornwild's pervasive sweetness -- that was still present, layered underneath -- but over it, a green, sharp, living smell that caught the back of her throat differently. Not unpleasant. Rich in the way that compost is rich, in the way that river mud after rain is rich. The smell of things breaking down to become other things.
+
+The Ashbrook was here. She could hear it before she could see it -- a sound different from the plateau river, from the wide, slow current she had heard from her father's notes and from the supply post porch in autumn when the water was high. This was the same water, technically. The same snow-melt and limestone-filtered source. But it had done something between there and here. It had split. She could hear two currents, maybe three, moving at different velocities, and when she pushed through the mirewillow stand that screened the nearest channel she found it: a braided stream, barely a meter wide, running amber-clear over a gravel bed that was not quite gravel but something whiter, finer.
+
+She stopped at the bank.
+
+The river looked like her father. That was irrational, and she knew it, and she thought it anyway. It had his quality of attention -- moving steadily without drama, observing everything it passed through without comment, doing its work without any requirement to be noticed. Callum Galley measured this river every spring and every autumn, noted its height and clarity on a chart that went back forty years. He had dropped his compass into it once, at a ford he knew well, because he had been looking at the western bank instead of his footing. He had told her that story as an example of how distraction worked.
+
+She felt the Warden's Shelf in her chest.
+
+It was fainter today, more distant -- the miles between her and the physical ledge adding up, attenuating the echo. But it was there. The stone's steadiness. The curved ceiling. The rowan's roots. It was there the way the millwheel was there in her bones, the way her father's voice was there when she needed it, a kind of structural presence that didn't require attention to exist.
+
+She reached into her pack for her journal.
+
+The letter was there.
+
+She had written it last night, in the starlight through the canopy gap. *Dear Mum and Dad.* She had folded it and slid it into the journal cover and then she had lain back and listened to the insect chorus and thought about the ghost-elm hum and the root spirals and the Crying Forest and she had not thought about the letter at all until this moment.
+
+The letter was there. She had written it. She had not given it to Hadley.
+
+She stood at the river's edge and looked at the braided channels and thought: *I forgot.* Not with guilt, exactly -- guilt required an act of will, a choice to neglect. This had not been a choice. It had been the Thornwild arriving so completely, so specifically, so *loud* with things to notice that the letter had simply slipped out of the front of her mind. She had written it and then she had been absorbed, and the letter had sat in her journal all night while she slept and all morning while she walked and she had not once thought *I should give this to Hadley.*
+
+*Oh,* she thought. *There it is.*
+
+She looked at the Ashbrook. She thought about her mother's face -- Sera, who ran the supply post with the efficiency of a person who had accepted that efficiency was love, who had packed Wren's provisions with the specific care of someone who could not say *please come back* without crying. She thought about her father's hands on the compass. His second-best compass, the brass worn smooth where he had held it for thirty years.
+
+She pulled the letter from the journal. She put it in her shirt pocket, close, where she could not forget it was there.
+
+*Give it to Hadley when you get back,* she told herself. *Today. Before dinner.*
+
+Then she opened her journal to a fresh page and started sketching the river.
+
+---
+
+She made the salve by the river's edge.
+
+Hadley was twenty meters upstream, harvesting mirewillow bark with the decisive, economical cuts of a gatherer who had done this before. The bark came off in long strips that he rolled without looking, tucking them into the satchel at his hip, moving down the bank from tree to tree with the rhythm of someone in good thought. She could hear him thinking -- the soft, non-word sounds of internal processing -- and understood that he was giving her space without making a point of it.
+
+She had no clay pot. She had a tin cup, which was close. She had a small spirit lamp that folded to the size of her fist, which her father had told her was excessive weight and which she had packed anyway because she believed in excess heat. She filled the cup from the clearest channel, the one running over white gravel, and set it on the lamp and watched it.
+
+*Not boiling,* Hesta had said. *Hot enough to open the structure.*
+
+The water reached the temperature where steam appeared without bubbling. She placed the silvervein moss in, using her thumbnail to tamp it down. The silver threads caught the light from the lamp, then dimmed as the water covered them. She waited. The moss released something -- not color, the water stayed amber-clear from the river tint, but the smell changed, a slight sharpening, a green-metal note that settled on the back of her tongue.
+
+Two minutes, she thought. She had nothing to base this on except Hesta's hands moving at the right pace and the general principle that tissue repair required heat activation, not sustained cooking.
+
+She pulled the cup off the lamp at two minutes. The moss had expanded slightly, the fronds opening in the heat. She used a folded corner of her notebook to press them against the cup's side, squeezing gently until the water had a faint greenish tint and the moss mat was consolidated against the metal.
+
+The gel that clung to the cup's side was thin, barely visible. She pressed a finger to it and felt the texture: cooler than the tin, denser than water, with the faint structural resistance of something that had thickened slightly but not set. She thought about the blister, about the pack strap, about the way she had compensated her stride yesterday without deciding to.
+
+She applied the gel to the blister.
+
+The effect was not dramatic. It was not instant. It was the sensation of something she had not known was irritated becoming less irritated -- a small, specific relief that located itself precisely at the blister site and did not spread further. The inflammation eased the way inflammation eases when you actually let it rest instead of walking on it, but faster, and without the rest.
+
+```stat-screen
+-------------------------------------------------------------
+  CRAFTING RECORD
+  Item: Basic Silvervein Salve (crude grade)
+  Materials: Silvervein moss (fresh), river water
+  Method: Moderate heat extraction, 2 minutes
+-------------------------------------------------------------
+
+  Tissue repair: minor (surface abrasion, blistering)
+  Duration: 4-6 hours
+
+  Quality ceiling: 45/100 (limited by DEX 8, FOC 8)
+  Actual quality: 38/100 (first preparation)
+
+  +30 XP (new recipe)
+  Herbalism: +4 proficiency
+  Crafting (general): +2 proficiency
+
+  ACHIEVEMENT UNLOCKED: FIRST CREATION
+  You have made your first thing.
+  Reward: +1 DEX (permanent)
+
+  "Making something requires understanding what it
+   is made of. You have begun."
+-------------------------------------------------------------
+```
+
+The achievement notification arrived with a warmth she had not expected. Not the cool efficiency of a discovery log -- something more personal. She read the quoted line twice, the way she had read *The world is full of places that have never been properly met* on the Warden's Shelf, because both lines felt addressed to her specifically and not to a general class of Wayfinders.
+
+*Making something requires understanding what it is made of.*
+
+She looked at the crude salve she had produced with a tin cup and guesswork and an imperfect memory of a woman's hands. She looked at the blister, which had quieted. She thought about Hesta's supply room, the rows of small ceramic jars, the labels in Hesta's cramped hand. She had been watching Hesta work for years without understanding that the watching was a form of gathering.
+
+She made a note in her journal. Not the stat screen contents -- she had those -- but the texture of the experience. *The gel needs to be thicker. The moss should steep longer, maybe three minutes. I held the temperature too low -- need more practice judging "not boiling." The quality ceiling is probably my hands, not the recipe. Dexterity is a skill as much as a stat.*
+
+Then, because the +1 DEX had arrived along with the FIRST CREATION notification, she updated her internal stat record with the precision that her father had taught her: write it down before you forget, because memory is a resource that depletes like any other.
+
+She was still writing when the compass moved.
+
+---
+
+She had the compass out of her coat pocket without deciding to -- a habit, a reflex, the way she checked north when she was somewhere she could not orient by landmarks. The compass sat in her palm, brass warm, the needle swinging to its usual five-degree oscillation.
+
+Then it pulled.
+
+Not oscillated. Pulled -- a clear, directed lean in the needle that was not the Thornwild's magnetic deviation, was not compass error, was not anything she had experienced before. The needle wanted south. Not magnetic south, not the suggestion that passed for north down here. It wanted something to the south, something specific, and the wanting was so distinct and so directional that she picked up her head and looked.
+
+Trees. The fen's edge, mirewillow stands, amber water threading through the hummocks. Nothing visible.
+
+```stat-screen
+-------------------------------------------------------------
+  CLASS ABILITY UPDATE
+  [Lay the Path] — Compass Sensitivity
+  Unlocked at Level 3 (1 of 3)
+-------------------------------------------------------------
+
+  Your father's compass has attuned to your class.
+  It now responds to undiscovered features within
+  your [Wayfinder's Eye] detection range with a
+  directional lean.
+
+  Current pull: SSW, approximately 200m.
+  Feature type: unknown.
+
+  The pull fades at 200m distance or upon discovery.
+-------------------------------------------------------------
+```
+
+She stared at the notification for a full three seconds.
+
+Level 3. She had reached Level 3, somewhere between the moss and the salve and the river sketches, accumulated in the gaps between attention. And the first thing the level had given her was not a new stat block or an unlocked skill -- it had given her *the compass.*
+
+Her father's compass.
+
+She turned it over in her palm, the brass warm and smooth. He had used this for thirty years. He had dropped the first one in this river and bought a second one at Millhaven's one instrument shop and used it for thirty years more. He had checked north the way other people checked the time -- reflexively, frequently, building a continuous record of where he was in relation to where he had been. And now the compass was pointing at something two hundred meters to her southwest that she had not found yet.
+
+*Callum Galley gave you the tool for finding roads,* she thought. *The System has made it a tool for finding the things that aren't on any road.*
+
+She felt something tighten in her chest -- not the Warden's Shelf, which was its own quiet presence, but something else, above and around it. Something that was her father's hands on her shoulder at the Naming Day, the specific weight of his approval when he did not say much but meant it all.
+
+She stood. She oriented herself by the compass's pull. She looked SSW.
+
+"Hadley," she called.
+
+He appeared from behind a mirewillow stand, strips of bark in his hands, looking alert. "What? Did you find something?"
+
+"I'm going to find something." She showed him the compass. The needle was still pulling, steady and clear, a direction rather than a deviation. "My class upgraded the compass. Two hundred meters south-southwest. Do you know what's there?"
+
+Hadley looked at the compass, then at the treeline, then back at the compass. His face was doing the cataloging thing -- rapid assessment, forming the report aloud.
+
+"South-southwest from here puts you at the edge of the deep mirewillow stand, and beyond that --" He paused. "There's a pool. A deep one. Theron calls it the Eye. He's never -- he doesn't go there. He doesn't say why. He just doesn't."
+
+Wren looked at the compass.
+
+The needle pulled.
+
+"Is it in the five-mile boundary?" she asked.
+
+Hadley calculated -- she could see him doing it, mapping distance in his head. "At the boundary. Maybe just inside."
+
+She checked her position in the mental map she had been building since the camp. Landmarks noted. Route clear. Return straightforward if she tracked backward along the Ashbrook channel. She had two hours of good light. She had the compass. She had the Warden's Shelf in her chest, steady as always, a reference point that corruption and disorientation could not touch.
+
+"Come with me," she said.
+
+He tucked the bark strips into his satchel without question and fell into step at her side.
+
+---
+
+The pool was not dramatic.
+
+That was the first thing she noticed: it was understated, in the way the best places often were. No dramatic clearing, no light falling in a shaft, no sense of stage-set. Just the mirewillow stand ending at a particular point, the ground firming slightly underfoot, and then the water -- dark, still, not amber-clear like the Ashbrook channels but a deep green-black that reflected the canopy above it without distorting it. The pool was perhaps fifteen meters across. Its edges were overgrown with a dense green-grey plant she did not recognize, something between a reed and a fern, tall enough to reach her shoulder. The surface was unbroken. Not a ripple.
+
+[Wayfinder's Eye] was not shimmering. It was not pulsing, or singing, or doing any of the things it did when it found a discoverable feature. It was *focused* -- a quality she had not felt before, a sustained, high-intensity attention that was not the eye's usual surface sweep but something deeper, like the difference between glancing at a room and standing in it long enough for it to become familiar.
+
+The pool looked at her.
+
+She did not say this aloud. She kept it.
+
+"What do you feel?" Hadley asked, at her shoulder. His voice was low. Not frightened -- calibrated. He was matching the pool's register, which was quiet.
+
+"Nothing threatening," she said. "Nothing wrong." She thought about Theron. *He doesn't go there. He doesn't say why.* She looked at the pool's surface, at the canopy reflected in it, at the total stillness that should have been eerie but was not. It was held stillness. Deliberate. "I think it's waiting."
+
+"For what?"
+
+She looked at the compass. The needle was still, for the first time since the upgrade. The pull had ended. She had arrived where it pointed.
+
+"For someone to notice it properly," she said.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY LOGGED
+  Location: Upper Basin — Ashbrook Fen
+  Type: Location (Significant Feature — Unbonded)
+-------------------------------------------------------------
+
+  The Warden's Eye: a still pool at the fen's deep
+  margin, approximately 15m diameter. Water clarity:
+  opaque at depth. No surface disturbance recorded
+  in any Rimfolk documentation.
+
+  [Wayfinder's Eye] detects latent resonance.
+  Bond potential: MEDIUM (requires sustained observation
+  to unlock; current depth of understanding insufficient).
+
+  This location has not been properly met.
+
+  +60 XP (significant location, bond potential)
+  Resonance Sensing: +4 proficiency
+  Pathfinding: +2 proficiency
+-------------------------------------------------------------
+```
+
+She read the notification. *This location has not been properly met.*
+
+She looked at the pool. It looked back -- or did not, because pools did not look, but she was learning to trust the feeling when it arrived through [Wayfinder's Eye], and the feeling was unmistakably bilateral. The pool existed. She had noticed it. Something in the noticing had registered.
+
+"Not today," she said, mostly to herself.
+
+"No?" Hadley asked.
+
+"I need more time here to understand it." She was thinking about the Warden's Shelf -- the hour of attunement, the deliberate sitting, the sustained attention that was something qualitatively different from merely looking. She was not ready to do that for this pool. She did not know it yet. "I'll come back."
+
+She crouched at the pool's edge and sketched its outline in her journal -- the shape of it, the surrounding plants, the position of the Ashbrook channel relative to it, the compass bearing from the camp. She noted the color of the water, the stillness, the height of the reed-ferns at the margin. She noted what she could not measure: the sense of attention, the quality of the Eye's response, the pool's unexplained significance to the Rimfolk who had named it and then avoided it.
+
+She marked it on her nascent map with a circle and a question mark.
+
+Then she stood, tucked the journal into her pack, and looked at Hadley.
+
+"We should head back," she said. "Before the light changes."
+
+He was quiet for a moment -- unusual for him. He looked at the pool with an expression she had not seen from him before, something more careful than his usual rapid assessment.
+
+"My grandmother knew this pool," he said. "She told me once that the Rimfolk used to come here on the seventeenth day. The same cycle Theron told you about -- the Crying Forest. On the seventeenth day, the Rimfolk gathered at the pool." He paused. "She didn't say why. It was before she came upslope to Millhaven. She said the pool was where the forest was most itself, whatever that means." He looked at Wren. "I think it means something now that you're here."
+
+Wren looked at the pool. The Eye did not shimmer. It held.
+
+*Seventeenth day,* she thought. *The cycle. The Crying Forest and this pool.*
+
+She turned for home with the knowledge settling into place.
+
+---
+
+She gave Hadley the letter at the camp's edge, just before the fire pit, in the last amber light that made it down through the canopy.
+
+He took it with both hands, the way she had learned he took things that mattered -- carefully, not reverently, but with the specific attention he gave to roots he had just dug up and wanted to keep intact. He looked at the address. *Mr. and Mrs. Galley, Millhaven Supply Post, the Plateau Road.* He folded it once more along the existing crease and tucked it into his satchel.
+
+"Twice-monthly run," he said. "Next one is six days. I'll take it."
+
+"Thank you."
+
+He looked at her with his restless eyes, which were briefly still. "You forgot to give it this morning."
+
+She did not deny it. There was no point in denying it to Hadley, who cataloged everything and noticed more than he often let on. "I did."
+
+"Because of the moss?"
+
+"Because of -- all of it." She gestured, a small motion that meant the transition woodland and the river and the pool and the compass and the salve and the sixty experience points and the whole accumulating specific weight of a forest that had opinions about everything. "I forget things. When I'm paying attention to other things. I forget."
+
+Hadley considered this. He looked at his satchel, where the letter now lived alongside the mirewillow bark and the counter-clockwise root and whatever else he had gathered today.
+
+"Theron says that too," he said. "That you get absorbed. He watched you go south this morning." He paused. "I think he's trying to decide if it's a problem or a talent."
+
+"It's both," Wren said.
+
+Hadley nodded as if she had confirmed something he had already suspected. "I'll ask him what he decides. He'll tell me in four words, but I'll figure out the shape of it." He started toward the camp. "Dinner in half an hour. Theron found young ghost-elm fungi in the morning. They're nothing like regular mushrooms. You'll need to know that before you eat them."
+
+She followed him into the camp, where the fire was already going and the clay pot was on the stone and the Warden's Shelf sat behind her breastbone like a lamp she was carrying into an unknown room, warm and present and entirely hers.
+
+She was home enough. For now, she was home enough.

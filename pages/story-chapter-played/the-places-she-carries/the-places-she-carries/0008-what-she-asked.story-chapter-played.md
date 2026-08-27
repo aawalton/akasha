@@ -1,0 +1,312 @@
+---
+id: cc8f9789-c15b-5f86-9481-5417b3a42ff9
+page-type-slug: story-chapter-played
+title: "What She Asked"
+slug: 0008-what-she-asked
+partOf: the-places-she-carries
+position: 8
+ownLength: 4234
+unit: words
+---
+
+On Day 9, Wren asked her question.
+
+She had been waiting for the right shape of the asking. She had been certain since Day 7, when she had written in her journal: *What happens to a dormant place during a pulse? What does the Eye do that night?* The questions were there.
+
+The shape arrived in the morning, after the insect chorus faded and the birds had begun. Nine days. The number was close enough now to have weight in her chest when she thought about it, a physical awareness rather than a notation in a margin. She found Maret at the fire's south side, the clay cup in both hands, watching the smoke go up through the canopy.
+
+"I need to ask you something," Wren said.
+
+Maret looked at her. The long assessment -- not the cataloging look, something different. Slower. "About the pulse."
+
+"About what happens during a pulse. To places that are bonded."
+
+Maret was quiet for long enough that Wren had time to doubt the ask. Then she set her cup down on the flat stone beside her and said: "I'll tell you what I know. Some of what I know is from the oral record. Some of it is from watching."
+
+She picked the cup back up.
+
+"And some of it," she said, "is from losing someone to it."
+
+---
+
+The Rimfolk called it the holding.
+
+Maret did not call it a horror. She called it the cost of going deep without going carefully -- the distinction she made between depth and speed, the way she separated a Wayfinder who takes ten days to understand a place from one who rushes to the bond in two. She told it as a story, in the oral historian's mode: a specific person, a specific place, a specific night.
+
+A gatherer named Fell. A fen in the basin's southern reach -- not the Eye, but something of the same ecological family, a slow-water place with a long memory. Fell had been bonding the fen for three months, working steadily toward Familiar depth, which for a Rimfolk gatherer with a strong Elemental attunement was not unusual for a sustained season in one basin. The bond was deep. Fell understood what the fen was.
+
+The pulse came on Day 18 of that cycle. Fell was at the fen when it happened -- not by accident, by choice. She had wanted to be present, to understand what the pulse did to a place she knew. The corruption passed through. The fen's deep core shuddered and was still. Fell was still too.
+
+"The bond held at full depth," Maret said. "When the corruption wove through the pulse, it wove through everything -- the fen's resonance, the bond, the space between. And when it cleared, Fell and the fen were not two things joined. They were one thing that could not separate."
+
+Wren kept her face still.
+
+"Not dead," Maret said. "Not in pain, as far as we could tell. Fell speaks in present tense about things that happened three centuries ago when the fen does. She goes where the fen goes. When the water table drops, she feels thirsty. When the pulse comes, she weeps with the forest." She picked up her cup again. "She is still alive. She is not unhappy. She is not a person anymore, exactly, but she is not lost."
+
+"How long ago?"
+
+"I was twenty-three," Maret said, which was not an answer to the question Wren had asked and was an answer to the question she had meant.
+
+The fire cracked. A bird moved through the high canopy -- not a song, just passage. Wren sat with it.
+
+"I have four active bonds," she said.
+
+"I know."
+
+"Two of them are in a cluster. The cluster nodes are at Varethen, where the corruption has already breached the ghost-elm perimeter." She kept her voice level. "One of those nodes is dormant."
+
+"I know," Maret said again.
+
+"So."
+
+Maret looked at her. "So you are asking me if you should be elsewhere on Day 18."
+
+"I'm asking what you know about risk factors. About what made the difference between a bond that held after the pulse and one that didn't."
+
+Maret was quiet for a long time. Long enough for the fire to settle and the morning light to shift. Then she said: "Fell was at the fen. Present. The bond was at Familiar depth -- that is the second threshold, past Glimpsed, not yet Known. The corruption passed through while she was in contact and the bond was fully open."
+
+She looked at Wren.
+
+"You are at Glimpsed in all four bonds. That is the first threshold -- the shallowest named depth. The bond is present, not immersive. The corruption would have to work harder to find the channel through."
+
+"But it could."
+
+"Everything could," Maret said. "The relevant question is whether you go to ground or whether you stay and pay attention. Fell made a choice. Her choice was not wrong -- she wanted to understand, and she understood. The cost was what it was."
+
+She picked up her cup and drank.
+
+"Pay attention to what changes," she said. It was the same advice she had given about the Thornwild, worded the same way. Wren did not think this was coincidence.
+
+---
+
+She did not go to Varethen that morning.
+
+She went instead to the camp's northern edge, where the ghost-elm grove began, and she stood at the margin and listened.
+
+The grove had been humming since Day 6 or 7 -- not sick, but different. She had noted it and set it aside and not yet had a framework for what it was. Now, with Maret's words about the pulse sitting in her chest, she listened with the specific quality of attention that came from knowing something was there and not yet knowing what it meant.
+
+The hum was lower than it had been. Not quieter -- lower in frequency, a shift toward a register she felt more in the sternum than heard in the ear. The ghost-elms were resonating in a different key. As if they were tuning for something. As if the grove knew what was coming and was adjusting its structure in preparation.
+
+She thought: *bracing.*
+
+The trees were bracing. The way a joint locks before impact. The way a structure settles its weight before a load arrives. The ghost-elm network -- the resonance that ran through root and root-to-root contact across the entire grove -- was stiffening into something denser, slower, more deliberate.
+
+She held her compass level and swept it slowly through the grove's margin. The bond-potential shimmer from the [Wayfinder's Eye] played across the trees' bark in the grey-green light: good shimmer, healthy shimmer, the living trees doing what living trees in the Thornwild did. But the texture of the shimmer was different than it had been on Day 5, when she had first stood here. Denser. Packed closer to the bark rather than radiating outward.
+
+The grove was holding itself in.
+
+```stat-screen
+-------------------------------------------------------------
+  OBSERVATION LOGGED
+  Location: Warden's Eye — Ghost-Elm Grove Margin
+  Type: Ecological (Resonance Shift)
+-------------------------------------------------------------
+
+  Ghost-elm network resonance frequency: shifted lower.
+  Bark-shimmer texture: compressed, inward. Bond-potential
+  readings within normal range but directionally inward
+  rather than ambient.
+
+  Assessment: pre-pulse structural adjustment. Grove
+  network bracing against approaching resonance event.
+
+  Environmental Reading: +3 proficiency
+  Resonance Sensing: +2 proficiency
+-------------------------------------------------------------
+```
+
+She read the notification twice. *Resonance Sensing: +2 proficiency.* She had seen the skill listed before, somewhere in the early readings. The System had been tracking something she had been doing without her naming it. The System had been tracking something she had been doing without naming it.
+
+She let the observation settle. Went back to camp.
+
+---
+
+Theron was at the ruins when she passed by them on her way back.
+
+She almost didn't stop. She had been moving with purpose, the grove observation and the Resonance Sensing notification still sitting fresh, the need to feel the bond network at camp pulling her forward. But she saw him standing at the central clearing -- not surveying, not working -- and she stopped.
+
+He was standing still in the way he stood still when he had arrived at something rather than when he was waiting for it. His back was to her. He was facing the well. The clearing was in morning light, the ghost-elm canopy opening above it into a column of pale sky, and in that light the ruins had the quality of places that have been looked at for a long time: worn smooth by attention even though the stone itself was rough.
+
+She did not go in. She did not want to interrupt.
+
+She heard him speak quietly. Not to her -- she was outside the clearing's edge and he hadn't turned. A few words in a language she did not know, the Rimfolk cadence she had heard in Maret's oral-history register but quieter, more interior. Names, she thought. Just names spoken into the air of the place that should have held them.
+
+Then he was quiet again. He stood that way for another minute. Then he turned, unhurried, and saw her at the edge.
+
+"You were at the grove," he said.
+
+"The resonance has shifted. They're bracing."
+
+He nodded. Not surprised. He began to walk back toward camp and she fell into step beside him and for a while neither of them said anything.
+
+"She told you," he said, eventually. Not a question.
+
+"About the holding. Yes."
+
+He looked at the ruins as they passed the threshold stone. The south-east glance -- toward Varethen, toward the weight of it. "Maret has been carrying that story for a long time."
+
+"I know."
+
+"She doesn't give it often." He paused. "The fact that she gave it to you -- that is also information."
+
+Wren thought about that. About Maret's "she'll tell me when she's ready" and the specific way she had said it, not about Hadley but about something else entirely. About the careful portions of the oral history and what was still being withheld.
+
+"Information about what?" she asked.
+
+But Theron's attention had moved back to the ruins -- to the north wall, to the east structure's ankle-high remnants. He was assessing something. She recognized the look: the practical mind of a man deciding whether something could hold. "The east slab," he said. "The one the ghost-elm roots are bracing. That could survive a winter, with the roots where they are. Longer than I thought."
+
+He said it the way he said things that were not quite announcements -- as observation, as a weight placed quietly on a scale. Not a plan. An assessment. The beginning of one.
+
+She did not press the earlier question. She had EMP enough to know when a door had been opened and when it had been closed. He had opened it and then moved past it. She filed it as the first door. She would come back to it.
+
+---
+
+Maret was gone from the fire by the time they returned to camp. Hadley was in the fen's margins, doing something with his notebook and the stick he had been using as a probe for three days. The ordinary rhythm of the camp, going on around the morning's weight.
+
+She sat on the fallen trunk at the settlement's edge and watched Hadley work for a moment. He was chest-deep in the mirewillow understory, narrating something under his breath. She could not hear the words, just the cadence: question, observation, conclusion, next question. He had been doing this for three seasons in the Thornwild basin. He had survived every pulse in that time.
+
+"Hadley," she said.
+
+He looked up. His notebook was open to a diagram she could see from ten meters: something about root angles.
+
+"When the pulse comes," she said, "what do you do?"
+
+He considered. Not surprised by the question -- he had heard Theron and Maret both speak about the pulse, had been in camp for all of it. "Go upslope," he said. "Night before. I've done it every cycle since my first one."
+
+"Above the corruption line?"
+
+"Couple hours' walk. There's a shelf of rock above the canopy -- not the Warden's Shelf, just a ledge, but clear. I set up there the night before and come back the morning after." He probed the root with his stick, watching the water table's response. "I always thought it was obvious."
+
+She thought about her bond network. About the threshold stone's pre-tremor. About the Eye watching something to the south-southeast.
+
+"Not for everyone," she said.
+
+Hadley looked at her. He was good at reading her face -- better, she had come to understand, than she usually allowed for. "You're not going upslope."
+
+"No."
+
+He went back to his notebook. Made a notation. "Okay," he said, which was what he said when he had decided something was Wren's decision and not his. Then, without looking up: "I can stay below if you need someone to."
+
+She thought about it. Thought about what Maret had said about Fell: she had wanted to be present, to understand. Thought about Hadley's three seasons of practical survival.
+
+"Go upslope," she said. "You've been doing it that way for a reason."
+
+"Yeah." He moved the probe. "But I wanted you to know the option existed."
+
+She stood at the fen's margin for a moment, the mirewillow understory moving around him in the slow current.
+
+"What's it like," she said. "Upslope. What do you hear."
+
+He considered. "You can feel it. Even from the ledge, through the rock. Not the pulse itself — just the basin settling. Like a held breath, then release." He probed again, watching the root response. "The corruption does something to the sound. It goes quiet right before. Bird-quiet."
+
+She kept that. It was, she thought, the most useful thing anyone had said to her all day.
+
+---
+
+She had packed the rosemary from home.
+
+She had not opened the small cloth packet in nine days. It sat in the bottom of her kit bag, under the spare compass lens and the folded survey paper, and she had not touched it because she liked knowing it was there. A presence. Something from before the basin, from the kitchen at home where her mother had hung it in bunches from the ceiling, where it had been background since before Wren could remember.
+
+She took it out after lunch, while the camp was quiet and Theron was in his midday silence and Hadley was still in the fen margins. She held it in her hands for a moment. The cloth was slightly damp from nine days in a pack in a humid basin. She could smell it faintly through the fabric.
+
+She opened it.
+
+The scent was immediate and specific: her mother's kitchen, the dry air of a house rather than forest, stone floor and cedar shelves and the specific smell of somewhere that knew her. She held the opened packet and breathed it and let herself be, for thirty seconds, somewhere else.
+
+Then she set it on the stone beside her -- not putting it away, just setting it down. Let the scent continue in the open air of the camp, mixing with wood smoke and the Thornwild's green-wet underbreath, the sweet distant thread of the corruption's signature.
+
+Nine days. She had thought she would open it when she needed steadying. But what she felt now was not unsteady. She felt the bond network running through her in six connections, the Eye's rhythmic pulse, the threshold stone's pre-tremor at the edges of its dormancy, and underneath all of it the insect chorus counting along. She felt present, located, known.
+
+She did not need steadying. She had wanted a scent from home.
+
+She let the rosemary breathe in the open air until Theron came back to the fire. He saw the cloth packet on the stone beside her, looked at it once, and said nothing. She wrapped it loosely and put it in the pocket of her jacket, where she could smell it faintly while she worked.
+
+---
+
+She sat on the fallen trunk at the settlement's edge and let herself feel the bond network.
+
+The Shelf: cool and distant in the plateau heights, its spatial weight unchanged. The Eye: and here she stopped. The Eye was different.
+
+It had been different since Day 6 -- she had noted the residual luminescence at night, the greenish-silver concentrated at the pool's center. But today, at mid-morning, with the sun not yet at its height, the luminescence was visible through the bond itself: a faint rhythmic pulse in the warmth of the connection, regular as breathing, slower than a heartbeat. The Eye was awake. Not waiting -- watching. There was directionality to the attention she felt through the bond, a quality of focused regard, as if the pool had oriented toward something specific and was tracking it.
+
+She did not know what it was tracking.
+
+Through the Varethen nodes: the threshold stone warm and steady, its dormant signature quieter than the Eye's alertness but not silent. Something at the edge of the warmth -- a fluctuation she had not felt before, brief, like a lamp behind a curtain moving in a draft. The [Dormant] signature had a new quality. Not waking. But aware, in some fashion, that something was approaching.
+
+She pressed her hand to the ground -- not the ruins, just the camp's margin, near the ghost-elm roots -- and felt the same thing. A pre-tremor. Not the pulse itself. The anticipation of it, running through the ground like the vibration before a storm arrives.
+
+*It knows,* she thought. *All of it knows.*
+
+She lifted her hand and wrote in her journal: *Eye: active, watching something to the south. Direction held since Day 6. Threshold stone: pre-tremor at dormancy edges. Grove: bracing confirmed. 9:40 a.m.*
+
+She needed to go to the pool.
+
+---
+
+In the late afternoon she went to the Eye.
+
+She told Theron where she was going. He looked at her for a moment and said nothing, which was his way of saying he understood. She went alone, following the path she had taken a dozen times now: through the ghost-elm margin, past the mirewillow stand where the amber channels were running slightly faster than usual, water table rising with whatever the ground was doing as the pulse approached.
+
+The pool was still. Mirrorlike, as always. But the luminescence was visible even in the afternoon light -- faint, greenish-silver, not starlight, not reflection. Something of the pool itself. Concentrated at the center, pulsing slowly, with the same rhythm she had felt through the bond at camp.
+
+She sat at the pool's edge. Put her hands in her lap, open. Paid attention.
+
+The [Reflective] trait returned sensation she did not have precise vocabulary for. The closest approximation: the pool was attending to something far away, to the south-southeast, with the specific quality of attention you give to something you cannot see clearly but know is there. A listener at a wall. A watcher at distance. Patient. Unhurried. The Eye was not afraid of what it was watching. It had been watching it for a long time.
+
+She reached through the bond, the Glimpsed connection she had held since Day 5, and tried to hear what the Eye heard.
+
+She could not.
+
+The bond was there -- warm, present, the quality of relationship she had built through the pre-dawn sits and the afternoon observations and the specific attention she had given to the pool's surface and the mirewillow roots and the basin thrush's route. All of that was present. But the Eye was at a depth she had not yet reached, attending to something at a distance she could not yet map. Glimpsed meant: you know the place, the place knows you. It did not mean: you can share what the place knows.
+
+She held that limit. The luminescence pulsed at the pool's center, steady and patient, entirely unconcerned with what she could receive. The basin thrush called from somewhere in the mirewillows -- three notes, the "steady weather" sequence she had learned to recognize -- and then was quiet.
+
+Then, while she was still reaching: the threshold stone spoke to her.
+
+Not in words. Not even in image. But through the bond network -- the six geometric connections running through her, Varethen to the Eye to the Shelf and back -- a relay arrived that she had not felt before. The warmth in the threshold stone's signature flickered, once, in the same rhythm as the Eye's pulse. The Eye's pattern, translated through the network, arriving in the stone that was in her chest, in the connection she had held since Day 5.
+
+The threshold stone was telling her the Eye was awake.
+
+She sat very still. The relay had lasted a second, maybe two. It did not repeat. But it had happened -- one element of the bond network passing information to another, through her. The Eye could not give her what she was asking for through a Glimpsed bond. It had given her what it could: its rhythm, passed through the network to the stone that was closest to her.
+
+The Stone knew. The Eye was teaching it to know.
+
+She wrote in her journal: *Varethen threshold stone — relay from Eye. First cross-family signal. Elemental receiving Ecological. Arrived during active reach at pool's edge.*
+
+Below that: *The network is doing something I did not ask it to do. The pool offered what it could.*
+
+She thought about what Glimpsed had meant, in practice. She had mapped the pool's surface. She had traced the mirewillow roots' water-table relationship. She had observed the luminescence over multiple evenings and one pre-dawn sit. She had named the [Reflective] trait and understood it as a quality of attentive mirroring. She had built a relationship with this place that she could feel running through her chest as a specific warmth.
+
+She did not know what the pool was watching. Known was the threshold where that changed.
+
+Glimpsed was the first threshold. Known was the second -- where you begin to understand not just what a place is but what it knows. To reach Known required more: more time, more observation, more discoveries that the System recognized as genuine revelation rather than documentation. She had spent four days at the Eye. Bonded places deepened with sustained presence and with genuine seeing -- not just being there, but arriving at something the place was willing to show.
+
+Nine days was enough time. Barely. If she spent the next several days giving the Eye the sustained attention it needed rather than ranging outward.
+
+She would need to choose.
+
+She wrote below the relay entry: *The Eye knows something about the pulse. I don't have the depth to ask it.*
+
+Below that, smaller: *Nine days. Eight, now. The time is the problem.*
+
+---
+
+She stayed until the light changed. Then she walked back through the mirewillow stand and the ghost-elm margin, and when she reached camp the fire was already going and Theron was at his south-side position and Hadley was narrating something at volume about root-tendon geometry, and the ordinary evening closed around her like water closing over a stone.
+
+After dinner, before sleep, she went to the camp's edge and placed a stone on the ground.
+
+Not ritual. Practical. She had been carrying the count in her head for nine days and she did not want to carry it anymore -- she wanted it outside her, where she could see it, where it would be there whether she was thinking about it or not. Nine stones for nine days remaining. She set them in a row at the edge of camp, each one placed with the deliberateness of someone who is externalizing information they need to stop holding so tightly.
+
+Nine stones.
+
+She counted them. They were accurate. She stood there for a moment in the dark at the camp's edge, looking at the row. The stones were not beautiful or particularly chosen -- just stones from the ground nearby, each one roughly palm-sized, each one placed with the same deliberate flatness. From above they would look like nothing. From here they looked like a sentence.
+
+She had been carrying Fell's story in her chest all day. Not as a warning -- she had received it as Maret had given it, as information rather than fear, as a cost that had been paid and been worth the paying even if it was irreversible. But the story had weight. Fell had wanted to understand, and she had understood. The Eye knew something. Wren needed to go deeper.
+
+She had not said aloud what she had thought of, immediately, when Maret said *she speaks in present tense about things that happened three centuries ago.* The solitary figure Theron had mentioned on Day 1 -- the one who stayed deep in the forest, who Wren had been warned away from in the same breath as the corruption. Rask. She had heard that name once and filed it and not asked again, because the moment had not been the right moment. She filed it again now. It was the second door she would come back to.
+
+Nine days to go deeper.
+
+*Fell made a choice,* Maret had said. *Her choice was not wrong.*
+
+She went to sleep.

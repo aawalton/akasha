@@ -1,0 +1,163 @@
+---
+id: 1e3ab4cd-9854-57bc-8185-a4b72f56019c
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero [Hero] Chapter 4"
+slug: 0004-the-level-zero-hero-chapter-4
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 4
+ownLength: 2078
+unit: words
+publishedAt: 2022-12-02
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1053910/the-level-zero-hero-chapter-4"
+royalRoadId: "1053910"
+---
+
+“Approved,” Justyn said as he stamped the document and placed it to the side.
+
+“Thank you.” The hooded woman nodded at him. She turned and walked away as he eyed her from behind.
+
+Justyn slumped back in his chair with a sigh. It was a busy day today at the Adventurer’s Guild, and he was one of the few [Receptionists] manning the front desk at the moment. Working at the Adventurer’s Guild meant that he would often have to deal with eccentric or rambunctious individuals who came in to submit or accept requests. It wasn’t a difficult task. He just filled in the paperwork for what was applicable and submitted them.
+
+Unfortunately, there was the rare occasion, like right now, where he had to deal with anonymous requests where the client preferred to keep their identity a secret. It meant that there had to be a lot more paperwork for him to ensure that neither the Adventurer’s Guild or the adventurer who would accept the request weren’t screwed over somehow. And that was hard considering the anonymous clients would often maintain a veil of secrecy.
+
+All he knew about  the hooded woman was that she flashed a B-ranked badge at him before putting up a request for an escort mission to the Frozar Mountains. As per protocol, she left half the payment behind so Justyn knew it was legitimate. It was a hefty sum, but he quickly calculated the number of coins within the pouch with his [Quick Accounting] Skill and confirmed everything was in order. It was more work than he was used to, however he could finally move on.
+
+“Next!” Justyn called out as he straightened in his desk, trying to make himself look more presentable. But apparently that wasn’t necessary.
+
+The [Receptionist] blinked as a woman draped in rags walked up to the counter. She had messy brown hair and a sword sheathed at her side. She almost looked like a beggar from the streets, except for her black and blue cloak. It was torn and tattered and specks of it seemed to—
+
+Wait… He narrowed his eyes. How is it…?
+
+But he caught himself from staring. Justyn cleared his throat and raised a pen. “Can I have your name?”
+
+“Amelia,” she said. “I’d like to become an adventurer.”
+
+Great, one of these people. Justyn mentally rolled his eyes. He had seen plenty of people like her come into the Adventurer’s Guild, hearing about the glory and riches that came from adventuring— thinking they could get rich quick from being an adventurer. Those fools always ended up quitting the guild after a month or two.
+
+Either that, or they ended up dead. It was foolish, really. Of course, Justyn never voiced any of his thoughts because he was a professional—
+
+“Uh, hello?” his thoughts were interrupted. Amelia waved a hand at the [Receptionist]. “What are you staring at?”
+
+Justyn blinked, breaking out of his stupor. He nodded slowly and shuffled through a few sheets of paper. “Right, right. Well, before I can sign you up, I need to know your Class— whether you’re a [Warrior]-type, a [Mage]-type, an [Archer]-type, or a [Rogue]-type— and I’ll also need to know your level.”
+
+“None of them,” Amelia replied simply. “Level 0.”
+
+“Well, since you’re a [Warrior]-type, you’ll have to pass a physical fitness evaluation—” Justyn droned on for a moment before freezing. He craned his neck up and stared at the girl. “What did you just say?”
+
+“Well, I said I’m—” she started.
+
+But Justyn snapped. “I know what you said! You don’t have to repeat it!”
+
+“You’re sending a lot of mixed messages here, man.”
+
+“What are you even doing applying to become an adventurer if you don’t have a combat Class?” the [Receptionist] pointed accusingly at her.
+
+A few heads in the guild turned to face the commotion. The nearby adventurers watched on as Amelia shrugged.
+
+“I mean, I read that you guys held an examination or whatever to join the guild. I thought if I passed it, there wouldn’t be a problem.”
+
+“Are you a dumbass?”
+
+“I don’t know— are you?”
+
+Justyn got to his feet, ignoring her and gesticulating wildly. “You think there won’t be a problem if we let just anyone join the Adventurer’s Guild? I’m sure becoming an adventurer is your childhood dream, but being an adventurer is a job. It is not fun or fulfilling or like anything you think it is. And it’s dangerous. The mortality rate for adventurers is higher than soldiers. That’s right. You may as well join the army if you don’t want to die in the next five years!”
+
+He harrumphed. Amelia just crossed her arms. She gave him a flat stare.
+
+“...are you done?”
+
+The [Receptionist] sunk back into his seat. “Why do I even bother? They never listen. They never ever listen.”
+
+Amelia sighed. “I just want to become an adventurer, man. I don’t care about any of this.”
+
+Justyn shook his head, opening his mouth. “Look, if you—”
+
+“What is the problem here?” a gruff voice interrupted him.
+
+The [Receptionist] looked up, blinking to see a burly man towering over the counter. Justyn immediately recognized him.
+
+It was Garron the Steel Tank— a B-ranked adventurer! One of the only B-ranked adventurers currently residing in Windrip! His presence alone drew a lot of attention. The watching adventurers pointed and gasped at where he stood.
+
+He wore a set of heavy plate armor with spikes jutting out of the shoulders, arms-crossed, and a glare scarred onto his face. He looked down at Amelia with his big, bushy brows snapped together.
+
+“You, girl!” Garron said as he loomed over Amelia. “Are you applying to become an adventurer?”
+
+“I did just say that, yes.” She nodded.
+
+“I see.” The B-ranked adventurer’s gaze shadowed over.  He uncrossed his arms, taking a step forward threateningly. “You…” he started.
+
+Grinning, Justyn leant back in his seat. He couldn’t wait to see the fallout of this. Garron was going to give Amelia an earful, and the [Receptionist] was all for it.
+
+The girl cocked her head as Garron’s lips moved. He raised a hand.
+
+“Justyn, you absolute fool!” the burly man yelled, pointing at the [Receptionist].
+
+Justyn blinked a few times. “What…?”
+
+“How dare you disrespect a client of the Adventurer’s Guild! This is not the level of professionalism expected from any [Receptionist] above Level 10! If the guild leader were here, I’d have him punish you immediately!”
+
+“I— that’s…” Justyn opened his mouth, wanting to protest. Then he saw the whispering faces. Most of the watching crowd was pointing his way with judging looks. The [Receptionist] gave up. He bowed his head low and spoke softly. “I apologize, Ms Amelia. I will look into registering you as an adventurer.”
+
+“Good.” Garron gave him an approving look.
+
+And Amelia just watched this unfurl with a blank look on her face.
+
+—--
+
+That was unnecessarily complicated.
+
+I really didn’t get what just happened, but at least it was resolved. Well— mostly resolved. As it turned out, it was still going to be a bit difficult for me to be enrolled in the Adventurer’s Guild because I didn’t have a Class. I had to pass a special examination invigilated by the guild master— the one who was in charge of this branch of guild— to prove that I was physically capable of being an adventurer. Unfortunately, the guild master of Windrip was visiting the country’s capital city of Astral right now, so I wouldn’t be able to partake in this test anytime soon.
+
+“I’m so sorry again about Justyn,” Garron said he followed me out of the guild. “That was incredibly unprofessional of him. I assure you, this is not how the Adventurer’s Guild conducts themselves.”
+
+I nodded along, listening to him. But I was slightly distracted by the susurration washing over the guild hall.
+
+“Hey, who’s that girl? Why did Garron the Steel Tank stick up for her?”
+
+“Maybe he knows her? I don’t see why a B-ranked adventurer would help her if he doesn’t know her.”
+
+“But why does she look like a beggar?”
+
+I frowned and looked down at my outfit. I didn’t look that bad… ok, maybe I was dressed like a homeless man squatting in the back alley of a Walmart. But considering everything I’d been through, the fact that my clothes were still mostly intact made up for how it might’ve looked. Sometimes, I wondered how they even survived this long. Shaking my head, I turned to Garron.
+
+“Are you famous or something?” I asked, glancing between him and the onlooking adventurers. “Everyone’s talking about you.”
+
+“I am famous in Windrip,” Garron replied as he faced me. He wore a permanent scowl on his face— the glare in his eyes bore straight through me, yet he spoke with no animosity. “But in the grand scheme of things, I am but a humble adventurer.”
+
+“Well, thanks for helping me out anyways.” I smiled back at him. “I didn’t expect anyone to back me up there considering that I’m not a [Warrior] or whatever.”
+
+The burly man harrumphed. “Hmph. That just means that they are misinformed. There have been plenty of precedents throughout history of traditionally non-combat Classes taking up the mantle of being an adventurer. And there are also those lunatics in the Sect of the Abyssal Thorns who rejected the System for a so-called higher power too. So if you’re confident in your abilities, then I see no reason not to give you a fair chance.”
+
+Well, I fell into neither of those camps, but I knew explaining it would only complicate matters even further. So I just shrugged and played along.
+
+“Is there really nothing else I can do to become an adventurer until the guild master arrives back in the city?” I asked as we came to a halt right outside of the Adventurer’s Guild?”
+
+Garron furrowed his brows more than it already was. “Well, if you manage to prove yourself to be extraordinary in some way to at least one B-ranked adventurer and three [Receptionists], you can become an unofficial adventurer.”
+
+“An unofficial adventurer?”
+
+“You will be able to take specific requests from the Adventurer’s Guild. Of course, you will be faced with plenty of limitations. For example, you won’t be able to use your unofficial adventurer’s badge to enter a city without paying the entry fee.”
+
+“I see.” I tapped a finger on my chin.
+
+I had read earlier that apparently adventurers could enter any city with an Adventurer’s Guild branch for free, which was part of the many reasons why I decided on becoming an adventurer for now. Obviously, the main reason was for a quick retirement.
+
+“But you would have to truly accomplish a feat worthy of recognition to become an unofficial adventurer,” Garron said. “You would have to complete a B-ranked monster-extermination mission, at the very least.”
+
+I peered at him. “Such as?”
+
+“We haven’t gotten much of those requests as of late, honestly.” He rubbed his chin. “In fact, I’d say we haven’t gotten many monster-extermination requests lately. It is quite odd for Briar Glen to be this quiet at this time of the year.”
+
+“So there isn’t a B-ranked or A-ranked request at all?” I asked, assuming A-rank came right after B-rank, even though I wasn’t entirely certain if that was how it worked in this world. Fortunately, Vacuos didn’t turn out to be some insane backwards place as I was right.
+
+“There is a B-ranked request to exterminate that lycan drake den in that valley just twenty miles to the east of Windrip. But I would caution you against taking it. It is the kind of request that requires an entire team or two of B-ranks to take on. I’d honestly say it’s a job for A-ranks.”
+
+I glanced at where he gestured. I couldn’t see this valley over the walls of Windrip— which made sense since the walls were rather ridiculously tall. But I now knew the general direction to this nest.
+
+Garron turned back to face me. “Anyway, it’s too dangerous. I’d suggest waiting for Guildmaster Evan to return rather than risking—” he started.
+
+And he paused. The burly man blinked, looking at where I had been standing. But I wasn’t there. I was already gone.
+
+He stared at the empty space at the sidewalk as his arms dropped limply to his sides. Then he grunted, shaking his head.
+
+“Rude. I wasn’t even done talking.”

@@ -1,0 +1,131 @@
+---
+id: b35e9f34-5769-5ba3-91e1-34c8738ff0cc
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 191"
+slug: 0029-the-level-zero-hero-chapter-191
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 29
+ownLength: 1665
+unit: words
+publishedAt: 2023-11-09
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1402976/the-level-zero-hero-chapter-191"
+royalRoadId: "1402976"
+---
+
+Noele blinked as she heard Amelia’s story come to an end. The blonde girl was left at a loss for words. All she could do was just stare breathlessly at her master, listening to the tale that was told.
+
+Amelia rarely ever spoke of her past— she sometimes talked to the blonde girl about her time back on Earth. However, Noele had scarcely ever heard about the time her master spent in the Void. Or the Fractured Realm. Whatever it was.
+
+But now, hearing this, Noele understood why Amelia never liked talking about that place. The blonde girl closed her eyes and whispered.
+
+“You’ve escaped though,” she said as she raised her head. She took a step forward and looked up at her master. “We just have to find a way for you to go back to your family! Then you can see them again!”
+
+“Well, except I can’t,” Amelia answered simply.
+
+And Noele shook her head. “I know it’s going to be difficult, but there has to be some way for you to be able to get back—”
+
+But the brown-haired woman spoke up, cutting off the blonde girl. “No, I mean I literally cannot do that. And it’s not because I can’t go back.”
+
+“What do you mean by that?” Noele frowned, eyeing her master quizzically.
+
+Amelia sighed as she lowered her head. Her eyes fluttered shut for a moment, and she whispered.
+
+“I have gone back, Noele.”
+
+That made the blonde girl pause. She froze where stood, staring at her master in utter disbelief. She almost refused to process what was said, but she finally broke out of her stupor.
+
+“...what?” Noele managed to utter.
+
+“That’s right,” Amelia said as she raised her head. She locked gazes with the blonde girl and spoke softly. “I have returned to my world before. And that’s how I know…”
+
+Amelia sighed as she looked down at herself. She stared at the palm of her hand, and Noele’s head just spun.
+
+“That’s how I know the Voidgod did not lie,” the brown-haired woman finished.
+
+“But… that’s—” Noele caught herself. She tried to mouth the word ‘impossible’, but all she did was take in the expression on her master’s face.
+
+Amelia closed her eyes as she clenched a fist. “There is nothing left for me back on Earth, Noele. But that is not the point. What I am trying to tell you is that the Voidgod told me the truth. It has told me the truth time and time again, even though I have doubted it many times before.”
+
+“Wait, so you’re saying…” The blonde girl’s brows snapped together. Her lips trembled, and she bit her lower lip. “The Voidgod was not lying about the World System?”
+
+Noele apprehensively said those words as the pacing of her breathing quickened once again. Her mind refused to believe it, but she forced herself to comprehend the idea— to consider the possibility that the God that had been overlooking her entire world had been working against her from the very beginning.
+
+But Amelia just shook her head. “No, that’s not what I’m saying.”
+
+And Noele blinked. “What?”
+
+“I am saying that it’s a possibility, not that it is reality,” Amelia clarified as she crossed her arms.
+
+“I… I don’t understand.” Noele bit her lower lip. She just stared at her master, completely confused. “What do you mean by that?”
+
+Amelia sighed. “There’s a plethora of other possibilities out there. For example, it is entirely possible that the Voidgod was only telling a half-truth. Or it’s possible that the Voidgod was twisting the truth. Or maybe, that the Voidgod was lying outright. After all, just because it told me the truth a few times, doesn’t mean it has told me the truth about everything.”
+
+“R-right.” Noele nodded, listening to her master’s words. “That makes sense.”
+
+“It is also entirely possible that the Voidgod was telling me the truth about everything. But I do not know that,” Amelia continued. “I do not know which one of these possibilities it could be. All I know is that this is something you must consider.”
+
+“Something I must consider?” the blonde girl repeated after Amelia’s words.
+
+“I mean, you’re the one who feels uneasy about the System, right?” the brown-haired woman said. “Like, have you wondered why you feel that way? Beyond just my lessons, of course.”
+
+“I…” Noele opened her mouth to answer the question, but paused. She thought the answer would have been obvious, only to realize that she didn’t know what to say. Finally, she admitted, “I don’t know.”
+
+Amelia just shrugged as she gestured vaguely at the blonde girl. “That’s what I’m talking about. I can’t tell you why you feel this way. I can tell you that using the System from time to time probably isn’t a bad thing for your growth. But if you really want to know whether using the System is bad in general… well, you need to sit down with yourself and introspect for a while.”
+
+Noele stared at her master quietly. The blonde girl closed her eyes, before lowering her head. For a moment, she remained silent. And finally, she just nodded and smiled at Amelia.
+
+“I see, thank you. I think that helps.”
+
+“Well, I’m glad I was able to offer you some advice,” Amelia said, patting Noele on the shoulder. “Now if you’ll excuse me, I have to get back to my restaurant.”
+
+“Right. Sorry for taking your time.” Noele stepped to the side and watched her master go.
+
+—--
+
+Later that night, Noele was lying in bed, staring silently at the ceiling with her eyes wide open. She heard the crickets out in the fields of her father’s farm, and she saw the leaking moonlight splash across the wooden walls of her room. But her focus was not on any of that. She wasn’t even trying to sleep.
+
+All she could focus on was her master’s words— on what the Voidgod had apparently said.
+
+“Why do I feel this way?” Noele whispered, raising a hand up and sighing. “Is it because the World System is evil? But that can’t be the case, right?”
+
+No one was here to answer the blonde girl’s questions. She was left to contemplate on her own, listening to her thoughts.
+
+The World System couldn’t possibly be evil. It was what gave a person strength. It was the lifeblood of all of Vacuos. It was God.
+
+But if that was the case, why was it that Noele grew even stronger without the help of the World System? A single thought crossed her mind to answer that question, and her blood ran cold. She bit her lower lip as stopped herself from dismissing the idea.
+
+Is it because the World System is limiting me? No— limiting all of us?
+
+Noele didn’t want to focus on that thought, but she forced herself to explore it even further. Blood threatened to leak from her lips as her teeth dug down even harder.
+
+That is the only explanation. If the World System wasn’t evil, then why would it be holding us back? It doesn’t make any sense. But… if the World System was evil, why would it save me back then?
+
+The blonde girl’s thoughts flashed back to her near-death experience just a few days prior. When she had been backstabbed by Nicholas the Noble Knight. She barely remembered what happened after, her memory a haze up until she advanced to a [Champion Spellsword].
+
+But she knew one thing for certain— that the World System had saved her life… right?
+
+If not for being given her Class advancement, she would have died there. She would have been killed by Nicholas, unable to be saved by even her friends. So if the World System saved her, why would it be evil?
+
+It couldn’t possibly be evil. She couldn’t really remember what happened while she was unconscious, but she knew that she was saved. That was what happened, right?
+
+No— something felt wrong about that. There was something that was amiss about what happened, and yet, she couldn’t remember it. Her brows wrinkled as she tried her hardest to recall what it was that she was forgetting. As she tried to understand what was wrong.
+
+And Noele’s teeth sank into her lips, drawing blood as she flinched. Her eyes immediately snapped wide open as she suddenly saw a flash of memories, before she sat up.
+
+It was like her mind cleared for just a moment, and she received an epiphany. But it wasn’t a divination from the World System, nor was it even a vision of something that was going to happen. It was a vision of something that happened.
+
+It was her memory of what had happened when she was on the brink of death.
+
+“The World System… tried to trick me?” Noele whispered, sitting there on her bed.
+
+She didn’t want to believe it, but the repressed memory now flooded to the forefront of her mind, clear as day. When she had first been stabbed by Nicholas and was overcome with shock, the World System had forced her to forget that Amelia ever existed— the World System had tried to make the blonde girl forgo all her training, instead giving herself back to her Class.
+
+But she forgot about it all. And now, she recalled it. This was what she had felt so uneasy about for the last few days. This was the reason why she felt like something was amiss. Because the World System had tried to trick her.
+
+And now, she only had one question for herself.
+
+“But… why?” Noele asked as a bolt of lightning crashed onto a tree near the farm.
+
+A heavy rain poured down from above— the sky suddenly being turned overcast without the blonde girl even realizing it. And now, as she heard the patter of raindrops on her window, she considered the explanation given by the Voidgod.
+
+That the World System was actually evil.

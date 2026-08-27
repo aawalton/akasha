@@ -1,0 +1,231 @@
+---
+id: c91cce2e-384a-5502-8965-50c49704432d
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Ch17: A Choice of Venom"
+slug: 0024-book-6-ch17-a-choice-of-venom
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 24
+ownLength: 2591
+unit: words
+ownProgress: 2591
+publishedAt: 2025-06-26
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2387945/book-6-ch17-a-choice-of-venom"
+royalRoadId: "2387945"
+removedAt: "2026-07-03T13:47:46.934Z"
+---
+
+Arthur and the rest of his retinue went through the dark portal that evening, back to the eruption site. For this outing, he added Cinderwood to the group but left behind Marion, Soledad, and Kenzie. This was a mission for fighters only and fighter support. He also included an Uncommon earth pair who looked less than happy to join them.
+
+As he left Blood Moon Hive, he had a moment to think that it was nice not to have to check with a higher authority for permission to do what he wanted. Now he was the higher authority.
+
+I wonder if Sybil and Desmond will ask me for permission if they ever want to leave the hive, Arthur wondered. He suspected the answer was yes.
+
+He had spent the last few hours tidying up basic administration problems and had given Desmond orders to find him an earth dragon. He had first tried with Sybil, but she'd insisted that she had a headache and could not possibly work. So, Arthur went to Desmond, who hemmed and hawed, and finally called three wing captains to ask around for him. Arthur could have done that in the first place, but he'd been hoping to get the man at least somewhat involved in the goings-on of his own hive.
+
+Live and learn.
+
+The wing captains had seemed frightened of him and were all too happy to spit out the names of anyone who had a card even remotely tied to earth.
+
+That's how Arthur met Roy and his lump of a dragon, Mallow. Mallow was an Uncommon who looked a lot like a rock, slow-moving and slow-speaking. Roy, his rider, was a thin man and extremely twitchy in Arthur's company, but he seemed attentive to his dragon.
+
+Most importantly, he didn't say no when Arthur asked him to accompany his retinue tonight. Arthur had tried not to make it an order, but the quick way Roy agreed made it clear he thought it was.
+
+So, Arthur's retinue and Roy came out the other side of the dark portal to a scene of utter devastation. A land swept clean from scourgelings and life. Not even the most opportunistic vultures could find anything remaining. Arthur's fires had completely swept it clean.
+
+There was a stark, shocked silence. Then Horatio let out a low whistle that Arthur heard even above the wind.
+
+Arthur felt a stab of guilt that was immediately followed by an equally deep stab of anger. How could Horatio judge him? He hadn’t been there when Arthur made the call. He didn't know how bad the eruption had become. What other choice did he have?
+
+"I cannot believe the hives let it get this far," Sams rumbled.
+
+From his seat, Horatio nodded. “No kidding. Were they just sitting on their hands the whole time?”
+
+Inwardly, Arthur winced. He should have known better. His friend wouldn't blame him.
+
+"Mind magic," Joy said sadly. "They had to fight from the edges and give up everything in the middle."
+
+"The other Legendaries should have stepped in sooner," Cressida said. To that, Arthur had no argument.
+
+He looked around and said to Brixaby, "I don't feel any pressure on my mental shield skills. Do you?"
+
+"No," Brixaby said. "But no one should take off their protective enchantments." He said this last bit while eyeing Mallow with disfavor. But the brown dragon had made no move to touch the enchanted necklace that was hanging from his neck. He just blinked back at Brixaby, not understanding.
+
+"Come on," Arthur said wearily. “Let’s get this done.”
+
+Brixaby buzzed forward, leading the rest of the retinue to the giant crater that dominated the landscape. The dust in the air had long cleared to show that the eruption cone was a ruin of what it had been. Now it stood as more of an eruption hill, having suffered more landslides as the entire cone had become unstable.
+
+The impact crater at its base was deep and seemed to go on and on, a giant dish plate scooped out of the soil. It, too, had been subject to the heat of the Cataclysmic Firestorm.
+
+When the dragons landed, the soil crunched like the top of burnt sugar under their feet. There was not a green, living thing to be seen—just dirt and bare, blackened rock.
+
+No one spoke, and it seemed to Arthur as if they were all holding their breaths. It felt like they were in the middle of a graveyard.
+
+Brixaby used his Call of the Heart to check his position and then fluttered about thirty feet to the left.
+
+"Here." He made an X with his claws in the dirt. "Forty feet down."
+
+Arthur received the map from him. He squinted at it. The demi-scourgling—or what was left of it—definitively showed at a point forty feet away, straight downward. Then, to his disbelieving eyes, the map updated, and the position was changed. Not by much, but now Brixaby's X was not directly on top of it, but just to the right.
+
+"Did you see that?" he demanded of Brixaby.
+
+Everybody else looked around warily, the dragons half-crouched as if to fly up in the air, clearly expecting an attack.
+
+"What is it?" Cinderwood demanded. "Is someone here?"
+
+"You could say that," Brixaby said, flicking out his tongue. "It appears that the demi-scourging is still alive."
+
+"Not for long," Arthur said grimly, then looked at the others. "Cinderwood, boost Sams and Cressida as much as possible. Sams, take your position. Joy, do you sense anything?"
+
+"No," she said easily. "No, I think we should be careful."
+
+"I intend to be," Arthur said, then held out his hand for Cressida. She dismounted from Joy and came over to join him astride Brixaby. There was not a lot of room on Brixaby, even with his increased size, and he had to work very hard to keep his mind on the task ahead.
+
+Brixaby turned and gave him a long look, as if he knew the direction of his thoughts.
+
+Sams took to the air overhead, and Arthur nodded to Roy and Mallow. "Let's dig our way down."
+
+Roy nodded and touched his dragon's neck.
+
+However, Mallow only blinked slowly and rumbled, "Are you certain, leader? We are only Uncommon, and that is a demi-scourgling. Should there not be more Legendaries?"
+
+"We'll keep you safe," Arthur promised.
+
+Brixaby scoffed. "It is a scourgling and alive. Do your duty as a dragon. You open the way, and we will kill it."
+
+The brown paused for a moment, then turned and picked some dust out of his snout with a hind foot. "I suppose. If you promise to keep us safe."
+
+“That is my duty.” Brixaby looked like he was looking forward to it.
+
+The brown looked down at the X mark Brixaby had made. “I’m ready.”
+
+"We’ll cast this spell together," Roy said. "Three, two, one." Clearly, theirs was a linked card.
+
+When the spell was cast, a section of earth five feet in diameter glowed a bright blue. With a rumble, a cone of earth lifted out of the ground at least ten feet deep. Both Roy and Mallow stared intently at it, moving the earth together with combined will. Swinging the cylinder off to the side, they dumped it in a pile.
+
+With Brixaby and Arthur being so close, their Counterfeit Siphon caught the spell.
+
+New Counterfeit spell obtained: Move The Earth
+
+Time Remaining: 11 Hours, 59 minutes, 59 seconds
+
+It was a fairly simple earth-mover card with a telekinesis addition. Arthur had never asked to see the details of the card—that would have been unspeakably rude—but under questioning, Roy admitted that their Moving The Earth card used not mana but stamina. Anyone who looked at Mallow for more than a glance would see that the dragon had stamina to spare.
+
+The moment the first earth-shaped cylinder was out of the way, Arthur cast it too, along with Brixaby. As the earth lifted to his command, his arms burned with phantom pain as if he were lifting it by force.
+
+As they were unpracticed, their portion was only about half as big as Roy and Mallow's. But every little bit helped. Arthur and Brixaby swung their cylinder of earth away, then let it fall into a pile on the ground before returning for another scoop.
+
+They and the brown pair took turns scooping earth out of the hole.
+
+Suddenly, Roy said, "Sir, stop!"
+
+Arthur did, a moment before recasting the spell. "What is it?"
+
+Roy looked intensely uncomfortable, as if embarrassed he had spoken out loud. "This soil is sandy, so... we need to... move back, maybe?" he said hesitantly.
+
+"What does that matter?" Cressida asked sharply. She was tense behind Arthur, ready to cast her shield charm the moment it was needed.
+
+Mallow was the one to answer. "Dry sand tends to collapse into open voids. And if it does, it will take us all down with it into the hole."
+
+"Oh," Cressida said, deflating a touch.
+
+Brixaby backed away, and Mallow did too. They began to work again, now widening the hole instead of deepening it.
+
+Meanwhile, the sunshine overhead had grown noticeably darker, as if invisible clouds were passing over. That was Horatio and Sams collecting energy.
+
+Cressida had cast her summons too: the porcupine, the hedgehog, the water cranes, and of course, her flame bear Wicker. She held the mind-bending kittens away, as those could easily cause damage to friends.
+
+Widening the hole delayed them, but the spell was a good one. They'd gone maybe about 30 feet down when Joy suddenly let out a bellow from above. That was the only warning they received before something erupted, hissing from the bottom of the hole.
+
+It was the demi-scourgling grub, looking like it had tried to metamorphosize but got stuck halfway and crushed under the weight of the earth. One wing was ripped off, the other was fused to its side. But it was so fat that Arthur didn't know if it could have lifted off the ground anyway, except under magic. But it didn't need magic or teeth to try to harm them. It vomited up thick pollen that was liquidy with blood. The mixture splashed out, sloshed up the steep sides of the hole.
+
+Instantly, a shield fell over Arthur and Brixaby. Mallow immediately fled backward, just as he was told to do, putting as much distance between himself and the scourgelings. This was a fight for the higher rankers.
+
+In the next instant, a bright sphere of sunlight fell down upon the emerging scourgeling.
+
+Closing his eyes wasn’t enough—Arthur threw an arm to cover his face. Only Cressida's shield kept him from feeling the heat. She buried her head against his back.
+
+The moment the bright light cut out, he heard Cressida's summons go to work. But the afterimage from Sams' and Horatio's beam was so bright that for a few panicked moments, Arthur couldn't see what was happening.
+
+After a few moments of frantic blinking to clear his view, the summons were wasting their time. There was no more movement within the hole. A curl of stinking black smoke drifted out.
+
+When Arthur blinked the last of the light from his eyes, he saw the remains of the demi-scourgeling. It was a black, disgusting mass. All char.
+
+Sams thumped down in a landing, and Horatio on his back had his arms raised in triumph, yelling out a cheer. "Look at that, Sams, we killed a demi-scourgling! Didn't think that you'd be able to say that, huh?"
+
+"We would not have killed it if it were not already on its last legs," Sams said modestly.
+
+"Yes," Brixaby agreed, "it is I who sacrificed my furnace for the all-important blow. But... it is only right for someone from my retinue to make the final strike. Well done."
+
+His words were less than gracious, but Sams looked pleased anyway.
+
+Horatio glanced down at the remains of the thing. "How are we going to harvest that?"
+
+Cressida looked to Arthur. "I know you have a climbing rope in your Personal Space. You have everything else."
+
+"Even better," he said, "I have a rope ladder."
+
+****
+
+Of course, they could not simply hang the rope ladder off the side of the pit. Not all of the liquefied pollen had been caught in Sams's fires, and the green toxic remains looked sinister.
+
+Luckily, they had a dragon who could hover. Cinderwood cast a stamina buff on Brixaby. Arthur didn't think that he needed it, but Brixaby smugly accepted the spell as only his due.
+
+He hovered in place, stable as could be, despite the winds that whipped over the desiccated land, clutching the rope ladder in his claws.
+
+Arthur, carefully focusing on his Climbing skill, headed downward. The smell of burnt scourgling was one he’d rather forget—strangely acidic in a way that made his head swim. His Moderate Healing card drew a little mana, which told him that it wasn't just a bad smell.
+
+Arthur quickly harvested the corpse of cards and came back out with not only a Legendary but a handful of Rare shards too, including two corner pieces. That was a welcome surprise.
+
+“Got it!” he coughed. “Lift me up!”
+
+Brixaby buzzed upward while around him, his retinue cheered. That cheering increased when Arthur yelled, “I got a Rare shard for everyone!”
+
+It was hard to resist looking at the card before Brixaby was able to land again. The moment he dismounted, everybody crowded around to see.
+
+A Choice of Venom
+
+Combat/Toxin
+
+Legendary
+
+The wielder of this card will be able to use one of seven venom types, either through direct contact and slashing, or through misting it out as a cloud.
+
+Venom types:
+
+Hemorrhagic bleeding
+
+Respiratory paralysis
+
+Hallucination
+
+Permanent daytime nightmares
+
+Corroding acid
+
+Memory erasure
+
+Plague
+
+The wielder of this card is immune to all poison and venom effects, including ones not created by this card.
+
+"Memory erasure? That's something that can be done?" Cressida asked, horrified.
+
+"I guess so," Arthur murmured and wondered if this technically qualified the card as a mind type. That might be enough to get this card locked away and quietly destroyed.
+
+"Did you two overlook plague?" Horatio demanded, his voice a touch high. "We've been standing next to the thing for like twenty minutes. We could already have it."
+
+"We'll have Marion check us out when we get back," Arthur promised.
+
+Sams, who had been standing near the edge of the pit as he was the largest dragon and needed the most room, nervously edged away.
+
+Joy, however, let out a sigh and looked at her own claws. She had quite the venom power herself, in one of her forearms. "Too bad I can't use that card."
+
+Cinderwood sniffed. "Some think it’s unwise to ascend ranks with cards that are antithesis to your natural magic," she said pointedly, looking at Joy's pink hide. "If that is your ambition, you would be wise to stick to meta."
+
+Joy didn't answer, only looked contemplative.
+
+"So what are you going to do with it, Art?" Horatio asked. "Keep it? Sell it?"
+
+Selling it would be a boon to the hive. He could probably do it on the down low as he’d be expected to “gift” any Legendary to Lung Bai. There was something to be said for staying in her good graces.
+
+He turned and handed it to Brixaby. "It was your furnace that originally took it out. What do you want to do with it?”

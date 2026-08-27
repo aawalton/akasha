@@ -1,0 +1,139 @@
+---
+id: d25407cb-ea6d-5a13-b91a-12b826db6b8d
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 251"
+slug: 0039-the-level-zero-hero-chapter-251
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 39
+ownLength: 1474
+unit: words
+publishedAt: 2024-08-24
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1772338/the-level-zero-hero-chapter-251"
+royalRoadId: "1772338"
+---
+
+Tyze clapped his hands together three times, before bowing his head.
+
+“Please, do not destroy us this century” he whispered his prayer.
+
+And then he stepped back. He swept his gaze back to the mass of various-colored faces gathered behind him, waiting at the stairs leading up to the temple.
+
+The blue-skinned boy hurried out of the way as the crowd pushed past him for their turn to make a prayer. But as he descended back down the thousand steps of the temple, he paused to take in the view of the city skyline in the distance.
+
+There were hundreds of skyscrapers that rose up thousands of feet in the air to above the clouds clustered together there. And above it, another city floated in the air, connected by a space elevator.
+
+This was the first time Tyze had seen his city from afar. Normally, he would be down there, walking down its streets, unable to admire its majesty.
+
+But today was a special day, and the very first time he traveled to the Temple of Toth.
+
+It was the Festivities of the Reckoning that occurred once every decade where every single race— whether it be boranians, orfs, apsuns, or xycons— came together to pray for their continued survival.
+
+Tyze turned around to regard the massive temple. It was an ancient construction compared to the modern buildings in his city. It was built of brick and limestone compared to the neocarbon base for most structures these days.
+
+And this temple was built to commemorate a great being One that was said to be both a protector and a destroyer. An entity that had been sent down by the World System itself.
+
+Guardian Angel Azathep.
+
+Over ten thousand years ago, when there were dozens of races scattered across the world, Guardian Angel Azathep had descended down to their planet to purge all civilization, leaving behind only four races. And the reason for its actions was due to all the sinners who had strayed from the World System.
+
+Those who drew power from the Great Evil.
+
+The Fal-Deus.
+
+Shaking his head, Tyze turned away from the temple once again, heading back towards the megacity in the distance. As an orf, he was ashamed to say that most of his race had also been tempted by the Void. The only reason the orfs weren’t eradicated was due to the fact that back then a number of them had also joined the resistance to fight against the sinners.
+
+There were supposedly other races that had chosen to remain neutral in that great war back then. But they had also been eradicated alongside the sinners due to their refusal to join the resistance.
+
+That was why Tyze was grateful to Guardian Angel Azathep for its generosity of not exterminating his people. Because of that, his people could make up for their past mistakes with helping the rapid advancement of civilization over the last ten thousand years.
+
+Tyze looked up towards the sky as he saw a spaceship descending from orbit.
+
+Their planet was called Lacraf— supposedly, it was designated as Planet 5V by the World System— but it was not the only planet under the rule of their interplanetary empire. Although, it was certainly their home planet.
+
+Tyze had never visited any of the other four planets in the solar system, but he wanted to visit them one day. In fact, as a Level 5 [Budding Astronomer], he was certain he would one day be a part of a space mission that helped expand their civilization outside of their solar system too.
+
+A small smile tugged at the boy’s lips as he imagined what it would be like to travel interstellar space. But then he paused as he caught a glimpse of something in the sky. He squinted as a susurration swept over the crowd around him, a few other folks noticing it too.
+
+A dim light— like a star— shone on the green-blue dome overhead. It began to glow brighter and brighter as Tyze frowned.
+
+“What is—”
+
+And from the sky, something crashed in the ground right before the temple. Or at least, Tyze thought it crashed. But as he blinked a few times, he saw that the ground at the crash site was practically unscathed.
+
+No dust or debris had even shot into the air. It was like nothing had happened— like nothing had fallen from the sky. Except, a figure was standing there. Brown hair, brown eyes, and pale skin. She looked like a woman, but Tyze couldn’t be certain. He had never seen a person like her before. She was definitely an alien.
+
+And lying at her feet was the charred remains of something. Was it also an alien? Tyze couldn’t tell. But what he could see was that the charred thing was slowly regenerating.
+
+He stared in confusion as all around him people gasped and pointed, beginning to break out in a panic.
+
+“What is that thing?”
+
+“Is that an alien?”
+
+“We’re all going to die!”
+
+Tyze just stood there, his head growing dizzy as he stared at the alien. And the ground beneath his feet began to shake. The crowd turned around in shock as even more voices broke out in a panic. They pointed at the Temple of Toth as the quaking grew more violent there.
+
+“Guardian Angel Azathep is angry!”
+
+“No— it’s going to save us from the alien!”
+
+“Please protect us!”
+
+However, Tyze didn’t pay attention to any of that. He was strangely drawn to the alien. And she must have noticed his staring because she looked directly at him.
+
+“Sorry for the scare” she said as she nodded apologetically at him. “I didn’t realize this was an inhabited planet when I hopped here.”
+
+She picked up the regenerating charred figure, before Tyze raised a hand.
+
+“Wait—” he called out.
+
+But he was interrupted by a deafening screech. The Temple of Toth exploded as a giant monster emerged from within. The crowd went scattering and screaming as an anthropoid figure rose to its feet, standing at over a thousand feet tall.
+
+“Guardian Angel Azathep has awakened!” a boranian cried out. “It will save us—”
+
+And Guardian Angel Azathep stepped down, crushing the boranian uncaringly. It strode forward with long steps, uncaring of the crowd surrounding it. It swept its gaze over its surroundings, the hundreds of tendrils growing out of its chin pointing in the direction of the alien.
+
+It reached out with a clawed hand as it let out a screech that caused Tyze to collapse in pain.
+
+But the alien just widened her stance. “I’m going to go now.”
+
+And right as Guardian Angel Azathep loomed over her, she leapt into the air, shooting straight through it. She shot straight through its hands, before exploding out of its head, disappearing into the sky.
+
+Tyze’s gaze was fixed at sky as Guardian Angel Azathep dropped to the ground next to him. The earth shook one last time, before the monster’s body began to evaporate into the air. As it did, even more people broke out into panicked screams.
+
+“Guardian Angel Azathep is dead—”
+
+“What do we do?”
+
+“World System please save us…”
+
+All the while, Tyze didn’t look away once from the sky. His memory burned with the memory of the alien as the last of Guardian Angel Azathep faded away.
+
+—--
+
+I leapt from planet to planet as I held Kallistus Kal up in front of me. I traveled across galaxies in an instant, and his body was reduced to nothing— not even atoms— from the sheer force of my speed. However, each time, he regenerated back to his previous form even stronger.
+
+I must have traveled across a dozen different galaxies at this point, before he finally smacked my hand away after he finished regenerating. I slowed down, floating before him in the middle of empty space as I blinked.
+
+“Oh, you’re finally strong enough to break free from my grip. Good job,” I praised him.
+
+But he snarled as he raised his sword in my direction. “DO NOT MOCK ME, GIRL! I HAVE THE POWER OF THE FAL-DEUS ON MY SIDE!”
+
+“And all you did was knock my hand aside,” I said simply. “Try blocking this next.”
+
+“What—” The [Hero King]’s eyes flickered.
+
+And I reached him in an instant, slashing down with my blade and sending him flying across the universe from the impact.
+
+—--
+
+And as Amelia and Kallistus Kal’s battle raged across the universe of Vacuos, something sensed the fighting. Many things, actually. Most of them moved to act, especially with the growing amount of Void Essence that was emanating off the battle.
+
+But something in specific woke up to put a halt to this.
+
+[Initializing Universal Defense Protocol…]
+
+Something that slept in the orbit of a supermassive black hole.
+
+[Awaken: Principality Z1.]

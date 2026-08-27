@@ -1,0 +1,431 @@
+---
+id: 7551a5d6-358e-50ab-9a3e-1750f12f0e65
+page-type-slug: story-chapter-royal-road
+title: "038 - End of Book 1"
+slug: 0038-038-end-of-book-1
+partOf: arkendrithyst
+position: 38
+ownLength: 3693
+unit: words
+ownProgress: 3693
+publishedAt: 2019-09-27
+link: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/407565/038-end-of-book-1"
+royalRoadId: "407565"
+markedReadAt: "2026-06-29T22:07:44.168Z"
+---
+
+Erick Flatt
+
+Human, age 48
+
+Level 36, Class: Particle Mage
+
+Exp: 2197527594/2415781700
+
+Class: 6/6
+
+Points: 6
+
+HP
+
+576/576
+
+576
+
+MP
+
+750/750
+
+6000 per day
+
+Strength
+
+20
+
++0
+
+[20]
+
+Vitality
+
+20
+
++0
+
+[20]
+
+Willpower
+
+25
+
++0
+
+[25]
+
+Focus
+
+50
+
++0
+
+[50]
+
+Favored Spell waiting!
+
+Favored Spell waiting!
+
+For all those death notifications, Erick had only gained one level.
+
+That felt appropriate.
+
+Jane said, “Dad. Speak to me.”
+
+Erick was still inside the temple. The battle was over, and people had arrived to see and speak to him, but he couldn’t bring himself to say more than a few words.
+
+He said, “What.”
+
+“I’m worried, Dad.”
+
+Joylessly, Erick said, “Hi Worried, I’m Dad.”
+
+“You’ve said that joke twice, now. Last time I was ‘Concerned’. I’m still concerned, but also worried.”
+
+“You’re a lot of people.”
+
+Silverite stepped into view. “I want you to [Withering] Spur. All of it. From the sewer to the towers.”
+
+Erick snapped to attention. He screamed, “FUCK YOU! I’M NOT KILLING ANYONE ELSE!”
+
+[Teleport].
+
+Erick landed in the sand, seven hundred kilometers north of where he was, the max distance his [Teleport 7] could take him. He looked around. Nothing near him. All the crystal agaves were real ones; not mimics.
+
+No. Wait. That one was a mimic.
+
+Erick lifted into the air with his Handy Aura, [Stoneshape]d a clump of sand into a stone, then cast [Weather Ward] on that stone. He floated high above the immobile mimic, then dropped the stone. The mimic was now inside of a faintly white, glittering [Weather Ward]. It twitched toward the stone, but stopped, slowly returning to ‘hiding’.
+
+Erick dropped a [Withering] directly beside the mimic, putting himself and the monster in the sphere of the spell’s influence.
+
+Nothing happened to either of them.
+
+The [Weather Ward] stopped the [Withering], exactly how Erick had intended. Erick waited the [Withering] out, watching as the magic dissipated from the air. He flew down close enough to cancel the [Weather Ward] on the stone, then flew away to find a clear spot to land, well away from everything else. The mimic did not move to follow, or do anything else, besides pretend to be a crystal agave.
+
+Once Erick was sure he was safe in the middle of nowhere, he set down on the sand and had a great big cry. Bawling, snot nosed, horrific and nasty. Tears flowed and everything hurt. The tears stopped, but only for a little while, then they started again; more tears, more pain. He laid back on the dirt, staring at the sky, letting his tears flow freely down the sides of his face.
+
+He Rested with Meditation, feeling the ocean of mana above him, watching the currents, and watching for [Scry] eyes. There were lots of currents, but no eyes. No giant shadow, either. He hadn’t seen that thing in several days.
+
+When everything started to hurt less, ten, twenty minutes later, he breathed, he [Cleanse]d, he stood up. He Handy Aura’d into the air, then he [Teleport]ed back, into the air above the farms.
+
+Silverite, Mog, Poi, and Jane were still there at the temple, waiting for him. Everyone else was gone; off to wherever they needed to be.
+
+Erick set down between the metal statue of Rozeta and the stone statue of Koyabez.
+
+Silverite walked toward him. Mog stayed behind at the temple with Jane.
+
+Erick breathed.
+
+Silverite waited.
+
+Erick said, “I am ready to flush out Spur.”
+
+Silverite nodded, saying, “Thank you, Archmage.”
+
+“Of course, Mayor.”
+
+“I have already spoken to the people, the doctors, and the priests. Everyone who thinks they might have intestinal rads has been located and secured. [Weather Ward]s have been provided for anyone who is wary, or the people have provided their own. Spur is ready.”
+
+“I have just confirmed with a bit of experimenting out in the Forest that, yes, [Weather Ward]s do block [Withering]. So if you give me the order, I will [Withering] Spur, right now.”
+
+Silverite said, “Then you have your order. Do it, Archmage.”
+
+Erick nodded. He took to the skies, flying above the walls of Spur, above the people. They watched him fly overhead; some of them ducked into [Wards], some stood out in the open, cheering. Some scrambled under cover, hiding as Erick flew overhead. He raised his head and looked forward as he flew toward a central tower, the same one he had struck with lightning weeks ago. The tower still bore the black marks from his lightning; it was still uninhabited and half dilapidated, too, one wall gone, one wall collapsed, the roof looking like it had never been there in the first place.
+
+He passed the tower, and went down to a street he had seen in passing, but never really traveled. The usual crowd on the street parted for him. Erick was ashamed that they felt the need to step aside, as he walked toward the public entrance to the sewer.
+
+The sewer entrance was an arch of stone and two guard booths, with five guards out of their booths. The guards on duty must have known he was coming, because they held back a crowd of complaining people who were angry that they were removed from hunting slimes. But as Erick stepped toward the entrance, the crowd went silent.
+
+The sewer entrance ahead was a slow descent into the bowels of the city, 20 feet wide and lined with light orbs. He had never been down there, but he knew enough of the layout to know that there was only one way to do this properly.
+
+Mana Shaping X.
+
+[Withering].
+
+Like an invisible tsunami released, [Withering] flooded through the sewer entrance, racing through the dark tunnels underneath the city, floating above the waters, settling against stone, filling in every nook and cranny like some giant intangible slime monster. The spell filled the sewers completely; nigh-invisible [Withering] ooze started to spill upward, through storm drains and up into Spur, through every possible entrance it could find.
+
+Notifications for slimes appeared first.
+
+Shadowolves came second.
+
+Erick looked all around him, judging distance, waiting a few minutes for his mana to get back up to 500.
+
+Mana Shaping X.
+
+[Withering].
+
+Another near-invisible tsunami exploded through Spur, joining the first still oozing up from the sewers. Erick’s second [Withering] filled up the city to the tops of the walls, then climbed up the towers, clinging its thick-aired, intangible self onto every building and across every surface. It washed across [Weather Ward]s, unable to penetrate, but touched everything else.
+
+Shadowolves died.
+
+Two shadowcats perished.
+
+Erick said, “Two shadowcats, eh?”
+
+The crowd around him got a lot quieter.
+
+A guard asked, “Shadowcats, sir?”
+
+“Yeah. Two of them. I’m not sure where, though. People will be finding shadow bodies for days.” Erick roughly counted up the boxes. “Looks like… 20 slimes. I thought they only had small rads in them? Maybe 400 wolves. Hard to tell. Two cats.”
+
+The crowd murmured.
+
+“Four hundred!”
+
+“That’s… a lot.”
+
+“Gods protect us!”
+
+Erick waited.
+
+The spells began to unravel.
+
+The second spell flowed downward, as the first one vanished, slipping into the sewers like so much thick air. Then it, too, began to unravel.
+
+Erick said, “That’s it. No more wolves or cats in Spur, unless someone protected them in a [Weather Ward], or they killed people to get into a [Ward].”
+
+Erick nodded goodbye to the stunned guards, turned on his Handy Aura, and flew away, across the city, back to his home in the Human District.
+
+Silverite, Jane, Teressa and Rats, were all waiting for him. Poi, who had been following him through the air this whole time, except when Erick had [Teleport]ed away, silently touched down behind him.
+
+Silverite asked, “Final count?”
+
+“20 slimes, 400 to 500 wolves; I’m not counting all those boxes. 2 cats.” He paused, then looked at his previous notifications. “And so, so many wolves in the attack. Thousands. Multiple thousands. And then… 10 giants. Some more Participation than others. Most are at 15%. Two more cats. Two humans.”
+
+Silverite said, “Thank you, Archmage. I would like to call upon you to perform this service occasionally.”
+
+“Of course, Mayor. I’m glad to help.”
+
+She nodded. “Valok would like me to inform you that he has rescheduled the full day of rain for tomorrow. If you are able, the farmers would appreciate your acceptance of their request.”
+
+“Of course, Mayor. I’ll be there.”
+
+“Thank you, Archmage.” She breathed. She said, “Thank you, Erick.”
+
+Erick tried to smile. He couldn’t. He just nodded. “Anytime.”
+
+“If you’d like someone to talk to, my office is always open. I’m not always in there, but someone can find me easily enough.”
+
+Erick remembered something important.
+
+But what Silverite had said was important, too. Erick said, “Thanks, Silverite. I’ll swing by tomorrow— Ah. No. Raining tomorrow.” Erick looked at the ground. He looked up. “I’m going to make some board games and look for players tomorrow, if you want to join me in the temple.”
+
+She smiled, her silver scaled skin flawless perfection; her eyes, also solid silver. She said, “I would like that, very much.” She bowed, “Good day, Erick.”
+
+“Good day, Silverite.”
+
+Silverite walked away, across the flat orange stone of the Human District.
+
+Erick went directly to Jane and wrapped her in his arms. She was stiff for a moment, but then she wasn’t. Silent tears rolled down Erick’s face and touched Jane’s shoulder, soaking into her shirt.
+
+She said, “It’s okay, Dad.”
+
+“It’s no—”
+
+“Yes.” Jane’s voice was solid titanium steel. “It’s okay. It was necessary. Because of your actions the outcome of Bulgan’s attack was a thousand times better than what it could have been.” She broke the hug and held Erick by his shoulders, and said, “I went to Frontier. They’re damaged, but they’re alive. You did good.”
+
+Erick wasn’t about to argue with her.
+
+Poi said, “She’s right, sir.”
+
+Teressa grunted, “Losses are inevitable. Wins are not. Take the win.”
+
+Rats said, “What she said.”
+
+Erick sighed. They were right, but he was suddenly, very, very tired. It wasn’t even noon, but he needed to sleep. He nodded to Jane, Teressa, Poi and Rats, then went in the house. He [Cleanse]d himself and plopped into bed. Sleep was not immediate; he didn’t think he could actually sleep, staring at a pair of blue boxes that he knew were going to haunt him for years to come.
+
+Sleep eventually came, though. Sleep always eventually comes.
+
+- - - -
+
+A shove and a voice woke him up.
+
+“Wake up, asshole!”
+
+“Yeah! Wake up!”
+
+Erick opened his eyes to clouds.
+
+Fuck-a-duck, he was not in the mood for a Rozeta dream.
+
+“Go away.” Erick said, “I’m tired and terrible and would like to wallow in my own self pity, thanks.”
+
+“Too fuckin’ bad!”
+
+A slap came out from the left, clipping Erick across the face. Erick looked around. Where did that fist come from? All he saw were clouds.
+
+“If you must resort to physical violence, then do so methodically.” Rozeta’s draconic form flew through clouds, whispering, “Calm and focused; concentrate on the now.”
+
+Erick tried that—
+
+Another slap came from the right.
+
+“Not you! She’s talking to us!” The palm belonged to a tall pale woman with brown hair. “Good! You can see us now.”
+
+There was a tall woman, and a shorter man. Both of them looked browned by the sun, like they had spent years in the desert. The woman looked older, far older than Erick. Wrinkles lined her face, her muscles had withered with years. The man…
+
+The man was a boy. A boy still in his teens.
+
+Erick blinked, and they were both 20-somethings.
+
+The woman said, “Holy Heavens! He’s more than half my age! You’d think he’d know this crap by now.”
+
+“But he doesn’t,” said the man, eyes full of sorrow. “I didn’t know until I died. Some people will never know; some people never have a chance to learn.”
+
+“Who are you?”
+
+The woman said, “An old biddy who lived well past her prime. I spent the last minutes of my life protecting my granddaughter from wolves while my insides poured out of me.”
+
+The boy said, “A kid who couldn’t move much, on an adventure with my father and my sisters. My life is over, but he’s going to blame himself all the way till the bitter end.”
+
+The people he had killed?
+
+Oh. No. Erick could not handle this. He had to run, he had to—
+
+The world rippled.
+
+“Don’t you get gone yet!” The woman latched on to Erick, digging her nails into his shoulders. “I got something to say to you!”
+
+“Me too,” said the man.
+
+“I’m pissed as all hell!”
+
+“I hate you, a little bit.”
+
+“But that was then.”
+
+“This is now. And now, we see a lot more than we saw before.”
+
+“Thank you,” said the woman.
+
+“Thank you,” said the boy.
+
+“Because of you, my granddaughter is safe from wolves.”
+
+“Because of you, my father was able to save my sisters.”
+
+“You saved our futures.”
+
+“You saved our families.”
+
+“Even though you didn’t save us—”
+
+“—You still saved everyone else.”
+
+“And that’s enough.”
+
+“That’s more than enough.”
+
+The woman and man faded, slowly at first, then all at once.
+
+Erick was suddenly very, very alone in the sky.
+
+Rozeta’s voice carried on the wind, “Hundreds of thousands of Warriors Against the Dark would have joined these two in death, if not for you, Erick Flatt.”
+
+The Dragon Goddess of the Script appeared, as a long winding dragon, directly before Erick.
+
+She spoke, “Do not fret and fear for those who go before; for you are here, and now. There are much more pressing needs for ones such as yourself.”
+
+Erick yelled, “Of course there are more pressing needs! I need to be stronger, to keep my daughter safe. I need to be quicker, to act sooner, because I know people died while I was stuck thinking. I need to be smarter, so I’m not stuck thinking so often! I’m just having difficulty, you know? Accepting the mortal condition, and all that shit. Fuck! I don’t need a pep talk. I need time to come to grips with what I already know.”
+
+Rozeta looked down upon him. In a flash, she was person-sized, and wrought-bodied. She stood next to him in the clouds.
+
+She asked, “Time is easy, up here. Time is harsh, down there. I can give you as much time as you need, but I can’t give you eternity. You still have a part to play in mortal affairs.”
+
+Erick almost laughed, but instead, he just laid back on the clouds, and said, “Thank you.”
+
+Rozeta said nothing. She just sat next to Erick, as Erick stared at the drifting clouds.
+
+Time passed.
+
+Maybe, a lot of time passed.
+
+Erick asked, “Are souls real?”
+
+Rozeta nodded. “Yes.”
+
+- - - -
+
+Erick woke up.
+
+His room was empty, but sunlight came straight down through his window, while the smells of spices and meats drifted up from downstairs. He sighed out, laid there for a bit, then rubbed out moisture from his eyes and got up.
+
+Al and Jane were there for a lunch that Savral had cooked. Erick had missed Savral’s cooking. He was really good with the local spices in a way that Erick and Jane were both still learning. There were some platitudes laid out for Erick, by everyone, though he could tell that Jane was holding back; mostly watching him for signs of breakage.
+
+Sure, he was breaking, but sometimes that was a good thing.
+
+After lunch, Al and Savral left with an invite to come to the farms tomorrow, then Erick [Stoneshape]d a boulder from the flat ground outside and floated it inside, to the south tower; his tower. He made three board games; chess, checkers, and the one that took him the longest: not-scrabble. He had no idea how many of each letter to make, or how many points they were worth, or how the board even looked. Was it 20 x 20? No. That didn’t look right. 21 x 21? That seemed better. 21 x 21 it was; the middle row was perfect for the starting star and the triple word scores.
+
+21x21 was a big board, though.
+
+Oh well. Should be fine.
+
+The sizes for chess and checkers were much easier to remember: just line up all the pieces for chess and that’s the size of the board for both games. Castle x 2, Knight x 2, Bishop x 2, King and Queen, and then 8 Pawns, per side.
+
+When he finished that and set them aside, he went out, and at Poi’s direction, he found what he was looking for in a general store on Merchant’s Row: Cards for Wizard’s Towers. He had liked the games he played with Bacci and Savral and Jane in the Sewerhouse, before they were attacked. As he looked at the thick paper card box, scrawled with ‘Wizard's Towers’ in fancy script, he chuckled. For such a bad word to be used so openly, this card game was a little scandalous, wasn’t it? He bought the cards from an exceedingly polite man behind the counter, and put them in his shoulder bag.
+
+Then Erick went to the Courthouse, since it was on the way back home. He waved hello to Taro, the redscale guard at the front. Taro was busy with some people off the street, so he just waved Erick through a pair of guards stationed further in the Courthouse. Taro went back to talking to the people off the street; occasionally instructing a fresh-faced orcol recruit standing behind the guard station, behind Taro, on proper procedure.
+
+Erick nodded to the two guards as he walked past them, and they nodded back. Erick had never seen any more guards in the Courthouse except for Taro and a few others; these two didn’t look new, but where they were stationed was certainly new.
+
+At the floating, lightward globe of Veird in the center of the Courthouse, Erick looked right, toward the public offices and Silverite’s office. Then he turned left.
+
+The solid blue door of Irogh’s office was already open.
+
+When Erick approached, Irogh’s voice called out, “Come on in, Erick.”
+
+He turned to Poi. “Please stay out here.”
+
+“Of course.”
+
+Poi moved to the side of the blue door, and stood, waiting. Erick walked inside, then shut the door. It clicked; the blue of the surface gently glowing for a brief second.
+
+Irogh was much the same as Erick remembered; an exceedingly handsome man. But after living in Spur for over a month, Irogh was no longer the Most Handsome Man in the world. Sure, that short sleeved shirt did amazing things as it bunched up around his shoulders and his chest… And his arms. And that stubble was great—
+
+“How can I help you?” He gestured toward the seats. “Please. Have a seat.”
+
+“Sorry. That touch of the goddess is still very entrancing.” Erick joked, “And 20 vitality is doing a number on my physical responses. I feel like a darn teenager.”
+
+Irogh laughed. “Don’t trouble yourself with such a concern.” He smiled. “There are much bigger shadows out there to concentrate on.”
+
+Erick took a seat.
+
+He breathed.
+
+He thought.
+
+Irogh waited, patiently.
+
+Eventually, Erick said, “I want to kill every single Shade and empty Ar’Kendrithyst of shadows, but most importantly, I want to kill Bulgan —any Shade at all, really— the next time they attack, or show their face. Utterly, ruthlessly. Dead and gone forevermore. I’ll give up the idea of fighting inside Ar’Kendrithyst for the ability to murder any Shade that steps out of the Dead City. How should I proceed?”
+
+Irogh smiled gently, then he started talking.
+
+“Firstly, you must know that Shades are trapped, not by any spell or any power, but because that’s where all the other Shades live, for Ar’Kendrithyst is a trophy; the brightest jewel in Melemizargo’s dark crown. Kendrithyst was the first and largest wrought city to ever fall to the Dark Dragon. When the Dead City surfaced from the Underworld 950 years ago, the Shades— the priesthood of the Dark Dragon, they rushed to claim it, and they succeeded. Save for a very, very small section overseen by Killzone, the city is the Shades', utterly and completely, and it is massive.
+
+“Ar’Kendrithyst is 140 kilometers wide with an average 50 kilometer depth, but it goes a lot deeper; the line between the Underworld and the Dead City is not always obvious. Inside the city, there are districts ten times the size of Spur, and those are the small ones. Bridges are everywhere, buildings are dozens of kilometers tall. There are still locations inside the Dead City unseen by mortal eyes and unknown by mortal minds, for nearly a thousand years. Finding a Shade when they don’t want to be found is almost impossible, for they look nothing like how they appeared on the walls, or the dark wind attacking Frontier.
+
+“The manifestations you saw today were due to an ability called [Avatar of Melemizargo]. Killing an Avatar would kill the Shade, but the caster can abandon their ability at a moment’s thought, returning to their bodies inside the city. And inside the city, they are much, much more dangerous, because they have all their powers as an Avatar of the Dark God, but in their original, person-sized, bodies.
+
+“[Withering], without modifiers, covers about 1 cubic kilometer. The dead city occupies almost a million cubic kilometers. If you wish to cull the city of shadows, you will need to get much, much stronger, or figure out some new way to use [Withering], or some other spell, because every Shade still has access to all the magic they had in life.
+
+“All of them have [Ward].” Irogh added, “And now they know to use it.”
+
+Irogh went silent, waiting for Erick to speak.
+
+Eventually, Erick said, “All of these are problems to overcome; please help me do so.”
+
+Irogh nodded. “Certainly.”
+
+They talked for hours.
+
+- - - -
+
+END OF BOOK 1

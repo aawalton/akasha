@@ -1,0 +1,49 @@
+---
+id: 56efdc52-309e-5075-9597-797801b99f59
+page-type-slug: story-chapter-royal-road
+title: "AMELIA WEBTOON (pre-emptive) ANNOUNCEMENT + Patreon tier updates"
+slug: 0026-amelia-webtoon-pre-emptive-announcement-patreon
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 26
+ownLength: 489
+unit: words
+publishedAt: 2023-10-10
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1369858/amelia-webtoon-pre-emptive-announcement-patreon"
+royalRoadId: "1369858"
+---
+
+And there you have it! The opening scene of Amelia shown in Webtoon form!
+
+I'm ngl, I've been working on this since December of 2022. That's right, I've been working on this since the FIRST month Amelia came out, since if you don't already know, I have had experience with making another comic for my other series, Salvos. But just like with the Salvos webcomic, I have run into a ton of complications in the production of this. Without going into too much detail, this is the FIFTH artist I am working with for the Amelia webtoon, but unlike the others, this one seems like it'll stick.
+
+Anyway, just like the Salvos webtoon, the estimated cost of the Amelia comic is going to be around $100k, which I will be self-funding, and once again, I'm not cheaping out on the quality of the art. Unlike other authors who have comics that are funded by companies or publishers, I am fronting the cost entirely on my own to ensure that there are no significant changes made to the story. So... I really need your support at this time if you're willing to subscribe to my patreon.
+
+I've even made some patreon changes!
+
+I have increased my patreon rewards across all relevant tiers to offer more chapters ahead than previously offered! So now my rewards are:
+
+$5 for 5 chapters ahead (previously 3 chapters ahead) + comic previews
+
+$10 for 21 chapters ahead (previously 15 chapters ahead) with the goal of reaching 25 chapters by the end of the year! + comic previews
+
+Seriously, consider subscribing to my patreon, because not only will you be supporting the Amelia webtoon, you'll also gain access to more rewards than ever before!
+
+MelasDelta | Writing Web Serials / Web Comics | Patreon
+
+Now, who's going to be the distributor for the Amelia Webtoon? Well, I already have a distributor locked in, but I don't believe I can reveal any information just yet, so that will have to remain a secret for now. Just know that I will be making a few minor changes in the webcomic, but the general outline of the plot will progress the same way! So if you're a novel reader, you don't need to read the webcomic if you don't want to.
+
+But you should anyway, because it's really cool. Check out these preview panels if you don't believe me!
+
+Look at those effects!
+
+Unimpressed Amelia!
+
+And here's some DBZ shit!
+
+To wrap up:
+
+Again, this is going to be a full-on Webtoon production, just like the Salvos comic. I have put in so much of my time and money into make this work out, so I really would appreciate any support you can show me by either spreading the word about Amelia as a story or checking out my Patreon and its updated rewards <3
+
+Its release date is ETA mid 2024.
+
+Thank you all for reading as always!

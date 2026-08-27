@@ -1,0 +1,269 @@
+---
+id: de163e2c-e641-5f27-9970-7b107ec8140d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: New Skills"
+slug: 0007-chapter-7-new-skills
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 7
+ownLength: 2559
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701724/chapter-7-new-skills"
+royalRoadId: "3701724"
+---
+
+Hannah POV
+
+She hadn't always been a frontier healer.
+
+Back when she was still a servant of a Noble House, every slot she could have used to grow into something else, combat, alchemy, even basic swordwork, had been filled with nothing but external healing skills, one after another, until there was no room left for anything of her own choosing.
+
+The House hadn't cared what she wanted to be. They'd cared that she could patch up guards and huntsmen fast enough to send them back out again. It made her formidable, easily one of the best external healers anyone in these parts had ever seen, but it also left her mediocre and borderline useless at everything else.
+
+That had been one of her biggest regrets. Especially when she found out about her kinetic affinity. She could have been so much more. Still, she never gave up, and even without a skill, she learned to manipulate kinetic energy, which was no small feat.
+
+But that was also her limitation. No matter how strong Ben thought she was, the kid’s perception was only limited. She couldn't fight. She could only use the kinetic energy for so long.
+
+She couldn't even heal herself since all her slots were filled with external life skills.
+
+She was a very jaded person, so when Duncan first dragged the kid out of the burned village, she honestly didn't feel much pity. As a frontier healer, she had seen so much blood and death that she couldn't really care about one more tragic orphan.
+
+It was definitely sad, but that was just how the world worked.
+
+Honestly, her first thought was that the strangely calm kid might be a skinwalker.
+
+When that turned out to be a false assumption on their part, she had genuinely apologized afterward because it was the right thing to do.
+
+But actually teaching him about the system and his [Focus] skill turned out to be a big mistake. From that day on, the kid never stopped bothering her.
+
+Whether he was finishing his solo training in the first month or getting badly beaten up by Duncan later on, Ben always found his way to her medical tent every evening.
+
+He kept pestering her with endless questions about mana and the world, and it got exhausting. What a nuisance he was.
+
+Duncan's insistent request that she teach him had barely moved her.
+
+Eventually, seeing as he just wouldn't go away no matter how much she glared, she had tiredly answered a few of his questions.
+
+Surprisingly, tossing him some basic knowledge had actually made him leave her alone for the night.
+
+So she kept answering his daily questions, just to finally get some peace and quiet.
+
+But somewhere along the way, the annoying little pest had actually grown on her.
+
+He was incredibly cheeky, hopelessly petty, and surprisingly silly beneath that overly serious mask he put on to handle his new life after the village. He usually kept it hidden pretty well, but sometimes it slipped through.
+
+Like the time she'd accidentally called him "kid" one too many times, and he'd retaliated by accidentally calling her "old lady" for the rest of the week, no matter how many times she threatened to feed him to the wolves.
+
+Or the night she'd beaten him at a simple guessing game and he'd sulked so hard he refused to ask her a single question for an entire evening, sitting there in stubborn silence until his curiosity inevitably won out and he caved.
+
+She still remembered the pointed, offended look he'd given her the one time she'd used a bit too much force resetting his dislocated finger, like he was cataloguing it for revenge later.
+
+He hadn't said a word about it, but two days later, her tea had mysteriously tasted like way too much salt.
+
+Little things like that.
+
+Losing his entire life and home so suddenly had to be very painful, even with a mental skill like [Focus] helping him hold it together, so she tolerated him.
+
+Hannah leaned against the wooden table and gave a fond, slightly sad smile.
+
+She just had to get through this messed up deployment.
+
+In just one more year, she'd finally have enough funds saved to buy that small, quiet clinic in the capital.
+
+She just wanted to heal scraped knees and give out cold medicine instead of constantly patching up disemboweled soldiers.
+
+Maybe she could even bring the kid back to the capital and get him into a proper academy, so he wouldn't end up like a battle crazy meathead like Duncan?
+
+It wouldn't be such a bad life, honestly. Ben could use someone like her since he had lost everyone, and she wouldn't mind having company as she grew older either.
+
+She shook off her thoughts and stepped back from the wooden tub. Hannah wiped a bead of sweat from her brow.
+
+The boy didn't even hesitate before slipping into the hot water.
+
+But the exact moment she jumpstarted his circulation, she was startled. The glowing blue water spun quickly, turning into a small whirlpool around his tiny body.
+
+He was actively pulling the essence.
+
+How in the world is he doing that?
+
+She glanced over her shoulder and gave Duncan a baffled look. He just chuckled and crossed his thick arms.
+
+"The boy really is a monster, isn't he?"
+
+Hannah frowned at the tub, struggling to understand what she was seeing.
+
+"Is this the other aspect of his [Focus] skill?"
+
+She asked her question out loud, and Duncan only shrugged.
+
+"Who knows?"
+
+Hannah turned back to the water and watched as the vibrant blue faded to a dull, murky gray in just a few minutes.
+
+He had already drained every shard they had thrown in. Sitting perfectly still in the tub, Ben's face twisted into a frustrated frown.
+
+He looked completely starved for more.
+
+Duncan laughed, stepped forward, and tipped his holding bag over the water. A huge pile of essence shards fell into the tub.
+
+It was much more essence than a Tier 0 would ever possibly need for an advancement, especially for an untrained brat like Ben.
+
+Almost instantly, the water flared bright blue again as Ben quickly absorbed the new essence.
+
+Hannah stared in disbelief and gripped the edge of the wooden table.
+
+"Duncan, how is he even storing all that?" Gesturing wildly at the boy's frail body, she couldn't wrap her head around it. "His core is completely new. He hasn't had any expensive elixirs or high-tier assistance to forcibly enlarge his capacity since birth like the noble brats!"
+
+Duncan rubbed his chin and narrowed his eyes at the swirling water.
+
+"He isn't keeping it in its raw form. I think he's compressing the essence, refining it to a much higher purity before letting it settle."
+
+"Compressing it? Is he really doing something that advanced this early?"
+
+Duncan shrugged and didn't look sure himself.
+
+"Maybe he is. I can't think of any other reason his body hasn't exploded yet. Honestly, it's not that advanced. Stop overreacting."
+
+She scoffed. This man and his standards.
+
+Slowly, the violent whirlpool began to calm down. A handful of the shards still had essence, but the vast majority had been completely drained dry.
+
+Then, the pressure of an evolution washed over the tent and everyone inside. Because of their Tiers, they barely felt it, if at all.
+
+But he had done it. The boy was now officially Tier 1.
+
+Ben suddenly gasped and snapped his eyes open.
+
+For a moment, the boy's irises lost all color and turned silver. After a few quick blinks, the color returned, leaving behind his usual mundane brown eyes.
+
+Ben slumped in the cooling water and stared blankly.
+
+He had a very odd look on his face.
+
+Ben POV
+
+Ben blinked rapidly and stared at the water, his eyes unfocused. He felt strange as he tried to make sense of his broken, blurry memories.
+
+He clearly remembered the darkness.
+
+He also remembered the terrifying wooden door floating in the void. He had made sure not to touch it let alone open it. Thankfully, the temptation hadn’t been that strong.
+
+But after that, there was nothing else.
+
+He'd just found himself out here.
+
+He felt like he was forgetting something, but it probably wasn't important. As he tried to shake the cold feeling down his spine, he was surprised to see runic symbols appear in the air right in front of him.
+
+He turned his head and saw the floating text stay right in front of his eyes, moving as he moved. The runes changed and twisted fast before turning into words he could understand.
+
+Would you like to learn the skill: [Physical Conditioning]?
+
+Ben stared at the notification, his mouth hanging open in shock.
+
+Hadn't he learned this yet?
+
+That meant all the amazing stamina and muscle growth he thought was magical had actually happened on its own.
+
+How? How could that be possible?
+
+He frowned and thought about his [Focus] skill. If he hadn't gained any skills during Duncan's hellish training, then where did [Focus] come from?
+
+Did he get it the moment he entered this world? Or did it appear when he activated his system? Maybe it was something he always had? Was it innate?
+
+Regardless, he chose 'yes' in his mind and decided to worry about the mystery later.
+
+Congratulations! You have learned the skill: [Physical Conditioning]!
+
+He was excited when the notifications didn't end there.
+
+Would you like to learn the skill: [Mana Sense]?
+
+Congratulations! You have learned skill: [Mana Sense]!
+
+He was so excited he could hardly sit still. He finally had a real mana skill, something he had wanted since the very beginning. He couldn't believe it. Now, he couldn't wait to figure out what effects going all in on the Mana path had on his skills.
+
+Acting on the instinct ingrained in him the moment he advanced to Tier 1, he eagerly willed his status into existence.
+
+Name: Benjamin
+
+Tier: 1
+
+Skills (3/10):
+
+Focus - Lvl 1
+
+Physical Conditioning - Lvl 1
+
+Mana Sense - Lvl 1
+
+Reading the top of the list, he was happy to see his status reflect his Tier, but his mood crashed when his eyes fell on the skills section.
+
+Wait. Three out of ten?
+
+Skill slots were actually limited?
+
+Ben turned to the two adults and gave them a flat look.
+
+"Why did either of you not tell me skill slots are limited?"
+
+He had literally just chosen 'yes' like a total, impatient idiot. He had been way too excited!
+
+"What if one of these skills is bad?"
+
+He knew it was his own fault for being so incredibly impatient, but he still felt upset. Luckily, [Focus] helped him keep his emotions in check so he could talk.
+
+Hannah chuckled and walked over to hand him a dry towel.
+
+"Calm down, Ben. You're completely fine."
+
+She draped the towel over his wet hair and smiled, clearly amused, as she began to dry his hair.
+
+"Skills naturally evolve and merge as they level up and you gain more insight. You typically need the exact skills offered to you upon your advancement because they form a crucial base, and the system doesn't just hand them out randomly."
+
+He slapped her hand away and took the towel himself, drying his hair. She stepped back and crossed her arms, looking relaxed.
+
+"Plus, there are specific ways to increase your maximum slots later on, though I highly doubt you'll reach that far anytime soon. If you don't mind me asking, what exactly did you get?"
+
+Ben looked at Hannah and Duncan, then let out a defeated sigh.
+
+Duncan offered a lazy shrug, silently deferring to the healer's obvious expertise on the matter. He was more of a battle junkie than anything. Regardless, Ben wondered whether he should tell them about his skills.
+
+He wasn't ready to trust just anyone with his skills, but after so much time here, these two had grown on him quite a bit. And he trusted them. So he listed his newly acquired skills, and Hannah's eyebrows shot up in surprise.
+
+She let out a low, impressed whistle and nodded in approval.
+
+"Getting two new skills is a lot for someone just starting out. They're all common, but that's still impressive. Most people only get one new skill. You've got a nice mix here. [Physical Conditioning] works on its own as it is purely passive, while [Mana Sense] is an active skill so you have to activate and feed mana to it."
+
+"Feed mana?"
+
+"Yeah. Don't worry about it. They will take mana on their own. We still haven't taught you how to manipulate mana yourself after all, so skills that just take your mana and turn it into some kind of effect are the best for now, instead of the more manual, if a lot less restrictive. Keep in mind, as skills evolve and merge, they often develop both active and passive traits to save space. Wait, did we never explain what passive and active effects are? Eh, it doesn't matter. It's pretty self explanatory."
+
+Waving a hand dismissively, she continued to calm his gamerbrain induced panic.
+
+"I wouldn't worry about the slots too much. We can learn only 10 skills before reaching our soul capacity at the start. Duncan and I have already been thinking about combinations that could work for you. But that'll have to wait until we figure out which affinities you resonate with. Early skills usually overlap a lot anyway. You only start to specialize later. You can just learn those base skills and fuse them into exactly what you need, so you aren't actually losing anything. Besides, do you think learning skills is that easy?"
+
+She leveled a serious look at him.
+
+"Still, we are definitely going to have to expose you to different affinities soon. We need to see which ones your core naturally reacts to the most."
+
+"Affinities? Just so we're clear, what exactly is an affinity?"
+
+"Yeah, so, think of it as a filter or specialized mana. Mana is everywhere, but it's raw. Your soul has a core that pulls in that mana. Your affinities decide how it gets processed. Affinities don't just suddenly 'awaken' as your system did. You just resonate with the mana, and it's finally realized when you learn a corresponding skill."
+
+"I see."
+
+"If you have a fire affinity, your core takes in raw mana, changes it, and funnels it into a specific fire reserve. Have an earth affinity? You get a separate earth reserve right next to it. Of course, you don't necessarily need filtered mana. You can make do with pure mana as is, as Duncan does. Pure mana is useful, but affinities have their own benefits too."
+
+Gesturing to herself, she briefly explained.
+
+"I have a life affinity and a kinetic affinity. Duncan, on the other hand, is a Strength path maniac, so he ignores his affinities even though working on them would really help him."
+
+The captain flexed his huge bicep and scoffed loudly.
+
+"Strength is all you need."
+
+Hannah rolled her eyes, then turned back to Ben and gave him a warm, genuine smile.
+
+"Anyway, kid. Congratulations on your very first advancement. Welcome to the Path of Ascension. Now, tell us how you allocated your essence."
+
+Ben gave her a sheepish grin.

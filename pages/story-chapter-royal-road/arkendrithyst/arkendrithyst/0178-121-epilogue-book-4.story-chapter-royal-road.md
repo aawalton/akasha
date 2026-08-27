@@ -1,0 +1,445 @@
+---
+id: 763cd2a7-7d03-5fb5-a193-1e59886452ba
+page-type-slug: story-chapter-royal-road
+title: "121 - Epilogue, Book 4"
+slug: 0178-121-epilogue-book-4
+partOf: arkendrithyst
+position: 178
+ownLength: 7937
+unit: words
+ownProgress: 7937
+publishedAt: 2021-02-08
+link: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/627755/121-epilogue-book-4"
+royalRoadId: "627755"
+markedReadAt: "2026-06-29T22:12:54.566Z"
+---
+
+Caizoa stood in the starlit sky, watching two different dramas unfold in two different directions. To the southeast, Ar’Kendrithyst and all that evil was undergoing a change of Underworld proportions. Almost all the Shades were dead, and most of those who survived had been placed under divine Blessings to ensure that they would be boons to the world, going forward. The one who had not been Blessed, Caizoa knew she was no match for, so there was no point in pursuing that fight. Still, though…
+
+Still, she kinda wanted to kill those she could. Better to clean up loose threads than to let them mar the tapestry going forward, as grandma always said.
+
+‘They’re Blessed by another artifact of My God,’ The Black Star sent, in response to Caizoa’s thoughts. ‘Killing them while they retain this Blessing is an act of aggression I cannot abide at this time. Take solace in the news that we will be the first informed if they break their Blessing.’
+
+… Which was fair enough, she supposed. It was, theoretically, possible for a Shade to be ‘good’. Uncle Anopix was a good Shade, after all. Caizoa was one of the very few people in this world that knew that a Shade could be and do good, so this was fine.
+
+… Fallopolis though, did not have the Blessing of the Silver Prism, which was just a tentative name for the Blessing and the artifact at the moment. Eh. Caizoa knew she would only wear herself out if she went after that one, and besides, Fallopolis wasn’t Caizoa’s main target. The young Juggernaut tried to put that awful human Shade out of her mind, as she concentrated on the path forward.
+
+The sandform woman gazed north east, to the sparkling city of Spur. Bonfires raged yellow glows upon every tower that could hold a fire, and in every watchtower on the walls, though they were still dim things, in the darkness of Shadow’s Feast. Courtyards and neighborhood squares held similar sights. And yet, no one was on the streets except those who tended to those large, yet dim fires.
+
+Well… There were some shifts in the Human District. Lotta action over there. Caizoa almost went closer, just so she could see what was happening at Erick’s house. But she did not. She refrained, contenting herself to watch from afar, as handheld wardlights scattered across the darkened district, and the unseen people holding them turned their eyes upward, looking for danger.
+
+That man… That human had pulled out a great deal of impressive spellwork back there, at the end. Rapid, almost casual [Dispel]s that locked down Shade after Shade were the most impressive. Caizoa didn’t think that anyone would ever have enough mana to be able to counter a Shade’s magic, but then again, she had overheard that Erick had been empowered by divinities. The depths of those empowerments did not seem real until the Black Star had spoken to her, and told her that killing Erick now, after he had gone out of his way to create a Greater Artifact for Koyabez based around empathy…
+
+Killing Erick Flatt now would indubitably result in her own death, and thus the failure of her main mission.
+
+So, not killing him was fine. This was okay. Maybe he wouldn’t get converted by the Angel. Caizoa could kill the blasted thing herself, anyway. Probably. She was still unsure about all that, for she had yet to ask her question, now that the Feast Barrier was gone.
+
+Caizoa prepared herself, then asked, “Where’s the target?”
+
+After a moment, the Black Star responded, ‘Mount Torkrendy is the main area of Converter Angel activity, with much of the countryside under Converter Angel control. The Angel itself is located a ways into Mondariska Mountains, west of Mount Torkrendy, halfway between here and Greendale.
+
+‘Secondary targets include many locations in the Wasteland Kingdoms. Tertiary targets have spread to Kal’Duresh, Portal, Spur, Frontier, and every city of the Sovereign Kingdoms. Fourth tier targets include other major cities all over the world, and in the Underworld.’
+
+Caizoa breathed. Holy shit, that was worse than she thought it would be. Her heart did a number in her chest, as she contemplated. After a moment, she decided. “I’m going to need help.” She put on a hard smile, to fight the ache in her heart. She would have had that help if not for Tania and Fallopolis. And then her thoughts turned harder. “At least those bastards back home can’t use you now that we’re together.”
+
+‘I would have been against helping some places before others, just to watch other places burn faster.’
+
+“You should have gone to Skorka. She was the smart one. You would have done a lot better with her.”
+
+‘You seem to be doing alright. You killed five Shades, after all. Level 80 looks good on you.’
+
+“The Class Abilities will certainly help. I didn’t know you’d function as a Registrar, too.”
+
+‘I have many functions, this ‘registrar’ one is just a facet of my power.’
+
+Caizoa turned to the west, where Kal’Duresh and the Wasteland Kingdoms lay. “Any suggestions of places to hit first?”
+
+‘The one right in front of you.’ The Black Star said, ‘Spur. And then Erick will assist you in your task. My God will ensure it, if you ask him.’ The artifact added, ‘There are a few things to keep in mind, though. Whichever place you attack first will likely inform the others that they are being successfully targeted. And then there’s this: Soon, this entire world is going to be set ringing with the news of this Shadow’s Feast, and my prognostication abilities are greatly weakened when everything is in an uproar over such a large, world-spanning event. What I can tell you now, though, is that Spur, Kal’Duresh, and Frontier will be under great scrutiny by all. The Angel might pull its forces out of here before anything truly happe—’ A pause. Then a rapid series of statements, ‘Ah. Nearby tertiary targets are already moving. All targets are moving. Consolidating. The news of Shadow’s Feast is spreading fast. An Ascendant Mind has descended to Spur. Spur is cleared of influences as of this moment— Make that two Ascendant Minds.’ A moment passed. ‘They are now aware of your presence, though they cannot do much since I am with you.’
+
+Caizoa would have paled if she had been in her fleshy body. She rapidly decided, “Let’s find targets in the Kingdoms.”
+
+‘As you wish.’
+
+She stepped away, through the sky at first, but then across the tops of the dunes of the Crystal Forest, moving almost as fast as a [Teleport]. Sandstepping was pretty damn fast across sand, after all.
+
+- - - -
+
+Poi stood inside the house, exactly where he needed to be, mentally messaging a hundred people over two hundred concerns rated from 8 star to 12 star, as well as overseeing Erick’s immediate bodily recovery. Mostly, he was doing the first. Teressa and everyone else was fully on the second. And besides, Erick was fine. Sure, he had passed out as soon as…
+
+Poi checked the message Erick sent him.
+
+Erick had passed out as soon as [Death’s Approach] ended. His soul had been damaged, but not too severely. His body had been ravaged by the transformation, but a double-tap from a rod of [Greater Treat Wounds] solved that problem. A real healer was on their way—
+
+Concerns radiated into Poi’s mind, and then they fell away, like a million kilogram weight lifted from his shoulders by a mind much stronger than his. No. Wait. Not a single mind. A pair, and then a trio. Poi glanced to the ceiling, and far beyond, to see the threads of [Telepathy] which strung across the sky, and to see the threads he had once held, now held by others with much more claim to that Domain.
+
+Poi pulsed out, ‘Sirs? Who has come?’
+
+For an unstable moment, Poi was utterly surprised, and yet not, as one of the greater beings of the Crossing above actually responded to him.
+
+An Ascendant Mind spoke with a dozen voices at once, saying, ‘This one is merely an assistant to understand the problems joining our world on this Shadow’s Feast. Don’t worry about these questions for now. Could you let me in a bit more, please?’
+
+Poi rapidly obliged. A cool feeling lifted up his mind above, briefly taking control of his body from him, but then giving it right back. Poi blinked, and saw that Erick was now seated in a recliner. A minute might have passed in that ethereal, disembodied moment, and Poi had come back much stronger for it, and with a lot more perspective. He gazed at Erick, and saw what he had already seen, but in a whole new light.
+
+The Fire of the Age, the Untouchable Killer of Ar’Kendrithyst, Veird’s First Particle Mage, and his boss, Erick Flatt, was perhaps the most pivotal living soul on Veird, at the moment. He was still unconscious and drooling on himself.
+
+That was probably for the best.
+
+A second Ascendant Mind asked, ‘I would like your cooperation to recreate Archmage Flatt’s message to you. There are many missing spots.’
+
+Poi gave his permission. It was easier this time.
+
+Again, he felt his mind touched, but this time with warmth and water; with mana unending, pulled directly from the Crossings above. He had managed to hold together much of Erick’s 300,000 mana missive, but he was only mortal. There were holes in the sending. And now, with Ascendant Two’s help, those holes began to fill. Poi was involved, yes, but only indirectly.
+
+Ascendant Two began to ask questions of Poi’s mind, and Poi’s mind began to answer. He had trained his mind very well, and so the answers given were mostly accurate, but there were mistakes here and there. Poi answered questions when they came, using his personal knowledge of Erick to cross gaps in his message that were gone forever. Recreating the whole missive took five minutes. Soon, a full accounting of Erick’s Point of View came into being. And what a Point of View it was.
+
+Intelligence!
+
+The transformation of Charisma into Perception!
+
+Laptops!
+
+Dead Shades!
+
+The creation of a Greater Artifact of Koyabez! The Silver Prism!
+
+The creation of Erick’s own Artifacts of Stats, which granted all four of the new ones! They had no names, but Ascendant Two tentatively labeled those artifacts as the Flatt Rings and the Flatt Belt.
+
+Poi’s mentality relaxed, as the Full Account came into being. There was nothing too damning in there, considering the outcome. With this composition and with the verification of it being composed of True Memories, verified by Ascendant Minds, Erick might avoid much of the blame of what will come after tonight. But as far as what would come?
+
+‘I have no idea,’ Ascendant Two sent.
+
+‘A lot of bad, and then some good,’ Ascendant One commented. ‘And then a lot more good. And then a lot more bad. The usual.’
+
+‘Thank you,’ Poi sent, meaning that he was thankful for everything, and that he hoped for a good outcome.
+
+With a knowing smile attached to the response, indicating that they were glad to provide assistance, Ascendant Two moved the conversation forward, ‘Keep your heading clear, Poi. You’ve already been elevated rather high, but with this, your position next to Erick makes you invaluable to us. Knowing what will come enables us to keep our people alive, and it is not an exaggeration to say that this world and many others will revolve around Erick’s actions.’
+
+‘If we play this right, we could have mentalists out in the open on other worlds,’ sent Ascendant One. ‘Maybe even on Veird, one day.’
+
+‘That will never happen.’ Ascendant Two said, ‘It is enough to know what is coming rather than to be in control of anything. Control is not good for our kind.’
+
+Poi asked several questions at the same time, about Forgotten Campaigns, Shades in the rest of the world, and the Converter Angel still out there.
+
+The Ascendants went silent. And then they asked another.
+
+The Crossing flexed, as yet another Mind touched down in Spur, right next to Poi.
+
+Invisible to most, and yet not invisible at all, they were a collection of thoughtful intents, an amalgam of hundreds, perhaps thousands of minds, and they were the arbiter of most final decisions and actions. A flick of divine fire encapsulated their being, but if anyone in the room noticed them, they said nothing.
+
+All of the nearby Ophiels noticed, for sure. Hundreds of eyes swung to the space next to Poi. Poi silently asked Ophiel for forgiveness before something terrible happened, and that was enough. Ophiels returned to their violin song.
+
+Ascendant Prime watched all of that happen, and then they responded with the silent voice of a half-step deity, ‘Erick’s missive has now been sent out to others, and with their help and my own workings, we have sussed out the edges of his sight that Erick was not privy to. His constant Perception and multiple Viewpoints helped immensely in this task. So, unless his new Intelligence has allowed him to lie most convincingly, or if his various touchings in the Darker Arts have allowed him to split his thoughts from his mind…’
+
+Poi tensed. Moments passed like the ticking of a clock toward the scheduled time of execution.
+
+Ascendant Prime sent to all who knew of the night’s events, ‘It is the choice of this Prime, that since no Black Thoughts have been breached by Erick’s journey into Ar’Kendrithyst, that we have no place in this fight. This is much too big for us to be involved, for this is not a problem of memories or the mind. This is not our domain. This is not our burden. This is not our problem. This is your problem, Poi, and the problem of the people in the ground, and the problem of the people of this world.’ Ascendant Prime added, ‘But as far as the Converter Angel is concerned: That is not our problem, either, and it never was. We cannot be involved in the affairs of this world. These people hate us just as much as they hate the monsters of Veird, and it is only through our vigilance and self-discipline that the people of this world have naturally forgotten their hatred toward us. Maybe, in another world and another place, we can make our own home and live in the light. But that time is not now, and it is not here. This is the verdict of this Prime. Smaller declarations will come in the following days.’
+
+Poi breathed out, smiling.
+
+Ascendant Prime left the group-think. A weight lifted from the world. The Crossing above became a tensed web again, instead of a thing distorted by Ascendant Prime. There were still two weights upon it, though.
+
+‘That went a lot better than I thought it would. This is good.’ Ascendant One seemed to breathe in, and out, relaxing, before they declared, ‘And with that… Most of the thoughts linked to you, Poi, have been spread onto the Crossing. Your necessity as a temporary Node has passed. Minds are speaking amongst themselves. I am done here. Thank you for your assistance.’
+
+Poi glanced up to see Ascendant One also release their hold on the Crossing. Various connections came back to Poi, and he began fielding them on his own. He sent his silent thanks to Ascendant One.
+
+After a moment, Ascendant Two declared, ‘Archmage’s message has been enshrined in the Crossing, for all eligible to see at their need. Our people are now dissecting Archmage Flatt’s message on their own, and adding more messages and notes onto all of it. Oh. Looks like it’s gotten a Designation. ‘The (possible) Final Shadow’s Feast of Ar’Kendrithyst, 1436 Post Sundering’. Ah. That’s going to be a Big File.’
+
+Poi watched, as the multi-Viewpoint ‘Final Shadow’s Feast’ shifted from a collection of Views, into a river of memories, beginning with Erick’s entrance into the Dead City, flanked by a primary View and three to ten others as Ophiel provided, then ending on Erick’s dispersal of the Feast Barrier. And then the tributaries came in. Countless copies of other files stitched into the main flow, allowing the viewer on the river to understand more about what was happening in the Main View.
+
+Larger rivers attended Erick’s View. Quilatalap was an ocean. Every single Shade Viewed by Erick was a river. Various spells and sights received streams or pools.
+
+And then the Archivist got involved, like a water-weaver, and some of those tributaries went solid, frozen, as it was decided that too many secrets were too out in the open. People could still view those files, as long as they got authorization first. Poi was automatically given a key, but he declined to pick that key up. He already saw which parts were locked out from public knowledge, and they were mostly the parts about soul magic and the various books Erick had read.
+
+Ascendant Two brought Poi back to the moment, ‘I cleared out a Converted among your city, as well as another Converted in Kal’Duresh and Frontier.’
+
+Poi almost startled.
+
+‘I know, I know. Prime said not to get involved. But that beast has been infecting souls the world over. That’s bad for what’s to come, if you ask me.’ Ascendant Two said, ‘No one asked me, though, which was a shame, but you don’t get to Ascendant without doing what needs to be done every now and then. Keep that in mind, Poi.’
+
+Poi almost voiced his question about how he hadn’t noticed the Converted.
+
+Ascendant Two heard Poi’s question without the exchange of such silly things like ‘words’. They sent, ‘It’s a soul infection. You should read up on Erick’s soul magic lessons, instead of hiding from those thoughts. But I understand the reluctance. It is not our way to gain knowledge this way. You could always ask Erick for some lessons, though. The Converted infection is very subtle… Ah. And now there’s Silverite, asking me what-the-fuck I’m doing. You can tell her about the Converted.’ Ascendant Two sent a memory packet, then sent, ‘I’m out! Good luck!’
+
+Poi took ten seconds to make sure everything was okay in the house, and it was.
+
+Then he answered Silverite’s call.
+
+‘Mayor.’
+
+‘Give me an overview. Short version.’
+
+This would have been a lot easier if Silverite was a Mind Mage and thus allowed to see the Crossing, but if she were able to do either of those things, then she wouldn’t be the Mayor.
+
+Poi began, ‘All but seven Shades of Ar’Kendrithyst are dead. The Clergy of the Dead City is gone, with Erick having a direct hand in all of those deaths, but he only possesses a Kill Box for some of those kills. All of the various bombs set up that would have exploded and harmed us all, due to a dying Shade, have been mostly contained to the Dead City. Erick killed the Witch, and cleaned up the resulting Extreme Light Swamp. The entire Aerie exploded just like we thought it would. Moving right along:
+
+‘He forced Hollowsaur to remake his Cursed Cows into a new species that Erick has called ‘Minotaurs’, but who are likely to be another stable Shifter people. He has worked with Quilatalap and attained Dark Knowledge of Souls, and gained every single new Stat, except Charisma, which has been turned into Perception. He has gained Perception. He has made artifacts that unlock and boost these New Stats. The tentative names for these two rings and one belt are the Flatt Rings and the Flatt Belt. The culture of the Brightwater has survived, and they are in there, right now, recovering. Quilatalap was not seen in the final battle. Erick has no idea if he survived. There are more smaller events, but those are most of them.
+
+‘Shade Survivors: Farix, Lapis, Goldie, Queen, Treant, Hollowsaur, and Fallopolis. The first six each have a [Blessing of Empathy], but Fallopolis has this other one.’ Poi sent along the description for [Blessing of Empathy] and [Blessing of Minor Truth]. ‘Erick used a one-off artifact spell from Koyabez to create the Silver Prism; an artifact that instantly imparts the [Blessing of Empathy] onto their target.’
+
+‘Oh My God.’ Silverite whispered through her connection without meaning to, ‘It’s real.’
+
+Poi continued, ‘There are many things that Fallopolis has promised Erick that she will do to ensure that the first six act according to their Blessing, while those first six have likely all received a Redemption Quest that is similar, or perhaps exactly similar, to the one Hollowsaur received.’ Poi sent that Quest Box along. ‘The Armory is ransacked. The artifacts are missing. The Library is undefended. Melemizargo has abandoned his Clergy, and has possibly abandoned Ar’Kendrithyst altogether, but shadows remain inside the kendrithyst towers. That’s all.’
+
+‘… Okay!’ Silverite took a moment to think, then she sent, ‘Erick is getting some more defenders. Suddenly! A good [Prismatic Ward] just isn’t enough! Shit! Gods damned… Erick! No no. Wait. This wasn’t his fault. There’s no way he did this on his own. Which gods were involved besides Koyabez?’
+
+‘All of them.’
+
+‘HA!’ She asked, ‘ Is Erick awake yet? He’s not answering my sending.’
+
+Poi looked over to Erick. ‘He’s still out of it, but he’s coming around.’
+
+‘Is he still human? Did he tell you about that? He got all the New Stats, right?’
+
+‘There’s a question mark by his species.’
+
+‘… Probably fine.’
+
+Poi said, ‘One more thing: There’s an incani Juggernaut with the Black Star looking to kill the Converter Angel. There was a Converted man inside Spur.’
+
+With much self-directed anger, Silverite said, ‘Yes. I heard about that part.’ With a suddenly lighter voice, she added, ‘Okay. Good work, Poi. Let me know when Erick comes around. I want to talk with him as soon as possible.’
+
+Silverite cut the connection. Poi could tell she was already sending out a few other connections to other people. Likely to Killzone, at least, and to a few Team Leaders, for sure. Spur needed to secure the major parts of Ar’Kendrithyst before anyone else could, otherwise it would be a major problem.
+
+Poi could see it now.
+
+The World had stood back, only reacting to Shade aggression every now and then. But now that the Dead City truly was dead? Now that Ar’Kendrithyst was undefended, except by monsters and traps?
+
+Like… The material wealth of the Palace District was worth several hundred kingdoms anywhere on Veird, except perhaps inside the Geodes. That place had solid gold gates, for gods’ sakes! There was no holding back when it came to [Duplicate] in there! And then there was the Library! And Truedark Arcanaeum! Securing some of those professors and probing them for information, and then gaining that information successfully, would mean solving existent monster threats the world over by knowing of monster weaknesses and then being able to exploit those weaknesses. And the Spire! If that place was intact at all, plumbing those depths and file cabinets and coming up with intelligible information would enable the deconstruction of many Shade affairs the world over.
+
+Very soon, the opportunistic carrion feeders of the world would descend upon Ar’Kendrithyst and rip it to shreds, if the place wasn’t already being torn apart.
+
+Erick came to, briefly, his lidded eyes opening and shutting just as fast. “Wha… What about…”
+
+Jane sat with her father, but she looked to Poi. “When is the healer showing?”
+
+“He’s been soul-damaged.” Justine spoke up from the staircase. “A normal healer won’t help.”
+
+Jane whipped around to stare hatred at Justine. “How do you know that?”
+
+“Peace, please.” Justine asked, “Anyone who has seen as much injury as I have could tell. There’s no blood. There’s no physical injury. Even if there had been, they’re gone thanks to that healing rod. If he’s still like this, then it’s either parasites, poison, soul damage, or mind damage. I’m just guessing it's the third option, as that makes the most sense.”
+
+Poi said, “Justine is correct. He’s suffering from soul damage. It’ll take two weeks to heal, according to what your father has already managed to tell me before he fell into this state.”
+
+A frantic smile alighted upon Jane’s face, briefly, and then it was gone. “Okay! Okay… Okay. That’s… That’s good news, I think. Isn’t it?”
+
+Kiri allowed herself a small smile. “Yes. That is good news.”
+
+“I still want a healer here.” Jane had been holding Erick’s hand, but now she held his shoulder as well. “Can you hear me, dad?”
+
+Erick mumbled, “I’m fine. It’s just…” He did not open his eyes, as he said, “Withdrawal from a divine spell, or something. I want to go to bed but I can’t do that yet, can I? Or rather, I shouldn’t. All but seven Shades of Ar’Kendrithyst are dead. Melemizargo has abandoned the city and his Clergy.” As his news elicited gasps from everyone except Poi, Erick turned his head to Poi, and asked, “How bad is it?”
+
+Poi was already fielding messages across the city, so answering Erick’s question was easy enough. “Not that bad right now. After the initial release of information on your trip into the Dead City has gone out into the world, there seems to be an immediate push back saying that this is all a trap, and that the Shades have tricked you into saying what you have said—”
+
+“How much has he said?” Jane asked, suddenly nervous and worried for her father’s continued well-being.
+
+“Almost everything,” Erick answered. “I’ll tell you, too.”
+
+Poi continued, “And since we are still only a third of the way through this Shadow’s Feast it appears most actions from the rest of the world will not happen until dawn breaks on the week of the Triumph of Light, tomorrow.”
+
+“Ahhh. That’s good. For the best.” Erick mumbled, as he recovered his senses, laid back on his recliner. He blinked a few times, then finally kept his eyes open. They were whiter than before, but he still had a pupil. He wasn’t a Shade himself. Poi couldn’t have gotten a read on the man if he was. Erick said, “But there are a lot of dangers I missed. They’re pouring out of that Dead City right now. I think the Witch—” Teressa went solidly still, standing at Erick’s side. Erick noticed, thanks to an Ophiel in the background watching them all. He continued, “I killed her, by the way, Teressa.” He produced a box and flicked it backward, toward Teressa. Teressa grabbed the box and stared at the blue rectangle. Erick said, “She created some new Moon Reachers. They’re shaggy black things instead of grey things. I killed some and I saw the Kill Notifications for them, too. They’re called Dark Reachers. I know some of them got away when her place exploded, but a lot of new toxic or Extreme Light monsters are in the Dead City, and I’m sure some are coming here.” With great difficulty, and with Jane’s help, Erick levered himself into a seated position. “There’s people that need rescuing, still trapped inside the city.”
+
+Jane thought for roughly half a second, then she stood up, and said, “Then it’s my turn to help. You’ve done enough, dad.”
+
+Erick smiled; an exhausted, happy expression. “I’m sure Killzone has started working out something. I’m going to have an Ophiel put an Imaging up near the Center Lane… Done.” He looked to his daughter, and said, “I missed you in there, but I’m glad you didn’t come. They would have murdered you right in front of me just to get a reaction.”
+
+“Yeah…” Jane suddenly seemed to realize, all over again, the gravity of her father’s recent journey. “You’re right.” She looked on the bright side, saying, “But now they’re all dead, and they can’t threaten us ever again!” She chuckled, then joked, “Only the monsters are left.”
+
+Erick let loose a large secret, like it was nothing, “There’s an entire people in the Brightwater. Hundreds of thousands, maybe. They’re going to be hard to deal with, but try not to interact with them too much, for now.”
+
+Kiri, Teressa, and even Justine, all flinched.
+
+Jane blinked. She was the first to recover. “… What?”
+
+Poi interrupted the revelation, “Killzone is calling in all hands. Guardmaster Merit is doing the same. Jane, since you are asking to be involved, you’re needed. Report to Reform Point Three.” He looked to Erick, and asked a useless question because he had just been ordered to ask, “Can you exclude the Brightwater from your Imaging?”
+
+“Uh.” Erick said, “Yes. Probably. But I’m not going to do that. To exclude that part of the Imaging would likely exclude all the people between the Imaging and the Brightwater. And that’s gotta be at least…” He glanced away. “Looks like 2 people. Well. I’m still not doing that.”
+
+“Understood.” Poi said, “We’ll just put blackouts on parts of your Imaging.”
+
+“Ugh. Poi.” Erick said, “The entire world will find out soon enough.”
+
+“This is true. But not tonight. Those people are dangerous, Erick. They’re a society raised in the dark of the Shades. They make the monsters, and they would kill us all if they could.”
+
+Jane turned to Justine, asking, “Who are these Brightwater people?”
+
+All eyes turned to the former shadeling in the room.
+
+“What are you looking at me for!” Justine honestly said, “I don’t know about people in Brightwater! All I ever knew was that it was off limits.”
+
+“And this is true,” Poi said, “The Shades kept the people in the Brightwater out of the light for good reasons. Those people are the monster makers, and the plague spreaders. The arcanaeum there lives up to its name very well; Truedark.” He said, “And now they have no masters. They’re free to escape into the world to integrate into other societies and harm whoever they wish to harm.”
+
+Erick said, “Everyone seems so worried about them but they didn’t seem that bad.”
+
+Poi frowned directly at Erick, and Erick noticed. Poi said, “And what about when that guy threatened all of us if you didn’t give him what he wanted?”
+
+Erick turned stern, as everyone else waited for the answer.
+
+Erick said, “It only took me a single hour to track him and his organization down, and then I chopped the head off of that couatl myself. That plot died with him.”
+
+Poi said, “And what about the people who are not you? What will happen to those normal people, the non-archmages, when the Brightwater does that to others?”
+
+Silence filled the room.
+
+Erick said, “Then they will be dealt with accordingly.”
+
+Jane softened, as she saw what Erick had been forced to do. She said nothing, but she put a warm hand on his shoulder, and held him for a moment.
+
+“I’m fine, Jane.” Erick sat back in his recliner. “But I’m really tired.”
+
+Poi said to Jane, “You’re needed at Reform Point Three.”
+
+“I can spend a little more time here.”
+
+“Yeah. But…” Erick tensed, as though his muscles ached, then he relaxed. “I’m fine. I set up a good dozen layered [Ward]s across the house with Ophiels just now, when no one was looking.” He smiled, as though he had made something simple out of a complex problem. “I layered the house with defensive [Ward]s, of all kinds. A single [Ward Destruction] won’t break these walls.” He frowned, realizing he had still not done enough. “But a [Chaining Ward Destruction] would still get through… Blast.”
+
+“It’s okay, sir.” Poi said, “You’re not the only one defending yourself anymore.”
+
+Erick smiled wide and laughed, though his eyes remained shut. “Right! That’s the better solution, anyway!”
+
+Jane nodded, then said, “Okay. Then I’m off. I’ll be back later.” She leaned down and hugged her father, saying, “I love you, dad.”
+
+Erick hugged her back, saying, “I love you, Jane. I softened the place up for you, so swing for the fences.”
+
+Jane laughed.
+
+- - - -
+
+The night was long, but the terrors were already mostly dead.
+
+Mostly.
+
+An attack of Dark Reachers managed to breach three streets into Spur, along the western edge, before they were discovered. Their major differences from the normal Moon Reachers were their downfall. They disintegrated magical defenses with a touch. If it weren’t for that, they would have gotten much, much further into the city. Their incursion still managed to get through four buildings and leave behind forty-eight dead before it was stopped.
+
+Two Dark Reachers were killed by the Guard. The Guard reported them speaking to each other, coordinating efforts and supporting each other, though their reports could not be considered wholly reliable, as the guards were thoroughly beset with [Thought Fog]s. Three Reachers escaped, but that number might have been low. Even a [Witness] conducted on the spot failed to uncover the full truth of the incursion.
+
+Ophiels displayed the power of orchestrated light-based attacks to an awestruck Spur, when Erick easily dispatched a double-size Toxic Hydra with wings that had flown out of Ar’Kendrithyst, spotted Spur, and decided to fly north. That 7-headed, mansion-sized monster now laid halfway between here and there, its body spilling green and grey goo out into the dark night. Eventually, Erick cleaned the corpse, though it took a good twenty minutes to get through all that radiation.
+
+Killzone and the Army rescued dozens of adventurers who were found inside the abandoned hallways of the Shades, looting as much as they could but failing to understand that even though the masters were away, the dangers were still active.
+
+Most adventurers, as soon as the itch of the anti-[Teleport] Blessing had vanished, vacated the city all on their own. On any other night, they would have likely gone right to the bustling taverns and started drinking and telling stories. But this was still Shadow’s Feast. Every bar or otherwise was still closed. The wardlights all over the city were still dimmer than they had any right to be.
+
+A few illegal parties did start in a few illegal gathering sites, anyway. The Guard broke those parties, and sent those people over to the one place that would take them: The Adventurer’s Guildhouse.
+
+The Guildhouses had both been packed with people who started their nights there, in preparation for something to happen, since something always did happen on Shadow’s Feast. When that ‘something’ turned out to be the destruction of almost every Shade of Ar’Kendrithyst, the people remained calm, as though someone was playing a trick on them. Some instantly moved to verify.
+
+Some had been staring at the Dead City since the night began. They had already verified the truth everyone else was just now hearing. They had already [Teleport]ed directly into the Dead City, directly where they wanted to be. They began looting. Some of them were wildly successful, having gathered enough wealth for themselves in a few uninterrupted minutes that others would take centuries to amass in any other way. Some only found a quick death, as the entire city had shifted and changed in the wake of this year's Shadow’s Feast. Sometimes literally. Some [Teleport]ed onto walkways that were no longer there, or into the maws of monsters that should not have been there.
+
+Sirocco Zago sent her best team into the undefended city the second she saw the Barrier come down and she connected enough dots to understand what she was seeing. She acted well before any official notices came down from on high. That team managed to make it into the Library with little incident. They made it out with similar grace, carrying the knowledge of both the Old and the New Cosmologies. But some texts were missing from their divined locations. Instead, they found almost all of those tomes stacked in a bundle just past the main doors to the place, on the right-hand side, on the floor, beside a shelf full of nothing-literature; mostly self-help books. (Those self-help books had to be a joke. They were right inside the entrance to a Shade’s domain, after all. They were a taunt, right? They had to be a taunt.)
+
+Hours after his arrival back in Spur, a little bit before midnight, Erick and Silverite shared a tense, tactical conversation, inside of a [Sealed Privacy Ward], inside his library. She asked fast questions. Erick answered quickly. Five fast minutes, and the talk was over. She said that she’d be back later—
+
+Erick didn’t let her get away that fast. He asked, “Who does the Black Star go to when the user crosses it?”
+
+Silverite regarded Erick, sitting on his recliner, half-awake and yet fully cognizant.
+
+She told the truth, “Me.”
+
+“Because you’re the Head Priest of the Black Order, and that’s to whom the Black Star always returns.” Erick expected as much, but it was nice to hear her confirm. “But then that means you give it to Quilatalap. Somehow. For some reason. Why did no one tell me about him? Why didn’t you tell me about him?”
+
+Silverite breathed, then said, “I almost did. Once. Back when I asked if you wanted to learn more about necromancy, back when you encountered that Flare Couatl for the first time. I told you that some necromancers are good. I almost offered again, when you asked after Blessings and Curses.
+
+“Quilatalap is one of the very few good necromancers.”
+
+Erick needed more than that. Silverite saw, and she obliged.
+
+“After many years of reparations and then settling into Ar’Kendrithyst well before my time, Quilatalap regained his title as the Most Holy Necromancer of Koyabez’s Peacekeepers. That is why I give him the Black Star whenever it comes my way, for that is my duty under Koyabez.” Silverite frowned. “But that man has an inevitable desire to teach, and those he teaches are not who anyone should accept as students. That man’s view of life, and thus the perspective of his students, is much too fluid. It is here that he and I have always had our major disagreements.
+
+“About half the time, Quilatalap’s students always end up viewing life as something less than holy. Almost every dangerous necromancer to ever threaten this city or any other place in this world has had a connection to Quilatalap, and yes, that includes Messalina. I thought she was one of the good ones, too, but...” Silverite went silent for a self-hateful moment. She continued, “Almost every single one of those misguided students of his that show up in Spur, causing trouble, I kill, myself.” She glanced at the Silver Prism on Erick’s chest. The metal of the object had become more like metallic glass, and partially transparent. She looked up at Erick’s face, and said, “But, as always, it appears that Quilatalap is still useful to My God. Quilatalap helped you learn how to make that Silver Prism, and that means a lot, Erick. It means a lot, but not everything.
+
+“So I will give you some advice, and I hope you will take it: Do not seek the archlich. Don’t talk about him to whoever might come after today. I could do without that man in my life for a while. We all could.”
+
+Erick asked no more questions. Silverite gave no more answers. She blipped out of Erick’s house without saying another word.
+
+- - - -
+
+Erick rested, lightly. Poi woke him up a few times to kill more monsters that had come over the walls of Ar’Kendrithyst. There were a few giant centipedes. One more flying Toxic Hydra. Several Umbral Wyrms. But that was it. Other people took care of the other threats. Erick even had a chance to see the other archmages of Spur in action.
+
+Obsidian, the one with the dark-spike orb [Familiar], copied Erick’s [Luminous Beam] attacks against a flying squid. Both things were odd to see, but that guy was good at figuring out other magics. Maybe he was a Copy Mage, too? Perhaps.
+
+Wave, the one with the swirling water [Familiar], turned kilometers and kilometers of the sands outside Spur into an ocean of vibrating sand and glass and hard-edged stone, swallowing a horde of shadowolves and giants made of shadows. When Wave was done, even the corpses were gone.
+
+Opal did not make an appearance, though. That was kind of disappointing. She was probably busy elsewhere.
+
+And then the battles were over. It neared 6 am.
+
+And though the morning was minutes away, the world outside was still only lit with starlight and bonfires, and lightwards too dim to truly push back the darkness. The entire sky was still dark, as though the sun was not just over the horizon.
+
+And, yet, it was.
+
+Erick stood outside of his house, with his family, and his friends, and Justine. Erick wondered about Justine for a moment, about her future. If she was to be a spokesperson for bridging the gap between what had been, and what will come, then she was certainly poised to do just that. But how would all of that happen, exactly?
+
+The sky shifted.
+
+Erick turned his attention to the East, and all around.
+
+The Triumph of Light came upon the world all at once.
+
+The sun broke the horizon, literally, as the first rays of True Sunlight reached the upper walls of Ar’Kendrithyst. Cracks spread through the dark firmament above. The firmament broke. Darkness scattered, becoming shattered fragments to fall from the Edge of the Script, into the clouds, becoming nothing but mana well before it touched the sands of the Crystal Forest below.
+
+Like someone turning on the lights in a dark room, shadows rustled away, back under cover.
+
+Light took hold of the world. Lightwards brightened. Fires turned radiant. Starlight vanished under the power of the sun, as the endless blue sky returned.
+
+Teressa gazed upon the Dead City with the Kill Notification for the Witch hovering to the side of her sight. Tiny tears flowed, and she did not care. She was full of joy, and sorrow, and memories, and hope.
+
+Kiri cheered, as was customary. Erick heard many people cheering all across the city, some with voices, others with firecrackers, or spells shot into the sky, or the striking of drums. Erick cheered with his Ophiel, who took up a cheer of their own, booming with the sounds of something that was similar to a violin on steroids, or maybe a klaxon, and mixed with their own ineffable voices.
+
+Poi pressed his hands to the sides of his head, not wishing to hear so much cheer when there was so much work to do. He still had a good twenty lines of thought radiating from his head.
+
+Justine just watched the Dead City in the far distance, her eyes dry, full of pain, but also with a gaze toward the future.
+
+Jane was still out there, somewhere, still helping to sort out the mess Erick had just come from, but she’d be back soon enough. In the meanwhile, Erick would make breakfast, and he’d save her some for when she came back. And then she’d likely go right back out, into the crush and danger, to come out again with glory and victory.
+
+Erick almost turned to go back inside, but then...
+
+He looked to the Dead City, far to the south. Something glittered on the wall. Erick knew what it was from here, but he lightstepped an Ophiel closer to get a better look.
+
+He had been right. A Kendrithyst mimic had alighted on the walls of the Dead City. It was fifty meters tall and yet still it was dwarfed by the size of the walls of Ar’Kendrithyst. As Erick watched, the great beast settled down on the wall. It had moved up there to better soak up the morning’s light, glowing brighter with each passing second. More red. More purple. More radiant. A second Kendrithyst mimic stepped up into the light, onto the walls not a kilometer from the first.
+
+Justine saw. Everyone saw. But Justine was the first to give voice to what she was seeing. She exclaimed, “Oh my gods.”
+
+Erick asked Poi, “Those things are level 75. Do I have to kill them?”
+
+“Ah. Shit. Uh. No.” Poi’s eyes went wide. “Okay. It seems that the real looting of Ar’Kendrithyst is going to happen in three… two…”
+
+Erick watched, as someone blipped into the sky near the first Kendrithyst Mimic. They blasted the beast with a [Fireball] derivative. The beast’s natural [Reflection Aura] bounced the spell right back at the caster, knocking him out of the sky, and into the waiting arms of another flier.
+
+Soon, hundreds of people were in the air.
+
+Ah. Some of them would likely die.
+
+But those Kendrithyst Mimics surely died faster. Or… maybe not. One of the beasts released a concentrated beam of light, similar in shape to Erick’s [Luminous Beam], but colored red and purple. That line of light lanced out across the attacking horde of adventurers, bouncing off of a few, clipping a few others, but missing most. Most adventurers retreated. Some remained.
+
+Ah. That was some drama over there. Well. They got into it themselves, right? Erick did not intervene.
+
+Erick turned his attention to other matters, “Are the minotaurs out yet? What about the adventurers stuck in there?”
+
+Poi answered, “Yes, and yes, for those who wanted out. The minotaurs are actually at Candlepoint, now.”
+
+“Uh… Okay?” Erick did not want to deal with Candlepoint right now. He said, “Uh. I’m still going to bed after breakfast.” He looked to Poi, “Uh. If I can?”
+
+Poi, smug as a bug in a rug, smiled, and said, “Nope!” He added, “But hey! I’m wide awake and well rested, so that’s good enough.”
+
+- - - -
+
+Yggdrasil grew at the bottom of two different lakes. It had been unnaturally dark at the bottom of one for a while, but at the other, it was always dark, and monsters prowled in those depths. They tried to bother Yggdrasil, but well-placed, spiky [Prismatic Ward]s were more than enough to dissuade them.
+
+At the return of the light, he relaxed.
+
+At the return of his creator’s voice, he perked up.
+
+‘Hello little gu— Oh! You grew some, didn’t you! Very nice.’ Erick said, ‘Okay. So. Let’s get this worked out better… You have [Scry], yes? Go ahead and use it, or. Here. Let me help you. Oh! There you go. Yes! Just like that. Now try using this over here. Yes! Just like that. Hello.’
+
+Yggdrasil gazed upon his creator.
+
+His creator was small.
+
+And then the feathered-one burst into view, singing such nice songs as he alighted upon the creator’s shoulder. Erick patted Ophiel, saying small niceties, as both he and the [Familiar] waved to Yggdrasil’s [Scry] orb.
+
+Erick sent, ‘Hello. This is me. And now you can watch me and see where I am! You can participate in daily activities to a certain degree, if you want. Your main body is a bit far from here, but that’s not a problem for you.’
+
+This was true. His body might be far, but distance didn’t really matter to [Scry].
+
+Distance didn’t really matter to Yggdrasil, either.
+
+… It helped that his secondary body was only a few kilometers from his Creator. Yggdrasil took great solace in this fact, as he watched Erick go about his day.

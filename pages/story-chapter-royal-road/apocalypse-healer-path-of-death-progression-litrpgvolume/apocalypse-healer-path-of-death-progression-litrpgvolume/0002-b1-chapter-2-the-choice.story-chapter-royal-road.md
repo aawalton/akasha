@@ -1,0 +1,171 @@
+---
+id: f827ff74-eda5-5487-920b-56fffbdf3903
+page-type-slug: story-chapter-royal-road
+title: "B1 Chapter 2 - The Choice"
+slug: 0002-b1-chapter-2-the-choice
+partOf: apocalypse-healer-path-of-death-progression-litrpgvolume
+position: 2
+ownLength: 1999
+unit: words
+publishedAt: 2024-10-23
+link: "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/1864003/b1-chapter-2-the-choice"
+royalRoadId: "1864003"
+---
+
+David gasped for air, his chest heaving up and down, his eyes lingering on Rebecca. He remembered their night together, and how playful she had been.
+
+Now she was dead, killed in an earthquake, resurrected by…
+
+What is going on?
+
+David felt sorry for Rebecca, and it was bizarre to think he had to kill her after she resurrected as a bloody…something, but he didn’t feel as guilty as he’d expected. He was in agony, his whole body ached, his broken ribs felt like they were piercing into his lungs every time he breathed, and his sight was still blurry.
+
+His condition was getting worse, too. Something was clearly wrong. His body temperature was rising, and the pain was intensifying as his adrenaline wore off.
+
+It wasn’t his wildly beating heart or the eerie calmness spreading through his body that worried David. Even though his condition was terrible, he was oddly calm.
+
+His shoulder suddenly went numb, the pain vanishing in an instant. The numbness was spreading rapidly as well. He looked down and squinted at what was happening in the corner of his eyes.
+
+His skin around the bite mark on his shoulder was darkening to an unnatural black, while the flesh beneath began to bubble and blister. A foul stench hit David as blisters burst, exposing raw, decaying tissue
+
+That was enough to worry David, but it got worse. It had only been a second or two since he’d started inspecting the bite mark, but the veins around it were already changing. They expanded and transformed into a slippery, yellow mass. David was not a doctor, far from it. But even he could still see that something was terribly wrong.
+
+Death’s grip around his neck seemed to tighten. It was hard to imagine, but he was going to die. At least, that’s what he thought.
+
+That thought struck him hard. He was already injured and felt like collapsing on the spot, but the Infection, whatever that meant, was most definitely worse than some strained muscles, a head wound, and a few broken ribs.
+
+He needed to find help. But in a place like this? It was a disaster, and he didn’t know if anyone nearby had survived.
+
+More unfortunate people had died in the building, and it wouldn’t surprise David if they’d also resurrected as ‘Infected.’ Somehow the deaths didn’t faze him. After all, he would be joining them soon, right?
+
+No!
+
+David grit his teeth and tried to calm his rapidly beating heart. Simply put, he was in a bad situation. The resurrection of the dead was not supposed to be possible, and the interfaces were confusing, to put it mildly.
+
+Still, he knew panicking wouldn’t solve his problem. If anything, it would make things worse.
+
+David considered his options bleakly. There was no one to help him. Even if others had survived, what could they do? They’d be just as lost, if not more so.
+
+David ruffled through his hair without feeling an ounce of pain. That was odd. He should be in hellish pain from something like that. That could only mean one thing. The infection and the numbness accompanying it spread fast.
+
+What could possibly stop this madness? All he knew so far was a mix of strange facts. The dead were rising, and strange interfaces were appearing before his eyes. It was as magical as it was terrifying.
+
+David checked the interfaces with the desperate focus of a dying man, his gaze landing on a particular notification.
+
+The Class System!
+
+“Whatever you are…access Class System! Summon Class System!! I want to pick a Class!” David had no idea if that would work, but he sure hoped this would be similar to some things he’d read in the novels he checked out when he was bored to death. This didn’t seem like your average cultivation novel, but David sincerely hoped it was similar to one of the light novels he’d read when bored.
+
+[The Survivor has unlocked the Class System.  As a new subject to the Pantheon, you are given access to the four Basic Classes. Pick your favorite!]
+
+[Basic Classes: Hunter, Warrior, Mage, Cleric.]
+
+[Hunter(Basic Class) – Hunters are known for their extraordinary combat experience with the bow and other ranged weapons, but their expertise doesn’t end there. Hunters accumulate experience by tracking and pursuing prey over years. Their….]
+
+“Stop that bullshit and give me the Cleric Class!” David clenched his jaw, dismissing the lengthy descriptions.
+
+He hadn’t played games much growing up, since his parents forbade it, but he’d spent the first summer after moving out trying to understand the obsession with games. By the end of that summer, David grasped their appeal—though he eventually had to quit as they clashed with his work responsibilities.
+
+Nonetheless, David knew what some Classes were capable of. A Warrior couldn’t heal. That was the Cleric’s job. It was his only option for survival.
+
+[Cleric Class has been selected.]
+
+[Your energy reservoir has been prepared.]
+
+A warm feeling formed in his stomach region, but it wasn’t like the rise in temperature from the Infection. The warmth was soothing and invigorating.
+
+[Holy Sea has been formed!]
+
+[Congratulations! The Survivor(Cleric) has advanced to [Iron I].]
+
+[Basic Class Skills [Cure Wounds] and [Cleanse] have been added. Prepare for the influx of information!]
+
+David ignored the warm and soothing feeling gathering behind his navel and focused on the pulse of information crashing into his mind. He couldn’t do anything about it as foreign information spread through his mind and settled down.
+
+A heavy wave of nausea hit him, nearly forcing David to the ground. He swayed to the side but caught himself before anything worse could happen.
+
+The sensation struck him as anything but normal, adding to the unsettling realization that maybe – somehow – all of this was real.
+
+David hadn’t doubted the sudden twist of reality—especially after what happened with Rebecca—but the surge of information still took him by surprise. Though his mind was foggy, he could piece together enough to understand what might save him.
+
+The strange, newly imprinted knowledge had to be enough to survive. He wouldn’t let himself die here!
+
+He considered his options: while [Cure Wounds] looked helpful, [Cleanse] seemed crucial for his immediate problem, or so David hoped.
+
+David’s heart raced as he clung to whatever fragments he could grasp, piecing them together enough to understand that his skills could help him. The sickly yellow veins were spreading even faster and occupied a good portion of his shoulder.
+
+David closed his eyes and focused on the Holy Sea. He had never done something like that, but the glimpses of information imprinted on his mind helped him locate and understand what he had to do. Normally, he wouldn’t see anything with his eyes closed, but when he focused on the Holy Sea within him, that changed.
+
+A small sea, glowing brighter than stars on a cloudless night, appeared in the darkness. This was his Holy Sea: tiny, but hopefully powerful enough to fight the infection. Around it swirled even tinier objects, like stars, minuscule but essential.
+
+David tried following the bits and pieces of the newly acquired information to use [Cleanse]. He tapped into the Holy Sea's power, trying to draw some of its energy. But he was too rough, gripping it too tightly, and nearly shattered it.
+
+David pulled out far too much energy at once.
+
+But he didn’t mind at this moment. He had a patient – himself – to heal and channeled the energy to one of the two glittering objects revolving around the Holy Sea.
+
+[Cleanse has been activated manually.]
+
+[Excessive holy power has been detected. Initiate Skill Rune overlock.]
+
+David kept his eyes shut as [Cleanse] worked its wonders. The numbing receded, a flood of warmth replacing the numbness. Simultaneously, the heat building up in his body transformed into a faint flicker that kept him warm in the morning cold.
+
+[Bloodstream has been cleansed. Level of Infection decreased to stage one.]
+
+[Proficiency of Cleanse increased.]
+
+Nice!  He nearly shouted aloud. David wouldn’t die today. Not due to the Infection, at least.
+
+His body was still a mess, utterly destroyed, and hard to move without the ever-present pain, but he was not dead yet.
+
+One step at a time.  He reminded himself, taking a deep breath and wincing as his ribs jabbed his insides.
+
+David was about to use [Cleanse] like that again when he checked the notifications. He read them thoroughly to make sure he wouldn’t miss anything.
+
+The objects revolving around the Holy Sea are called Skill Runes. That’s good to know. Controlling holy power freely…seems feasible…after thorough training. Fighting while using Skill Runes should also be feasible. Also after some training, of course.
+
+He looked at the ground where the stone drenched in brain mass had landed. It wasn’t a good weapon, but it was the only thing he had at his disposal. The blood-drenched metal bar that had killed Rebecca would have been better, but it was still a part of a wall or ceiling. Fighting beings who’d come back from the dead unarmed would mean certain death, yet the stone didn’t give him any means to remain at a safe distance.
+
+He would be scratched or bitten again, risking more infection.
+
+If the notification says ‘manually’, shouldn’t it be possible to use [Cleanse] differently as well? Automatically or half-automatically?
+
+That would be ideal in battle, especially if he could apply the same strategy with other Skill Runes.
+
+He opened his eyes and made a mental command.
+
+Use [Cleanse]!
+
+The Holy Sea stirred when he ushered the word [Cleanse] into his mind. Or was it the intent behind the word? David had yet to find out, but he was in no hurry to start any thorough experiments. He closed his eyes for a moment and focused on the Holy Sea again, revealing a small but steady stream of holy power creating a path to the Skill Rune of [Cleanse]. It connected to the Skill Rune, albeit slowly, and activated [Cleanse.]
+
+The effect was less pronounced this time, but it still fulfilled its purpose. David opened his eyes and examined his shoulder. The foul odor dissipated, and the sickly yellow veins reverted to their original appearance. All that remained was the dead flesh around the Infected’s bite mark.
+
+[Infection has been cleansed.]
+
+[Proficiency of Cleanse increased.]
+
+After using [Cleanse] twice, David’s head felt like someone had cracked it open with an axe.
+
+This is a lot more exhausting than I thought it would be.
+
+Despite that, David didn’t stop there. He ushered his intent to use the other Skill Rune on himself before the pain of his wounds could get worse.
+
+[Cure Wounds]!
+
+His Holy Sea was drained slowly. This time, however, the stream of holy power poured into the other Skill Rune.
+
+[Cure Wounds] was activated and filled him with warmth. David’s entire body started itching as the warmth spread through him. The pain was still there, but it wasn’t as bad as before. The itching sensation intensified, dulling the pain. However, the itching got so bad, spreading into his bones, that he nearly cried aloud.
+
+David endured it silently, his eyes trained on the bite mark. The fresh flesh underneath the dead, rotten flesh grew rapidly. For a second, it looked like the dead, rotten flesh was about to recover, but it was expelled, and the wound was healed all of the way.
+
+[Proficiency of Cure Wounds increased.]
+
+His bones were still broken and heavily damaged, but David felt much better.
+
+That’s crazy. I am wielding magic.
+
+David couldn’t help but laugh at the absurdity that he was wielding magic, but he quickly silenced himself when he heard the rattling groans of more Infected nearby.
+
+Considering this a ‘disaster’ was the understatement of the century. This is nuts!
+
+With that thought, David used [Cure Wounds] again, the corners of his lips curling upward. Mystic energy surged through his body, slowly mending what was broken.

@@ -1,0 +1,63 @@
+---
+id: ef6228b2-fd0a-5b49-b13b-52680a7d8dad
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 135 (End of Amelia Book 2)"
+slug: 0018-the-level-zero-hero-chapter-135-end-of-amelia-book
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 18
+ownLength: 590
+unit: words
+publishedAt: 2023-06-06
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1236691/the-level-zero-hero-chapter-135-end-of-amelia"
+royalRoadId: "1236691"
+---
+
+Kallistus Kal had been patient.
+
+He had bided his time— he had learned, and he had grown. He did everything right. But in return, he had only been tormented even further. He was never rewarded for his actions.
+
+So now, he set out to seize his dreams. To take hold of his destiny. He was no longer going to remain idle. His plan had been set in motion, and now he waited. But he didn’t wait for everything to fall into place by chance.
+
+Instead, he was going to ensure all the cascading pieces fell into place by force. If they weren’t going to fit together, he was going to make them fit together. He waited. And he plotted.
+
+The [Hero King] raised his head as a smile spread across his lips.
+
+“Soon, I shall see them again…” he whispered as he heard the clamoring coming from before him.
+
+He swept his gaze over the bustling hall, and he saw the twisted figures moving. Creatures of the dark. Shadowed beings conjured from his will.
+
+Voidlings.
+
+And there were hundreds of them— no, thousands.
+
+They waited with Kallistus Kal as he settled back into his seat.
+
+“Soon, I shall return home.”
+
+—--
+
+But even as the [Hero King] made his plans, the world continued to move.
+
+The Archmage King of Scholus called for a secret conference, and the Merfolk Empress began her final siege of Drazyl. A cowardly dragon hid beneath the earth, while the successor of the Grand Sage of Imbel Forest was forced to flee her home.
+
+In the Frozar Mountains, an angel and a dragon sat down in a cold cavern and spoke for the first time in ten thousand years. They discussed things which had transpired since they had last seen each other— they talked grimly of the problems plaguing the planet, and they agreed that action had to be taken.
+
+In Wolfwater, a blonde girl and a burly man sparred with each other on a farm as a chicken looked on. But unbeknownst to them, the blonde girl was being hunted down due to a case of mistaken identity.
+
+And at the edge of Briar Glenn, a prisoner of war was freed from his captivity. After surviving weeks and weeks of torture, he could finally see the light of day again. All thanks to the help of a brown-haired woman. A… hero.
+
+But, of course, she wasn’t actually a hero despite her heroics. Her name was Amelia, and she was just an ordinary restaurant owner.
+
+Or at least, that was what she told herself.
+
+End of Book 2
+
+Author's Notes:
+
+End of Book 2 of Amelia the Level Zero Hero!
+
+This book focused more on the slice of life aspect of the story which I feel like was lacking in Book 1. But... in retrospect, I think I leaned too hard into the slice of life this time around. I'll try to find a better balance in the next book which I am really looking forward to.
+
+Oh also, there will be about a ten day break until the next chapter drops for public. However, Patreon will continue to be updating chapters. And since it is the start of the month, it means now is currently the best time to subscribe to catch up to the start of Book 3 :) Check it out here
+
+I don't really have much else to say other than that. I'll have another popularity poll for the end of book 2 soon. As always, thank you all for reading <3

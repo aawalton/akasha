@@ -1,0 +1,261 @@
+---
+id: 7c3fb7d0-6841-5aaf-9ad8-293f35ccec6e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Start of the Grind"
+slug: 0003-chapter-3-start-of-the-grind
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 3
+ownLength: 2365
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701708/chapter-3-start-of-the-grind"
+royalRoadId: "3701708"
+---
+
+"This is it. Make do with what's here."
+
+The scarred captain pulled back the heavy canvas flap of a small tent. When Ben stepped inside, he saw right away how cramped it was.
+
+But what caught his attention even more was that someone clearly lived here.
+
+He took in the spare clothes, the carefully carved wooden figures, and the rumpled bedroll, then turned back to the captain.
+
+"Whose is this?"
+
+The man leaned against the wooden tent pole and let out a sigh.
+
+"It was one of my soldiers. He is no longer with us."
+
+Oh.
+
+Ben blinked in surprise and gave a small, reflexive nod.
+
+"I'm sorry."
+
+The captain gave a dry chuckle.
+
+"You've lost absolutely everything in the world today, kid, yet here you are saying that to me."
+
+The captain shook his head, and his harsh expression softened just a little.
+
+"Say, I never got the chance to apologize earlier. The handcuffs, the rough treatment... we were on edge. It's rare to get a mana reading as big as that village's spikes, and since there were no rifts or red zones nearby, there were only a few options. So, I'll apologize now. Please forgive us."
+
+Ben stared back in silence, his expression unreadable.
+
+A faint smile touched the captain's lips at Ben's deadpan stare, and he turned to leave the tent.
+
+"I never got your name," Ben called out suddenly.
+
+The big man paused at the exit and looked back over his shoulder.
+
+"Duncan. Captain Duncan."
+
+With that, he stepped out into the busy camp and let the canvas flap fall closed behind him.
+
+Ben took a deep breath and finally let his shoulders relax. He looked around his new, temporary home and winced at the mess.
+
+The place was a mess, with things scattered everywhere. Wanting to keep his hands busy, he started cleaning up and moved around the cramped space to stay occupied.
+
+He folded the spare clothes, stacked the small wooden figures on a crate, and straightened the rough bedroll. When he finished, he put his hands on his hips and looked at the tidy space with pride.
+
+But his small smile faded almost right away.
+
+I need information.
+
+He sat on the edge of the bed and stared at the floor. He had to figure out everything Benjamin knew about this world.
+
+Magic, the system, skills, levels, everything.
+
+He closed his eyes and tried to sort through the jumble of memories. Benjamin might have been just a village boy, but a few hard truths were etched deep within him.
+
+First, the system was real.
+
+People called it by many names, such as the guide, the spell, the system, or the words of the world. But really, it was an absolute law much like gravity. Only, it controlled everyone's growth, shown on the status screens.
+
+Second, magic was real and powered by mana, but it mostly showed up as magical skills. Not everyone could use mana easily, at least as far as he knew. He had never seen anyone in the village use it, so maybe there were special conditions, or maybe the villagers just weren't strong enough?
+
+What was it? Tier?
+
+Yeah, maybe no one was a high enough Tier. He doubted anyone in the village even made it to Tier 1. Most, if not everyone, had to have been Tier 0. The hunter families were strong, so they might have been Tier 1 or higher, but they kept their secrets close to themselves to hold onto the little control they had in the village.
+
+That brought him to the next point: there were Tiers and levels. He didn't know much about them, except that practicing made skill levels go up.
+
+And then there were skills. He had no clue how people gained them. He'd never had his status read before, so he didn't even know when he got [Focus]. Supposedly, his system awakened at fourteen, but Benjamin never gave it much significance. He couldn't see it, let alone try to learn new skills, so why would he focus on it when he had other things to worry about?
+
+Less than a week after that so called awakening, the village burned.
+
+That was pretty much it.
+
+He knew a little about the regions and their walls, like the fact he was in the Central Plains, but that was the extent of Benjamin's worldly knowledge. The truth was, he knew almost nothing. He didn't even know the names of the neighboring villages. The village was the only life he had ever known.
+
+It wasn't much to work with, but it was a start.
+
+Ben rubbed his eyes and let out a huge yawn.
+
+Man...
+
+His eyelids drooped as he blinked, and suddenly his arms and legs felt so heavy, like he was sinking into the ground.
+
+Whatever was in that amber juice really packed a punch. It definitely wasn't alcohol, but he was feeling incredibly... deeply... relaxed.
+
+His thoughts grew muddy and slow.
+
+Maybe I should sleep?
+
+He barely finished the thought before his body gave in, collapsing backward onto the bedroll and plunging him into instant sleep.
+
+He just hoped the woman would keep her promise.
+
+"So, it turns out you really are just a clueless village bumpkin. That's why you can't stop using your skill. You were never taught how."
+
+Ben glanced at the woman leaning against the tent pole and decided not to argue. After a long morning, he finally learned her name was Hannah, so he was just happy with that little progress.
+
+Just as she promised the day before, she really did show up to teach him about skills.
+
+"I still don't get it. Why couldn't I just figure out how to stop using [Focus] myself?"
+
+Hannah scoffed, crossed her arms, and gave him a look full of pity.
+
+"You're from a backwater village, kid."
+
+She waved a hand toward the outside and rolled her eyes.
+
+"Heck, given your completely dramatic reaction when you saw your status yesterday, I don't think you've ever even seen it before."
+
+She shrugged and went on. "So it makes sense you didn't know how to use or stop using a skill. Or deactivate any of its aspects."
+
+Naturally, she picked up on that.
+
+"But it's actually really simple. Because once you see it, you can't unsee it."
+
+She pushed off the wooden pole and walked straight over to where he sat on the bedroll.
+
+"I am going to use a skill on you. And you're going to feel some things, so I need you to focus on exactly what you feel."
+
+Wait.
+
+Before he could even ask what that meant, she pressed a hand flat against the center of his chest.
+
+Ben felt a sudden rush of energy flood straight into his veins, and he gasped sharply. It was completely intoxicating. Instantly, the cramped walls of the tent simply disappeared from his perception.
+
+He felt supercharged. His vision became razor sharp, and he could hear every sound from the busy camp outside with perfect clarity.
+
+"Right there, in your chest. That's your core. Do you feel it?"
+
+He followed her guiding energy and felt what seemed like a core of pure warmth behind his ribs, even though he knew it wasn't really there.
+
+"It's not really present there, but it is connected to you on a very deep level. Much more than something as physical as your heart. As for skills, using or stopping a skill doesn't take vocalization or chanting. It's literally just like a muscle, and I just have to make you find it. It should be easy with my assistance, as it's like a string connected to your core."
+
+Ben knew what she meant. Once his skill's connection to his core became visible, it was hard to unsee now. Stopping [Focus] felt simple; he just knew what to do. He reached out in his mind, mentally grabbed that invisible muscle, and pulled.
+
+Snapping his eyes wide open, he stopped using [Focus] and let out a massive, heavy breath.
+
+The emotional numbness instantly evaporated, leaving him completely raw and deeply exhausted as his facial muscles visibly relaxed.
+
+"Ooooh, you look so much better now."
+
+Hannah smiled, sounding incredibly pleased with herself. She brushed off her hands and turned away. "There. See? Simple. Anyway, I taught you what I promised, so I'm off."
+
+But as she reached for the flap, he felt panic rush back into his chest.
+
+"Teach me."
+
+Hannah stilled and glanced over her shoulder with a raised eyebrow. "What?"
+
+"Teach me. I want to become stronger."
+
+He clenched his fists and finally let out the questions that had been on his mind.
+
+"Will you teach me how to learn new skills? How do I check my status without that tablet?"
+
+Standing up, he didn't give her a chance to interrupt.
+
+"I know it's possible, I've heard that, but I just don't know how. And how do I move up to the next Tier? I am Tier 0 right now. How do I actually get to Tier 1?"
+
+"Yeah, stop, stop, stop."
+
+Hannah let out a heavy sigh, raised her hands, and rubbed her temples.
+
+"I'm no teacher material, kid."
+
+She waved her hand in dismissal, showing no sign of guilt for turning him down.
+
+"Ask Duncan or someone else, I don't know. I'm way too busy. It'll take a while to get you out of here on a shipment anyway, so you might as well train with the other beginners if you want in the meantime."
+
+She paused and frowned as she looked at his scrawny body.
+
+"There's no one as young as you here, though..."
+
+She tapped her chin, thinking. "The youngest person here is, I think, fifteen or sixteen. Something like that."
+
+She pushed the canvas flap aside and stepped out into the bright daylight.
+
+"Try not to get yourself killed in training, pipsqueak."
+
+With a final lazy wave, she left, leaving him entirely alone with his thoughts. He needed to ask Duncan, huh?
+
+Ben squeezed through a group of soldiers and spotted the huge captain by the armory. He walked straight up to the scarred giant without hesitating and looked up at him.
+
+"Train me."
+
+Duncan paused and looked down at him as if Ben had suddenly grown a second head.
+
+...Huh?
+
+Letting out a sigh, Duncan rubbed a hand over his rough face. "Kid, go play with your wooden toys. You're fourteen."
+
+Ben crossed his arms and dug his heels into the dirt. "Hannah said I have to stay here for who knows how long until a shipment arrives, then leaves. I'm going to be bored out of my damn mind."
+
+He jabbed a finger at his chest and scowled. "And my village just burned down. I need a way to protect myself. I have to get stronger."
+
+Duncan shook his head. "That's not going to work on me. Hannah already told me about your skill."
+
+Does this world really treat people so differently based on their skills…? I'm still technically a kid. Well, a teenager, but I doubt that makes a difference to the adults. But then again, that didn't stop the vice captain guy from being so harsh with me.
+
+Ben let out a silent sigh.
+
+"Listen, kid, those recruits out there aren't messing around. Most of them are already close to the peak stage Tier 1." Duncan pointed to the center of the camp, his eyes hardening. "They would snap a weak Tier 0 like you without even trying. So, absolutely not."
+
+"I'm not saying I want to fight them. I just want you to train me with them."
+
+"No."
+
+Ben gritted his teeth and glared at the big man. "Fine. If you won't help me, I'll just train myself."
+
+He spun around and stomped off before the captain could even attempt to stop him. Once he was out of sight, though, he dropped his little act.
+
+He doubted the captain believed him anyway.
+
+Still, Ben was telling the truth. If Duncan refused to teach him, he would just figure things out on his own. Whether he had help or not didn't matter. The world was clearly dangerous, and he needed to get strong enough to survive.
+
+Besides, he was still curious about the mana he had sensed when Hannah helped him get a feel for his skill.
+
+It felt almost addictive.
+
+Ben asked a few people for directions, but soon he just followed the sounds of shouting and marching boots until he found the camp's training grounds. The training area was a large open space filled with muscular recruits running hard laps around the edge.
+
+So these were the so called beginners.
+
+He wondered just what Tier Duncan and the others were. And what about the old man?
+
+Ben pushed down his hesitation and jogged over to join the back of the group. Keeping up with their tough pace was hard. Still, he forced his thin arms and legs to move, focusing entirely on his breathing.
+
+But it didn't even take ten minutes for reality to hit him like a brick.
+
+Damn this body!
+
+He gasped for air, cursing under his breath.
+
+His lungs felt like they were on fire, and sweat ran down his face, stinging his eyes as his legs hurt badly. He looked at the older recruits ahead and felt a jolt of surprise.
+
+They didn't even look slightly winded. Duncan had been right about the huge difference between Tier 0 and the peak stage Tier 1.
+
+A few of the bigger guys glanced back and started laughing at the out of breath teen struggling to keep up.
+
+One of the sweaty recruits nudged his friend and smirked. "Give the twig another lap. He'll collapse and run crying to his mommy."
+
+The other guy snorted and spoke loudly. "I give him half a lap before he pukes."
+
+Yeah, screw these guys.
+
+Ben ignored their teasing and the clear difference in strength. He kept his head down and forced his tired legs to keep going. He kept going, pushing through the pain. He didn't care how weak he seemed or how much his muscles hurt. He was determined to get stronger, no matter what.

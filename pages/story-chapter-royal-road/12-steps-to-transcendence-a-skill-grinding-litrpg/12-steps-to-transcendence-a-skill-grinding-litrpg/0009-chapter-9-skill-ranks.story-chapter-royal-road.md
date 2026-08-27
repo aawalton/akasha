@@ -1,0 +1,407 @@
+---
+id: 82366afa-4058-55e7-9148-0995d281b9d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: Skill Ranks"
+slug: 0009-chapter-9-skill-ranks
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 9
+ownLength: 2781
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701734/chapter-9-skill-ranks"
+royalRoadId: "3701734"
+---
+
+Ben blinked away his exhaustion and checked the notifications he had received during his training with Logan.
+
+[Mana Sense Lvl 1 > Lvl 3]
+
+[Focus Lvl 5 > Lvl 8]
+
+[Physical Conditioning Lvl 3 > Lvl 5]
+
+He dismissed the notifications and took a quick look at his status.
+
+Name: Benjamin
+
+Tier: 1
+
+Skills (4/10):
+
+Focus - Lvl 8
+
+Physical Conditioning - Lvl 5
+
+Mana Sense - Lvl 3
+
+Fire Burst - Lvl 1
+
+Staring at that beautifully updated screen, Ben felt a grin stretch across his face.
+
+He had worked hard to get this skill and felt really happy. Letting out a quiet laugh, he lay back in the dirt and stared up at the sky.
+
+Suddenly, a face appeared above him and blocked his view of the sky.
+
+Logan stood over him, frowning like he always did.
+
+"I did it, Logan!"
+
+Even so, Ben let his [Focus] drop completely on purpose.
+
+He just wanted to enjoy this moment.
+
+I actually learned the damn skill.
+
+Logan looked down at him, his face completely blank.
+
+"Congratulations."
+
+The warrior didn't sound excited in the slightest.
+
+"You're free to go."
+
+Huh?
+
+"Play around with that skill if you want. You're on your own from now on. I have done my job."
+
+Ben scrambled to sit up and quickly brushed the dirt off his face as Logan turned to leave.
+
+"I see, thanks."
+
+As Logan walked away, Ben finally asked the question that had been on his mind for a while.
+
+"But why did you teach me?"
+
+Stopping in his tracks, Logan glanced back over his shoulder.
+
+"It is a tradition in my family to teach the young if they resonate with their affinity because of our presence."
+
+"…I see."
+
+"Anyway, I will be going now."
+
+"I still want a spar."
+
+Logan stopped. "Do what you want."
+
+Ben spotted Hannah relaxing by the medical tent, sharpening a small surgical knife. She looked up and gave him a friendly smile as he approached.
+
+"Finally got a skill, huh? And here I thought you'd forgotten about little old me."
+
+Ben grinned like an absolute idiot, unable to hide how happy he was.
+
+Damn right I did.
+
+She tilted her head, and her smile suddenly looked much more intimidating for some reason.
+
+"Oh my, aren't you happy? And here I thought you actually missed me."
+
+Wait.
+
+Swallowing nervously, Ben immediately went on the defensive, waving his hands frantically as he rushed to apologize.
+
+"Sorry! I just really wanted to learn a skill, and I finally did it! I came here to tell you as soon as I could."
+
+The terrifying aura around the woman vanished instantly. Her scary smirk morphed back into a genuinely warm smile.
+
+"Well, I'm happy you got the skill you wanted."
+
+Ben relaxed his shoulders and let out a deep breath.
+
+"By the way, where is Duncan? I think I'll go tell him now, too."
+
+Hannah slid her small knife back into its sheath and shook her head.
+
+"Duncan is out. He's been busy recently with some actual work outside the camp."
+
+She stood up and brushed the dirt off her knees.
+
+"So, you only have little old me from now on until the foreseeable future."
+
+Of course, his luck was just that terrible. He finally got a little break from the kinetic beatdowns to focus on fire, since it actually turned out to be one of his affinities, but now…
+
+Ben repressed a shudder.
+
+She tapped her chin and looked him over from head to toe.
+
+"Since it took you almost a week to get that fire skill, and no other common affinities resonated with you, it really narrows things down."
+
+"What do you mean?"
+
+"It either means you don't have any other affinities, or if you do, they're rarer than fire. After all, fire is just common."
+
+Ben frowned and asked right away.
+
+"Rarity?"
+
+Hannah blinked in surprise, then gave a quick laugh.
+
+"Oh, right. It's just like with skills. I totally forgot to mention something so basic. I figured you'd know, since it's common knowledge, but I guess not here in this forgotten place."
+
+She shook her head and started explaining right away.
+
+"Skills can start at any rarity. For example, [Focus] is a common one. But just because a skill is of lower rarity doesn't necessarily mean it's weak."
+
+She gestured with her hands to emphasize her point.
+
+"Rarity just shows how skills are structured. A common skill can be evolved into an uncommon one, and an uncommon skill can be evolved into something rare, and then epic."
+
+Nodding along, Ben listened intently.
+
+"Most skills are common rarity, or 'ranked' if you will. But since you only have so many skill slots, you can't just hoard them."
+
+Stopping her pacing, she pointed a finger directly at him.
+
+"You can either fuse your skills to make something higher rank, or level them up until they reach the threshold of evolution. At that point, the system lets you pick a path for your skill. Much like essence paths, there are four options once you reach the threshold, and whichever you choose, your skill evolves in that specific direction. If you're wondering why you can't see your skills' rarities, that's because it's a system feature that only unlocks after you gain a rare-ranked skill."
+
+"I see."
+
+That actually made a lot of sense.
+
+"Yeah. So that's why a common ranked skill doesn't really mean it's bad. You just have to level it up."
+
+Ben rubbed his chin and asked his next question.
+
+"Got it. What's the threshold of evolution, though? Is it the same for every rank of skill?"
+
+"The threshold of evolution is just what it sounds like. It's the point where your skill can evolve into something better, moving up to the next rank."
+
+She held up her fingers and counted them for him.
+
+"You start at level 10 for common skills. Then it's level 20 for uncommon, level 30 for rare, and level 40 for epic."
+
+Huh?
+
+Furrowing his brows, Ben stared at her in total confusion.
+
+"Wait, what do you mean?"
+
+"Simply put, the level you can raise your skill to is restricted. You can only level a common skill up to level 10, then you have to evolve it."
+
+Oh.
+
+"And then, you can level up your skill to 20 as it becomes an uncommon skill."
+
+Ben leaned forward as he put the pieces together.
+
+"So does it just increase the ceiling a skill can reach?"
+
+She shook her head and quickly corrected him.
+
+"Yes and no. It doesn't just raise the maximum level a skill can reach. When you evolve a skill, its level resets, but you keep the levels you earned before as hidden cumulative levels. So by the time your skill reaches epic rank, you have a total of 60 cumulative levels that act as a hidden modifier for the skill."
+
+Ben's eyes widened as he made the obvious connection.
+
+"Oh, so it's basically like essence paths?"
+
+"Yep! Just like you spend essence on paths and that essence becomes a hidden modifier and enhancer for the next Tier, the same goes for skills."
+
+"What about skill fusion?"
+
+"To fuse skills, you open your status and focus completely on the skills you want to combine. You can't just merge any skills. First, you have to find synergy by using the skills together. Once you have synergy, you can mentally combine them to start the fusion process."
+
+Clapping her hands together, she abruptly changed the subject.
+
+"Anyway, enough about skills. You're mine for the foreseeable future, so I'm going to put you through both kinetic and life affinity mana exposure to see if you have either of those affinities."
+
+Great. More tough training.
+
+Ben swallowed and asked his next question.
+
+"What rarity are those affinities?"
+
+"Oh, kinetic and life are uncommon affinities."
+
+"What about the commander?"
+
+She smiled at him.
+
+"Rare."
+
+Blinking slowly, Ben stared at Hannah and simply accepted his grim fate.
+
+"I see. Cool."
+
+Ben groaned as he pushed himself up from the dirt for what felt like the fiftieth time today. Hannah's brutal kinetic and life mana exposure training had left him sore all over.
+
+"Alright, that's enough for today."
+
+But resting wasn't an option, so he decided to work on his new skill.
+
+Since she had some free time, Hannah dragged over a chair and sat nearby, watching him struggle as he tried to learn it.
+
+He brushed the dirt off his singed pants and got ready.
+
+Come on, Ben, you can do this.
+
+He focused his mana down to his heels and sparked it to life.
+
+Boom.
+
+A sudden explosion sent him two meters into the air, and Ben flailed wildly as he lost his balance.
+
+Gravity wasted no time slamming his face into the ground.
+
+I absolutely hate gravity.
+
+Spitting out a mouthful of dirt, he rolled onto his back. It was surprisingly hard to maintain his balance while relying on literal explosions as a propellant.
+
+This was complete bullshit.
+
+Sitting up, he glared at his blackened, bare feet.
+
+That was just one more big downside to this stupid skill.
+
+He couldn't even wear shoes.
+
+If he tried, he'd just blow them to pieces. He'd already set his pants on fire by accident three times today.
+
+He let out a heavy sigh and tried to figure out what he was doing wrong. He imagined it must feel like riding a flyboard back on Earth, though he'd never actually tried one.
+
+You know, those machines that blasted high pressure water out of a board strapped to your feet so you could hover over a lake.
+
+Like a flyboard, [Fire Burst] was actually pretty stable. The thrust remained consistent and balanced on its own. But unlike a flyboard, the water, or rather the fire, came out of his heels instead of the center.
+
+The actual problem was entirely human error.
+
+Every small shift in his balance changed exactly where that powerful push was happening. Even more than that, the smallest movements in his feet made it go out of control.
+
+He almost tore his legs apart earlier when they flew in opposite directions. If he corrected even a tiny bit too much, his whole body started oscillating wildly.
+
+That always ended with him tipping over and landing face first.
+
+Every single time.
+
+Gritting his teeth, Ben pushed himself back to his feet. He refused to let a basic common skill get the better of him. He braced his legs and sent the fire mana down into his heels one more time.
+
+Boom.
+
+He shot upward but leaned forward just a bit too far. He quickly tried to fix his balance and shifted his weight back.
+
+He managed to hover for a single, glorious second before the oscillation took over. And then he slammed right back into the dirt.
+
+He groaned in pain and didn't bother to move.
+
+Just then, a notification appeared in his vision.
+
+[Fire Burst Lvl 1 > Lvl 2]
+
+As Ben read the text, he felt a small surge of victory.
+
+With that last attempt, he managed to learn a bit more about controlling his mana output. The problem, as Logan had told him, was that he could only control mana while it was inside his body. The moment it left his body, it felt like trying to drive with his eyes closed.
+
+"You look completely pathetic right now."
+
+Ben lifted his head from the dirt.
+
+Standing at the edge of his blasted training spot, Hannah looked down on him with an utterly unimpressed expression.
+
+She had been trying to get under his skin the whole time, though he had no idea why. Maybe it was related to awakening life or kinetic affinities. Either way, it wasn't working. He had been using [Focus] almost the entire time just to concentrate.
+
+The skill helped, but it just wasn't enough.
+
+He ignored the annoying healer. She could call him pathetic as much as she wanted. Pulling himself up again, he decided to take a short break as the sun started to set.
+
+So he just sat there staring at the sky in contemplation, wondering what he was doing wrong. There had to be something he could do to use this skill. He gazed blankly at the flickering torches being lit around the camp for quite some time, utterly entranced.
+
+He watched a stray spark pop and shoot into the night air, noticing how it faded out right away.
+
+It didn't burn for long.
+
+Ben's eyes went wide as he suddenly felt incredibly stupid.
+
+Why am I even trying to shoot a nonstop stream of fire?
+
+He wasn't a damn rocket engine!
+
+He slapped his forehead as he realized the answer was right there in the name.
+
+It was called [Fire Burst].
+
+Burst.
+
+Not stream.
+
+He scrambled to his bare, aching feet and quickly sent mana down his legs again. With [Focus] tightly wrapped around his mind, he made sure not to create a continuous flame this time.
+
+Instead, he just pulsed it for a fraction of a second.
+
+Boom.
+
+He shot up a foot into the air and quickly cut off the mana. As his momentum carried him up, he felt his balance start to lean backward right away.
+
+Reacting purely on instinct, he twisted his left foot a little and pulsed a tiny burst from his heel.
+
+Straightening out instantly, he hung in the air with perfect stability.
+
+Holy shit.
+
+It's actually working!
+
+Grinning wildly, he fired off quick, tiny bursts from his heels to stay in the air. Hovering two feet above the ground, he actually managed to keep his balance by correcting himself with small explosions.
+
+He stayed in the air for one, two, three, four... five whole seconds!
+
+But as he got excited by his sudden success, he completely lost control. He sent too much mana into his right foot, and a huge explosion rocked his leg.
+
+He shot sideways like a faulty firework and didn't even have time to brace himself.
+
+Slamming face first into the dirt, he was dragged across the rough ground for a good ten feet. This time, he scratched up his cheek pretty badly.
+
+He winced in pain as he squirmed on the ground.
+
+Well, that sucked.
+
+He rolled onto his back and, this time, didn't bother brushing the dirt from his clothes.
+
+Looking at the dark sky, he felt a deep sense of satisfaction anyway.
+
+Figuring this out was even harder than trying to make sense of that Reference_3.md file I had to read for my computer science class back on Earth.
+
+Right on cue, familiar runes appeared in his vision, as if to reward him for all his trouble.
+
+[Mana Sense Lvl 3 > Lvl 4]
+
+Ben brushed off the notification and laughed out loud into the quiet night. A sharp pain hit him right after. Groaning, he pushed himself up onto his elbows.
+
+Laughing with a roughed up cheek was a bad idea. A stinging pain was slicing across his cheek. When he wiped the side of his face, his fingers came away smeared with blood.
+
+He must have scraped his cheek raw on that last patch of rough ground.
+
+Hannah stomped across the training ground and appeared beside him in a blur. She knelt down quickly and grabbed his chin in a firm grip.
+
+"Are you completely suicidal?!"
+
+She glared at him, ignoring the rest of his bruises.
+
+"You could have cracked your skull open, you idiot!"
+
+Ben blinked, too tired to argue, and let her yell at him. But something about her attitude surprised him. She really was angry.
+
+She wasn't just angry, either. Looking past the frown, he could see the panic in the way she held herself.
+
+She was worried about him.
+
+…Why?
+
+That was… He didn't have an answer ready.
+
+Whatever had started rising in his chest smoothed back down into something manageable as he let [Focus] take over. It was a feeling he wasn't used to. He gave her a weak smile and didn't try to pull away as she fussed over his face.
+
+"Sorry."
+
+Hannah sighed and let go of his chin, shaking her head in defeat.
+
+"You're an absolute menace to yourself."
+
+She muttered curses under her breath and placed her hands over his bleeding cheek. A gentle, familiar warmth spread over his skin as her life mana began to heal him.
+
+As the soft glow lit up her focused face, Ben watched her face scrunch up in concentration.
+
+"…Thanks, Hannah."
+
+She rolled her eyes and pushed more life mana into his face.
+
+"Yeah, yeah. Just try not to blow your own legs off tomorrow—"
+
+Ben suddenly resonated with an affinity.

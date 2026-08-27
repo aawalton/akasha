@@ -1,0 +1,165 @@
+---
+id: 8ce4ce2a-22d4-5379-b599-b17b9960fc42
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Chapter 6: Wild Dragons"
+slug: 0013-book-6-chapter-6-wild-dragons
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 13
+ownLength: 1997
+unit: words
+ownProgress: 1997
+publishedAt: 2025-04-17
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2210338/book-6-chapter-6-wild-dragons"
+royalRoadId: "2210338"
+removedAt: "2026-07-03T13:47:27.337Z"
+---
+
+Brixaby slunk toward her with murder in every step. "You have dared to take my rider away from me."
+
+She looked down on him, disapproving. "Don't be absurd."
+
+Arthur quickly put himself between them. "Brix, I'm fine. Everything's fine."
+
+"Then why have you come to Wolf Moon hive?" Before Arthur could answer, Brixaby looked first around at the dragons who had decided to reveal themselves—they had gained quite the audience—then down at the broth. His tongue flicked in and out. "Oh, I see. Recruitment."
+
+Arthur let himself relax. It would be better for everyone if Brixaby thought that was the reason for now. He clearly wasn't aware Arthur had been kidnapped, though he'd have to let him on that... later. Back when they were a distance away from Wolf Moon.
+
+Brixaby turned back to the elderly Pink dragon. "I suppose my rider sees some value in you, though I do not know what it could be."
+
+"Why would we follow a murderer?" the Pink asked.
+
+That took Arthur aback. "What?"
+
+"Cori," the Pink said simply.
+
+"Who?" Brixaby demanded.
+
+"The dragon who laid you. And you killed her for it."
+
+"I was an egg. You cannot fault an egg."
+
+The old Pink swelled with indignation, and Arthur feared they didn't have time for this. Dragons were rising high in the sky in the middle distance, spreading out to search. If anyone had a seeker-type card, they would be using it.
+
+"We don't have time for this," he said, cutting across what looked to be a sharp reply by the Pink. "Whitaker knows I'm here somewhere around the hive."
+
+Brixaby followed his gaze. "Ah. Let them come."
+
+"I don't want to rule two hives," Arthur said in frustration.
+
+He halfway expected his dragon to ask, 'Why not?' but he only flicked his tongue again and turned to the gathering audience. "From my understanding, Cori was a Common whose last act was to lay a Legendary. Her memory should be commended for that. Now I have returned, and my rider has brought you this high-quality food to strengthen you. There is certainly more where this came from. Moreover, I want you all to fight. Have the leaders here asked you to join them? How long has it been since they thought of you at all?"
+
+Arthur privately thought his speech was too heavy-handed, but the wild dragons were nodding and even grumbling in agreement. The old Pink had narrowed her eyes but said nothing against him.
+
+"Do you want to fight scourglings? Do you want riders to add strength to your own? Do you want to eat well?" Brixaby continued. "Yes? Then follow me."
+
+With a gesture, he collapsed and then remade another dark portal. This one, presumably, exited at a different point at Blood Moon hive.
+
+He turned to give a stern look at Marteen, who bobbed her head.
+
+"Yes, yes, coming, sir."
+
+Suddenly, two dragons popped into the sky, barely twenty feet above them. One was a shimmering green, twice as large as Brixaby. The other was an even larger Brown whose hide shifted to match the color of the soil around him.
+
+"We found them," said the shimmering green's rider.
+
+Arthur barely kept himself from rolling his eyes. The shimmer Green would have portal powers and would have known at a glance that he was leaving. So he couldn’t quite keep the belligerence out of his voice when he asked, “What are the charges?”
+
+“Treachery, of course,” the rider said. Then he looked at the Brown who was in a lumbering hover in the sky. “Go tell the leader.”
+
+The Brown turned and dived straight down. Marteen squawked and moved out of the way just in time. The Brown entered the soil as if it were water from a placid pond. A moment later, he was gone. Arthur’s guess was that the shimmer Green was the one who transported both there in the first place.
+
+“This is ridiculous,” Arthur said. “Tell Whitaker that I didn’t come voluntarily and that we’re leaving right away. If he wants to take up a complaint about trespassing,” which was a much more minor charge than treachery, “then he can do that at Blood Moon hive. Or with the King,” he added.
+
+The green dragon clearly didn’t care what he had to say and turned to some of the wild dragons who were trying to slink away. “Stay right there. You’re under arrest, too, for harboring a traitor to the hive.”
+
+“You are only a Rare dragon,” Brixaby said. “How do you intend to stop me from doing exactly what I want to do?”
+
+Arthur could feel the situation quickly spinning out of control. “These wild dragons had nothing to do with—”
+
+Suddenly, the green dragon blinked out from where she’d been and reappeared on the ground beside them. The wild dragons gave bellows of surprise. The next thing Arthur knew, he was snatched up in giant, shimmering green claws.
+
+Brixaby roared, his blood-red eyes flashing. Through a voice garbled by rage, he said, “Put him down.”
+
+“I know what you are,” the green’s rider said. “If you try to steal any of our cards, Orlie will crush your rider.”
+
+“I won’t steal your cards,” Brixaby said. “I will steal your life.”
+
+He surged forward.
+
+Arthur felt the green claws tighten around him… and he easily Phased out, dropping harmlessly to the ground.
+
+The green reared back in shock, and it seemed she was about to blink out somewhere else, but Brixaby had put on a burst of speed that was famous among Purples—no one expected a creature his new size to move so fast.
+
+His claws extended, and he touched the dragon. There was a flash of green—a lighter, toxic green that was a wholly different shade from the dragon’s hide.
+
+The green flashed from her to Brixaby, and the other dragon’s scream was cut off by a choking sound. She collapsed, boneless.
+
+Then Brixaby grabbed the rider from her with such force that it snapped the saddle straps he was attached to. Holding the man out, Brixaby shook him in front of the half-stunned dragon.
+
+“How does it feel to have someone take their rider away from them? I can take all his cards right now—the way you jump-teleport is through your linked card. Would you like me to eat that?”
+
+“No… no… I didn’t mean to…” the green whimpered, half reaching out to her rider.
+
+Meanwhile, the wild dragons were staring at Brixaby, horrified.
+
+As for Arthur… he half wondered if Brixaby really would do it. “Brix,” he said. “I’m safe. Let’s get out of here.”
+
+Brixaby hesitated for a long moment, then said, “Bah,” and literally tossed the rider at the dragon. They both lay there, groaning and half-stunned.
+
+Brixaby turned and remade his dark portal in the air—the last one having collapsed when he completely lost his concentration on it. When the portal to the rower’s realm opened, he turned again to the wild dragons.
+
+“You have now seen my strength and their weaknesses. If you want glory, good food, and the opportunity to grow stronger with more cards, then follow me. If you want to be blamed by sniveling cowards for something you did not do, then stay here.”
+
+“You certainly have a way with words,” the elderly Pink said, but she stepped forward to take up a bowl and dip it in the soup pot. After throwing the contents to the back of her mouth, she headed through the portal.
+
+Marteen followed, Kenzie giving Arthur a wide-eyed look.
+
+After that, many, many more of the wild dragons stepped forward… but not before they, too, grabbed a bowl of the broth. The taste and magical effects brightened many eyes and some scales that had been looking dull due to a lack of good food. They went to the portal as well.
+
+Arthur was the last to leave, storing the pot with the last drags of broth and a small mountain of dirty bowls in his Personal Space before he stepped into the portal. It snapped shut behind him.
+
+Once inside the portal, after Brixaby directed the dragons into the frankly ridiculous-sized “rowboat” that had been enlarged to carry all of them, Brixaby turned back to Arthur.
+
+“You did not mean to go to Wolf Moon without me.” The look in his blood-red eyes clearly said, ‘Who do I need to kill’?
+
+Arthur shook his head. “No, I was brought to the hive, but as you saw, I landed on my feet… and I got a couple of new cards out of it.”
+
+His dragon snorted, clearly unsatisfied with his brief answer. But to Arthur’s surprise, he didn’t immediately attempt to break out through the portal or bellow for revenge. Was he growing up?
+
+“We took a portion of their strength as our own,” Brixaby said, eyeing the wild dragons who were still scrambling into the boat. “Perhaps we should do the same with other hives.”
+
+“Let’s get these dragons settled first, and bonded to new riders if they want,” Arthur said. He looked around and located Kenzie and Marteen, who were standing off to the side, not having boarded the boat yet.
+
+Arthur gestured to them. “Brixaby, you remember Kenzie and Marteen?”
+
+The Silver pair perked up at the sound of their name and came over. Brixaby glanced at them. “Yes. I believe we met when I was newly hatched.”
+
+Marteen gave a deferential nod. “You have certainly grown since then.”
+
+As a matter of fact, Brixaby was nearly two-thirds her size.
+
+“Yes, well young dragons always grow, do they not?” Brixaby said, disinterested, and started to turn away.
+
+“Brix, I want them to be part of our retinue,” Arthur said.
+
+Brixaby’s head swung back. “Them? An Uncommon pair?”
+
+But before Arthur could say anything in their defense, Brixaby extended his neck and sniffed at Marteen.
+
+The poor Silver dragon stayed locked in place, lightly trembling, clearly overawed.
+
+Brixaby was not giving her just a casual look-over. Arthur felt him access his Master of Cards. In fact, there was every chance he could use it in a more thorough examination than Arthur could himself. Dragons were magical beings, and they had an instinctual understanding of card power.
+
+After a long moment, Brixaby withdrew and gave them a long look. “We will see. You would have to work hard to keep up with the Rares.”
+
+“And I wish to join your retinue as well,” another voice rang out. The old Pink dragon came forward. “I never properly introduced myself, did I? My name is Cinderwood, and I used to be part of Elissa’s retinue--may the sky take up her wings. Actually,” she added with a huff, “I was more than that: I was the chief tactics officer for the wing. Tell me,” she said abruptly to Brixaby before anyone had time to respond. “This dark place is a bit more elaborate than you see with normal portals. I assume it’s to save on mana?”
+
+“Indeed,” Brixaby said, “but as a Legendary card, obviously it has strengths of its own.”
+
+The two chatted about cards for a few moments, and Arthur’s attention strayed to the rest of the wild dragons. A few of them, mainly the Purples, had not stayed on the rowboat and were flitting around the black-and-white space. They gave squeals of delight when they noticed that, upon flying from the banks of the river, they could only go so far before they inexplicably returned to the river, but on the opposite bank from where they’d left.
+
+The dark rower stood at the end of the pier and watched them all without comment. However, the rowboat itself had enlarged quite a way down the river to encompass all the dragons.
+
+Brixaby raised his head and called, “Everyone who wishes to follow me to Blood Moon hive, board the boat. Once aboard, do not fly.”
+
+“And don’t look at the things in the sky,” Arthur advised wryly.

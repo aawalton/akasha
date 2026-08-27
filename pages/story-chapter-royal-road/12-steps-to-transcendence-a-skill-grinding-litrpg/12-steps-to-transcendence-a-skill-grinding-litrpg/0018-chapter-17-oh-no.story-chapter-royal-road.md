@@ -1,0 +1,283 @@
+---
+id: 564a25bb-0b42-53ad-adba-5e5d327ef813
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17: Oh No…"
+slug: 0018-chapter-17-oh-no
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 18
+ownLength: 1885
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3739101/chapter-17-oh-no"
+royalRoadId: "3739101"
+---
+
+Reaching into a hidden pocket of her ruined dress, the girl pulled out a smooth jade stone. She fumbled with jade stone with a little frown on her face until it glowed faintly with runic carvings.
+
+Uh, is that some rich kid magic toy...
+
+Tapping the center of the stone with her thumb, she let out a dramatic sigh of pure relief. Looking up at him, she beamed.
+
+"Worry not, commoner!" She puffed her chest out proudly. "I could not activate my distress beacon while my hands were bound, but the signal is now sent! I don't need to know their location, they will find me instead!"
+
+She crossed her arms smugly.
+
+"My men will be here shortly."
+
+Letting the silence stretch, Ben just stared at her. It was comforting to know this nightmare would be over soon. Maybe he would get—
+
+His vision violently swam. Blinking hard, he desperately tried to clear the sudden black spots spreading at the edges of his sight.
+
+The unknown poison was definitely moving faster now.
+
+But thanks to his continuously active [Focus] skill, his face remained a completely blank, emotionless mask.
+
+Noticing his total silence, the girl leaned in extremely close.
+
+"What is your name? My name is Alice!"
+
+She didn't even pause for a single breath.
+
+"I have a Light affinity. What's your affinity? You use fire, right? Do you have more? Your clothes look really strange. Are you from the slums?"
+
+"Wait."
+
+He held up his good hand to stop the verbal assault.
+
+"Just let me answer one thing before you start firing off ten more."
+
+She blinked innocently.
+
+"Oh. My apologies. Proceed."
+
+Leaning his head back against the tree, Ben let out a slow breath.
+
+"My name is Ben. I'm from a village. And yes, I have a fire affinity."
+
+She tilted her head, looking genuinely fascinated.
+
+"How curious! To use such potent fire. Are you perhaps a wandering martial artist? A rogue scholar?"
+
+"I'm just a guy."
+
+"A guy."
+
+She tapped her chin thoughtfully.
+
+"Is that a specialized class?"
+
+Wow. She is unbelievably sheltered.
+
+"Never mind. Just tell me where we are. What's the nearest town or city?"
+
+Puffing her chest back out, she pointed vaguely into the dark woods.
+
+"We are currently positioned near the grand estates of House Vane and the bustling trading hub of House Sterling!"
+
+Ben just stared at her blankly.
+
+Literally never heard of those.
+
+"Okay, let's zoom out. What region are we talking about here?"
+
+She looked at him like he was an actual idiot.
+
+"The Western Plains, obviously! We were hunting near the regional wall leading into the Central Plains!"
+
+...Huh?
+
+His brain completely flatlined.
+
+He was in the Western Plains?
+
+The teleportation didn't just move him across a forest, it had shot him straight through a goddamn regional wall?
+
+Growing up as a village bumpkin near the edge of a region, he obviously knew exactly what the walls were. They were massive, inexplicable magical phenomena that strictly stopped anything and everything from crossing over whenever you wanted.
+
+You couldn't just walk through them. That was a universally accepted fact.
+
+So how the hell did he bypass it?
+
+Was teleportation really that powerful? Or was it actually possible that if you were high enough a Tier you could just punch a hole right through the barrier?
+
+But more importantly...
+
+How was he supposed to return to them?
+
+Waving a pale hand directly in front of his face, Alice broke him out of his spiraling thoughts.
+
+"Hello? Commoner? Are you still conscious? You asked about a healer earlier, are you that sick?"
+
+Blinking away the dark spots at the edge of his vision once again, he refocused on her face.
+
+"Yeah. Just peachy. Keep talking. Tell me about your hunt."
+
+And so, she did.
+
+Sitting against a thick tree root, Ben spent the next chunk of time just humoring her endless stream of rapid fire questions and stories as he relaxed a little, knowing help was coming.
+
+Talking to her was exhausting. But it effectively kept his mind off the burning pain. And off Hannah, Duncan, Logan, and everyone else. He didn't even have room to think about them right now.
+
+They didn't even realize how much time was passing in the dark woods as she bounced aggressively from one random topic to another.
+
+She talked endlessly about her annoying tutors, her favorite expensive desserts, and how completely useless her guards were against the reanimated flaming trolls.
+
+Rubbing his throbbing temples, Ben nodded along mechanically.
+
+...Huh?
+
+Wait a damn minute.
+
+His brain suddenly slammed on the brakes.
+
+"Hold on." He looked sharply at her. "What did you just say?"
+
+Alice looked incredibly confused.
+
+"I said my favorite dessert is strawberry cupcakes?"
+
+"No. After that."
+
+"That my guards were struggling against the reanimated trolls?"
+
+"Reanimated? You mean they were already dead?"
+
+"Well, obviously." She rolled her eyes haughtily. "They had some skill implanted with violet runes carved right into their ugly skulls. They were just mindless undead puppets acting on basic commands."
+
+A giant gray corpse immediately flashed into his mind. A corpse he had just left lying carelessly nearby.
+
+This is bad.
+
+This is really, really bad.
+
+Pushing himself up from the tree root, he forced himself to move. Pouring mana into [Mana Reinforcement], he braced himself, because he was incredibly tired, and that skill was the only way he could keep moving.
+
+Looking over where the troll was he was ready to run at a moment's notice.
+
+The troll corpse was still lying exactly where he left it.
+
+Letting out a massive, shuddering breath, Ben dragged his good hand down his face.
+
+Thank god.
+
+Turning his back on the troll once and for all, he sat beside the wildly annoying noble girl again. His brief moment of relief was already completely fading.
+
+Because while the giant gray bastard was currently dead, the burning poison in his veins absolutely wasn't.
+
+His active [Focus] was doing absolute overtime just keeping his face from contorting into an ugly mask of pure suffering.
+
+He just needed to keep sitting. He needed to remain sitting near the tree and literally not move a single muscle until help finally arrived.
+
+A massive BOOM suddenly shook the forest floor.
+
+...Huh?
+
+Whipping his head around, he stared blankly back toward the clearing he had literally just left. A towering pillar of sickly violet fire suddenly erupted into the night sky.
+
+The eerie violet light instantly painted the dark woods in unnatural shadows. A sickeningly suffocating wave of heat immediately washed over his cold face.
+
+Scrambling backward in the dirt, Alice hit the thick tree trunk with a very hard thud.
+
+All the haughty, noble arrogance completely drained out of her dirt smudged face in an instant. She stared at the crackling violet flames with terror.
+
+"That fire..."
+
+Her voice was barely a completely terrified, trembling whisper.
+
+"That is the violet fire... the exact same fire from the undead puppets."
+
+He had completely obliterated that thing's ugly head.
+
+There was literally nothing left of its brain.
+
+But if he became an undead puppet, it obviously didn't actually need a functioning brain to keep moving.
+
+You have got to be completely shitting me.
+
+His luck wasn't just bad. The universe was actively, maliciously out to get him killed tonight.
+
+A screech tore through the burning woods. It was a sound of mindless malice. And it was coming straight from the troll's direction…
+
+His mana reserves were completely bottomed out. His left arm was essentially a dead, highly poisonous weight dragging him down. His vision was actively swimming with massive dark spots sometimes, and he was only standing because of a mental skill and [Mana Reinforcement]…
+
+If he actually tried to fight a fully reanimated troll right now, without the advantage of surprise on his side, he wouldn't even last a minute.
+
+Closing the distance in two long strides, he grabbed Alice's right hand. She flinched and her wide, terrified eyes snapped right up to his emotionless face.
+
+"We need to go."
+
+He yanked her away from the tree's thick roots.
+
+"Now."
+
+Stumbling awkwardly over her boots, she barely managed to keep her balance as he dragged her straight into the forest.
+
+"B-But the beacon! My guards! They will arrive and save us!"
+
+"They can find us wherever we hide!"
+
+He shoved an overgrown branch out of their way with his one good arm.
+
+"Because if we stay here, we're both actually dead!"
+
+Another massive explosion of violet fire shook the ground right behind them. The sheer concussive force of the heatwave pushed them forward.
+
+Glancing quickly over his shoulder, Ben watched the massive, dark silhouette of the troll smash straight through a burning tree. Its entire hulking gray body was wreathed in unnatural violet flames.
+
+Pouring his mana into [Fire Burst], he grabbed Alice and exploded forward. He didn't care about making noise anymore.
+
+Burning through the dense underbrush, Ben dragged the girl like a literal ragdoll. Trees blurred past his peripheral vision in a messy smear of dark browns and greens. It was incredibly hard to maneuver around in the dark, but he made do with what little his fire produced.
+
+But he almost hit the trees a few times, so Alice suddenly used some kind of skill and created a ball of light.
+
+With the path clear, he blasted forward faster. He just needed to put enough distance between them and the burning clearing.
+
+Glancing over his shoulder, his stomach instantly dropped.
+
+A raging inferno of violet fire was rapidly chewing through the forest directly behind them. The reanimated troll was gaining on them.
+
+How is a giant gray corpse that fast?
+
+Crashing through a thick wall of briar bushes, Ben desperately pushed more mana into his legs.
+
+And yet, the thundering footsteps behind them only grew louder. The oppressive heat of the violet flames practically licked the back of his neck.
+
+Damn it all.
+
+Skidding to a violent halt in the dirt, he threw Alice behind the cover of a massive tree.
+
+"Go! Run!"
+
+He shoved her shoulder hard toward the deeper darkness of the woods.
+
+"I will hold it off!"
+
+Looking at him with wide eyes, she did not scream or panic. She simply stood still.
+
+"Are you deaf? I can't carry you into the sky with my fire!"
+
+He gestured frantically at his utterly useless left arm.
+
+"If you run now, I can keep its attention! Then I can slip away later!"
+
+Probably.
+
+Hopefully.
+
+Gripping the edges of her ruined dress, Alice gave him a completely solemn nod.
+
+"Do not fall, commoner. I will have my guards return for you."
+
+Turning on her feet, she immediately sprinted into the shadows with surprising speed. He didn't even have time to be surprised by her sheer calm.
+
+Because a massive, burning fist abruptly smashed the tree standing behind into a shower of dangerous splinters.
+
+Ducking under a jagged piece of flying wood, Ben rolled awkwardly through the dirt. Coming up on his feet, he finally faced the towering undead monster head on.
+
+Violet fire continuously poured out of its hollow, empty eye sockets.
+
+"You are so incredibly ugly."
+
+Clenching his good right fist, he let his own orange flames ignite into the dark night.
+
+"I killed you once. I can easily do it again."

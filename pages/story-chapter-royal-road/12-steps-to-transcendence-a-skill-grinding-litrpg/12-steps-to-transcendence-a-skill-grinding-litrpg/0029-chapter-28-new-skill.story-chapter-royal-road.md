@@ -1,0 +1,403 @@
+---
+id: b78cd347-453a-5606-afea-52d2a890f48b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: New Skill"
+slug: 0029-chapter-28-new-skill
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 29
+ownLength: 2789
+unit: words
+publishedAt: 2026-08-08
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3788514/chapter-28-new-skill"
+royalRoadId: "3788514"
+---
+
+Behold, my new creation!
+
+Congratulations! You have learned the skill: [Mana Missile]!
+
+Staring at the notification of the new skill in his vision, Ben let out a tired breath.
+
+Honestly, he really did need a lot more practice with this magic crap. Trying to control pure mana outside of his body was just impossible right now.
+
+Failing to hold those stupid blue wisps together earlier had just given him a massive migraine. So he had simply stopped trying.
+
+Pivoting his whole strategy, he decided to look at his only working movement skill for inspiration.
+
+He couldn't shape or control mana externally yet, but he sure as hell knew how to blast it from his bare heels with [Fire Burst].
+
+It was a perfectly logical leap.
+
+Instead of messing around with fire mana, he just dragged pure mana straight up from his core. Shoving the energy through the clumsy pathway he'd figured out in his shoulder, he forced it directly down into his arm.
+
+He completely abandoned the idea of controlling the magic once it actually left his skin. He just let his own bones act like the barrel of a gun.
+
+And that beautifully reckless idea led directly to [Mana Missile]. Granted, it took hours of effort, experimenting, and abusing the hell out of [Focus], but he'd done it.
+
+Of course, using his own skeleton as a cannon had a major drawback.
+
+Firing the skill meant detonating the condensed mana inside himself right before it broke through the skin.
+
+It hurt like an absolute bitch because his arms or the bones within weren't used to the mana yet like his legs were used to exploding fire mana.
+
+It literally felt like someone was slamming a hot hammer directly into his wrist every single time.
+
+But the sheer destructive output was totally worth the agonizing pain.
+
+Gritting his teeth, he raised his right hand and aimed at a thick tree across the clearing. Pointing his arm straight, and taking the position he would when using a bow, he sent the mana out of his core, into his left shoulder, and then rocketed it down his right arm.
+
+Sucking in a sharp breath, he braced himself for the inevitable backlash.
+
+He clamped down on his jaw and fired.
+
+A blinding flash of azure light erupted from his hand with a deafening blast.
+
+The heavy recoil violently jerked his shoulder back.
+
+A fist sized missile of blue energy tore through the air in a straight line.
+
+It slammed into the solid trunk, instantly blowing a massive chunk of splintered wood out the back.
+
+Lowering his smoking hand, Ben stared at the gaping hole with wide eyes.
+
+Okay, yeah, that doesn't suck at all.
+
+In fact, it was amazing.
+
+Honestly, he was practically vibrating with excitement.
+
+Having a literal cannon built into his arm, or more specifically another viable method of attacking, was a total game changer.
+
+He wanted to go hunt goblins right this second just to test it out on a moving target. So he eagerly moved straight toward the edge of the encampment.
+
+But naturally, before he could even move halfway there to the exit, he was stopped. Stepping directly into his path, Arthur held up a calloused hand
+
+"You can't go out today, Ben. More Noble Houses are joining the expedition this year, and their main vanguard just arrived at the gates."
+
+Of course it was nobles, but what do you mean I can't?
+
+Blinking in sheer disbelief, he stared up at the man.
+
+"And what exactly does that have to do with me hunting?"
+
+Sighing heavily, Arthur crossed his arms over his chest.
+
+"It's for your own good, kid."
+
+Leaning down slightly, Arthur lowered his voice.
+
+"A lot of these noble brats have been heavily trained since childhood without ever seeing real combat or common sense. You do not understand how they think."
+
+Arthur gestured vaguely toward the bustling center of camp.
+
+"If they see a kid your age out here, rumored to have saved Lady Alice, they will absolutely challenge you to a duel just out of sheer curiosity and boredom."
+
+Frowning deeply, Ben felt his temper starting to spike.
+
+"And as a commoner, you won't be able to refuse them without facing severe political repercussions."
+
+That was absolute, total bullshit.
+
+How did this guy know he was leaving, anyway?
+
+Am I being watched? Why? Is he suspecting me of something?
+
+Regardless, he really, genuinely hated the rigid social hierarchy of these stupid nobles. But before he could snap back with a biting remark, the familiar cool wash of [Focus] flooded his brain.
+
+The anger was instantly forcefully suppressed, leaving him feeling completely detached and emotionally hollow.
+
+Clenching his jaw anyway, he just spun on his heel and walked away without another word.
+
+He wasn't going to stick around and argue with a brick wall when the rules were rigged against him.
+
+Heading past the rows of medical tents, he moved directly toward his secret little spot tucked away near the edge of the perimeter.
+
+He needed to let off some serious steam.
+
+He wasn't stupid enough to blast out of the camp with [Fire Burst]. That would just bring unwanted attention to him.
+
+Dropping heavily onto the grass, he glared down at his own empty hands.
+
+If the universe was going to force him to hide in the dirt from some arrogant rich kids, he was going to use the time to get stronger.
+
+Taking a deep breath, he made a wildly reckless decision.
+
+He deliberately completely dropped the emotional regulation aspect of [Focus]. Letting all that suppressed anger and annoyance violently bleed back into his mind, he hijacked the skill's processing power.
+
+Instead of using the skill to keep his head calm, he forcefully redirected all of that intense mental clarity directly toward his mana core.
+
+Gritting his teeth against the sudden influx of emotions, including his emotions regarding Duncan, Hannah, and Logan that he still hadn't processed, he shoved pure mana out of his fingertips.
+
+He was going to figure out how to control this magic outside of his body if it killed him.
+
+Ben forced another surge of mana out past his knuckles.
+
+He was incredibly pissed off.
+
+Having his hunting trip canceled for absolutely no good reason had entirely ruined his mood.
+
+And deliberately turning off the emotional suppression of [Focus] was just making everything ten times worse. Though the trade off was worth it, in his opinion.
+
+Faint blue wisps moved around his fingers.
+
+He tried to force the mana into a solid shape, but that was still hard. The fuzzy awareness in his chest practically rebelled against him.
+
+Snapping with a faint hiss, the gathered mana unraveled and vanished into thin air.
+
+A throbbing pain instantly stabbed right behind his eyes.
+
+Pressing the heels of his hands against his forehead, Ben let out a frustrated groan.
+
+"You are really, genuinely bad at that."
+
+Sighing heavily, Ben didn't even bother opening his eyes. He already knew exactly who was standing there.
+
+"Go away, Alice."
+
+Stepping fully into his peripheral vision, she crossed her arms over her pristine dress.
+
+"I am merely stating an objective fact. You look like a constipated frog trying to squeeze out a magical egg."
+
+"Wow. The aristocratic grace is just blinding today."
+
+Tilting her chin up, she flashed him that signature, haughty little smirk.
+
+"I adapt my vocabulary to my audience, commoner."
+
+He really didn't have the patience for her usual banter today.
+
+His head was pounding and he just wanted to hit something. But she was unfortunately standing right there, and she actually knew things he needed to know.
+
+Rubbing his temples, he decided to just use her for information again.
+
+"Since you're so smart, tell me why my brain feels like it's melting every time I try to hold mana outside my body."
+
+Alice gracefully lowered herself onto a nearby log, deliberately brushing away a stray leaf first.
+
+"Because you are an idiot."
+
+Ben just stared at her.
+
+"Thank you. That is incredibly helpful. I have become smarter."
+
+Rolling her eyes at his words, she uncrossed her arms and leaned forward slightly.
+
+"Mana control is exactly like a physical muscle, Ben. You cannot just demand it to instantly lift a boulder when you haven't even practiced lifting pebbles."
+
+Well.
+
+That actually made perfect sense.
+
+"So I'm just overusing it?"
+
+"Grossly overusing it." She tapped a delicate finger against her own temple. "Your mana channels and your mental capacity for control have limits. Overuse it too much, and the 'muscle' tires out. It strains. And you might even injure yourself."
+
+"And if I train it enough?"
+
+"It tears, as muscles tend to do, and it recovers, and it grows significantly stronger."
+
+Stretching his legs out in the dirt, Ben thought about that for a second.
+
+He had definitely been pushing himself way too hard today just out of pure spite.
+
+"Is that why danger makes you level up faster?"
+
+Alice blinked, looking genuinely surprised that he had connected those dots.
+
+"Partially, yes."
+
+"Explain it."
+
+"When you fight for your life, your body forcefully absorbs the essence from the monster you are killing, or actively refines the essence you already have. Because you are in extreme danger, your mana channels are flooded with it, and so is your body. The essence becomes highly volatile. It forcefully stretches your mana muscle, your core, expanding your mana channels far beyond their normal limits to keep you alive for the time you're in danger. And it also keeps refining essence through your skills, thus they see more results."
+
+Nodding slowly, Ben completely understood what she was saying.
+
+Essence is basically magical steroids.
+
+"So it uses that essence to forcibly inflate your core and mana channels, as well as your skills, and that gives you more levels?"
+
+"Exactly." She smiled, clearly pleased with herself for explaining it so well.
+
+"Isn't that…"
+
+"Cheating?"
+
+"Well, yeah."
+
+She laughed. "Silly commoner, would you consider the clarity and strength you gain while in danger a cheat? It is merely your body's natural reaction to danger."
+
+Ben fell into thought.
+
+Well, it does seem like adrenaline.
+
+Besides, who cared about cheating anyway?
+
+Alice conjured and slapped a harmless light particle into his face to catch his attention.
+
+"Pay attention when I'm being generous enough to tell you what you want, commoner."
+
+"Yes, yes, Lady Alice. Please enlighten this commoner. He is very ignorant."
+
+She snorted.
+
+"Still, if you're doing it manually, without the pressure of life or death, it requires actual discipline."
+
+"Which you think I lack."
+
+"Obviously."
+
+Ben ignored the insult, focusing entirely on his stinging head.
+
+"So how do I actually control it outside my body better? Is there anything you can teach me?"
+
+Alice's eyes immediately narrowed in deep suspicion.
+
+"You want me to teach you?"
+
+"I am literally asking for your help."
+
+Puffing her chest out proudly, her cheeky grin returned in full force.
+
+"Well, since you recognize my obvious superiority, I suppose I can impart some basic aristocratic wisdom."
+
+He kept his mouth firmly shut, waiting for the actual advice.
+
+"You are trying to push the mana out like a river. You have even managed to bend it to your will, somehow, even if only somewhat. Which is surprising. But not recommended." She pointed directly at his hands. "You just shove it through your fingers and expect it to hold its own shape, or are trying to force it into a shape."
+
+"Because that's how my skills work."
+
+"Skills have intrinsic structure. Raw mana does not. Do you expect a river to bend to your whims?"
+
+"Well, no."
+
+"Exactly. You have to build the cup before you pour the water, just like you can dig a river for the water to follow, as the Worldcarver once did."
+
+Frowning deeply, Ben brought his hands back up.
+
+"Build the cup?"
+
+"Visualize a hollow sphere just above your palm." She instructed, her tone surprisingly serious for once. "Do not push the mana out first. Build the container in your mind, then fill it."
+
+Taking a deep breath, Ben closed his eyes and isolated that fuzzy awareness in his chest.
+
+He forced himself to ignore the throbbing headache.
+
+He visualized a completely empty glass sphere resting directly on his palm.
+
+It was invisible, made out of air maybe, and it didn't actually exist, but it did exist in his mind, and that visualization was reinforced so many times due to [Focus] that it was crystal clear in his mind. Slowly, carefully, he pushed a tiny thread of pure mana up his arm and let it pool into the imaginary container.
+
+A localized warmth blossomed right above his skin.
+
+Opening his eyes, Ben was shocked to see a tiny, perfectly stable marble of blue light resting in his hand.
+
+It wasn't sparking, and it wasn't unraveling.
+
+Holy shit.
+
+It's actually working.
+
+"See?" Alice sounded incredibly smug. "You just lack proper guidance. Your control is atrocious, but your—"
+
+A sudden, sharp blast of air slammed violently into the back of Ben's head.
+
+The unexpected impact whipped his hair forward and completely shattered his concentration.
+
+The blue marble instantly popped out of existence.
+
+Pain violently spiked through his skull from the sudden backlash of losing control.
+
+Gritting his teeth, Ben instinctively reached for his [Fire Burst], annoyance rising inside him.
+
+He completely forgot he had [Focus] turned off.
+
+A loud, obnoxiously arrogant laugh echoed from the trees behind him.
+
+"Of course he is bad at it. He is a filthy commoner."
+
+Turning around slowly, Ben felt his blood instantly boil.
+
+Standing there in a ridiculously expensive, immaculately clean silk tunic was the loud noble brat that had been bothering him.
+
+The kid had a nasty, superior sneer plastered across his thoroughly punchable face.
+
+A faint breeze was still swirling around the brat's raised hand.
+
+He just threw wind… mana at me? He actually attacked me.
+
+This was getting out of hand.
+
+"You should not be seen with commoners, Lady Alice." The brat stepped forward, completely ignoring Ben. "It is a severe stain on your House's prestige to associate with literal dirt."
+
+Jumping up from the log, Alice's face twisted into an expression of outrage.
+
+"How dare you interrupt me, Brian!"
+
+Ben just sat there in the dirt, his knuckles turning entirely white. His chest heaved as anger flooded his system.
+
+He was so deeply tempted to just trigger [Focus] and instantly curb the furious emotion.
+
+He knew he should turn it back on.
+
+He desperately needed to turn it back on.
+
+If he let himself react right now, he was going to do something incredibly stupid.
+
+There were so many reasons why antagonizing this arrogant little prick was a terrible idea.
+
+If he beat the shit out of him, his family would absolutely get in Ben's way.
+
+Arthur explicitly warned him about this exact scenario.
+
+If he fought back, he would be officially stepping into the tangled noble politics that he deliberately wanted to avoid.
+
+He'd be forced to pick sides.
+
+They might just kick him out of the safe encampment entirely.
+
+He might lose his quiet spot, or maybe lose access to Marcus's healing.
+
+It was a terrible, horrible, no good idea.
+
+"The dirt scratcher knows his place." Brian sneered, noticing Ben's total silence. "He doesn't even dare to speak when his betters are talking."
+
+Alice practically vibrated with rage, her hands balled into tight fists.
+
+"You arrogant little pig! He has killed things you would run crying from! This is not how nobles should act, you disgust me!"
+
+"Please." Brian scoffed loudly, waving a hand dismissively. "He probably just stole the essence from dying beasts. Just look at him."
+
+Ben stared blankly at the noble brat.
+
+He was perfectly aware of the consequences.
+
+He logically knew that staying entirely silent was the best, smartest play to make.
+
+He just had to swallow his pride, turn on [Focus], and walk away.
+
+But.
+
+He was just so damn tired of this.
+
+He was tired of having his hunts canceled, tired of being treated like garbage, and deeply, intensely tired of this specific kid's voice.
+
+Slowly, deliberately, Ben pushed himself up off the ground.
+
+He didn't activate [Focus].
+
+He let the anger burn hot and bright right in his chest.
+
+Why am I standing up?
+
+Brian stopped talking, his condescending smirk faltering for just a fraction of a second as Ben stepped closer and he met his eyes.
+
+His eyes must be quite the sight right now, honestly.
+
+Why is my mouth moving?
+
+Looking dead into the arrogant noble's eyes, Ben let out a short, hollow laugh.
+
+"You know what."
+
+Rolling his shoulders, Ben felt his mana surge under his skin as [Warforged] took hold.
+
+"What about that spar?"

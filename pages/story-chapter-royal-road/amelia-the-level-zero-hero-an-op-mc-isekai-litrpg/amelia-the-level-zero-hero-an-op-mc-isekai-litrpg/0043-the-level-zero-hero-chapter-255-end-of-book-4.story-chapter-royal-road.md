@@ -1,0 +1,125 @@
+---
+id: 2b6e32f3-1513-5d85-8bdd-ead5f1b9ef4f
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 255 (End Of Book 4)"
+slug: 0043-the-level-zero-hero-chapter-255-end-of-book-4
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 43
+ownLength: 1318
+unit: words
+publishedAt: 2024-08-27
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1776420/the-level-zero-hero-chapter-255-end-of-book-4"
+royalRoadId: "1776420"
+---
+
+And it was over
+
+The reign of terror of Kallistus Kal came to an end.
+
+It wasn’t a climactic ending. It wasn’t even exciting. After such an epic battle that raged across the multiverse, the former [Hero King] accepted his death without a struggle.
+
+I stared at his corpse as the sun disappeared over the horizon. Not even the orange glare of twilight remained. For a moment, all was silence. All was peace.
+
+Then slowly, his corpse began to rapidly decompose. His skin withered away, and his bones turned to dust. I looked on as a gust of wind swept up his remains and carried him into the air until nothing was left except for the flicker of purple that had once been the mini-Void he created.
+
+And as I heard the howling of the wind, I could also hear the faintest trace of a voice blowing alongside it.
+
+I will… return…
+
+I sighed, “Of course.”
+
+It was the Voidgod. Even if it perished alongside Kallistus Kal, it would return. It always returned. It could not die, no matter how many times I killed it. That was why I had given up on trying to put a stop to it.
+
+That was why I wanted someone else to deal with it instead of me. Otherwise, I would be trapped in a never ending battle that lasted all of eternity.
+
+I shook my head as I drew back from Kallistus Kal’s grave. I spared one last glance at it, before closing my eyes. Even though I had barely known the [Hero King], I realized now that we were more alike than I had thought.
+
+Perhaps if I had known this sooner, I might have intervened beforehand.
+
+After all, he experienced the same thing I did. To a lesser extent, of course. But he suffered just as I had. And I pitied him. I empathized with him. I gave him this death so that he would at least be at peace when he passed.
+
+But that was not all.
+
+That was not the only reason why I brought him back here to his world.
+
+There was a reason I hadn’t divulged to him— a reason why I hadn’t just slain him back in Vacuos. It was a simple reason, really. That which related to kindness.
+
+Which was perhaps why I was a liar for saying that I was not a hero.
+
+Because I killed Kallistus Kal here in his world to save his soul.
+
+I opened my eyes as I swept my gaze over the graveyard. That was right. There was no salvation waiting for the [Hero King] if he had died in Vacuos.
+
+Every being born in every world across the multiverse had a soul. And their soul was granted to them by the world itself. Of course, every world had its own variation to it— some worlds had gods that bestowed the souls, while others had a natural cycle for souls to be reborn.
+
+It didn’t matter. Because at the end of the day, if an outsider to a world died in that world, their soul will forever be destroyed. Unlike if they perished in their own world.
+
+There were a few caveats to that— there was always the possibility that a soul could be naturalized to another world.
+
+But that was definitely not the case for Kallistus Kal. So I knew that the only way to save his soul would be to bring him back to his world. Which was why I did what I did.
+
+“I guess at the end of the day I really am a hero, huh?” I whispered, before I took a step back.
+
+And I opened a rift behind me, stepping through it to return back to my world.
+
+To Vacuos.
+
+—--
+
+With the defeat of the Kingdom of Kal at Astral and the death of the [Hero King] Kallistus Kal, the incessant war that had embroiled Laxo for the better part of a decade was over. Everyone felt like they could collectively sigh in relief.
+
+Well, almost everyone.
+
+“So the war is over,” a gruff voice said. It was a burly man who spoke. He crossed his arms as he stared at the newspaper plastered against the wall. “And Amelia didn’t even have to intervene, huh?”
+
+A soft voice replied, “That’s not what I heard. I heard she had a part to play, although she didn’t participate in the war itself.”
+
+“I am surprised to hear about that. I didn’t think she was someone who got involved in things like this.” The burly man placed a hand on his chin.
+
+And a blonde girl smiled next to him. She drew back, spinning around as he turned to face her. “Well, Garron, you don’t know Amelia like me. Because I always knew she would do something about Kallistus Kal.”
+
+“You were that confident in Amelia, Noele?” Garron blinked back at the blonde girl.
+
+And she chuckled as she strode away from him. “Of course. There’s a reason why I chose Amelia as my master. Anyway, that’s enough discussing this. We still have our own issues to deal with.”
+
+“Right.” Garron nodded as he hurried after her.
+
+The two adventurers came to a halt right before a mine at the edge of the town. They made their way past a crowd of smaller figures— of these rotund and stumpy people. Dwarves. They carried with them ores and pickaxes as they hurried to and from the center of the town.
+
+And finally, Noele and Garron came to a halt right before a large mine dug into the center of the town.
+
+“Even if Kallistus Kal is gone, the Sect of the Abyssal Thorns remains,” Noele said as her gaze pierced the massive mine right ahead of them. “Someone is going to have to deal with them. And that will be us.”
+
+Behind Noele, Garron nodded. And the two of them perked up as they caught a glimpse of a group of cloaked figures making their way into the mine.
+
+Noele took a step forward as she smiled. “Let’s do this.”
+
+And Garron followed after her. “Right.”
+
+—--
+
+Meanwhile, back in Wolfwater, I finally returned to my restaurant. But I didn’t get back to work immediately. Instead, I kept Bucky’s Out of this World Restaurant closed for a few weeks. Not to mourn, nor was it because I was truly upset over Kallistus Kal’s death.
+
+But mostly because I didn’t want to deal with anything right now. Grat-ra’zun, Arthur, Jax, Justyn, Bucky, and Edlyn all tried to pester me about what happened— what I did. Even though the official story was that the [Hero King] died to Grat-ra’zun, Arthur, and Jax at Astral, they all knew I had gotten involved somehow.
+
+And I didn’t want to tell them anything about what happened in my duel with the true Kallistus Kal.
+
+I just remained by myself, in my room, resting for now. But I wasn’t completely alone. After all…
+
+I heard a buzzing as I looked up and out my window. I saw Melita there, and I smiled as I proffered her a hand to rest on. She came and landed right at the palm of my hand as I chuckled.
+
+“At least you’re here for me,” I whispered.
+
+And I closed my eyes, going to sleep.
+
+End of Book 4
+
+Author's Notes:
+
+And that's the end of book 4! I will be stubbing 90% of chapters very soon, but I will keep the entire climax fight of the book up even when I stub.
+
+I will be taking a small hiatus from Amelia to focus mostly on Salvos, but I should resume Amelia in a few months time.
+
+Also, if you are a Salvos reader, check out my Kickstarter for Salvos Books 2-4 that is ending very soon! Salvos Books 2-4: Epic LitRPG Fantasy Novels by Merrick Books — Kickstarter
+
+Thank you all for reading!

@@ -1,0 +1,195 @@
+---
+id: 60863381-6ea5-515d-b916-b617fdf13d9c
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch39: Let's Stop The Eruption (2)"
+slug: 0046-b6-ch39-let-s-stop-the-eruption-2
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 46
+ownLength: 2661
+unit: words
+publishedAt: 2026-03-31
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3215527/b6-ch39-lets-stop-the-eruption-2"
+royalRoadId: "3215527"
+---
+
+“Brix?” Arthur said.
+
+It was a mark of how far they had come that Brixaby knew exactly what Arthur wanted without him having to say it.
+
+“I will search,” Brixaby said, then Arthur felt him activate his Call of the Heart. Arthur could have done it himself, but the card was ultimately Brixaby’s, and this called for precision.
+
+The dragon got an answer a few moments later. He licked his chops with anticipation. “There is indeed a Legendary card down below.”
+
+“Then we’re taking control of this eruption,” Arthur said.
+
+“All by yourself?” Horatio called, looking mildly alarmed. “I know you guys pull off crazy stunts all the time, but this is a demi-scourgling. Are you sure you don’t want to wait for the other Legendaries?”
+
+“If they want to complain about us taking their prey, then they should be here,” Brixaby said, deliberately misunderstanding.
+
+Arthur grinned. “Brix, get me the Rare riders.”
+
+Brixaby’s entire body seemed to swell with air and power. He buzzed up higher, then flared all four of his wings in a way that caught the sun and highlighted the iridescent purple shimmer of his scales.
+
+When he used his Stunning Shout, the air shook. “Rare Riders, attend us!”
+
+There was a definite pause in the action. A moment later, a double handful of dragons peeled off from the fight. A good third of those headed immediately for the portals, leaving the eruption entirely. Apparently, his and Brixaby’s reputation was starting to spread. People were fleeing, probably thinking that he and Brixaby were after their cards.
+
+Brixaby must have thought the same thing. He said, loud enough to be overheard by anybody who would care to listen, “As if I would settle for a mere Rare card.”
+
+Arthur ignored the cowards and looked over the battlefield. The crack in the earth was widening, and more and more of the scourglings were pouring out. The current dragon pairs were doing their best to stem the tide, but not all of the hives had arrived yet, and there were just too few of them.
+
+The only bright spot was that it seemed that the unusual eruption had allowed for more people to escape. More purple pairs were searching rather than rescuing, and he didn’t see anybody being run down by the scourge-wolves.
+
+Maybe we are in an inner part of the kingdom where it’s more common for people to have cards.
+
+“Are you sure you know what you’re doing?” Horatio asked, luckily before the rest of the Rare pairs arrived.
+
+“I hope so,” Arthur said.
+
+That was when Soledad and Equinox arrived. The dragon had grown large during his time in the pocket dimension. Brick red, with undercurrents of darker mauve and highlights of icy blue on the tips of his wings, he had unusual markings. His snout had become square and heavier, but his neck and limbs were a little overly long, giving him the look that he had a lot more growing to do. He was going to be large whenever he reached his full length.
+
+Soledad, who sat proudly on his neck, looked like she was proud enough to burst.
+
+“Why are we not fighting?” Equinox demanded of Brixaby.
+
+Brixaby quelled him with a look, and even though the red dragon was practically vibrating in place, looking for a fight, he quailed.
+
+Arthur said, “Have you ever heard of a controlled burn?”
+
+“I have,” Soledad said.
+
+Arthur pointed. “Focus there on the north side of the gap. Burn down all those trees. I want a bare spot, somewhere we can attack and see.”
+
+They shot off just as the first of the Rares drew close. Cinderwood was among them, but something was different.
+
+“Did Cinderwood choose a rider?” Arthur asked. “Does that mean she’s not part of the wild dragons anymore?” He squinted, but they were still too far away to identify a face.
+
+“I do not sense a bonded card between them,” Brixaby replied, and seemed uninterested in pursuing it further as he eyed the rest.
+
+One, a green with blue scales on her belly, surged ahead of the others. Her rider, who wore the colors of Buck Moon, scowled as she called to Arthur, “What is this about, Blood Moon leader?”
+
+“We’re going to stop this eruption immediately,” Arthur said. He looked over the rest of the Rares, who acted not only as captains but as general leaders for the lower ranks. “We’re going to focus the fight right at the north end of that rift there. Send word to your ranks that brown dragons or anyone with earth-powered cards are to join me immediately. There’s a demi-scourgling about to emerge,” Arthur said. “We’re going to squeeze it until it pops.”
+
+Forming up a proper, directed, and organized attack was both easier and harder than Arthur had feared.
+
+Easier because no one who had stayed dared to openly countermand Arthur and Brixaby. None came within easy touching distance, and Arthur saw several dragons with their forelegs half lifted as if to shield the cards in their cores from Brixaby’s gaze.
+
+Also, Brixaby’s ability to shout directly into people’s minds when they were in line of sight wasn’t something that could be ignored.
+
+Harder because, as his order for those with earth powers to join him spread through the ranks, more pairs turned tail and fled to the portals. Arthur didn’t know if they were simply running away or reporting back to their own Legendary leaders that the crazy card-stealing pair from Blood Moon were taking over.
+
+If they want to try to stop us, let them come, Arthur thought with surprising bitterness. Let them help.
+
+The traditional method was to let a demi-scourgling erupt before engaging. According to Sams, the process of erupting was exhausting business. Much like any birth, things could go wrong, and occasionally demi-scourglings were unable to fully emerge from an eruption cone before they were beaten back by the ranks of lower-level card users.
+
+But every scourge-eruption was different. Scourglings were constantly mutating to find the optimal body type and attack pattern to run rampant over the world.
+
+This, however, was a crack eruption during a double eruption, too near a large population center to ignore. Not everyone was interested in preserving their own skin, and as Arthur’s orders went out, dragons and riders with earth-type cards came to lend their strength.
+
+Not all were browns. They were joined by three blues who had groundwater-manipulation abilities and a green whose combined card with his rider specialized in growing roots that could be used in combat.
+
+“Perfect,” Arthur said, and after sketching out a basic plan, turned to send orders to the rest of the riders.
+
+Typically, eruptions were a free-for-all, with groups of dragons and friends teaming up to tackle a thorny knot of scourglings. They could be trusted, too, to not stab each other in the back when it came time to harvest shards from their kills.
+
+Occasionally, entire wings fought together, such as with Blood Moon Hive. But card powers could be extremely dissimilar—every single card being unique, even if only in a small way—that it could be a challenge to get a group to work together effectively without a lot of practice.
+
+Selfishness had set in over the years throughout the hives. A general sense of “I’ll get what’s mine by myself. You worry about you.”
+
+So with all this in mind, Arthur didn’t make the mistake of telling people to work in well-coordinated attacks. He gave them an overall goal and left it to them to work the details out. It was more important that they all pulled together in a general direction.
+
+First, he sent the purples of every hive to range out farther and conduct rescues in the area between the village and the main city, which lay a few miles away.
+
+He got some pushback, with one rider exclaiming, “That’s all well and good for the city, but what about the scourglings scattering in the other directions?”
+
+“We’ll have to mop them up.”
+
+Because rescue teams spaced wide apart were ineffective, and while it was certain people had fled to the other three directions, the city to the south had to be protected at all costs. Someone had to make that call, and Arthur was the only one here with the rank to do it.
+
+“We’ll send mop-up rescues after the eruption is over,” Arthur said. “Those are your orders.”
+
+The rider scowled and added a belated “Sir” before directing his beast to fly off.
+
+None of it mattered if the demi-scourgling emerged.
+
+Equinox had made quick work of the forest at the north end of the rift, but in that short time, the rift had expanded and widened. Every moment, it looked more and more like a canyon. Scourglings were practically pouring out.
+
+Then the sun itself seemed to increase in brightness in a subtle way that Arthur couldn’t put his finger on. Glancing around, he saw Sams up high with his wings outstretched. Even Horatio looked like he was suddenly wearing reflective metal, though Arthur knew his friend preferred dark leather. It was an effect of their light-manipulation cards. Their ability to manipulate the finer bands of light had increased dramatically since leaving the Dark Heart.
+
+They used their powers in full force now. Abruptly, scourglings that had somehow escaped Equinox’s fires burst into flame as if the sun were directly targeting them.
+
+Not to be overdone, Equinox roared, and lava began to bubble up out of narrower side cracks that had developed in the torn land. It enveloped any hapless scourgling that happened to be nearby.
+
+Then, if that wasn’t enough, some areas became flash frozen as Soledad targeted them. Fire and ice worked together in balance.
+
+Many of the rocks, having been parboiled by being too close to the lava, then immediately frozen, simply exploded, creating shrapnel that killed even more emerging scourglings.
+
+“They are an effective pair,” Brixaby murmured in an unusual moment of praise.
+
+“We could always have Equinox pour more lava into the crack and see if the demi-scourgling likes that,” Arthur said with a grin.
+
+He snorted. “As if a Legendary would die so easily.”
+
+Under Arthur’s direction, everyone was putting their cards to work, scouring the area directly around the rest of the rift.
+
+The small village had already been lost, but now it was practically leveled under scouring blasts of wind, razor wing beats, traditional fire that roared downward, ghostly swords that slashed into anything moving, sucking quicksand, rapid-acting poison gas, and a hundred other combat effects all concentrated in one area.
+
+The result was that the land directly around the widening north end of the rift was scoured utterly clean . . . at least until the next wave of scourglings below rose again.
+
+“Now!” Brixaby roared.
+
+Dozens of dragons with earth-type powers landed on the clear ground and got to work.
+
+Brixaby buzzed above them. “Squeeze the rift shut from the bottom. Close the canyon!”
+
+That was a tall order even for multiple dragons. Some could telekinetically move rocks, some had the ability to tunnel through soil, and some, like the blue dragons who came up with them, only had the ability to flood the lower passages with water.
+
+But, working together, the north ends of the rift started to seal itself shut.
+
+It did not go quietly. The ground below began to rumble with another earthquake. Somehow, this one felt angry.
+
+Brixaby and Arthur hovered just above, darting here and there to check progress. They were there to shield the earth-type fighters from sudden waves of emerging scourglings. But Brixaby had also put himself close enough to be within their auras.
+
+Dozens of notifications flashed in front of Arthur’s vision as his Counterfeit Siphon card picked up on the spells. All were Common or Uncommon, but that didn’t mean they were useless.
+
+With their reputation, the dragons and riders didn’t need to know what they were up to.
+
+Brixaby was eagerly watching the notifications as well. “That one! Stone Sense!”
+
+Arthur agreed. It was an Uncommon spell that would be available to them for just under twelve hours. He activated it, and even though they were in the sky, it was as if a new awareness of the earth bloomed within him. He’d never been one to pay much attention to the ground, other than when it was a barrier between himself and what he wanted. Now it was as if all the rocks around him had a special texture and awareness . . . like seeing a rainbow of new colors without seeing them at all.
+
+It worked really well with the Common Earth Intuition another dragon had.
+
+Running the two spells together was quite the mana drain. They were also the gateway to exactly what he wanted to know.
+
+Arthur dove downward with his mind, sensing the rocks and intuiting the voids. The canyon was absolutely teeming with scourglings. Thousands upon thousands crawled over one another, many being ripped up in their need for escape. It didn’t matter because for every one that fell, there were literally hundreds that were vying for its place. All were straining upward to freedom and food.
+
+And underneath all that lay the demi-scourgling.
+
+Already larger than any of the dragons, it was an indistinct shape to Arthur’s senses. He frowned as he redoubled his concentration, trying to see if he could glean anything more from it. Something that would give him and Brixaby an edge.
+
+A headache bloomed, but over the next few moments, he sensed/saw/perceived through the space where the earth wasn’t that the demi-scourgling was curled up in an unnatural tight ball. The very earth pulsed against it as it strained to close up, thanks to the directed power of the dragons. The demi-scourgling held fast and kept the canyon open.
+
+No, more than that . . . it had not truly begun to fight.
+
+“It’s still trying to hatch,” Arthur realized.
+
+Brixaby turned his head to look straight at him. “Then this is the perfect moment to strike.”
+
+They would have to do something because the sheer number of regular-ranked scourglings Arthur had sensed trying to crawl out was sobering. This eruption had only just begun. Once the bulk of their enemies emerged, they would need the strength of all the hives to contain them.
+
+“Shake the canyon walls!” Brixaby commanded the dragons. “Knock them back down to the depths!” Then he shot upward to where Cinderwood and her still-unnamed rider flew in wide circles above.
+
+As a pure support pair, they could not help with the scourglings. Normally, they would be aiding any faltering fighters from above. Arthur had ordered them to stay put just for this moment.
+
+The closer he and Brixaby got to the pair, the better he felt. Cinderwood’s General Empowerment skill was boosting his strength, perception, balance, and endurance by twenty-five percent. The effects would last thirty minutes.
+
+What was more, he felt his mana pool refilling faster as well.
+
+That would have been enough, but to Arthur’s surprise, Cinderwood’s rider extended a hand to him. “Here, sir!” He was old, his gray beard stuck out from under a helmet, but the voice was steady enough.
+
+Only Brixaby’s extreme maneuverability allowed Arthur to reach across the gap and clasp his arm.
+
+As he did, more magic and power flowed into him. Not only did his mana pool instantly top off, but he felt as refreshed as if he had just woken from a satisfying nap. He hadn’t even realized how bogged down his thoughts had become from adrenaline and exhaustion until the fog lifted. It had been a long day.
+
+Utterly refreshed, free of hunger and thirst, and filled with power, Arthur let Brixaby take him back in the sky. Then Brixaby pointed his hooked nose down, folded his wings, and the two of them dove straight down for the crack in the earth.

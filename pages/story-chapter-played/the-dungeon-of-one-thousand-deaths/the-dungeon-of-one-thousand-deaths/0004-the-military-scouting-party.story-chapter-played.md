@@ -1,0 +1,477 @@
+---
+id: c9369095-0eb5-5634-896c-ecb93dc882c0
+page-type-slug: story-chapter-played
+title: "The Military Scouting Party"
+slug: 0004-the-military-scouting-party
+partOf: the-dungeon-of-one-thousand-deaths
+position: 4
+ownLength: 6076
+unit: words
+---
+
+To His Excellency Lord Aldric Cray, Warden of the Eastern Reaches, by the hand of Senior Field Scribe Orvyn Thel, attached to the Third Scouting Company:
+
+Your Excellency,
+
+I have been ordered to produce a field record of our investigation of the anomaly designated Ridge-Opening Alpha, known colloquially as the Maw. I will produce that record. I will note, for the historical document, that I advised against this assignment before departure, that my advice was not requested, and that I record this not from resentment but from precision — future readers of this document should know that the information it contains was purchased at full price, and that the accounting was not done in advance.
+
+The party: Captain Sera Vant (Commander, seventeen years service), Scout Dara Hess (seven years, previous Ridge-Opening entry), Corporal Bren Aldic (Fighter, twelve years), this scribe (Orvyn Thel, nine years document service), and Mira Doss (Surgeon-Corporal, six years field medicine). Five. A sound number for a scouting engagement of unknown territory.
+
+We entered at second bell, morning.
+
+---
+
+Entry 1. 10:14.
+
+The opening is as reported: seven strides across, perfectly round, honey-colored stone. The air rising from it smells of copper and something green. There is light inside — bioluminescent growth on the walls, a warm amber that increases with depth. Captain Vant assessed it as defensible from above, indefensible from below. The Scout confirmed the same configuration as her previous entry, three years prior. She noted the moss-growth is more extensive. I noted this also.
+
+We went in.
+
+Entry 2. 10:31.
+
+The Asking.
+
+I will describe this for the record because it will not be believed without description, and because the record exists for people who will not experience it themselves.
+
+At the entrance to the first large chamber, a pressure arrived. Behind the sternum. Not painful. Three syllables, or the shape of three syllables — not heard but known, a communication that bypassed the ear entirely. The question: what do you want.
+
+I have since understood that this question is not symbolic. It is not metaphorical. It extracts, with surgical precision, the desire most fundamental to each person present. It does not ask what you want today, or what you have been told to want, or what you want others to believe you want. It finds the thing underneath.
+
+We all answered. Simultaneously. I know this because the Designations came simultaneously, and what happened next happened to all of us at once.
+
+What I wanted was to understand. I did not know I wanted this until the question found it. I thought I wanted to complete the assignment. That was the surface. Underneath: I have spent nine years recording things I did not understand, and the not-understanding has accumulated into something that resembles desperation, if I am honest, and I am trying to be honest, because the cost of dishonesty in this document is that future readers will not know what to prepare for.
+
+```stat-screen
+  DESIGNATION ASSIGNED — 5 SIMULTANEOUS ENTRANTS
+
+  ─────────────────────────────────────────────────────
+
+  ENTRANT 1: Sera Vant
+  DESIGNATION: The Warden
+    Gift: Arsenal Manifestation — materialize any weapon
+    ever trained with, at peak proficiency. Permanent.
+    Cost: Tunnel Doctrine — can only perceive threats.
+    Allies, food, exits, rest: invisible and inaudible.
+  You are the perfect fighter.
+  You cannot see the people you are fighting for.
+  Warden #19. Weapons in repertoire: 14.
+  Current invisible allies: 4. You cannot read this number.
+
+  ─────────────────────────────────────────────────────
+
+  ENTRANT 2: Dara Hess
+  DESIGNATION: The Compass
+    Gift: True Path — perfect real-time knowledge of
+    the shortest route to the dungeon's exit.
+    Cost: Forward Only — can only move toward the exit.
+    Cannot stop, retreat, or deviate.
+  You walk the perfect path.
+  The perfect path walks through everything.
+  Compass #15. Distance to exit: 4.7 km.
+  Estimated hostiles on path: 31. Survival: 2.1%.
+
+  ─────────────────────────────────────────────────────
+
+  ENTRANT 3: Bren Aldic
+  DESIGNATION: The Bulwark
+    Gift: Aegis Shell — impenetrable kinetic barrier
+    around any living creature within 3 meters.
+    Cost: Unshielded Alone — personal damage resistance
+    drops to zero when no ally is within 3 meters.
+  You will die alone.
+  Bulwark #7. Average survival: 4.2 hours.
+  All seven died alone.
+
+  ─────────────────────────────────────────────────────
+
+  ENTRANT 4: Orvyn Thel (this scribe)
+  DESIGNATION: The Scribe
+    Gift: Deep Reading — perfectly read Death Inscriptions,
+    decode Ledger data, understand the Maw's rules.
+    Cost: Borrowed Grief — knowledge carries the full
+    emotional weight of its source. Fused. Cumulative.
+  You understand everything, including how you will die.
+  You cannot stop it.
+  Scribe #4. Your Gift will allow you to read this
+  note's subtext. You already know what it means.
+
+  ─────────────────────────────────────────────────────
+
+  ENTRANT 5: Mira Doss
+  DESIGNATION: The Mender
+    Gift: Living Suture — heal any wound, cure any
+    poison, mend any break. Works on others only.
+    Cost: Sympathetic Wounds — each healing transfers
+    as phantom pain at 50% intensity. Cumulative.
+  You heal everyone until the pain cripples you.
+  Then no one can heal you.
+  Mender #9. Cumulative pain threshold before motor
+  impairment: approximately 14 moderate healings.
+  Plan accordingly. Previous Menders did not.
+
+  ─────────────────────────────────────────────────────
+
+  Average party survival rate: 0%.
+  Note: sample size: 1.
+```
+
+Entry 3. 10:47.
+
+I will note the tactical situation first, because I was ordered to produce a tactical document.
+
+Tactical situation: Captain Vant cannot see any of us. She can see threats. She knows we are here because we told her, and she accepted this intellectually, but she cannot hear us speak unless we are screaming about a threat, and she cannot see us move unless we are moving toward a threat. Scout Hess is already moving — she cannot stop. She is walking at a measured pace toward the exit, which means she is walking deeper, which means she will continue until she hits the exit or the path kills her, whichever comes first. Corporal Aldic is maintaining close contact with Surgeon-Corporal Doss and myself, which activates his barrier — we can see the shimmer of it around us when I look. This is, I note for the record, comforting.
+
+The personal situation: I read the Designation screens. All of them. Mine last. The subtext my Gift allows me to read from the Ledger note is simple and I will not write it here. I have numbered this journal for precision. I am aware the number of entries remaining is finite.
+
+Entry 4. 10:53.
+
+The first chamber. I have read accounts of the entrance — enough had survived partial penetrations before our expedition that a crude map existed. The accounts said nothing about the garden.
+
+A barley garden. Growing from stone. Amber light pulsing from below the root system. In the center of the garden, incorporated into the floor: a human body. Male. Older. His hands are fused to the stone, his legs subsumed by pale woody growth continuous with the root system. His face is peaceful.
+
+On the wall behind him, two inscriptions.
+
+I will transcribe them here and then explain what happened when I read them, because the explanation is relevant to understanding the cost of my Designation.
+
+First inscription: *Tell Maren I should have brought the water.*
+
+Second inscription: *Someone was here. I think I loved them.*
+
+The handwriting of the first is careful. Measured. The handwriting of a man who was still himself when he wrote it. The handwriting of the second is quick and sharp and the letters have the quality of something that was racing against an erasure — you can see, in the pressure on certain letters, where the pen pressed harder because the hand knew it was running out of time to press at all.
+
+When I read them, I received the grief of each. Not as metaphor. As experience. The cost of Deep Reading is Borrowed Grief, and the grief arrived as stated: fused with the knowledge. I read *Tell Maren I should have brought the water* and I felt what the man in the floor had felt when he wrote it — not the full weight of his life with her, but the specific, particular weight of a small failure at the end, the kind of failure that is actually about thirty years of love and only appears to be about water. I felt the shape of the person named Maren as this man had understood her: the way she said things, the way she stood, the specific combination of tenderness and practicality that had made her the gravity at the center of his life.
+
+And then I read the second inscription, and I felt what the writer of that one had felt: reaching for a name and finding absence. The shape of a person she loved, held inside her chest like a cup still warm from something poured into it an hour ago, the thing itself gone, only the warmth remaining. She had loved this man in the floor. She had come looking for him. The dungeon had taken the name.
+
+I describe this because it is important to the record. I stood with my hand against the wall for some time. Corporal Aldic was sitting with the old dog. There is an old dog here — liver-spotted, very old, incorporated into the garden similarly to the body at its center but still alive, still watching. The Corporal fed it from his rations and said nothing. He is not a man who says things. He sat with the dog for three minutes by my count and then stood and checked the ropes we would need at the gap.
+
+There is a third inscription, which I will record presently. I will note for the record that I read the garden's wall three times and described the barley in this journal twice. I have reviewed my previous entry and confirmed that I described the barley in paragraph two and again in paragraph four. I am including this observation in the document because I think it is relevant. I do not know to what.
+
+Entry 5. 10:59.
+
+Also in the first chamber: a leather tool roll, lying open on a stone outcropping. A glassblower's tools. Pontil, jacks, tweezers. They are old and used. They did not come with any of the bodies.
+
+Surgeon-Corporal Doss recognized them immediately — her mother was a glassblower. She did not say this. She stood looking at the tools for a moment with an expression I recognized from field medicine: the face that means you have identified a cause of death and the identification is not comfortable. Then she moved on.
+
+Captain Vant had moved through the chamber. She had noted the body tactically — potential hazard, assess for movement — and proceeded without stopping. She could not read the inscriptions. She cannot read anything that is not a threat. I watched her pass the wall without slowing and felt something I do not have precise language for. The closest is: I watched someone miss a warning addressed specifically to her, and I could not make her hear it.
+
+Entry 6. 11:22.
+
+Third inscription, which I promised to record presently and am now recording:
+
+*It was beautiful. All of it. Even this.*
+
+This one is different from the others. The handwriting is young — not in age necessarily, but in quality. A person who writes with care and precision, a craftsperson's hand, but who wrote this quickly, at the end. The hand is damaged. You can see it in the pressure variability — the writer's grip was failing.
+
+When I read it, I received transcendence.
+
+I am writing this down because it is the accurate word and accuracy is the job. I received the emotional content of the third inscription, which was transcendence: the specific quality of experience that exceeds its category. Not joy. Not awe. The feeling when something you have been reaching toward resolves into completion, and the completion is larger than the reaching. I felt it for approximately four seconds. Then it passed.
+
+I sat on the floor of the first chamber and wrote the word *transcendence* in my journal and then sat looking at it for some time.
+
+I am writing to you, Lord Aldric. I am still writing to you. I want you to have understood something by the time you finish this document, and I am increasingly uncertain that the thing I want you to have understood is the thing you sent me to document. Bear with me. I will continue to produce the tactical record. I simply want to note that the tactical record is not the whole document.
+
+---
+
+Entry 7. 11:41.
+
+The gap.
+
+Approximately two hundred meters past the garden, the floor opens. A chasm, approximately four meters wide, running perpendicular to the passage. The drop: significant. Not visible to the bottom in the available light. The far side of the gap continues the passage toward deeper levels. There is no apparent bridge.
+
+Captain Vant had already crossed by the time we arrived. I do not know how. She must have found something — handholds in the walls, a narrowing point further along — because Tunnel Doctrine allows her to perceive the gap as a threat, and she is resourceful with threats. She was ahead of us and invisible in the dark beyond.
+
+The Corporal rigged ropes. He is efficient at this. I watched him work with the economical movements of someone for whom rope-work is a reflex — not thought-through, just done. He tested the anchors. He crossed first, which surprised me, and then I understood: he can only maintain his shield while within range of an ally. He crossed to have someone to protect. Scout Hess was already gone; she had passed the gap at a walking pace at a narrowing point fifteen meters to the left, following her path, not slowing.
+
+The Surgeon-Corporal and I crossed. The ropes held.
+
+The Corporal crossed last.
+
+I was watching when the rope failed. It did not break — the anchor pulled free, a section of stone that looked load-bearing but had a fault in it I could not have seen. He fell. He fell past me because I was still near the edge and for a moment we were looking at each other, and in that moment his Gift was active because I was within three meters, and the Aegis Shell absorbed the kinetic impact of the fall — but I was above him, and he landed below, on the wrong side of the gap, alone.
+
+I heard him land. The sound was not the sound of a fatal impact. I called down. He called back — something brief, something that meant *go, continue, I am fine for now.* I recorded this in the log and then recorded that I did not believe him and then recorded that I continued anyway because the mission is not complete and I am a military scribe and I did not know what else to do.
+
+The ropes are still over the gap. I want to note this for the record: the ropes remain. They are anchored on both sides. They are not a bridge — they are rope, they require climbing — but they are there. Someone who comes after us, who is strong enough and persistent enough, might use them to do something more permanent.
+
+Entry 8. 11:58. [The ink here is slightly irregular, as if the hand shook.]
+
+I can hear the scavengers below. I am writing this above the gap, on the far side, and I can hear them. They are small and they make sounds like mandibles clicking on stone. I recognize from the second inscription — she described them, and I received her memory of them when I read her words — that they live in the first chamber, that they feed on the barley, that they normally flee from approach. They are no longer fleeing. They can smell stillness. Stillness means opportunity. A man alone, on the wrong side of a gap, who cannot see them as threats because they are not yet acting as threats, who cannot call them threats out loud because the Corporal would not be able to hear him — the Corporal, whose Gift requires proximity to function, who is now separated from every ally in the party.
+
+I closed the journal for a moment. I have opened it again.
+
+The scavengers are opportunistic and efficient. This is documented.
+
+Entry 9. 12:31.
+
+The Marrow Warrens.
+
+Bone-white walls, bone-white floor, bone-white ceiling. No moisture. No smell. The air that has finished doing whatever air does in warm wet stone and arrived at something final and dry. I have never been underground like this before. Scout Hess had described the Warrens from her previous entry. She was correct in the broad details. She was incorrect about the temperature — she remembered it as cold; it is merely cool — and she was incorrect about the sound. She said it was silent. It is not silent. It bounces. Every sound you make arrives back to you from five directions at once, slightly delayed, slightly wrong.
+
+We lost her somewhere in the first bifurcation. She was moving and could not stop. We were moving and could stop and did, to assess the junction. She took the left passage because the left passage is the correct passage for someone walking toward the exit — it is forty meters closer to the entrance than the right. She did not look back. She could not look back.
+
+Entry 10. 12:44. [Written quickly — the letters are compressed, as if space was running out.]
+
+I understand now why she died. The left passage in the Warrens runs straight through the bone parasite territory. I know this because I can read the Ledger data on the walls — Deep Reading shows me the hazard flags — and because I am standing at the junction now, reading her footprints in the thin film of condensation on the bone floor. Her prints are steady and even, a walking pace, until a section where they become irregular. Then they are not there anymore.
+
+She was walking the perfect path. The perfect path ran through where the bone parasites nest. She could not stop. She did not stop.
+
+I am writing this down. I am writing everything down. That is the job.
+
+Entry 11. 13:19.
+
+We found the warm place in the wall.
+
+The Surgeon-Corporal found it first. She had her hand on the wall for balance in a narrow section and she stopped because the wall was warm — not the dungeon's warmth, which is geological, ambient, consistent, but a human warmth, specific and directed, the warmth of accumulated emotion pressed into bone. She could not explain why she stopped. She said: *this is a place where something happened.* She is not a fanciful person. I believe her.
+
+I pressed my palm to the wall and received the grief.
+
+I will not transcribe it here in full. I have limits, which is a thing I did not know about myself until today, and one of them is that I cannot write out the full contents of a stranger's dissolution and submit it as an appendix to a military report. What I will record: it was a woman. She was looking for someone. She had lost the name. The love was still there — the whole of it, untethered from its referent, floating in the dark of her own mind like a lamp with no oil, producing light from somewhere she could no longer identify. She had pressed her hand to this wall in exactly this way and the wall had held it. It is still holding it. When I pulled my hand back, the warmth remained.
+
+I wrote in my journal: *She was still looking for him. Even after the cost. Even without the name.*
+
+Entry 12. 13:22.
+
+Also near this wall: a blue crystal, forming slowly from the bone surface. Dense. Almost extractable. I am recording its location with precision because I believe someone should know it is here, and I believe what is inside it is worth knowing, and I believe that a person who consumes it will carry something real.
+
+I will not take it. It is not mine.
+
+Entry 13. 13:44.
+
+I can hear the Captain ahead. She is giving orders.
+
+Not to us — she cannot hear us, cannot see us, does not know where we are in the corridor network. She is giving orders to something she can perceive. Her voice is precise and controlled, a commander's voice, the voice of someone who is exactly where her training prepared her to be. I called her name twice. She did not pause. The Warrens bounced my voice back to me from four directions and she heard none of them.
+
+I recorded her voice in the log. I do not know why. She will not read it. She cannot know I was listening.
+
+Entry 14. 13:51.
+
+Junction. Left passage, right passage.
+
+The Surgeon-Corporal took the left — the passage toward the captain, who had gone deep, following threats. She has been healing the minor injuries of the Gullet traverse, absorbing the phantom cost, and she is beginning to feel it in her hands, in the fine motor work. She will find the Captain or she will not. She went left because I told her to and because the mission is not complete.
+
+I took the right because the Ledger data shows something at the end of it that I cannot explain and the not-explaining is no longer something I can tolerate.
+
+Entry 15. 14:09.
+
+What is at the end of the right passage is a room.
+
+Not a corridor dead end, a room. Small. Shaped. The bone walls curve here with a deliberateness that the Warrens' other corridors do not have — those are shaped by some logic I cannot identify, possibly geological, possibly architectural, but this room was shaped by something that knew what shape it needed. It was built for someone with a specific capacity. I have that capacity.
+
+I can read what is written here.
+
+It is not text. It is not Ledger data. It is something else — an arrangement of the space itself, the specific angles of the walls, the particular way the sourceless light falls in this room and no other, the shapes pressed into the bone that look like erosion until you understand them as language. It says:
+
+Three have died here. They were not random. The first man carried growth from death — he seeded himself into the floor. The second woman carried the ability to trace the emotional residue left by others — she tracked the first man with it. The third person carried the ability to see structural fault lines in any material — she found the creature that would kill her and could see exactly how to stop it and died trying.
+
+Three Gifts. Three Costs. Three deaths. Three Harvests.
+
+The room says: this is not a pattern. A pattern repeats. This is something else. Each death was selected. The thing the dungeon needs from each person is specific — not just their death, but their death in this particular way, leaving this particular trace. The dungeon is building something. I can see the shape of the construction without seeing the purpose. It is like reading a map without a legend: I can see the roads, I can see the weight and distribution of them, I can see that they connect. I do not know where they lead.
+
+I am writing this down. I am writing all of it down. Lord Aldric, you wanted a tactical assessment of the dungeon's strategic value. I have this for you: it is not a resource to exploit. It is not a training ground for soldiers. It is a machine with a purpose you do not yet understand, and feeding it soldiers will teach it things you will regret it learning.
+
+That is the tactical assessment.
+
+I am going to write the next entry now. I do not know how many entries I have left.
+
+---
+
+Entry 16. 14:33. [This entry and the following are in a different quality of handwriting — more deliberate, as if the writer was holding himself together through the act of writing clearly.]
+
+The Borrowed Grief has been accumulating since Entry 4. I have read four death inscriptions and one Ledger deep-read from the pattern room and the emotional weight of each has stacked inside me with no release. I want to be precise about what this feels like, because precision is the job.
+
+It feels like being in a room where someone else is crying, and the crying is appropriate and real and warranted, and you cannot leave the room, and the crying continues, and you understand exactly why it continues and cannot offer comfort because the grieving person is not present, only the grief is present, and the grief has nowhere to go. Four griefs. Stacked. I am carrying them all. The farmer's small failure. The wife's dissolved name. The glassblower's transcendence. The room's terrible clarity.
+
+I understand, now, why I described the barley twice. The farmer's grief came with me when I read his inscription. It attached to what he had loved. The barley was what he had loved — the work of it, the specific weight of seed in a hand, the green that comes up through soil in spring. When I looked at the barley I was looking through his eyes, with his feeling, and I could not stop because the Borrowed Grief does not ask permission and does not announce itself. It simply uses you. I described the barley because he needed it described one more time, and I was the instrument available.
+
+I find this clarifying rather than comforting. Precision often is.
+
+My hands are steady. I am writing clearly. I want to note this for the record.
+
+Entry 17. 14:51.
+
+I have heard something in the Garden. Captain Vant's weapons, or the sound a crystal body makes when it is struck by something that cannot hurt it. Then: nothing.
+
+I have added an entry to the tactical record: *Commander Vant: last known contact 14:51. Status: unknown. Assume: mission complete, hers.*
+
+That is the language we use for this.
+
+Entry 18. 15:22.
+
+I can no longer hear Surgeon-Corporal Doss. She was in the left passage. She is not answering when I call. The Warrens bounce sound, but they bounce it — she should be able to hear me if she is functional and within the network of corridors, and she is not answering.
+
+I have added an entry to the tactical record: *Surgeon-Corporal Doss: no contact since 15:18. Status: unknown. Assume: mission complete, hers.*
+
+I am aware this is the wrong language. I am using it anyway. She healed fourteen times today by my count, not including minor ones. She absorbed fourteen phantom injuries so that four other people could continue. She went left because I told her to and because she could not stand to watch and do nothing. Lord Aldric will not recognize this as pertinent to the strategic assessment.
+
+Entry 19. 15:44.
+
+I want to write something for the next person who reads this, not for Lord Aldric. Lord Aldric's document ends at Entry 16. This is a different document now.
+
+If you are reading this: you found my journal in a bone-white corridor in the second depth. You have come further than you think. The things I recorded in the early entries are true. The garden in the first chamber grows from a man who gave everything he had to a place that used it to grow more. His wife came after him. She lost the name but not the feeling. A glassblower came after them and saw something beautiful and died reaching for it.
+
+There is a room at the end of the right passage at the junction in the second depth. I cannot tell you what you will understand when you read it, because what you understand depends on what you can read. I can tell you that the dungeon is not doing this at random. The dungeon knows what it needs. You were brought here because the dungeon needed something from you specifically. If you can figure out what, you may be able to survive it. None of the people before you managed this. I hope you do.
+
+I do not think you will. I am sorry.
+
+Entry 20. 16:03. [The handwriting here is very deliberate. Each letter formed completely before the next.]
+
+The grief is very heavy now. Four deaths' worth, and my own close enough that the distinction is becoming academic. I want to note for the record that I am not afraid. I am very tired. These are different things.
+
+I understood from the subtext of my Designation screen that my death would come from the accumulated weight of understanding too much, too fast, without release. This is a precise description of what is happening. The military term for this is *combat saturation* — the point at which incoming information exceeds processing capacity and the processor shuts down. I have processed four deaths at full emotional resolution. My Resolve is near its limit.
+
+I am going to write one more entry. I want it to be useful. I have been trying to be useful this whole document.
+
+Entry 21. 16:11.
+
+The ropes over the gap: still there.
+
+The blue crystal near the warm wall: still forming. Blue. Dense. If you take it, you will carry something real.
+
+The pattern room, right passage at the junction: read it if you can. What I understood there is in entries thirteen and fourteen. I have written everything down. If you find this journal, you know more than I did at Entry 1, and at Entry 1 I knew more than the three people before me.
+
+The garden in the first chamber is taller than it was when I arrived. The barley grows. The dog watches. There is an old dog. He will not leave. When you come through, he will watch you leave the same way he watched us leave, and it will be correct and not unkind, and you will think about it later.
+
+This is the last entry. I have completed the mission. The mission was to understand. I have understood.
+
+*— Orvyn Thel, Scribe #4*
+*Entry 21 of 21*
+
+[The following is not in the military log style. The handwriting is the same but the formatting is gone — no entry number, no timestamp. The words press into the page harder than the rest of the document.]
+
+*Tell Lord Aldric: do not send more soldiers. The dungeon will learn from them and the learning will be used against the ones who come after. Every strength you send will become a weapon pointed inward. Tell him this is the record's recommendation.*
+
+*Tell him I completed the assignment. I always complete the assignment.*
+
+```stat-screen
+  DEATH REPORTS — PARTY OF 5
+
+  ─────────────────────────────────────────────────────
+
+  DEATH #4: Bren Aldic / The Bulwark
+  Depth reached:   1 (The Gullet)
+  Time survived:   1 hour, 3 minutes
+  Cause of death:  Isolation (rope fall, gap crossing).
+                   Scavenger infestation while immobile.
+  Resolve at death:      31
+  Attunement at death:   12
+  Harvest: Death Inscription: "I held the line."
+           Memory Crystal: Gray (duty).
+           Floor Mutation: The ropes remain.
+  Gift used: continuously (Aegis Shell, protecting party).
+  Bulwark #7 — confirmed: died alone.
+
+  ─────────────────────────────────────────────────────
+
+  DEATH #5: Dara Hess / The Compass
+  Depth reached:   2 (The Marrow Warrens)
+  Time survived:   2 hours, 17 minutes
+  Cause of death:  Forward Only (bone parasite territory
+                   on direct exit path). Could not stop.
+  Resolve at death:      19
+  Attunement at death:   7
+  Harvest: Death Inscription: "This is the right way."
+           Memory Crystal: Silver (direction, certainty).
+           Floor Mutation: The grief echo in the Warrens
+           now holds a second trace — urgent, directional,
+           moving through without stopping. Future entrants
+           who feel it will sense someone who needed to leave.
+  Gift used: continuously (True Path, active throughout).
+  Compass #15 — confirmed: walked the perfect path.
+
+  ─────────────────────────────────────────────────────
+
+  DEATH #6: Mira Doss / The Mender
+  Depth reached:   2 (The Marrow Warrens)
+  Time survived:   4 hours, 52 minutes
+  Cause of death:  Sympathetic Wounds (cumulative phantom
+                   pain from 14 healings. Motor impairment.
+                   Bone parasite infestation while unable
+                   to defend).
+  Resolve at death:      28
+  Attunement at death:   11
+  Harvest: Death Inscription: "Someone needed me here."
+           Memory Crystal: White (care, giving without
+           expectation of receipt).
+           Floor Mutation: None.
+  Gift used: 14 times (Living Suture, others only).
+  Mender #9 — confirmed: healed until she could not.
+
+  ─────────────────────────────────────────────────────
+
+  DEATH #7: Sera Vant / The Warden
+  Depth reached:   3 (The Still Garden)
+  Time survived:   5 hours, 11 minutes
+  Cause of death:  Crystal apex predator, The Still
+                   Garden (engaged in combat; sustained
+                   fatal wound to unprotected flank;
+                   could not perceive dissolution pool
+                   on retreat line).
+  Resolve at death:      42
+  Attunement at death:   16
+  Harvest: Death Inscription: "I saw fourteen threats.
+           I missed one."
+           Memory Crystal: Red (valor, competence).
+           Floor Mutation: None.
+  Gift used: 6 times (Arsenal Manifestation, combat).
+  Warden #19 — confirmed: died fighting, alone,
+               unable to see allies or exits.
+
+  Crystal apex predator, The Still Garden: 2/3.
+  [ Name threshold: 3 kills. Not yet reached. ]
+
+  ─────────────────────────────────────────────────────
+
+  DEATH #8: Orvyn Thel / The Scribe
+  Depth reached:   2 (The Marrow Warrens)
+  Time survived:   6 hours, 1 minute
+  Cause of death:  Borrowed Grief (accumulated emotional
+                   weight of 4 death inscriptions + 1
+                   Ledger deep-read exceeded Resolve cap.
+                   Cardiac cessation).
+  Resolve at death:      0 (depleted)
+  Attunement at death:   28
+  Harvest: Death Inscription: (see journal, Entry 18:
+           "If you are reading this..." The journal
+           IS the inscription.)
+           Memory Crystal: Gray (institutional memory,
+           the specific grief of understanding everything
+           and being unable to change it).
+           Floor Mutation: The pattern room at the right
+           passage junction now shows his handwriting on
+           the walls — the summary of what he understood.
+           Partial. Legible. A clue.
+  Gift used: 5 times (Deep Reading: 4 inscriptions
+             + 1 pattern room).
+  Scribe #4 — confirmed: understood everything.
+
+  ─────────────────────────────────────────────────────
+
+  Party of 5. Survival rate: 0%.
+  Average party survival rate: 0%.
+  Note: sample size: 1. Updating group-entry model.
+  Note: Designation assignments in groups correlate
+        negatively with inter-party functionality.
+        Individual priorities diverge under Designation
+        stress. Coordinated entry does not produce
+        coordinated survival.
+  Deaths #4-8.
+  992 remain.
+
+  The Maw has read this note.
+```
+
+The fifth tumbler turned. And the sixth, and the seventh, and the eighth.
+
+The dungeon breathed.
+
+In the Marrow Warrens, the Scribe's journal lay beside his body, cover open, Entry 18 facing up. The bone parasites moved around it without disturbing it — they had no use for paper. The blue crystal continued its slow formation from the wall nearby, dense and almost ready, accumulating the emotional weight Maren had pressed into the bone and that the Scribe had added to with his own, and that the Scout had added to as she passed through without stopping, three layers of grief and urgency and love-without-a-name held in one blue deposit.
+
+In the Still Garden, four weapons lay where the Commander had dropped them when she fell — a sword, a spear, a short knife, a weighted chain, all manifested and real and permanent. The crystal predator moved through the Garden's crystal trees, patient and unchanged, at 2/3 of its naming threshold. It had learned something from the Commander's fight: her weapons were perfect but her flanks were open. It had learned something from Lira: some prey sees the fault line and reaches for it anyway. It was learning. The dungeon was learning from what it learned.
+
+In the Gullet, the ropes hung over the gap. On both sides. The anchors on the far side were solid — the Corporal had set them before he crossed. The rope was military-grade, rated for twice his weight. It was not a bridge. It was the idea of a bridge, waiting for someone with the right gift and the right kind of patience to make it into one.
+
+Tam watched the dark above the gap. The barley had grown past his shoulder now. He was waiting for a person who was not coming back. He had been waiting for three people who were not coming back. He had been waiting long enough that the waiting had become the whole of what he was, and the whole of what he was was perfectly sufficient.
+
+Somewhere to the east, in a hall that smelled of woodsmoke and old stone, a lord waited for a report that would not arrive, and the waiting was already a decision he had not yet made, and the decision was already the thing that would send the next wave.
+
+992 remain.

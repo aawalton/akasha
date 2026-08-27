@@ -1,0 +1,148 @@
+---
+id: 7cb0be00-ca91-5f50-b017-98b66a877d13
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch31: Home Again"
+slug: 0038-b6-ch31-home-again
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 38
+ownLength: 1728
+unit: words
+ownProgress: 209
+publishedAt: 2026-03-03
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3113038/b6-ch31-home-again"
+royalRoadId: "3113038"
+---
+
+After two long months, with the addition of a one time refresh with a Legendary shard, the hourglass in the sky had finally run low.
+
+Conveniently, it was happening late afternoon, with the last bits of the false sun about to sink below the horizon. Meanwhile, to the east, a sliver of a nearly empty hourglass moon was rising.
+
+They each had a couple of grains of sand left—enough for a few hours.
+
+He glanced at Brixaby, who sat nearby in a regal pose with his long tail twined about his legs. However, the effect was ruined by the mud that went up to his elbows. Brixaby had made a last-minute discovery in the thin stream that ran through the land, and that had kept him busy.
+
+A small leather pouch sat by his side—well, small for a dragon but half the size of Arthur's head.
+
+Arthur nodded to the pouch. “You got all of them enchanted? That fast?”
+
+“I am extraordinarily talented,” his dragon rumbled. “It is surprising it took you this long to figure that out.”
+
+Arthur gave him a look.
+
+“I instituted a process to enchant multiple items at the same time,” Brixaby admitted. “I only had to do three batches.”
+
+That was still impressive, considering.
+
+“We're ready then?”
+
+Brixaby took a long look around the land that had given both of them so much and provided a safe place to finally grind much-needed skills. There was an air of reluctance about him, as if a large part of him hated to leave.
+
+Arthur knew how he felt.
+
+The last few weeks without having to run here or there, fight battles, learn to lead, or even think about scourglings other than as an academic issue had been... wonderful. This wasn't the real world, but he knew he would miss it.
+
+At least it had been a productive time. Behind them stood stacks and stacks of ready-made javelins. Enough, Arthur hoped, to last them a few eruptions. Meanwhile, Brixaby's Personal Space was filled with rocks that he had taken to knap into sharpness. If any of them landed point down, they would give somebody a hard day.
+
+Brixaby's ability to enchant, including his recent interest in gemstones, was already paying dividends. A bracelet Arthur wore around his bicep was crusted with tiny stones. Only another enchanter would understand that three out of the dozen stones were host to powerful mental blocking runes.
+
+The rest were for looks. Arthur had tried to explain to Brixaby that it was a little too... pretty for his taste. But his dragon didn't understand. So, Arthur had it tied to his bicep. Much more dignified.
+
+Anyway, it seemed like Brixaby was ready. It was time to go home.
+
+Hale, the man who owned the card that created this dimensional space, explained this very last step to him. To put it mildly, it was… odd.
+
+Arthur focused on the sun-side hourglass in the sky. Then he reached out to grab it.
+
+There was no possible way he should have been able to do that. From all appearances, it looked as far away as the sun. Yet, within the strange rules of dreams, it worked. Arthur’s fingers closed around the hourglass, and he found it cool to the touch.
+
+He brought it close and felt the world around him sort of thin and go brittle at the same time. The hourglass either needed another shard to keep it going, or they needed to leave.
+
+“This was a good break,” Arthur told Brixaby.
+
+He nodded. “Indeed it was.”
+
+Arthur brought his hand down and smashed the hourglass on the ground.
+
+It didn’t shatter the world—the magic that had created this place would keep it going for the promised few hours. But destroying the vessel ensured that it could not be refreshed.
+
+A portal opened before them, and as it did, their time resynced with reality. The other side was dark, save for a lone card anchor light that glowed softly in the corner. Through the dimness, Arthur saw Cressida sleeping in a comfy chair. She’d been waiting for them but had fallen asleep. Her mouth hung open as she snored.
+
+She still looked pretty cute.
+
+Arthur opened his mouth to call her name, but Brixaby got there first.
+
+“Why are you sleeping on the job?” he demanded.
+
+Cressida startled awake with a snort, blinked, then saw them. Her eyes grew wide.
+
+“Arthur! You’re back! What… what’s all that behind you?”
+
+He gestured proudly at the stacks and stacks of war javelins. “It’s been an eventful couple of months.” He looked ruefully at the shattered remains of the hourglass by his feet. “And we have about an hour and a half to get as much of this back through to the hive as possible.”
+
+****
+
+Of course, Cressida did not help them bring the entire mess in. Arthur was the leader now, and they had minions for manual labor.
+
+Instead, she went out to pass the word along to the hive. Shortly after, several of the wild Purple dragons who had not followed Horatio’s group were buzzing in and out of the room, carrying armfuls of javelins and supplies.
+
+Brixaby supervised them on the dimensional side and directed them to store it all in one of the hive’s inner levels.
+
+Standing by, Arthur watched them work with a feeling of satisfaction. It was all coming together.
+
+Cressida slipped up beside him, and he felt her gaze on the side of his face.
+
+“What? Do I have something on my cheek?” He rubbed at it, but nothing came off. Then again, it had been a few days since he last bathed.
+
+“No, it’s just… you look refreshed.” She reached up to brush his cheek with the back of her hand. “You have a tan now, and those bags under your eyes are gone.”
+
+“I didn’t have—Okay, maybe I did,” he admitted with a smile he knew came off as goofy. She was so close, and he suddenly felt awkward and thrilled, tripping over his own words. “I’m surprised they went away, though. Brixaby and I were working hard right up until the end.”
+
+“I had a feeling you would,” she said with a soft smile of her own.
+
+Arthur blurted, “I missed you.”
+
+“Really?” she quirked an eyebrow, though her lips twitched.
+
+“Yes,” he said. “Of course.”
+
+“Well, it was only ten hours of waiting for me, but… I missed you too.”
+
+They looked at each other for a moment, and Arthur wondered if he should step closer, or take her hand and pull her into the next room so they could really talk, or lean down—
+
+A Purple dragon suddenly thrust his horse-sized head between them. “Leader! Leader! Studley has completed all the work. What else does Leader have for Studley to do?”
+
+Arthur startled and then looked over his shoulder. All the javelins were indeed gone, and for once, he didn’t think that his sense of time was messing with him.
+
+“Where did it all go, Studley? Wait, your name is actually Studley?”
+
+He really disliked the nursery attendants who gave the Purples these bad names. To boot, Studley wasn’t the picture of draconic beauty with his sharp shoulders, extremely long limbs, and small yet barrel-shaped body.
+
+Brixaby answered for him, busily squeezing himself out of the portal back into the real world. He looked a little disgruntled he had to tuck his wings in so tightly. “It seems Studley has a natural storage card. Come,” he told the Purple, “I will show you where to place it all.”
+
+With that, he dropped the overfilled leather bag in front of Arthur and gave him a significant look.
+
+“Yes, you’ve done very well. Thank you.” With a few flicks of his fingers, he undid the knot on the bag and pulled out a deep red garnet as big as his the nail on pinky finger.
+
+Then, from his Personal Space, Arthur withdrew one of the simple harnesses he and Brixaby had worked out together for the Purples. It had a small fabric bag attached. “The blood gem is your payment, and the harness gives you a way to carry it and any others you may earn.” He spoke using simple terms for Studley. “Tomorrow, when you are done with your work, you may present the blood gem to the quartermaster for extra food or items. He will tell you what it is worth.”
+
+“Yes! Yes! Thank you! Studley will!” The little dragon deftly crawled into the harness, not seeming to notice that it had extra anchor points if he wanted to hold other objects, and followed Brixaby to finish the job.
+
+Cressida looked at Arthur. “What was that about?”
+
+“Putting some plans in action we worked out while in there. I had… a lot of time to think.” He smiled. “We’re spinning up a new hive economy—Brixaby has enchanted those garnets to make sure no one can create forgeries, and that’s just the start. Oh! And he made this.”
+
+He reached into his pocket and pulled out a gem bracelet. They weren’t precious stones, yet the way they were cut and the enchantments inside made them seem to glitter in the low light. He clipped it over her wrist, finding her hand warm to the touch.
+
+“Now you’re safe from outside mental attack,” he said. “Safer, I mean. Those other shields will still work, and of course if I’m afraid I can shield you with my area of effect, and… uh…” He stuttered to a halt.
+
+She touched the stones, her expression full of wonder. Then her face fell, and Arthur felt a surge of panic. She didn’t like it? Maybe he should have gone for the ring instead. He really screwed up—
+
+“That reminds me,” Cressida let out an exasperated sigh. “The Wing Captains came by earlier. I think they wanted to pay you the Blood Price. I made excuses for you, but they’re still acting like it’s in effect.”
+
+Oh. Arthur’s expression hardened. “This needs to stop. Send out the word that I want a meeting.”
+
+“What, you mean now? Arthur, it’s two hours before sunrise.”
+
+His sense of the day was wholly screwed up thanks to the day/night cycle in the dimensional space. He didn’t care.
+
+“They’re not getting the message, so I’m going to make sure that this time it sticks.”

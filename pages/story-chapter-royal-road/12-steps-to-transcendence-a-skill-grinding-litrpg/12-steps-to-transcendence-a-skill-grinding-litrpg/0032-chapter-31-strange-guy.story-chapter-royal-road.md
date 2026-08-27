@@ -1,0 +1,299 @@
+---
+id: f8b1751f-f1f0-5661-87d9-7f399d32f502
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31: Strange Guy"
+slug: 0032-chapter-31-strange-guy
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 32
+ownLength: 2151
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3801684/chapter-31-strange-guy"
+royalRoadId: "3801684"
+---
+
+Definitely not just another spoiled brat.
+
+Crossing his arms casually over his chest, the green eyed stranger flashed a quick, highly amused smirk. "That was an interesting spar."
+
+Blinking slowly, Ben just stared at the guy with entirely deadpan eyes.
+
+He kept his face completely blank, firmly refusing to show exactly how done he was with today's endless social interactions.
+
+Because these extroverts truly were the end of him, the greatest of villains.
+
+"Thank you." Tilting his head slightly to the side, he narrowed his eyes at the stranger. "You are?"
+
+Dropping his arms, the stranger offered an easy, highly disarming smile with his hands in surrender.
+
+"Oh, I just arrived at the camp."
+
+Gesturing vaguely toward the center of the encampment, he casually shoved his hands into his pockets.
+
+"I wanted to participate in the upcoming expedition, you see."
+
+Blinking slowly, Ben just waited for the actual point.
+
+"With the other Noble Houses." The guy continued, entirely unbothered by Ben's blank silence. "This expedition is actually a pretty big deal around here. We tend to have different expeditions all year round. Mostly with different Noble Houses from out across the entire region."
+
+Smiling slightly, the stranger locked his green eyes directly back onto Ben's. "At least, the ones that desperately want to get their heirs into the Haven Academy. Anyway, I'm part of House Sterling."
+
+Offering a polite nod, the guy's smile faded into a slightly more serious, diplomatic expression.
+
+"And I really do apologize for Brian's behavior earlier."
+
+Sighing softly, he scratched his chin.
+
+"He has always been a rather unruly child, you see."
+
+Stepping forward a bit, the guy looked at him, and Ben suddenly felt very uneasy, as if he were being sized up by some sort of dangerous animal.
+
+"I must make sure that his embarrassing behavior does not reflect poorly on the rest of us."
+
+The stranger casually slung an arm around Ben's shoulders.
+
+Stiffening instantly, Ben barely kept himself from reacting violently to the sudden contact.
+
+Did he just teleport?!
+
+Ben was extremely startled. This guy had been standing in front of him just a moment prior.
+
+Leaning in close, the guy stared deeply into Ben's face with a deeply unnerving intensity in his eyes.
+
+"Honestly, I don't like your eyes."
+
+Smiling pleasantly, he squeezed Ben's shoulder, dimples forming on his cheeks.
+
+"Just a helpful tip. You really shouldn't be using a skill like that near people like me. We really do not like it."
+
+Shifting his weight slightly, Ben felt every single alarm bell in his head screaming at once. [Hunter] activated, and it basically screamed at him to run.
+
+Because absolutely nothing about this guy's posture matched his polite words.
+
+Shoving the stranger's arm completely off his shoulder, Ben took a deliberate half step back. "How exactly are you apologizing right now?"
+
+Keeping his hands completely free and ready, Ben met those piercing green eyes. "How can you come here to make amends, when you seem ready to attack me any second?"
+
+Tilting his head, the stranger's dimples deepened as his smile widened.
+
+Clapping his hands together once, he stepped aside and cleared the dirt path completely.
+
+"Yes, well, I simply wanted to say hello and formally apologize for Brian's little tantrum."
+
+Gesturing openly down the pathway, he smiled that easy smile again.
+
+"Don't worry about it anymore. You can leave now. Please, don't stop because of me."
+
+Giving Ben a polite nod, he turned and casually walked away.
+
+Staring at the empty space for a long second, Ben slowly exhaled a breath he didn't know he was holding.
+
+Shaking his head, he let out a deeply exhausted sigh.
+
+That was a seriously weird interaction.
+
+Glancing over his shoulder, he saw absolutely no sign of the green eyed guy anywhere.
+
+Furrowing his brows, Ben suddenly realized something incredibly stupid.
+
+The bastard didn't even tell me his actual name.
+
+Still, he kept his guard entirely up until he was safely inside his tent.
+
+###
+
+??? POV
+
+What an absolutely fascinating little guy.
+
+Honestly, he really hadn't expected much at first.
+
+Hearing that some random commoner saved Lady Alice was one thing. He had just assumed it was pure, dumb luck or a massive exaggeration by the useless guards.
+
+But seeing the kid completely humble that Sterling brat without an ounce of hesitation, he felt his blood start to run a little hotter.
+
+One second he wanted to shake the kid's hand, and the next second he wanted to snap his neck just to see life fade from those annoying eyes that saw everything around him as nothing more than a stepping stone.
+
+I really, really want to fight him.
+
+Rubbing his chest to soothe the sudden, agonizing itch in his heart, he controlled himself.
+
+That blood trait of his could be a bit too much sometimes.
+
+Ben was too weak. He needed to be pushed a little more.
+
+He needed to test that ridiculous apathy and see if the kid stayed so blank when faced with actual, crushing pressure.
+
+So he definitely needed to let the others know about this development. They wouldn't mind his little fun, would they?
+
+Because this entire expedition just got a hell of a lot more entertaining.
+
+Maybe they could even drag the kid along to that little rift they had just stumbled across in the woods for the expedition target this time around.
+
+But there was an annoying problem with that plan.
+
+He remembered the mage overseeing this year's expedition.
+
+She was incredibly strong, sure, but she was also a massive killjoy who would instantly veto dragging a squishy commoner into a rift for his own 'safety'.
+
+Even if the rift was for the weaklings of their Houses to begin with.
+
+What if he just forced her to see his worth?
+
+He just needed to drag her out of her stuffy tent and make her watch the kid's inevitable, formal spar against Brian.
+
+Once she saw that brutal, unapologetic efficiency in person, she wouldn't be able to say no.
+
+He really did like the kid.
+
+It would be a damn tragedy to leave such a talent behind.
+
+###
+
+Ben POV
+
+[Mana Missile Lvl 1 > Lvl 3]
+
+Staring at the completely vaporized tree trunk, Ben grinned.
+
+It worked.
+
+Taking Alice's annoying but surprisingly helpful advice, he had built a stable mental container for his magic. But instead of a stupid little cup, he had just imagined a gun barrel.
+
+Visualizing a sleek, reinforced steel tube running straight down the bones of his right arm, he had shoved his mana directly through it. And detonated it.
+
+And the results were honestly kind of terrifying.
+
+For one, the compressed [Mana Missile] hadn't shredded his arm into useless meat this time.
+
+It had just violently exploded out of his palm like a literal cannonball.
+
+Flexing his fingers, he felt a completely manageable ache instead of the usual agonizing, bone-shattering recoil.
+
+He was incredibly happy about that.
+
+But he also knew he could only use it this way a few times before it would get back to how much he messed up his arm without the construct.
+
+He dismissed his system notification with a highly satisfied smirk.
+
+He had squeezed a ridiculous amount of levels out of the skill just by stabilizing the construct.
+
+Rolling his shoulder, he decided he was finally done playing it safe in this boring camp.
+
+He desperately needed that [Regeneration] skill to fix his lingering poison problem. And sneaking out with Alice was currently his only viable option.
+
+Time to go find her.
+
+Turning around, he stopped dead in his tracks.
+
+He didn't even have to go looking.
+
+She'd already found him, and had been there for who knows how long. And her eyes were locked onto the tree.
+
+Tilting her chin up, she offered a highly sophisticated, entirely condescending sniff.
+
+"I suppose that is a passable application of constructs for you. For a commoner bludgeoning his way through basic magic, I suppose it is adequately destructive."
+
+Blinking slowly, Ben just stared at her.
+
+Of course she had to make a backhanded compliment out of it. But honestly, he didn't care about the noble's attitude right now.
+
+He just wanted out of this stupid camp.
+
+Dropping her arms, Alice stepped much closer and gave him a bright, highly conspiratorial smile.
+
+"Are you ready?"
+
+"Why are you so excited?"
+
+Tilting his head to the side, he narrowed his eyes at the suddenly beaming noble girl. She had practically lit up the moment he agreed to sneak out.
+
+"Of course I am. Because I'm going with you."
+
+"No way, you're not going with me."
+
+Crossing his arms, Ben gave her a completely flat look. Her smile faltered slightly.
+
+"Why?"
+
+"Because you're Tier 2. I'm Tier 1. You're going to take all the essence."
+
+Blinking slowly, Alice stared at him in utter disbelief.
+
+"You would take essence over me? I'm Tier 2, I could help you!"
+
+"Essence is essence, Alice. And I would rather use danger than have you around as a safety net."
+
+Staring at him for another long second, she suddenly let out a gloomy sigh.
+
+"Come on. I'll show you the way. Hopefully, your hunt goes well this time around."
+
+Ben sincerely hoped so, too.
+
+###
+
+The hunt did not go well.
+
+Actually, the situation was somehow even worse than last time.
+
+Crouching low in the dense brush, Ben scowled at the forest. He had been wandering around trying to find more lone stragglers to pick off.
+
+But the damn goblins were exclusively sticking together today. They were moving in tight, highly coordinated clusters, and he simply hadn't found a single opening to grab any easy kills.
+
+Staring through the leaves, his eyes locked onto a fresh group of five skinning a deer. And these guys were being led by a massive axe wielding giant of a goblin.
+
+He logically knew he should just avoid them completely.
+
+But he absolutely needed that [Regeneration] skill.
+
+He was slightly stronger now, anyway. He had his new [Mana Missile], and his newly fused rare skill, [Warforged]. Plus, he was sitting comfortably in the middle of Tier 1 now.
+
+He absolutely should be able to do this.
+
+Besides, there was no reward without danger.
+
+Standing entirely sideways, he aligned his arm perfectly straight from his shoulder directly to his target. He aimed right at the goblin lingering in the rear of the pack. Pushing his mana through the mental gun barrel, he fired his enhanced [Mana Missile] a few times.
+
+The compressed blasts instantly tore through the rear goblin on impact, its body was full of holes as it fell to the ground, smoking. Quickly shifting his aim, he unleashed a second volley at one of the lackeys.
+
+But it completely failed to finish the job.
+
+Surviving the blast with a horrific chest wound, the goblin immediately started regenerating its torn flesh.
+
+Ben felt a sudden surge of pure excitement, and instantly blasted forward with [Fire Burst].
+
+The remaining goblins immediately charged right at him, and Ben fired off another [Fire Burst] to instantly close the gap.
+
+Ducking smoothly under the axe swing meeting his charge, he narrowly sidestepped a crushing club strike from the lackey. Pivoting sharply, he locked directly onto the wounded, regenerating goblin.
+
+He drove his foot straight into the monster's knee.
+
+Detonating [Fire Burst] on impact, he completely burst the goblin's knee into bloody shrapnel. The creature shrieked and crumpled uselessly to the ground.
+
+Bracing himself, Ben heavily relied on [Warforged] dodging the follow up axe strike from the leader.
+
+But the third goblin easily capitalized on the distraction.
+
+Kicking him directly in the ribs, the monster hit him hard enough to audibly snap bone.
+
+Gritting his teeth against the blinding pain as [Focus] clamped down on everything, Ben scrambled right back to his feet. He rapidly fired off a frantic barrage of [Mana Missiles].
+
+The rapid-fire blasts successfully stopped their charge, but they didn't do any meaningful damage at all.
+
+Worse, the giant leader's natural regeneration healed away the injuries almost instantly.
+
+Well, that sucks.
+
+Thankfully, the leader's regeneration only worked on itself, completely leaving the crippled lackey to bleed out on the grass. But Ben was thorough, blasting a [Mana Missile] into the bleeding goblin's head as he dodged around like a ping pong ball using [Fire Burst].
+
+So now only three remained.
+
+He shot another [Mana Missile]. Suddenly, Ben felt a sickening tear deep inside his right arm. Hissing sharply through his teeth, he let the limb drop uselessly to his side. He had used way too many [Mana Missiles] in a row.
+
+Even with [Warforged] actively reinforcing his body, it simply wasn't enough to handle the sheer recoil of the magic.
+
+Ben stared down the three furious, advancing goblins.
+
+One of them was the giant leader.
+
+And [Hunter] had already pinged the massive bastard as Worthy long before the fight even began.

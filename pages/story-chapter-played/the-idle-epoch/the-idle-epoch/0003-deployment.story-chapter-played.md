@@ -1,0 +1,512 @@
+---
+id: 6100dc43-1a22-5763-86e3-5e09809a60f6
+page-type-slug: story-chapter-played
+title: "Deployment"
+slug: 0003-deployment
+partOf: the-idle-epoch
+position: 3
+ownLength: 5476
+unit: words
+---
+
+The Mk.V Sentinel opened its eyes -- two pinpricks of crystallized Flux set into a face of welded auto parts -- and Callum felt the fourth construct slot in his interface light up like a new nerve ending.
+
+He held his breath. The construct stood a meter tall on legs made from suspension struts, its torso an engine block casing stuffed with Flux-infused circuitry. The arms were mismatched -- one fashioned from a drive shaft, the other from stacked brake calipers -- and each terminated in a crude hand capable of gripping the short iron bar it would use as a weapon. It was, by any objective standard, ugly.
+
+It was also the most sophisticated thing he had ever built.
+
+Callum pulled up the diagnostic overlay and let the data wash across his vision.
+
+```stat-screen
+┌─────────────────────────────────────┐
+│  CONSTRUCT ACTIVATED                 │
+│  Mk.V Sentinel                      │
+│  Type: Combat | Slot: 4 of 4        │
+│  Target Zone: Overgrowth (Tier 2)   │
+│  Effective Range: Level 10-15       │
+├─────────────────────────────────────┤
+│  Integrity: 100%                     │
+│  Flux Drain: 55 Flux/hr             │
+│  Script Engine: Active               │
+│  Instructions Loaded: 5 of 29       │
+│  Conditional Branches: 3            │
+├─────────────────────────────────────┤
+│  Combat Script:                      │
+│  IF target HP > 50%: basic loop     │
+│  IF target HP < 50%: heavy strike   │
+│  IF own integrity < 30%: retreat    │
+│    to repair radius                  │
+│  ELSE: patrol(route_overgrowth_01) │
+│  RELAY: Scrap Collector (loot)      │
+└─────────────────────────────────────┘
+```
+
+Five instructions. Three conditional branches. A patrol route, a loot relay, and a retreat threshold. He had spent two days writing those five lines, testing them against simulated mob patterns extrapolated from the Mk.IV Grinder's kill data. The Script Engine only gave him five lines at Level 1, and every character of every line had to count.
+
+*Not elegant. But functional.*
+
+He said it aloud, testing the words in the warehouse's quiet. Pip flickered on his shoulder -- a faint pulse of cursor-light that might have been acknowledgment or might have been a rendering glitch.
+
+"Not elegant," Callum repeated. "But functional."
+
+The Sentinel's eyes tracked to his face, registered him as a non-hostile, and then panned away, scanning the perimeter of the warehouse. The construct's head movements were jerky, mechanical -- nothing like the fluid combat awareness of a human fighter. But it did not need to be human. It needed to be consistent. It needed to be tireless. It needed to swing an iron bar at vine constrictors for twenty-four hours a day without getting bored, without getting scared, without wondering if there was something better it could be doing with its time.
+
+Callum understood the appeal.
+
+He slotted the last Flux Capacitor into the Sentinel's chest cavity, felt the construct's energy signature stabilize, and said, "Go."
+
+The Mk.V Sentinel walked out of the warehouse on stiff suspension-strut legs, heading south toward the Overgrowth boundary. It did not look back. It was not designed to.
+
+---
+
+The Overgrowth began where the suburban sprawl of Detroit's southern edge surrendered to something older and stranger. The tree line was wrong -- too tall, too dense, the canopy layered three deep with growth that had no business existing in Michigan in winter. Bioluminescent moss clung to every surface, painting the understory in shifting blues and greens. The air was warm and thick with spores, like breathing through wet velvet.
+
+Callum stood at the boundary, his field notebook open, and watched the Mk.V through Loop Sight.
+
+The skill overlaid his normal vision with a ghostly schematic: the Sentinel's patrol route rendered as a pale blue line threading between spawn points, its current position a pulsing dot, its script state visible as a column of floating text beside it. He could see the construct's decision tree firing in real time -- each IF/THEN branch lighting up gold when triggered, dimming when passed over.
+
+The first encounter came four minutes into the patrol.
+
+Two vine constrictors, Level 10 and 11, coiled around the base of an oak tree that had tripled in girth since the Emergence. The Mk.V's Auto-Target flagged them. The decision tree evaluated: *target HP > 50%. Basic loop.*
+
+The Sentinel advanced with mechanical precision, iron bar raised. The first constrictor uncoiled and lunged. The Mk.V sidestepped -- barely, clumsily, the dodge more a product of programmed offset timing than any real agility -- and brought the bar down on the monster's midsection. The hit connected. The constrictor's HP bar dropped by a thin sliver.
+
+*Damage output: approximately 15 per strike. Kill time at this rate: forty-two seconds per mob.*
+
+It was slow. Agonizingly slow by any active player's standard. Callum watched a vine constrictor wrap itself around the Sentinel's left arm and squeeze, cracking the brake-caliper plating, and felt a distant twinge of anxiety -- the construct's integrity dropped from 100% to 94%. But the retreat threshold was 30%. The Sentinel ignored the damage and kept swinging. The constrictor died eleven seconds later, dissolving into a scatter of Essence motes that the Scrap Collector relay siphoned away.
+
+The second constrictor took thirty-eight seconds. The Sentinel's integrity sat at 87%. Not elegant.
+
+Functional.
+
+Callum wrote in his notebook: *Kill 1-2. VCs L10-11. Time: 42s, 38s. Integrity loss: 13%. Essence gain: ~24 total. Scrap relay nominal. Script branches: 2/3 triggered (basic loop, retreat not needed). Notes: heavy strike branch untested. Need L12+ mob to trigger.*
+
+He watched the next cycle. And the next. And the next.
+
+The Mk.V Sentinel killed vine constrictors with the tireless consistency of a machine that did not know it was boring. Each kill deposited 10-14 Essence into Callum's accumulator via relay, depending on the mob's level. At two to three kills per eight-minute cycle, running continuously, the construct would generate roughly 850 Essence per day. He ran the math three times, adjusting for downtime during integrity-recovery periods, and arrived at 847 Essence per day as his conservative estimate.
+
+He added that to his existing daily Essence income from the Mk.IV Grinder, the Scrap Collector's processing bonus, and the Essence Ley's passive contribution.
+
+The total crossed a line he had been watching for weeks.
+
+```stat-screen
+┌─────────────────────────────────────┐
+│  DAILY ESSENCE PROJECTION           │
+│  (Updated)                           │
+├─────────────────────────────────────┤
+│  Mk.IV Grinder:        ~620/day    │
+│  Mk.V Sentinel:        ~847/day    │
+│  Scrap Collector:       ~180/day    │
+│  Refinery (processing): ~115/day    │
+│  Essence Ley (passive):  ~640/day   │
+│                                      │
+│  TOTAL:               ~2,402/day    │
+│  Previous total:      ~1,555/day    │
+│  Change:              +54.5%        │
+├─────────────────────────────────────┤
+│  Time to Level 13:     ~1.2 days   │
+│  Time to Level 14:     ~3.7 days   │
+│  Time to Level 15:     ~7.1 days   │
+└─────────────────────────────────────┘
+```
+
+Callum stared at the projection for a long time. His heart did something quiet and warm in his chest -- the feeling he got when a bottleneck cleared and the numbers started to move.
+
+*Faster. Everything is faster now.*
+
+He closed the projection and leaned against a half-collapsed concrete wall at the Overgrowth boundary, watching the Sentinel's blue dot trace its patrol route. In the distance, through the bioluminescent haze, he could see the faint flash of the construct's iron bar catching light as it struck something. Again. And again. And again.
+
+Pip pulsed on his shoulder.
+
+"Yeah," Callum said. "I know."
+
+---
+
+The level-up notification found him fourteen hours later, sitting on his warehouse cot with a protein bar in one hand and his field notebook in the other. The Sentinel had been running continuously since deployment, and the Mk.IV Grinder had stacked a Compound Growth bonus of +14% in the interim. The combined throughput pushed him over the threshold at 3:17 AM.
+
+The notification was not gentle.
+
+```stat-screen
+══════════════════════════════════════
+  LEVEL UP! 12 → 13
+  +5 Stat Points Available
+  +3 Skill Points Available
+══════════════════════════════════════
+```
+
+Warmth flooded through him -- the Substrate's acknowledgment, that frictionless rush of potential reorganizing itself inside his body. His vision sharpened. His thoughts cleared. The persistent low-grade headache he had been ignoring for three days vanished like someone had flipped a switch.
+
+He sat on the cot and breathed through it, waiting for the rush to settle into something he could think around. Level 13. It had taken him nine days to get from 11 to 12, and the Mk.V had cut the gap between 12 and 13 to less than a day and a half. The curve was steepening.
+
+He allocated stat points with the deliberation of someone placing components on a circuit board.
+
+*+2 INT. Takes me to 51. Raises Script Complexity to 30.5 instructions -- that half-instruction won't matter until Script Engine Level 2, but it is ready for it.*
+
+*+2 WIS. Takes me to 54. Idle Yield Multiplier goes from 2.04x to 2.08x. Four hundredths of a multiplier. Trivial in isolation. Multiplicative with everything else.*
+
+*+1 WIL. Takes me to 29. Session Duration goes from 9.6 to 9.8 hours. Marginal. But the Compound Growth stacking from longer sessions scales non-linearly, so the effective gain is higher than 0.2 hours.*
+
+```stat-screen
+╔══════════════════════════════════════╗
+║  CALLUM VOSS                         ║
+║  Class: Loopweaver    | Level: 13    ║
+║  Prestige: 0 (Awakened)              ║
+║  Automation Tier: 3                  ║
+╠══════════════════════════════════════╣
+║  STR:  14          AGI:  15          ║
+║  VIT:  18          INT:  51  (+2)    ║
+║  WIS:  54  (+2)    PER:  16          ║
+║  WIL:  29  (+1)    LCK:  13         ║
+╠══════════════════════════════════════╣
+║  HP:  331/331      MP:  708/708      ║
+║  Stamina: 182/182                    ║
+╠══════════════════════════════════════╣
+║  Script Complexity: 30.5             ║
+║  Idle Yield Mult: 2.08x             ║
+║  Session Duration: 9.8 hrs           ║
+╠══════════════════════════════════════╣
+║  Unallocated Stat Points: 0         ║
+║  Unallocated Skill Points: 5        ║
+╚══════════════════════════════════════╝
+```
+
+Five unallocated skill points. Two from before, three new. He could feel them in his interface like coins in his pocket, heavy with potential. Script Engine Level 2 cost four skill points and fifteen Chrono Dust. It would give him ten-line scripts, variables, and nested conditions. It would let him write automation that actually *thought*, instead of the crude if/then branching the Mk.V currently ran.
+
+He did not spend them. Not yet. He wrote the allocation rationale in his notebook, circled the time-to-Level-14 projection, and lay back on the cot.
+
+*Three point seven days. Then seven point one to fifteen. The Enhancement Construct is still at 75% -- I need Bloom Crystals, and those cost gold I do not have yet. But the Mk.V is already generating sellable Overgrowth materials via the Scrap Collector relay. If I redirect 30% of material output to the Exchange--*
+
+He stopped the thought. It was 3:22 AM. He was calculating resource allocation at 3:22 AM because the number had gone up and his brain would not stop trying to make it go up faster.
+
+*Sleep is a valid optimization. Callum. Sleep.*
+
+He closed his eyes. Pip dimmed on the workbench beside him, managing the third thread in silence. The Mk.V Sentinel continued its patrol in the Overgrowth. The Mk.IV Grinder swung at corrupted raccoons in the Rustbelt Flats. The Scrap Collector harvested. The Refinery processed.
+
+The loop ran.
+
+---
+
+He found Mira Vasquez by following the sound of something dying.
+
+It was late afternoon, the day after his level-up. Callum had walked to the Overgrowth boundary to run a manual diagnostic on the Mk.V -- the construct's efficiency had dipped by 2.3% overnight, which could mean worn-down weapon integrity, a patrol route obstruction, or something as simple as a spawn pattern shift. The kind of thing a good engineer checked in person.
+
+He was skirting the patrol edge, where the bioluminescent undergrowth thinned enough to see the sky, when the sounds reached him. Not the grinding, mechanical rhythm of his construct fighting. Something faster. Sharper. The ring of metal on something that was not metal, punctuated by wet impacts and the snarling cough of creatures he recognized from the Mk.V's kill logs.
+
+Spore wolves. A pack, by the sound of it.
+
+Callum stopped walking. His Danger Sense -- Level 3, barely useful, the threat-detection equivalent of a smoke detector with low batteries -- tingled at the base of his skull. Not a warning about him specifically. A proximity alert. Something violent was happening within fifty meters.
+
+*Options. One: turn around. The diagnostic can wait. Two: approach carefully, assess, decide.*
+
+He chose two, because the spore wolves were between him and the Mk.V Sentinel's current position, and he needed to know if the patrol route was compromised.
+
+He crept through the undergrowth, keeping low, his reinforced coveralls snagging on bioluminescent thorns. The sound grew louder. He could hear individual impacts now -- the wet crunch of a blade entering flesh, a canine yelp cut short, the whisper-fast displacement of air that meant someone was moving very, very quickly.
+
+He reached the edge of a clearing and looked down.
+
+Six spore wolves. Level 11 to 14, from the size of them -- rangy, fungal-mottled predators with jaw structures that unhinged like a snake's. They fought in coordinated pack formation, two flanking, two charging, two circling. Textbook predator behavior, adapted by the Substrate into something more lethal than any natural wolf.
+
+At the center of the pack, killing them, was the Sword Saint from the Grind Pits.
+
+He recognized her fighting style before he recognized her face. The way she moved was burned into his memory from a month ago: that fluid, mechanical precision that turned combat into something that looked choreographed. She had been dismantling sparring partners then. Now she was dismantling spore wolves, and the difference between a sanctioned fight and the real thing was written in the blood streaking her left arm and the controlled fury in her expression.
+
+She fought like a woman who had been fencing since she was nine years old and had spent six months translating that into something that killed monsters.
+
+*Riposte.* A wolf lunged. She sidestepped inside its guard, blade already moving, and the counter carved a line from jaw to shoulder. The wolf staggered. She did not wait for it to fall -- she was already pivoting, *Dash* carrying her three meters to the right, into the space between two flanking wolves. Her saber took the nearer one across the throat. Read Opponent stacks -- he could see them building in his Loop Sight, faint golden indicators above her head -- climbed to four, five, six.
+
+*+3% damage per stack. Six stacks. That is an 18% bonus, multiplicative with her base physical attack of 95 plus weapon, which puts her hitting for--*
+
+A spore wolf slammed into her from behind.
+
+The sixth wolf. The one she had lost track of in the swirl of the pack. It hit her between the shoulder blades and drove her forward, jaws snapping at the back of her neck. She rolled with the impact -- trained reflexes, not panic -- but her HP bar flickered in his Loop Sight. She dropped from full to roughly 80% in a single hit. Then 74% as the wolf's spore cloud triggered a damage-over-time effect.
+
+She was winning. She was also taking damage she could not afford.
+
+*Assessment: she kills the remaining four in approximately twelve seconds at current DPS. The DoT will tick her to roughly 60% HP by then. Survivable. She does not need help.*
+
+The sixth wolf circled behind her again while she engaged the fifth.
+
+*Correction: the sixth wolf will flank her again. She cannot track six targets while executing Riposte chains. Her Perception is extraordinary -- PER 61, minimum -- but her attention is finite. The flanker will land a second hit. If it crits, her HP drops below 50%. The spore DoT will stack.*
+
+*She might still win.*
+
+*Might.*
+
+The Mk.V Sentinel was forty meters away, completing a patrol circuit at the clearing's northern edge. Callum could see it in Loop Sight -- the blue dot, the patrol route, the decision tree waiting for its next IF/THEN trigger. He could redirect it. Pull it off the patrol loop and target the sixth wolf. The construct would absorb the flanker's attention for eight, maybe ten seconds. Plenty of time for the Sword Saint to finish the pack.
+
+It would also interrupt the patrol cycle. The Sentinel would lose its position in the route, need to reset. He would lose roughly ninety seconds of kill time, which at current rates translated to one and a half kills, approximately 16 Essence, and a marginal Compound Growth penalty from the interruption.
+
+*Sixteen Essence. That is the cost.*
+
+The sixth wolf gathered itself to spring.
+
+*That is the cost, and it does not matter.*
+
+He did not remember deciding. One moment he was calculating, and the next his interface was open and his fingers were dragging the Mk.V's patrol marker to a new target: the sixth spore wolf, thirty meters away and closing on the Sword Saint's blind spot.
+
+The Sentinel's decision tree reprioritized. The patrol route greyed out. The blue dot changed course.
+
+The Mk.V Sentinel emerged from the undergrowth at the clearing's edge with all the grace of a filing cabinet thrown down a staircase. It made no sound -- constructs did not announce themselves -- but the spore wolf saw the movement and spun, hackles rising, momentarily abandoning its flank attack.
+
+The Sentinel swung its iron bar. The wolf dodged, easily -- it was faster than the construct by an order of magnitude. But the construct did not need to hit. It needed to occupy. It advanced, swung again, forced the wolf to give ground.
+
+Eight seconds.
+
+In those eight seconds, the Sword Saint dismantled the rest of the pack.
+
+Callum watched it through Loop Sight and his own eyes simultaneously: Riposte, Riposte, Dash, a slash that caught the fifth wolf mid-leap and opened it from sternum to tail, then the fourth taken down with a Deathmark-boosted strike that dropped it in two hits. The third had been bleeding out since her opening exchange. She turned to the sixth wolf as it circled the Mk.V, snarling at the construct that was too slow to touch it and too persistent to ignore.
+
+She killed the sixth wolf in one strike. A single, clean thrust through its skull that ended the fight with an economy of motion that made Callum's breath catch.
+
+Then the clearing was still. The bioluminescent undergrowth pulsed its slow rhythm around scattered wolf corpses. The Mk.V Sentinel stood where it was, iron bar lowered, its script state cycling: *no target. No target. Resume patrol?*
+
+The Sword Saint turned and looked at the construct. Then she looked up, past it, to the tree line where Callum was standing.
+
+He realized he was fully visible. Standing at the clearing's edge in his reinforced coveralls, field notebook in one hand, looking thoroughly non-threatening. A Level 13 Loopweaver with the physical presence of an underfed grad student, watching a Level 23 Sword Saint through the bushes.
+
+*This is not an optimal first impression.*
+
+She walked toward him, saber still in hand, blood running down her left forearm from a gash she did not seem to notice. Her eyes were dark and sharp and already evaluating him with a tactical attention that made his Danger Sense tingle -- not a threat, exactly, but a presence that his nervous system recognized as categorically dangerous.
+
+She stopped three meters away and looked at the Mk.V Sentinel, which was trundling back toward its patrol route with the determined indifference of a construct that had already forgotten the wolf existed.
+
+"That your construct?"
+
+Her voice was direct. No preamble. No thank-you. She studied the Mk.V with an expression caught between fascination and something that might have been contempt.
+
+"It fights like a drunk toddler."
+
+Callum blinked. He had rehearsed zero versions of this conversation. "It killed the wolf."
+
+"It *occupied* the wolf. I killed the wolf." She flicked blood off her saber and sheathed it in a single motion. "There's a difference."
+
+"The difference is you had eight seconds you would not have had otherwise."
+
+She looked at him properly then. Not just a glance -- an assessment. Her gaze traveled from his mediocre gear to his non-combat build to the faint shimmer of his Loopweaver class icon in the interface space above his head. He saw her eyes narrow as she estimated his level from his visible HP bar.
+
+"You're Level 13."
+
+"Yes."
+
+"And you're out here in a Tier 2 zone."
+
+"Diagnostics." He gestured vaguely toward the Mk.V, which was already thirty meters away and closing on its first post-interruption mob. "The construct runs the patrol. I optimize the construct."
+
+"You optimize." She said it flatly, like she was testing whether the word tasted the way it sounded.
+
+"It is what I do."
+
+Silence. The Overgrowth hummed around them -- the constant low thrum of accelerated growth, the creak of trees expanding faster than their bark could contain. Somewhere in the undergrowth, a vine constrictor hissed and was cut short by the distant clang of the Mk.V's iron bar.
+
+The Sword Saint -- Mira, he would learn her name in approximately ninety seconds -- tilted her head. Something had shifted in her expression. The contempt was still there, but underneath it, something else. Curiosity, maybe. Or confusion.
+
+"What's your class?" she asked. "I've never seen that icon."
+
+"Loopweaver."
+
+"Never heard of it."
+
+"You would not have."
+
+She frowned. "That's not an answer."
+
+"It is the accurate one."
+
+She stared at him. He stared back. The social dynamics of this interaction were not optimizing well. He could feel himself defaulting to short, clinical responses -- the defensive mode he fell into when conversation required more emotional bandwidth than he had allocated. He wanted to say something warmer. He did not know what that something was.
+
+"I'm Mira." She offered it like she was handing him a knife -- handle first, but still a knife. "Vasquez."
+
+"Callum Voss."
+
+"The guy in the warehouse."
+
+He had not expected that. "You know who I am?"
+
+"I know *of* you. People talk about the weirdo in the Foundry District running constructs around the clock." She tilted her chin toward the retreating Sentinel. "That's not a Mk.IV. That's new."
+
+"Mk.V Sentinel. Deployed yesterday."
+
+"Yesterday." She considered this. "And it's already running patrols in the Overgrowth."
+
+"That is the purpose I built it for."
+
+Something happened in the silence that followed. Mira shifted her weight, and her brow furrowed -- a quick, involuntary twitch, like someone hearing a sound at the edge of perception. She looked down at her own hands, then back at Callum.
+
+"What are you doing?"
+
+The question was different from the ones before. Quieter. Wary.
+
+"I am standing here. Talking to you."
+
+"No." She took a step closer. Her saber hand twitched. "Something's happening to my interface. My-- my attack speed feels different. My cooldowns. Something just shifted."
+
+Callum felt the bottom of his stomach drop.
+
+He knew what she was describing. He did not know *why* she was describing it.
+
+His Optimization Aura -- the Loopweaver innate ability that unlocked at Level 10 -- ran constantly. It was a self-targeted passive: +15% idle efficiency for himself only. He had verified this in dozens of tests. The skill description said *self*. The effect should not be visible to anyone else. It should not be *affecting* anyone else.
+
+But Mira was two meters away, and her System interface was reporting a change.
+
+He pulled up his Optimization Aura status with a thought. The skill readout appeared in his peripheral vision, same as always: active, self-targeted, +15% idle efficiency. But beneath the standard readout, in text so faint it was nearly invisible, he saw something he had never noticed.
+
+```stat-screen
+┌─────────────────────────────────────┐
+│  OPTIMIZATION AURA (SELF)            │
+│  Loopweaver Innate — Level 10        │
+│  Status: ACTIVE                      │
+│  Primary Effect: +15% Idle           │
+│  Efficiency (self)                   │
+│                                      │
+│  . . .                               │
+│  Proximity resonance detected.       │
+│  Bleed radius: 3m                    │
+│  External effect: [unquantified]     │
+│  . . .                               │
+└─────────────────────────────────────┘
+```
+
+*Proximity resonance detected. Bleed radius: 3m.*
+
+He read it twice. The text pulsed faintly, as if the Substrate was unsure whether it should be showing him this at all.
+
+"Callum." Mira's voice had an edge now. "What are you doing to my interface?"
+
+"I don't know."
+
+It was the most honest thing he had said in months.
+
+She searched his face. He held her gaze -- not with confidence, but with the uncomfortable transparency of a person who genuinely had no answer to give. Whatever she saw there made her relax half a degree. The saber hand unclenched.
+
+"You have an aura," she said. It was not a question.
+
+"It is supposed to be self-only."
+
+"Well, it's not."
+
+The Overgrowth hummed. The Mk.V Sentinel clanged in the distance, fighting something. Pip flickered on Callum's shoulder, a faint cursor-pulse that Mira's eyes tracked briefly before dismissing.
+
+"How long have you had it?" she asked.
+
+"Since Level 10."
+
+"And you've never been near another player while it was running?"
+
+The question landed like a diagnostic probe in an unexpected subsystem. Callum opened his mouth, closed it, and felt something shift in his chest -- a recognition that was less calculation and more a dull ache.
+
+"No," he said. "I have not."
+
+Mira stared at him for a long moment. The contempt was gone. What replaced it was harder to read -- something between pity and understanding and a wariness that had nothing to do with combat.
+
+"Your aura," she said slowly. "Whatever it's doing. My attack speed just bumped. Not much. Maybe 2%, 3%. And my skill cooldowns feel shorter. Like everything in my interface is running at a slightly higher clock speed." She paused. "That shouldn't be possible from someone eleven levels below me."
+
+"I agree."
+
+"'I agree.' That's your response."
+
+"I do not have a better one."
+
+She laughed. It came out sharp and sudden, more surprise than humor, and it transformed her face for half a second into something younger and less guarded. Then it was gone, and she was studying him again with those dark, pattern-reading eyes.
+
+"You sent your construct to help me." Not a question. A statement requiring acknowledgment.
+
+"Yes."
+
+"Why?"
+
+*Because the sixth wolf was going to hit you. Because the math said you would probably survive without help, and probably is not a word I like when applied to someone's life. Because I redirected my construct without thinking, and the fact that I acted before I calculated is either a bug in my decision-making or the most human thing I have done in four months.*
+
+"It seemed correct," he said.
+
+"It seemed correct." She repeated his words back at him again, and he realized she was doing it deliberately -- testing the shape of his language, the way he tested the shape of a loop. "You talk like a System notification, you know that?"
+
+"I have been told."
+
+She looked at the Mk.V Sentinel, now barely visible through the bioluminescent undergrowth, methodically beating a vine constrictor to death with an iron bar. Then she looked at Callum -- the skinny engineer in coveralls, the field notebook, the flickering cursor on his shoulder, the invisible aura that was doing something to her interface that neither of them understood.
+
+"I'm going to come back," she said.
+
+It was not a threat. It was not a promise. It was a statement of intent from someone who operated on intent rather than planning.
+
+"I have questions," she continued. "About your constructs. About how you're running patrols in a zone ten levels above your combat capability. And about whatever the hell your aura just did to my cooldowns."
+
+"I may not have answers."
+
+"You'll have some." She turned to leave, then stopped. "Callum."
+
+"Yes."
+
+"The construct. The Mk.V." She did not look back. "It does fight like a drunk toddler. But it showed up when it mattered. That counts for something."
+
+She walked into the Overgrowth without waiting for a response, moving through the bioluminescent undergrowth with the effortless awareness of someone who treated every environment as a combat space. Within seconds, the jungle swallowed her. Within a minute, even her footsteps were gone.
+
+Callum stood at the clearing's edge and breathed.
+
+His heart rate was elevated. His palms were damp. The Optimization Aura readout still flickered in his peripheral vision: *proximity resonance detected, bleed radius: 3m, external effect: unquantified.* He read it again and felt the ground shift under the assumptions he had built his entire approach on.
+
+*Self-only. That was the skill description. Self-only. But the Substrate's skill descriptions are not documentation -- they are labels. And labels can be incomplete.*
+
+He pulled out his notebook and wrote, quickly, before the details blurred:
+
+*Mira Vasquez. Sword Saint. Level 23 (estimated). Observed Optimization Aura bleed at close proximity (~2m). Reported effects: increased attack speed (+2-3%), reduced skill cooldowns (unquantified). Duration of exposure: approximately 4 minutes.*
+
+*Implications: Optimization Aura has an external radius. Self-only designation may be a threshold limitation, not an absolute boundary. Bleed effect scales with-- unknown. Proximity? Duration? Target level? My stats?*
+
+*Questions I cannot answer tonight:*
+
+*1. Does the bleed effect scale with anything I can control?*
+*2. Does it affect idle efficiency for external targets, or only active combat parameters?*
+*3. Is this a Loopweaver feature or a Recursion interaction?*
+*4. Has the Substrate known about this?*
+
+He underlined the fourth question three times.
+
+---
+
+The walk back to the Barrier Zone took forty minutes, and Callum spent every second of it thinking.
+
+Not about the aura. About the conversation.
+
+He replayed it in his head the way he replayed construct combat logs -- moment by moment, looking for inefficiencies, missed branches, suboptimal outputs. She had called his construct a drunk toddler. She had laughed at his language. She had told him his aura was doing something impossible, and when he said "I don't know," she had believed him.
+
+*Mira Vasquez. Variables: direct communication style, combat-primary build, tactile learner (she felt the aura before she rationalized it), humor as social tool (teasing = engagement, not hostility). Assessment: she saw through the clinical exterior in approximately four exchanges. Most people do not see through it at all. Conclusion: she is observant in ways that are not limited to combat awareness.*
+
+He stopped walking. He was standing on a broken sidewalk at the edge of the Foundry District, and he had just evaluated a human being like a subroutine.
+
+*That is the thing you do. That is the thing you are afraid of doing.*
+
+The night air was cold against his face. Detroit's broken skyline rose ahead of him, the Barrier's faint shimmer visible as a dome of distorted light against the stars. Inside that dome, 180,000 people slept and worked and fought and worried about tomorrow. None of them were thinking about Callum Voss.
+
+For the first time in a long time, he found he did not want to be invisible.
+
+*She said she would come back.*
+
+He did not know what to do with that. It did not fit in a spreadsheet. It did not have an efficiency rating. It was a human being telling another human being that she intended to be in his life again, and the fact that it made his chest feel warm and his thoughts feel scattered was either a bug or a feature and he could not tell which.
+
+Pip flickered on his shoulder.
+
+"I know," Callum said.
+
+Pip did not respond. Callum talked anyway.
+
+"She is going to have questions I cannot answer. About the aura. About the Loopweaver class. About why a Level 13 engineer is running combat constructs in a Tier 2 zone instead of grinding Rustbelt Flats like a normal person." He paused. "She is also going to have questions I *can* answer, and those are worse, because they will require me to explain my system to someone who thinks in a fundamentally different way than I do."
+
+He walked the rest of the way in silence, Pip's faint light pulsing on his shoulder like a heartbeat.
+
+In the warehouse, he set down his notebook, checked his construct array -- all four slots active, all loops nominal, Essence accumulating at the new rate -- and sat on his cot.
+
+The Mk.V Sentinel was still patrolling. The Mk.IV Grinder was still grinding. The Scrap Collector was still collecting. The Refinery was still refining. The Enhancement Construct blueprint sat on his workbench at 75% completion, waiting for Bloom Crystals he could not yet afford.
+
+Everything was running. The loop was running. The numbers were climbing.
+
+And somewhere in the Overgrowth, a woman with a saber and a Level 23 Sword Saint build was thinking about the fact that his aura had made her faster.
+
+*She is going to come back.*
+
+*I should prepare.*
+
+*I have no idea how to prepare for this.*
+
+He lay down, closed his eyes, and let the constructs work.
+
+The loop ran. The numbers climbed. And for the first time in four months, Callum Voss fell asleep thinking about something other than the curve.

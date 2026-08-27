@@ -1,0 +1,191 @@
+---
+id: 6dff04d1-6f39-5073-a7eb-a947d497ab9c
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch20: Rowantree Estate"
+slug: 0027-b6-ch20-rowantree-estate
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 27
+ownLength: 2116
+unit: words
+ownProgress: 2116
+publishedAt: 2025-08-19
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2531668/b6-ch20-rowantree-estate"
+royalRoadId: "2531668"
+removedAt: "2026-07-03T13:47:52.216Z"
+---
+
+Arthur led Cressida inside the hive and to a room he knew where they’d unlikely be bothered. It was private—so private that apparently not even Chester had bothered to stock it with furniture, leaving it bare, empty, and cold.
+
+A small part of Arthur’s mind reminded him that he needed to find the time to make this place his own. He needed furniture he enjoyed and no bare, ugly rooms without a purpose.
+
+But that wasn’t what was important right now.
+
+Once inside, he shut the door behind them. The click of the latch seemed to echo.
+
+Cressida looked unimpressed, turning to him with her arms crossed.
+
+“You’re upset,” Arthur blurted.
+
+That was all she needed. “Of course I’m upset! You left me when you needed backup, and then you went and got hurt just like I knew you would!”
+
+“I couldn’t take you with me, Cressida. I was going up against something that held Legendary shards, and I knew there was a good chance it would have Legendary power to protect it.”
+
+“So, so you’re saying I’m weaker than you?”
+
+For a moment, he could do nothing but stare at her. She must have realized exactly what she had said because she scowled.
+
+“I can’t change the distance of power between a Rare and a Legendary,” Arthur said, quite reasonably, he hoped.
+
+She huffed and turned away from him. Just when he was about to add something else, however, she turned back. “So you and Brixaby are going to ascend to Mythic? That’s your plan, right?”
+
+They had barely talked about this, but it was somewhat of an open secret. “Yes.”
+
+“So you won’t need Joy or me at all?”
+
+“No! Cressida, that’s not it. I… I…” To his mortification, his tongue seemed to get tangled in his mouth. “I value you,” he said, and winced at how weak and inadequate that sounded. Grimly, Arthur charged on. “I can’t put you in a situation where I know you’ll be hurt. It’s different when it’s Rare against Rare, or when you’re in a battle along with the rest of the retinue where everyone can back each other up. A Rare against a Legendary is unfair, and I can’t stand to see what would happen to you. It would kill me.” She opened her mouth, but he went on. “I faced a mind-magic attack down there. I couldn’t fight it off all the way, and I have skills for it. If you’d been there with me—I don’t know what would have happened. Maybe you would have been made into a mind slave, like—” He cut off his words with a sharp shake of his head.
+
+“What? Mind slaves?” She looked at him blankly and he got the impression this had not been where he had expected the conversation to go. That made two of them.
+
+He didn’t want to go into this, but short of changing the subject he saw no other way out. “I don’t know if what I saw down there was real. The core of the eruption was attacking my mind. It was strong enough to go through all my mental blocking shields. The core spoke to me, and it showed me visions of being in different people’s heads. I think they were at the Rowantree estate, but I’m not sure because I haven’t been there since I was a little kid—before my family was banished.
+
+Cressida stared at him. He couldn’t quite understand the expression on her face other than she was still upset. Then, abruptly, her arms dropped. “Tell me everything that happened down there again. Slower this time.”
+
+He did, and instead of putting her at ease as he hoped, she only grew more alarmed as he explained.
+
+“Wait, what if there’s an eruption going on right now at the Rowantree Estate? Another one with mind-scourglings?”
+
+That seemed fairly unlikely. “We haven’t received any eruption alarms from the seers. Plus, Brixaby is down while he processes the venom card and you…” Again, his tongue stumbled over what he really wanted to say.
+
+You’re angry with me and that matters more then a stupid eruption in my cousin’s estate.
+
+“I needed to talk to you,” he said lamely.
+
+Again, his words were woefully inadequate, but she softened as if she heard everything that was unsaid.
+
+“We’ll talk, after we check this out,” she said.
+
+Suddenly, Arthur was the one who was alarmed.
+
+Didn’t we just talk? We’re going to talk more? he thought in rising panic.
+
+She reached to grab his hand in hers and tugged him to the door. “This is too important not to check out. Joy will carry us.”
+
+Arthur didn’t argue with her. Every other consideration had been pushed to the side to make sure Brixaby got back to the hive in one piece, but now he was safe. And while repeating what had happened down at the core of the eruption, he realized that figuring out what happened at the Rowantree Estate wasn’t something he should put off. Cressida’s reactions only confirmed his unease.
+
+They had to investigate.
+
+Leaving the room, they went down the hallway to the mouth of the entrance out to the ledge. Brixaby still lay there quietly, watched over by Joy and Soledad with her little hatchling, Equinox, by her side.
+
+Brixaby lay in the same position as before, with no outward signs of distress.
+
+Cressida went over to speak to Joy, while Arthur stepped up to Brixaby.
+
+Furrowing his brows, Arthur took a card anchor glow off the side of the wall and brought it close. His dragon’s scales were so dark that it was hard to see their true color, but… “Is it my imagination or is the purple different?” Though he couldn’t quite put his finger on ‘how’. “Is it richer in color?”
+
+“I don’t think so. He’s always been very handsome,” Joy said without any shame. “Do I have to leave him?”
+
+“Sams and Cinderwood will be here to protect him, dearest,” Cressida said.
+
+“And me!” Equinox puffed out his chest.
+
+Soledad smiled down at her dragon and he returned it with a little growl.
+
+“I am very fearsome! Just let anyone try to hurt Brixaby. They’ll have to get through me first!”
+
+He’s been spending too much time around Brix, Arthur privately thought. Though with Equinox’s dual cards of heat and cold, he would be quite the opponent… when he grew up.
+
+He and Marion’s Asha should start their flying exercises soon. That was one more thing for him to schedule and oversee.
+
+“Dear, we should leave sooner rather than later,” Cressida told Joy.
+
+Joy threw another long look at Brixaby and sighed. “Oh, all right.”
+
+Arthur nodded, checked his internal mana to make sure he still had enough, then opened the way via a dark portal.
+
+Seeing this, Joy drew up short and her attitude completely changed. “Wait, we’re going on foot? Then why do you need my wings? Cressida has my quest card.” Though it remained unsaid that Joy received the vast majority of quests between the two of them. It wasn’t anything Cressida was doing wrong. Meta powers could be random.
+
+“I need your intuition,” Arthur said.
+
+Joy perked up slightly at that—despite her complaints, she was fond of telling people that she was more than her quest card. Then she sagged again and gave another lingering look at Brixaby. “Okay, but are you sure this is going to be fast? What if he wakes up while I’m gone?”
+
+That made Arthur pause. He was depending on Joy’s intuition, and she was hesitating. “What’s got you worried?” He glanced at Brixaby’s still form again, concerned he was missing something.
+
+Joy waved off his worry with a shrug of a wing. “Oh, there’s nothing wrong with him. He’s still processing the card. It’s just that I feel like I should have eggs soon and I wanted to ask him if he’d be their sire before I forgot,” she added easily. “Sams would be okay, I guess, but I feel Brixaby would be better with the hatchlings, you know? He’s so protective.”
+
+Cressida looked like she was about to fall over.
+
+****
+
+They stepped out of the portal to the edge of a forest that bordered green, verdant fields. The sun was high in the sky, birds twittered in some nearby bushes, and the air was heavy with the scent of flowers.
+
+It could not have been a more picturesque scene than if Arthur had planned it.
+
+He looked around, seeing one rolling hill of fields after another. Nothing was amiss and there certainly wasn't any sign of a scourge-volcano anywhere.
+
+Both he and Cressida turned to Joy.
+
+"Do you sense anything, dearest?" Cressida asked when the Pink dragon remained silent.
+
+"No," she said almost sulkily and looked back in the direction of the closed portal. It was clear she wished she were back at the hive.
+
+"I don't see any signs of an eruption around here," Arthur said.
+
+"I'm glad, though it's not too much of a surprise." Cressida gave him a slightly wan smile. "In our line of work it's easy to think that the whole kingdom is full of eruption cones, but really, it should be rare. Or," she faltered, probably remembering that eruptions were happening more frequently than ever. "They used to be. Joy, what do you say about taking a quick flight around?"
+
+Joy snorted unenthusiastically.
+
+"I have another idea," Arthur said then closed his eyes and reached for the Call of the Heart card. He could have done this back at the hive, but he’d been hesitant. He had accepted he would very likely have to kill his cousin to wrestle the Combat card from his heart, but it didn't mean he was happy about it.
+
+And if he knew exactly where he was, that would make it all the easier.
+
+Where is Penn? he thought to the Call of the Heart.
+
+The answer he got was baffling.
+
+Arthur opened his eyes. "I can't find my cousin here... or anywhere."
+
+"Is he dead?" Cressida asked.
+
+"I... don't know. It's Brixaby's card and he knows the restrictions better than I do." Arthur shook his head. "I'm getting a bad feeling about this. Joy, take us up in the air. We'll do a quick flight and then go back to the hive."
+
+The prospect of getting back must have heartened Joy because she didn't grumble at all. When Arthur and Cressida were aboard, she launched neatly into the sky.
+
+A lone dragon overflying an estate would definitely cause a little alarm for the average person, but there wasn't anything Arthur could do about that. He looked down, searching for signs of trouble. The land and fields looked idyllic.
+
+Soon, they came to some people working out in one of the fields.
+
+Arthur found he remembered that field, remembered those grapevines. He had a flash of memory of his own hand—someone else's hand—reaching out to clip some leaves to give a nearby bunch of grapes more nutrients. The core of the eruption had shown this to him. Why?
+
+"Um, actually... I don't think everything is okay," Joy said.
+
+That brought him and Cressida up on alert.
+
+"What do you mean?" Cressida asked.
+
+"I... don't know. It's just a feeling," she said. "A bad one."
+
+They were passing over the group of field workers, Joy's shadow flickering over them. Not one looked up.
+
+Then Arthur caught the hint of a song from below. He couldn't pick out any lyrics, but the melody was hauntingly familiar...
+
+... Suddenly, he realized his Mental Resistance skill had snapped into effect.
+
+He looked around, feeling like he had been on the verge of falling asleep.
+
+That was when he saw that Joy's wings had stilled. She was gliding, almost seeming to float in midair, her eyes focused off in the middle distance.
+
+"Joy!" he yelled, then realized that Cressida was very still in her seat. Both were caught by the mind magic.
+
+He activated his Mental Resistance – Area of Effect skill.
+
+Joy twitched and looked around, confused.
+
+"Fly up! Joy, put some distance between us and those workers. Up!" He tapped the side of her shoulder to get her attention.
+
+"What?" she asked, voice thick and slightly confused. Her wings beat, but not enough to get them up and away. Just enough to keep them in the air.
+
+Cressida was looking around in confusion, too, but was oddly silent.
+
+It was too dangerous to stay, even if they could put distance between themselves and the workers.
+
+Arthur activated the Dark Rower's portal right in front of Joy's nose. She glided in, and the portal snapped shut behind them.

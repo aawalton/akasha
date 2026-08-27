@@ -1,0 +1,253 @@
+---
+id: 21eddfc7-f1e1-5603-9c90-8e511de3f3a3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: A New Teacher"
+slug: 0004-chapter-4-a-new-teacher
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 4
+ownLength: 2154
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701710/chapter-4-a-new-teacher"
+royalRoadId: "3701710"
+---
+
+Duncan POV
+
+A whole month had passed since the scrawny kid first joined the recruits. Watching Ben drag his trembling legs through the dirt, Duncan leaned over the fence of the training grounds, deep in thought.
+
+He had to admit, the kid was stubbornly determined.
+
+But Duncan's mind was currently on far darker matters. Another scouting party sent farther into the area hadn't come back.
+
+That probably meant they were dead.
+
+Things were quickly going from bad to worse. Even after all this time, they still hadn't found the cursed red zone. The ambient mana readings were ridiculously high all over this area, and they didn't know why.
+
+They hadn't found a rift, so it couldn't be a red zone. It wasn't a forbidden zone either, because if it were, they would already be dead.
+
+Unless the forbidden zone was still forming. But then, where was the spawner? There had to be a clue somewhere. Spawners were usually easy to spot, but then again, their equipment was useless at the moment.
+
+Duncan rubbed his jaw, thinking maybe the ambient mana was messing with their scanners. They hadn't even noticed the kid's village burning until it was too late.
+
+And it made no sense for such an amount of mana to be here without the presence of a spawner or rift. But there was no sign of either.
+
+This place was tucked away in a remote part of the Central Plains, right at the edge of the kingdom near one of the regional walls. Only a handful of villages were scattered around, and the nearest real city was miles away.
+
+People here mostly lived quiet, ordinary lives in their villages. They were so far removed from the system that most couldn't even look at their own status screens. He doubted anyone had access to assessment tablets out here anyway, so no one could even have their status checked.
+
+They refused any and all help, and liked to be left alone.
+
+So they had no one stationed at the village when that mysterious, catastrophic fire instantly leveled the kid's home.
+
+Duncan sighed.
+
+Normally, Duncan would be deeply worried about a teenager suffering a complete mental collapse after a tragedy like that. But Ben had the [Focus] skill.
+
+People who managed to learn that particular skill, especially when they first awakened the system, were known for being strong-willed.
+
+They had strong opinions, a firm sense of self, and hated when others got involved in their business. They were loners by nature. They also had some darker sides. Some were even sociopaths, but the kid seemed just fine.
+
+Duncan tilted his head, wondering if the skill was just a lucky boon keeping the boy sane right now. Or maybe the kid had awakened it precisely because his personality was already built that way?
+
+It was hard to say, really.
+
+He looked back at the group running and watched the recruits closely.
+
+Some of the older recruits had slowed down during their tough laps. But really, it was Ben who had picked up his pace over the past month.
+
+As they jogged alongside the small, sweating boy, the bigger recruits were actually barking out words of encouragement.
+
+In a tight knit camp like this, secrets never stayed hidden for long. People were curious by nature. Once a kid was noticed in camp, they were naturally curious. When one or two learned the truth, word of his burned village spread through the soldier ranks like wildfire.
+
+Now, even the toughest soldiers were showing pity for the boy.
+
+The kid was definitely going to hate that.
+
+Still, maybe it was finally time to actually teach the brat a thing or two. Duncan had never officially taken on a student in his life.
+
+But Ben had more than proven his worth out there in the miserable dirt. The stubborn brat really reminded him of his own son back home. Tenacious. They were the same age.
+
+I wonder how he's doing right now.
+
+The latest supply shipment was horribly delayed. It had been an entire month. They had planned to send the kid back to civilization with the caravan, but it still hadn't arrived.
+
+Worse, it was also supposed to bring letters from home.
+
+Duncan shook his head to clear away the gloomy thoughts and tossed the crumpled scout's report into the fire pit. He needed to decide what to do next.
+
+"Ni... nine..."
+
+Ben gasped for air and locked his trembling arms.
+
+"Ten...!"
+
+He dropped from the iron bar and landed with a heavy thud.
+
+He noticed right away how light his arms and legs felt as he caught his breath like a fish out of water. Wiping sweat from his forehead, he frowned deeply. If only he could see his damn status screen.
+
+Over the past few days, he was almost positive he had gained some kind of skill.
+
+Lately, he felt a steady warmth in his muscles that washed away his earlier fatigue.
+
+He must have gained something.
+
+But without a status screen, he could only guess. He had asked Hannah to check for him a few days ago, but she refused right away. It turned out using those assessment tablets was much more expensive than he thought.
+
+There was no way they would use the camp's shrinking funds on a Tier 0 kid when there were bigger issues. Ben wasn't naive. He knew something was wrong when the shipment still hadn't arrived after a month.
+
+Still, without any way to check his status, he felt like he was flying blind out here.
+
+Shaking his sore arms, Ben quickly moved on to his next set of exercises. His routine was rigidly set now, consisting of nothing but endless running, push-ups, sit-ups, pull-ups, and deep squats, over and over.
+
+The routine was simple, but he could see the progress.
+
+Thinking back to his first week, he figured his starting stats were probably terrible. He was so skinny and under fed that he couldn't even make it a quarter of a lap before falling down in the dust.
+
+The older recruits definitely noticed how bad he was doing, too.
+
+He glanced over at the recruits resting nearby and remembered how they used to make fun of him. They pointed at his shaking legs, whispered jokes, and some of the louder guys even made bets on which day his heart would give out.
+
+But now, everything about their attitude had changed.
+
+During the long morning runs, those same big guys now gave him kind, encouraging smiles as they ran beside him.
+
+He wasn't having any of it. He could see the pity beneath.
+
+Yeah, screw that.
+
+Looking down at his own chest, he knew he still looked like a fragile twig next to them. Being stuck in a teenager's body was one thing, but he was also severely lacking any real muscle mass.
+
+To these magically enhanced freaks, he probably still seemed like he could break if the wind blew too hard.
+
+But he was undeniably getting stronger, day by day.
+
+Pushing himself off the ground, he set his feet firmly, ready to start his squats. All he had to do was keep pushing this new physical limit.
+
+Wait.
+
+A sudden sharp pain tore strongly through his chest.
+
+Ben's eyes went wide with shock as he collapsed onto his hands and knees.
+
+He clutched his chest and gagged, coughing up a thick mouthful of dark blood that splattered onto the dirt.
+
+"What? You mean I am close to Tier 1? How is that possible? If it was so easy, why wasn't anyone in the village already Tier 1? Surely they must have worked harder than me."
+
+Ben wiped blood from his chin and looked at the captain sitting across from him in the medical cot.
+
+Duncan let out a heavy sigh.
+
+"Being close doesn't mean you'll actually reach it, kid. Getting to Tier 1 is a bit complicated. You need more than just physical training."
+
+The scarred man leaned forward and tapped Ben's chest with his finger.
+
+"You need essence."
+
+Essence? What did that even mean?
+
+Ben frowned and quickly tried to search through Benjamin's few memories, hoping to recall any conversation the village boy might have overheard.
+
+But he found absolutely nothing.
+
+"What is that supposed to be?"
+
+Duncan nodded slowly, not looking surprised by the question.
+
+"It is the energy of the world tree, kid."
+
+"What?"
+
+"I guess you haven't seen the world tree yet, given you are just Tier 0. But it doesn't matter. You collect essence from the things you kill, or you slowly take it in from the air over many years. Then you refine it within your core, and once you have refined enough of it, you advance. As you fill your core, you hit certain essence thresholds, or levels. Early, middle, late, and peak. Each time you pass one of these levels, your core uses that energy to give you a big boost in strength within your Tier."
+
+So it was basically like experience points in real life?
+
+But as he watched the captain's vague hand gestures, Ben just deadpanned.
+
+"That doesn't explain anything."
+
+What he really wanted was more answers. Because what was the world tree? Essence? He was left with more questions than answers.
+
+Duncan gave a dry chuckle and stood up from his wooden stool.
+
+"Because that's all you need to know right now. Your body is physically reaching the limit of a mortal vessel, which is why there's blood, or more like impurities. But without enough essence to trigger the qualitative change, your core can't actually get past the blockage."
+
+The big man casually shared information that changed everything.
+
+"And you'll want to push through, kid. Because once you ascend to Tier 1, your soul connects to the world tree, creating a link to your soul space. That link lets you naturally see your status. But don't get too excited, you still won't be able to enter or fully access the soul space itself yet."
+
+Wait a second.
+
+Snapping his head up, Ben practically vibrated with sudden, intense energy.
+
+"I will what?"
+
+Duncan glanced back and gave a small, knowing smirk.
+
+"No more costly assessment tablets. Someone at Tier 1 can see their own status just by willing it."
+
+With that, the captain stepped through the canvas flap, leaving Ben sitting on the tent in shock.
+
+No way.
+
+He clenched his fists as a wild grin spread across his face.
+
+That changed everything.
+
+If he reached Tier 1, he wouldn't be in the dark anymore. He could finally check if he had gained new skills or leveled up his old ones.
+
+He remembered Hannah's lesson, when she had to use her own mana to help him sense [Focus]. Without her help, he couldn't feel his own core or any new strings at all.
+
+He still couldn't feel whatever skill he was absolutely positive he had developed over the last month.
+
+But maybe reaching Tier 1 would fix that.
+
+There had to be some kind of massive qualitative change between Tier 0 and Tier 1. That it would finally let him feel his own skills without needing anyone else's help.
+
+Connecting to the world tree, was it?
+
+He just needed to figure out how to get this 'essence' and gain enough to advance to the next Tier. He put his bare feet on the floor, ready to chase after Duncan and demand a better explanation.
+
+"Tell me how to get this essence."
+
+Duncan looked up from a messy map and raised an eyebrow at the sudden interruption.
+
+"You aren't ready, kid."
+
+The scarred man leaned back in his chair.
+
+"Getting to Tier 1 means real combat. You're too impatient."
+
+Ben let out a loud scoff.
+
+Obviously, he was impatient. He didn't have the luxury of time.
+
+He was not going to get a resource like Duncan, or Hannah for that matter, once he was out of this camp. That was something he'd realized a while ago.
+
+So he wanted to make the most of it and take advantage of the opportunity while he could.
+
+"Staying stuck at Tier 0 isn't fixing anything."
+
+Duncan drummed his fingers on the desk and stared at Ben in silence for a while.
+
+"You want essence?"
+
+A cold smirk appeared on the veteran's scarred face.
+
+"Beat me in a spar. Then I'll allow it."
+
+Ben stared at Duncan expressionlessly.
+
+"Like hell I can beat you. What Tier even are you?"
+
+Ben waved his hands at the man's strong body, feeling like he was being asked to fight a bear. Duncan laughed and dismissed the worry.
+
+"I'll keep my strength exactly at your level. I won't use any special skills or mana. It will be just technique."
+
+Ben narrowed his eyes and considered the offer with suspicion.
+
+He knew he still wouldn't win. It felt like a trap. He shouldn't agree.
+
+"Fine. Let's do this."
+
+He could do it.

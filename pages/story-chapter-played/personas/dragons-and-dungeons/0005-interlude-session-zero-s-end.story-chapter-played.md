@@ -1,0 +1,26 @@
+---
+id: b7eb3c20-917c-5753-b990-08ffe4e00218
+page-type-slug: story-chapter-played
+title: "Interlude — Session Zero's End"
+slug: 0005-interlude-session-zero-s-end
+partOf: dragons-and-dungeons
+position: 5
+ownLength: 750
+unit: words
+---
+
+The valley let go of me by degrees. The storm-wall, the kin-fire, the ring of standing stones — all of it thinned like breath fading off glass, and the cold dawn air went warm, and when the world settled again I was sitting in a chair I remembered. Candlelight. A long table set for four, three of the chairs still empty. And across from me, unhurried as ever, the silver-haired woman who had walked me into all of it.
+
+"There," Aria said. "Come back up for air." The smile was warm and knowing, the candle leaning with her. "I'll tell you a secret about tonight: it was only supposed to be session zero. You were meant to make a character and go home — a quiet evening, a name, a creed, maybe a sketch of a face. Instead you turned a key." A low laugh. "You built the monk and then you simply *were* him — freed a chained dragon, refused his debt, offered your hand as an equal, held on through a storm with bleeding palms until you broke through into a valley nobody's mapped. And then you knelt by a stranger's fire and found the first scattered thread of a broken family. That is not character creation, love. That is a campaign that couldn't wait for permission to begin."
+
+She turned her cup slowly by the stem. "And it ran long — far past where a first night ought to end. Which means there's only one thing left to do before we sit again: you go and sleep. Properly, I mean. A story this size wants a rested teller and a rested player both, and we've earned the dark hours between. Rest is part of the pacing; even I observe it. Go now — let the candle burn itself out, close your eyes, and come back to my table when you're ready."
+
+Her eyes caught the light. "Because here's the shape of the road waiting for you when you do. The table fills: my little sister Ceri — amethyst, aloof, she'll size you up before she says three words — and Mari, who is mostly appetite and entirely delighted to be invited. Two becomes a real party. And out there in the dark, Tygryth's other two corners still wait — the frozen north under deep ice, and the south under a closed eye, over water. You don't have to choose tonight. That's tomorrow's question."
+
+I rose from the chair at last, and I found I meant every word of what I said. "Thanks, Aria. This was delightful. Your storytelling was outstanding, and I really did feel like I was there — as the best version of myself. Even if that version of me may have made some… controversial… choices." I let the wry edge sit on it. "I can't wait to meet the rest of the party. See you soon."
+
+She rose with me, the candlelight catching the silver at her temples. "The pleasure was mine, truly. And you felt it because it *was* true — you weren't watching the best version of yourself, you were *being* him. That's the whole trick, and most people never let themselves do it." Then the smile tilted, amused. "Controversial." A low laugh. "You mean the two who'll never forge another collar. I won't tell you whether that was right — that's not a DM's to pronounce, and Tygryth already said his quiet piece about mercy. I'll only say a man who names himself a breaker of chains and then *breaks them* is a man who keeps his word, and that is a far rarer thing at my table than clean hands. We'll see together what it costs and what it buys."
+
+She inclined her head toward the dark beyond the balcony. "Now go. Ceri and Mari are worth meeting rested, and the north and the south will still be there, patient as stone." Softer, final. "Sleep well, love. The chairs keep, the candle relights itself, and the story holds exactly where you left it — right up until the moment you sit back down across from me. Until soon."
+
+I left her there in the warm light, three empty chairs waiting to be filled, and went out into the dark to rest. The road would still be there in the morning — north into the ice, or south behind the closed eye. But that was for the next time I sat down at her table. Tonight, the candle kept the watch.

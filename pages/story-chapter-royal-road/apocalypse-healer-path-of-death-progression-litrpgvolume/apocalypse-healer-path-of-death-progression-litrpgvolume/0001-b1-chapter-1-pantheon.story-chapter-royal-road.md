@@ -1,0 +1,191 @@
+---
+id: e3a7cf8e-3940-56ce-875e-212caa0fba06
+page-type-slug: story-chapter-royal-road
+title: "B1 Chapter 1 - Pantheon"
+slug: 0001-b1-chapter-1-pantheon
+partOf: apocalypse-healer-path-of-death-progression-litrpgvolume
+position: 1
+ownLength: 2301
+unit: words
+publishedAt: 2024-10-23
+link: "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/1863998/b1-chapter-1-pantheon"
+royalRoadId: "1863998"
+---
+
+David’s eyes shot open to the first rays of sunlight shining through the panoramic window. He sighed, his eyes drifting to the ceiling.
+
+The blanket rustled, and he heard a soft moan beside him, but his gaze stayed focused on the galaxy mural above. The corners of his lips tugged upward in a half-smile as he momentarily let thoughts of all his obligations fall away, but the bliss couldn’t last. His attention drifted back to the woman beside him.
+
+Even waking up beside a beautiful face no longer excited him. David felt nothing.
+
+Suddenly, the bed started shaking. His eyes widened and he nudged Rebecca—or was it Sabrina?—but she adjusted her position against him, clearly still asleep.
+
+David turned back to the ceiling, which trembled alongside the bed. He had no idea what he was supposed to do—he’d never been in an earthquake before.
+
+Just as he was about to rock Rebecca awake, the tremors stopped. David rubbed his eyes in disbelief. He took a deep breath, trying to steady his racing heart.
+
+That was weird.
+
+He shrugged inwardly and resolved to look into it later. An earthquake would definitely make the news.
+
+***
+
+What was he going to do today? Falling asleep was not an option anymore, but it was too early to do anything fun. William and Basti were probably still awake, but the night owls would disappear in their caves once the sun rose high above.
+
+I could meet up with Felix later.
+
+He sighed. No, that wouldn’t do. Felix was prone to getting distracted and running off with random girls. Roaming the streets alone sounded better than chasing after him.
+
+Unfortunately, it was the weekend and David’s office was closed too. Not that diving into work was exactly thrilling. It was just… something to do. A minor distraction that made his life meaningful. Somewhat.
+
+At least the money is good.
+
+He snickered, but his smile stopped when his phone vibrated. Its screen lit up. David’s body turned as stiff as cardboard. He held his breath for several seconds and tried to calm his thoughts, but it didn’t help.
+
+The phone vibrated again.
+
+It almost felt like the lit-up screen was mocking him. Threatening him.
+
+He muttered a curse under his breath and reached for the phone. Two messages from his mother popped up.
+
+[Mother: Hello, son. I know you have been doing great, so I won’t waste our precious time with pleasantries. There are a few things you have to do in the following weeks! We received the reports about your workload and achievements and assessed you should receive your next promotion soon. Once you are the Senior Director, you will have more responsibilities within the company, but your father also wants you to pick up golf and boxing again.
+
+The third son of a renowned intelligence officer joined your father’s subsidiary boxing club recently. You have to socialize again. It is unpleasant, we know, but it has to be done. Your father needs your support. We need you! As for boxing, the CEO of Siex has been asking about you. His second daughter seems to be interested in you and your experience in martial arts. Since it has come to this, we need you to step up your game. I need you to stop meeting these scoundrels you call friends. If you won’t do it, and I know when you’re trying to hide something from me, you will have to face the consequences of your actions!]
+
+[Mother: I know you can do better. Make sure you don’t keep disappoint us. Love you.]
+
+David clutched his phone tightly until his knuckles turned white. A moment later, the screen cracked.
+
+He was good at his job, but hearing the likelihood of a promotion from his mother left a bitter taste in his mouth. Then again, it mattered little how good he was at his job. Everything was part of his parents’ scheme – their great plan – either way.
+
+His path had been paved, leaving barely anything for him to work for or toward. There was only one real challenge left—his own impossible mission: escaping his parents' control.
+
+He loved them, but their love weighed on him, thick with something that burned like acid.
+
+As he remembered the day he’d resigned himself to his parents’ clutches, David let out an exasperated sigh. His shoulders slumped and he frowned as frustration, despair, and anger swirled within him, but it was of no use. He was powerless to change anything.
+
+The blankets rustled again, and this time David looked at Rebecca. She was just one of many women he’d met. Shallow, easy to impress: a challenge so small it barely felt like one. A way to show that he had some control over his life.
+
+Even ‘winning’ over a woman had lost its meaning. There was no thrill in the hunt… or anything else.
+
+His thoughts were interrupted as the mural shook again. This time the tremors were everywhere. David sat up straight and ignored Rebecca’s soft moans. He had no idea how she was still sleeping. His heart felt like it was about to leap out of his chest. The sound of cracking concrete and screeching metal resounded, spurring David to get up. However, a hand shot out from beneath the blankets, stopping him. Soft fingers curled around his tense arm as a sleepy voice murmured from under the covers.
+
+“Where are you going?
+
+Her voice was heavy with weariness, yet she clung tightly to him.
+
+He wondered how she had made it this far in life with survival instincts like this. David couldn’t quite believe it. Earthquakes weren’t common in this area, but it shouldn’t have been too hard to recognize one when it happened. The floor trembled, the panoramic window shivered, straining under the pressure, and the bed was shaking violently.
+
+Escaping her grasp wasn’t easy. It was especially bad when the cracking intensified. He could almost feel the crack sweeping through the entire building. He turned to Rebecca, his heart drumming against his rib cage like it hadn’t for years as he dove in her direction.
+
+A moment later, David felt as if he were suddenly weightless, suspended in midair. He was certain someone had screamed, but the sound was swallowed by inertia as everything blurred, and he was yanked to the ground.
+
+The world around David turned upside down for a moment. Then, everything turned dark.
+
+…
+
+A spark of pain jolted him awake. He groaned and opened his eyes slowly to look around – where was he?
+
+David tried to turn around and jump to his feet, but his body disobeyed. A pang of pain struck him square in the chest, his head pulsed like it had been cracked open, and his legs felt like they had been shattered in several spots. At least he was alive.
+
+The pain coursing through him was all the proof he needed.
+
+Blood poured down his face in streams, and a simple check-up was enough to tell that something hard must have fallen on his head. It was bad. His vision was blurry, and David kept losing control of his body. But David’s mind wasn’t messed up enough to think the mattress underneath was soaked in his blood. At least, most of it shouldn’t be his.
+
+Probably a concussion, and maybe a few broken ribs—or maybe all of them.
+
+Even David’s legs felt like a mess, but no wound explained all the blood. In the first place, how long had he been unconscious? It could have been just seconds. Too much blood streamed down his face to survive several minutes bleeding like a pig.
+
+So, there were worse ways to start the day than getting a message from his mother.
+
+David sneered, sending a silent ‘fuck-you’ to the world, while his attention drifted to his surroundings. He hadn’t been buried alive, but he wasn’t in his apartment anymore either. His position had changed drastically from the highest floor of the apartment tower to the ground. He must have been incredibly lucky—or cursed—to survive something like this.
+
+That was probably the best news of the morning.
+
+The early morning sun pierced through the lingering shadows, though piles of rubble and broken walls blocked most of his view to the left and ahead.
+
+The scene around him felt unreal, like something straight out of a Hollywood movie—a disaster that had leveled everything in sight.
+
+Everywhere David looked, buildings had been reduced to rubble. Nothing but piles of rubble and remnants of the glorious skyscrapers had been left behind.
+
+A shudder ran through him, his skin prickled as he imagined being one of the people who’d lived on the floors below. Did anyone else survive the earthquake? How did he survive in the first place? Did the mattress soften the fall or was his survival the result of something else?
+
+Even if the mattress had helped, every inch of him hurt.
+
+His head was already hurting badly, but it wasn’t like his body had fared any better.
+
+In the midst of his pain, he suddenly remembered—Rebecca!
+
+He groaned and cursed through the pain as he checked for Rebecca, “Are you fi–...”
+
+The words died in his throat as he saw the rebar jutting through her chest. Rebecca wasn’t as lucky as David had been.
+
+So that’s where all the blood was coming from. Realization hit him. His gaze locked on the pool of blood drenching the mattress.
+
+Her death was bad, but David hoped it had been quick, painless.
+
+This is a disaster! How did nobody realize an earthquake of this size would hit the city?!
+
+David retched, his eyes trailing back to Rebecca’s dead body again and again, but no vomit came out. His stomach settled and his mind adjusted slowly.
+
+Was this all just from adrenaline?
+
+As if the earthquake wasn’t enough, probably claiming hundreds, maybe thousands of lives, David had a sickening feeling that this was just the beginning as a rectangular holographic screen appeared before his eyes.
+
+[Congratulations! You survived the integration!]
+
+David blinked, the words blurring slightly as he tried to focus on them.
+
+[The Earthen Union (Planet SD531IOP5) has entered the Pantheon. Primary Integration package has been engraved on the planetary system.]
+
+More screens appeared before him, but his head pounded. Muffled screams rose from the rubble around him, pressing in on him. It was too much to process at once. It was bad enough to think people might be buried alive—but hearing their screams was worse, cutting straight through him.
+
+His eyes widened, and he should have been scared to death, yet he regained his composure after a few seconds. Why was he so calm? It was eerie, even to himself.
+
+David thought about checking the other holographic screens to find out what was going on. It might come in handy. First, he focused on Rebecca. She was dead. There was no doubt about that. But something about her was…odd.
+
+Her fingers twitched, or was it just his imagination? It could have been a natural reaction of her body. Like a final twitch of her nerves.
+
+That doesn’t make any sense.
+
+He inched closer. No, she really was twitching.
+
+“Are you okay, Rebecca?” David cursed as his eyes lay on the rebar piercing through Rebecca, “Of course, you aren’t fine. But don’t worry. Help will arrive soon. Don’t move and stay as calm as possible.”
+
+He tried to reassure her, but she didn’t listen. She moved, blood gushing out of her chest as she lifted her body.
+
+David froze in his tracks for a moment. Too stunned to react, he watched as she shot upright. She sat up with a sickening crunch. ignoring the rebar embedded in her chest. Blood poured from her chest, but Rebecca didn’t flinch. She looked at David, her dark eyes were bloodshot with a tinge of sickly yellow shining in them.
+
+However, that wasn’t the first thing David noticed. The first thing he realized was that her eyes weren’t as vibrant as they used to be. They were dull and lifeless.
+
+She was dead.
+
+A hoarse groan escaped her lips. One moment, David recognized the woman he’d met the night before, and the next moment, she shot forward to attack David with sharp teeth.
+
+He responded a moment too late. His mind was foggy, his body crushed.
+
+Her teeth sank into his shoulder, harder and deeper than he thought possible. She had been small and weak before. Not anymore.
+
+[You have been infected.]
+
+His mind screamed at him to shove her away and run, but his body reacted differently. His hands pulled to the side, searching for something. Moving hurt. It was so painful that even the adrenaline shooting through his body wasn’t enough to push it down. Still, David moved until he found something. His right hand coiled around a fist-sized stone, gripping it tightly.
+
+David did something he’d never imagined he would and his hand shot forward, smashing Rebecca’s head with the stone.
+
+He didn’t hold back, smashing her head over and over – six times in a row – until the unnatural strength in her slim frame finally stopped and she went limp.
+
+David’s breath came in heavy gasps as he stared at Rebecca’s crushed skull
+
+His chest heaved up and down heavily, his hands trembled, and his mind was having trouble comprehending what had just happened.
+
+The rectangular interfaces popping up before him didn’t help David to clear his mind either. He stared at them, while his expression distorted
+
+[You have defeated an Infected(Common). The requirement to unlock the Class System has been met.]
+
+[You have been infected.]
+
+He didn’t have time to consider what the notifications meant as more jumped into existence.
+
+[Infection(Stage One) has entered your bloodstream.]
+
+[Infection’s level increased to stage two.]

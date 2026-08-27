@@ -1,0 +1,42 @@
+---
+id: 0bbc3625-0b98-5ed3-b472-3c069c643914
+page-type-slug: story-chapter-played
+title: "The Dark Crossing"
+slug: 0010-the-dark-crossing
+partOf: dragons-and-dungeons
+position: 10
+ownLength: 1559
+unit: words
+---
+
+Wren came down from the map-stones, the kin-fire vessel breathing blue at her hip, the rubbing-cloth bound across her back. Tygryth kept the dusk-man shape — no dragon on the wing tonight, not into a chain-maker's house. The slavers' broad flat barge waited at the rotted jetty, poles racked, and Wren ducked under the steering-bench and came up with the hooded blue lantern, exactly where the dead man had sworn it would be. She turned it over in her hands and recited it like a grim catechism. "Two flashes off the far dock. We answer with one. Ship the poles. Cargo stays covered till their man tallies it — nobody uncovers the boat on the water." She looked up at the three of us. "Three, maybe four on the dock. The Warden and his rangers are inland, up in the drowned shrine. And the still one's under the eye-mark, where they've bled it three hundred years to put the bite in their iron." A hard swallow. "We take their own boat, fly their own light, and sail it straight down their throat."
+
+I struck the lantern. The blue flame caught on the third try, and it was not a normal fire: it burned cold and low and wrong, a sick lovely color that threw no warmth, the same blue as the kin-fire at Wren's hip but bled of everything kind. I understood, looking at it, that this lantern had been quenched in the same well their iron was. I hooded it, unhooded it, learned its little shutter in the dark, and then Tygryth set the pole to the mud and pushed, and the jetty slid away behind us, and there was only black water.
+
+The crossing was long, and silent, and the worst part of the night.
+
+The barge moved slow — it had to; a barge that hurries is a barge that's afraid, and afraid is a thing watchers notice. So we glided. The Stillwater's careless lights sat low across the water and did not seem to come closer for a long while, and then all at once they did, resolving out of the dark into torch-smear and the bones of a landing, pilings and a half-drowned stone quay, and above it, climbing into the starlight, the broken shoulder of something vast and sunken. A sanctuary, once. I could feel it the way I had only just learned to feel things, eyes half-lidded — a great low wrongness sitting over the whole far shore, and under it, fainter and deeper, a single quiet ache, slow as a tired heartbeat, that I somehow knew without being told was the thing they kept. It did not scream. It had forgotten how. It only ached, down under the closed stone eye, patient as drowning.
+
+The black-scaled girl felt it too. I sensed her go rigid at my shoulder, the grin gone flat, a low sound swallowed in her throat. Her blood. Wren sank lower over the cargo-shape we'd arranged to look right, the kin-fire vessel pressed to her chest, knuckles white. Tygryth poled, even and unhurried, wearing a dead trade like a borrowed coat, and only the set of his jaw said what it cost him to bring his own calm face into the house that had bled his children.
+
+A hundred yards out, the far dock noticed us. A lantern lifted on the quay and flashed — once, twice — the agreed count, lazy, expecting nothing. Tygryth's hand moved to the hooded blue flame and answered. Once. A single shuttered blink across the black water. A pause that lasted a small forever. Then the dock-lantern dipped — accepted, bored — and a voice carried thin across the water, not alarmed, just routine. "Late. Bring it in." The poles shipped. The barge glided the last stretch on its own dark momentum, and now I could count them: three on the quay, a fourth slouched by a brazier further up, loose and unarmored, a crew that had done this a thousand times and never once been the ones in danger. No rangers in sight. The hull kissed the stone quay with a soft grinding nudge, and a tally-man stepped to the edge above us, lantern in one hand and a tally-stick in the other, already bending to count the covered cargo — close enough that I could see the boredom on his face, close enough to smell the smoke on him, close enough to touch.
+
+He leaned in over the covered shape. He reached for the cloth.
+
+I stepped up behind him, set my hands to either side of his head, and twisted, and his neck broke with a small wet crack, and he folded without a sound, the cloth still pinched in his dead fingers. That was the signal to act.
+
+The dock came apart in the space of four breaths.
+
+Tygryth poured the hush out the instant the body dropped. The world went deaf around the quay the way it had at the river — the lap of the water gone, the brazier's crackle gone, a bubble of pure silence thrown over the landing — and into that silence he stopped pretending to be a man. The dusk-shape unfolded into pouring dark, and the two slavers nearest the rail died before their bored faces had finished changing, taken into the black weight of him and simply not there anymore. No shout. No splash. The hush ate it all.
+
+The black-scaled girl was over the gunwale a half-beat behind me, and she went for the third — a cage-hand with the heavy keys still hanging at his belt, a maker of the very locks she had worn that morning. Her hand found his mouth first, palm clamped hard over the shout before it could form, and the obsidian came up her arm in a fast black tide, fingers going to claw; she pulled his head back into her shoulder, gentle as a lover, and opened his throat with the other hand. One clean rake. No cry — she drank the sound right out of his mouth with her palm and lowered him quiet onto the boards so even his falling would not tell on us. For a breath she crouched over him in the dark, and I felt the cold thing in her settle into something terribly like rightness. Under her breath, not for him, just for the dark and the ones still bleeding under the stone: "One."
+
+Wren did the unglamorous, vital thing: off the barge and onto the quay with the bow-line, lashing the hull fast so it could not drift loose and strand us, the kin-fire vessel slung tight to her back, her eyes snapping across the dock for exactly the thing that goes wrong.
+
+And it nearly did. The fourth man, the slouched one up-dock by the brazier, stood just far enough up the stone that the edge of the hush only lapped at him. He felt the wrongness before he understood it — the night gone suddenly, impossibly quiet, his crewmates not where they had been. He could not shout; the hush smothered it to a strangled rasp. But he wheeled and lunged, not for a weapon, for the thing every dock like this keeps: a hung iron bar on a chain by the brazier, the alarm, one good strike from waking the whole drowned shrine above. His hand closed on it. He swung it at the hanging plate — and the darkness that was Tygryth was already there, faster than a falling man, and took him off his feet a hair too late. The iron grazed the plate. Not a full strike. A glancing kiss of metal on metal — and at the very lip of the hush, where the silence frayed thin, it let out one dull, half-swallowed note. A single low clang, there and gone, muffled like a bell heard underwater.
+
+Then the man was gone into the dark with the others, and it was over, and Tygryth let the hush fall. Sound rushed back — water, brazier, my own breath. The dock was ours. Four down, none standing, the barge lashed, the cold blue lantern still burning its sick light over a quay gone suddenly, completely still.
+
+But that one note hung in all our minds. Tygryth re-formed the dusk-man shape at my side, breathing harder than he had been, gold eyes already up the broken stair. "It may have carried," he said low. "It may not. A dropped pot sounds much the same. But assume it did, and assume they are curious." Above us the half-drowned sanctuary climbed into the stars — a broken stair winding up off the far end of the quay into black doorways and torch-glow, and somewhere up there a Warden and a dozen blades who might or might not have just heard a bell. And below all of it, under the closed stone eye, that slow tired ache I had felt clear across the water, waiting where it had waited three hundred years.
+
+Wren cinched the last knot and looked at me, white-faced and ready. "Dock's ours. That's the easy part spent." She nodded up the stair. "Up there's the part that makes chains for a living. Which way, monk — fast and loud before they organize, or quiet and careful before they know we're here?"

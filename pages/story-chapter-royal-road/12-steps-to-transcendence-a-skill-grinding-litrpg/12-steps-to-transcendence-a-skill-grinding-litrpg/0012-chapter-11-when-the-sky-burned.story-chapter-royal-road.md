@@ -1,0 +1,283 @@
+---
+id: be4a5973-1b41-5994-99ae-dbdf0379aaf5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: When The Sky Burned"
+slug: 0012-chapter-11-when-the-sky-burned
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 12
+ownLength: 2246
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3712723/chapter-11-when-the-sky-burned"
+royalRoadId: "3712723"
+---
+
+Ben stepped out of the tent and was hit by a wave of heat. The camp was in chaos. Flames tore through the trees on the west side, lighting up the night sky with an orange glow.
+
+Wherever he looked, ugly green-skinned goblins hacked at the wooden barricades with weapons. Huge trolls crashed through tents as if they were made of wet paper. Massive wolves tore into screaming soldiers, ripping armor and flesh apart easily.
+
+A deep roar cut through the panicked screams and echoed across the campground. Hannah froze, staring into the distance as horror spread across her face.
+
+Ben was completely confused. He blinked and felt his heart pounding in his chest.
+
+What was happening?
+
+Hannah snapped out of her frozen state. Without explaining what she realized, she grabbed his hand in a tight grip and pulled him forward.
+
+"Let's go. We need to go. We need to go."
+
+They broke into a sprint right away.
+
+Ben forced down his panic and let his [Focus] skill fully take over his mind.
+
+It had been active since he first heard the warning bells, but now he desperately needed the cold and mechanical clarity to survive this insane situation.
+
+Massive explosions boomed in the distance, shaking the forest and mixing with terrifying roars. Ben immediately recognized the destructive power behind those blasts.
+
+"That's Logan, isn't it?"
+
+Hannah glanced back at him, eyes wide, and nodded.
+
+Monsters continuously lunged at them as they ran. Keeping a painfully tight hold on his wrist, Hannah quickly dispatched the beasts with her kinetic skills, slamming massive invisible blasts of kinetic energy into the horde. She crushed goblin skulls and launched heavy wolves aside to clear a path.
+
+But there were still too many monsters.
+
+When a pack of snarling wolves surrounded her, she finally let go of his arm so she could fight with both hands.
+
+Ben still felt the shockwaves from Logan's distant explosions rattling his heart.
+
+What on earth is he fighting?
+
+Hannah turned her head and screamed as loud as she could.
+
+"Be careful!"
+
+Snapping his attention forward, Ben barely had time to react. A vicious goblin appeared out of nowhere, swinging a blood stained blade straight at his throat.
+
+Startled out of his mind, Ben realized the damn thing had literally been invisible.
+
+He lit up his heels and used [Fire Burst] to launch himself high into the smoke filled sky. While in the air, he moved his body to head toward Hannah.
+
+There was no way he was going to fight that thing.
+
+He knew he wasn't strong enough to handle this situation. These things had swarmed the camp way too fast.
+
+Before he could even adjust his trajectory, a clawed hand grabbed his leg and pulled him down.
+
+It was the exact same goblin.
+
+How did it jump so high?
+
+Falling rapidly toward the earth, Ben swung his free leg and kicked the goblin's ugly head. Using another [Fire Burst] from his heel, he powered the kick with a strong blast to make it hit much more explosive.
+
+Weeks of tough training had made his foot as hard as a rock.
+
+The blow hit the creature's face with a wet crunch. To his total shock, the goblin's skull completely caved in under the force.
+
+The monster crashed to the ground, dragging Ben down too. A system notification appeared in his vision, but he ignored it. As he rolled across the dirt, Ben narrowly avoided a crude spear from another charging goblin.
+
+He fired a small [Fire Burst] from his heels, knocking the screeching creature off balance. Using the momentum, he scrambled to his feet.
+
+More monsters rushed toward where he landed.
+
+He dodged through the chaos and finally reached Hannah. Standing behind her, he covered her back as they both began to fight.
+
+He lit up his heels and kicked a leaping goblin out of the air, scorching its chest. Two more quickly took its place. Claws ruthlessly raked across his thigh, tearing through fabric and skin.
+
+A heavy wooden club slammed into his shoulder from the side, sending him hurtling to the ground. He cried out loud in pain.
+
+But [Focus] quickly smothered every reaction. He rose with a frown and prepared himself again.
+
+But there were just too many of them.
+
+Ben was overwhelmed in seconds. He was really about to die here.
+
+Well, it had been a good run.
+
+A huge troll stood over them. It lifted a giant wooden club and swung it right at Ben's head. Since Ben was occupied with a goblin, he couldn't dodge in time.
+
+Ben braced for the inevitable crush of his skull. But the hit never came. Instead, Hannah shoved him to the ground and threw herself right in front of the troll.
+
+She threw both hands up and sent a huge wave of kinetic energy at the falling weapon. Still, the club kept coming, as it didn't stop the momentum.
+
+Of course it didn't. Even if she knew how to fight, she wasn't a fighter. She was a healer!
+
+"Hannah!"
+
+The heavy club broke through her invisible barrier and slammed down with unstoppable force.
+
+Oh god.
+
+Hannah's left arm fell limp to her side, blood pouring from the arm. It looked completely crushed, with splintered bones jutting out. Ignoring the pain, she thrust her other hand forward and struck the troll's face with a close range kinetic blast.
+
+The blast sent the huge beast crashing into a burning barricade.
+
+Stumbling on her feet, Hannah collapsed heavily to her knees. Her left arm was a mangled, flattened mess of ruined flesh and protruding bone hanging by a thread.
+
+It was completely destroyed.
+
+Ben scrambled across the dirt and caught her just before her face hit the ground.
+
+"No, no, no!"
+
+Grabbing her by the shoulder, he desperately tried to support her weight as he moved with her.
+
+"Why're you not healing yourself? Heal yourself!"
+
+"I'm fine, I'm fine, keep moving!"
+
+The chaos around them left no time to catch their breath. Ben cursed. Suddenly, all the monsters stopped, and an eerie silence took hold.
+
+What?
+
+Ben looked up at the smoky sky and felt his stomach sink. In the distance, a familiar figure was thrown high into the air.
+
+He knew right away who it was.
+
+Logan?
+
+Before he could react, the ground shook under his feet. From the burning trees ahead, a huge and frightening shadow leaped into the sky.
+
+The beast spread its huge, leathery wings and blocked out the orange firelight. Ben finally felt horror gripping his throat.
+
+"Is that a dragon?!"
+
+Hannah grabbed his shoulder and shook her head hard.
+
+"No. Keep moving!"
+
+She pulled him forward, forcing them to run faster. Above them, the draconic creature flew by and released a huge wave of blinding fire and destruction.
+
+Hannah dodged wildly, dragging Ben out of the path of falling debris and the monster’s attacks.
+
+And then, things somehow got even worse.
+
+A huge wooden watchtower above them cracked and collapsed. The heavy structure crashed down toward them. Hannah barely managed to shout a warning before the tower’s shadow covered them. She threw herself over Ben, and he braced for an impact that would surely crush them both.
+
+But one of the support beams hit a jagged boulder, making the whole structure tilt at the last second. What should have been a fatal blow turned into a glancing hit.
+
+A support beam slammed down just inches from Hannah’s head instead of hitting her. The roof of the tower jammed against a half-buried boulder, leaving a small pocket of open air around them.
+
+Splinters and dust fell on them, and something heavy clipped Ben's shoulder hard enough to make him cry out.
+
+They were trapped under the debris before they could even do anything. But they were alive. Somehow, against all odds, they had survived.
+
+This was a terrible situation.
+
+Ben struggled in the cramped darkness, trying to push the massive wooden beam off them.
+
+It wouldn’t budge.
+
+He lit his heels and tried to use [Fire Burst] to blow the wood away. The wood moved and fell onto his leg. He screamed in pain and started breathing heavily as [Focus] curbed any and all emotions.
+
+Before Ben could do anything else, he heard a crash outside. Duncan appeared, ripping the heavy wooden beams apart with sheer strength. He pulled them out of the wreckage and grabbed Ben by the collar, lifting him up.
+
+Duncan ran through the burning camp, carrying Ben like a sack of potatoes. Ben looked around at the destruction all around and at the creature in the sky wreaking havoc in the distance. Then he saw Hannah, who Duncan had also grabbed.
+
+She was unconscious and bloody, but she was still breathing. Seeing her like that made him feel deeply guilty.
+
+Looking ahead, Ben realized they were heading toward someone he recognized.
+
+The commander?
+
+Ben tried to make sense of what was happening.
+
+"What's going on?"
+
+Duncan stared straight ahead and clenched his jaw.
+
+"We were wrong."
+
+The big man kept running.
+
+"The high mana levels should have been enough of an indication. We were wrong."
+
+He jumped over a dead troll.
+
+"The mana spike wasn't some kind of rift. It wasn't a red zone or a forbidden zone."
+
+Duncan held Ben tighter.
+
+"It was a goddamn wyvern spawner, and it's been growing all this time silently. And now it's probably out of control."
+
+A wyvern? Really?
+
+Ben had no time for more questions. They skidded to a stop in front of the old commander.
+
+The old man stood in the middle of the chaos, drawing in so much mana that even Ben, with his [Mana Sense], could feel it.
+
+The old man looked at Ben, then at Duncan, silently asking a question with his eyes.
+
+Duncan gave a quick nod and pushed Ben forward.
+
+"Yes, yes, I want to do it. Do you have enough mana to handle that thing afterward?"
+
+"Yes."
+
+Wait, what?
+
+Struggling violently, Ben instantly ignited his heels, trying to blast himself backward and break free. He needed to stay. There was nothing for him outside.
+
+He didn’t deserve to live if everyone else died. He didn’t deserve so many second chances.
+
+Ben stared at Duncan, his face empty but his eyes burning with anger as [Focus] slipped a bit.
+
+"I want to stay here. I want to help."
+
+Duncan swung his big hand and slapped Ben hard across the face. The blow rattled Ben’s head and knocked him to the ground. Duncan glared down at him, furious.
+
+"You are a liability. Do you think a Tier 1 can do anything here? What, did you think using that [Focus] skill of yours would make me think you're brave? Do you even know what a wyvern is?"
+
+Duncan scoffed loudly and didn’t bother waiting for an answer.
+
+"Of course you don't."
+
+Duncan grabbed Ben by the collar again and shoved him toward the glowing portal the commander had just finished opening.
+
+Ben stumbled backward and felt time slow to a crawl.
+
+He looked past Duncan’s broad shoulders and felt his heart stop. The massive wyvern was dropping straight toward the camp, growing larger as its jaws unhinged.
+
+Blinding, scorching fire burst from its throat, aimed straight at them. It was probably because of all the mana the old man was gathering for his portal.
+
+Ben knew, logically, that he was about to watch them burn to ashes. Still, he believed that a little fire wouldn’t hurt someone like Duncan or the old man. Right?
+
+He opened his mouth and tried to force out a warning.
+
+But his vocal cords refused to move.
+
+[Focus] clamped down on his mind with absolute, suffocating authority and wiped out every trace of panic.
+
+He couldn't feel a damn thing.
+
+He fell backward and hit the spatial portal.
+
+[Focus Lvl 1 > Lvl 2]
+
+[Focus Lvl 2 > Lvl 3]
+
+[Focus Lvl 3 > Lvl 4]
+
+Hurtling through the spatial tear, Ben just watched the destruction fade away with calm, empty eyes.
+
+Colors blurred and blended as he tumbled endlessly through the cold emptiness of space.
+
+Ben spun head over heels, feeling as if his whole body had been thrown into a giant blender. The sensation made him sick. In this strange tunnel of color, he couldn’t tell which way was up or down.
+
+How long is this teleportation supposed to take?
+
+He squeezed his eyes shut, but he couldn't tell if it made a difference. Everything was just a blinding swirl of light pressing against his head. [Focus] was still on, and he didn’t want to turn it off.
+
+Suddenly, the void broke apart around him like glass. He was thrown out of the portal, and gravity took hold of him again.
+
+And Ben was falling.
+
+He flailed in the empty air, trying to steady himself with [Fire Burst]. Pain shot through his leg and shoulder, and he realized both were injured.
+
+He was falling too quickly. The ground rushed up to meet him way too fast.
+
+Crashing through a thick canopy of branches, he snapped wood and leaves on his rapid descent. Fresh agony instantly flared across his already battered and bruised body.
+
+He tumbled out of the trees and slammed into the ground. Air got knocked out of his lungs. Rolling helplessly across the ground to a halt, he groaned in absolute misery as his head slammed into something incredibly hard.
+
+Unconsciousness was an absolute relief.

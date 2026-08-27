@@ -1,0 +1,241 @@
+---
+id: ec06d631-9b72-5c74-8505-389a9ffc90d9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21: Teenagers"
+slug: 0022-chapter-21-teenagers
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 22
+ownLength: 1605
+unit: words
+publishedAt: 2026-08-01
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3756701/chapter-21-teenagers"
+royalRoadId: "3756701"
+---
+
+Ben just looked at the three teenagers. They actually thought they were being intimidating.
+
+They really are just kids.
+
+Seeing the complete lack of fear, the noble kid's face flushed an ugly shade of red. Snatching a large, uncorked waterskin from his lackey's hands, the boy stepped directly into Ben's personal space.
+
+And he upended the entire thing right over Ben's head.
+
+It instantly soaked right through his hair, matting it flat against his skull. The icy liquid poured down his face, dripping into his eyes and sliding down his neck.
+
+In seconds, his thin shirt was completely plastered to his chest.
+
+The entire surrounding crowd went dead silent. Nobody even breathed.
+
+And then, someone in the back snickered.
+
+A few more scattered chuckles immediately broke out through the gathered teenagers.
+
+Ben slowly blinked the cold water from his eyes. It was dripping off the tip of his nose and pooling directly into his boots.
+
+It was incredibly uncomfortable. And the crowd was laughing at him. But looking down at the heavy breathing teenager, Ben didn't feel a shred of anger.
+
+He just felt incredibly exhausted.
+
+...Is he done?
+
+He wasn't going to beat up a literal child throwing a desperate tantrum. It simply wasn't worth the inevitable political fallout.
+
+Getting wet was a mild annoyance at best, but getting dragged into a noble blood feud would be a headache.
+
+"What, you don't want to spar with me anymore?" The kid sneered, throwing the empty waterskin right into the mud at Ben's feet. "Are you afraid?"
+
+Ben just stared blankly at the kid.
+
+Grinding his teeth, the boy completely lost his temper.
+
+"Fight me!"
+
+Lunging forward, the noble brat suddenly threw a wild, highly telegraphed punch aimed right at Ben's jaw.
+
+The kid's fist moved incredibly slowly in his enhanced vision. It was honestly just disappointing.
+
+I've literally fought Duncan, Logan, and Hannah.
+
+Compared to those absolute monsters, this kid was moving through thick mud. Shifting his weight slightly, Ben simply leaned his head an inch to the side.
+
+Stumbling wildly, the noble kid punched nothing but empty air. The sheer momentum carried the boy forward, making him trip awkwardly over his own boots.
+
+He barely caught himself before falling.
+
+Turning his back on the entire ridiculous scene, Ben just started walking away.
+
+His boots squelched slightly from the water, but his stride was completely steady. He ignored the burning glares and the whispers.
+
+He just wanted to leave.
+
+Stepping out from behind a large supply tent as Ben was about to walk out of the camp, a massive figure suddenly blocked his path.
+
+Ben stopped.
+
+"You." Arthur pointed a massive, gauntleted finger right at Ben's chest. "Come with me."
+
+...Of course.
+
+Ben wanted to sigh. Still, he followed the man without a word.
+
+Pushing aside the heavy canvas flap, Arthur practically shoved him inside the tent.
+
+Well, this is cozy.
+
+Ben looked around the tent in surprise. It really was surprisingly cosy.
+
+Gesturing vaguely toward a wooden stool, the massive knight crossed his arms over his chest.
+
+"Sit."
+
+Ben dropped onto the seat.
+
+"What's up?"
+
+He really didn't have the energy to argue right now. And Arthur didn't waste a second with pleasantries.
+
+"Full name."
+
+"Benjamin."
+
+"I said, full name."
+
+"That's it."
+
+Arthur frowned at his answer.
+
+"My family doesn't have one. My ancestors were serfs who bought their freedom, and nobody ever bothered taking a surname."
+
+Arthur's frown deepened but he didn't say anything about it.
+
+"Age."
+
+"Fourteen."
+
+"Family."
+
+"Dead."
+
+Firing off questions like a machine gun, the imposing man went down a checklist. He asked about hometown, previous affiliations, and everything else under the sun.
+
+Ben came up with most of it. Leaning back slightly, Ben just gave him the most boring, generic answers possible.
+
+He wasn't about to spill his life story to a complete stranger.
+
+Pausing for a long moment, Arthur narrowed his eyes at him.
+
+"You were quite injured when we found you. I didn't want to bother you before, but now that you've recovered, I have to ask."
+
+Arthur leaned down, putting his face uncomfortably close to Ben's.
+
+"Who exactly are you? And what were you doing out here?"
+
+Ah, the million dollar question.
+
+Keeping his face entirely blank, Ben offered a helpless little shrug.
+
+"I got lost."
+
+Arthur didn't even blink.
+
+"I was just trying to find my way back. I was actually about to leave right now."
+
+Staring down at him, the massive man just delivered a completely flat, deadpan look.
+
+"You are miles away from any sort of civilization. No one really comes to this place often. Do you take me for an idiot, Benjamin?"
+
+...Shit.
+
+Ben kept his outward expression perfectly neutral. He internally understood exactly why the guy was being so suspicious.
+
+It really did look incredibly sketchy.
+
+Being found half dead in the absolute middle of nowhere wasn't exactly a normal Tuesday. And he honestly had no idea that anything remotely close to civilization was miles away.
+
+How was I supposed to know this place was so far away from civilization?
+
+It was incredibly lucky, then, that he stumbled into them… or had that been the commander's intention to begin with? Did that man foresee this? Still, he desperately needed a better excuse.
+
+Because he definitely couldn't tell the truth.
+
+Saying he was magically teleported here all the way from the Central Plains would sound completely insane.
+
+Think, Ben, think.
+
+Scrambling for a plausible lie, he quickly pieced together a semi believable story based on common fantasy bullshit.
+
+Rubbing the back of his neck, Ben let out a sigh.
+
+"Fine. I bought a cheap escape scroll from a shady merchant back in the Central Plains."
+
+Looking away, he tried to project an aura of extreme embarrassment.
+
+"Some bandits jumped me, I panicked and ripped the scroll."
+
+Meeting Arthur's skeptical gaze, Ben threw his hands up in defeat.
+
+"Instead of taking me to the next town, the damn thing malfunctioned and spat me out into a random forest. I didn't know I was in a different region entirely."
+
+He genuinely had no idea where he even was right now, making the helpless act completely real.
+
+Hopefully, faulty spatial magic is an actual thing here…
+
+Arthur just kept staring at him.
+
+"You mean to say, a faulty escape scroll chewed you up and threw you out in another region entirely?"
+
+"Yes."
+
+"I do not sense any falsehoods with my [Sense Lie]. Do you even know what's on the border of each region, boy?"
+
+"Yes, the regional walls…"
+
+"Do you know that the scroll would have had to have been extremely high tier for it to send you through that?"
+
+"Probably, yeah."
+
+"Don't you find it suspicious you'd buy such a thing from some random merchant?"
+
+"Look, man, what do you want me to say? I'm as clueless as the next person here. For all I know it could've been some high Tier cultivator in disguise testing their scrolls!"
+
+He portrayed himself a bit outraged at the constant questions. And Arthur did seem affected. So Ben leaned more into the young angle.
+
+"I got teleported to a random place. I had to fend for myself. Everything was so scary and it hurt. And now you are interrogating me, too. I just want to leave and find some place to say, honestly."
+
+"What do you want to do going forward, then?"
+
+Arthur looked a bit ashamed.
+
+"I don't know, my goal back home was to get to an academy, but that's out of the window now. So maybe I'll just settle in some town with a rift nearby and use that to get stronger or something?"
+
+Arthur smiled.
+
+Did I say something wrong…?
+
+"You wanted to go to an academy? Well, you're lucky, this expedition is for something like that in the first place. You might be a bit young though. You can join once you're fifteen. You could just follow us, if you want to. Or we can drop you at the nearest village or town we cross."
+
+Ben was surprised.
+
+"You really are from the Central Plains. Everyone knows about the expeditions here. It's a celebrated festival, of sorts, in remembrance of a Hero of the past. We follow the river to honor him. He was given the title of Worldcarver after forging the regional walls. Everyone celebrates, while we follow the Worldcarver's River from its source near the Wall all the way to the Sea. We're supposed to brave the wilds ourselves until we reach the Academy his descendants made near the ocean. A path literally carved by a legendary figure in the aftermath of forging the regional walls."
+
+Huh.
+
+That was actually a pretty crazy geographical feat.
+
+"So we have noble children from pretty much the whole region fly over and do the expedition. Or at least, those interested. After all, there is more than one Wall. My point for telling you all of this is that you seem talented, House Vale wouldn't mind sponsoring you to the academy"
+
+"I see."
+
+Ben nodded.
+
+"Thank you for sharing this information with me. I will think about it. Still, do I need a sponsorship to get in?"
+
+"Not at all. The academy is open to everyone. Everyone has to pass the tests to get in. Sponsorship or not does not matter."
+
+"I see."
+
+"You are free to go."
+
+Ben stood up, making sure to be relaxed about doing so. As he left, Arthur called out to him one last time.
+
+"Oh, and I would really suggest accepting that spar. It will only be beneficial even if the young master's intentions may not be good."

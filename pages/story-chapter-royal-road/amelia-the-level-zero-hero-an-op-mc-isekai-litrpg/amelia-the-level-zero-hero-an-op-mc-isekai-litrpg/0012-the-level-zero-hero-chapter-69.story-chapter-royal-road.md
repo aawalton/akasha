@@ -1,0 +1,193 @@
+---
+id: 47dc69ea-9e9e-575b-b2f6-b06382c3c3da
+page-type-slug: story-chapter-royal-road
+title: "The Level Zero Hero Chapter 69"
+slug: 0012-the-level-zero-hero-chapter-69
+partOf: amelia-the-level-zero-hero-an-op-mc-isekai-litrpg
+position: 12
+ownLength: 2124
+unit: words
+publishedAt: 2023-02-25
+link: "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1122844/the-level-zero-hero-chapter-69"
+royalRoadId: "1122844"
+---
+
+“This is…” Xakor frowned as he eyed the sizzling meal I had prepared for him.
+
+I waited, arms-crossed, and tapping a finger on my elbow. His beady black eyes didn’t narrow, but I could see a glimmer within them. A hint of intrigue. A bit of disgust. I pursed my lips as he picked up the bun, and grease from the patty dripped onto the porcelain plate.
+
+“And you call it a burger?” he said with a frown.
+
+I nodded. “Yeah… it’s really not the healthiest thing around, but it’s the most popular dish in America. It normally comes with fries.”
+
+“And what are fries?” Xakor asked curiously. “Are they healthy side dishes that come with the burger?”
+
+“Deep fried sliced potato,” I said, shrugging. “So…”
+
+“Not great for your health either,” he sighed.
+
+“Yeah, not great,” I agreed. I shook my head and took a step back.
+
+We were in the kitchen, and I had just finished making the burger. I could feel Xakor’s judgmental stare the entire way through even during the preparation process. He was curious, but he was also reviled by the amount of grease and fat in the meal.
+
+“But I assure you—” I said as I heard a soft cluck. Behind me, Bucky drew closer, still wary of the purple-skinned man. I shook my head and finished. “—it tastes great.”
+
+Xakor pursed his lips. “We shall see.” And with that, he took a bite out of the burger.
+
+I watched as his cheeks peeled back, opening like a starfish, before he chomped down on the bread. I blinked. Bucky recoiled in terror, dashing off. And half the burger vanished from a single bite. Xakor chewed for a moment before swallowing as I just stared at him.
+
+“Uh… what was that?” I asked, processing what I just saw.
+
+Xakor took another bite, finishing the burger. He wiped his lips as he faced me. “Xrr, that is simply how my people eat. It is quick, efficient, and it lets us savor the taste.”
+
+“How can you do that when you literally finish your meals in two bites?” I said flatly.
+
+He shrugged. “We have glands on the sides of our cheeks that let us taste more than any other race in Krakos. Or at least— in the galaxy we resided in.”
+
+“I… see.” I raised a brow. I watched as he licked his fingers and nodded at himself. “So what do you think?”
+
+“Excellent,” Xakor said as he grinned at me. “It is indeed quite delectable.”
+
+I waited for a ‘but’ or anything of the like. But he just cleared his throat.
+
+“I can see why such a dish grew to be so ubiquitous back in your world, Amelia.” He got to his feet as I raised a brow.
+
+“You aren’t going to critique it?”
+
+“I would say that you are a rather unrefined chef— not [Chef], but chef.”
+
+“Right…”
+
+Xakor shook his head and gestured towards the empty plate. “However, while there was nothing overtly bad about that burger— beyond the unhealthiness aspect— there is nothing special about it either.”
+
+I frowned. “What do you mean by that?”
+
+He just chuckled and took a step back. “Come, let me show you how a [Chef] would prepare such a meal.” He swept his way through the kitchen as Bucky backed away.
+
+The chicken watched with round eyes as Xakor seized everything in the kitchen with all four of his arms. He held a knife in one hand, carrying a frying pan in another. And with his remaining two hands, he smashed a chunk of meat, mincing it into a patty with ease.
+
+I stared on as the [Chef] prepared the stove. He was quick and efficient. He diced up onions as he was rolling the patty into a ball. He tapped a finger against the pan and muttered to himself.
+
+“Seems about right…”
+
+“What are you doing?” I asked curiously.
+
+“[Detect Temperature],” he said with a chuckle. “It’s a Passive Skill. I know the heat of anything I touch so that I can cook it all to the perfect temperature.”
+
+“Isn’t it… hot?” I raised a brow. It wasn’t hot to me, of course. And I knew that most [Warriors] or the like could stand a little bit of heat. But Xakor was a [Chef], not a [Warrior] or anything similarthe like.
+
+He just waved one of his hands dismissively. “[Heat Tolerance]. Every [Chef] gets that Skill at Level 20. Now, xrr… you haven’t seen anything just yet.”
+
+Xakor smashed the patty against the frying pan as I narrowed my eyes. He was cooking it normally, but also many times faster than I did. He raised a hand over the pan as he whispered.
+
+“[Control Cook].” In what seemed like a minute, the patty was fully cooked on both sides, with a beautiful flaky crust. He presented the burger to me as I blinked.
+
+“Is that it?”
+
+“Of course not,” Xakor chortled. “Xrr, this was just the first step. Next we… [Freeze Dry].”
+
+“Uh, what?”
+
+I watched as the burger was suddenly drained of all its moisture. Xakor picked it up and knocked a knuckle against it lightly. It was hard as a rock. He lowered it into a bowl as he raised a fist.
+
+“Next step, we turn it into dust.” He spoke casually, then he punched it.
+
+I stared hesitantly. Is this really what high-leveled [Chefs] did in this world? Or maybe it was what chefs did in his world. Either way, I really wasn’t sure what to say. I could only look on at a loss for words. I had literally never seen anyone seriously punch what they were cookingtheir food before.
+
+“I… uh, is this normal?” I asked. “I have literally never seen anyone punch what they’re cooking before— especially after they already cooked it.”
+
+Xakor craned his neck back to face me as he swung wildly, crushing the dried burger into crumbs in a bowl. “I assure you, this is very much part of the process.”
+
+“That doesn’t answer my question…” I murmured, but didn’t stop him.
+
+That was just such an odd thing to do while cooking, but I wasn’t much of a chef in the first place, so I just trusted his process. I looked on as he ground the dried burger into tiny flakes. At the same time he He then prepared another patty and thenbefore sprinkleding the dust over the meat.
+
+“[Infuse Seasoning],” he whispered, before he began to cook thea second fresh burger.
+
+When he was finished, he slid a plate over to me as he cut the burger in half. I stared at the light pink meat, open in the middle. Its juices drizzled down as I cocked an eyebrow.
+
+“Presentation,” Xakor said as he raised a finger. His middle finger. Because his hands only had three fingers each. “That is the second most important aspect of being a [Chef].”
+
+His burger certainly looked nicer than mine. I had just slapped a pair of buns together with some vegetables over a patty. But his burger was literally glistening. It even exuded an aroma that drew Bucky out from her hiding spot.
+
+“And what’s the most important aspect?” I asked
+
+Xakor picked up one half of the burger, before breaking off a piece. He bent over and fed some crumbs to Bucky. The chicken hesitantly pecked up the bits of burger. Then she squawked in excitement.
+
+All her apprehension towards Xakor from before was gone. She sidled up next to him, clucking and begging for more. The Patron of the Culinary Sciences just laughed.
+
+“Taste,” he said. “And trust me, my cooking is fantastic.”
+
+I narrowed my eyes, looking towards the remaining half of the burger curiously. I picked it up and softly nibbled on its side. My eyes widened as I took another bite.
+
+“This—” I stared at Xakor in shock as he smirked.
+
+“Now, what do you think?” he asked.
+
+I lowered the burger and looked at the bite I had taken. I furrowed my brows as I tapped a finger on my chin.
+
+“It’s almost like… I just had two burgers at once. But in a good way. Like its taste was compounded.” That was the best way I could describe what I just had.
+
+Xakor nodded. “That is just from cooking alone. I have a few Passive Skills too, of course. [Appetizing Delicacy] is one. [Enhance Tastes] is another.”
+
+He tapped a finger on the burger, before gesturing for me to try it again. I did, and it was now three-times as delicious as before. And it wasn’t overwhelming, either. It was just everything I specifically liked in a burger. Not only that, a single bite had satiated my hunger. I just looked at Xakor, completely blown away by his Skills.
+
+He continued, “But this is why no one would hire you as a [Chef], Amelia.”
+
+I pursed my lips. “Because… I suck at cooking?”
+
+“Xrr, incorrect,” the Patron of the Culinary Sciences said. “Most people can cook. And they can cook decently enough. So why should they pay for your food when they can make their own food at home?”
+
+I blinked, and he wagged a finger at me like he was giving a lecture.
+
+“If they’re going to eat out, they’ll either eat cheap meals, or they’ll eat something cooked by a proper [Chef]. Maybe a [Cook]— but even low-leveled [Cooks] have Skills that can refine a mass-produced meal to a certain extent.”
+
+Xakor shook his head.
+
+“The ingredients to make a burger are expensive. Most dishes here in Vacuos are just made from two or three ingredients. Xrr… you probably had to price it quite high, and to get anyone to try new food— you’d need some level of reputation. If no one knows of you as a high-leveled [Chef], then you may as well be selling them trash.”
+
+“Right.” I scratched my cheek. I did have a reputation in Windrip— and it certainly wasn’t that of being a [Cook] or a [Chef]. Everyone back there knew of me as an adventurer. Maybe that played into their biases… along with the price.
+
+Bucky clucked below Xakor, and he sprinkled more crumbs of the burger at her. She happily feasted on the bits of meat and bread as I eyed her.
+
+“She’s going to get fat. This is her third lunch for today.”
+
+“It’s fine,” Xakor said, waving a hand off. “Now I don’t think your cooking is bad. I think that your issue is that you need to put more effort into your meals so you can actually competecompare with a Level 20 [Chef].”
+
+He paused and tilted his head back.
+
+“...xrr, also you need to have better marketing skills. That is the third most important aspect of being a [Chef].”
+
+“That’s a lot.” I leant back on my chain and sighed. “How did you even become a [Chef], anyways?”
+
+I wondered if he had to struggle to acclimate to this world. Vacuos functioned vastly differently from Earth. And judging based purely on what Xakor had said about Krakos, things were even more different there.
+
+But Xakor shrugged. “I just started cooking.”
+
+“I… should have expected that,” I sighed.
+
+—--
+
+Ding!
+
+[In Progress: (3/5) Rifts Investigated!]
+
+Once again, Guardian Angel Z357 could not determine anything of use at the site of the rift. Space had torn and mended back like nothing in the middle of the vast forest. He had scoured far and wide, only to find the brief signs of a battle in the middle of an abandoned road.
+
+But he did not detect any traces of the Void here. That was different compared to the previous sites. And this anomaly made him realize that even if he completed his first minor objective, he might not learn anything substantive.
+
+So Guardian Angel Z357 took to the skies, temporarily placing his investigations on hold. Instead, he sought out the only ones who could aid him during this time of need. The allies he had gathered over ten thousand years ago.
+
+The Grand Nova Empire.
+
+He headed for the floating city— for the nation that hovered above the clouds. It was located between all four continents. Or… three, now. And there, he would recruit the assistance of the Grand Elder Dragon Arrak’tun.
+
+So he soared above the clouds, searching for the flying rocks. He looked on for the giant buildings. He scanned his surroundings for the floating mounds.
+
+And he found nothing.
+
+Guardian Angel Z357 could not find the Grand Nova Empire’s Capital City.  Even as he flitted around, before activating his Techniques. All he found above the clouds was… the air.
+
+A single thought crossed his mind.
+
+…where are all the Elder Dragons?

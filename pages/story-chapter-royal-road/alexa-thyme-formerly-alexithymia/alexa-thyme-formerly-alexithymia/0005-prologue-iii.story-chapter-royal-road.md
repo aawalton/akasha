@@ -1,0 +1,129 @@
+---
+id: 98f0cb04-e36d-57b4-9f1d-53c32a9f5d22
+page-type-slug: story-chapter-royal-road
+title: "Prologue III"
+slug: 0005-prologue-iii
+partOf: alexa-thyme-formerly-alexithymia
+position: 5
+ownLength: 1588
+unit: words
+publishedAt: 2023-01-09
+link: "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1083358/prologue-iii"
+royalRoadId: "1083358"
+---
+
+Prologue III
+
+Monday Morning
+
+Time Until Integration: 1 Month 26 Days, 18 Hours…
+
+It had come, it had come and gone so quickly that Gina didn’t even realize it was a good thing until now. She had been alone, granted autonomy, been allowed to die in peace and then that all changed. She had not only fully recovered but so remarkably that both of her parents, Victor and Camila Rojas both, decided to uproot themselves from whatever crime they were currently in and come to see her.
+
+This was terrible, no one deserved their undivided attention. They were terrible people, truly terrible people and what was worse, Gina knew it. She knew they were terrible, and she never did anything about it. In past she had heard that her condition was a direct result of their actions, and while she didn’t know for certain, that she had always held a smidgeon of hope that she had been wrong, when she spoke to Sarah Stevens, the U.K. Prime Minister’s daughter, she let it slip that their names and identities were well known.
+
+Gina didn’t know who the bodyguard was, but he seemed rather confident when just having to deal with her father, the Red Demonio. Just hearing his name sent chills down her spine, as she knew what the man had been credited with doing in her home country of Columbia. Then when the mention of her mother came to light as well, that was when both Sarah and the Bodyguard both became nervous.
+
+Gina of course had heard her called the Red Countess before, but never by someone outside the country. The name should be completely hush hush, as she never let anyone live who heard the name.
+
+But now that had all changed, everything had changed as she saw them both get driven in a large limousine onto campus.
+
+As she got here, Ms. Peacock and Mr. Mackie both were here, along with a few extra security personnel who Gina had never seen before. At first Gina thought they were friends of Mackie that he had called in, but as it turns out only half were known to him. The other half tended to keep to themselves and had a very polished look to them. Instantly, Gina knew that group to be the British secret forces that were sent in to assist with today.
+
+Her father, Victor Rojas, was the first to get out. He was a tall dark muscular man who all but radiated power in a way that most civilians, or those who hadn’t been awakened, could easily detect.
+
+Victor made his way around the limousine and personally opened the door for his wife, Gina’s mother to be seen. Seeing her, Gina could all but hear the gasps from all the men who were watching the little display of power and opulence.
+
+Gina of course knew what she would see, a long dark-haired beauty who could rival even Alexa’s fair looks. She was regal in a way that all but captivated men’s hearts. She swayed her hips in a rhythmic motion meant to seduce anyone who gazed upon her for too long. The movement reminded Gina of the way a viper would slowly slither its way forward, before striking at its prey.
+
+The two walked hand in hand until they were a mere foot away. The entire time they walked, Gina could feel waves of power radiating off of them.
+
+“Hello Mother, Father.” Gina managed before bowing slightly.
+
+“Why look at you. I read the reports, but they don’t speak nearly well. This is clearly a full recovery.” Camila said, as she held out one elegantly gloved hand and turned Gina’s head this way and that. “This is all the work of that Aru’ka healer I have been hearing so much about?”
+
+“My friend healed me. I cannot comment on any Supers, training or otherwise.” I say, with a nervous gesture and slight head tilt towards Mr. Mackie.
+
+Of course, Mr. Mackie made sure I stick to the script on this.
+
+“Oh right, right. Well, I always knew you had a good eye for talent. I also saw in your expense reports that you originally went on a date with one Alexa Thyme?”
+
+Gulp.
+
+“Yes, those expenses were justified.”
+
+“I’d say so, if they got you to be friends with your healer friend.” Camila said, as she draped one arm around Gina and gently spun her about. “Come now, you simply must show me to this, friend.”
+
+Badum, badum.
+
+At that Gina’s heart went racing at the thought. At first, she wanted to protect Alexa from meeting her parents, secondly, she didn’t know how her mother would react to her not being here.
+
+“I must tell you that she isn’t here right now.” Gina asked.
+
+“Ah yes, dungeon delving?”
+
+Gina nodded, wondering how she knew. Then again, knowing her Gina figured she likely had informants either on campus or scanning the social media sites of every student here trying to get information on her and Alexa.
+
+“Not to worry, you are so tense. Look at you. Having a friend who is so accomplished, this only looks well on you. And for what its worth, I approve.”
+
+“You approve?”
+
+“Of your relationship. I approve of any and all expenses meant to woo her heart.” Camila said, squeezing Gina tightly into her over endowed bosom.
+
+At first Gina felt a surge of anger swelling up inside of her, she didn’t need anyone’s permission to do anything, especially not when it came to love. But then she calmed herself, she needed to be rational about this. The less of a stink she made, the better for everyone.
+
+“Oh, look at you, so confident now. I can all but taste it off of you.” Camila said, purring into Gina’s ear. At that, Gina felt a shiver of cold run down her, as she knew that voice. That was the voice of her nightmares. One time she had seen her mother in her true form, the sick monster that she truly was. She saw her rip into Benitini, one of the rival Supers in our turf. Well in the turf that her parents claimed. Everyone thought that father was the true monster, even going so far as to call him the Red Demon, but her mother was the true monster. Worse, she was the monster who hid behind her charm and good looks to get what she wanted.
+
+“Hahah.” Gina forced out a nervous laugh, but then decided to break away as she didn’t want that voice to be anywhere near her neck. “Come on let’s go see the campus.”
+
+The three of them began moving and Gina could see a few of the security guards and staff following their little entourage discretely.
+
+“Don’t worry dear, staff like that are nothing compared to true strength.” Camila said, lovingly as she patted Gina on the shoulder.
+
+“AHHP!” A sharp high-pitched yelp was heard coming from their right.
+
+Everyone turned to see a tall figure running away from them. A male that looked remarkably like Luke Thyme, Alexa’s paternal twin brother.
+
+“Who was that?” Victor asked from behind, as he made his way to walk by Gina’s other side. Making it so that she was now flanked by both of her parents.
+
+“That, well that was Luke Thyme, my dear, you never told me our healer had a twin brother?” Camila said, as she licked her lips in some type of sick pattern. The movement reminded Gina of a hungry snake who had found a meal.
+
+“Why not go after the brother?” Victor asked, in his typical way that spoke of not quite understanding her life, nor her choices.
+
+“Dear, we have already said this, that is not who our little Gina is. Besides, while he might be something, I doubt he is anything in the brilliance of his sister.”
+
+“Oh, come on. The boy was tall, muscular, and had a slotted class.”
+
+“Yes, but did you see his powers?”
+
+“No, you know I can’t.”
+
+“Well I can, and he only had one. If what I have read about the girl our Gina is after is anywhere close to truthful, then she has five Magic schools opened.”
+
+“You mean a school to Tier five, that is nothing.”
+
+“No, I mean five schools of magic, period.” Camila said.
+
+“Just who is your source?” Victor asked.
+
+At that Camila just gave a who do you think glance back.
+
+“You asked him?”
+
+“No, he provided the information freely. He has been pushing for this meeting for quite some time.”
+
+At that, Gina’s heart began to beat. There was only one person that both her parents would speak of like that. One person who her mother would bow and scrape to.
+
+“Should we go after him?” Victor asked.
+
+“No, need. I have placed a tracking spell on him. He will not be able to hide from me if he ran into a dungeon.”
+
+Gulp.
+
+At that Gina felt something get caught in her throat as she worried about how her sleepy little life would soon change.
+
+“Come dear. Let me see this Julie person you spoke so highly about, as well.” Camila said.
+
+At that, Gina wondered why she fought so desperately for her mother’s attention, for anyone’s attention back home. She had been so close to her own freedom that she didn’t realize how good she had things until they were gone.
+
+“Sure.” Gina said, trying to fake enthusiasm, but failing miserably in the process.

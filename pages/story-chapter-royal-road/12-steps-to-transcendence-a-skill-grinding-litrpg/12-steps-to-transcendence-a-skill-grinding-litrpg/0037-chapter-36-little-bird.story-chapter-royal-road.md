@@ -1,0 +1,267 @@
+---
+id: c7eef4d2-ae0d-57a6-8a6e-b49bb0b07731
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36: Little Bird"
+slug: 0037-chapter-36-little-bird
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 37
+ownLength: 2142
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3827545/chapter-36-little-bird"
+royalRoadId: "3827545"
+---
+
+Arthur POV
+
+Fidgeting nervously, Arthur kept his eyes glued firmly to the floor. He absolutely refused to look at the woman sitting across the tent.
+
+Because frankly, she was terrifying.
+
+Lady Eris was a Tier 5 mage, and easily one of the most established powerhouses in the entire House. Expected to ascend to immortality with the next Tier soon, she was just biding her time, and doing whatever she wanted. That was the entire reason she was here to begin with.
+
+After all, she was the only reason House Vane hadn't been ground to dust by rivals already.
+
+A Tier 5 on the precipice of immortality.
+
+She was basically a walking natural disaster, so he was just trying not to piss his pants.
+
+He really hoped she didn't just vaporize him on a whim. He prayed silently.
+
+"Who is the boy?"
+
+The voice was smooth, bored, and demanding an immediate answer.
+
+Swallowing the massive lump in his throat, Arthur quickly launched into a summary of Ben's entire situation. He explicitly laid out the commoner background, the recent awakening, and the sheer dumb luck of the spar she had just watched.
+
+Because apparently, she had actually bothered to watch that fight earlier.
+
+It was only because one of the noble brats going into the rift had begged her to supervise.
+
+Arthur honestly couldn't even remember the kid's name right now, and Eris definitely didn't give a shit about it either.
+
+Listening to the explanation of Ben's heavy reliance on physical brawling and close-quarters combat when he got to the part where he fought the troll in a Trance, Eris clicked her tongue a few times.
+
+"What a pity."
+
+To a highly established mage like her, dirtying one's hands with physical combat was just pathetic.
+
+"Look up, Arthur."
+
+Hesitating for a fraction of a second, Arthur slowly raised his head. Meeting her gaze, he instantly regretted it.
+
+Her eyes were a piercing cyan. But the color in itself wasn't intimidating.
+
+They were the direct physical result of some terrifying Trait she possessed, and they were utterly unbearable to stare at. Looking into them, it literally felt like she was casually sifting through his soul like an open book.
+
+Combined with the suffocating pressure of her natural Tier superiority radiating throughout the small space, it was just too much.
+
+It felt like a literal physical weight pressing down on his skull.
+
+Dropping his chin immediately, he locked his eyes back onto the safe, non-threatening floor.
+
+Much better.
+
+"Did I say you could lower your eyes, Arthur?"
+
+"No, my lady."
+
+Shifting in her chair, she tapped a perfectly manicured finger against the armrest.
+
+"So why do you insult me so?"
+
+Panic instantly spiked in his chest.
+
+"I wouldn't dare. Please forgive me."
+
+Sighing heavily, she waved a dismissive hand at him.
+
+"You are forgiven."
+
+Leaning back, she stared down at him with a mixture of pity and disappointment.
+
+"I guess I expect too much from someone of your standing. I am well aware of what effect I have on people, but I expected more of you."
+
+He just kept his mouth shut and took the verbal beating.
+
+"Very well, the boy is to go into the rift."
+
+…Huh?
+
+Arthur blinked, his brain completely blanking for a second.
+
+"But my lady, he's just a commoner."
+
+Stuttering over his words, he desperately tried to make her see reason.
+
+"He wasn't even walking the path until recently. How do you expect him to—"
+
+His voice completely died in his throat as the mana in the tent suddenly spiked.
+
+"The boy is to go into the rift. I do not like repeating myself, Arthur."
+
+Arthur bowed his head even lower.
+
+"...Yes, my lady."
+
+Eris POV
+
+Leaning back in her chair, she closed her eyes and tapped into her sensory web.
+
+Thousands of microscopic mana threads were currently spread across the entire encampment, blanketing every single inch of the area.
+
+Because honestly, she had been bored out of her goddamn mind for days.
+
+Being a Tier 5 mage just waiting around for immortality wasn't exactly a thrilling day to day experience. So she had been casually observing the commoner boy through her threads for a few days, just to kill the time.
+
+Absolutely nothing else around this mud pit could even remotely interest her.
+
+Grabbing onto that one specific string of mana with her mind, she easily pinpointed his location.
+
+He was in his usual training spot her niece had shown him, training completely alone. Shifting her weight, she teleported.
+
+Space folded around her without a single sound, instantly depositing her right beside the sitting kid.
+
+Of course, she remained completely invisible.
+
+He absolutely would not see her unless she specifically wished for him to do so.
+
+Looking down at the boy, she tilted her head.
+
+He was bleeding from his nose and sweating heavily, entirely fixated on playing with the raw blue energy in his hands.
+
+The way he was forcing the mana to bend to his will was honestly fascinating.
+
+Especially for a mere Tier 1.
+
+Most idiots at his stage just relied on those rigid, pre-packaged constructs because they were too weak to do anything else.
+
+But this boy was practically wrestling the mana into submission with pure spite. It was such raw intensity. Seeing that sheer passion for mana, she couldn't help but smile.
+
+It honestly reminded her of herself, way back in the day.
+
+He was actually pulling it off, too.
+
+The boy really is talented.
+
+Crouching down slightly, she watched the glowing blue arrow form and hover over his palms. Quite ugly looking mana shaping, to be honest.
+
+Still…
+
+Let's see how far you can fly, little bird.
+
+She would look on with interest.
+
+Ben POV
+
+Grinning like an absolute madman, Ben eagerly accepted the prompt.
+
+Congratulations! You have learned the skill: [Mana Manipulation]!
+
+Glancing over his status, he quickly confirmed it was an uncommon-ranked skill, which was exactly what he expected. So now that he had both [Regeneration] and this brand new [Mana Manipulation] skill, the plan moving forward was incredibly simple.
+
+He was just going to stay right here in this safe little camp until the nobles were finally ready to leave.
+
+Once they packed up, he'd just tag along and head back to civilization with them.
+
+In the meantime, he fully intended to just grind his skills and hunt a few stray goblins on the side. If he gathered enough essence out in the woods, he might even hit Tier 2 before they left.
+
+The next few days were honestly all spent on pure skill grinding.
+
+Putting all of his effort into [Mana Manipulation], he quickly realized the skill got significantly easier the more he used it. It was a simple skill. Much like [Focus], it only did a few things. But unlike [Focus], it didn't give him some sort of active ability, but rather was a reflection of his control, enhanced by his heavy investment into the mana path.
+
+His mana muscle grew increasingly fatigued from the constant strain he put it under after gaining that skill.
+
+But because of his heavy early investment into the mana essence path, the muscle was recovering faster and performing better every single day. That mana path enhancement was nothing compared to his gains with [Mana Manipulation], though.
+
+Of course, [Focus] was doing a massive amount of the heavy lifting.
+
+Leveled up, the mental skill didn't just regulate his basic emotions anymore. It could actually suppress physical pain as well. Or at least, let him act without considering the pain.
+
+In moments of extreme danger, it essentially erased his emotions and pain entirely, turning his brain into a cold, blank slate.
+
+He appreciated that. He didn't know what he would do otherwise. Being a twenty-first century student meant he had no experience with anything like… this. Fighting. Getting injured. So it helped immensely to have a skill like [Focus].
+
+And more importantly, it allowed him to literally "isolate" different aspects of his skills to train them separately. It was basically like doing targeted isolation exercises at the gym, just for magic.
+
+Isolating [Warforged] was particularly interesting. Since it was a complete merger of [Mana Reinforcement], [Unarmed Combat], and [Physical Conditioning], it definitely wasn't some magical shield that magically blocked incoming attacks.
+
+It just made his base body objectively tougher, stronger, and inherently better at close quarters brawling. So he definitely wasn't going to be stupid and act reckless with it.
+
+Heading out to hunt goblins from time to time, he made absolutely sure to avoid any dangerous areas. He just used the weak monsters as living punching bags to train the skill safely.
+
+[Mana Sonar] also got a massive upgrade during these little hunting trips. Sending out pulses of mana normally just returned basic information about his immediate surroundings.
+
+But pairing it directly with [Focus], he'd discovered a completely broken secondary use, and he expanded on that recently and used more of it. He could actually sense the internal mana flow inside the monsters.
+
+Without [Focus] acting as a mental filter, the raw sensory input was just way too chaotic to read properly. But with it, the monster's mana pathways lit up like a damn Christmas tree in his mind.
+
+Curious, he tried the exact same trick on the humans back at the camp several times.
+
+But… nothing.
+
+For some weird reason, he absolutely could not read human mana flows.
+
+It would have been incredibly convenient had he been able to do that, though. Maybe he could've observed others to learn skills better.
+
+As for his mobility, he spent hours getting comfortable with [Fire Burst], and trying out new things, compressing the fire as well as trying to make the point of the blast more narrow or larger to see how it changed the resulting effect.
+
+Because the skill only worked from his heels and nowhere else, wearing shoes was completely out of the question.
+
+So, walking around barefoot in the dirt was just his new normal now. But at least, using the skill constantly reinforced his legs and feet enough that they were very tough.
+
+And finally, there was [Mana Missile].
+
+Borrowing the shaping technique Alice had taught him, he essentially built a magical gun barrel construct inside his own arms to amplify the skill's output. But firing a dense mana arrow through his own flesh easily mangled his arms if he wasn't careful.
+
+So he spent days aggressively reinforcing the constructs and his internal pathways just to handle the sheer recoil.
+
+It was absolute hell, but it paid off.
+
+[Mana Manipulation] had been a game changer.
+
+At the end of his rigorous little training, the results were incredibly satisfying.
+
+[Mana Manipulation Lvl 1 > Lvl 3]
+
+[Focus Lvl 12 > Lvl 14]
+
+[Fire Burst Lvl 13 > Lvl 15]
+
+[Mana Sonar Lvl 6 > Lvl 8]
+
+[Warforged Lvl 4 > Lvl 6]
+
+[Mana Missile Lvl 5 > Lvl 9]
+
+[Regeneration Lvl 3 > Lvl 5]
+
+Today, he was pushing [Mana Missile] to its absolute breaking point.
+
+Because it was a common skill, he desperately wanted to hit the level 10 threshold and evolve it.
+
+And all the hard work he put into was culminating into a new attack he was developing today.
+
+Standing completely barefoot in his secluded spot, he layered [Mana Manipulation] directly into the missile. Instead of just one, he forcefully generated multiple [Mana Missiles] inside both of his arms at the exact same time.
+
+Bringing his bare arms together and aiming at a massive boulder in front of him, he essentially turned his hands into a magical shotgun.
+
+Using his [Mana Manipulation] skill, he aggressively added a massive amount of spinning momentum to the arrows resting inside his flesh. It felt like having active blenders implanted directly under his skin if he wasn't careful.
+
+Releasing the built up tension, he fired the entire payload straight through his internal barrel constructs. The recoil threw him backward into the ground and he groaned it was done.
+
+The spinning missiles blasted forward with a deafening screech, slamming directly into the boulder. The massive rock instantly fractured and broke apart as the condensed mana literally drilled massive holes straight through the stone.
+
+Dropping his arms, Ben just grinned wildly.
+
+They fell entirely useless to his sides, heavily mangled and bleeding profusely from the sheer recoil of the attack. He'd never used [Mana Missile] with such intensity before, after all.
+
+[Focus Lvl 14 > Lvl 15]
+
+He just kept grinning as [Regeneration] immediately kicked in, flooding his shredded, bloody arms with a soothing feeling. Sitting in the dirt, he happily watched the system notifications roll in exactly as he hoped.
+
+[Mana Missile Lvl 9 > Lvl 10]
+
+Congratulations! [Mana Missile] has reached the pinnacle of its current rank.
+
+Evolution Requirements met. You have four paths you can walk forward in. Do you wish to proceed?

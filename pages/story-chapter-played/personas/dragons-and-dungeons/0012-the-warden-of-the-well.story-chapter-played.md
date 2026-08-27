@@ -1,0 +1,36 @@
+---
+id: 570f491d-fbd6-5885-93c2-8aa9833620e4
+page-type-slug: story-chapter-played
+title: "The Warden of the Well"
+slug: 0012-the-warden-of-the-well
+partOf: dragons-and-dungeons
+position: 12
+ownLength: 1240
+unit: words
+---
+
+We took them up, and I hunted the keepers in the dark the way a dragon had taught me to.
+
+It was no single clean ambush — the half-dozen were spread through the drowned upper reaches, idle and scattered: a man trimming a torch here, two dicing on a dry slab there, one pissing off a broken balustrade into the flood below. So I cleared it the way the sense allowed, room by drowned room, each man a knot of intent I felt through the wall before I rounded it, so that I was never the one surprised. I pointed, and the party answered. The first two never knew — Tygryth folded a pocket of hush over the dicing-slab and the darkness took both men mid-laugh, the dice still rattling soundless across the stone. The balustrade-man turned at the wrongness behind him and met the black-scaled girl, and she was not the feral thing from the cage now; she was aimed, cold, surgical, one silent strike and a body lowered into the black water without a splash because she made it so. Banked, not burning. I felt the difference in her even through the sense.
+
+But six careless men spread across a ruin cannot all die in silence, and the clock was already curdling above us. The fifth was the one who almost undid it. I felt him a half-room early — felt his idle calm snap into alarm the instant he registered that the dock crew, the two sent men, and now his dicing friends had all gone wrong-quiet. He bolted, not for a weapon but up a short stair toward the inner dark, his mouth opening to shout the house awake. And there my training paid its last coin of the night: I felt the shout before it left him, the spike of it in the quiet, and I was already moving, faster than thought, across the wet stone and onto him, choking the cry off against my forearm before it could become sound. He thrashed. He died. The shout died with him, unspent. Closer than I would have liked; behind me Wren let out a breath she'd been holding. The sixth simply ran, and Tygryth let the darkness chase him down somewhere in the flooded hall, and then — stillness. The upper reach was cleared. No living keeper left between us and the inner sanctuary.
+
+Except the clock had run out anyway.
+
+The cold disciplined coal I had felt from below changed under my sense, all at once — the banked patience flaring up into hard, focused awareness, turning toward us across the dark like a head lifting. It had counted its men going silent, one by one. It was not careless. It had not needed the shout. It had simply noticed, the way I noticed now, and it had stopped waiting. Tygryth felt it too and went rigid. "It knows. It has known for a minute at least. It did not raise a horn because it does not need the rabble — it has decided to meet us itself." His gold eyes fixed on the great torchlit archway ahead. "Careless men we have spent all night killing. That is not a careless man."
+
+And then, through the archway, a voice. Calm. Unhurried. Pitched to carry, and entirely unafraid. It did not shout an alarm. It invited. "You've made a great deal of mess on my dock and in my halls," it said, conversational, almost warm. "Do come in, then. But mind your feet — and mind your tempers." A pause, and the warmth in it went to ice. "I am standing over the Well as we speak. The old one's blood is very easy to spill all at once, you understand, if I am given a reason. Three hundred years of it. Such a waste that would be. So. Come in slowly."
+
+The black-scaled girl had gone deadly quiet at my shoulder. Tygryth's whole body was a drawn bowstring, the threat to his blood one wrong word from undoing every plan. Wren breathed, "It's bluffing about the waste — it needs that blood. But it'll bleed him to hurt us. I think it would." She looked to me. "It wants us slow and rattled walking in. What do we give it instead?"
+
+I gave it the one thing a man who holds chains never expects from the people he has cornered: I refused the bargain before it could be a bargain. I whispered it fast and low to the others. "Your kin is at risk — but the risk is only greater on their terms. The room they're in is small. Take the gamble: fill it with dragonfire before they realize we will not bargain. Wren and I go straight for the Well and save him if we can."
+
+Tygryth's eyes found mine in the dark for one half-second, and what he did next was the largest trust an ancient creature had ever handed a short-lived man. I was asking him to throw his own fire into a small room that held his own blood's tormentor, on nothing but my read that speed beats a held blade. He could lose everything if I was wrong. He looked at me. And he believed me. "On your word, then," he breathed. "Gods keep your read true." And he stopped being a man.
+
+The sense gave me the layout as we all moved at once: the Warden's prepared room was a raised stone chancel, its floor broken by a great iron grate — an oculus down into a flooded crypt below, where through the bars something vast and pale moved slow under black water. The Well was not a metaphor. It was a shaft, and the Warden stood at its lip with his hand on a wheel of dragon-iron sluices. And off to the side a flooded ramp spiraled down into the dark toward the crypt itself — our road, Wren's and mine.
+
+The party split on the same heartbeat. Tygryth and the black-scaled girl went through the arch like the end of the world: no parley, no slow rattled entrance, only a dragon erupting into a stone box and a black blade at his flank. The Warden got exactly the half-second his competence bought him — and he was competent. He did not flinch, did not waste the moment on shock. As the blue-white fire bloomed toward him he threw himself onto the iron wheel with his whole weight and cranked it, and even as Wren and I plunged down the ramp I heard his voice, cold and unhurried to the very last. "Slowly, I said." A crank. "You'll have him. You'll just have him empty." Another. "He stopped wanting out a hundred years ago. All you're doing is waking him up to feel it end."
+
+Then Tygryth's fire took the chancel, and there was no more Warden — only a roar of blue-white in a stone room, the dragon-iron going cherry-red, the cold competent knot in my sense simply gone, burned out of the world. The black-scaled girl's strike landed in the same instant on whatever the fire had not reached. The gamble held. The keeper of the Well was dead.
+
+But the wheel had turned. As Wren and I hit the bottom of the flooded ramp, I felt it through the sense before I saw it, and then I saw it: the still one was bleeding.

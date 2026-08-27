@@ -1,0 +1,169 @@
+---
+id: f76c33c2-3446-53be-b776-52fcfaa8501a
+page-type-slug: story-chapter-royal-road
+title: "B6 Ch32: Leadership"
+slug: 0039-b6-ch32-leadership
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 39
+ownLength: 2055
+unit: words
+publishedAt: 2026-03-05
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3120054/b6-ch32-leadership"
+royalRoadId: "3120054"
+---
+
+From a shadowed spot just inside the archway, Arthur looked out to the ledge and firmly reminded himself not to feel awkward.
+
+Beyond, a dozen wing captains sat on the outside furniture in a loose circle. Even in the low light of the barely risen sun, they were a rough-looking group. Some shivered in the pre-dawn air, some looked hungover, and every single one was tired and ragged.
+
+Arthur, however, felt fresh as a daisy thanks to his time-dimensional lag.
+
+He was pleased he had actually felt the entire hour it took for word to be sent out about this morning’s impromptu meeting. Slowly but surely, his healing card was undoing his time psych—time difficulties.
+
+No, the sudden awkwardness he felt came from being painfully aware that he was the youngest man by far. Some of the wing captains had nearly a foot of height over him and outweighed Arthur by half his own body weight. And he was supposed to lead them.
+
+Sure, his Master of Body Enhancement had granted him strength, but he had never bulked out.
+
+You belong here. You’re the leader, he thought, wishing that Brixaby was nearby to give the captains the evil eye and reinforce Arthur’s orders.
+
+Unfortunately, Brixaby had his own tasks today. Arthur would have to do this alone.
+
+More than that, this was the time to impress upon them his leadership style. The last two months had given him some leeway to think.
+
+He vividly remembered Baron Kane in the borderland village where Arthur had grown up, and how he had ultimate power over every man, woman, and child there… yet he had always acted small and petty. These captains would expect that same sort of bully-boy behavior. Or maybe a touch of the smooth predatory sadism that Chester had indulged in.
+
+Arthur planned to enforce his will, but he would be different.
+
+Straightening his shoulders, Arthur walked out to them. The wind blowing outside on the ledge was bitingly cold, but he pretended he didn’t feel it.
+
+The captains stood and gave salutes, but many were sloppy. He saw annoyance and resentment in almost every eye.
+
+Oh well. Arthur was annoyed, too.
+
+He kept his expression stern as he stood before them, saying nothing and letting them stew in anticipation.
+
+Finally, Arthur barked out a single phrase: “The blood price.”
+
+It was as if an electric shock rolled through the group. Everyone stood straighter. Glances were exchanged and a couple of smiles quickly hidden, as if they had expected this.
+
+One man, Kai, who headed the Raindrop Dancer wing, coughed into his fist and said, “Sir, I regret to report that my wing will be short of the blood price this round.”
+
+A woman with braids wrapped tightly around her head spoke next. “I hear that we’re expecting two eruptions soon,” which proved that the gossip grapevine was truly alive. “Can we possibly get an advance on the blood price until then?”
+
+One middle-aged man named Erik, who had a permanently beaten-down air, said, “My riders were saving for their blood price, but three of them were robbed of all their shards the night before last.”
+
+That stopped Arthur short. “Your riders were robbed?”
+
+He let out a wheezy sigh and sadly shook his head. “That is what they say.”
+
+“Common riders, I bet. They’ll say anything,” announced a large, bear-like man named Dolan. He stepped forward, all boldness. “I have the shards for my wing.” He held out a lumpy leather pouch.
+
+Arthur made no move to take it. He raised his chin to look into the man’s eyes. “Did I not make myself clear that the blood price is over? I asked you here this morning to ask why are you still taking shards from your riders?”
+
+That sent another visible shock through the meeting. Many of the captains looked at each other, and it seemed no one wanted to be the first to speak.
+
+For his part, at least Dolan was no coward. “We all heard that, and forgive me, but there is what you say… then there is what is possible.”
+
+Arthur let that sit for a second and then said curtly, “Explain.”
+
+It looked like the man was chewing on the inside of his cheek as he weighed his answer. “The idea is noble. You’re new and you’re young and… excitable. But the blood price has been in place longer than you’ve been alive, and there is a reason for that.”
+
+Another captain spoke up from the group. “Desmond said we should continue as usual until you calm down and see how things are really run.”
+
+Ah. He never would have thought that Desmond had the energy to undermine him, but it might have been pure laziness.
+
+“I see,” Arthur said.
+
+Everyone went silent, only the blow of cold morning wind providing background noise.
+
+Arthur wanted to seethe, wanted to yell at them for being hard-headed idiots. Instead, he kept his voice very, very calm.
+
+“Let me make my stance perfectly clear: There is no more blood price.”
+
+“But you have Chester’s card! Or,” Dolan faltered, “your dragon does. Don’t you need the blood price?”
+
+Is that what Chester had told them all this time?
+
+Arthur still did not let any heat come into his voice. He was calm and precise, even as his actual words screamed warning.
+
+“Are you suggesting you know my cards better than I do?”
+
+“N-No, sir,” Dolan said quickly, and, seeming to realize that he was still standing forward, quickly rejoined the rest of the group. He dropped the bag of his rider’s shards back in his pocket.
+
+Another silence. Arthur waited for someone new to come out with their objection.
+
+To his surprise, it was Kai. “I don’t like the blood price, but we simply can’t get rid of it.” He sighed in exasperation. “It’s our whole hive’s economy.”
+
+“You assumed I hadn’t thought of that,” Arthur observed.
+
+“Well… no,” he said tentatively, but didn’t offer another explanation.
+
+Arthur gave it another moment before he decided he’d let them dangle long enough.
+
+“The blood price will be replaced. In Wolf Moon, riders were paid on a token system, and I intend to replicate that. Every person working in and for the hive will receive basic care for their service: food, drink, and shelter. None of it is luxurious, but it is the least they deserve for helping to defend the kingdom. Any action over and above their duties will be rewarded with these.”
+
+He plucked a single garnet from his pocket and held it up. The gem caught the morning light and made the enchantment inside visible as a single darker dot. It glittered like solid blood.
+
+“These blood drops will be the equivalent of a Common shard. Each is equipped with a tracking enchantment backed by myself and my dragon so it cannot be duplicated. The drop may be turned into the quartermaster or the hive kitchens for the equivalently priced items. My dragon is currently working on the Uncommon and Rare drops, which will be introduced to the hive shortly.”
+
+The truth was they needed more garnets. The dimensional space only provided the tiny versions.
+
+There was a beat as the captains looked at one another. It seemed they didn’t know what to say.
+
+Then, Erik tentatively raised his hand.
+
+Arthur nodded to him. “Yes?”
+
+“Sir, I don’t understand. What’s the penalty for not turning the, uh, blood drops in?” He winced, probably finding it ghoulish to call them by Chester’s dead dragon’s name… but it was too good of a description to waste. And it was a powerful statement.
+
+Arthur wanted to sigh. It seemed that the concept of the blood price was so ingrained that it was almost impossible for these wing captains to understand a life without it.
+
+“The time for the lower ranks to pay the higher ranks just for existing is over.”
+
+There were multiple exclamations of surprise and protest.
+
+“But—” Dolan said, “But, sir—”
+
+Arthur cut him off with a single gesture.
+
+It was as if he had brought down a hammer blow. All fell deathly silent.
+
+Arthur hadn’t wanted to do this, but it was vitally important that even if they disagreed with ending the blood price, they accepted and understood why.
+
+He activated his Subtle Influence card.
+
+Subtle Influence
+
+Common
+
+Mind
+
+The wielder of this card will be granted the power to subtly influence direct conversations in which they are participating. The wielder will be able to push a subtle weight to all of their words, which will have the effect of nudging a conversation in the direction they wish. This is a minor influence and may be counteracted by a strong will. Conversely, this card will have a greater effect on an unsteady, weak, or compromised mind. This is an active skill that uses mana.
+
+“I am being patient because you don’t understand the threat the hive is facing. But my patience is limited, so listen to me carefully. We need cardholders—strong cardholders—for what is to come.” He turned to the woman with the braided hair. “You mentioned the double eruptions. Yes, we’re expecting the first by the end of the day or possibly tomorrow. What you don’t realize, and what I will order all of you to keep to yourselves so that you don’t stir a panic in the hive, is that double eruptions are expected to become more common. There may even be up to three eruptions a day, eventually.”
+
+That was a minor lie. If the Mythics did not get a handle on the situation, three eruptions a day would eventually become common place. Or more.
+
+Arthur continued, “We cannot afford to drain the strength of our hive for petty reasons. We need every single rider to fight scourgelings, and more, if we can.”
+
+Dolan still looked doubtful. “But how will the hive pay its bills?”
+
+“You are not the leader. I am,” Arthur said. “Let me worry about that. But as it stands, I have some ideas.”
+
+One look told him he couldn’t simply leave there. These people were Rare-ranked riders. They were trained to lead and commonly thought a few steps ahead. They wouldn’t be the type to sit back and let someone else take care of things for them.
+
+“You may have noticed we have more Purples in the hive than usual. That’s also my doing,” Arthur said with a smile, remembering taking the wild dragons from Wolf Moon. “I plan on putting them to work. If my experiments prove successful, we will be integrating them into your wings as well. That’s for later. First, I want you to return the shards you took from your riders to pay for the blood price this week. Every single one. I will be doing spot checks to verify. This is not optional.” He made sure to meet every eye. “This is how things will be run from now on. If you don’t like it, apply for a transfer to another hive. If you fail the spot checks, I will personally kick you to the first hive that will trade you for an Uncommon who will listen to me.”
+
+Some looked shocked. Probably not by the threat, though. Arthur was serious, but in the grand scheme of things, kicking someone out of the hive was not the worst he could do.
+
+No, the worst thing—and what they likely expected him to say—was that Arthur could steal their cards right out of their hearts. Surely, that rumor had gone around too.
+
+But that wasn’t how he was going to operate.
+
+Well… at least, that wasn’t how he wanted to get obedience from the Rares. He planned on having a very serious conversation with Desmond and Sybil.
+
+That was when the first eruption bells started to ring.
+
+Arthur closed his eyes for a moment. The first of the two eruptions was early. Outstanding.
+
+“Get to your wings,” he said. He then pulled out small bags of garnets and started handing them out. “These are what you will give to your riders for exceptional service. Don’t bother keeping any for yourself. As captains, you will be paid in the greater blood drops.” And Brixaby’s tracking enchantment would help him verify that. “For now, get to work. It’s going to be a long day.”

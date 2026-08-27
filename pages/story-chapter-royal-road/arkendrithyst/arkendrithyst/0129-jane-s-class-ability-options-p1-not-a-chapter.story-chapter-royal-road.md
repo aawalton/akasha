@@ -1,0 +1,317 @@
+---
+id: 8f1901cb-b222-59bc-b8b7-7fc1a67c560c
+page-type-slug: story-chapter-royal-road
+title: "Jane's Class Ability Options p1 (not a chapter)"
+slug: 0129-jane-s-class-ability-options-p1-not-a-chapter
+partOf: arkendrithyst
+position: 129
+ownLength: 1140
+unit: words
+ownProgress: 1140
+publishedAt: 2020-08-13
+link: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/538304/janes-class-ability-options-p1-not-a-chapter"
+royalRoadId: "538304"
+markedReadAt: "2026-06-29T22:26:00.017Z"
+---
+
+It’s not a chapter, but I said it wasn’t going to be a chapter! (I did say that, right right?)
+
+So here it is! A vote for Jane’s Class Abilities.
+
+Patrons got 2 votes with each of their votes, and they already got this chapter a while ago. They’re up to chapter 99, atm. RR people get 1 vote apiece. Sorry. That’s capitalism for you. But! If you have any nice comments about possible synergies, then you’ll get honorary extra votes, manually counted, in addition to the poll results!
+
+Have fun! Let the theorizing commence!
+
+THIS VOTE WILL RUN UNTIL I FEEL LIKE CLOSING IT.
+
+--
+
+Jane Flatt
+
+Human, age: 22
+
+Level 71, Class: Prismatic Polymage
+
+Exp: 8.413 e15 / 49.845 e15
+
+Class: 1/6
+
+Points: 8
+
+HP
+
+4860/4860
+
+4860 per day
+
+MP
+
+6360/6360
+
+6360 per day
+
+Strength
+
+30
+
++51
+
+81
+
+Vitality
+
+30
+
++51
+
+81
+
+Willpower
+
+55
+
++51
+
+106
+
+Focus
+
+55
+
++51
+
+106
+
+Favored Spell waiting!
+
+Favored Ability waiting!
+
+Favored Ability waiting!
+
+Favored Ability waiting!
+
+Prismatic Polymage!
+
+Prismatic Polymage
+
+Unlock Monster Abilities
+
+<empty>
+
+<empty>
+
+<empty>
+
+<empty>
+
+<empty>
+
+Spider form:
+
+Body:
+
+[Spider Mind]; always active
+
+[Thread Control]; replenish threads, 50 Health + Variable
+
+[Mana Sight]; always active
+
+[Vibration Sense]; always active,
+
+[Toxic Venom]; replenish venom, 50 Health + Variable
+
+All:
+
+[Erase Presence]; 5 Health per second
+
+~Flame Ooze
+
+Body:
+
+[Ooze Mind]; always active
+
+[Ooze Constitution]; always active
+
+[Vibration Sense]; always active
+
+[Surround Sight]; always active
+
+[Flaming Existence]; always active
+
+All:
+
+[Burning Aura]; always active, OR 5 Health per second
+
+~Unicorn
+
+Body:
+
+[Beautification Aura]; always active
+
+[Light Sculptor]; always active
+
+[Devour]; 100 Health
+
+[Flare Power]; Consumes Devoured
+
+[Flare Mind]; Consumes Devoured
+
+All:
+
+[Aura of Freedom]; always active, OR 5 Mana per second
+
+~Metal Slime
+
+Body:
+
+[Slime Mind]; always active
+
+[Slime Constitution]; always active
+
+[Surround Sense]; always active
+
+[Metallic Existence]; always active
+
+[Core Weakness]; always active
+
+All:
+
+[Stone Sight]; always active
+
+~Water Slime
+
+Body:
+
+[Slime Mind]; always active
+
+[Slime Constitution]; always active
+
+[Surround Sense]; always active
+
+[Watery Existence]; always active
+
+[Core Weakness]; always active
+
+All:
+
+<empty>
+
+~Primal Frost Owl
+
+Body:
+
+[Unfreezing]; always active
+
+[High Flier]; always active
+
+[Hunter’s Instincts]; 5 Health per second
+
+[Super Quick Flight]; 5 Health per second + Variable
+
+[Deep Sight]; always active
+
+All:
+
+[Freezing Aura]; 5 Mana per second
+
+~Human (Planar)
+
+Body:
+
+<Null>
+
+<Null>
+
+<Null>
+
+<Null>
+
+<Null>
+
+All:
+
+<Null>
+
+- - - -
+
+AND NOW! THE ABILITIES!
+
+DUN DUN DUN!
+
+- - - -
+
+[1] All Health Cost Reduction 10%
+
+[2] More Health x2
+
+[3] All Spell Cost Reduction 10%
+
+[4] More Mana x2
+
+[5] All Cost Reduction 5%
+
+[6] More Health Regeneration x2
+
+[7] Triple your available Familiar Form slots
+
+[8] More Mana Regeneration x2
+
+[9] Unlock. Almost all Familiar Form Abilities are unlocked, and can be practiced through the interface of the Script.
+
+[10] Item Keeper. Pearlize small magical items and physically store them inside your body when you [Polymorph]. Retrieval process varies.
+
+[11] Inspect Monster. Focus on a living, nearby known monster for 10 seconds, and understand its Abilities. (Warning! Monster will know it is being inspected.)
+
+[12] Copy Form. Focus on a living, nearby known monster for 10 seconds, and gain primitive use of its Form for 1 hour. (Warning! Monster will know it is being copied.)
+
+[13] Undetectable. Retain your true self, yet truly become the other for the duration of your [Polymorph]s.
+
+[14] Solid Body. 25% less damage taken. Always active.
+
+[15] Healthy Form. Your Familiar Forms are always in peak physical condition as long as you are. (Most slimes will have powerful acids. Spiders will have all types of venom and thread. Mental abilities are not covered by this Ability.) Reduced [Polymorph] Cost.
+
+[16] Shedding Form. Automatic [Greater Treat Wounds] whenever you fully [Polymorph]. Recover your Health Regeneration in Health whenever you fully [Polymorph].
+
+[17] Mutable Form. Adjust the variable parameters of your Familiar Forms far beyond what they are. (Age, sex, size, weight, coloring, etc.) Reduced [Polymorph] cost.
+
+[18] Shifting Form. [Polymorph] becomes Variable cost. Gain the ability to partially and cohesively adjust your Form for a reduced cost.
+
+[19] Monster Killer. Deal 2x as much damage to monsters.
+
+[20] Defender. Designate a willing target to negate a large part of the damage they take, and instead take that damage yourself, for as long as you wish. Maximum range of 10 meters.
+
+[21] Oozey Constitution. (Upgrade of Slimey Constitution) Permanently become part unaligned ooze. Dismemberment and physical wholeness is no longer a concern. 10% less damage taken. Greatly ease ability to transform slime Forms to ooze Forms.
+
+[22] Ooze Mind. (Upgrade of Slime Mind) Become permanently immune to mental magics. Greatly ease ability to transform slime Forms to ooze Forms. (WARNING! You would become immune to Telepathy)
+
+[23] Metallic Constitution (Quicksilver). Permanently become part Metal Slime. Dismemberment and physical wholeness is no longer a concern. You have a core. 50% less damage taken to body. +100% damage taken to core.
+
+[24] Extreme Survivor. (Upgraded combination of multiple existences). Greatly reduced damage taken from natural environmental effects. Half damage taken from magical environmental effects.
+
+[25] Spider Mind. Able to communicate and command lesser spiders, both magical and mundane. Greatly increases resistance to hostile mental magics and abilities. Become weak to spiders of a higher level.
+
+[26] Devour. Gain a soul-trap organ that allows you to split the soul from a consumed foe, gaining their Stats in addition to your own while their soul is contained within you. Trapped souls are fully devoured depending on rate of use. Limit 1 Soul.
+
+[27] Hidden Monster. Adapt a single Body Ability from one of your monstrous Forms to apply to every Form, with or without appearing monstrous (your choice). This Class Ability may be taken multiple times.
+
+[28] Monstrous Senses. Gain a modicum of access to all the senses of all of your Forms, in every Form. Some senses are more easily transferable than others.
+
+[29] Monstrous Presence. Double the power and range of your monster-derived auras.
+
+[30] Extra Monstrous Aura. Enable the use of a single, extra monster-derived aura that does not count against your current Aurify limit (of 2).
+
+[31] Lingering Monstrous Aura. Your monster-derived auras linger on others for a length of time dependent on how long they are affected.
+
+[32] Efficient Monstrous Aura. Halve the cost of your monster-derived auras.
+
+[33] Familiar Mantle. Consume a Familiar Form to create a high-cost Form Aura that is usable in all Forms, effectively enabling two Forms at once. Limit 1.
+
+[34] Draconic Inoculation. No longer able to gain Dragon Essence. Has no effect on currently possessed Dragon Essence.
+
+[35] Elemental Dedication. Take less damage from Elemental Sources. Do more damage with Elemental Sources.
+
+[36] Shadow Dedication. Take much less damage from Shadow Sources. Do much more damage with Shadow Sources.
+
+[37] Elemental Efficiency. Reduce the costs of all Elemental attacks and spells.
+
+[38] Shadow Efficiency. Greatly reduce the costs of all Shadow attacks and spells.

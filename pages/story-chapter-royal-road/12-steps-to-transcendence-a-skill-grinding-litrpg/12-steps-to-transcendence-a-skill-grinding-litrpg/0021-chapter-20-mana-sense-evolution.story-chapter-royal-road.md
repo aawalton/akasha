@@ -1,0 +1,279 @@
+---
+id: 4560ae38-881f-5938-a6f8-dc2f82effe81
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: [Mana Sense] Evolution"
+slug: 0021-chapter-20-mana-sense-evolution
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 21
+ownLength: 2210
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3752907/chapter-20-mana-sense-evolution"
+royalRoadId: "3752907"
+---
+
+Wading slightly deeper into the freezing water, Ben just stared at the teenager. He really didn't have the energy to deal with some arrogant noble brat right now.
+
+"I asked you a question, peasant." The boy sneered, stepping closer to the muddy bank.
+
+Sighing heavily, Ben scrubbed a hand over his wet face.
+
+"I didn't exactly plan on saving her." He shrugged his bare shoulders. "It just happened."
+
+Scoffing loudly, the boy crossed his arms over his expensive tunic.
+
+"Of course you didn't. You commoners only ever act on dumb luck." The kid's face twisted into an ugly scowl. "You shouldn't have interfered with House affairs."
+
+Ah, so he's one of them.
+
+Ben easily pieced it together. This guy was obviously a lesser branch member of the annoying noble girl's family. And he was clearly dealing with some massive, unhinged inferiority issues.
+
+"This entire expedition is supposed to be our proving ground. It's meant to be a trial by fire! Nobody cares if the rest of us branch members die out here in the dirt. But the moment the main scions are involved? The House sends a squad of elite guards and a damn mage just for her." He pointed an accusing, shaking finger right at Ben. "What does this journey even matter if those people just protect her from everything? And then you just had to jump in and save her when she finally faced some actual danger."
+
+Stopping abruptly, the boy glared daggers at him.
+
+"Why did you do that?!"
+
+Blinking slowly, Ben didn't say anything for a long second.
+
+He honestly couldn't care less about this guy's petty family drama. It was exactly the kind of messy political garbage he desperately wanted to avoid.
+
+"Look, buddy." Ben gestured vaguely toward the trees.
+
+Turning around, he started washing his arms again.
+
+"Can you please get away from me? I'm trying to have a quiet moment here."
+
+The shoreline went completely dead silent.
+
+Sensing a sudden spike of mana, Ben instantly tensed his muscles beneath the water.
+
+"You dare turn your back on me?" The boy's voice trembled with sheer, unadulterated rage.
+
+Glancing over his shoulder, Ben saw a swirling ball of wind rapidly forming in the kid's outstretched palm.
+
+Of course, he has to escalate things. Great, now I have to fight a magic hurricane while butt naked.
+
+Gritting his teeth, Ben prepared to dodge.
+
+Clicking his tongue loudly, the boy suddenly closed his fist.
+
+The swirling ball of wind instantly dissipated into a harmless breeze.
+
+"You, peasant." The brat pointed a finger right at Ben's face. "You will be my personal sparring partner from tomorrow onward."
+
+...What?
+
+Blinking the icy water out of his eyelashes, Ben just stared at him.
+
+"I heard you lasted quite a bit of time against that troll." The boy lifted his chin haughtily. "So fight me."
+
+Standing waist deep in the freezing stream, Ben seriously questioned his own reality. He was literally as naked as the day he was born. He was shivering in a stream in the middle of the night.
+
+And this random rich kid was standing on the bank, dramatically declaring him his new eternal rival.
+
+It was completely, utterly ridiculous.
+
+Tilting his head slightly, Ben gave the boy a perfectly deadpan stare.
+
+"So let me get this straight. You want to prove to your family that you're an elite, unstoppable noble."
+
+The boy scoffed, puffing out his chest.
+
+"Obviously."
+
+"And your grand master plan to achieve this..." Ben gestured at himself. "...is to ambush a recovering, unarmed commoner while he's trying to wash himself in a river?"
+
+The shoreline fell completely silent again.
+
+"That really doesn't sound as heroic as you think it does, buddy." Ben added helpfully. "It mostly just makes you sound like a weird creep."
+
+The boy's face instantly flushed a brilliant, explosive shade of crimson in rage. He looked like he was about to pop a blood vessel right there on the riverbank.
+
+Taking a deep breath, the brat visibly forced himself to calm down.
+
+"Tomorrow, early in the morning!" The kid pointed a shaking finger at him again. "Be ready!"
+
+Turning sharply on his heel, the boy's boots squelched loudly in the mud.
+
+"I won't have you run out on me." The brat glared over his shoulder. "Then they'll see! I am no worse than a commoner!"
+
+...That doesn't even make any sense.
+
+Stomping angrily through the brush, the noble kid disappeared back into the dark trees. Standing entirely alone in the rushing water, Ben just let out a long, exhausted sigh.
+
+Just what the hell was that?
+
+He went right back to relaxing in the water.
+
+Sighing heavily, Ben sank a little deeper into the freezing stream.
+
+He really just wanted a peaceful night to himself.
+
+Of course, the universe had other plans.
+
+Shaking his head, he pushed the annoying noble kid completely out of his mind. He couldn't afford to waste brain cells on some arrogant brat's issues.
+
+So, he just needed to [Focus] on his own progression.
+
+Closing his eyes, he started his cycling technique again.
+
+Breathing in slowly, he pulled the ambient mana directly from the chilly air around him. He ruthlessly dragged the invisible energy straight into his core. And from there, he forcefully cycled it right through his body and into his mana channels.
+
+It wasn't exactly something he could explain with actual words. It was a completely mental, deeply intuitive feeling.
+
+As Duncan had previously mentioned, it was just something that naturally happened. Knowing the exact technique made it hard, but definitely not impossible. So he just kept doing it.
+
+Purifying the raw ambient mana, he compressed it tightly and refined it down into pure essence. When it finally turned to essence, he kept refining it further until he physically felt it pouring directly into his essence reserves instead.
+
+That was basically the entire process.
+
+Trying his hardest to multitask, he continuously tried to sense his own mana as he worked. He moved the mana in entirely different ways just to try and force the skill to level up.
+
+And it completely worked, because he immediately lost track of time. By the time he finally stopped refining essence, it was already midnight.
+
+He was startled when he realized how late it was. What if something had attacked him in the stream! And what if he got a cold? Could he even get a cold the normal way anymore?
+
+Blinking rapidly, he felt a strange, new fullness resting comfortably inside his core.
+
+He had much more essence now.
+
+He was almost 1/4th of the way to Tier 2! That meant he was getting ridiculously close to the middle stage of Tier 1.
+
+Instantly, he recognized a notification hovering in his vision.
+
+[Mana Sense Lvl 9 > Lvl 10]
+
+Hell yes.
+
+Right after that, the familiar prompt to evolve his skill finally popped up.
+
+Congratulations! [Mana Sense] has reached the pinnacle of its current rank.
+
+Evolution Requirements met. You have four paths you can walk forward in. Do you wish to proceed?
+
+Yes.
+
+The offered skill paths are based on your performance up until now. Choose carefully!
+
+Please select your path:
+
+Staring at the floating runes, Ben fell into deep thought.
+
+The system notoriously never gave out actual skill descriptions. He was entirely on his own when it came to figuring out what these things actually did.
+
+Focusing on the first option, he immediately dismissed it. It was just the straightforward, boring upgrade of his current skill. He already had to sacrifice [Focus]'s various interesting upgrades, he wouldn't be doing that again unless absolutely necessary. He wanted a cool specialization, not just more of the exact same thing.
+
+Shifting his attention to [Mana Tracing], he felt a distinct mental image of glowing footprints. It was obviously a tracking skill. It would be incredibly useful for hunting beasts or following others, perhaps, but it was way too niche for his current needs.
+
+So that left him with the last two.
+
+Looking closely at [Mana Perception], a wave of intense clarity washed over his brain. He instinctively knew this skill would drastically expand his passive awareness. It would basically hold his hand and make controlling mana outside of his body ridiculously easy, just like [Mana Sense] made it easy to control it inside his body.
+
+Honestly, it was incredibly tempting.
+
+But leaning his head back against the muddy riverbank, he frowned deeply.
+
+If I let the system do all the heavy lifting, I'll never actually learn how to control mana properly.
+
+He didn't want to rely on a cheap system gimmick to master the absolute basics of mana. He wanted true, unassisted control over his own essence.
+
+Therefore, picking something that would act as a permanent crutch was a completely terrible idea for his long term growth.
+
+So he immediately threw [Mana Perception] right out the window.
+
+Dropping his gaze to the final option, he focused entirely on [Mana Sonar].
+
+It seemed like something he needed more than wanted.
+
+Thus, he didn't hesitate for another second.
+
+I'll take [Mana Sonar].
+
+Congratulations! [Mana Sense - Lvl 10] (Common) has evolved into [Mana Sonar - Lvl 1] (Uncommon)!
+
+Closing his eyes, he triggered his brand new skill. A pulse of mana rippled out of him.
+
+It was a completely bizarre, entirely new sensation. To anyone else standing on the riverbank, absolutely nothing was there. But to him, it felt exactly like dropping a massive boulder into a perfectly still pond.
+
+His mana essentially acted like an invisible soundwave. It rippled outward through the air and the water, treating the entire environment like a medium.
+
+Reaching the absolute edge of his immediate surroundings, the outward pulse completely fizzled out.
+
+And then, the invisible ripples snapped right back to him.
+
+The farther away an object was, the slightly longer the echo took to return. It was literally just a magical sonar.
+
+That's actually insanely cool.
+
+But a split second later, the returning information finally hit his brain.
+
+Gasping sharply, Ben immediately clutched his head. He had made a massive, agonizingly stupid mistake.
+
+He was sitting waist deep in a rapidly rushing stream. And it forcefully shoved all of that chaotic, overlapping information straight into his unprepared mind at the exact same time.
+
+Holy crap, my head.
+
+Wincing in pain, he hurriedly canceled the skill.
+
+Rubbing his temples, he took a few deep breaths to ward off the sudden headache.
+
+The range on the ping was actually pretty damn small right now. It barely covered his immediate vicinity. But even that tiny range was completely overwhelming in a hyper active environment like a rushing river.
+
+I definitely need to practice this on dry land first.
+
+Still, the sheer utility of the skill was undeniably massive.
+
+If he could eventually keep it constantly pulsing, he would basically have a perfect, omnidirectional map of his surroundings. Nobody would ever be able to sneak up on him like Arthur did ever again.
+
+He just needed to build up his mental tolerance to the sensory overload first…
+
+Waking up just after dawn, Ben felt completely refreshed. And he was absolutely ready to murder some goblins. He still needed that [Regeneration] skill.
+
+So, he immediately headed straight for the camp's edge. He just wanted to slip into the woods and grind in peace.
+
+Stepping right into his path, three figures completely blocked the main exit. Ben stopped in his tracks. It was the annoying noble brat from the river. And the kid had actually brought a couple of lackeys with him.
+
+...Really?
+
+Smirking, the boy crossed his arms over his pristine chest piece.
+
+"Everyone, look! This commoner here practically begged to be my sparring partner!"
+
+...Huh?
+
+Staring blankly, Ben seriously wondered if this kid suffered from a severe head injury.
+
+Is he… okay? Do people really act like this…
+
+Gesturing grandly toward Ben, the noble kid puffed out his chest.
+
+"I have decided to grant his humble request!" The brat grinned, soaking in the sudden attention. "Let's give him a chance, shall we?"
+
+People were entirely stopping their morning chores. Muttering quietly, several of them started pointing directly at him.
+
+"Isn't that the guy who saved Lady Alice?"
+
+"Yeah, he's the one."
+
+Ben felt a massive headache coming on.
+
+This is exactly the kind of political garbage I don't want to be a part of.
+
+He could already see the invisible strings forcefully attaching to him. This arrogant brat clearly just wanted to use him as a convenient stepping stone.
+
+Beating up the guy who saved the main branch's precious scion would obviously earn the kid some twisted street cred within his circles.
+
+What a desperate little loser.
+
+Sighing heavily, Ben honestly didn't care enough to get genuinely mad. He was not a petty child. And he had things to do.
+
+Stepping forward, he tried to simply walk right past the trio. Shifting quickly, the noble boy purposely slammed his shoulder into Ben's.
+
+Stopping dead, Ben looked down at the shorter teenager.
+
+"You aren't going anywhere, peasant." The brat glared up at him, his arrogant smirk twisting into a genuine scowl. "You challenged me."
+
+Cracking their knuckles, the two lanky lackeys stepped up right beside their boss.
+
+The murmurs from the gathering crowd immediately grew louder, practically boxing him in.

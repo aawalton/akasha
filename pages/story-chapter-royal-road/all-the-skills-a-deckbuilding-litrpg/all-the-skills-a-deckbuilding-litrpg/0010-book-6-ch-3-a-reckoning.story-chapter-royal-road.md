@@ -1,0 +1,219 @@
+---
+id: dc8f1c6d-741e-5aa3-ac2b-d5e92334d972
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Ch 3: A Reckoning"
+slug: 0010-book-6-ch-3-a-reckoning
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 10
+ownLength: 2119
+unit: words
+ownProgress: 2119
+publishedAt: 2025-04-04
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2172894/book-6-ch-3-a-reckoning"
+royalRoadId: "2172894"
+removedAt: "2026-07-03T13:47:21.923Z"
+---
+
+Arthur blinked in the strong noonday sun. He didn’t know what it was about higher latitudes, but it always seemed like the sunshine was stronger there.
+
+He turned to see Reginald, who stood two feet away, staring at him as if he were a ghost.
+
+Arthur couldn’t help himself. “I’m a Legendary card wielder. You thought you could keep me trapped?”
+
+But the other man was not in the mood for quips. He turned and ran, but not before he gestured behind him.
+
+A thick stone wall grew up from the ground behind him, separating himself from Arthur.
+
+Arthur’s Counterfeit Siphon immediately caught the spell.
+
+New Counterfeit spell obtained: Impenetrable Wall
+
+Remaining Time: 11 Hours 59 Minutes 59 Seconds
+
+They were in the middle of a marketplace—one he’d visited more time than he could count.
+
+Around them, people yelled at the sudden appearance of a stone wall. One woman carrying a basket of vegetables jumped back in surprise to keep from getting knocked over. Within a moment, it was ten feet high and too thick to easily break through without a high-leveled strength card.
+
+Arthur supposed he could just use his Phase In, Phase Out card, but he leapt and caught the top, muscles working smoothly. The toes of his boots dug in to grip the rough wall and his Climbing Skill kicked in so efficiently that he was up at the top in a blink.
+
+From that high point, he caught a glimpse of Reginald and saw which alleyway he turned down next.
+
+People were staring, of course, and Arthur knew how to use them. He pointed to Reginald, who was just disappearing. “Stop him! Thief!”
+
+Some people looked on, bemused. But some—mostly those whose progress had been blocked by the wall—sent angry glares Reginald’s way. After all, he was the one running away. He looked guilty.
+
+A few of those took up the cry of, “Thief!”, “Stop the thief!” and “That man!”
+
+By then, Arthur had easily glared the wall and was running after as fast as he could with his Running skill.
+
+But the streets beyond were choked—even more so now there happened to be a big barrier in the way. He ended up activating his Phase In, Phase Out card anyway to go through carts and cut corners down to the next alleyway.
+
+More people had taken up the call and Reginald was being rather obvious as he made his escape. Arthur was catching up to him. He hadn’t worried about that. Mostly, he was worried that once the man knew he would be caught, he would choose to portal away.
+
+After all, the only way he could have reached Wolf Moon hive this quickly was by portal card.
+
+His fear was borne out to be true when Reginald darted down an empty, shadowed side-street and gestured ahead of him. A shimmering portal began to open in the air about twenty feet away.
+
+Arthur put on a burst of speed and slammed the other man into a wall. Reginald’s breath exploded out from him, and from the corner of his eye, Arthur saw the portal collapse.
+
+He didn’t allow Reginald to catch his breath. He spun the man so they were face-to-face and then grabbed his shirt. “Who paid you to do this?”
+
+“You shouldn’t… you can’t…” Reginald still stared at Arthur as if he were a ghost. “That’s my library, my card. You broke through the sanctity of my heart deck! You can’t—”
+
+Arthur nearly snorted. “Sanctity? You know my dragon eats cards, don’t you?” He wasn’t worried about spreading that little rumor around to his enemies.
+
+Reginald’s eyes were clearing and Arthur read flashing anger and disgust within them. “You’re a disgrace to Blood Moon hive—”
+
+“Chester was the disgrace,” Arthur said. “You saw what he was doing to his own people.”
+
+“Sacrifices had to be made,” Reginald shot back, with the force of a true believer. “It is the job of the weak to feed the strong.”
+
+Arthur’s top lip curled in disgust. He didn’t know why he was wasting his time talking to this man. Though he’d always had mixed feelings, to say the least, about killing someone, he had not mourned Chester’s death whatsoever. He just wasn’t sure he was ready to take over the position of hive leader in his place.
+
+Their little talk had not gone unnoticed.
+
+“Hey,” someone called from down the street. “You caught the thief? Do you need me to call out or the guard?”
+
+“No,” Arthur said, and the rest of the lie tripped easily from his tongue. “He ran out from Barlow’s place. I’m going to haul him back.”
+
+“Oh.” The man laughed. “Ran out from his meal, did he?”
+
+Reginald didn’t say anything, just glared sullenly. The fact that he didn’t say anything in his defense or cry out or claim that Arthur was kidnapping him was suspicious.
+
+The hair rose on the back of Arthur’s neck. He stepped aside a second before Reginald, who had braced himself against the wall, tried to push Arthur back… right into the portal he’d created.
+
+With Arthur stepping aside, he had a free path to escape through the portal.
+
+At least until Arthur reached out and grabbed the card he could feel thrumming in his heart.
+
+Reginald gasped and fell to one knee, portal collapsing.
+
+Arthur glanced down at the card long enough to register that it was an Uncommon—somewhat unusual for a portal card—then he tucked it into his Personal Space.
+
+Reginald wheezed.
+
+“Oh, come now,” Arthur said. “You must have heard the rumors. Did you think my dragon was the only one who could steal cards?”
+
+“You’re a monster,” Reginald gasped.
+
+“And you have three more cards in your heart.” Arthur made his voice cold. This was not the part he was looking forward to, but he’d known at some point the conversation would come to this—he’d known it from the moment he had found himself locked in the library. Perhaps that was part of the reason why he had procrastinated getting out. “Do you want me to take them out one by one, or do you want to save yourself the agony and just tell me why you brought me back to Wolf Moon hive?”
+
+Reginald looked at him like he was an idiot. “Why do… you think?” he gasped. “Leadership put a bounty out for their traitor.”
+
+Of course. He supposed it had been obvious.
+
+“How much was the bounty?” Arthur asked.
+
+“A Legendary card. You can kill me,” Reginald said defiantly. He was recovering form the loss of his card quickly enough that it must not have been in his heart for very long. “But there will be others coming for you.”
+
+Arthur took out Reginald’s three cards.
+
+The man gasped and choked, keeling over as if Arthur had taken his very heart. But he was human, not a magical creature. The removal of his cards wasn’t fatal. Just very, very painful.
+
+“I never promised I wouldn’t take them,” Arthur said, then took a moment to glance at his two new cards as well as the portal card. The one that had produced a granite wall was an Uncommon. No surprise there. It was simple and direct and also had a cool-down of 24 hours.
+
+The portal card didn’t have a cool down but could only move 250 miles at a time. He must have had to make multiple jumps to get to Wolf Moon hive.
+
+The last two were both Rare. One was the library card.
+
+Access To A Hidden Place
+
+Utility
+
+Rare
+
+Upon casting, the wielder of this card will be able to create a doorway into a hidden library filled with bookshelves and an attached area for study. This is a real space outside normal dimensions so objects stored there will remain if the wielder parishes and will be transferred to whomever claims this card next. This card does not use mana.
+
+Search out other cards in the Hidden set to gain additional powers.
+
+The other was a support card centered around the skills of butlering. This one had given him the most resistance coming out of his heart. It had very likely been his very first card.
+
+The Art of Butlering
+
+Support
+
+Rare
+
+The wielder of this card will be granted instant access to a varity of butlering and estate management skills. Each skill will start at level 5 and will remain if the card is removed or destroyed. While in possession of the card, the wielder will receive a 35% boost to butlering and estate management skills.
+
+Skills:
+
+Tea service
+
+Table setting
+
+Etiquette
+
+Hospitality logistics
+
+Garment care
+
+Cleaning knowledge
+
+Staff scheduling
+
+Conflict resolution
+
+Household accounting/budgeting
+
+Diplomacy
+
+Cocktail mixing
+
+Basic cooking
+
+Food preparation
+
+Sommelier
+
+Floral arrangement
+
+Basic business acumen
+
+He frowned in thought for a moment.  He had some of these from his years of experience, but more skills were better than no skills.
+
+Reginald made a sound of protest as Arthur slid it into his own heart. Instantly, the new skills were added at level 5. Some of them like Diplomacy and Staff Scheduling would come in handy. Tea Service… not as much.
+
+To his delight, his Master of Skills card took into account any overlapping skills and simply gave a moderate boost to the original. His Cleaning skill gained 3 levels alone. That was really worth something because it became progressively harder to gain experience as the levels grew higher.
+
+It only took a moment for his new skills to settle and his existing skills to merge. Once that was done, Arthur took the out of his heart again.
+
+Thanks to his Master of Cards and heart deck plasticity he'd gained during his time in New Houston, removing cards from his heart didn't bother him much. Though he made a mental note to practice some basic meditation to ease any strain on his heart deck.
+
+Reginald watched him in horror. "What are you?"
+
+In answer, Arthur handed him back his Butlering card. The man instantly slipped it back into his own heart and let out a sigh of relief.
+
+"Get out of here," Arthur said. "I don't ever want to see you in Blood Moon Hive again. Go appeal to Whitaker if you want—tell him what you saw today and that I sent you."
+
+The man started to rise, but Arthur wasn't done with him yet.
+
+"Reginald," he said, and the former butler froze. "You should count yourself lucky. I'm the nice one. If my dragon had been the one to catch you, he would have eaten those cards right in front of you."
+
+The man gave a jerky nod and then fled.
+
+Arthur turned in the other direction. He had barely reached the mouth of the alleyway before self-disgust hit him like a sledgehammer. He turned the corner, rested against the wall and closed his eyes for a moment to gather himself.
+
+He hadn't liked doing that. No doubt Reginald had certainly deserved it and would have done worse to Arthur if he the chance, but he still hadn't liked it.
+
+And... he had brought Arthur home.
+
+His thoughts reached out to Brixaby, but they could  not communicate that way over such large distances. He suspected the dragon was still asleep anyway – the dark rower’s portal card belonged to him, and the fact he hadn't used it yet meant he was unaware of Arthur's absence.
+
+Brixaby had been sleeping a lot, recently. Enough that Arthur had a quiet word with one of the servants who had a Common card to diagnose dragon ailments. He was assured that Brixaby was perfectly healthy.
+
+Maybe Brixaby was just getting used to his larger form.
+
+He didn't need his dragon to go back to Blood Moon Hive... but he found he didn't want to. The whole place was a nest of snakes. Reginald was evidence to that.
+
+Closing his eyes, Arthur inhaled. The air even smelled like home.
+
+He wouldn't have much time here. Reginald probably was on his way to Whitaker to tell exactly what a monster he thought Arthur was. Knowing Whitaker, his next move was sure to be done.
+
+"I need to go back," Arthur said to himself. He almost believed it.
+
+But when he opened his eyes again, his feet took him along familiar cobblestone streets. He walked past the arena that he and Horatio had one time seen a card dueling competition at when they had been children.
+
+And before long, he found himself within view of one of the entrances to Wolf Moon hive.
+
+He was here now, so he may as well make the most of it. He had just enough time to tie off a few loose ends.

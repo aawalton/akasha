@@ -1,0 +1,267 @@
+---
+id: 7ccb56f9-4d3c-5b41-8b9d-b09570c4dc4b
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Ch16: Quite The Entrance"
+slug: 0023-book-6-ch16-quite-the-entrance
+partOf: all-the-skills-a-deckbuilding-litrpg
+position: 23
+ownLength: 3135
+unit: words
+ownProgress: 3135
+publishedAt: 2025-06-24
+link: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2382741/book-6-ch16-quite-the-entrance"
+royalRoadId: "2382741"
+removedAt: "2026-07-03T13:47:45.198Z"
+---
+
+Now that they were released from the safety of the bubble shield, the legendary dragons flew upward to meet them. Arthur readied himself for a fight.
+
+Marion’s quick healing refresh had done him a lot of good, yet he still felt hollow inside. It was as if the Cataclysmic Firestorm card had drained him of something that wasn’t mana.
+
+Life force? No, he’d had that happen before, and it had been painful. This was enervating.
+
+But ready or not, he had to look the part of a strong leader. Despite how he felt, he sat up straight and tall on Brixaby’s neck. Underneath, he felt tension running through his dragon’s frame as he held himself too.
+
+Brixaby hadn’t gone through the ordeal of activating and then deactivating such a powerful Legendary card, but he had been flying at Purple speed through this eruption.
+
+“Arthur?” Marion asked from his seat behind him. “What’s going on here?” He was looking around, looking sickened at the amount of devastation on the ground level. Arthur didn’t blame him. He also didn’t have time to explain.
+
+“An eruption gone bad.”
+
+Brixaby turned and looked at Asha, who clung on awkwardly to his back. Barely out of the egg, she wasn’t much of a flyer yet and certainly didn’t have the stamina to keep herself aloft at high altitudes, which could be tricky with crosswinds.
+
+“Look sharp and fierce,” Brixaby told the little dragon. “We have company, and they will learn to fear us.”
+
+She nodded rapidly and then screwed up her muzzle in what she probably thought was a mean face. The little Silver was a healer at heart. It didn’t look very mean.
+
+Arthur glanced down again to gauge the progress of the incoming Legendaries… and to his surprise, they were taking their time arriving. In fact, some looked downright hesitant. As he watched, a few peeled away as if deciding that helping the lower-ranked dragons mop up the last of the scourglings was much more important than dealing with Arthur right now.
+
+That group included Whitaker. His mountain of an orange dragon flapped off towards a group of what looked like other Wolf Moon hive dragons who were encircling a small cluster of butterfly scourglings.
+
+Arthur had no illusions and knew the man wasn’t done with him yet. He would have to watch his back for quite some time. What else was new?
+
+Ismael arrived first. His dragon, Marv, looked at Brixaby with an assessing eye.
+
+When Ismael spoke, Arthur heard his voice as easily as if they were sitting next to one another instead of being separated by a couple of hundred yards of clear sky.
+
+“Leader Arthur. It seems you know how to make quite the entrance.”
+
+There was a good dollop of irony in his tone. Then again, the man had been there when he had bonded to Brixaby, and that, surely, had been… memorable.
+
+Arthur nodded back, and moments later, the other Legendaries had arrived. Their dragons were exceedingly large, and none of them had the wing configuration to hover in place like Brixaby. So they flew past one another, circling Arthur and Brixaby in complicated patterns that might have roiled the air if Brixaby hadn’t been such a deft flier.
+
+When they spoke, Arthur heard them easily. They must have communication card anchors.
+
+“Where are Desmond and Sybil?” a woman asked. She was old enough to have thick streaks of silver in her upswept hair.
+
+“I bet he killed them too,” answered a man Arthur didn’t know. “Clean sweep of the hive.”
+
+“Good riddance,” muttered a third.
+
+I’m going to have to reexplain all of this, Arthur thought with resignation. He didn’t have the energy to play politics.
+
+Luckily, it seemed he had some allies on his side. Rose and Hale had also come along. Their dragons managed to fly around in a pattern that took them closer to Brixaby. They had put themselves between Arthur and the other dragons.
+
+“Use your head,” Rose snapped at the woman. “You know those two. Do you think either would have been useful in a situation that required thought?”
+
+“Desmond and Sybil are safe,” Arthur said. “They’re taking care of my hive.”
+
+“Why was it Blood Moon was so late to the eruption?” asked the man who had accused Arthur of killing the other leaders. He was bald as an egg and rode a brown so dark he looked almost black.
+
+Arthur debated answering him. All the hives were independent from one another – they answered only to the king. That meant it was none of their business why Blood Moon had been late through the portals.
+
+In this case, though, a little honesty could go a long way. “I just took over as Leader, and there were… some unfortunate gaps in the chain of communication.”
+
+Ismael scoffed. “That’s why, young man, you learn how to lead as a junior before you take the position as senior.”
+
+“What, you think Sybil would be better?” snarked someone.
+
+Rose chuckled darkly. “Let’s be honest here. Chester will not be missed.”
+
+“The gaps will be addressed, and I intend to show the value of my leadership.” Arthur channeled his inner Brixaby. “Blood Moon is mine.”
+
+There was a pause.
+
+“Well, I’m not fighting you for it,” said the woman with the silver-streaked hair. “That hive is awful.”
+
+“If he can turn that place around, then I have no complaints,” muttered Hale.
+
+No one else spoke. It was hard to read their expressions as there was a lot of distance between the circling dragons, but he didn’t sense much outright anger.
+
+However, he suspected he would have already been under several challenges if he hadn’t just shown the ability to completely wipe the land clean of all life.
+
+Time seemed to freeze around Arthur. Suddenly, Ismael and his green dragon were right before them, the dragon so close to Brixaby that their muzzles were nearly touching.
+
+Arthur tensed, expecting Brixaby to fly backward to put some space between them.
+
+He wasn’t moving.
+
+Looking around, he realized Brixaby was frozen in time. And the way that Marv hovered wasn’t natural.
+
+“Am I in an illusion?” he demanded. It was the only thing he could think of because complex card spells fell apart when they touched Brixaby. His natural nullification magic was powerful.
+
+Then again, Ismael and Marv were Legendary-rankers too.
+
+“You are in no danger here,” Ismael said calmly. “I wanted to pass the message along that I wished to speak with you at Buck Moon… or if you prefer, I can come to your hive.”
+
+Arthur thought about it. He wasn’t going to rant and rail about being pulled into an illusion—and he could see it unraveling at the edges anyway, spots of dark creeping in where there shouldn’t be any. Perhaps Brixaby’s nullification magic was doing its work.
+
+He wasn’t going to show any fear, either.
+
+“I will join you at Buck Moon, two days from now,” he said.
+
+“Very good.” Ismael gave a gracious nod. “There are things, young Arthur, we need to speak about, leader to leader.”
+
+In an instant, Arthur was back on Brixaby’s neck.
+
+“Enough of this!” Ismael called. “We need to finish the cleanup of this eruption and return. I don’t know about the rest of you, but I intend to put this cursed place behind me.”
+
+There was some grumbling and thrown insults about Blood Moon. However, one by one, the Legendaries peeled off to do the same, though not without some lingering looks in Arthur’s direction.
+
+Brixaby looked surprised. “That’s it? No fighting?”
+
+“Did you see what happened with Ismael and Marv?” Arthur asked quietly.
+
+“What do you mean?”
+
+He shook his head. “I’ll explain later. Let’s get back to the hive.”
+
+Brixaby flicked out his tongue in dissatisfaction and gazed downward. “What of the Legendary card? The demi-scourgling’s body has not been recovered.”
+
+It was buried under tons of rock. Interesting that even the brown earth-typed dragons didn’t seem interested in retrieving it. Perhaps they feared any lingering mind magic.
+
+Arthur didn’t.
+
+“We’re coming back for it,” he said. “But we’ll have to wait for this area to clear first.”
+
+And he felt dirty just from using the Cataclysmic Firestorm card. He needed a bath… and perhaps a nap.
+
+****
+
+Arthur knew he was drained, but he had not truly understood how exhausted he was until later on.
+
+He barely remembered Brixaby taking him through the Dark Rower’s portal, and absolutely nothing about that place. He only caught snatches of bright blue sky as they emerged at Blood Moon hive, and the view of green in the distant sharp mountains. Such a difference from the destruction back at the eruption.
+
+Cressida and Joy met them at the leader’s ledge. At a glance, it seemed the rest of the retinue was keeping everyone away so no one shouted questions at him. The Wing Captains kept their distance, and the other Legendary leaders were nowhere in sight.
+
+The only thing he could think of at that moment was to be grateful.
+
+Cressida didn’t ask him any questions, though she directed a look Arthur couldn’t read to Marion. Then she led him inside the hive while Joy took care of Brixaby.
+
+The next thing he knew, he had found the bed and was asleep.
+
+He woke sometime later—though he couldn’t say if he’d been asleep for an hour or an entire day. His chest burned as if he were suffering from a terrible case of heartburn. Except it came from his heart deck.
+
+That stupid Firestorm card, he thought with irritation.
+
+When he struggled out of bed, he realized someone had taken off his boots and the chainmail he used for combat situations.
+
+He quickly dressed and bathed using a card anchor that provided hot running water. Sometimes it was good to be Leader.
+
+The sun was still up when he went out on the ledge. Brixaby was awake and sitting with Joy. Both dragons had their backs to him and their heads were close together. They seemed to be involved in a very intense conversation.
+
+Arthur decided he didn’t want to interrupt.
+
+He backed up and almost ran into Horatio.
+
+“You’re awake,” his friend said. “Finally.”
+
+“How long was I out?”
+
+Horatio grinned sideways at him. “A day and a half.”
+
+Arthur stared, unsure if he was joking or not.
+
+Horatio waved his concern away. “Oh, we let Marion check on you a few times. We knew you weren’t dying. He said you were just magically exhausted, whatever that meant. Cressida checked on you a few times too.” He waggled his thick, dark eyebrows.
+
+Arthur tried to scowl, but he couldn’t quite keep back a stupid smile that threatened. “She wasn’t… worried, was she?” he asked, though what he really wanted to ask was, Did she know what I did? Did she think it was heroic?
+
+“She thinks you’re an idiot,” Horatio said happily, and slapped him on the shoulder.
+
+“Thanks,” Arthur said. “Well? What’s going on? What did I miss?”
+
+“Nothing much. There hadn’t been another eruption, thank all my cards. The seers don’t think there will be one today at least, but they didn’t exactly call the last one in time, did they?” he added with his usual amount of acidity.
+
+But an odd expression flitted across his face. Arthur picked up on it immediately. “Something else happened, didn’t it? Desmond and Sybil?” Did they finally wake up and make their moves?
+
+“No, they’re useless. They just sit there, drink wine, and think that just because no one asks them any questions, it means there’s no work to be done.” He sighed. “It’s not important, Arthur. You should get something to eat.”
+
+But he wasn’t going to let this go. “What happened?”
+
+Horatio hesitated, then shook his head again. “The wing captains came by to pay the blood price for their wings.”
+
+Arthur stiffened, but before he could say anything, Horatio held up his hand.
+
+“Look, either we were going to take it, or they were going to give those shards to those two.” He jerked his chin at one of the far-off ledges where the other two Legendary dragons were lounging indolently in the sun. “And we made a full accounting. Cressida has them all locked up somewhere. But Art, people are freaked out that if they don’t pay the price, they’re going to owe their life energy later.”
+
+Of course they are, Arthur thought. It wasn’t going to be easy to change the culture of fear in this hive.
+
+He nodded. “I’ll let it go. For now.”
+
+“Thanks,” Horatio said wryly. “Also, Marion wants to check you and give you the ol’ healer’s okay.”
+
+“I’m fine,” Arthur said, except he wasn’t really fine.
+
+The burning in his chest that had woken him up was still there—a constant pained reminder.
+
+Maybe it was the lingering irritation over hearing people still paying the blood price, but he was abruptly sick of it. Arthur looked around to make sure that no one could easily see him. He and Horatio were just inside the hive, safe in the shadows.
+
+With a grimace, he reached to his chest.
+
+“What are you doing?” Horatio asked sharply. “What are you doing?” he repeated again, his voice higher and more alarmed as Arthur drew out Cataclysmic Firestorm from his heart deck.
+
+“There’s something wrong with this card,” Arthur explained through gritted teeth.
+
+“There’s something wrong with your brain. That was in your heart!”
+
+It was hard to remove the card, almost as if there were invisible strings trying to pull it back. But Arthur persisted, and with a wrenching sensation, it was out.
+
+He rubbed at his chest with his free hand. There was a slight ache left behind, but it was nothing compared to the relief.
+
+Seeing Horatio was still staring, horrified, he gave his friend an exasperated look. “You know I got some flexibility from our time in New Houston.” Then he paused. “Didn’t you?” After all, Horatio had gone down to the Dark Heart, too.
+
+The alarm was starting to fade from Horatio’s eyes, replaced by some chagrin. “Not as much as you, apparently. Sams and I think we have a little more—” he paused to think of the word, “affinity for light-based cards. Sams even thinks we have a better chance of creating more cards out of shards with a light-based aspect that would complement us. Though we haven’t tested it out yet. He’s older than dirt, so he probably knows what he’s talking about,” he added, with affection for his dragon.
+
+Arthur nodded. “That’s useful. As for me… I don’t want to try removing a card I’ve had in there for a long time, but for this?” he shrugged. “It’s fine.”
+
+He had half a mind to remove the Time card too. Wait, how long had he had it in there for? He couldn’t remember off the top of his head, and that was probably not a good sign. But the card’s abilities were just too useful.
+
+Plus, something inside told him not to discard it just yet. It was an intuition, and he’d learned to listen to those.
+
+“Can I see?” Horatio held out his hand. “I’d heard stories.”
+
+Arthur easily handed the card over. He had no fear that Horatio would try to take it for his own. His friend would never steal, but also he and Sams were a linked pair, and Horatio could never ascend ranks without leaving his dragon behind.
+
+Horatio read over the card and screwed up his face. “This is worse than I thought, even from the stories I heard about the eruption. Good thing Chester and Blooddrop didn’t use it on you two.”
+
+“I don’t think we gave them the time,” Arthur said. “Maybe if the battle had been more drawn out.” Though after using the thing, he had his doubts. After all, Arthur could spend the time to recover after using the card because he had his friends around him to watch his back. But Chester had ruled through fear, and if there were someone desperate enough not to pay the blood price…
+
+Arthur shook his head, banishing those dark thoughts, and reluctantly took the card back. He stuck it in his Personal Space for now, though the magical weight of the thing practically filled the space all by itself.
+
+“Horatio, call the rest of the retinue. We need to talk.”
+
+“Leave the useless Legendaries out of this?” Horatio asked with a crooked grin.
+
+“It’s not like they can contribute anything anyway,” Arthur agreed, then went in search of the hive’s seers.
+
+****
+
+He and the human portion of the retinue met in Chester’s old office. It had been one of the first times Arthur had been in there, and he found it to be a generously sized room, decorated with dark oak wall paneling, lush furniture, and oil paintings.
+
+Chester had an awful taste in art. Each scene portrayed a battle with scourglings against men, with dragons flying in the sky. Terrible deaths littered each canvas, highlighted by bright red splashes of blood.
+
+Arthur made a face and started taking down the paintings. He didn’t know what his taste in art was, but it certainly wasn’t that.
+
+He’d just about finished when everyone else trooped in. Cressida was first, looking slightly alarmed until she saw that Arthur was upright and moving well. She was followed by Marion, who looked annoyed that he was upright. Horatio was next, grinning as if he knew Arthur was about to be in trouble with the healer. Soledad came a step after and was the only one not paying attention to him. Instead, all her focus seemed to be on Horatio. And now that Arthur was looking, he noticed his friend was sneaking glances back at her.
+
+“Thanks for coming,” Arthur said. “I’ll make this quick: We’re going back to the eruption to see what, if anything, we can salvage. There might be lingering mind magic, though, so you will need this.”
+
+He pulled out small, thin metal sheets from his Personal Space. Each sheet had been inscribed with card anchors and attached by a simple chain to be used as a necklace.
+
+“Oh, gifts?” Soledad asked, then made a face when she received one. “Not very pretty, though.”
+
+“But useful,” Arthur said. “I got the card anchors from the seer, and Brix was able to bash these out. They should provide enough protection.”
+
+“From what, though?” Cressida asked. “We all heard about the firestorm. The butterflies are dead.”
+
+“I’m not sure the demi-scourgling is dead,” Arthur said. “Brixaby and I intend to make sure of it and then harvest whatever card it has.” He paused. “Then, I want to harvest the heart of the eruption itself.”

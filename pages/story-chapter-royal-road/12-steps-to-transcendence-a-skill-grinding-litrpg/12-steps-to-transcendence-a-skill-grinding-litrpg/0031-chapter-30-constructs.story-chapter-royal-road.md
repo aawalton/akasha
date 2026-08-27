@@ -1,0 +1,239 @@
+---
+id: 0de4edba-b157-53eb-9feb-4ec086e1ae40
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30: Constructs"
+slug: 0031-chapter-30-constructs
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 31
+ownLength: 1682
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3797419/chapter-30-constructs"
+royalRoadId: "3797419"
+---
+
+Blinking slowly, Ben just stared at the empty space where the angry noble brat had been standing.
+
+Did that kid really just throw a massive temper tantrum because he got punched in a fight?
+
+Replaying the last thirty seconds of sheer absurdity in his head, Ben felt a massive migraine starting to build behind his eyes.
+
+Wait.
+
+Thinking back to what Brian had just screamed about magical supremacy and showing off, it actually started making a twisted kind of sense.
+
+These pampered rich kids probably treated spars like some kind of overly dramatic high class talent show. They probably just stood in a polite little circle and threw pretty colored lights at each other to see whose was the brightest.
+
+Rubbing his temples as he still hadn't recovered from exhausting his 'mana muscle', Ben let out a long, deeply exhausted breath.
+
+He had legitimately, one hundred percent thought the kid was trying to rip his head off with that wind magic. So naturally, he had simply closed the distance and punched the arrogant prick directly in the jaw to stop the threat.
+
+Bursting into another loud, entirely undignified fit of giggles, Alice clutched her stomach.
+
+Leaning heavily against the wooden log, she looked like she was losing her damn mind.
+
+Wiping away tears from her eyes, she pointed a shaking finger at him.
+
+"You... you just punched him!"
+
+Dropping his hands, Ben gave her a completely flat, deadpan look.
+
+"He shot lethal magic at my head, Alice."
+
+"And you just punched him!"
+
+Gasping desperately for air, the noble girl looked like she was about to pass out from laughing so hard.
+
+Honestly, he didn't see what was so damn funny about it.
+
+But looking at her bright red face, he couldn't help the tiny, amused smirk that tugged at the corner of his mouth.
+
+It was pretty damn funny how fast the kid hit the dirt, actually.
+
+"He literally asked for a spar."
+
+Waving her hands frantically in the air, Alice tried and failed to compose herself.
+
+"You just don't understand, Ben."
+
+She finally managed to stand up somewhat straight.
+
+"He has probably never been hit by anything harder than a silk pillow in his entire life. He's not really from a warrior House."
+
+Yeah, that definitely checked out.
+
+Sighing softly, Alice smoothed down the front of her dress.
+
+"Since we were so rudely interrupted by that absolute buffoon, let me just continue."
+
+Tapping her chin lightly, she gave him a surprisingly genuine, almost friendly smile. And Ben just realized that she'd dropped her haughty way of talking to him for a while now.
+
+"I do owe you that much, at least, for giving me the absolute best show of the entire month."
+
+Ben raised a highly skeptical eyebrow.
+
+"You're actually going to help me without calling me a peasant first?"
+
+"Do not push your luck, commoner."
+
+He dropped back down onto the soft grass and crossed his legs.
+
+"So, the cup thing."
+
+Gesturing vaguely to his empty right hand, he waited for her to start dropping that aristocratic wisdom again.
+
+"Right."
+
+Stepping much closer, she looked down at his palms with a highly critical, analyzing eye.
+
+"You managed to form the container perfectly in your mind, but your actual concentration is pathetic in the long run, even if whatever mental skill you have going on helps you a lot for the initial burst."
+
+"How am I supposed to keep it stable when I'm actively being shot at?"
+
+"Are you really gonna complain about that? Are you gonna tell that to your attacker? Please stop, don't attack me, I'm a poor little commoner. Let me just create this container, fill it up with mana and create this attack. You just wait."
+
+Ben opened his mouth to retort.
+
+Then closed it.
+
+She had a point.
+
+"So what do I do?"
+
+"Practicing it until it becomes second nature."
+
+Alice held up a single, demanding finger.
+
+"You have to reinforce the mental visualization until the cup holds itself, even if you get completely distracted."
+
+So he just had to give himself a hundred more magical migraines until his brain fundamentally stopped breaking under the pressure.
+
+Got it. Simple enough.
+
+"And then what? I just throw the invisible marble at people?"
+
+Alice let out a loud, exasperated huff in response, giving him a pointed look.
+
+"No, you idiot."
+
+Summoning a tiny, brilliant spark of light on her fingertip, she twirled it around casually like a toy.
+
+"Once the container is perfectly stable, you shape the mana into whatever you actually need before you release it. It's called a construct, and you can do a lot of things with them. You can even design a set of actions that they can perform on their own. For instance, moving your mana a certain way, or making a skill do an action continuously without much input on your end. At least after the start. For now don't worry about that and just focus on containers."
+
+Oh, that's interesting. It can automate things?
+
+"It can also just be something as simple as attacks, of course. But unlike skills, constructs aren't limited, though your body does have limits on how many constructs it can hold at once. After all, if skills are carved into your soul, then constructs are carved into your body, in a metaphysical sense, at least."
+
+Nodding slowly to himself, he realized he could probably use this exact method to condense his [Mana Missile] even further.
+
+If he built a tight mental tube inside his arm, he might be able to fire it without shattering his own bones.
+
+Dropping the floating light, Alice looked toward the bustling center of the camp with a slight, worried scowl.
+
+"But honestly, you really shouldn't be practicing out here right now."
+
+Tilting his head to the side, Ben narrowed his eyes at her sudden shift in tone.
+
+"Because of the other nobles? Arthur did say something about that."
+
+"Yes."
+
+Turning back to face him, her expression turned entirely, uncharacteristically serious.
+
+"Arthur was completely right to keep you inside the perimeter today."
+
+Pinching the bridge of his nose, Ben felt the familiar, burning annoyance creeping right back into his chest.
+
+"He said they'd challenge me to a stupid duel."
+
+"They would absolutely murder you, Ben. Well, probably not literally, but they're dangerous."
+
+Blinking in sheer, unfiltered surprise, he stared up at the girl.
+
+Well, that escalated quickly.
+
+"The vanguard that just arrived at the gates isn't just a bunch of spoiled children like Brian."
+
+Alice looked genuinely stressed out by the mere thought of them.
+
+"They are the next generation main combat forces of the major Houses. Or, at least, the attending major Houses."
+
+Leaning forward eagerly, he rested his elbows on his knees.
+
+"Why are they all coming here right now?"
+
+"Because of the expedition, obviously."
+
+Rolling her eyes hard at his total ignorance, she completely missed the point that he literally didn't know anything about their politics.
+
+"The expedition is not just walking near a river, Ben. But, ugh, whatever, you don't need to know anyway. You look tired."
+
+"Because I am. I'm just going to go back and train."
+
+Frowning in obvious confusion, Alice watched him turn toward the distant rows of medical tents.
+
+"You literally can't leave the camp, Ben. At least not the normal way."
+
+"I know. That's exactly why I'm going to my bed. This is just too much right now. I'm gonna practice my skills and mana."
+
+Stepping forward quickly, Alice caught the sleeve of his shirt in her tight grip.
+
+"Wait."
+
+Pulling his arm free gently, he raised a questioning eyebrow at her.
+
+"Don't worry."
+
+Flashing him a conspiring, incredibly sneaky little grin, she whisper-shouted, much to Ben's amusement.
+
+"I can get you out."
+
+"...Huh?"
+
+"I know a hidden blind spot in the guards' patrol routes."
+
+Lowering her voice to a dramatic, excited whisper, she practically bounced on her expensive heels.
+
+"It's how I left before… well, I got kidnapped. What do you want to do? We can sneak out right now while everyone is busy with the vanguard."
+
+Staring at her excited face, he genuinely couldn't figure out why she was being so incredibly helpful.
+
+"You've been trying to get that [Regeneration] skill, right?"
+
+"Wait what? How do you know?"
+
+Tapping her chin thoughtfully, she looked incredibly proud of her own deductive reasoning.
+
+"That's why you keep obsessively hunting those nasty little goblins every single day."
+
+She really had been paying close attention.
+
+Honestly, the offer was incredibly tempting.
+
+He desperately needed that skill to fix his shoulder faster, and being stuck inside the camp was driving him utterly insane. It hadn't even been a few days and the poison had started acting up again. He'd been feeling dizzy lately, and it wouldn't be long before it would be back to dangerous.
+
+Thankfully, he had Marcus, for now, but he couldn't rely on him forever.
+
+But if he went out into the woods right now, with half his mana drained and a massive headache, he would probably get himself killed. Or worse, he'd accidentally get Alice killed.
+
+Shaking his head firmly, he was firm in his decision.
+
+"Not right now."
+
+Dropping her hand, Alice pouted heavily like a denied child.
+
+"I just want to get to my bed and take some rest."
+
+Heading back toward the relative safety of the loud, annoying camp, he shoved his hands deep into his pockets.
+
+He only made it a few dozen steps toward the medical tent before someone stepped directly into his path. Halting immediately, Ben suppressed a deeply tired groan.
+
+Who is it this time?
+
+The guy had messy black hair that looked strikingly similar to Ben's own, but that was entirely where the physical similarities ended.
+
+Piercing, vibrant green eyes stared back at him with intensity.
+
+The guy's face was ruggedly defined and undeniably handsome in a very rough sort of way.
+
+He was actually a bit shorter than Ben, but the oppressive physical presence he carried effortlessly made him seem significantly older and far more dangerous than anyone else in the camp so far.
