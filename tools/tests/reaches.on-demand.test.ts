@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { codeReaches, type Reaches } from "../lib/code-reaches.ts"
+import { installRepos } from "./fixture.ts"
 
 const SCRATCH = "/var/tmp"
 
@@ -15,6 +16,12 @@ function tree(files: Readonly<Record<string, string>>): string {
     mkdirSync(at.split("/").slice(0, -1).join("/"), { recursive: true })
     writeFileSync(at, body)
   }
+  // THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names, so a
+  // temp tree without them makes `roots.ts` throw before `reaches.ts` scans anything. They are
+  // markdown, so nothing here counts them: the scan reads `.ts` only.
+  installRepos(root)
+  // A ROOT IS NAMED ONLY WHERE IT IS CLONED — `resolveRoots` skips a directory holding no `.git`.
+  Bun.spawnSync(["git", "init", "-q"], { cwd: root })
   return root
 }
 
@@ -277,7 +284,10 @@ describe("bun tools/reaches.ts — what the run itself reports", () => {
     flags: readonly string[] = ["--json"]
   ): Promise<{ code: number; out: string; err: string }> => {
     const child = Bun.spawn([process.execPath, `${import.meta.dir}/../reaches.ts`, ...flags], {
-      env: { ...process.env, INSTRUCTIONS_ROOT: root },
+      // `AKASHA_ROOT` IS WHAT NAMES THE TEMP TREE. This set `INSTRUCTIONS_ROOT`, which nothing reads:
+      // `reaches.ts` scans `rootFor(resolveRoots(), AKASHA)`, so each case below scanned the live
+      // checkout and read back its several hundred refs rather than the one file it had written.
+      env: { ...process.env, AKASHA_ROOT: root },
       stdout: "pipe",
       stderr: "pipe",
     })
