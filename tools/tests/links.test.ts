@@ -3,13 +3,10 @@ import { resolveLinks, unresolved } from "../lib/links.ts"
 import type { Roots } from "../../page/page"
 
 const ROOTS: Roots = {
-  instructions: "/repo/instructions",
-  code: "/repo/code",
+  akasha: "/repo/akasha",
   memory: "/repo/memory",
-  books: "/repo/books",
-  stories: "/repo/stories",
   "code-editor": "/repo/code-editor",
-  target: "instructions",
+  target: "akasha",
 }
 
 const resolve = (relPath: string, body: string) =>
@@ -46,7 +43,7 @@ describe("a quote, whose link text is the target's own words", () => {
       relPath: "memory/initiatives/one.md",
       body,
       roots: ROOTS,
-      exists: (at) => at === "/repo/instructions/domains/one.md",
+      exists: (at) => at === "/repo/akasha/domains/one.md",
       readAt: () => target,
     })
 
@@ -100,7 +97,7 @@ describe("a page type's other links", () => {
       relPath: "pages/page-type/domain.page-type.md",
       body: "[a](../page-type/domain.md)\n",
       roots: ROOTS,
-      exists: (at) => at === "/repo/instructions/pages/page-type/domain.md",
+      exists: (at) => at === "/repo/akasha/pages/page-type/domain.md",
       readAt: () => null,
     })
     expect(links.map((one) => one.status)).toEqual(["ok"])
