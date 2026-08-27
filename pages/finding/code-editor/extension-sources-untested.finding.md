@@ -8,13 +8,15 @@ domain-slug: domain/code-editor
 
 # Claim
 
-Fifteen of the twenty-five source files in the editor repository's ops extension carry no test, and the agent tree is among them.
+Fifteen of the twenty-five source files in the ops extension carry no test, and the agent tree is among them. The extension's source now stands in akasha at `editor-extension/src`, `code-editor/extensions/ops` being a symlink to it.
 
 # Evidence
 
 Measured 2026-08-12 over `/var/home/walton/code-editor/extensions/ops/src` by pairing each `*.ts` with a sibling `*.unit.test.ts`: 25 sources, 11 tests, 15 sources with no sibling.
 
-The untested ones are `extension.ts`, `supabase/secrets.ts`, the whole of `features/transcript` (activate, panel, render, sources), the whole of `features/agent-tree` (activate, tree, columns, subagents), `features/terminal-rename/activate.ts`, and `features/status-bar`'s `activate.ts`, `readers.ts`, `slot-types.ts` and `theme.ts`.
+The same pairing re-run on 2026-08-27 over `editor-extension/src` in akasha, on `main`: 70 sources, 43 with no sibling. `editor-extension/src/features/agent-tree/tree.ts` still has none.
+
+The untested ones on the 2026-08-12 reading were `extension.ts`, `supabase/secrets.ts`, the whole of `features/transcript` (activate, panel, render, sources), the whole of `features/agent-tree` (activate, tree, columns, subagents), `features/terminal-rename/activate.ts`, and `features/status-bar`'s `activate.ts`, `readers.ts`, `slot-types.ts` and `theme.ts`. Of those `features/status-bar/readers.ts` no longer stands; the rest of `features/status-bar` — `activate.ts`, `slot-types.ts`, `theme.ts` — and `features/agent-tree/tree.ts`, `columns.ts`, `activate.ts` and `subagents.ts` still carry no sibling test.
 
 This is not a port that dropped anything. #18918 carried every test the code repository held for these files — all eleven — and wired them into `precommit`, where they now fire on every commit touching the extension. The gap is inherited: those fifteen files never had tests on either side.
 
