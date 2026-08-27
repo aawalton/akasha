@@ -1,6 +1,6 @@
 export type RepoPathKind = "home-anchored" | "repo-rooted"
 
-export const HOME_PREFIXES = ["~/repos/code/", "~/code/"] as const
+export const HOME_PREFIXES = ["~/repos/akasha/", "~/akasha/"] as const
 
 export function homePrefixOf(literal: string): string | null {
   return HOME_PREFIXES.find((prefix) => literal.startsWith(prefix)) ?? null
