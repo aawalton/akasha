@@ -82,6 +82,12 @@ export function projectsIn(tree: Tree, read: (path: string) => string | undefine
     if (said.error !== undefined || said.config === undefined) continue
     const parsed = ts.getParsedCommandLineOfConfigFile(path, {}, host)
     if (parsed === undefined) continue
+    // A CONFIG CLAIMING NO FILES OWNS NONE. Ownership runs by path, membership by `files`, so a
+    // solution config at the repository root — references and `files: []`, no compiler options —
+    // stood as the nearest ancestor of every file that had no project of its own. Those files were
+    // judged under empty options rather than the default project: `.ts` import extensions refused,
+    // and `strict` and the bun types never applied.
+    if (parsed.fileNames.length === 0) continue
     found.push({
       at: path,
       under: dirname(path),
