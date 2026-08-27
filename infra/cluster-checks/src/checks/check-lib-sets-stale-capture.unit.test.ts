@@ -4,10 +4,9 @@ import { join } from "node:path"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { analyzeModule, isOutOfScope, scanStaleCaptures } from "./check-lib-sets-stale-capture.ts"
 
-const CONSUMER_FILE = "packages/temper/shared/addon-libraries/lib-sets/src/core/api-drop-zones.ts"
-const LOAD_SETS_FILE = "packages/temper/shared/addon-libraries/lib-sets/src/core/load-sets.ts"
-const SAVED_VARIABLES_FILE =
-  "packages/temper/shared/addon-libraries/lib-sets/src/core/saved-variables.ts"
+const CONSUMER_FILE = "temper/shared-addon-libraries-lib-sets/src/core/api-drop-zones-sets.ts"
+const LOAD_SETS_FILE = "temper/shared-addon-libraries-lib-sets/src/core/load-sets.ts"
+const SAVED_VARIABLES_FILE = "temper/shared-addon-libraries-lib-sets/src/core/saved-variables.ts"
 
 const LOAD_SETS_FIXTURE = [
   "const lib = LibSets",
@@ -261,16 +260,16 @@ describe("isOutOfScope — path scope", () => {
   })
 
   test("out of scope: emitted TSTL bundles under a dist/ tree", () => {
-    expect(isOutOfScope("packages/temper/addons/dist/LibSets/LibSets.ts")).toBe(true)
+    expect(isOutOfScope("temper/addons/dist/LibSets/LibSets.ts")).toBe(true)
   })
 
   test("out of scope: declaration files and non-ts sources", () => {
-    expect(isOutOfScope("packages/temper/addons/types/libs/lib-sets.d.ts")).toBe(true)
-    expect(isOutOfScope("packages/temper/shared/addon-libraries/lib-sets/CLAUDE.md")).toBe(true)
+    expect(isOutOfScope("temper/addons/types/libs/lib-sets.d.ts")).toBe(true)
+    expect(isOutOfScope("temper/shared-addon-libraries-lib-sets/package.json")).toBe(true)
   })
 
   test("out of scope: installed dependencies and generated trees", () => {
-    expect(isOutOfScope("packages/temper/node_modules/libsets/index.ts")).toBe(true)
-    expect(isOutOfScope("packages/temper/completion/src/generated/sets-data.ts")).toBe(true)
+    expect(isOutOfScope("temper/node_modules/libsets/index.ts")).toBe(true)
+    expect(isOutOfScope("temper/game-completion/src/generated/sets-data.ts")).toBe(true)
   })
 })
