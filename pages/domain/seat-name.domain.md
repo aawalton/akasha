@@ -24,4 +24,4 @@ A seat whose principal is Alan takes its persona's name alone, unless that perso
 
 Every other seat's name spells everything it states except its persona.
 
-A handler's seat spells its identity, the person it serves and its role.
+A handler's seat spells the person it serves, and nothing else.
