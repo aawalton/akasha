@@ -42,4 +42,4 @@ A second comment removed beside it says the mock is registered under the specifi
 imports, while the real module the factory spreads is reached by whatever resolves from the
 mocking file. I did not run that half.
 
-`domains/test.md` has no Design section at all today, so either entry would be the first in one.
+`pages/domain/test.domain.md` has no Design section at all today, so either entry would be the first in one.

@@ -9,7 +9,7 @@ domain-slug: domain/global
 # Claim
 
 A suite whose tests skip at runtime reports the skips as passes, so a file where ten of
-eleven tests never execute prints `11 pass, 0 fail`, and no check in the code tree
+eleven tests never execute prints `11 pass, 0 fail`, and no check in the akasha tree
 reports the difference.
 
 # Evidence
