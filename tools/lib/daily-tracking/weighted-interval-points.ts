@@ -1,4 +1,4 @@
-import { numberOf } from "./code-bridge.ts"
+import { numberOf } from "./tracking-modules.ts"
 
 export interface WeightedDayTally {
   readonly points: number

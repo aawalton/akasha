@@ -1,5 +1,5 @@
 import { z } from "zod"
-import { getEsoDayStr, getEsoDayWindow, numberOf } from "./code-bridge.ts"
+import { getEsoDayStr, getEsoDayWindow, numberOf } from "./tracking-modules.ts"
 import type { ReadonlyJSONValue } from "./tracking-types.ts"
 
 export const PERSONA_PAGE_TYPE_SLUG = "persona"

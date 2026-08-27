@@ -1,5 +1,5 @@
 import { MINUTE_WORDS, titleMatchesAnyWord } from "../tracking/title-words.ts"
-import { askComposed } from "./code-bridge.ts"
+import { askComposed } from "./tracking-modules.ts"
 
 const MS_PER_MINUTE = 60_000
 const MAX_DAY_SESSIONS = 200

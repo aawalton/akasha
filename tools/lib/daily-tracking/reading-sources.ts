@@ -1,5 +1,5 @@
 import { slugNamed } from "../../../page/page-address.ts"
-import { askNamed } from "./code-bridge.ts"
+import { askNamed } from "./tracking-modules.ts"
 
 const POINTS_SOURCE_QUERY = "persona-points-source-all"
 

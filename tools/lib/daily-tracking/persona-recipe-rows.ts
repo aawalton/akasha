@@ -1,5 +1,5 @@
 import { slugNamed } from "../../../page/page-address.ts"
-import { askNamed, numberOf, textOf } from "./code-bridge.ts"
+import { askNamed, numberOf, textOf } from "./tracking-modules.ts"
 import type { Asked, QueryRow } from "./tracking-types.ts"
 
 const PERSONA_QUERY = "persona-all"

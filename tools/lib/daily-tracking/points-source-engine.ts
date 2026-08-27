@@ -10,7 +10,7 @@ import {
   PERSONA_POINTS_SOURCE_COHERENCE_RULES,
   resolvePointsPrefixes,
   SOURCE_POINTS_FIELD,
-} from "./code-bridge.ts"
+} from "./tracking-modules.ts"
 import { readNetBytesForWindow } from "./net-bytes-points.ts"
 import { type PersonaDayTarget, patchPersonaDayField } from "./persona-day-points.ts"
 import { personaRecipeRows } from "./persona-recipe-rows.ts"

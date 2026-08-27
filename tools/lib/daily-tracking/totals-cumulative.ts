@@ -5,7 +5,7 @@ import {
   kebabKey,
   numberOf,
   textOf,
-} from "./code-bridge.ts"
+} from "./tracking-modules.ts"
 import { readNetBytesCumulative } from "./net-bytes-points.ts"
 import { PERSONA_DAY_PAGE_TYPE_SLUG } from "./persona-day-points.ts"
 import type { PointsSourceRowFields } from "./points-source-writer.ts"

@@ -5,7 +5,7 @@ import {
   kebabKey,
   patchPage,
   WRITER,
-} from "./code-bridge.ts"
+} from "./tracking-modules.ts"
 import { personaRecipeRows } from "./persona-recipe-rows.ts"
 import type { WriteOutcome } from "./tracking-types.ts"
 

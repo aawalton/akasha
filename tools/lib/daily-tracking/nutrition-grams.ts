@@ -1,6 +1,6 @@
 import { resolveRoots } from "../../../repo/roots/roots"
 import { wakeDayWindow } from "../wake-day.ts"
-import { askComposed, numberOf } from "./code-bridge.ts"
+import { askComposed, numberOf } from "./tracking-modules.ts"
 import type { QueryRow } from "./tracking-types.ts"
 
 const FOOD_ENTRY_PAGE_TYPE_SLUG = "food-entry"

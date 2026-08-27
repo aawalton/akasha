@@ -1,4 +1,4 @@
-import { cardioReading, readSessionPages, wakeWindow } from "./code-bridge.ts"
+import { cardioReading, readSessionPages, wakeWindow } from "./tracking-modules.ts"
 import type { SessionPage } from "./tracking-types.ts"
 import { type WriteOutcome, writeActiveCalories } from "./write-daily-points.ts"
 

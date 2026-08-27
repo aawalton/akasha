@@ -2,7 +2,7 @@ import {
   createNetBytesAccumulator as createNetBytesAccumulatorBridge,
   pathspecsForPrefix as pathspecsForPrefixBridge,
   pathspecsForPrefixes as pathspecsForPrefixesBridge,
-} from "./code-bridge.ts"
+} from "./tracking-modules.ts"
 
 interface NetBytesAccumulator {
   readonly pushLine: (line: string) => undefined

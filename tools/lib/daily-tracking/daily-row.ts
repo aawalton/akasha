@@ -1,4 +1,4 @@
-import { askComposed, patchPage, WRITER } from "./code-bridge.ts"
+import { askComposed, patchPage, WRITER } from "./tracking-modules.ts"
 
 export const DAILY_TRACKING_PAGE_TYPE_SLUG = "daily-tracking"
 

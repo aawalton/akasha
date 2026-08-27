@@ -1,4 +1,4 @@
-import { askComposed, getEsoDayWindow, textOf } from "./code-bridge.ts"
+import { askComposed, getEsoDayWindow, textOf } from "./tracking-modules.ts"
 
 const COMPLETED_TASK_PAGE_TYPE_SLUG = "completed-task"
 const TO_DO_PAGE_TYPE_SLUG = "to-do"
