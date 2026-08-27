@@ -22,6 +22,8 @@ The same spelling under two domains is two words.
 
 Nothing distinguishes a word meant in its defined sense from one that is not.
 
+Domain slugs come from pages of many types, not just domain pages.
+
 # Intent
 
 A word a domain defines reaches the agent that used it, whether or not that agent's own domains named it.

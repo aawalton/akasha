@@ -10,3 +10,7 @@ settled: true
 # Definition
 
 - **Page types system** — how we keep track of what kinds of things there are.
+
+# Design
+
+A page type's pages sit where its glob says, not in a folder named after it.
