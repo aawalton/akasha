@@ -4,17 +4,15 @@ import {
   WAN_FULL_STEPS,
   WAN_LIGHTNING_STEPS,
 } from "@infra/wan/cli/wan-backbone"
-import { codeModule } from "./code-import.ts"
 import { fetchImage, runComfyGraph } from "./inference/cli/comfy-client.ts"
 import { buildInferenceRunRecord, sha256Hex } from "./inference/inference-run-record.ts"
 import { recordInferenceRun } from "./inference/inference-run-store.ts"
 
 
+import { requireMatchPositional } from "@shared/utils-narrow/require-match-positional"
+import { z } from "zod"
 import * as extendGraphModule from "@infra/wan/cli/extend-graph"
 import * as i2vGraphModule from "@infra/wan/cli/i2v-graph"
-
-const REQUIRE_MATCH_POSITIONAL = "shared/utils-narrow/src/require-match-positional.ts"
-const ZOD = "zod"
 
 export type ComfyGraph = unknown
 export type InferenceRunRecord = unknown
@@ -30,8 +28,6 @@ export interface InferenceRunResult {
   readonly outputBytes: Uint8Array
 }
 
-export type Schema = object
-
 export interface WanCode {
   readonly runComfyGraph: typeof runComfyGraph
   readonly fetchImage: typeof fetchImage
@@ -43,24 +39,6 @@ export interface WanCode {
   readonly WAN_FULL_STEPS: number
   readonly WAN_LIGHTNING_STEPS: number
   readonly parseSizeOrNull: (raw: string) => { readonly width: number; readonly height: number } | null
-}
-
-interface RequireMatchPositional {
-  readonly requireMatchPositional: (
-    re: RegExp,
-    schema: Schema,
-    input: string,
-    label?: string
-  ) => readonly [number, number]
-}
-
-interface Zod {
-  readonly z: {
-    readonly tuple: (items: readonly Schema[]) => Schema
-    readonly coerce: {
-      readonly number: () => { readonly int: () => { readonly positive: () => Schema } }
-    }
-  }
 }
 
 export type I2vGraph = typeof i2vGraphModule
@@ -76,13 +54,9 @@ export async function extendGraph(): Promise<ExtendGraph> {
 }
 
 export async function wanCode(): Promise<WanCode> {
-  const [narrow, zod] = await Promise.all([
-    codeModule<RequireMatchPositional>(REQUIRE_MATCH_POSITIONAL),
-    codeModule<Zod>(ZOD),
-  ])
-  const sizeSchema = zod.z.tuple([
-    zod.z.coerce.number().int().positive(),
-    zod.z.coerce.number().int().positive(),
+  const sizeSchema = z.tuple([
+    z.coerce.number().int().positive(),
+    z.coerce.number().int().positive(),
   ])
   return {
     runComfyGraph,
@@ -96,7 +70,7 @@ export async function wanCode(): Promise<WanCode> {
     WAN_LIGHTNING_STEPS,
     parseSizeOrNull: (raw) => {
       try {
-        const [width, height] = narrow.requireMatchPositional(
+        const [width, height] = requireMatchPositional(
           /^(\d+)x(\d+)$/,
           sizeSchema,
           raw,
