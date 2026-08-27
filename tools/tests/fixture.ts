@@ -16,7 +16,6 @@ import { GATE_PAGE_GLOB } from "../lib/gate-judgement.ts"
 import { READINGS } from "../lib/read-record.ts"
 import { refusalDirIn } from "../lib/refusal.ts"
 import { canonicalize } from "../../repo/path/path"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { seatAbove } from "../lib/subagent.ts"
 
 export function documentBody(frontmatter: string, lines = 40): string {
@@ -24,6 +23,12 @@ export function documentBody(frontmatter: string, lines = 40): string {
   return `---\n${frontmatter}\n---\n\n${body}\n`
 }
 
+/**
+ * ONE ROOT, NOT THREE. `root`, `memory` and `akasha` named three separate directories while the
+ * `instructions` and `memory` repositories stood beside akasha. All three are absorbed, so all
+ * three fields answer the same temp repository, and `memory` and `akasha` stay only until their
+ * callers are moved over to `root`.
+ */
 export interface Fixture {
   readonly root: string
   readonly memory: string
@@ -83,17 +88,25 @@ export function installPages(root: string, relPaths: readonly string[]): void {
 export function fixture(): Fixture {
   const root = mkdtempSync(`${SCRATCH}/govtest-root-`)
   installRefusals(root)
-  const memory = mkdtempSync(`${SCRATCH}/govtest-memory-`)
-  Bun.spawnSync(["git", "init", "-q", "-b", "main", "."], { cwd: memory })
-  Bun.spawnSync(["git", "config", "user.email", "fixture@example.com"], { cwd: memory })
-  Bun.spawnSync(["git", "config", "user.name", "fixture"], { cwd: memory })
-  const akasha = rootFor(resolveRoots(), AKASHA)
+  // THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names, so
+  // a child process pointed here loads `roots.ts` and throws before the code under test speaks.
+  installRepos(root)
+  // A ROOT IS NAMED ONLY WHERE IT IS CLONED — `resolveRoots` skips a directory holding no `.git` —
+  // so an un-inited fixture is answered as no akasha at all and every reader falls through to the
+  // live checkout.
+  Bun.spawnSync(["git", "init", "-q", "-b", "main", "."], { cwd: root })
+  Bun.spawnSync(["git", "config", "user.email", "fixture@example.com"], { cwd: root })
+  Bun.spawnSync(["git", "config", "user.name", "fixture"], { cwd: root })
+  const memory = root
+  const akasha = root
   const planted: string[] = []
   const home = mkdtempSync(`${SCRATCH}/govtest-home-`)
   const priorHome = process.env.HOME
-  const priorMemory = process.env.MEMORY_ROOT
+  // `AKASHA_ROOT` IS THE ONE VARIABLE READ. `INSTRUCTIONS_ROOT` and `MEMORY_ROOT` named repos that
+  // are gone, so setting them pointed nothing anywhere and every caller read the live checkout.
+  const priorRoot = process.env.AKASHA_ROOT
   process.env.HOME = home
-  process.env.MEMORY_ROOT = memory
+  process.env.AKASHA_ROOT = root
 
   const putInto =
     (into: string) =>
@@ -151,8 +164,8 @@ export function fixture(): Fixture {
     readIt: (agent, relPath) => plantReading(agent, `${root}/${relPath}`),
     dispose: () => {
       if (priorHome !== undefined) process.env.HOME = priorHome
-      if (priorMemory === undefined) delete process.env.MEMORY_ROOT
-      else process.env.MEMORY_ROOT = priorMemory
+      if (priorRoot === undefined) delete process.env.AKASHA_ROOT
+      else process.env.AKASHA_ROOT = priorRoot
       for (const page of planted) {
         const dir = dirname(page)
         const stem = `${page.slice(dir.length + 1, -PAGE_SUFFIX.length)}.`
@@ -162,7 +175,6 @@ export function fixture(): Fixture {
         rmSync(page, { force: true })
       }
       rmSync(root, { recursive: true, force: true })
-      rmSync(memory, { recursive: true, force: true })
       rmSync(home, { recursive: true, force: true })
     },
   }
