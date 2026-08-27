@@ -1,0 +1,16 @@
+---
+page-type-slug: book
+title: "Pern: Dragon's Fire"
+id: 019db533-f39b-722f-b0d5-247677e68464
+slug: pern-dragons-fire
+kind: read
+unit: words
+author: "Anne McCaffrey, Todd McCaffrey"
+position: 5
+ownLength: 96000
+status: not-started
+source: "kindle"
+externalId: "B000JMKNK6"
+externalLink: "https://www.amazon.com/dp/B000JMKNK6"
+lastSyncedAt: 2025-10-11
+---
