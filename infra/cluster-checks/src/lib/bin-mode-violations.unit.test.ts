@@ -26,7 +26,7 @@ describe("extractBinTargets", () => {
         pkgName: "@shared/utils-system",
         pkgJsonPath: "shared/utils-system/package.json",
         command: "aux",
-        target: "packages/shared/utils/system/bin/aux.ts",
+        target: "shared/utils-system/bin/aux.ts",
       },
     ])
   })
@@ -41,7 +41,7 @@ describe("extractBinTargets", () => {
         pkgName: "@temper/shared-build-deploy-lua-runner",
         pkgJsonPath: "temper/shared-build-deploy-lua-runner/package.json",
         command: "shared-build-deploy-lua-runner",
-        target: "packages/temper/shared/build-deploy/lua-runner/src/cli.ts",
+        target: "temper/shared-build-deploy-lua-runner/src/cli.ts",
       },
     ])
   })
