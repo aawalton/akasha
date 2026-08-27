@@ -30,7 +30,7 @@ interface Trace {
 
 const made: string[] = []
 
-const SCRATCH = "/var/tmp/instructions-boot-prompt-test"
+const SCRATCH = "/var/tmp/akasha-boot-prompt-test"
 
 function scratch(prefix: string): string {
   mkdirSync(SCRATCH, { recursive: true })
@@ -54,13 +54,19 @@ async function run(vector: Vector): Promise<Trace> {
   const root = scratch("root")
   const tmpDir = scratch("tmp")
   mkdirSync(`${root}/tools`, { recursive: true })
+  // A ROOT IS NAMED ONLY WHERE IT IS CLONED — `resolveRoots` skips a directory holding no `.git`
+  // — and `materializeBootPrompt` asks `rootFor`, which throws for a repository standing nowhere.
+  Bun.spawnSync(["git", "init", "-q", root])
   if (vector.mode !== null) writeFileSync(`${root}/tools/compose-boot.ts`, stubComposer(vector.mode))
   if (vector.blockTarget === true) {
     mkdirSync(`${tmpDir}/agent-boot-prompt-${vector.agentId}.md`, { recursive: true })
   }
 
-  const before = process.env.INSTRUCTIONS_ROOT
-  process.env.INSTRUCTIONS_ROOT = root
+  // `AKASHA_ROOT` IS WHAT NAMES THIS TEMP TREE. This set `INSTRUCTIONS_ROOT`, which nothing reads
+  // now that the instructions repository is absorbed, so every case below looked for the composer
+  // in the live checkout — where it is there, so the cases turning on its absence never held.
+  const before = process.env.AKASHA_ROOT
+  process.env.AKASHA_ROOT = root
   const logs: string[] = []
   const real = console.log
   console.log = (...args: unknown[]): void => {
@@ -74,8 +80,8 @@ async function run(vector: Vector): Promise<Trace> {
     })
   } finally {
     console.log = real
-    if (before === undefined) delete process.env.INSTRUCTIONS_ROOT
-    else process.env.INSTRUCTIONS_ROOT = before
+    if (before === undefined) delete process.env.AKASHA_ROOT
+    else process.env.AKASHA_ROOT = before
   }
 
   const token = (text: string): string =>
