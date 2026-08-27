@@ -5,7 +5,6 @@ import { ownRead } from "../lib/read-record.ts"
 import { loadingLines } from "../lib/owed.ts"
 import { type Roots } from "../../page/page"
 import { AKASHA, REPOS } from "../../repo/roots/roots"
-import { toolArgv } from "../lib/tool-argv.ts"
 import { type Fixture, fixture, installRepos } from "./fixture.ts"
 
 type SpawnResult = ReturnType<typeof Bun.spawnSync>
@@ -14,6 +13,14 @@ const AGENT = "agent-one"
 const GOVERNOR = "pages/page-type/project.page-type.md"
 const SUBJECT = "projects/1.md"
 const LIVE = `${import.meta.dir}/../..`
+
+// THE COMMAND COMES FROM THE LIVE CHECKOUT, THE STORE FROM THE FIXTURE. `ops` finds its commands by
+// walking `AKASHA_ROOT` for `*.command.md`, and this test points that at a temp store holding none,
+// so `bun tools/ops/cli.ts read` answers `unknown command`. Loading the command's own module names
+// the code directly and leaves `AKASHA_ROOT` to say only where the pages are.
+const ARM = `${import.meta.dir}/command-arm.ts`
+
+const READ = `${LIVE}/ops-cli/global/read/read.command.code.attachment.ts`
 
 let at: Fixture
 
@@ -63,9 +70,11 @@ function run(command: string): void {
   const ran = ((): SpawnResult => {
     try {
       return Bun.spawnSync({
-        cmd: [process.execPath, ...toolArgv("read.ts", args, LIVE)],
+        cmd: [process.execPath, ARM, READ, ...args],
         cwd: at.root,
-        env: { ...environment, AGENT_ID: AGENT, HOME: at.home, AKASHA_ROOT: at.root },
+        // `CODE_ROOT` IS WHERE THE PACKAGES ARE. The command resolves `@shared/...` under `codeRoot()`,
+        // which now answers the akasha root, and the temp store has no `node_modules`.
+        env: { ...environment, AGENT_ID: AGENT, HOME: at.home, AKASHA_ROOT: at.root, CODE_ROOT: LIVE },
         stdout: out,
         stderr: out,
       })
