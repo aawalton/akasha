@@ -1,6 +1,4 @@
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { dirname } from "node:path"
 import { packageSlugOf } from "../lib/package-manifest.ts"
 import { requiredReadingWhole } from "../required-reading.ts"
 import { type Fixture, fixture } from "./fixture.ts"
@@ -11,30 +9,26 @@ const CORE_PAGE = "pages/package/shared-graph-core.package.md"
 const TOOLS_PAGE = "pages/package/shared-graph-core-tools.package.md"
 
 let at: Fixture
-let code: string
-let priorCode: string | undefined
 
 beforeEach(() => {
   at = fixture()
-  code = mkdtempSync("/var/tmp/govtest-code-")
-  priorCode = process.env.CODE_ROOT
-  process.env.CODE_ROOT = code
 })
 
 afterEach(() => {
-  if (priorCode === undefined) delete process.env.CODE_ROOT
-  else process.env.CODE_ROOT = priorCode
-  rmSync(code, { recursive: true, force: true })
   at.dispose()
 })
 
-function inCode(relPath: string, body: string): void {
-  mkdirSync(dirname(`${code}/${relPath}`), { recursive: true })
-  writeFileSync(`${code}/${relPath}`, body, "utf8")
-}
-
+/**
+ * A workspace in the repository the reading is resolved against.
+ *
+ * THE `code` REPOSITORY IS ABSORBED INTO AKASHA, so `required-reading.ts` reads package manifests
+ * out of the root handed in rather than a checkout of its own — its `rootOf` answers that same
+ * root for every absorbed name. This planted each `package.json` in a separate directory named by
+ * `CODE_ROOT`, which `required-reading.ts` never reads, so no manifest was ever seen and every
+ * case below asking which package page a file is read off was answered with nothing at all.
+ */
 function workspace(dir: string, name: string | null): void {
-  inCode(`${dir}/package.json`, JSON.stringify(name === null ? { version: "0.1.0" } : { name }))
+  at.put(`${dir}/package.json`, JSON.stringify(name === null ? { version: "0.1.0" } : { name }))
 }
 
 function packagePage(slug: string, repo: string, requires: string | null): void {
