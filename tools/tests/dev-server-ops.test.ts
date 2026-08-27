@@ -16,7 +16,7 @@ describe("lookupApp", () => {
   test("returns alanwalton's full config", async () => {
     expect(await lookupApp("alanwalton")).toEqual({
       name: "alanwalton",
-      packagePath: "packages/alanwalton/web",
+      packagePath: "alanwalton/web",
       basePort: 3000,
       extraDevArgs: [],
       devCommand: ["bunx", "react-router", "dev", "--port", "<PORT>"],
