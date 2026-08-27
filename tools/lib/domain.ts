@@ -1,7 +1,7 @@
 
 import { closure } from "./closure.ts"
 import { type Frontmatter, listField, textField } from "../../page/frontmatter.ts"
-import { slugNamed } from "../../page/page-address.ts"
+import { addressOf, slugNamed } from "../../page/page-address.ts"
 import { stemOf } from "../../page/name/name.ts"
 
 export { stemOf }
@@ -26,6 +26,8 @@ export function domainNameOf(relPath: string): string {
 
 export const CHAMPIONED_DOMAIN_KEY = "championed-domain-slug"
 
+export const PAGE_TYPE_SLUG_KEY = "page-type-slug"
+
 export interface Documents {
   frontmatterOf(relPath: string): Frontmatter | null
   domainAt(slug: string): string | null
@@ -37,9 +39,22 @@ export function slugsIn(frontmatter: ReadonlyMap<string, Frontmatter>): {
 } {
   const slugs = new Map<string, string>()
   const duplicates = new Map<string, string[]>()
+  // KEYED BY ADDRESS AS WELL AS BY BARE SLUG. A slug is unique within a page type and not
+  // across the corpus, so a book chapter and a domain may both declare `agent-harness`, and
+  // whichever the scan reached first took the bare key. The loser then resolved to the wrong
+  // page and everything descending from it was cut loose. An address carries the page type, so
+  // `domain/agent-harness` names the domain whatever else shares its slug.
+  const addressed = new Map<string, string>()
   for (const [relPath, fm] of frontmatter) {
     const slug = textField(fm, DOMAIN_SLUG_KEY)
     if (slug === null) continue
+    const type = textField(fm, PAGE_TYPE_SLUG_KEY)
+    // FIRST CLAIM WINS HERE TOO, which decides nothing: no two pages of one type may carry one
+    // slug, so a second claim on an address is a corpus fault the duplicates below already name.
+    if (type !== null) {
+      const address = addressOf(type, slug)
+      if (!addressed.has(address)) addressed.set(address, relPath)
+    }
     const first = slugs.get(slug)
     if (first === undefined) {
       slugs.set(slug, relPath)
@@ -49,6 +64,9 @@ export function slugsIn(frontmatter: ReadonlyMap<string, Frontmatter>): {
     claimants.push(relPath)
     duplicates.set(slug, claimants)
   }
+  // Added after the bare keys so an address never loses to one. The separator cannot appear in a
+  // slug, so no address can collide with a bare key.
+  for (const [address, relPath] of addressed) slugs.set(address, relPath)
   return { slugs, duplicates }
 }
 

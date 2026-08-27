@@ -1,0 +1,26 @@
+---
+pageType: story-wiki
+slug: nimue
+title: Nimue
+bodyField: content
+story: tower-of-nimue
+chapterNumber: 2
+kind: character
+---
+**Nimue** — protagonist. A 31-year-old trauma/ER nurse at St. Brigid's hospital, on the sixth-to-last minute of a twelve-hour night shift that had run long when the System descended (~4:51 AM).
+
+**Habit — counting the room.** She compulsively keeps a running tally of any space she is in: exits, threats, *who's breathing, what's between me and the door, who's going to need me before this is over.* Does it even off the clock. Her mother called it "being unable to sit still in her own life"; Nimue calls it doing her job. This reflex is the one part of her the System could not switch off.
+
+**Core flaw — self-reliance as a wall; "hands, not heart."** She offers competence and instruction in place of warmth. When Priya begged her for comfort, Nimue felt the absence of the warm-animal reassurance in herself "the way you feel a tooth that should be there and isn't," and could only give a clinical transport-hold and an order. She goes home to an empty apartment and tells herself she prefers it. Under crisis she runs on algorithm — "you do not feel anything until afterward, you just work" — and refuses to keep doing what doesn't work.
+
+**The crucible (the first hour).** Did CPR on a colleague, Devon, who dropped dead at the cull (failed). Directed the pediatrics nurse Priya, and later a boy named Marcus, to the south stairwell away from the windows. In room 218 she tore an IV pole free of its base and drove it through the reading-face of a Threshold Warden to protect Marcus. Three reflexes fired together in that room and define her: (1) her body thrown across the child as a wall; (2) the steel torn up and driven home — the oldest, meanest part of her that "intended to win"; (3) the cold clean reach toward the System's readout itself — *show me how you break.*
+
+**Foundation / Anchor — THE SEER (Decision #1; the rewritten Ch.2 opening renders the anchoring).** At the threshold the System kept her third reflex — the cold clean analytical reach — and anchored her as **THE SEER**, her foundation essence the **Open Eye** (slot 1). She experiences the anchoring as a lens "seating into place… behind my eye, cold and exact." Her Seer-sight reads the world as structure and failure points: a steel pole becomes "a list — weight here, balance there, the bent place near the cuff where it would fail," and System text waits "at the edges of things." Narratively this is who Nimue now is — not strength or speed (she is "the same thirty-one-year-old who couldn't open a stuck jar without bracing it on her hip"), but a way of *seeing*: she does not overpower a trial, she sees the flaw and strikes the one true line. On Floor 1 this became an explicit arc-turn — her oldest instinct (win with her hands) failed completely against the Ash-Glutton's armor, and she had to say aloud "You don't win this with your hands" and fight with the eye instead. (The Seer anchor's mechanics — stats, crit, the Read active, the +1 Harvest option — live on the story-build, verified consistent with this prose; not duplicated here.)
+
+**First kill & first wounds (Ch.2).** Killed the Ash-Glutton, the Floor-1 trial, in a handful of exchanges — "cleared by precision, not attrition." Took real damage doing it: a bitten/raked left forearm that won't fully close, ash-choked lungs, a raking blow across the ribs. Her hands still did not shake afterward; she files every feeling "behind the engine" for "some room that had a door she could close."
+
+**The recognition (Ch.2).** Learned, while fighting, that the Ash-Glutton's armor is fused human bone — her own culled neighbors, including the very dead she walked past in the dead city (the bus-wheel man, the oranges woman). "This was her city, digested and stood up again to kill her." She set the horror behind the engine to survive the fight.
+
+**Name.** Her mother told her "Nimue" is an old story-name — a woman from a drowned legend who learned every word of a great wizard's magic and used it to seal him in a tower of air, alone, forever. "The lady who masters the tower." Her mother looked sad saying it; Nimue was six and didn't understand why.
+
+**Status end of Ch.2.** Floor 1 cleared; 99 floors above. Kneels at the Ash-Glutton's carcass facing the first **Harvest** decision — whether (and which piece) to take the slain into herself. The choice is the reader's and is unresolved at chapter's end.

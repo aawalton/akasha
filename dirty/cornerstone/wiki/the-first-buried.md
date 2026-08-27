@@ -1,0 +1,16 @@
+---
+pageType: story-wiki
+slug: the-first-buried
+title: The First Buried
+bodyField: content
+story: cornerstone
+kind: character
+chapterNumber: 1
+---
+# The First Buried
+
+The first settler to die at the founding camp — unnamed in the text. On the second or third day, the camp gathered in a weighted stillness and lowered a body "by degrees" into a long narrow grave cut near the center, off to one side (the spot Slow-Tread had lingered over before there was a grave).
+
+**How the core knows it is death, not sleep.** At night the living lie their weight on the soil "and it breathed, an endless faint tide." This weight "had none... the first wholly still thing I had ever held."
+
+**Narrative weight.** The buried body becomes "a mirror pressed against" the core and turns over a *recognition* in it: "For was I not also a thing laid down into the dark? A weight beneath the weight, still and held and bodiless?" — linking the dead settler to the core's own buried past-life death. Slow-Tread keeps watch over the grave, and the camp raises a standing-stone beside it (the Marker-Stone labor).

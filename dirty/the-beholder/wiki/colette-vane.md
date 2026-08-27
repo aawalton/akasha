@@ -1,0 +1,20 @@
+---
+pageType: story-wiki
+slug: colette-vane
+title: Colette Vane
+bodyField: content
+story: the-beholder
+kind: character
+chapterNumber: 1
+---
+**Colette Vane** — the company's star/prima dancer and the most beautiful woman in it. Pearl's idol, and the victim of Pearl's first kill (chapter 1). **Unpowered** (no Onset power); the System registered her attribute spread as **Might 8 · Vitality 10 · Celerity 15 · Acuity 13 · Will 11 · Allure 16**.
+
+**Three most notable traits** (her top three by value — all attributes, since she carries no power):
+1. **Beauty (Allure 16)** — "pretty the way a sunrise is": effortless, generous. The standard against which Pearl measured her own insufficiency. Pearl especially coveted her throat. *(This is the trait Pearl took — a +10% Allure carve off her 16, raising Pearl 14 → 15.6.)*
+2. **Grace / speed (Celerity 15)** — extraordinary movement; she "could change her mind in the air," landing as a different shape than she'd left the ground "faster than the decision should have traveled."
+3. **The reading / seeing (Acuity 13)** — uncanny perception of people and rooms; she read emotions and secrets. "She read rooms like sheet music." "She saw everyone." Demonstrated by privately comforting the crying new corps girl Tamsin and naming the true cause of a missed entrance (a dead cue light). The System scores this perceptiveness as the **Acuity** attribute (senses and precision) — not a separate skill.
+
+**Toward Pearl.** Warm and generous: called her "Pearlie," told her she should be dancing — "Better than mine."
+
+**Death.** Killed by Pearl in the mirror-walled studio off the green room after a performance, while Pearl helped her out of the act-three bodice; her throat was cut with wardrobe shears. In her final quarter-second she "finally read" Pearl — too late. Her death triggered Pearl's first Acquisition appraisal, from which Pearl took her Beauty (a +10% Allure slice).
+

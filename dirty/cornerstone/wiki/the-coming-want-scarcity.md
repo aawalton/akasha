@@ -1,0 +1,21 @@
+---
+pageType: story-wiki
+slug: the-coming-want-scarcity
+title: The Coming Want (scarcity)
+bodyField: content
+story: cornerstone
+kind: seed
+chapterNumber: 1
+---
+# The Coming Want (scarcity)
+
+A scarcity thread planted in chapter 1's revised prose: the founding camp already faces a **food shortfall**, and the storehouse/granary labor (Deep-Step's) exists to answer it before the season turns.
+
+**What the text establishes.** As the store is raised, the core feels "the thing it was meant to answer — the thing Deep-Step already carried." Concrete signs:
+- "One evening a sack came down onto my soil lighter than the rest, half its proper weight," and a tread (Deep-Step) stood over it "a long moment, very still, the stillness of someone doing sums that would not come right."
+- "Later, in the cold, that same tread paced — back and forth... the short anxious circuit of a person counting in the dark what there would not be enough of."
+- "And somewhere in the sleeping ring a small body curled tighter around an emptiness in its belly, and I felt the difference in how it lay." — i.e. a child (very likely The Small One) is already going hungry.
+
+**The wanting it drives.** The settlers want "a place to hold the land's giving while the giving was good, so that when the season turned and the land gave nothing, there would be weight in the store to set against the want." Tied to the pre-winter founding and the wish to "not die of the thin frontier."
+
+**Why it matters.** Raises the stakes of the Provision door (it answers a present, not hypothetical, hunger), deepens Deep-Step's characterization (the worry behind the plainness), and adds a second source of danger to the children beyond the external predator. **Status:** unresolved as of ch.1 — the shortfall is felt, not yet met.

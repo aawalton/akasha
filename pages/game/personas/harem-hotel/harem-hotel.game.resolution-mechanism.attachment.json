@@ -1,0 +1,5 @@
+{
+  "verb": "roll",
+  "convention": "The coordinator resolves each contested action with an honest seeded roll (awen roll), assigning the dice per the rulebook's attributes/gate/bands and the floor's world-logic. The roll fixes the MAGNITUDE; the OUTCOME is adjudicated against the declared mechanics and floor design (e.g. a mirror construct returns spent force to the attacker rather than taking it). Loop-dark: rolls are the GM surface, never a client payload.",
+  "defaultDice": "2d10"
+}

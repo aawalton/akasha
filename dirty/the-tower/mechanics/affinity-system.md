@@ -1,0 +1,252 @@
+# Affinity System (mechanic — full spec)
+
+The **Affinities** progression axis (DESIGN.md). This is the SYSTEM doc: the seed→type map, the rank
+model, engine interaction, draw cost/backlash, and the Equipment/Crafting hook. Its companion,
+`essence.md`, is the absorption-mechanic narrative; it points here for the system. Pre-decided so live
+play READS the rules, never improvises them (the cardinal lesson — affinities were improvised once,
+in play, before this spec existed; this closes that gap).
+
+Authority: `engine/engine.ts` for all math. Every number here is engine-consistent — the draw
+resolution reuses the engine's existing `ment` formula shape; affinity bias feeds the engine's `intent`
+input; nothing here requires an engine change to run (a `resolveDraw()` could be added later — see
+Open Questions, not done unilaterally).
+
+> **⚠ ADVANCEMENT SUPERSEDED — see `mechanics/progression.md` (canonical, iris 2026-06-24).** The
+> rank model (§3: ranks I–IV+, "Latent/Kindled/Woven", and the **eu / essence-unit thresholds 100 / 250 /
+> 500**) is **RETIRED**. Affinities now advance on the locked **4-tier quantity counter** —
+> **Affinity (10) → Manipulation (50) → Spirit (250) → Soul (1000)** — ticked **+1 per matched
+> element-event (+2 per draw, ≤3 routine/encounter)**, counter resetting on tier promotion. Read
+> `progression.md` for how an affinity advances. **Still canonical HERE:** the seed→type map (§1), the six
+> senses (§2), the engine bias mechanic (§4 — now keyed to **tier index**: Affinity +1 … Soul +4, the same
+> `+N intent` shape), the draw cost/backlash bands (§5), the crafting hook (§6), and fog (§7).
+
+---
+
+## 1. Seed → affinity-type map (floors 1–4)
+
+Every drop flagged "X-affinity seed" carries latent **essence** of a type. Pre-decided from the floor files:
+
+| Seed | Source | Affinity type | Floor |
+|---|---|---|---|
+| cooling **cinder** (cooled core) | Ashling | **Ember / Heat** | 1 |
+| fire-purged **iron rivet** | Drowned Sentry | **Ember / Heat** (forge variant) | 2 |
+| **swarm-ichor** sac | The Glut | **Alchemy / Caustic** | 2 |
+| **tuning-shard** of folded sound | Hollow Cantor | **Sound** | 3 |
+| cracked **focus-crystal** | Gallery alcove corpse | **Mind** | 3 |
+| Stalker **eye-lens** | Gloomward Stalker | **Dark / Night-Sight** | 4 |
+| winding-**drum core** | Counterweight Colossus | **Stored-Force / Tension** | 4 |
+
+**Seeds vs crafting cores — not every drop is an affinity seed.** Pure **crafting cores / materials**
+(no essence to absorb): the floor-3 **keystone**, the Warden's **stone gauntlet**, the Colossus's
+**chain-length**, the Sentry's **pauldron**, the Stalker's **hide**. These feed Equipment/Crafting only.
+The **drum core is dual-use** — both a Stored-Force seed AND the heaviest crafting core yet.
+
+**Ember/Heat has two seeds (cinder + rivet) by design** — the same-type rank-up path (DESIGN/essence:
+same-type draws are cheaper, and a second seed advances the rank). The other five types appear once
+across floors 1–4; deeper floors (5+, TBD) seed their second occurrences.
+
+---
+
+## 2. The six affinity types
+
+Each gives a **sense** (passive perception of its element), a **bias domain** (which actions it sweetens),
+and a **backlash signature** (what a rough draw of it costs — see §5).
+
+| Type | Sense | Bias domain | Backlash signature |
+|---|---|---|---|
+| **Ember / Heat** | feel warmth, live ember, heat-stress in materials | fire/heat/ignition/scorch actions; reading heat-/dry-rot weaknesses | **HP burn** (scorches the drawer) |
+| **Alchemy / Caustic** | smell/taste reactivity, corrosion, what dissolves what | caustic/poison/solvent/reagent actions; reading chemical weaknesses | **HP chip + caustic sting** (lingering DoT) |
+| **Sound** | read a space by its echoes; hear tension/resonance | sound/resonance/stagger/acoustic actions; reading resonance weaknesses | **Focus bleed + ears ring** (Init/PER debuff) |
+| **Mind** | sense thought-pressure, intent, mental strain nearby | mental/focus/will actions; resisting & reading `ment` threats | **Focus burn + confusion** (lose next read) |
+| **Dark / Night-Sight** | see in low light; sense the unlit, the concealed | stealth/dark/shadow actions; reading dark-hunter weaknesses | **Focus + sight-swim** (PER debuff) |
+| **Stored-Force / Tension** | feel load, tension, stored mechanical energy | leverage/release/kinetic actions; reading mechanism weaknesses | **Stamina + recoil stagger** (lose footing) |
+
+---
+
+## 3. Rank model (I → II → III → IV+) — ⚠ RETIRED, see `progression.md`
+
+> Superseded by the 4-tier quantity counter in `progression.md` (Affinity/Manipulation/Spirit/Soul; caps
+> 10/50/250/1000; no eu). The table below is kept only for its still-valid *content* — what each level of
+> influence grants (bias, sense, emerged-skill, imbue). Read the level names/thresholds as the tier model,
+> not the old I–IV+/eu scheme. The bias-per-level (+N) and skill-emerges-by-use rules carry over unchanged.
+
+A rank grants a **guaranteed passive** (the bias, always). The **active essence-skill** is NOT hard-gated
+to a rank — it **emerges by use** (a deed / a strong manifestation in play) and then **scales with rank**.
+This is canon: Alan's **Ember Channel** manifested at **Affinity I** via a strong roll (floor 1), exactly
+DESIGN.md's "skills learn + level by use." Rank deepens what an emerged skill can do and seeds new techniques.
+
+| Rank | Name | Passive intent bias (matched action) | Sense | Active essence-skill | Crafting | Essence to reach |
+|---|---|---|---|---|---|---|
+| **I** | Latent | **+1** | feel the element nearby | *may emerge by use* (nascent: short duration, low intensity) | — | first absorption (auto) |
+| **II** | Kindled | **+2** | read element-relevant weaknesses (a read bonus) | emerged skill deepens; a 2nd technique becomes reachable | **imbue** unlocks (item gains the element) | **100 eu** past I |
+| **III** | Woven | **+3** | strong sense; sense the element through barriers | skill scales; sustained/area use | imbue + craft element-cores into gear | **250 eu** past II |
+| **IV+** | (TBD w/ coordinator) | +4… | — | mastery techniques | — | **500 eu** past III |
+
+**Two paths to rank up** (both accrue **essence-progress**, tracked in **essence units, eu** — XP-like, hidden):
+1. **Absorb another same-type seed** — the primary path (why Ember has two seeds). A clean draw banks more
+   eu than a rough one (a rough draw wastes most of the essence — essence.md).
+2. **Level by use** — element-matched actions in play trickle eu (~2–5 each, **capped ~10/encounter** —
+   anti-farming, matching the floors' `exhausted` discipline).
+
+**Essence yield per source**
+
+| Source | eu |
+|---|---|
+| **Clean draw** (margin ≥ +8) | ~60 |
+| **Adequate draw** (margin 0…+7) | ~35 |
+| **Rough draw** (margin < 0, forced — still succeeds) | ~20 |
+| **Element-matched action** (use) | +2–5 (≤~10/encounter) |
+| **Cross-type seed** (a NEW type) | grants that type at **rank I** instead of eu |
+
+---
+
+## 4. Engine interaction — how an affinity changes resolution
+
+Recall the engine: `effectiveScore = attackPower + skillBonus + intent + roll`; `margin = effectiveScore − defense`;
+`damage = baseDamage × (1 + margin/12)`. `intent` is clamped `0…10` by the resolver.
+
+- **Passive bias = an intent add.** A rank-N affinity adds **+N to `intent`** on an element-matched action
+  (the bias domain in §2). It flows through the engine's existing `intent` input — no new code. Because the
+  engine **clamps intent to 10**, affinity bias **cannot run away**: it sweetens a correct read, it can never
+  exceed the plausibility ceiling. (Reliability: the clamp bounds the whole subsystem for free.)
+- **Emerged active skill = a `skillBonus` + its own action.** An essence-skill (e.g. Ember Channel) resolves as
+  a normal action with a `skillBonus` from its skill level and, where it deals the element, its own `baseDamage`
+  and `mode`. It levels by use like any skill.
+- **Sharper-sense = a coordinator read bonus.** When the element is relevant to reading an enemy's weakness, the
+  affinity's sense grants an **INT-read intent bonus** (rank II+), narrated as the character perceiving the heat/
+  resonance/tension others would miss. Soft, fictional-first.
+
+### Stacking with the DAMAGE-GATE model — YES, and they compound cleanly
+The gate (floor-02 designerNotes — required reading) is an **enemy-side** `baseDamage` multiplier the coordinator
+applies for engaging a readable weakness (e.g. ×2 a burning Sentry, ×3 a clean keystone hit). The affinity bias is
+a **player-side** `intent` add. They live at different points in the formula and **compound**:
+
+> Element-matched action → **+N intent** (bigger margin → more scaled damage) **AND** the enemy's weakness **gate ×M**
+> on `baseDamage`. An Ember-affine player exploiting a heat weakness is the strongest line in the game — exactly
+> essence.md's forward hook ("Ember affinity ⇒ the floor-2 fire solution lands even better").
+
+**Guardrails (so affinities sweeten, never replace, the read):**
+- Affinity bias is **intent-only** and **clamped** — at most +3 (rank III), ≈+25% scaled damage at base 10. The gate
+  swings ×0.25–×3. The gate decides the fight; the affinity tips a correct read.
+- **An affinity grants NO damage gate of its own.** Only an enemy's `readableTrait` carries gates. Affinity = the
+  player's soft edge; gate = the enemy's weakness. Clean separation — brute-forcing with an affinity is still a slog.
+
+---
+
+## 5. Absorption — the draw (cost + backlash by training level)
+
+A **WILL + INTELLECT** act: hold the seed, draw the essence in. Resolved with the same shape as the engine's
+`ment` path, as a standalone **draw check** (no engine change required):
+
+```
+drawScore = INT×1.2 + WILL + trainingBonus + intent(0–10) + roll(1d20, Wild Variance, Alan only)
+margin    = drawScore − seed.drawDC
+```
+
+- **`trainingBonus`** (the essence.md training tiers, made numeric):
+  - **Untrained** (no affinity of the type, no relevant skill): **+0** — the rough forced draw.
+  - **Trained** (a relevant skill, OR any affinity at all held): **+3**.
+  - **Same-type affinity held**: **+6**, and **+1 more per rank above I** of that affinity.
+- **`seed.drawDC`** scales with floor potency (deeper essence resists harder): **F1 ≈ 50 · F2 ≈ 52 · F3 ≈ 55 · F4 ≈ 58.**
+- A **willing/forced draw always takes** (it never hard-fails); `margin` governs how CLEAN it is.
+
+**Cost + backlash + yield by margin band:**
+
+| Band | Focus cost | Backlash | eu |
+|---|---|---|---|
+| **Clean** (margin ≥ +8) | ~8–10 | **none** | ~60 |
+| **Adequate** (0…+7) | ~15–20 | **mild** (keyed, §2) | ~35 |
+| **Rough** (< 0, forced) | ~30 | **full** (keyed, §2) | ~20 |
+
+Untrained forced draws land **Rough/Adequate**; holding the type (or a skill) pushes you toward **Clean**.
+
+**Keyed backlash magnitudes** (full = Rough band; mild ≈ ⅓ of full):
+
+| Type | Full backlash (Rough) | Mild (Adequate) |
+|---|---|---|
+| Ember / Heat | ~12 HP burn | ~5 HP scorch |
+| Alchemy / Caustic | ~8 HP + caustic DoT (~−2 Stamina-regen, 2 turns) | ~3 HP sting |
+| Sound | ~25 Focus + ears ring (−Init/PER, 2 turns) | ~10 Focus |
+| Mind | ~30 Focus + confusion (WILL check or lose next read) | ~12 Focus |
+| Dark / Night-Sight | ~15 Focus + sight-swim (−PER, 2 turns) | ~6 Focus |
+| Stored-Force / Tension | ~10 Stamina + recoil stagger (lose footing / half next action) | ~4 Stamina |
+
+The **seed is consumed** by any draw — drawn essence leaves it cold and inert.
+
+### Worked examples (reproduce canon exactly)
+- **Floor 1, cinder → Ember I.** Untrained (+0), forced first draw, intent ~3 (no idea what he's doing), roll 4.
+  `drawScore = 18×1.2 + 16 + 0 + 3 + 4 = 44.6` vs DC 50 → **margin −5.4 → Rough** → **~30 Focus, ~12 HP burn**,
+  ~20 eu banked, cinder consumed, **Ember Affinity I** granted. ↳ Matches `sheets/alan.json` verbatim.
+- **Floor 2, fire-rivet → Ember toward II.** Now holds Ember I (**+6**), intent ~5, roll 11.
+  `drawScore = 21.6 + 16 + 6 + 5 + 11 = 59.6` vs DC 52 → **margin +7.6 → Adequate-top** → **~15 Focus, ~5 HP**,
+  ~35 eu. With ~20 banked + heat-use across floors 2–4 → reaches **Ember II** around floor 4. ↳ Reproduces
+  essence.md's "same-type future draws cheaper and cleaner."
+
+---
+
+## 6. Equipment / Crafting hook (the later axis — interface only, not the full system)
+
+DESIGN.md unlocks **Equipment/Crafting** alongside Affinities higher up. Affinities are its essence input;
+this defines the seam so the crafting system plugs in cleanly when built (don't front-load it — build order).
+
+- **Imbue (rank II+):** an affinity of rank II+ can **imbue** a weapon/item with its element — e.g. Ember II
+  imbues the iron bar so its strikes carry heat (an element damage rider, and an innate gate-match vs
+  heat-weak enemies). Costs an affinity draw-act + Focus. (At rank I the **active skill** — Ember Channel —
+  already approximates this temporarily; imbuing makes it **persist on the item**.)
+- **Recipe shape:** crafting consumes **(affinity rank, essence — a banked eu cost or a held same-type seed,
+  a material core)** → an imbued/crafted item. Cores: keystone, gauntlet, chain-length, drum-core, etc.
+- **Dual-use drops** (the drum core) let one drop EITHER feed an affinity OR be crafted — a real choice.
+
+---
+
+## 7. Fog & presentation (carries essence.md forward)
+
+- **Affinity is SHOWN once gained** (Skills/Affinities panel) — earned, felt knowledge. The **numbers stay hidden**:
+  bias size (+N), eu, drawDC, training bonus, backlash magnitudes — never surfaced.
+- **System marks an absorption with a flat, universal notification** (copy-paste test — any climber drawing that
+  essence sees the same string). Templated lines:
+  - `ESSENCE ABSORBED — Ember`
+  - `AFFINITY GAINED — Ember (I)`
+  - `AFFINITY ADVANCED — Ember (II)`
+  - `ESSENCE-SKILL MANIFESTED — Ember Channel` *(when an active emerges by use)*
+- **All felt meaning** (the burn, the rush, the rough-draw cost) lives in **window-pane prose**, never the panel.
+  System reports state; it never judges, foreshadows, or narrates the scene.
+
+---
+
+## 8. Coordinator-only
+
+- **Loop interaction (HELD DARK — never write into player-facing flavor).** Per `loop/loop-rules.md`: **affinities
+  (rank + eu + emerged essence-skills) are RETAINED** through death; **unabsorbed seeds and held items are LOST**
+  (they belonged to that run). **Implication: absorb seeds before risking death** — banked essence is loop-safe, a
+  seed in the pack is not. This is real strategic texture once the loop is understood; until the first death, never
+  hint at it.
+- **Anti-farming:** use-eu capped ~10/encounter; a consumed seed never regrants; `exhausted` room notes still bound
+  loot. A re-climb (loop) re-seeds drops, but already-banked affinity progress persists — so re-absorbing is for
+  NEW types or topping a type, not infinite stacking of one.
+- **Sheet field (superseded):** the old `essenceProgress` (eu) recommendation is retired — affinities now display
+  as the `progression.md` **tier counter** (e.g. `Ember Manipulation 1/50`), which iris has live on the sheet. Track
+  the counter, not eu.
+- **Canon vs. display — two representations, both correct (no drift):** `sheets/alan.json` is CANON and holds the
+  full `counter/cap` on each affinity (e.g. Ember Manipulation `counter:8, cap:50`; Force Affinity `counter:1, cap:10`).
+  The live projection `display/state.json` deliberately renders affinities **value-only** — the bare counter with **no
+  cap** (`8`, not `8/50`; `1`, not `1/10`). This is by design (held-dark: the player is not shown the tier thresholds),
+  NOT a projection bug. A cold successor comparing the two surfaces will see `8/50` in canon and `8` in the display —
+  that mismatch is expected and correct. Confirmed by iris-manager against the turn-83 projection (2026-07-02).
+
+---
+
+## 9. Open balance questions (for aura-3)
+
+1. ~~**eu thresholds & yields**~~ — **RESOLVED / RETIRED (iris 2026-06-24):** eu replaced by the
+   `progression.md` tier counter (Affinity 10 / Manipulation 50 / Spirit 250 / Soul 1000; +1 per matched
+   event, +2 per draw, ≤3 routine/encounter). No eu thresholds to tune.
+2. **drawDC ramp** — F1 50 → F4 58. Steeper, flatter, or per-seed bespoke?
+3. **Bias size** — +N intent per rank (clamped at 10). Keep intent-only (soft, gate stays decisive), or also allow a
+   small effectiveness multiplier on matched actions?
+4. **Active-skill emergence** — confirmed it can manifest by use at rank I (Ember Channel did). Keep emergence open at
+   rank I, or should a SECOND technique require rank II as written?
+5. **`resolveDraw()` in the engine** — want the draw formalized in `engine/engine.ts` (so draws are seeded/logged like
+   combat), or kept as a coordinator-applied check using the documented formula? (I did not touch the engine.)
+6. **`essenceProgress` sheet field** — apply the recommended field to alan.json + companion/enemy sheets, or track eu
+   coordinator-side only?

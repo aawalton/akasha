@@ -8,7 +8,7 @@ import {
 } from "./eso-live-dir-candidate-order.ts"
 
 const RUST_FN = "resolve_saved_vars_dir"
-const TS_FILE = "temper/shared-foundation-misc-eso-paths--from-instructions/src/eso-paths.ts"
+const TS_FILE = "temper/shared-foundation-misc-eso-paths/src/eso-paths.ts"
 const RUST_FILE = "packages/temper/watcher-tray/src/tray.rs"
 const CRATE = "packages/temper/watcher-tray"
 

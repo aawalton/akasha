@@ -1,0 +1,17 @@
+---
+pageType: story-wiki
+slug: pearl-colette-vane
+title: Pearl & Colette Vane
+bodyField: content
+story: the-beholder
+kind: relationship
+chapterNumber: 1
+---
+**Pearl ⇄ Colette Vane** (worship → murder).
+
+Pearl idolized Colette as the embodiment of the beauty she craves — "the standard I measured my own insufficiency against," which Pearl frames, chillingly, as "a kind of love most people never get from anybody." She coveted Colette's throat, her grace ("the body that changes its mind in the air"), and above all her gift for reading people. Watching Colette dance from the wing for many nights, Pearl explicitly learned from her how to "change in the air," and used that lesson in killing her.
+
+Colette, for her part, was warm and generous to Pearl: she called her "Pearlie," praised her line, and encouraged her to dance — "Better than mine." Despite her uncanny ability to read everyone, Colette never perceived Pearl's true nature until the instant of her death, when she "finally read" the sweet wardrobe girl a beat too late.
+
+Pearl murdered Colette as her first Acquisition kill (chapter 1), then was offered one of Colette's three finest traits to keep permanently (the reader's choice).
+

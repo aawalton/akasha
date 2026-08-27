@@ -1,0 +1,19 @@
+---
+pageType: story-wiki
+slug: powers-the-awakened
+title: Powers & the Awakened
+bodyField: content
+story: the-beholder
+kind: system
+chapterNumber: 0
+---
+**Powers & the Awakened** — foundational worldbuilding on how rare powers are, and what that means for Acquisition.
+
+The Onset surfaced only a few years ago, and **most people never awaken**. The overwhelming majority carry no power at all — only the ordinary spread of six attributes (Might, Vitality, Celerity, Acuity, Will, Allure) the System registers on everyone. A minority — **the awakened** — carry a single Onset power layered on top of their attributes.
+
+This rarity shapes how Pearl hunts:
+- **Attribute-theft works on anyone.** Everyone has attributes, so a +10% attribute slice can be carved off any victim, powered or not.
+- **Power-theft requires an awakened victim.** A power can only be stolen from someone who has one.
+
+Early in her career Pearl's victims are **unpowered humans** — beautiful, gifted, but carrying no Onset power — so every theft she banks at this stage is an attribute slice (Colette Vane, Dove). When she eventually kills an awakened victim, a power becomes available to take, and its output would scale with her **Will**.
+

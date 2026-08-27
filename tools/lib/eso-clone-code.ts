@@ -3,7 +3,7 @@ import { readdirSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { codeModule } from "./code-import.ts"
 
-const ESO_PATHS = "temper/shared-foundation-misc-eso-paths--from-instructions/src/index.ts"
+const ESO_PATHS = "temper/shared-foundation-misc-eso-paths/src/index.ts"
 
 const ESO_DOC_API_VERSION =
   "packages/temper/shared/build-deploy/checks/src/eso-doc-api-version.ts"

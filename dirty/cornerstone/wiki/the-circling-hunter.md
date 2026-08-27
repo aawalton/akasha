@@ -1,0 +1,16 @@
+---
+pageType: story-wiki
+slug: the-circling-hunter
+title: The Circling Hunter
+bodyField: content
+story: cornerstone
+kind: character
+chapterNumber: 1
+---
+# The Circling Hunter
+
+A predator that threatens the founding camp on the night after its first burial (the second or third day) — unnamed and unseen, known to the core only by tread. It comes "out of the nothing beyond my edge," crosses onto the bound ground, and is felt as "a padding, deliberate, heavy tread, **four-footed and low**, setting each foot down with the care that the careless never have."
+
+**Behavior (ch.1).** It does not blunder — it **circles**, slow, along the inside of the rim, keeping to the dark beyond the camp's banked warmth, "testing the edge of the sleeping ring, measuring it, choosing." The sleeping settlers never stir; they are "as blind to it as I was blind to everything past my own skin — blinder, for at least I felt it." The core strains uselessly to wake them. At last, "checked by some caution of its own, by nothing I did," the hunter pads back off the rim into the nothing and is gone. The settlers "would never know" they had been hunted.
+
+**Significance.** Establishes the external frontier threat and the core's central agony — "To feel everything and do nothing" — and motivates the settlers' wish for "eyes" (the Watch-Cairn / Sight labor). Whether it returns is an open thread.

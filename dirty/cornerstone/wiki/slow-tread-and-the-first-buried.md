@@ -1,0 +1,18 @@
+---
+pageType: story-wiki
+slug: slow-tread-and-the-first-buried
+title: Slow-Tread and the First Buried
+bodyField: content
+story: cornerstone
+kind: relationship
+chapterNumber: 1
+---
+# Slow-Tread and the First Buried
+
+The grief-bond established in chapter 1 between **Slow-Tread** (the old settler) and **The First Buried** (the camp's first dead).
+
+**What the text establishes.** Before there was a grave, Slow-Tread lingered at a particular spot near the center — "keeping watch over a grave before there was a grave," the core later understands. When the body is lowered there, Slow-Tread "stayed longest": after the others drifted back "to the work of the living," the old one remained, "standing, then kneeling, its knees two points of pressure, its grief a stillness I had by now learned to read."
+
+**Consequence.** Out of this grief, Slow-Tread gathers others to **raise the standing-stone** over the grave — to mark the ground "forever as a place where the dead are held and the living remember them" (the Memory / Marker-Stone labor). The relationship thus drives the one founding labor that reaches toward the core's own lost past.
+
+*(The text does not specify who the First Buried was to Slow-Tread — kin, friend, or simply one of the camp the old one felt bound to keep.)*

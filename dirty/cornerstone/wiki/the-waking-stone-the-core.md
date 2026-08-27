@@ -1,0 +1,24 @@
+---
+pageType: story-wiki
+slug: the-waking-stone-the-core
+title: The Waking Stone (the Core)
+bodyField: content
+story: cornerstone
+kind: character
+chapterNumber: 1
+---
+# The Waking Stone (the Core)
+
+The protagonist and point-of-view of the story. A buried, half-sentient **heartstone** — a settlement core — lying deep beneath a frontier camp. It is heavy, cold, and *down*: "a weight beneath the weight." It perceives the world **only through touch** — weight, vibration, and pressure transmitted through the bound soil that is its body. It is blind and has no ears; it knows day from night only by the sun's warmth soaking down by day and the cold rising from below at night.
+
+**Origin (chapter 1).** It "began" the moment a settler's foot first pressed down onto the ground above it — "I woke because I was touched." It did not wake into a known self but *surfaced* out of a bottomless dark.
+
+**Self-knowledge.** It cannot remember its name. Reaching back, it finds only a *fraying thread* trailing behind its waking — flickers of a past life: "a cold of a different kind, a wet and biting cold with edges," a falling, "the lurch of a body that has lost the ground," and "a hand I had reached for and not closed around." Pulling the thread frightens it and yields nothing, so it learned in its first hour not to pull too hard. (See seed: *The Lost Name*.)
+
+**Shape and limits.** It learned it is not a point but a **place**: a held breadth of ground with a center (where it lies "deepest and most myself") and an **edge/rim** past which a falling foot registers as nothing. It cannot move, lift, buck, or send any signal up through the soil. Its whole estate in chapter 1 is "to feel everything and do nothing."
+
+**Core desires (established ch.1).**
+1. **To matter to the small warm hand** — its deepest want, born when the settlement's child laid its palm flat on the soil in trust. "I wanted to matter to that hand. Not to be strong. Not to be feared. To be *more*, for that one small warmth, than dumb ground."
+2. **To remember its name** — second only to the first; it learns that **stone set into it is "the road"** back toward its past self (see system: *Stone-Kinship and the Memory-Thread*).
+
+**Emergent will.** By the chapter's end, as four labors begin above it at once, the core discovers it can *want* — a "dim, impossible will" to lean and tip the balance toward one of the four. This is the reader-as-core's first decision point.

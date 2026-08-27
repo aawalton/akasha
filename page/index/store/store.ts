@@ -2,7 +2,7 @@ import { existsSync, mkdirSync, readFileSync, rmSync, statSync, writeFileSync } 
 import { dirname, join } from "node:path"
 import { markOf } from "../../../cache/mark/mark.ts"
 import { canonicalize } from "../../../repo/path/path.ts"
-import { rootBeside } from "../../../repo/roots/roots.ts"
+import { REPOS, rootBeside } from "../../../repo/roots/roots.ts"
 import { oidsUnder } from "../../../repo/oid/oid.ts"
 import type { Roots } from "../../page.ts"
 import { pageNameOf } from "../../name/name.ts"
@@ -81,7 +81,11 @@ export function markFor(root: string): string {
 
 export function marksOver(roots: Roots): BuiltFrom {
   const made: Record<string, string> = {}
-  for (const [repo, root] of Object.entries(roots)) {
+  // WALKED BY REPOSITORY NAME RATHER THAN BY KEY. `Roots` carries a `target` key beside the roots,
+  // whose value is a repository name and not a path, so an entries walk handed `git -C akasha` and
+  // threw on a directory of that name not being there.
+  for (const repo of REPOS) {
+    const root = roots[repo]
     if (root === undefined) continue
     made[repo] = markFor(root)
   }
@@ -117,9 +121,11 @@ export function indexReaches(repo: string, root: string): boolean {
 
 export function staleIn(roots: Roots): readonly string[] {
   const held = builtFrom()
-  if (held === null) return Object.keys(roots)
+  const named = REPOS.filter((repo) => roots[repo] !== undefined)
+  if (held === null) return named
   const behind: string[] = []
-  for (const [repo, root] of Object.entries(roots)) {
+  for (const repo of named) {
+    const root = roots[repo]
     if (root === undefined) continue
     if (held[repo] !== markFor(root)) behind.push(repo)
   }

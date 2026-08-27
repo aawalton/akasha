@@ -1,0 +1,13 @@
+---
+pageType: story-wiki
+slug: tamsin
+title: Tamsin
+bodyField: content
+story: the-beholder
+kind: character
+chapterNumber: 1
+---
+**Tamsin** — a new corps dancer, eighteen, in her first season with the company; described as terrified. In chapter 1, after the show, she was crying very quietly backstage, certain no one could see (forty people backstage; nobody saw). Colette Vane crossed the backstage to take Tamsin's face in both hands and reassure her, then privately told her that her missed entrance was caused by a cue light dead since intermission — "it wasn't you" — which unlocked the girl's distress.
+
+A demonstration witness, not a participant in the kill. Alive as of chapter 1.
+

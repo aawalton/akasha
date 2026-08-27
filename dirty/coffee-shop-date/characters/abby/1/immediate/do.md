@@ -1,0 +1,1 @@
+Lets the silence stand a beat longer, settling back into the chair, then turns to him with an easy, unhurried warmth and a small smile — meeting his eyes — and says, lightly, 'We made it,' leaving the rest of the afternoon open for him to step into.

@@ -1,0 +1,20 @@
+---
+pageType: story-wiki
+slug: stone-kinship-and-the-memory-thread
+title: Stone-Kinship and the Memory-Thread
+bodyField: content
+story: cornerstone
+kind: system
+chapterNumber: 1
+---
+# Stone-Kinship and the Memory-Thread
+
+A world-fact established in chapter 1 about how the core relates to **worked stone** and to its own lost past. *(Narrative canon; the mechanical Faculty/Depth rules live on the build.)*
+
+**Stone rings as kin.** Everything else meets the core as *other* — "Flesh on stone. Wood on stone. Wheel on stone" — across "the gulf between us: I the ground, they the walkers-upon." But when worked **stone** grinds against the core's buried body, "it *rang*" — not a sound (the core has no ears) but "a kinship. A sameness recognizing sameness... as though the worked stone and my own deep body were two notes of one chord." "The stone was *kin*."
+
+**Stone pulls the memory-thread taut.** When stone touches the core, the *fraying thread* behind its waking (the past-life memory) "pulled taut," and the flickers come sharper. This happens twice in ch.1: when the flat grave-stone is dragged across it, and when Slow-Tread's standing-stone grinds upright into it. In those moments the core comes "almost back, almost holding the shape of who I had been."
+
+**The rule the core derives.** "When stone touched me, I *remembered*. The kinship in it reached down the thread toward whoever I had been. If I ever meant to find my way back to myself... then stone, set into me, standing in me, was the road."
+
+**A second derived limit — poor memory while blind.** The core notices it "held things poorly"; "the days slid through me and left so little behind. I lived in the eternal pressing *now* of touch, and already yesterday was thinning." To hold anything across time it would "need to be far more awake than this."

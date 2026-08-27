@@ -1,0 +1,23 @@
+---
+pageType: story-wiki
+slug: the-onset-the-system
+title: The Onset & the System
+bodyField: content
+story: the-beholder
+kind: system
+chapterNumber: 1
+---
+**The Onset & the System** — the powered backdrop of the world (narrative canon; authoritative mechanical numbers live on the story-build row).
+
+**The Onset.** Powers began surfacing across the world a few years before the story's present — ordinary people "waking up changed." Most people never awaken (see *Powers & the Awakened*).
+
+**The System.** A flat, indifferent overlay that registers everyone with attributes — and, for the rare awakened, a power. It has **no personality and no voice**: it states facts and reports values, nothing more. All the taste, delight, and cruelty in any appraisal belongs to **Pearl's narration**, not to the System; the readout itself is bare.
+
+**Growth is theft, and only theft.** There are **no levels** and no experience. The only way anyone in this story grows is by Acquisition: every stat point Pearl gains is an auditable theft, carved off a specific named victim. Ordinary people simply carry whatever spread the System registered on them; they do not climb.
+
+**The two steal categories** (there is no "skill" category):
+- **Attributes** — a +10% slice of one of the victim's six attributes (Might, Vitality, Celerity, Acuity, Will, Allure). Works on **anyone**, since everyone has attributes.
+- **Powers** — one of the victim's powers, stealable only from an **awakened** victim (you cannot take a power from someone who has none). A stolen power's output is multiplied by the thief's **Will**.
+
+**The felt experience (Pearl's, not the System's).** When Pearl fixes on a richly beautiful or notable person her own appetite rises — she calls it "**the hum**" — and a sense like a jeweler's loupe drops over her perception, letting her "taste" which of the victim's traits are finest. On the kill comes a "**click**," and the System surfaces the victim's three most notable traits as a plain readout; she may take exactly one. The reading is flat and indifferent; the relish is entirely hers.
+

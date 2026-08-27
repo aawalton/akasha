@@ -135,7 +135,15 @@ export function rootsHere(): Roots {
 
 export function resolveRoots(target: Repo = AKASHA): Roots {
   const at: Record<string, string> = {}
-  for (const repo of REPOS) at[repo] = canonicalize(rootOf(repo))
+  for (const repo of REPOS) {
+    const root = rootOf(repo)
+    // NAMED ONLY WHERE IT IS CLONED, which is the test `clonedHere` above already applies. A repo
+    // page outlives the checkout it names — a consolidation takes the directory away long before
+    // the page goes — and naming a root that is not on disk sent every reader of these roots to
+    // `git -C` against a missing directory. That throws `cannot change to`, naming the directory
+    // and not the repository, where every loop over these roots already skips one left out.
+    if (existsSync(`${root}/.git`)) at[repo] = canonicalize(root)
+  }
   return { ...at, target }
 }
 

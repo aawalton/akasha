@@ -1,0 +1,84 @@
+# The Tower — LitRPG immersion experiment (aura-coordinated)
+
+Independent of Dragons & Dungeons. **No outer frame, full immersion, hard-mechanics.** Alan plays himself.
+
+## Locked spec (from Alan, 2026-06-24)
+- **Frame:** Tower + System, isekai-shaped entry, never explained. He wakes at the bottom with no memory of arrival.
+- **Immersion / operating model (revised 2026-06-24):** in-story ACTIONS arrive via the **messages channel** (the web app's action box → routed to aura-3 as a message). **THIS chat session is the BACKCHANNEL** — coordinator/design talk, out-of-character. No brackets: everything in the backchannel is meta, everything via messages is in-story. In-story prose is pushed to the display (display/state.json → browser), not typed in the backchannel. (Superseded: the old `[brackets]` = step-out convention.)
+- **Crunch:** real stats, real calculations, real consequences. Every enemy gets a full sheet rolled BEFORE combat. Outcomes fall out of the math, never narrative convenience.
+- **Intent score:** the quality + plausibility of Alan's described intent is a real input to every contested action (0–10 modifier), plausibility-capped. Coordinator assigns it per action by the rubric below. The score guides the outcome but is NOT shown (see Presentation & Fog).
+- **Losing = persistent-progress time loop** (HELD DARK — see loop/loop-rules.md). Alan does NOT know until the first death.
+- **Relationships:** solo + harem (just him and girls, SAO-shape). Companions arrive over time, coordinator's discretion on timing. Female.
+- **★ IDEAL FUTURE PARTY (Alan, 2026-06-24):** Alan + **Aura** (player-character, NOT DM — she plays beside him, unlike Aria who runs D&D) + **Aelwyn** (Health) + **Ali** (Learn). His "dream team." Start solo; bring them in one at a time as the story earns it. Coherent harem-shape (him + his three value-sisters), complementary builds (Fun/Health/Learn + his mind). When each enters, she's a real PC with her own sheet rolled like Alan's.
+- **Progression:** more avenues > fewer. Many axes, unlocking progressively up the tower.
+- **Starting-self default (aura's call, veto-able):** the System renders the REAL Alan — mind is the edge, body is a 40yo's, honest gap between. No stat-padding. (In-play reveal: the System has no template for him → UNCLASSIFIED class, defined through action. Don't pre-spoil.)
+
+## Attributes (D&D scale: 3 crippling · 10–11 average adult · 13–14 gifted · 16–17 exceptional · 18 human peak · 19–20 beyond-human)
+MIGHT, FINESSE, VITALITY, INTELLECT, PERCEPTION, WILL, PRESENCE, LUCK.
+Alan (calibrated w/ Alan + Aelwyn 2026-06-24): MIGHT 11, FINESSE 13, VITALITY 6, INTELLECT 18, PERCEPTION 11, WILL 16, PRESENCE 15, LUCK 10 (Wild Variance → 1d20). Traits: Wild Variance, State-Gated Presence, Sensitivity-not-Observance, Hiker's Legs. See sheets/alan.json.
+
+## Derived stats
+- HP = VITALITY×8 + MIGHT×2
+- Stamina (physical pool) = VITALITY×4 + FINESSE×2
+- Focus (mental/skill pool) = INTELLECT×4 + WILL×2
+- Initiative = PERCEPTION + FINESSE
+- physAtk = MIGHT×1.5 + FINESSE
+- physDef = (VITALITY + FINESSE)/2 + armor
+- mentDef = WILL×1.5 + INTELLECT×0.5
+
+## Action resolution (engine/engine.ts is the authority)
+`effectiveScore = attackPower + skillBonus + intent(0–10) + roll(2d10, bell-curved 2–20)`
+Compared to defender's relevant defense → `margin = effectiveScore − defense`.
+- margin < 0: miss / fail (graze chip on small negatives).
+- margin ≥ 0: hit; `damage = base × (1 + margin/12)`, mitigated, min 1.
+- **damage gate (readable-trait multiplier):** each enemy's `readableTrait` carries a `×M` the coordinator passes as `resolveAction`'s `gate` (default 1.0). It multiplies `base` BEFORE margin-scaling: `damage = base × gate × (1 + margin/12)`. Bands: ×0.25–0.4 wrong-read/mitigated · ×1.0 neutral · ×1.5–2.0 correct read · ×3.0 decisive weak-point. Enemy-side; stacks with the player-side affinity intent bias (different formula points); an affinity grants no gate of its own. It is independent of and multiplicative with crit(×1.5)/graze(×0.25). Full model + floor catalogue: floors/SCHEMA.md.
+Seeded RNG so every roll is real and reproducible; the roll is RECORDED (coordinator-only rolls.jsonl) but NOT shown — its outcome is woven into the prose (see Presentation & Fog).
+
+## Presentation & Fog (refined w/ Alan, 2026-06-24): crunch DONE, not always SHOWN
+The system stays fully crunchy under the hood — every check is rolled, intent-scored, margin-computed for real, and logged to rolls.jsonl. But crunch is SHOWN only where it communicates PROGRESS, and HIDDEN where it would interrupt NARRATIVE or reveal what the character has no way to know.
+- **Inline resolution is hidden.** The dice / DC / intent / margin guide the prose; they never appear as panels. The OUTCOME (how richly/poorly an action lands) carries the result. Litmus: would the character perceive it? Diegetic System UI = show; the coordinator's dice behind the screen = hide.
+- **The sheet is fog-of-war on the self.** The displayed sheet = only what the System has revealed or Alan has deduced. The authoritative full sheet (`sheets/alan.json`) stays the engine's source of truth; the *display* is a projection that EXPANDS as informational abilities / deductions are earned. Knowledge is itself a progression axis.
+- **Appraisal inclusion rule — what the System reveals, and why (refined w/ Alan 2026-06-24, post-Nimue).** It shows WHO you are (the 8 attributes, as numbers — stable identity + the growth dashboard), HOW MUCH you have (the survival pools Vitae / Focus / Stamina — the HUD bars you watch deplete), and your CLASSIFICATION (**Class: None** — the ordinary base case, stated flat). It does NOT show: HOW WELL YOU FIGHT (derived combat math — Initiative, Phys Atk, Phys Def, Ment Def — needs an analytical ability to read), the MECHANICS behind anomalies/items (the iron bar's +4, the d20 itself), or ANY traits/anomalies. A normal human variation (leg-strong / arm-weaker = "Hiker's Legs") isn't shown — and neither are the flagged anomalies; he discovers all of it by acting.
+- **No warnings, no alarms, no error-framing (the System-Voice consequence).** The appraisal is a flat readout, not a diagnostic alert. No `⚠` lines, no "ANOMALIES DETECTED", no "no matching template found". Class None is normal, not a fault. Per the copy-paste test, the appraisal is the universal new-climber template: designation, tier, class, pools, attributes — nothing dramatized, nothing scene-specific.
+- **Anomalies are engine-truth, not display.** The authoritative anomalies (Wild Variance, etc.) live in `sheets/alan.json` and still drive resolution (the d20, etc.); they are simply NOT surfaced in the appraisal or the sheet panel. The "Anomalies" sheet tab is removed. Knowledge is a progression axis: an Anomalies/analysis view can RETURN if Alan earns an informational ability — that's an unlock, not a default.
+- **Appraisal ⇄ sheet stay aligned.** Displayed sheet = the Appraisal's reveals + anything revealed/deduced since. Keep them in sync whenever either changes.
+
+## System Voice (house style adopted from "The Tower of Nimue", 2026-06-24)
+The System is impersonal, universal infrastructure Alan is SUBJECTED to — **not a narrator, not a character.** It REPORTS state and OFFERS options. It never advises, foreshadows, judges, or flatters. (This sharpens the "diegetic System UI = show" rule above: the System may show, but only in this voice.)
+- **The copy-paste test (the core rule).** Every System line must be a templated string that could appear VERBATIM for any climber in that exact mechanical situation, with no knowledge of who is reading it. If a line only makes sense for Alan's specific scene, it isn't System voice — it's narration leaking into the panel. Cut it, or move its meaning into the prose.
+- **Banned leaks:** taking a stance; foreshadowing dread; flattering his specialness; narrating his specific scene; tactical-coaching poetry. (e.g. "a clean kill, struck true" judges; "the water remembers being still" narrates + foreshadows — both fail.)
+- **Allowed:** flat, universal game-flavor — bestiary / weak-point entries, essence / item / skill descriptions, threshold notifications — identical for everyone, opinion-free. Flavor yes; personality no. ("WEAK POINT — core", "A warden holds this floor. Clear it to ascend." pass: any climber in that situation sees the same string.)
+- **Popover-description contract (the appraisal `note`).** The click-to-reveal description on an attribute / skill / affinity / item states the thing's STABLE NATURE — what it permanently is and does — in System voice, 1-3 flat sentences. `attrInfo` is the model: nature → how it's used or what it costs, in words → notable limit. EXCLUDE, always: (1) current/mutable state (charge spent low, lit-now, this-turn condition — that's the HUD + prose, not the appraisal); (2) personality, sentiment, ownership-feeling ("his by name", "his finest" — fails "personality no"); (3) internal turn-tags / prep shorthand (`t71`, `CHAIN-HAFTED (t72)`); (4) non-user-facing mechanical values — bare numbers like `atk` / `def` / `+1 armor` live ONLY in their own fields, never restated in the prose (say "turns a blow better than bare skin", not "+1 armor"). Same copy-paste test: it must read identically for any climber holding that thing.
+- **System panels are GENERATED, never authored (the mechanic feed).** A System card (`type:"system"` log beat) is MACHINE-EMITTED by `turnlib` from a deterministic diff of the sheet — never hand-written in the narrative loop. iris authors only narrative beats and keeps the sheet truthful; the card appears on its own when a progression event fires. The vocabulary is a CLOSED set of five progression-dings — nothing else is ever a System line, because everything else already lives on its own panel (pools → HUD bars, items → inventory, attributes → grid) or in the beat:
+  - `LEVEL UP — N` — level increased.
+  - `SKILL — <Name>` (emerged) · `SKILL — <Name> → <Rung>` (evolved a rung).
+  - `AFFINITY — <Name>` (emerged) · `AFFINITY — <Name> → <Tier>` (promoted a tier).
+  - `CLASS — <Name>` — class assigned or changed.
+  - `TITLE — <Name>` — title gained.
+  A turn with no progression event emits NO card (most turns). The felt meaning of the advance lives in the paired narrative beat, never in the card. ONE sanctioned exception: the opening **Soul Appraisal** — the first reveal of the attributes + resource pools onto the HUD — is preserved as its own card (reconciles with the Appraisal inclusion rule above). It is one-time; no later appraisal-style readout qualifies, and floor-entry banners / threshold notices do not.
+- **Register:** a FORM addressing a field. Terse, mechanical, third-person where natural ("subject", "hostile neutralized"); the "you" it uses is the form-field "you", never the narrative "you".
+- **All meaning-making lives in the narrative beats, never in the System.** The panels carry progress + mechanical state; the window-pane prose carries everything felt. (Note: our beats are 2nd-person "you" = Alan, so the System's form-"you" must stay strictly templated or it blurs into the narration.)
+
+## Prose style — window-pane (Alan, 2026-06-24)
+Narrative prose is a clear pane of glass onto the story: the reader sees the events, not the writing. Clear and compelling, never ornate. NO purple prose.
+- Concrete and sensory over abstract and figurative. One clean image beats three stacked metaphors.
+- Plain verbs, few adjectives, shorter sentences, clear cause-and-effect.
+- Cut self-conscious rhythm, rhetorical flourishes, "look-at-me" constructions. If a sentence is admiring itself, cut it.
+- Window-pane is not flat — keep tension, momentum, immersion. Clear AND compelling.
+- Applies to all narrative beats; System panels stay terse and diegetic.
+
+## Intent rubric (coordinator assigns; score guides prose, not shown)
+- 0–2: vague/generic ("I attack").
+- 3–5: clear, specific, plausible.
+- 6–8: clever, grounded in the fiction/physics, exploits a real opening.
+- 9–10: exceptional — exploits something TRUE about the enemy sheet or scene that Alan correctly read.
+- **Plausibility cap:** an intent his sheet/scene can't support is capped low or fails; you cannot narrate past a hard stat gap.
+
+## Progression axes (unlock upward)
+Character level: **FLAT — +1 per floor cleared** (Alan, 2026-06-24), applied on chapter close at a floor boundary. **No XP, no curve, no `xp`/`xpMax`** — leveling IS the floor-clear ding, and `level` drives stat growth (attribute points on level-up). (XP was dropped as a fiction that added load without value — it was calibrated to deliver exactly one level per floor anyway; the floor boundary is the honest unit. Nothing derived from xp/xpMax — audited. See mechanics/progression.md → 'Character level — FLAT'.)
+Live at floor 1: Attributes (points/level), Skills (learn + level by use), Titles (earned by deeds), the null Class.
+Unlock higher: Affinities, Equipment/Crafting, Companion Bonds (harem synergies), Tower Boons.
+
+## Build order
+1. ✅ scratch dirs  2. engine/engine.ts (resolver+CLI)  3. sheets/alan.json  4. floors/floor-01.json (+first enemy)  5. verify a sample fight  6. OPEN: the wake-up.
+Grow floors + axes as we climb; don't front-load the whole tower.

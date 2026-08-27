@@ -1,0 +1,20 @@
+---
+pageType: story-wiki
+slug: the-tower
+title: The Tower
+bodyField: content
+story: tower-of-nimue
+chapterNumber: 2
+kind: location
+---
+**The Tower** — the hundred-floor trial-structure that unfolded up out of the sky at the moment of the System's descent, rising through the seam as the city folded away around it.
+
+**Appearance.** A dark fluted column whose surface refuses to resolve into stone, metal, or glass, scored with horizontal ring-divisions (floors). It is "the kind of tall that broke counting" — Nimue's eye reached ~100 floors and could not be sure even of that. The System later states: "One hundred floors stand between the ascended and the apex."
+
+**The wrong shadow.** Its long black shadow falls *the wrong way* — stretching **toward** the brightening east, reaching for the dawn "as no honest shadow could," as if the Tower were lit not by the rising sun but by something on the far side of the sky that no one else can see. (Reconciled to shipped Ch.1: the shadow reaches toward the dawn, not away into the dark.)
+
+**Wrong-gravity tide.** It exerts a gravity that points *toward* the Tower rather than down, a tide felt in the inner ear that pulls survivors downhill toward its base. Accompanied by a sustained sub-audible hum (felt in teeth and the long bones of the arms) and a thick ozone smell; both intensify near the base. Where the Tower's shadow first swept the city, electric power and ambient machine-sound died.
+
+**The threshold.** Its base presents, for each ascendant separately, a "seam in the world" — a vertical wound in the air taller than three people, edged in System blue-white, opening onto *nothing* (not darkness, but absence — "a lightless held breath"). This is the Ascension Threshold to Floor 1. "The Tower does not admit the empty." Stepping through "felt like going under"; the seam closes seamlessly behind, and there is no going back.
+
+**How its floors work (Ch.2 reveal).** The Tower does not *make* its trials — it **grows** them, out of the very dead it culled. Each floor is a trial creature converted from the unascended (see *The Harvest & the Conversion*); survivors of each trial "ascend" one ring higher to meet the next thing built from the next slaughter. Survivors of a trial gain "essence." The System's words: "Each is a trial. Each trial yields essence to those who survive it. Climb, harvester. The Tower keeps what you cannot." (Mechanical specifics of essence/harvest live on the build, not here.)

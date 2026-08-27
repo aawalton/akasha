@@ -22,7 +22,8 @@ function stateAttributeLines(varPrefix: string): readonly string[] {
     `      _${varPrefix}_slug="\${_${varPrefix}_pair#*:}"`,
     `      case "$_${varPrefix}_slug" in ""|null) continue ;; esac`,
     `      case "$_${varPrefix}_attribute" in`,
-    `        persona) _${varPrefix}_answering=",\\"principal\\":\\"${INTERACTIVE_PRINCIPAL}\\"" ;;`,
+    `        persona) [ "$_${varPrefix}_handler" = 1 ] || ` +
+      `_${varPrefix}_answering=",\\"principal\\":\\"${INTERACTIVE_PRINCIPAL}\\"" ;;`,
     "      esac",
     `      _${varPrefix}_json_escape "$_${varPrefix}_slug"`,
     `      _${varPrefix}_body="$_${varPrefix}_body,` +
@@ -65,9 +66,12 @@ export function stateSeatFromRowLines(varPrefix: string): readonly string[] {
 export function spelledSeatNameLines(varPrefix: string): readonly string[] {
   return [
     `  local _${varPrefix}_seat="$name" _${varPrefix}_spelled="" _${varPrefix}_json=""`,
-    `  _${varPrefix}_json_escape "$name"`,
-    `  local _${varPrefix}_named="{\\"name\\":true,\\"principal\\":\\"${INTERACTIVE_PRINCIPAL}\\",` +
+    `  local _${varPrefix}_named="{\\"name\\":true"`,
+    `  if [ "$_${varPrefix}_handler" != 1 ]; then`,
+    `    _${varPrefix}_json_escape "$name"`,
+    `    _${varPrefix}_named="$_${varPrefix}_named,\\"principal\\":\\"${INTERACTIVE_PRINCIPAL}\\",` +
       `\\"persona\\":\\"$_${varPrefix}_json\\""`,
+    "  fi",
     `  [ -n "$_${varPrefix}_typed_role" ] && _${varPrefix}_json_escape ` +
       `"$_${varPrefix}_typed_role" && ` +
       `_${varPrefix}_named="$_${varPrefix}_named,\\"role\\":\\"$_${varPrefix}_json\\""`,

@@ -1,0 +1,15 @@
+---
+pageType: story-wiki
+slug: mr-aldous
+title: Mr. Aldous
+bodyField: content
+story: the-beholder
+kind: character
+chapterNumber: 1
+---
+**Mr. Aldous** — a patron/donor of the theatre company who "funds half the season." An older man who "looks at all the dancers like a man at a buffet who's been told not to touch," but does not look at Pearl that way (she reads herself as "too pretty to be staff and too sweet to be prey," which short-circuits men like him).
+
+In chapter 1 he sought Pearl out backstage during the bows, pressed an unrequested glass of gold liquor into her hand, and confided that she was "the only honest face back here… You just want them to do well." Pearl charmed him with a touch on the sleeve (an instance of her Allure) while privately noting his "magnificent watch" and that he had "absolutely no idea what was standing next to him."
+
+Alive as of chapter 1. Breath "like oak and money."
+

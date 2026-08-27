@@ -1,0 +1,18 @@
+---
+pageType: story-wiki
+slug: floor-1-the-charnel-den
+title: Floor 1 — The Charnel Den
+bodyField: content
+story: tower-of-nimue
+chapterNumber: 2
+kind: location
+---
+**Floor 1 — The Charnel Den** — the first floor of the Tower, reached by stepping through the Ascension Threshold seam (which "felt like going under" and seals seamlessly behind, no return).
+
+**The space.** A lightless room with a low black ceiling close overhead. The dark is total and *eats* the System-glow a foot past one's hands — eyes never adjust; the only light is one's own interface. The floor is ankle-deep **ash**, pale and fine "as cremation ash," that shifts like sand and crunches underfoot.
+
+**Temperature — cold (the predator's hunting logic).** The den is **cold**: "a still, dead, used-up cold," like a walk-in cooler or a body on a table — "a place that had eaten everything warm in it a long time ago and kept nothing back." A living climber is therefore the **one warm thing** in the room (~98.6°F, "burning like a lamp") and so the most huntable: the heat-hunting Ash-Glutton needs no eyes — in a room this dead, the climber's warmth is the only thing worth finding. (Reconciled to the shipped Ch.2 heat-physics fix: the den is COLD, not warm — the predator hunts the climber's heat against a cold-dead background. Supersedes the earlier 'blood-warm den' wording.)
+
+**Smell & sound.** Dry mineral ash over a thick "digesting reek… like a wound dressed too long"; otherwise silent in the way of a place "where something is holding its breath." The Tower's sub-audible hum persists in teeth and bone.
+
+**What it is.** The lair of the Ash-Glutton and the literal grave of part of the dead city — the floor and the den's monster are both made of the culled unascended. The first concrete instance of the Tower growing a trial from its own dead.

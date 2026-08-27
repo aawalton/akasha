@@ -1,0 +1,1 @@
+Along the bottom edge of the front window beside them, where the room's warmth presses against the cold rain-streaked glass, a faint bloom of condensation gathers and creeps inward — softening the grey city beyond into a still vaguer blur, drawing the corner one degree further into its own warmth.

@@ -111,7 +111,7 @@ export function evaluateManifestNode(attrs: ManifestNodeAttrs): readonly Violati
   return violations
 }
 
-const TS_LITERAL_ALLOW: ReadonlySet<string> = new Set(["infra/k8s-types--from-instructions/src/hostnames.ts"])
+const TS_LITERAL_ALLOW: ReadonlySet<string> = new Set(["infra/k8s-types/src/hostnames.ts"])
 
 const TS_LITERAL_RE =
   /"kubernetes\.io\/hostname"|"alanwalton\.com\/workload-class(?:\.[a-z][a-z0-9-]*)?"|"alanwalton\.com\/gpu-(?:vram-usable-mib|compute-cap|vram-usable-min\.[a-z0-9]+)"/

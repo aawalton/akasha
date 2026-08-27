@@ -24,7 +24,7 @@ export const K8S_CHECKS: CheckConfig[] = [
     dispatchNodes: [
       "ts-file:code:infra/cluster-checks/src/checks/check-k8s-node-selector.ts",
       "ts-file:code:infra/k8s-types/src/k8s-manifest-scanner.ts",
-      "ts-file:code:infra/k8s-types--from-instructions/src/hostnames.ts",
+      "ts-file:code:infra/k8s-types/src/hostnames.ts",
     ],
     script: "infra/cluster-checks/src/checks/check-k8s-node-selector.ts",
     args: treeShaArgs,
@@ -35,7 +35,7 @@ export const K8S_CHECKS: CheckConfig[] = [
     dispatchNodes: [
       "ts-file:code:packages/infra/checks/src/checks/check-pages-ui-store-sidecar-memory.ts",
       "ts-file:code:infra/cluster-checks/src/lib/code-sync-sidecar-memory.ts",
-      "ts-file:code:infra/k8s-types--from-instructions/src/orchestrator-cache.ts",
+      "ts-file:code:infra/k8s-types/src/orchestrator-cache.ts",
       "package:code:@shared/pages-ui-store",
     ],
     script: "packages/infra/checks/src/checks/check-pages-ui-store-sidecar-memory.ts",

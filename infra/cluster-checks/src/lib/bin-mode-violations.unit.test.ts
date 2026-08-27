@@ -26,7 +26,7 @@ describe("extractBinTargets", () => {
         pkgName: "@shared/utils-system",
         pkgJsonPath: "shared/utils-system/package.json",
         command: "aux",
-        target: "packages/shared/utils/system/bin/aux.ts",
+        target: "shared/utils-system/bin/aux.ts",
       },
     ])
   })
@@ -34,14 +34,14 @@ describe("extractBinTargets", () => {
   test("string-form bin uses the unscoped package name as command", () => {
     const got = extractBinTargets(
       { name: "@temper/shared-build-deploy-lua-runner", bin: "./src/cli.ts" },
-      "temper/shared-build-deploy-lua-runner--from-instructions/package.json"
+      "temper/shared-build-deploy-lua-runner/package.json"
     )
     expect(got).toEqual([
       {
         pkgName: "@temper/shared-build-deploy-lua-runner",
-        pkgJsonPath: "temper/shared-build-deploy-lua-runner--from-instructions/package.json",
+        pkgJsonPath: "temper/shared-build-deploy-lua-runner/package.json",
         command: "shared-build-deploy-lua-runner",
-        target: "packages/temper/shared/build-deploy/lua-runner/src/cli.ts",
+        target: "temper/shared-build-deploy-lua-runner/src/cli.ts",
       },
     ])
   })

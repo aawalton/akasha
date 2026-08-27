@@ -2,6 +2,7 @@
 *.lock/
 node_modules/
 .claude/
+.supervisors/
 .serena/
 .playwright-mcp/
 .scratch/

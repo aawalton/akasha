@@ -1,0 +1,17 @@
+---
+pageType: "story-skill"
+aliases: []
+capabilityClaimed: []
+chapterRange: {"last": 803, "first": 803}
+createdAt: "2026-07-19T21:05:41.60055+00:00"
+evidence: {"src": {"ch": "10.53 UEG", "beat": 2678}}
+evolvesFrom: ["vehicle-fast-travelling"]
+evolvesTo: []
+id: "019f7c32-f2f0-7941-a5e0-4d43e0eec1d9"
+kind: "skill"
+seq: 838
+slug: "vehicle-magical-delivery"
+story: "019db5f4-088d-7584-9fe7-cc7dbfe51d25"
+title: "Vehicle: Magical Delivery"
+updatedAt: "2026-07-20T11:05:59.300338+00:00"
+---

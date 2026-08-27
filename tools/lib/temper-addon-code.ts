@@ -1,7 +1,7 @@
 
 import { codeModule } from "./code-import.ts"
 
-const ADDONS_RESOLVE = "temper/shared-build-deploy-addons-resolve--from-instructions/src/index.ts"
+const ADDONS_RESOLVE = "temper/shared-build-deploy-addons-resolve/src/index.ts"
 
 const ADDON_GLOBAL_OWNERSHIP =
   "packages/temper/shared/build-deploy/checks/src/addon-global-ownership.ts"

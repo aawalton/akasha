@@ -1,0 +1,19 @@
+---
+pageType: story-wiki
+slug: the-company
+title: The Company
+bodyField: content
+story: the-beholder
+kind: location
+chapterNumber: 1
+---
+**The Company** — the ballet/theatre company that is the setting of chapter 1. It runs a funded performing season supported by patrons (e.g. Mr. Aldous, who "funds half the season"). The chapter's performance is a multi-act show with a featured solo for the prima, Colette Vane.
+
+**Spaces established:**
+- **The prompt-side wing** — backstage area where Pearl watches the show with her dress kit.
+- **The stage** — after the show, the "big stage rig clunks down to the work-lights," low amber lights that "make everything look like it's remembering itself." The house empties within about twenty minutes of the final bow.
+- **The green room**, and off it —
+- **The mirror studio** — a room walled entirely in mirror, where the light is "kind." Colette liked to break down her heavy costumes there after performances, with Pearl's help. This is where Pearl killed her (chapter 1), the surrounding mirrors reflecting "a hundred" of each of them.
+
+**Roles within the company:** Pearl is a wardrobe assistant; Colette Vane was the prima; Tamsin is a new corps dancer; Mr. Aldous is a patron.
+

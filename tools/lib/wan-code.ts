@@ -13,7 +13,7 @@ import { recordInferenceRun } from "./inference/inference-run-store.ts"
 import * as extendGraphModule from "@infra/wan/cli/extend-graph"
 import * as i2vGraphModule from "@infra/wan/cli/i2v-graph"
 
-const REQUIRE_MATCH_POSITIONAL = "shared/utils-narrow--from-instructions/src/require-match-positional.ts"
+const REQUIRE_MATCH_POSITIONAL = "shared/utils-narrow/src/require-match-positional.ts"
 const ZOD = "zod"
 
 export type ComfyGraph = unknown

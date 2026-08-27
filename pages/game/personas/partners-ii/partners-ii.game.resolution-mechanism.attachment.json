@@ -1,0 +1,5 @@
+{
+  "verb": "ops awen roll",
+  "convention": "Hybrid: planning first, luck second. Checks resolve as 1d20 + formula-derived modifiers (attributes, skills, affinities, bond effects — all per the hidden systems in gmReference) against the difficulty band's hidden target number. The GM picks the band from fiction before rolling; the die is only the luck. Effect/damage dice ride rulebook expressions (e.g. 2d6+Might mod). Every roll is made via ops awen roll BEFORE its outcome is narrated; the hash-chained log is the honesty contract — a re-roll is visible by construction and its first result stands unless the fiction itself changed. All formulas, TNs, and margins stay loop-dark; the player sees outcomes as story and system windows only.",
+  "defaultDice": "1d20"
+}

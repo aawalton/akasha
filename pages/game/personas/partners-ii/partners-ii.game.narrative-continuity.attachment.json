@@ -1,0 +1,16 @@
+{
+  "canon": [
+    "t1: Alan crossed into Aravel mid-stride at dusk — two moons, a warm unreadable coin, and Hearthholt's iron key-ring (five keys, brass tag) appearing in his pockets; the System pane registered him and paused at his talent: no classification, no precedent on record.",
+    "t1: Hearthholt's high eastern-gable window lit itself at his crossing; the road behind does not go back — roads here go where they go.",
+    "t2: Alan took the right fork and climbed the switchback to Hearthholt's shut iron gate; up close the house is in far better repair than an empty house should be — clean gutters, swept chimneys.",
+    "t2: Amy Laurens — up from Amberford, keeper of Hearthholt's affairs a good many years — climbed the hill the same evening with lantern and a supper basket she admits she packed before she had the faintest notion whom she'd meet. She introduced herself at the gate (one she has only ever known locked) and asked who it is she's feeding. Alan has not yet spoken to her.",
+    "t1 craft repair (Alan-requested, 2026-07-09, doctrine v7 awed-System): the Crossing pane prose and the registration beat title re-rendered flat — every committed fact preserved verbatim (advisory gate PASS, all dimensions); the drama now lives in Alan reading an indifferent instrument. Explicit visible act per canon-immutable; no fact changed."
+  ],
+  "frames": [],
+  "frameMap": [],
+  "narration": {
+    "rule": "Second person, present tense, limited strictly to what Alan perceives or plausibly infers in the moment; other minds render as behavior and fallible reads, never narrator fact.",
+    "person": "second",
+    "povCharacter": "Alan"
+  }
+}

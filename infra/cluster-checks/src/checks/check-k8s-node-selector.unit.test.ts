@@ -122,9 +122,9 @@ describe("scanTsContent — ts-literal rule (extended to workload-class key)", (
     expect(v.map((violation) => violation.kind)).toEqual(["ts-literal"])
   })
 
-  test("allows both literals inside infra/k8s-types--from-instructions/src/hostnames.ts", () => {
+  test("allows both literals inside infra/k8s-types/src/hostnames.ts", () => {
     const content = `const x = ${HOSTNAME_LITERAL}\nconst y = ${WORKLOAD_CLASS_LITERAL}\n`
-    const v = scanTsContent(content, "infra/k8s-types--from-instructions/src/hostnames.ts")
+    const v = scanTsContent(content, "infra/k8s-types/src/hostnames.ts")
     expect(v).toEqual([])
   })
 
@@ -136,7 +136,7 @@ describe("scanTsContent — ts-literal rule (extended to workload-class key)", (
 
   test("allows the dotted membership literal inside hostnames.ts (canonical file)", () => {
     const content = `const x = ${WORKLOAD_CLASS_MEMBER_LITERAL}\n`
-    const v = scanTsContent(content, "infra/k8s-types--from-instructions/src/hostnames.ts")
+    const v = scanTsContent(content, "infra/k8s-types/src/hostnames.ts")
     expect(v).toEqual([])
   })
 
@@ -148,7 +148,7 @@ describe("scanTsContent — ts-literal rule (extended to workload-class key)", (
 
   test("allows the hyphenated membership literal inside hostnames.ts (canonical file)", () => {
     const content = `const x = ${WORKLOAD_CLASS_HYPHENATED_MEMBER_LITERAL}\n`
-    const v = scanTsContent(content, "infra/k8s-types--from-instructions/src/hostnames.ts")
+    const v = scanTsContent(content, "infra/k8s-types/src/hostnames.ts")
     expect(v).toEqual([])
   })
 })

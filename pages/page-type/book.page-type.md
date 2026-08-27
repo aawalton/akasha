@@ -3,7 +3,7 @@ id: 01a00c22-fca3-7000-8271-71c3a5d7299b
 page-type-slug: page-type
 title: "Book"
 extends-slug: collection
-files: books:**/*.book.md
+files: akasha:**/*.book.md
 named-for: "{slug}"
 body-shape-slug: text
 slug: book

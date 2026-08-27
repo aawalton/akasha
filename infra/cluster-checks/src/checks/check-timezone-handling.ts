@@ -25,8 +25,8 @@ const TIMEZONE_SUCCESS_MESSAGE =
   "No timezone-handling violations in the TypeScript this gate reads. Hour-offset arithmetic is judged only inside the ESO zone-domain paths, and formula strings on pages rows are read by nothing — see this check's header."
 
 const ALLOWLISTED_HELPERS: ReadonlySet<string> = new Set([
-  "shared/recurrence--from-instructions/src/reset-times.ts",
-  "shared/recurrence--from-instructions/src/home-times.ts",
+  "day/day.ts",
+  "tools/lib/tracking/mountain-times.ts",
   "packages/temper/player/completion/addon/src/tracking/daily-writs.ts",
   "packages/temper/shared/foundation-misc/dungeons/src/eso-day.ts",
 ])

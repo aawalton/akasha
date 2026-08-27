@@ -1,0 +1,18 @@
+---
+pageType: story-wiki
+slug: the-ash-glutton
+title: The Ash-Glutton
+bodyField: content
+story: tower-of-nimue
+chapterNumber: 2
+kind: character
+---
+**The Ash-Glutton** — the Floor-1 trial of the Tower; Nimue's first kill. A great slow bulk that lairs in the charnel den (see *Floor 1 — The Charnel Den*), grown by the Tower from the unascended dead it culled.
+
+**Body & armor.** Enormous, hot, and patient — it lies buried in its own ash with its breath held, letting the warmest living thing in the room walk to it (it hunts heat/warmth; a wounded climber "bleeds heat" and lights itself up for the next bite). Its entire surface is plated in a hard pale **crust** — not stone but **fused human bone**: thousands of sintered shards (knuckle, rib, skull-pieces) scraped from the culled dead and pressed into armor. Ordinary strikes skate off the crust uselessly.
+
+**The one weakness — "The Gorge."** It armors everything but its breath. To exhale its blinding **cough** — a cone of pulverized ash that floods a victim's eyes, mouth, and throat — it must first *inhale*, and on the inhale a soft pale throat (the Gorge) distends, uncrusted and vulnerable. "The soft is only soft on the inhale." A precise strike up into the swollen throat on the inhale is the kill; "the crust is a shell, the shell is hollow — it has spent its city's worth of fuel." It is a husk: fat with what it ate, brittle underneath, all shell and one soft breath.
+
+**How Nimue beat it.** Not by force — four full-strength blows did nothing. She stopped trying to overpower it, used her foundation (the Open Eye) to let the interface paint the one weak point in the dark, learned the inhale-rhythm, and drove the pole up into the Gorge on the breath, finding "the killing line inside the killing line." Cleared "by precision, not attrition."
+
+**Significance.** Nimue's first proof that the Tower's trials are *solvable by seeing*, and the creature through which she learns what the Tower is (see *The Harvest & the Conversion*). Its carcass is the site of her first Harvest decision.

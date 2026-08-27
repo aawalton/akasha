@@ -1,0 +1,25 @@
+---
+pageType: story-wiki
+slug: pearl
+title: Pearl
+bodyField: content
+story: the-beholder
+kind: character
+chapterNumber: 1
+---
+**Pearl** — protagonist and first-person narrator of *The Beholder*. A young woman who works as a wardrobe assistant (dress kit, threaded needle, on-the-fly hem and strap repairs) at a ballet/theatre company.
+
+**Name.** She chose "Pearl" herself at sixteen, discarding her mother's given name for her (described only as "soft and forgettable… a name like a wet napkin"). The name is a chosen self-mythology: a pearl forms when a speck of filth or a parasite gets inside a creature that can't expel it, so it buries the flaw under coat after coat of shine until the flaw is the whole reason for the beauty — "you become gorgeous by burying what you started as." She says she always knew she would do this to herself.
+
+**Obsession.** Beauty. She experiences beautiful things with worshipful, helpless hunger ("I think about beautiful things the way other people pray") and wants to possess them and carve herself toward something perfect.
+
+**Surface vs. truth.** She presents as sweet, cheerful, early, helpful — "Sweet little Pearl" — and is genuinely liked and trusted. Her warmth is not faked: she really does love the people she tends ("I never have to lie about loving them") — "I just don't tell them the second part." The second part is that she intends to take from them.
+
+**Affect / voice.** Bright, bubbly, gleeful, excitable; no fear and no remorse. At her first kill she felt no dread — instead a giddy, fizzing, "about to" lightness, "a crush's tremble, not a coward's." Her heart pounded "finally," not "no."
+
+**Appearance (self-described).** Very pretty — "pretty the way a knife is pretty, all edge and intention." Quick and sharp-eyed.
+
+**Power.** Her Onset power, **Acquisition**, first awakened in chapter 1 during her first kill (see *The First Harvest*). It lets her permanently take one of a victim's finest traits on killing them. (Her authoritative mechanical sheet — stats and powers — lives on the story-build row, not here.)
+
+**Tools.** Wardrobe shears — heavy, bright, French-forged, sharp enough to halve a silk ribbon by their own weight; her weapon for the first kill. "I take very good care of my tools."
+

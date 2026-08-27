@@ -1,0 +1,18 @@
+---
+pageType: story-wiki
+slug: deep-step
+title: Deep-Step
+bodyField: content
+story: cornerstone
+kind: character
+chapterNumber: 1
+---
+# Deep-Step
+
+A settler of the founding camp, named by the core for tread. **The heaviest of all the settlers — "not from fat, heavy with decision."** When Deep-Step walks, "it walks to a purpose and arrives. It does not drift. It plants." The core understands this is the one who decides things — "where a thing would go, and whether it would hold" — i.e. the camp's practical leader/builder.
+
+**Signature gestures (ch.1).** Drove the camp's first stake into the soil with three ringing blows. Afterward laid a hand flat on the soil "the way you press a palm to a table to be sure it will bear what you mean to set on it" — the core felt itself "assessed, and found firm," calling it "its own kind of warmth."
+
+**Associated labor — the storehouse/granary.** Sets in motion "the most patient work of all... not a digging this time but a raising." Deep-Step frames "a broad floor off the center" and builds walls upon it, then carries the harvest in: "sacks set down in rows with the particular dense weight of grain meant to be kept, racks and bins filling... with the dry hung lightness of things put by." The wanting is "to *keep*": "a place to hold the land's giving while the giving was good, so that when the season turned and the land gave nothing, there would be weight in the store to set against the want" — not to die of the thin frontier. (Maps to the Provision / Storehouse-and-Granary option.)
+
+**Carries the scarcity worry.** The store answers a want Deep-Step already feels: one evening "a sack came down onto my soil lighter than the rest, half its proper weight," and Deep-Step stood over it "a long moment, very still, the stillness of someone doing sums that would not come right," then paced in the cold "counting in the dark what there would not be enough of." (See seed: *The Coming Want*.)

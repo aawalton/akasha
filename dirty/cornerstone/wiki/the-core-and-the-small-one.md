@@ -1,0 +1,20 @@
+---
+pageType: story-wiki
+slug: the-core-and-the-small-one
+title: The Core and The Small One
+bodyField: content
+story: cornerstone
+kind: relationship
+chapterNumber: 1
+---
+# The Core and The Small One
+
+The central emotional relationship of the story, established in chapter 1, between **The Waking Stone (the Core)** and **The Small One (the child)**.
+
+**What happens.** The grown settlers stand on, build on, and dig into the core — "used me, and that was right, that was what I was for." The child is different: it sits and lays its palm flat on the soil "only to rest its palm there... and stay" — "not to test me, not to decide" — "the way you lay a hand on something living to feel it breathe, as if it half-believed I might press back." The core names this "the first time I was *trusted*."
+
+**Effect on the core.** It strains "with all that I was" to lift the smallest answer up to meet the palm, and fails. The failure crystallizes its defining desire: "I wanted to matter to that hand. Not to be strong. Not to be feared. To be *more*, for that one small warmth, than dumb ground... Everything I have since become, I became reaching after it."
+
+**Tension introduced.** On the night the hunter circles the sleeping camp, the child sleeps defenseless in the ring and the core cannot warn anyone — making the bond the source of its sharpest helplessness: "for me *loving* and *helpless* were the same word."
+
+**Direction:** one-sided as of ch.1 (the child does not know the core is aware), and the engine of the core's whole arc.

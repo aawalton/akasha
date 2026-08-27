@@ -1,0 +1,12 @@
+---
+pageType: story-wiki
+slug: priya
+title: Priya
+bodyField: content
+story: tower-of-nimue
+chapterNumber: 1
+kind: character
+---
+**Priya** — a pediatrics nurse at St. Brigid's, her night station two doors from Nimue's. One of the 0.6% ascended.
+
+When the cull hit, she seized Nimue's wrist and begged for reassurance and a plan ("Nimue, what *is* it... tell me what to do, *please*") — the warm comfort Nimue could not give. Nimue answered with a clinical hand-squeeze and an order: south stairwell, away from the windows, now. Priya obeyed because "Nimue's voice was the kind you obeyed." Nimue later directed the boy Marcus to find Priya in that stairwell. Last seen alive, heading for the exit. This exchange is the clearest Ch.1 illustration of Nimue's "hands, not heart" flaw. (Recurrence potential — flag if she reappears.)

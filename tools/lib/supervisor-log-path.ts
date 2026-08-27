@@ -1,9 +1,9 @@
 
 import { join } from "node:path"
-import { codeRoot } from "./code-root.ts"
+import { akashaRoot } from "../../repo/roots/roots.ts"
 
 export function supervisorsRootDir(): string {
-  return join(codeRoot(), ".claude", "supervisors")
+  return join(akashaRoot(), ".supervisors")
 }
 
 export function supervisorSocketPath(agentId: string, baseDir?: string): string {

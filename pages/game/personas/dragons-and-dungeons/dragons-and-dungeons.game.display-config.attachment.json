@@ -1,0 +1,11 @@
+{
+  "pollMs": 4000,
+  "modules": {
+    "actionBox": {},
+    "storySoFar": {
+      "source": "turns"
+    },
+    "chapterProse": {}
+  },
+  "tagline": "The story continues — what do you do?"
+}

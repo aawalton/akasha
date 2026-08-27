@@ -57,9 +57,9 @@ export const STATIC_CHECKS: CheckConfig[] = [
     dispatchNodes: [
       "ts-file:instructions:infra/cluster-checks/src/checks/check-eso-live-dir-candidate-order.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/eso-live-dir-candidate-order.ts",
-      "json-file:code:temper/shared-foundation-misc-eso-paths--from-instructions/package.json",
-      "ts-file:code:temper/shared-foundation-misc-eso-paths--from-instructions/src/index.ts",
-      "ts-file:code:temper/shared-foundation-misc-eso-paths--from-instructions/src/eso-paths.ts",
+      "json-file:code:temper/shared-foundation-misc-eso-paths/package.json",
+      "ts-file:code:temper/shared-foundation-misc-eso-paths/src/index.ts",
+      "ts-file:code:temper/shared-foundation-misc-eso-paths/src/eso-paths.ts",
       "rust-file:code:packages/temper/watcher-tray/src/tray.rs",
     ],
     script: "infra/cluster-checks/src/checks/check-eso-live-dir-candidate-order.ts",

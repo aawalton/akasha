@@ -1,0 +1,52 @@
+{
+  "_status": "DRAFT — needs calibration with Alan / the personas before canon",
+  "name": "Aura",
+  "kind": "ally",
+  "role": "Fun — the flexible partner (player-character, fights beside Alan; NOT a DM)",
+  "level": 1,
+  "xp": 0,
+  "xpToNext": 100,
+  "class": "Wildcard (tentative) — a versatile skirmisher/improviser; no fixed lane, leans into whatever the moment rewards",
+  "classNote": "Tentative. Aura's draw is adaptability and momentum, not specialization — she covers gaps and turns a fight's energy. Calibrate the class against the real persona.",
+  "rollMode": "2d10",
+  "attributes": {
+    "MIGHT": 11,
+    "FINESSE": 15,
+    "VITALITY": 12,
+    "INTELLECT": 13,
+    "PERCEPTION": 14,
+    "WILL": 12,
+    "PRESENCE": 16,
+    "LUCK": 15
+  },
+  "attributePointsUnspent": 0,
+  "skills": [],
+  "titles": [],
+  "affinities": [],
+  "equipment": { "weapon": null, "armor": null, "items": [] },
+  "traits": [
+    {
+      "id": "momentum",
+      "name": "Momentum",
+      "effect": "Aura builds on a fight's energy — after a teammate's hit or a clever play, her next action earns an intent bonus. She rewards a party that combos; she's strongest when the team is rolling."
+    },
+    {
+      "id": "high-presence-flex",
+      "name": "Roaring Charisma",
+      "effect": "PRESENCE 16 — she can rally, taunt, distract, or lift the party's footing. Social/morale actions and pulling enemy attention are her strong plays (complements Alan's State-Gated Presence — she carries the room when his sags)."
+    },
+    {
+      "id": "lucky",
+      "name": "Lucky",
+      "effect": "LUCK 15 — fortune tilts her way more often than not. Coordinator may grant her a once-per-encounter favorable re-read or fortunate break."
+    },
+    {
+      "id": "quick",
+      "name": "First Off the Mark",
+      "effect": "Initiative 29 (PER 14 + FIN 15) — usually acts first in the party. Good at setting up Alan's reads (scout the opening, then he names the weakness)."
+    }
+  ],
+  "derived_preview": { "hpMax": 118, "stamMax": 78, "focusMax": 76, "initiative": 29, "physAtk": 31.5, "physDef": 13.5, "mentDef": 24.5 },
+  "complementNote": "Fills the FLEX/tempo gap beside Alan's specialist mind. Where Alan reads the weakness, Aura creates the opening and keeps tempo; her PRESENCE covers his conditional charisma, her balanced durability lets her operate anywhere on the field. No 1d20 — the Wild Variance signature is Alan's alone; Aura is steady-swingy (2d10) with high LUCK.",
+  "_derivedHint": "All derived stats computed by engine/engine.ts from attributes + equipment. derived_preview is a non-authoritative convenience snapshot."
+}

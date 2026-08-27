@@ -1,0 +1,22 @@
+---
+pageType: story-wiki
+slug: the-first-harvest
+title: The First Harvest
+bodyField: content
+story: the-beholder
+kind: seed
+chapterNumber: 1
+---
+**The First Harvest** — the inciting event of *The Beholder*: Pearl's Onset power, **Acquisition**, first awakened during her murder of Colette Vane, in the mirror studio after a performance (chapter 1).
+
+**Unplanned.** Pearl had not planned to kill that night. She had "planned eventually," as a vague horizon, but carried only a sewing kit and "a crush on the idea of being more than I was." The power surfaced spontaneously while she helped Colette out of the act-three bodice and Colette — to Pearl's reflection — told her she should be dancing. Her appetite ("the hum") rose; she "tasted" Colette's finest qualities; and a calm certainty told her *You could just take it.*
+
+**The kill.** She used her wardrobe shears, cutting Colette's throat while watching them both in the mirrors. She felt no fear — only a giddy, "about to" exhilaration. Colette "finally read" her a quarter-second too late.
+
+**The appraisal.** The kill triggered Pearl's first Acquisition appraisal. The System surfaced Colette's three most notable traits as a flat readout (Colette is unpowered, so all three are attributes), of which Pearl may keep exactly one:
+- ① **Her Beauty** — a +10% slice of **Allure** ("the sunrise thing… the face that makes the world generous");
+- ② **Her Grace** — a +10% slice of **Celerity** ("speed taught to sing… the body that changes its mind in the air");
+- ③ **Her Eye** — a +10% slice of **Acuity** (her uncanny perception, the read of a room — senses and precision).
+
+**Outcome (the reader's ch1 pick).** Pearl took ① **Her Beauty** — a +10% Allure slice off Colette's 16, raising Pearl's Allure 14 → 15.6. She passed over Colette's Celerity and Acuity. This is the first theft banked on a sheet that grows by theft alone.
+

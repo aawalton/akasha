@@ -1,0 +1,18 @@
+---
+pageType: story-wiki
+slug: the-small-one-the-child
+title: The Small One (the child)
+bodyField: content
+story: cornerstone
+kind: character
+chapterNumber: 1
+---
+# The Small One (the child)
+
+A **child** of the founding camp — the emotional center of the core's awakening. Light as Quick-Step "but without the fear in it, and warmer": a small, near-bare foot that "landed soft and trusting and did not brace against my cold the way the grown ones braced." It runs, mostly — "children run" — crossing the ground in bursts, then drops all at once to sit, "folding down onto the ground without ceremony."
+
+**The defining gesture (ch.1).** Sitting, the child sometimes lays its hand flat against the soil — "not to test me, not to decide" as the grown ones do, "only to rest its palm there, fingers spread... and stay." The core calls this "the first time I was *trusted*": the child rests its hand "the way you lay a hand on something living to feel it breathe, as if it half-believed I might press back."
+
+**Significance.** The core strains to lift "the smallest answer" up to meet the palm and cannot — and this failure births its deepest want: "to matter to that hand... To be *more*, for that one small warmth, than dumb ground. That was the want. Everything I have since become, I became reaching after it."
+
+**Vulnerability.** On the night the four-footed hunter circles the sleeping camp, the child's "little palm" is "somewhere in the sleeping ring, defenseless," and the core's helplessness to warn of the danger is its sharpest agony of the chapter.

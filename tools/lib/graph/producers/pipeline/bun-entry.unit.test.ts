@@ -36,9 +36,9 @@ describe("which file a bun invocation in a step's commands starts", () => {
   })
 
   test("a quoted path is taken without its quotes", () => {
-    expect(bunEntryIn('bun "$WS/packages/infra/k8s/synth/src/manifests.ts" --write')).toEqual({
+    expect(bunEntryIn('bun "$WS/infra/k8s-synth/src/manifests.ts" --write')).toEqual({
       repo: "code",
-      path: "infra/k8s-synth--from-instructions/src/manifests.ts",
+      path: "infra/k8s-synth/src/manifests.ts",
     })
   })
 

@@ -1,0 +1,77 @@
+---
+pageType: story-build
+slug: tower-of-nimue-build
+title: Nimue — Build
+bodyField: build
+story: tower-of-nimue
+chapterNumber: 1
+level: 1
+gameSystem: |-
+  # The Tower of Nimue — Game System
+
+  **System type: ESSENCE HARVEST.** No classes. Every floor's trial is an apex creature; on the kill, the System offers Nimue one essence to harvest from the slain (its venom, its speed, its molten blood). Essences occupy a small fixed set of slots. Her build is a chimera stitched from everything she has killed. A soft 'class' (Aspect) crystallizes out of her essence mix at Gatekeeper floors.
+
+  ## Stats (baseline 10 each)
+  - **VIT** — survival. HP = VIT x 10.
+  - **PWR** — force. Basic strike = PWR x 2; scales essence active abilities.
+  - **SPD** — turn-order, evasion, attack rate (kiting/fleeing as a solo).
+  - **ATT** — the essence stat. Focus (active-essence resource) = ATT x 5; governs essence potency, integration stability, and HARVEST QUALITY (higher ATT = better/more essence options offered on a kill).
+  - **INS** — perception, crit, weakness-read; the 'interface only she can see' edge.
+
+  ## Leveling (from floor clears)
+  `level = floors cleared + 1` (start L1; clear floor 10 -> L11). Each level grants **+1 to ALL stats automatically**, plus **+3 free points BANKED** for the reader to allocate at the every-5-floors Stat Allocation beat. Essences are the other growth axis — abilities/passives on top of stat growth.
+
+  ## Power curve, floors 1-10 (live coefficients)
+  - Normal enemy HP = `70 x 1.25^(floor-1)` (f1~70, f5~171, f10~521)
+  - Normal enemy dmg = `14 x 1.25^(floor-1)` (f1~14, f5~34, f10~104)
+  - Floor-10 GATEKEEPER: HP 3.0x normal (~1565), dmg 1.3x normal (~136), plus a mechanic demanding a specific essence answer. The first true wall — survived through the right essence ANSWER, not raw tanking (DR caps ~15%).
+  - **Balance flag (JIT, before ~floor 15):** geometric enemy growth (1.25) vs ~linear Nimue stat growth diverges by ~floor 15-20. A deliberate power-tier INFLECTION (essence-evolution multipliers / stat-breakpoint / per-tier coefficient reset) must be designed before then.
+
+  ## Essence slots
+  - Start with **3 slots** (Decision #1 fills slot 1; slots 2-3 open).
+  - Occupying a slot grants a PASSIVE trait + usually an ACTIVE ability; potency scales with ATT and essence rank (~its floor tier).
+  - **Integration:** harvest into an OPEN slot = free pick. When all slots full, a new essence requires **permanently displacing** one — the discarded essence is lost forever (irreversible; the grit beat). High ATT vs essence rank = clean integration; low ATT = temporary backlash.
+  - **Slot expansion** earned at each Gatekeeper: +1 slot at floors 10 / 25 / 50 / 75 (3->4->5->6->7).
+
+  ## Progression cadence (when reader decisions fire)
+  - **Decision #1 — PRE-TOWER THRESHOLD (Ch.1, before floor 1):** seeds Nimue's baseline. Fills slot 1 with a 'human' baseline essence crystallized from who she WAS (not harvested) + a stat lean + a starting playstyle. Chapter 1 steers to it and stops at the threshold of floor 1.
+  - **Per floor clear — HARVEST (core heartbeat, from floor 1):** on the kill, System offers 2-3 essences; reader picks 1 (open slot free; full slots = permanent displacement). The recurring decision.
+  - **Every 5 floors (5,10,15...) — STAT ALLOCATION:** reader allocates 15 banked free points.
+  - **Each Gatekeeper (10,25,50,75) — SLOT EXPANSION (+1) + CRYSTALLIZATION:** reader chooses an ASPECT (soft class/title) from their actual essence mix — 2-3 options, each amplifying a theme + unlocking an apex ability. First crystallization at FLOOR 10.
+
+  _Deferred to just-in-time: full essence catalogs, Aspect catalog, floor design for 11+, the pre-floor-15 power inflection._
+---
+# Nimue — Live Build Sheet
+
+**As of:** Chapter 1 — anchored at the floor-1 threshold. Decision #1 resolved: **THE SEER**.
+
+- **Level:** 1
+- **Aspect:** none (crystallizes at floor 10)
+
+## Stats
+| Stat | Value | Governs |
+|------|-------|---------|
+| VIT | 10 | HP |
+| PWR | 10 | strike / essence power |
+| SPD | 10 | turn-order / evasion |
+| ATT | **12** | Focus / essence potency / harvest quality |
+| INS | **11** | perception / crit / weakness-read |
+
+_Anchoring lean from Decision #1 (The Seer): +2 ATT / +1 INS._
+
+## Derived
+- **HP:** 100
+- **Focus:** 60
+- **Basic strike:** 20
+- **Crit:** 18% chance / +50% crit damage  _(from Open Eye)_
+
+## Essence Slots (3 total)
+1. **Open Eye** _(baseline / human shard — The Seer)_
+   - PASSIVE: reveals enemy weak points — crit 18%, +50% crit damage; **+1 essence option offered on every Harvest** (meta edge, compounds across the climb).
+   - ACTIVE: **Read** — expose a target's resistances, +20% damage dealt to it for 2 actions (2-action cooldown).
+2. _empty_
+3. _empty_
+
+## Banked free points: 0
+
+_Next decision: Floor-1 Harvest (Decision #2) — fires on the floor-1 kill; her first MONSTER essence._
