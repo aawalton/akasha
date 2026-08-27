@@ -3,10 +3,8 @@ export const summary = "Runtime post-emit load of each emitted `.lua` bundle ins
 import type { CommandHelp } from "../ops/surface.ts"
 import { dataError, inputError } from "../lib/exit.ts"
 import "../lib/command-entry.ts"
-import { codeModule } from "../lib/code-import.ts"
+import { runAddonSandboxLoad } from "../../temper/shared-build-deploy-checks/src/check-addon-sandbox-load.ts"
 import { parseArgs } from "../../infra/cluster-checks/src/lib/cli-args.ts"
-
-const CHECK = "temper/shared-build-deploy-checks/src/check-addon-sandbox-load.ts"
 
 export const help: CommandHelp = {
   positionals: [],
@@ -24,10 +22,6 @@ export const help: CommandHelp = {
   ],
 }
 
-interface SandboxLoadCheck {
-  readonly runAddonSandboxLoad: (options: { readonly singleFile: string | null }) => Promise<number>
-}
-
 function singleFileOf(args: readonly string[]): string | null {
   try {
     const { flags } = parseArgs(args, { file: { kind: "string" } }, { passthrough: true })
@@ -39,7 +33,6 @@ function singleFileOf(args: readonly string[]): string | null {
 
 export default async function checkAddonSandboxLoad(args: readonly string[]): Promise<void> {
   const singleFile = singleFileOf(args)
-  const { runAddonSandboxLoad } = await codeModule<SandboxLoadCheck>(CHECK)
   const exitCode = await runAddonSandboxLoad({ singleFile })
   if (exitCode === 0) return
   if (exitCode === 1) {

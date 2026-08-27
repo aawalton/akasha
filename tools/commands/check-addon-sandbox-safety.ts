@@ -3,10 +3,8 @@ export const summary = "Static post-emit scan of `temper/addons/dist/**/*.lua` f
 import type { CommandHelp } from "../ops/surface.ts"
 import { dataError, inputError } from "../lib/exit.ts"
 import "../lib/command-entry.ts"
-import { codeModule } from "../lib/code-import.ts"
+import { runAddonSandboxSafety } from "../../temper/shared-build-deploy-checks/src/check-addon-sandbox-safety.ts"
 import { parseArgs } from "../../infra/cluster-checks/src/lib/cli-args.ts"
-
-const CHECK = "temper/shared-build-deploy-checks/src/check-addon-sandbox-safety.ts"
 
 export const help: CommandHelp = {
   positionals: [],
@@ -24,10 +22,6 @@ export const help: CommandHelp = {
   ],
 }
 
-interface SandboxSafetyCheck {
-  readonly runAddonSandboxSafety: (options: { readonly singleFile: string | null }) => number
-}
-
 function singleFileOf(args: readonly string[]): string | null {
   try {
     const { flags } = parseArgs(args, { file: { kind: "string" } }, { passthrough: true })
@@ -39,7 +33,6 @@ function singleFileOf(args: readonly string[]): string | null {
 
 export default async function checkAddonSandboxSafety(args: readonly string[]): Promise<void> {
   const singleFile = singleFileOf(args)
-  const { runAddonSandboxSafety } = await codeModule<SandboxSafetyCheck>(CHECK)
   const exitCode = runAddonSandboxSafety({ singleFile })
   if (exitCode === 0) return
   if (exitCode === 1) {

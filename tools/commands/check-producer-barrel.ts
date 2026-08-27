@@ -10,11 +10,9 @@ import {
   exitOnToolError,
   reportViolations,
 } from "../lib/check-workflow/violation-reporter.ts"
-import { codeModule } from "../lib/code-import.ts"
+import { generateBarrel } from "../../infra/cluster-checks/src/lib/generate-producer-barrel.ts"
+import { getRepoRoot } from "../../infra/cluster-checks/src/lib/repo-root.ts"
 import { parseArgs } from "../lib/parse-args.ts"
-
-const BARREL_CODEGEN = "infra/cluster-checks/src/lib/generate-producer-barrel.ts"
-const REPO_ROOT = "infra/cluster-checks/src/lib/repo-root.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -55,14 +53,6 @@ const BARREL_IMPORT_RE = /^import\s+\S+\s+from\s+"(?:\.\.\/)+(packages\/\S+)"$/u
 interface BarrelViolation {
   readonly file: string
   readonly message: string
-}
-
-interface BarrelCodegen {
-  readonly generateBarrel: (producerPaths: readonly string[]) => string
-}
-
-interface RepoRoot {
-  readonly getRepoRoot: () => string
 }
 
 function pathHasExcludedSegment(relPath: string): boolean {
@@ -120,7 +110,7 @@ export default async function checkProducerBarrel(args: readonly string[]): Prom
     repoRoot =
       repoRootFlag != null
         ? resolve(repoRootFlag)
-        : (await codeModule<RepoRoot>(REPO_ROOT)).getRepoRoot()
+        : getRepoRoot()
   } catch (err) {
     exitOnToolError({ error: err, prefix: PREFIX })
   }
@@ -132,7 +122,6 @@ export default async function checkProducerBarrel(args: readonly string[]): Prom
     exitOnToolError({ error: `discovery failed: ${errorMessage(err)}`, prefix: PREFIX })
   }
 
-  const { generateBarrel } = await codeModule<BarrelCodegen>(BARREL_CODEGEN)
   const expected = generateBarrel(producerPaths)
   const barrelAbs = resolve(repoRoot, BARREL_REL_PATH)
   const onDisk = readOnDiskBarrel(barrelAbs)

@@ -3,10 +3,8 @@ export const summary = "Static post-emit scan of `temper/addons/dist/**/*.lua` f
 import type { CommandHelp } from "../ops/surface.ts"
 import { dataError, inputError } from "../lib/exit.ts"
 import "../lib/command-entry.ts"
-import { codeModule } from "../lib/code-import.ts"
+import { runAddonRemovedRefs } from "../../temper/shared-build-deploy-checks/src/check-addon-removed-refs.ts"
 import { parseArgs } from "../../infra/cluster-checks/src/lib/cli-args.ts"
-
-const CHECK = "temper/shared-build-deploy-checks/src/check-addon-removed-refs.ts"
 
 export const help: CommandHelp = {
   positionals: [],
@@ -24,10 +22,6 @@ export const help: CommandHelp = {
   ],
 }
 
-interface RemovedRefsCheck {
-  readonly runAddonRemovedRefs: (options: { readonly singleFile: string | null }) => number
-}
-
 function singleFileOf(args: readonly string[]): string | null {
   try {
     const { flags } = parseArgs(args, { file: { kind: "string" } }, { passthrough: true })
@@ -39,7 +33,6 @@ function singleFileOf(args: readonly string[]): string | null {
 
 export default async function checkAddonRemovedRefs(args: readonly string[]): Promise<void> {
   const singleFile = singleFileOf(args)
-  const { runAddonRemovedRefs } = await codeModule<RemovedRefsCheck>(CHECK)
   const exitCode = runAddonRemovedRefs({ singleFile })
   if (exitCode === 0) return
   if (exitCode === 1) {
