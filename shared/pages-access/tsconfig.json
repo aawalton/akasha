@@ -42,7 +42,7 @@
     "../../graph/edge-producer/contains/contains.graph-edge-producer.code.attachment.ts",
     "../../graph/edge-producer/edge-shape.ts",
     "../../graph/edge-producer/file-name/file-name.graph-edge-producer.code.attachment.ts",
-    "../../graph/edge-producer/frontmatter/frontmatter.graph-edge-producer.code.attachment.ts",
+    "../../graph/edge-producer/relation/relation.graph-edge-producer.code.attachment.ts",
     "../../graph/edge-producer/loader/loader.graph-edge-producer.code.attachment.ts",
     "../../graph/edge-producer/typescript/tsconfig-paths.ts",
     "../../graph/edge-producer/typescript/typescript.graph-edge-producer.code.attachment.ts",
