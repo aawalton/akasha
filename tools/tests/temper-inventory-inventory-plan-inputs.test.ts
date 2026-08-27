@@ -3,7 +3,7 @@ import type {
   InventoryDatabase,
   InventoryItemData,
   InventoryLocationData,
-} from "../lib/temper-inventory/game-item-types.ts"
+} from "@temper/game-items-core/inventory-types"
 import { buildMatcherContext } from "../lib/temper-inventory/inventory-plan-inputs.ts"
 import type { CharacterKnowledge } from "../lib/temper-inventory/parse-temper-characters.ts"
 import type { CompiledInventoryConfig } from "../lib/temper-inventory/parse-temper-inventory-config.ts"

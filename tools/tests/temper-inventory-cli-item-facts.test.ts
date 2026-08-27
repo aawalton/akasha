@@ -4,12 +4,12 @@ import {
   ESO_ITEMTYPE_CRAFTED_ABILITY_SCRIPT,
   ESO_ITEMTYPE_RECIPE,
   ESO_SPECIALIZED_ITEMTYPE_MOTIF_CHAPTER,
+  type InventoryItemData,
 } from "@temper/game-items-core/inventory-types"
 import { makeItem } from "@temper/game-items-rules-core/inventory-rule-test-utils"
 import { ALL_CATEGORIES_ID } from "@temper/game-items-rules-core/inventory-rule-types"
 import { cliItemFactsFromInventoryItem } from "../lib/temper-inventory/cli-item-facts.ts"
 import { classifyItemToNodeIds } from "../lib/temper-inventory/game-code.ts"
-import type { InventoryItemData } from "../lib/temper-inventory/game-item-types.ts"
 
 const factsOf = (item: InventoryItemData, nodeIds: readonly string[]) =>
   cliItemFactsFromInventoryItem(item, nodeIds, "backpack")
