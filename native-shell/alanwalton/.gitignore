@@ -20,5 +20,5 @@ DerivedData/
 build/
 
 # Tiles the render harness drew on this run — the images somebody looks at, not a verdict.
-# The verdict is the blessed references, which stand in the instructions repo.
+# The verdict is the blessed references under scripts/render-harness/references/.
 scripts/render-harness/out/
