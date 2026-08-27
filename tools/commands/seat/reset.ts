@@ -112,7 +112,7 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
   if (kept.domain === null || kept.role === null || kept.principal === null) {
     throw dataError(
       `seat '${input}' states no domain, role and principal on a page standing for it, and the ` +
-        "last page committed for it in the memory repository states none either. A stopped " +
+        "last page committed for it in this repository states none either. A stopped " +
         "seat's page is taken by the stop, which commits it, so a seat that ever stated what it " +
         "is can be read back from there — and nothing here can. State what the seat is with " +
         "`ops instructions seat`, or start a fresh one with `ops seat start`."

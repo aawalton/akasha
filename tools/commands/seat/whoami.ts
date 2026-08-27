@@ -78,7 +78,7 @@ export default async function agentWhoami(args: readonly string[]): Promise<void
   const result = seatWhoami(agentId)
   if (result === null) {
     throw dataError(
-      `no seat page stands for agent ${agentId}, and the memory repo's history holds none ` +
+      `no seat page stands for agent ${agentId}, and this repository's history holds none ` +
         "either, so there is nothing that states who this seat is."
     )
   }

@@ -30,7 +30,7 @@ export const help: CommandHelp = {
       valueShape: "token",
       required: true,
       description:
-        "Branch sequence number. A worktree belongs to one branch, so this names the worktree outright. The lockfile is read from the code repository as it stands at that worktree's HEAD commit.",
+        "Branch sequence number. A worktree belongs to one branch, so this names the worktree outright. The lockfile is read from this repository as it stands at that worktree's HEAD commit.",
     },
     {
       name: "--name",
@@ -48,7 +48,7 @@ export const help: CommandHelp = {
       required: false,
       aliasOfFlag: "--seq",
       description:
-        "Branch sequence number. A worktree belongs to one branch, so this names the worktree outright. The lockfile is read from the code repository as it stands at that worktree's HEAD commit.",
+        "Branch sequence number. A worktree belongs to one branch, so this names the worktree outright. The lockfile is read from this repository as it stands at that worktree's HEAD commit.",
     },
   ],
   exits: [
