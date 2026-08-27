@@ -12,6 +12,8 @@ domain-parent-slug: domain/repo-system
 
 # Design
 
+Nothing removes a worktree but the merge or abandon a seat runs.
+
 Bun does not resolve modules upward from a worktree into the host repo's `node_modules`.
 
 Container steps may run as root and leave files `git worktree remove` cannot delete.
