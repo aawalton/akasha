@@ -207,7 +207,12 @@ export async function respawnSeatUnderTmux(opts: LaunchSeatOpts): Promise<boolea
         `session with it — attach with \`tmux attach -t =${name}\` to read what it says`
     )
   }
-  await tmux(["set-option", "-w", "-t", pane, "remain-on-exit", "off"])
+  // LEFT ON. Turning it off here re-armed exactly what it was set to prevent: a supervisor that
+  // exits cleanly AFTER this probe window takes its pane, its window and its one-window session
+  // with it, and every client attached goes too. Measured on 2026-08-27 — `astra`, `thea`, `dalla`
+  // and `vera` were destroyed that way, where `amy` and `athena` survived only because their
+  // supervisors outlived the probe. A dead pane can be read and respawned over; a dead session
+  // cannot.
   return true
 }
 
@@ -220,6 +225,21 @@ export async function killSeatSession(name: string): Promise<boolean> {
 export async function launchSeatUnderTmux(opts: LaunchSeatOpts): Promise<LaunchSeatResult> {
   const name = opts.name
   if (await sessionHolds(name)) {
+    // A SESSION STANDING OVER A DEAD PANE IS NOT A SEAT HOLDING THE NAME. With `remain-on-exit` on,
+    // a supervisor that exits leaves its session up with nothing running in it, and the terminals
+    // attached to it are still attached. Respawning into that pane is the whole point of leaving it
+    // standing; refusing here would make the safety measure the thing that blocks the recovery.
+    const held = await paneOf(name)
+    const dead = held === null ? null : await tmux(["display-message", "-p", "-t", held, "#{pane_dead}"])
+    if (held !== null && dead?.out === "1") {
+      await respawnSeatUnderTmux(opts)
+      const revived = await tmux(["display-message", "-p", "-t", held, "#{pane_pid}"])
+      const back = Number.parseInt(revived.out, 10)
+      if (!Number.isSafeInteger(back) || back <= 0) {
+        throw new Error(`respawned '${name}' into its standing pane but it reported no pid`)
+      }
+      return { pid: back }
+    }
     throw new Error(
       `refusing to launch '${name}': a live tmux session already holds that name. Two seats ` +
         `under one session name are one taking the other's work. Attach with \`tmux attach -t ` +
@@ -238,8 +258,12 @@ export async function launchSeatUnderTmux(opts: LaunchSeatOpts): Promise<LaunchS
     )
   }
 
+  // ON, NOT OFF. A seat's session is one window holding one pane whose process is the supervisor,
+  // so `off` means the seat is destroyed the moment that process exits — which is how a cycle, a
+  // crash or a clean shutdown took the terminal with it. On, the pane stands dead and says what its
+  // status was. `ops seat stop` still takes the session, because it kills it outright.
   const launched = await paneOf(name)
-  if (launched !== null) await tmux(["set-option", "-w", "-t", launched, "remain-on-exit", "off"])
+  if (launched !== null) await tmux(["set-option", "-w", "-t", launched, "remain-on-exit", "on"])
 
   const pane = await tmux(["display-message", "-p", "-t", name, "#{pane_pid}"])
   const pid = Number.parseInt(pane.out, 10)
