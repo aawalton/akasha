@@ -31,8 +31,6 @@ A workstation service's document settles whether it runs, what code it runs, its
 
 Every workstation service runs under systemd.
 
-Every workstation service has a document.
-
 A workstation service is started and stopped from its document alone.
 
 Every installed unit links to its file by one spelling of that path.

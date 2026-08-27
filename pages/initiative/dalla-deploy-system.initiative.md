@@ -9,7 +9,6 @@ parent-slug: aine-global
 
 # Intent
 
-- Every deployed service has a page.
 - Every service can deploy through the deploy system.
 - All services are deployed only using the `ops deploy` command.
 - All files specific to the deploy system are in `akasha/deploy-system/`.

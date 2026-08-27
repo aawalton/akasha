@@ -13,3 +13,7 @@ required-reading-slugs:
 # Definition
 
 - **Deploy system** — how a service is put into production when a change reaches it.
+
+# Condition
+
+Every deployed service has a page.
