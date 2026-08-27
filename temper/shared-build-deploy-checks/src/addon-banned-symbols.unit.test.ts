@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test"
+import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   BARE_GLOBAL_NAMES,
@@ -248,25 +249,26 @@ describe("addon-banned-symbols", () => {
   })
 
   describe("scanBundleFile — real fixtures", () => {
-    test("clean.lua (real TemperInventory bundle, hotfix state) yields zero issues", () => {
-      const issues = scanBundleFile(join(FIXTURES, "clean.lua"))
+    test("lualib-emission.lua (legitimate TSTL emissions) yields zero issues", () => {
+      const issues = scanBundleFile(join(FIXTURES, "lualib-emission.lua"))
       if (issues.length > 0) {
         const sample = issues
           .slice(0, 5)
           .map((i) => `${i.line}:${i.col} ${i.symbol} [${i.family}]`)
           .join("\n")
-        throw new Error(`expected 0 issues in clean.lua, got ${issues.length}:\n${sample}`)
+        throw new Error(`expected 0 issues in lualib-emission.lua, got ${issues.length}:\n${sample}`)
       }
       expect(issues).toEqual([])
     })
 
-    test("regression-7179.lua (real TSTL output with sourceMapTraceback:true) flags debug.getinfo", () => {
-      const issues = scanBundleFile(join(FIXTURES, "regression-7179.lua"))
-      expect(issues.length).toBeGreaterThan(0)
+    test("source-map-traceback.lua flags debug.getinfo on the file's last line", () => {
+      const at = join(FIXTURES, "source-map-traceback.lua")
+      const issues = scanBundleFile(at)
       const debugGetInfo = issues.filter((i: Issue) => i.symbol === "debug.getinfo")
       expect(debugGetInfo.length).toBeGreaterThan(0)
-      const lastDebugGetInfoLine = Math.max(...debugGetInfo.map((i: Issue) => i.line))
-      expect(lastDebugGetInfoLine).toBeGreaterThan(13000)
+      expect(debugGetInfo.every((i: Issue) => i.family === "namespace-member-stripped")).toBe(true)
+      const lastLine = readFileSync(at, "utf8").trimEnd().split("\n").length
+      expect(Math.max(...debugGetInfo.map((i: Issue) => i.line))).toBe(lastLine)
     })
 
     test("banned-debug-getinfo.lua flags debug.getinfo as namespace-member-stripped", () => {

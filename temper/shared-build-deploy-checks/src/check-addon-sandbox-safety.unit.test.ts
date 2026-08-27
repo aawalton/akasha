@@ -11,7 +11,7 @@ describe("check-addon-sandbox-safety — --file population", () => {
   })
 
   test("a readable clean bundle still passes", () => {
-    expect(main(["--file", join(FIXTURES, "clean.lua")])).toBe(0)
+    expect(main(["--file", join(FIXTURES, "lualib-emission.lua")])).toBe(0)
   })
 
   test("a readable bundle carrying a banned symbol still fails as a violation", () => {

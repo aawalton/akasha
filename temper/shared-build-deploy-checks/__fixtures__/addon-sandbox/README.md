@@ -8,8 +8,8 @@ Deterministic Lua-bundle fixtures consumed by `temper/shared-build-deploy-checks
 
 ## Files
 
-- `clean.lua` — real TSTL-emitted `TemperInventory` bundle in the post-#7179 hotfix state (`sourceMapTraceback` disabled). ~13k lines. Proves the checker's manifest-derived allow-set passes legitimate lualib emissions (notably the guarded `debug.traceback` block inside `getErrorStack`, which uses the only ESO-permitted `debug` member). Must produce zero issues.
-- `regression-7179.lua` — real TSTL-emitted `TemperInventory` bundle captured with `sourceMapTraceback:true` re-enabled. Contains the offending `__TS__SourceMapTraceBack(debug.getinfo(1).short_src, ...)` tail call near EOF. Must produce at least one `debug.getinfo` issue past line ~13000.
+- `lualib-emission.lua` — hand-authored from the legitimate emissions of a TSTL bundle, notably the guarded `debug.traceback` block inside `getErrorStack`, which uses the only ESO-permitted `debug` member. Proves the checker's manifest-derived allow-set passes them. Must produce zero issues.
+- `source-map-traceback.lua` — hand-authored from the tail of a bundle emitted with `sourceMapTraceback:true`. Carries the offending `__TS__SourceMapTraceBack(debug.getinfo(1).short_src, ...)` call as its last line. Must produce a `debug.getinfo` issue on that line.
 - `banned-debug-getinfo.lua`, `banned-io.lua`, `banned-os.lua`, `banned-package.lua`, `banned-dofile.lua` — small hand-authored fixtures, one per `BannedFamily` discriminant. `banned-debug-getinfo.lua` and `banned-os.lua` exercise `namespace-member-stripped`; `banned-io.lua` and `banned-package.lua` exercise `namespace-stripped`; `banned-dofile.lua` exercises `global-stripped`. Each must produce at least one issue with the expected family.
 
 ## Regeneration
