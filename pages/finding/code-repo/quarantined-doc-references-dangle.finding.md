@@ -18,7 +18,7 @@ Measured against `origin/main` at `a6287feba4` on 2026-08-06, from `/home/walton
     git grep -rln "See docs/\|see docs/" -- packages/  → 43 files
     git ls-files -- 'packages/**/docs/**'              → 3 files remain
 
-The class spans packages that share nothing but the repo: `packages/agents/oauth/src/oauth-at-limit-expiry.ts:37` names `docs/429-rebind.md`, `packages/agents/vscode-extension/src/features/status-bar/render.ts:126` names `docs/feature-status-bar.md`, and `packages/alanwalton/awen/core/src/gm-boot-sections.ts` names `docs/loremaker.md` twice.
+The class spans packages that share nothing but the repo: `packages/agents/oauth/src/oauth-at-limit-expiry.ts:37` names `docs/429-rebind.md`, `editor-extension/src/features/status-bar/render.ts:126` names `docs/feature-status-bar.md`, and `packages/alanwalton/awen/core/src/gm-boot-sections.ts` names `docs/loremaker.md` twice.
 
 The cause is commit `7205e28efd` (#17583, 2026-08-03), which moved 1,125 markdown files — every `CLAUDE.md` and everything under `docs/`, `.claude/` and `spec/` — into `instructions/dirty/code/`, excluding `packages/books/`. Its own message states that nothing in the code repo carries agent instructions afterwards.
 
