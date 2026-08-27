@@ -6,7 +6,7 @@ runner-name: addon-cross-cluster-attach
 script: akasha:temper/shared-build-deploy-checks/src/check-addon-cross-cluster-attach.ts
 dispatch-node-types:
   - kind: ts-file
-    under: packages/temper
+    under: temper
 slug: cluster-check-addon-cross-cluster-attach
 domain-parent-slug: page-type/cluster-check
 ---

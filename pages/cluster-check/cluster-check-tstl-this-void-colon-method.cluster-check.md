@@ -6,7 +6,7 @@ runner-name: tstl-this-void-colon-method
 script: akasha:temper/shared-build-deploy-checks/src/check-tstl-this-void-colon-method.ts
 dispatch-node-types:
   - kind: ts-file
-    under: packages/temper
+    under: temper
 slug: cluster-check-tstl-this-void-colon-method
 domain-parent-slug: page-type/cluster-check
 ---

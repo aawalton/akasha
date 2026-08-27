@@ -6,7 +6,7 @@ runner-name: addon-dependency-floor
 script: akasha:temper/shared-build-deploy-checks/src/check-addon-dependency-floor.ts
 dispatch-node-types:
   - kind: json-file
-    under: packages/temper
+    under: temper
 slug: cluster-check-addon-dependency-floor
 domain-parent-slug: page-type/cluster-check
 ---

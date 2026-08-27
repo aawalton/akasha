@@ -9,7 +9,7 @@ dispatch-node-types:
   - kind: ts-file
     under: tools/lib/workflow-surface
   - kind: ts-file
-    under: packages/infra/ci
+    under: infra/ci-workflows
 slug: cluster-check-ci-workflow-graph
 domain-parent-slug: page-type/cluster-check
 ---

@@ -6,9 +6,9 @@ runner-name: app-capacitor-parity
 script: akasha:infra/cluster-checks/src/checks/check-app-capacitor-parity.ts
 dispatch-node-types:
   - kind: ts-file
-    under: packages/alanwalton/web
+    under: alanwalton/web
   - kind: tsx-file
-    under: packages/alanwalton/web
+    under: alanwalton/web
 slug: cluster-check-app-capacitor-parity
 domain-parent-slug: page-type/cluster-check
 ---

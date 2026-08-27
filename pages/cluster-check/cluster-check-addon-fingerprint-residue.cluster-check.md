@@ -6,7 +6,7 @@ runner-name: addon-fingerprint-residue
 script: akasha:temper/shared-build-deploy-checks/src/check-addon-fingerprint-residue.ts
 dispatch-node-types:
   - kind: ts-file
-    under: packages/temper
+    under: temper
 slug: cluster-check-addon-fingerprint-residue
 domain-parent-slug: page-type/cluster-check
 ---

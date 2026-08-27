@@ -6,7 +6,7 @@ runner-name: addon-orphan-xml-handler
 script: akasha:temper/shared-build-deploy-checks/src/check-addon-orphan-xml-handler.ts
 dispatch-node-types:
   - kind: ts-file
-    under: packages/temper
+    under: temper
 slug: cluster-check-addon-orphan-xml-handler
 domain-parent-slug: page-type/cluster-check
 ---

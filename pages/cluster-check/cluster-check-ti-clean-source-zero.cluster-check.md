@@ -6,7 +6,7 @@ runner-name: ti-clean-source-zero
 script: akasha:tools/commands/check-ti-clean-source-zero.ts
 dispatch-node-types:
   - kind: ts-file
-    under: packages/temper
+    under: temper
 slug: cluster-check-ti-clean-source-zero
 domain-parent-slug: page-type/cluster-check
 ---

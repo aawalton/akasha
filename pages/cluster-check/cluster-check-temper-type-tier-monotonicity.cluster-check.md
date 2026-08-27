@@ -7,7 +7,7 @@ script: akasha:infra/cluster-checks/src/checks/check-temper-type-tier-monotonici
 tree-sha: true
 dispatch-node-types:
   - kind: json-file
-    under: packages/temper
+    under: temper
 slug: cluster-check-temper-type-tier-monotonicity
 domain-parent-slug: page-type/cluster-check
 ---

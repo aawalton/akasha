@@ -6,7 +6,7 @@ runner-name: tstl-this-void-self-drop
 script: akasha:infra/cluster-checks/src/checks/check-tstl-this-void-self-drop.ts
 dispatch-node-types:
   - kind: ts-file
-    under: packages/temper
+    under: temper
 slug: cluster-check-tstl-this-void-self-drop
 domain-parent-slug: page-type/cluster-check
 ---

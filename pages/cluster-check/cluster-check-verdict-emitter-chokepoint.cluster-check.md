@@ -6,7 +6,7 @@ runner-name: verdict-emitter-chokepoint
 script: akasha:infra/cluster-checks/src/checks/check-verdict-emitter-chokepoint.ts
 dispatch-node-types:
   - kind: ts-file
-    under: packages/infra/checks/src/checks
+    under: infra/cluster-checks/src/checks
 slug: cluster-check-verdict-emitter-chokepoint
 domain-parent-slug: page-type/cluster-check
 ---

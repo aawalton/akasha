@@ -6,7 +6,7 @@ runner-name: addon-inline-handler-dispatch
 script: akasha:temper/shared-build-deploy-checks/src/check-addon-inline-handler-dispatch.ts
 dispatch-node-types:
   - kind: ts-file
-    under: packages/temper
+    under: temper
 slug: cluster-check-addon-inline-handler-dispatch
 domain-parent-slug: page-type/cluster-check
 ---

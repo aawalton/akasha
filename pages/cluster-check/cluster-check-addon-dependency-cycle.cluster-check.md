@@ -6,7 +6,7 @@ runner-name: addon-dependency-cycle
 script: akasha:temper/shared-build-deploy-checks/src/check-addon-dependency-cycle.ts
 dispatch-node-types:
   - kind: json-file
-    under: packages/temper
+    under: temper
 slug: cluster-check-addon-dependency-cycle
 domain-parent-slug: page-type/cluster-check
 ---

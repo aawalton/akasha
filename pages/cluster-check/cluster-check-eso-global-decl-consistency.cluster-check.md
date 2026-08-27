@@ -6,7 +6,7 @@ runner-name: eso-global-decl-consistency
 script: akasha:infra/cluster-checks/src/checks/check-eso-global-decl-consistency.ts
 dispatch-node-types:
   - kind: ts-file
-    under: packages/temper
+    under: temper
 slug: cluster-check-eso-global-decl-consistency
 domain-parent-slug: page-type/cluster-check
 ---

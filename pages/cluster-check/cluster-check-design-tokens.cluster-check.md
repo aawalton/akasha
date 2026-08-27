@@ -6,7 +6,7 @@ runner-name: design-tokens
 script: akasha:infra/cluster-checks/src/checks/check-design-tokens.ts
 dispatch-node-types:
   - kind: ts-file
-    under: packages/shared/design/tokens
+    under: shared/design-tokens
 slug: cluster-check-design-tokens
 domain-parent-slug: page-type/cluster-check
 ---

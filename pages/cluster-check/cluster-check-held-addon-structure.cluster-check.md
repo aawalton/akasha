@@ -6,7 +6,7 @@ runner-name: held-addon-structure
 script: akasha:tools/commands/check-held-addon-structure.ts
 dispatch-node-types:
   - kind: ts-file
-    under: packages/temper
+    under: temper
 slug: cluster-check-held-addon-structure
 domain-parent-slug: page-type/cluster-check
 ---

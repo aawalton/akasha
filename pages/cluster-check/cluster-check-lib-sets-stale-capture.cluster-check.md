@@ -6,7 +6,7 @@ runner-name: lib-sets-stale-capture
 script: akasha:infra/cluster-checks/src/checks/check-lib-sets-stale-capture.ts
 dispatch-node-types:
   - kind: ts-file
-    under: packages/temper
+    under: temper
 slug: cluster-check-lib-sets-stale-capture
 domain-parent-slug: page-type/cluster-check
 ---
