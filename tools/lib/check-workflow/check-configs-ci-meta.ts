@@ -11,10 +11,7 @@ const WORKFLOW_DEFINITION_DISPATCH_NODE_TYPES: readonly (
 export const ciMetaChecks = (codeRoot: string): CheckConfig[] => [
   {
     name: "ci-workflow-graph",
-    dispatchNodeTypes: [
-      ...WORKFLOW_DEFINITION_DISPATCH_NODE_TYPES,
-      { kind: "ts-file", under: "packages/infra/ci" },
-    ],
+    dispatchNodeTypes: WORKFLOW_DEFINITION_DISPATCH_NODE_TYPES,
     dispatchNodes: [
       "ts-file:instructions:tools/commands/check-ci-workflow-graph.ts",
       "ts-file:instructions:tools/lib/workflow-surface/graph.ts",

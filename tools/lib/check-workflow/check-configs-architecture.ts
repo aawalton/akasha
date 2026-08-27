@@ -35,7 +35,7 @@ export const ARCHITECTURE_CHECKS: CheckConfig[] = [
   },
   {
     name: "temper-type-tier-monotonicity",
-    dispatchNodeTypes: [{ kind: "json-file", under: "packages/temper" }],
+    dispatchNodeTypes: [{ kind: "json-file", under: "temper" }],
     dispatchNodes: [
       "ts-file:instructions:infra/cluster-checks/src/checks/check-temper-type-tier-monotonicity.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/temper-type-tier.ts",

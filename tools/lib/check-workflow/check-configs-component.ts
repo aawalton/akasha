@@ -51,7 +51,7 @@ export const COMPONENT_CHECKS: CheckConfig[] = [
   },
   {
     name: "design-tokens",
-    dispatchNodeTypes: [{ kind: "ts-file", under: "packages/shared/design/tokens" }],
+    dispatchNodeTypes: [{ kind: "ts-file", under: "shared/design-tokens" }],
     dispatchNodes: [
       "css-file:code:packages/shared/design/system/src/styles/tokens.css",
       "ts-file:instructions:infra/cluster-checks/src/checks/check-design-tokens.ts",

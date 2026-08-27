@@ -3,7 +3,7 @@ import type { CheckConfig } from "./check-configs-types"
 export const ADDON_HELD_TERRITORY_CHECKS: CheckConfig[] = [
   {
     name: "held-addon-structure",
-    dispatchNodeTypes: [{ kind: "ts-file", under: "packages/temper" }],
+    dispatchNodeTypes: [{ kind: "ts-file", under: "temper" }],
     dispatchNodes: [
       "ts-file:instructions:tools/commands/check-held-addon-structure.ts",
       "ts-file:instructions:tools/lib/check-workflow/held-addon-structure.ts",

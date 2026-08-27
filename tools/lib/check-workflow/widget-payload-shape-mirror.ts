@@ -13,7 +13,7 @@ export interface PayloadMirror {
 }
 
 const READOUTS = "../akasha/readouts"
-const ROUTES = "packages/alanwalton/web/app/routes"
+const ROUTES = "alanwalton/web/app/routes"
 
 const RESPONSE_BODY = "return Response.json("
 
@@ -27,7 +27,7 @@ export const PAYLOAD_MIRRORS: readonly PayloadMirror[] = [
   {
     struct: "Categorization",
     canonical: {
-      file: "packages/shared/monarch-categorization-access/src/monarch-ring.ts",
+      file: "shared/monarch-categorization-access/src/monarch-ring.ts",
       anchor: "export interface RingCounts {",
       kind: "members",
     },
@@ -36,7 +36,7 @@ export const PAYLOAD_MIRRORS: readonly PayloadMirror[] = [
   {
     struct: "BacklogScale",
     canonical: {
-      file: "packages/shared/monarch-categorization-access/src/monarch-ring.ts",
+      file: "shared/monarch-categorization-access/src/monarch-ring.ts",
       anchor: "export interface RingScale {",
       kind: "members",
     },

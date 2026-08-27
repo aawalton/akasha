@@ -13,7 +13,7 @@ export const addonChecks = (codeRoot: string): readonly CheckConfig[] =>
   ...addonBuildChecks(codeRoot),
   {
     name: "eso-global-decl-consistency",
-    dispatchNodeTypes: [{ kind: "ts-file", under: "packages/temper" }],
+    dispatchNodeTypes: [{ kind: "ts-file", under: "temper" }],
     dispatchNodes: [
       "ts-file:instructions:infra/cluster-checks/src/checks/check-eso-global-decl-consistency.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/eso-global-decl-consistency.ts",
@@ -24,7 +24,7 @@ export const addonChecks = (codeRoot: string): readonly CheckConfig[] =>
   ...addonRuntimeGateChecks(codeRoot),
   {
     name: "tstl-this-void-self-drop",
-    dispatchNodeTypes: [{ kind: "ts-file", under: "packages/temper" }],
+    dispatchNodeTypes: [{ kind: "ts-file", under: "temper" }],
     dispatchNodes: [
       "ts-file:instructions:infra/cluster-checks/src/checks/check-tstl-this-void-self-drop.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/ts-tstl-this-void-self-drop.ts",
@@ -33,7 +33,7 @@ export const addonChecks = (codeRoot: string): readonly CheckConfig[] =>
   },
   {
     name: "tstl-this-void-colon-method",
-    dispatchNodeTypes: [{ kind: "ts-file", under: "packages/temper" }],
+    dispatchNodeTypes: [{ kind: "ts-file", under: "temper" }],
     dispatchNodes: [
       "ts-file:code:packages/temper/shared/build-deploy/checks/src/check-tstl-this-void-colon-method.ts",
       "ts-file:code:packages/temper/shared/build-deploy/checks/src/tstl-this-void-colon-method.ts",
@@ -41,26 +41,26 @@ export const addonChecks = (codeRoot: string): readonly CheckConfig[] =>
       "ts-file:code:packages/temper/shared/build-deploy/checks/src/eso-colon-methods.generated.ts",
       "ts-file:code:packages/temper/shared/build-deploy/checks/src/eso-base-game-globals.generated.ts",
     ],
-    script: "packages/temper/shared/build-deploy/checks/src/check-tstl-this-void-colon-method.ts",
+    script: "temper/shared-build-deploy-checks/src/check-tstl-this-void-colon-method.ts",
   },
   {
     name: "eso-typings-fresh",
-    dispatchNodeTypes: [{ kind: "ts-file", under: "packages/temper" }],
-    script: "packages/temper/shared/build-deploy/checks/src/check-eso-typings-fresh.ts",
+    dispatchNodeTypes: [{ kind: "ts-file", under: "temper" }],
+    script: "temper/shared-build-deploy-checks/src/check-eso-typings-fresh.ts",
   },
   {
     name: "addon-fingerprint-residue",
-    dispatchNodeTypes: [{ kind: "ts-file", under: "packages/temper" }],
+    dispatchNodeTypes: [{ kind: "ts-file", under: "temper" }],
     dispatchNodes: [
       "ts-file:code:packages/temper/shared/build-deploy/checks/src/check-addon-fingerprint-residue.ts",
       "ts-file:code:packages/temper/shared/build-deploy/checks/src/addon-fingerprint-residue.ts",
       "ts-file:code:packages/temper/shared/build-deploy/checks/src/addon-fingerprint-residue.manifest.ts",
     ],
-    script: "packages/temper/shared/build-deploy/checks/src/check-addon-fingerprint-residue.ts",
+    script: "temper/shared-build-deploy-checks/src/check-addon-fingerprint-residue.ts",
   },
   {
     name: "lib-sets-stale-capture",
-    dispatchNodeTypes: [{ kind: "ts-file", under: "packages/temper" }],
+    dispatchNodeTypes: [{ kind: "ts-file", under: "temper" }],
     dispatchNodes: [
       "ts-file:instructions:infra/cluster-checks/src/checks/check-lib-sets-stale-capture.ts",
     ],

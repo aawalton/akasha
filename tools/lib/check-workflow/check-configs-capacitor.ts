@@ -6,8 +6,8 @@ export const CAPACITOR_CHECKS: readonly CheckConfig[] = [
   {
     name: "app-capacitor-parity",
     dispatchNodeTypes: [
-      { kind: "ts-file", under: "packages/alanwalton/web" },
-      { kind: "tsx-file", under: "packages/alanwalton/web" },
+      { kind: "ts-file", under: "alanwalton/web" },
+      { kind: "tsx-file", under: "alanwalton/web" },
     ],
     dispatchNodes: [
       "ts-file:instructions:infra/cluster-checks/src/checks/check-app-capacitor-parity.ts",

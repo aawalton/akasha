@@ -11,7 +11,7 @@ export const addonBundleScanChecks = (codeRoot: string): CheckConfig[] => [
       "ts-file:code:packages/temper/shared/build-deploy/checks/src/tstl-range-double-shift.ts",
     ],
     closurePolicy: "import-graph",
-    script: "packages/temper/shared/build-deploy/checks/src/check-tstl-range-double-shift.ts",
+    script: "temper/shared-build-deploy-checks/src/check-tstl-range-double-shift.ts",
   },
   {
     name: "tstl-anytable-length",
@@ -22,7 +22,7 @@ export const addonBundleScanChecks = (codeRoot: string): CheckConfig[] => [
       "ts-file:code:packages/temper/shared/build-deploy/checks/src/tstl-anytable-length.ts",
     ],
     closurePolicy: "import-graph",
-    script: "packages/temper/shared/build-deploy/checks/src/check-tstl-anytable-length.ts",
+    script: "temper/shared-build-deploy-checks/src/check-tstl-anytable-length.ts",
   },
   {
     name: "tstl-colon-dot-self-shift",
@@ -34,6 +34,6 @@ export const addonBundleScanChecks = (codeRoot: string): CheckConfig[] => [
       "ts-file:code:packages/temper/shared/build-deploy/checks/src/tstl-colon-dot-self-shift.manifest.ts",
     ],
     closurePolicy: "import-graph",
-    script: "packages/temper/shared/build-deploy/checks/src/check-tstl-colon-dot-self-shift.ts",
+    script: "temper/shared-build-deploy-checks/src/check-tstl-colon-dot-self-shift.ts",
   },
 ]

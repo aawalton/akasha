@@ -8,7 +8,7 @@ import type { Violation } from "./violation-reporter.ts"
 
 export const CHECKSUM_ANNOTATION_MARKER = "checksum/"
 
-const OWN_PACKAGE_PREFIX = "packages/infra/checks/"
+const OWN_PACKAGE_PREFIX = "infra/cluster-checks/"
 
 const TS_PATH_RE = /\.[cm]?tsx?$/
 const SHELL_PATH_RE = /\.(?:sh|bash)$/

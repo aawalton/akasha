@@ -30,7 +30,7 @@ export const addonBuildChecks = (codeRoot: string): CheckConfig[] => [
       "ts-file:code:packages/temper/shared/build-deploy/checks/src/addon-banned-symbols.ts",
     ],
     closurePolicy: "import-graph",
-    script: "packages/temper/shared/build-deploy/checks/src/check-addon-sandbox-safety.ts",
+    script: "temper/shared-build-deploy-checks/src/check-addon-sandbox-safety.ts",
   },
   {
     name: "addon-sandbox-load",
@@ -42,7 +42,7 @@ export const addonBuildChecks = (codeRoot: string): CheckConfig[] => [
       "ts-file:code:packages/temper/shared/build-deploy/checks/src/eso-sandbox-globals.ts",
     ],
     closurePolicy: "import-graph",
-    script: "packages/temper/shared/build-deploy/checks/src/check-addon-sandbox-load.ts",
+    script: "temper/shared-build-deploy-checks/src/check-addon-sandbox-load.ts",
   },
   {
     name: "addon-removed-refs",
@@ -54,6 +54,6 @@ export const addonBuildChecks = (codeRoot: string): CheckConfig[] => [
       "ts-file:code:packages/temper/shared/build-deploy/checks/src/addon-removed-refs.manifest.ts",
     ],
     closurePolicy: "import-graph",
-    script: "packages/temper/shared/build-deploy/checks/src/check-addon-removed-refs.ts",
+    script: "temper/shared-build-deploy-checks/src/check-addon-removed-refs.ts",
   },
 ]

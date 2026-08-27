@@ -200,13 +200,4 @@ export function unjudgedDeclarations(input: {
 
 export const ROUTING_EXEMPTIONS: readonly RoutingExemption[] = []
 
-export const DECLARED_UNEXAMINED_SOURCES: readonly UnexaminedSourceDeclaration[] = [
-  {
-    sourcePath:
-      "packages/infra/checks/__fixtures__/ast-unused/workflow-entry/app/foundation.workflow.ts",
-    reason:
-      "a fixture standing in for a workflow file so the ast-unused analysis can exercise its " +
-      "entry-file adapter. Its export is a hand-written stub with no `when`, so the DSL's shape " +
-      "guard rejects it — which is the fixture behaving correctly, not a workflow failing to load.",
-  },
-]
+export const DECLARED_UNEXAMINED_SOURCES: readonly UnexaminedSourceDeclaration[] = []

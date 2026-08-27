@@ -117,7 +117,7 @@ export const SOURCE_SCANNER_CHECKS: CheckConfig[] = [
   },
   {
     name: "verdict-emitter-chokepoint",
-    dispatchNodeTypes: [{ kind: "ts-file", under: "packages/infra/checks/src/checks" }],
+    dispatchNodeTypes: [{ kind: "ts-file", under: "infra/cluster-checks/src/checks" }],
     dispatchNodes: [
       "json-file:instructions:infra/cluster-checks/src/lib/verdict-emitter-chokepoint.config.json",
       "ts-file:instructions:infra/cluster-checks/src/checks/check-verdict-emitter-chokepoint.ts",

@@ -5,7 +5,6 @@ function RemediationDoc(path: string): RemediationDoc {
 }
 
 type RepoDocPath =
-  | `packages/${string}`
   | `apps/${string}`
   | `docs/${string}`
   | `infra/${string}`

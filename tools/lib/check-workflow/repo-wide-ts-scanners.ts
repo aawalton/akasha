@@ -40,7 +40,7 @@ export const ALLOWLISTED_REPO_WIDE_TS_SCANNERS: ReadonlyMap<string, string> = ne
   ],
   [
     "rbac-check-cluster-resource-names",
-    "Runs every discovered `synth.ts` and judges the cluster-scoped RBAC names it emits, so a violation arrives in a synth source; the six discovery globs bottom out at `packages/*/*/deploy/k8s/synth.ts`, so one can land in any package and no prefix selects fewer. The yaml population this replaced named the gitignored `*.generated.yaml`, which has no graph node, so the check woke on 0 of the 50 synth sources it reads (#18630).",
+    "Runs every discovered `synth.ts` and judges the cluster-scoped RBAC names it emits, so a violation arrives in a synth source; the six discovery globs bottom out at `*/*/deploy/k8s/synth.ts`, so one can land in any package and no prefix selects fewer. The yaml population this replaced named the gitignored `*.generated.yaml`, which has no graph node, so the check woke on 0 of the 50 synth sources it reads (#18630).",
   ],
   [
     "rbac-check-cluster-grants",
@@ -102,6 +102,6 @@ export const ALLOWLISTED_REPO_WIDE_TS_SCANNERS: ReadonlyMap<string, string> = ne
   ],
   [
     "instruction-references",
-    "A citation of an instructions-repo document is prose, not an import, so it can be written into any TS file and nothing structural marks where one may appear. The sweep that founded this check took fifty-five references out of twenty-four files in four shapes — test names, runtime error messages, ast-unused pragma prose and fixtures — spread across agents/, alanwalton/, infra/ and shared/, so the shortest prefix covering them is `packages/` and selects no fewer files than the unscoped population.",
+    "A citation of an instructions-repo document is prose, not an import, so it can be written into any TS file and nothing structural marks where one may appear. The sweep that founded this check took fifty-five references out of twenty-four files in four shapes — test names, runtime error messages, ast-unused pragma prose and fixtures — spread across agents/, alanwalton/, infra/ and shared/, so no prefix covers them short of the repository root, which selects no fewer files than the unscoped population.",
   ],
 ])

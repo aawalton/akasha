@@ -3,7 +3,7 @@ import { basename, dirname, join, relative, sep } from "node:path"
 import { z } from "zod"
 import { listWorkspaceDirs } from "./workspace-paths.ts"
 
-export const ADDONS_REL_ROOT = "packages/temper/addons"
+export const ADDONS_REL_ROOT = "temper/addons"
 
 export const BUNDLE_REUSE_DIST_ENV = "TEMPER_ADDON_BUNDLE_REUSE_DIST"
 
