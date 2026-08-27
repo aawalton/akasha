@@ -71,7 +71,7 @@ describe("isManifestSopsFile", () => {
 
   test("file matching a flat rule is NOT a manifest", () => {
     expect(
-      isManifestSopsFile("infra/ci-workflows--from-instructions/pipeline-secrets.sops.yaml", flatRules)
+      isManifestSopsFile("infra/ci-workflows/pipeline-secrets.sops.yaml", flatRules)
     ).toBe(false)
   })
 
@@ -88,7 +88,7 @@ describe("isManifestSopsFile", () => {
   })
 
   test("with no flat rules, every file is a manifest", () => {
-    expect(isManifestSopsFile("infra/ci-workflows--from-instructions/pipeline-secrets.sops.yaml", [])).toBe(
+    expect(isManifestSopsFile("infra/ci-workflows/pipeline-secrets.sops.yaml", [])).toBe(
       true
     )
   })
