@@ -8,7 +8,7 @@ import { registryOf } from "../../page/property/registry.ts"
 import { claimant, domainKindTest } from "../../page/page-types.ts"
 import { type Roots } from "../../page/page"
 import { addressOf, slugNamed } from "../../page/page-address.ts"
-import { AKASHA, isDirty, MEMORY, rootFor } from "../../repo/roots/roots"
+import { AKASHA, isDirty, rootFor } from "../../repo/roots/roots"
 import { SEQUENCE_KEY } from "./sequence-manifest.ts"
 
 const SUBJECT_KEY = "domain-slug"
@@ -61,18 +61,18 @@ function scan(root: string): Map<string, Frontmatter> {
 /**
  * Who is answerable for what, composed from the documents standing now.
  *
- * DOMAINS AND PERSONAS ARE READ OUT OF AKASHA, which is where they stand. A roster built from
- * any other checkout comes back empty rather than wrong, and an empty roster is the shape a
- * corpus with no domains in it would have — so every reader of it draws a panel with no rows
- * and nothing anywhere says the root was the fault.
+ * EVERY SIDE IS READ OUT OF AKASHA, which is where domains, personas, findings and initiatives
+ * all stand. A roster built from any other checkout comes back empty rather than wrong, and an
+ * empty roster is the shape a corpus with no domains in it would have — so every reader of it
+ * draws a panel with no rows and nothing anywhere says the root was the fault.
  *
- * FINDINGS AND INITIATIVES ARE STILL MEMORY'S, and are the one thing read from a second
- * checkout. They are filed against a domain by slug rather than by path, so which repository
- * each side stands in is nothing either has to agree with the other about.
+ * ONE SCAN, AND THE PAGE TYPE DECIDES WHICH SIDE A FILE IS. Findings and initiatives were read
+ * from a second checkout and claimed against the repository name `memory`, so once their page
+ * types named akasha the claim matched nothing and every persona was reported as holding no
+ * finding and no initiative — a clean zero over a corpus that held hundreds.
  */
 export function readRoster(roots: Roots): Roster {
   const frontmatter = scan(rootFor(roots, AKASHA))
-  const noticed = scan(rootFor(roots, MEMORY))
   const { slugs } = slugsIn(frontmatter)
   const docs: Documents = {
     frontmatterOf: (at) => frontmatter.get(at) ?? null,
@@ -91,8 +91,8 @@ export function readRoster(roots: Roots): Roster {
   const filings = new Map<string, Filed[]>()
   let findings = 0
   let initiatives = 0
-  for (const [relPath, fm] of noticed) {
-    const kind = claimant(relPath, "memory", claimants).slug
+  for (const [relPath, fm] of frontmatter) {
+    const kind = claimant(relPath, "akasha", claimants).slug
     if (kind !== "finding" && kind !== "initiative") continue
     const subject = textField(fm, SUBJECT_KEY)
     if (subject === null) continue
