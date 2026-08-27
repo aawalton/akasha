@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+errand: "No, but trace through to see if it is actually getting data and guidance correctly after all the moves"
 registration-account: aawalton
 claude-code-session-uuid: 73fc587f-89d3-4a77-9ea5-f569570a94e4
 transcript-path: /var/home/walton/.claude/accounts/aawalton/projects/-var-home-walton-repos/73fc587f-89d3-4a77-9ea5-f569570a94e4.jsonl
