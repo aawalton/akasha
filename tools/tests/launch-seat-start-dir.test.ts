@@ -10,23 +10,28 @@ const opts: LaunchSeatOpts = {
   mode: SEAT_MODE_INTERACTIVE,
 }
 
-function underInstructionsRoot<T>(root: string, run: () => T): T {
-  const before = process.env.INSTRUCTIONS_ROOT
-  process.env.INSTRUCTIONS_ROOT = root
+// `AKASHA_ROOT` NAMES THE REPOSITORY THE START DIRECTORY IS WORKED OUT FROM. `seatStartDir` is
+// `resolve(akashaRoot(), "..")`, and the `instructions` repository is absorbed into akasha, so
+// setting `INSTRUCTIONS_ROOT` pointed nothing anywhere and both cases below read the live
+// checkout's own parent — which is `/var/home/walton/repos` on this machine and anything at all
+// on another.
+function underAkashaRoot<T>(root: string, run: () => T): T {
+  const before = process.env.AKASHA_ROOT
+  process.env.AKASHA_ROOT = root
   try {
     return run()
   } finally {
-    if (before === undefined) delete process.env.INSTRUCTIONS_ROOT
-    else process.env.INSTRUCTIONS_ROOT = before
+    if (before === undefined) delete process.env.AKASHA_ROOT
+    else process.env.AKASHA_ROOT = before
   }
 }
 
-test("the seat start directory is the parent of the instructions repo", () => {
-  expect(underInstructionsRoot("/somewhere/repos/instructions", seatStartDir)).toBe("/somewhere/repos")
+test("the seat start directory is the parent of the akasha repo", () => {
+  expect(underAkashaRoot("/somewhere/repos/akasha", seatStartDir)).toBe("/somewhere/repos")
 })
 
 test("a session opens in the seat start directory rather than where the launcher stood", () => {
-  const args = underInstructionsRoot("/somewhere/repos/instructions", () =>
+  const args = underAkashaRoot("/somewhere/repos/akasha", () =>
     buildNewSessionArgs(opts, ["supervisor"])
   )
   const at = args.indexOf("-c")
