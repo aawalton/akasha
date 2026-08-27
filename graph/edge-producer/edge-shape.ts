@@ -1,4 +1,4 @@
-import type { FileNode } from "../node-producer/file/file.ts"
+import type { FileNode } from "../node-producer/file/file.graph-node-producer.code.attachment.ts"
 import type { BuildContext } from "../build-context/build-context.ts"
 import type { NodeRef } from "../node-producer/node-shape.ts"
 

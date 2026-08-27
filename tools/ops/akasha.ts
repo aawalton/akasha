@@ -1,4 +1,5 @@
 import { readFileSync } from "node:fs"
+import { attachmentFileOf } from "../../page/attachment-file.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { filesUnder, summaryIn } from "./declared.ts"
@@ -7,6 +8,10 @@ import type { Command, CommandModule } from "./surface.ts"
 const PAGE_SUFFIX = ".command.md"
 
 const PATH_KEY = "path"
+
+const CODE_KEY = "code"
+
+const CODE_EXTENSION = "ts"
 
 function textAt(at: string): string {
   try {
@@ -21,7 +26,7 @@ export function akashaCommandPages(repoRoot: string = rootFor(resolveRoots(), AK
 }
 
 export function akashaEntryFor(page: string): string {
-  return `${page.slice(0, -PAGE_SUFFIX.length)}.ts`
+  return attachmentFileOf(page, CODE_KEY, CODE_EXTENSION)
 }
 
 export function akashaPathFor(page: string): readonly string[] | null {

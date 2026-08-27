@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
-import { emptiedBy, pruneEmptied, trackedUnder } from "./rm.ts"
+import { emptiedBy, pruneEmptied, trackedUnder } from "./rm.command.code.attachment.ts"
 
 const SCRATCH = "/var/tmp"
 

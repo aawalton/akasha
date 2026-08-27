@@ -1,10 +1,10 @@
 import { relative, resolve } from "node:path"
 import { edgesInto, nodesIn } from "../graph/ask.ts"
 import { type BuildContext, KEEPS_NOTHING } from "../graph/build-context/build-context.ts"
-import { CODE_EDGE } from "../graph/edge-producer/beside/beside.ts"
-import { IMPORT_EDGE } from "../graph/edge-producer/typescript/typescript.ts"
+import { CODE_EDGE } from "../graph/edge-producer/beside/beside.graph-edge-producer.code.attachment.ts"
+import { IMPORT_EDGE } from "../graph/edge-producer/typescript/typescript.graph-edge-producer.code.attachment.ts"
 import type { EdgeInit } from "../graph/edge-producer/edge-shape.ts"
-import type { FileNode } from "../graph/node-producer/file/file.ts"
+import type { FileNode } from "../graph/node-producer/file/file.graph-node-producer.code.attachment.ts"
 import { AKASHA, rootFor, rootsHere } from "../repo/roots/roots.ts"
 
 export const ROOT_FOLDER = "."

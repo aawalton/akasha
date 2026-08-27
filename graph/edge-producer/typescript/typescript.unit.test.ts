@@ -3,8 +3,8 @@ import { execFileSync } from "node:child_process"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import { type BuildContext, KEEPS_NOTHING } from "../../build-context/build-context.ts"
-import fileNodeProducer from "../../node-producer/file/file.ts"
-import typescriptEdgeProducer, { IMPORT_EDGE, basesOf } from "./typescript.ts"
+import fileNodeProducer from "../../node-producer/file/file.graph-node-producer.code.attachment.ts"
+import typescriptEdgeProducer, { IMPORT_EDGE, basesOf } from "./typescript.graph-edge-producer.code.attachment.ts"
 
 const SCRATCH = "/var/tmp"
 

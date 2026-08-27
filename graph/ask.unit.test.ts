@@ -1,8 +1,8 @@
 import { describe, expect, test } from "bun:test"
 import { edgesFrom, edgesInto, nodeAt } from "./ask.ts"
 import { KEEPS_NOTHING } from "./build-context/build-context.ts"
-import { RELATION_EDGE } from "./edge-producer/frontmatter/frontmatter.ts"
-import { IMPORT_EDGE } from "./edge-producer/typescript/typescript.ts"
+import { RELATION_EDGE } from "./edge-producer/frontmatter/frontmatter.graph-edge-producer.code.attachment.ts"
+import { IMPORT_EDGE } from "./edge-producer/typescript/typescript.graph-edge-producer.code.attachment.ts"
 import type { EdgeInit } from "./edge-producer/edge-shape.ts"
 import { AKASHA, rootsHere } from "../repo/roots/roots.ts"
 

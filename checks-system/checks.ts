@@ -1,8 +1,9 @@
 import { createRequire } from "node:module"
-import { dirname, resolve } from "node:path"
+import { resolve } from "node:path"
 import { type BuildContext, KEEPS_NOTHING } from "../graph/build-context/build-context.ts"
 import { frontmatterAt } from "../graph/frontmatter-at/frontmatter-at.ts"
 import { pagesOfType } from "../graph/page-index/page-index.ts"
+import { attachmentFileOf } from "../page/attachment-file.ts"
 import type { PageAt } from "../page/page.ts"
 import { AKASHA, akashaRoot } from "../repo/roots/roots.ts"
 import type { Check } from "./check/check-shape.ts"
@@ -16,6 +17,10 @@ const ON_WORKTREE = "check-on-worktree"
 const ON_AUDIT = "check-on-audit"
 
 const CHECKS_AT = "checks-system/checks.ts"
+
+const CODE_KEY = "code"
+
+const CODE_EXTENSION = "ts"
 
 // BUILT WHEN A CHECK IS LOADED, NOT AT IMPORT. `import.meta` is empty in a CommonJS bundle, so
 // this read `undefined/checks.ts` and `createRequire` refused a filename that was not an
@@ -41,7 +46,7 @@ function contextOn(root: string): BuildContext {
 }
 
 function moduleOf(root: string, at: PageAt): string {
-  return resolve(root, dirname(at.key), `${at.stem}.ts`)
+  return resolve(root, attachmentFileOf(at.key, CODE_KEY, CODE_EXTENSION))
 }
 
 function checkAt(root: string, at: PageAt): Check {

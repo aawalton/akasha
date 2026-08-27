@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import fileLength from "./file-length.ts"
-import { CEILING_BYTES } from "./file-length.ts"
+import fileLength from "./file-length.check.code.attachment.ts"
+import { CEILING_BYTES } from "./file-length.check.code.attachment.ts"
 
 const ROOT = "/repo"
 

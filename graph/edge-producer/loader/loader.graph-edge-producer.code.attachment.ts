@@ -1,14 +1,17 @@
 import type { BuildContext } from "../../build-context/build-context.ts"
 import { frontmatterAt } from "../../frontmatter-at/frontmatter-at.ts"
-import fileNodeProducer, { type FileNode } from "../../node-producer/file/file.ts"
+import fileNodeProducer, { type FileNode } from "../../node-producer/file/file.graph-node-producer.code.attachment.ts"
 import type { NodeRef } from "../../node-producer/node-shape.ts"
+import { attachmentFileOf } from "../../../page/attachment-file.ts"
 import { pagesOfType } from "../../page-index/page-index.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
-import { IMPORT_EDGE } from "../typescript/typescript.ts"
+import { IMPORT_EDGE } from "../typescript/typescript.graph-edge-producer.code.attachment.ts"
 
 const PAGE_TYPE = "page-type"
 
 const LOADER_KEY = "code-loaded-by"
+
+const CODE_KEY = "code"
 
 const CODE_EXTENSION = "ts"
 
@@ -53,9 +56,7 @@ export const loaderEdgeProducer: EdgeProducer = {
     if (typeof type !== "string") return []
     const loader = loadersIn(ctx).get(type)
     if (loader === undefined) return []
-    const cut = file.key.lastIndexOf("/")
-    const within = cut < 0 ? "" : file.key.slice(0, cut + 1)
-    const ref = { repo: file.repo, key: `${within}${file.attrs["file-stem"]}.${CODE_EXTENSION}` }
+    const ref = { repo: file.repo, key: attachmentFileOf(file.key, CODE_KEY, CODE_EXTENSION) }
     if (fileNodeProducer.at(ctx, ref) === null) return []
     if (ref.repo === loader.repo && ref.key === loader.key) return []
     const edge: EdgeInit = { kind: IMPORT_EDGE, from: loader, to: ref, attrs: {} }

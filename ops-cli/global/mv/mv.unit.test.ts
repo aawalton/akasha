@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { help } from "./mv.ts"
+import { help } from "./mv.command.code.attachment.ts"
 
 const SCRATCH = "/var/tmp"
 
-const ENTRY = `${import.meta.dir}/mv.ts`
+const ENTRY = `${import.meta.dir}/mv.command.code.attachment.ts`
 
 interface Ran {
   readonly code: number

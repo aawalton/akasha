@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { akashaRoot } from "../../../repo/roots/roots.ts"
 import type { Batch, CheckFailure } from "../check-shape.ts"
-import pageHoldsToItsType from "./page-holds-to-its-type.ts"
+import pageHoldsToItsType from "./page-holds-to-its-type.check.code.attachment.ts"
 
 const ROOT = akashaRoot()
 

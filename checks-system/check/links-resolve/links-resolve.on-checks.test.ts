@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { CheckFailure } from "../check-shape.ts"
-import { type Held, judgeLinks, type Mortal, type Sources } from "./links-resolve.ts"
+import { type Held, judgeLinks, type Mortal, type Sources } from "./links-resolve.check.code.attachment.ts"
 
 const TARGET = "akasha/notes/target.md"
 

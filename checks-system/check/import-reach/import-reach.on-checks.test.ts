@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { declaresOnly, importReach } from "./import-reach.ts"
+import { declaresOnly, importReach } from "./import-reach.check.code.attachment.ts"
 import type { File } from "../check-shape.ts"
 
 const ROOT = "/repos/akasha"

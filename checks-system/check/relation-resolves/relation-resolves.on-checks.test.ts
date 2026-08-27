@@ -6,7 +6,7 @@ import { dirname, join } from "node:path"
 import { akashaRoot } from "../../../repo/roots/roots.ts"
 import { treeOn } from "../../run/tree.ts"
 import type { Batch, CheckFailure } from "../check-shape.ts"
-import relationResolves from "./relation-resolves.ts"
+import relationResolves from "./relation-resolves.check.code.attachment.ts"
 
 const GOING = "relation-resolves-going"
 

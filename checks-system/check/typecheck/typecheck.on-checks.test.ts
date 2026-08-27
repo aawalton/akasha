@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
 import { resolve } from "node:path"
 import type { Batch, CheckFailure, Tree } from "../check-shape.ts"
-import typecheck from "./typecheck.ts"
+import typecheck from "./typecheck.check.code.attachment.ts"
 
 const SCRATCH = "/var/tmp"
 

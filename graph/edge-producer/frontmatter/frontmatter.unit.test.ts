@@ -4,8 +4,8 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import { type BuildContext, KEEPS_NOTHING } from "../../build-context/build-context.ts"
 import type { EdgeInit } from "../edge-shape.ts"
-import fileNodeProducer from "../../node-producer/file/file.ts"
-import frontmatterEdgeProducer, { RELATION_EDGE } from "./frontmatter.ts"
+import fileNodeProducer from "../../node-producer/file/file.graph-node-producer.code.attachment.ts"
+import frontmatterEdgeProducer, { RELATION_EDGE } from "./frontmatter.graph-edge-producer.code.attachment.ts"
 
 const SCRATCH = "/var/tmp"
 

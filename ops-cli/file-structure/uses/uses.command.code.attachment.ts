@@ -1,7 +1,7 @@
 export const summary = "Map what points at each file under one section of a repository"
 
 import { edgesFrom } from "../../../graph/ask.ts"
-import { CODE_EDGE } from "../../../graph/edge-producer/beside/beside.ts"
+import { CODE_EDGE } from "../../../graph/edge-producer/beside/beside.graph-edge-producer.code.attachment.ts"
 import { AKASHA } from "../../../repo/roots/roots.ts"
 import { folderOf, pointersInto, sectionAt } from "../../../file-structure/section.ts"
 

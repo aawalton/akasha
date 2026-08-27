@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { nameIn, planForSource } from "./move.ts"
+import { nameIn, planForSource } from "./move.command.code.attachment.ts"
 
 describe("nameIn", () => {
   test("it reads the name a manifest states", () => {
