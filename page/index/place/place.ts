@@ -2,7 +2,31 @@ import { execFileSync } from "node:child_process"
 import { createHash } from "node:crypto"
 import { join, resolve } from "node:path"
 
-const AKASHA = resolve(import.meta.dir, "..", "..", "..")
+/**
+ * Where akasha stands, for the git call this module makes.
+ *
+ * ANSWERED WHEN ASKED RATHER THAN AT IMPORT. `import.meta.dir` belongs to the runtime, and a
+ * bundle that is not ESM carries none — it compiles to `{}`, so resolving it as a top-level
+ * const raised `paths[0] must be of type string` while the module was still loading. That threw
+ * before any caller asked for anything, and it took the whole editor extension down with it: the
+ * extension imports this file's neighbours for other exports and never calls into the index at
+ * all. A root worked out when it is wanted costs an importer that never wants it nothing.
+ *
+ * `AKASHA_ROOT` FIRST, which is how a bundle states where it stands. `readouts/readout-catalog`
+ * reads the same pair for the same reason, and this repeats it rather than inventing a second
+ * rule for where akasha is.
+ */
+function akashaStands(): string {
+  const stated = process.env.AKASHA_ROOT
+  if (stated !== undefined && stated !== "") return stated
+  const dir: string | undefined = import.meta.dir
+  if (dir === undefined || dir === "") {
+    throw new Error(
+      "place: this build reads no `import.meta.dir`, so nothing in it says where akasha stands — a bundle states the akasha root in `AKASHA_ROOT`"
+    )
+  }
+  return resolve(dir, "..", "..", "..")
+}
 
 const UNDER = "pages"
 
@@ -22,7 +46,7 @@ let held: string | null = null
 
 export function indexRoot(): string {
   if (held !== null) return held
-  const dir = execFileSync("git", ["-C", AKASHA, "rev-parse", "--absolute-git-dir"], {
+  const dir = execFileSync("git", ["-C", akashaStands(), "rev-parse", "--absolute-git-dir"], {
     encoding: "utf8",
   }).trim()
   held = join(dir, UNDER, INDEX)
