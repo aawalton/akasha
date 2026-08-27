@@ -6,6 +6,7 @@ slug: folder-shape
 needs: tree
 cached: false
 check-on-patch: false
+check-on-worktree: false
 ---
 
 # Definition

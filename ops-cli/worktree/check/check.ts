@@ -32,8 +32,9 @@ export const help = {
     "says rather than what main said. Reading the tree through main's checks gives the answer " +
     "main would have given, which is the one answer that cannot be wrong about anything.\n" +
     "\n" +
-    "Every check runs. Narrowing them to those a change reaches is not settled, and running more " +
-    "than are needed is slow where running fewer than are needed is false.\n" +
+    "Every check that states it runs on a worktree runs, whatever the change reaches. Narrowing " +
+    "them to those a change reaches is not settled, and running more than are needed is slow " +
+    "where running fewer than are needed is false.\n" +
     "\n" +
     "A tree that comes back green has its commit written onto its page. A tree holding " +
     "uncommitted work is judged as it stands on disk and nothing is written down, there being no " +
@@ -113,10 +114,10 @@ function pageOf(memoryRoot: string, name: string): string {
 function runInTree(tree: Tree): number {
   const root = JSON.stringify(tree.at)
   const script =
-    `const { checksFound } = await import(${JSON.stringify(`${tree.at}/checks/checks.ts`)})\n` +
+    `const { checksOnWorktree } = await import(${JSON.stringify(`${tree.at}/checks/checks.ts`)})\n` +
     `const { runAudit, judgesAuthor } = await import(${JSON.stringify(`${tree.at}/checks/run/audit.ts`)})\n` +
     `const root = ${root}\n` +
-    "const wanted = checksFound(root).filter((one) => !judgesAuthor(one))\n" +
+    "const wanted = checksOnWorktree(root).filter((one) => !judgesAuthor(one))\n" +
     "let found = 0\n" +
     "for (const run of runAudit(wanted, root)) {\n" +
     "  if ('threw' in run) { console.log(run.slug + '  threw  ' + run.threw); found += 1; continue }\n" +

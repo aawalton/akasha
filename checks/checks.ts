@@ -11,11 +11,14 @@ const PAGE_TYPE = "mp-check"
 
 const ON_PATCH = "check-on-patch"
 
+const ON_WORKTREE = "check-on-worktree"
+
 const load = createRequire(`${import.meta.dir}/checks.ts`)
 
 type Found = {
   readonly every: readonly Check[]
   readonly onPatch: readonly Check[]
+  readonly onWorktree: readonly Check[]
 }
 
 function contextOn(root: string): BuildContext {
@@ -39,10 +42,10 @@ function checkAt(root: string, at: PageAt): Check {
   return check
 }
 
-function runsOnPatch(ctx: BuildContext, at: PageAt): boolean {
+function runsOn(ctx: BuildContext, at: PageAt, key: string): boolean {
   const fm = frontmatterAt(ctx, at.repo, at.key)
   if (fm === null) return true
-  const said = fm.fields.get(ON_PATCH)
+  const said = fm.fields.get(key)
   return said !== false && said !== "false"
 }
 
@@ -51,12 +54,14 @@ function foundIn(root: string): Found {
   const pages = [...pagesOfType(ctx, PAGE_TYPE)].sort((one, two) => (one.stem < two.stem ? -1 : 1))
   const every: Check[] = []
   const onPatch: Check[] = []
+  const onWorktree: Check[] = []
   for (const at of pages) {
     const check = checkAt(root, at)
     every.push(check)
-    if (runsOnPatch(ctx, at)) onPatch.push(check)
+    if (runsOn(ctx, at, ON_PATCH)) onPatch.push(check)
+    if (runsOn(ctx, at, ON_WORKTREE)) onWorktree.push(check)
   }
-  return { every, onPatch }
+  return { every, onPatch, onWorktree }
 }
 
 let held: { readonly root: string; readonly found: Found } | null = null
@@ -74,4 +79,8 @@ export function checksFound(root: string = akashaRoot()): readonly Check[] {
 
 export function checksOnPatch(root: string = akashaRoot()): readonly Check[] {
   return heldFor(root).onPatch
+}
+
+export function checksOnWorktree(root: string = akashaRoot()): readonly Check[] {
+  return heldFor(root).onWorktree
 }
