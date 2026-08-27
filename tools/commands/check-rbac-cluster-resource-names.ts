@@ -25,7 +25,7 @@ export const help: CommandHelp = {
   ],
   examples: [
     "ops check-rbac-cluster-resource-names",
-    "ops check-rbac-cluster-resource-names --code-root ~/repos/code",
+    "ops check-rbac-cluster-resource-names --code-root ~/repos/akasha",
   ],
 }
 
@@ -82,7 +82,7 @@ export default async function checkRbacClusterResourceNames(
     membership: {
       kind: "enumerated",
       because:
-        "the members are every `synth.ts` the discovery globs matched under the code tree, and a " +
+        "the members are every `synth.ts` the discovery globs matched under this tree, and a " +
         "synth that would not import or whose outputs do not parse is held as its error and " +
         "raised when it is examined rather than dropped from the list",
     },

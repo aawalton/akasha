@@ -21,7 +21,7 @@ export const help: CommandHelp = {
     { code: 1, meaning: "one or more steps reach for a binary their image does not carry" },
     { code: 2, meaning: "a step named an image with no tool list, or a tree could not be read" },
   ],
-  examples: ["ops check-image-tools", "ops check-image-tools --code-root ~/repos/code"],
+  examples: ["ops check-image-tools", "ops check-image-tools --code-root ~/repos/akasha"],
 }
 
 const PREFIX = "[image-tools]"
@@ -144,15 +144,15 @@ export default async function checkImageTools(args: readonly string[]): Promise<
       successMessage: [
         `OK — every step's binaries stand in the image it runs on, over ${steps.length} step(s).`,
         `  ${readUnder(roots)}`,
-        `  IMAGE TOOLS: read from \`tools/lib/workflow-dsl/images.ts\` in the instructions tree, ` +
+        `  IMAGE TOOLS: read from \`tools/lib/workflow-dsl/images.ts\` in this repository, ` +
           `the same module the step images are minted from.`,
       ].join("\n"),
       footer: (count) =>
         [
           `${PREFIX} ${count} violation(s)`,
           `${PREFIX} ${readUnder(roots)}`,
-          `${PREFIX} IMAGE TOOLS: read from \`tools/lib/workflow-dsl/images.ts\` in the ` +
-            `instructions tree, the same module the step images are minted from.`,
+          `${PREFIX} IMAGE TOOLS: read from \`tools/lib/workflow-dsl/images.ts\` in this ` +
+            `repository, the same module the step images are minted from.`,
         ].join("\n"),
       formatViolation: (one) =>
         `${one.sourcePath} → ${one.workflow}/${one.step}\n    image: ${one.image}\n` +

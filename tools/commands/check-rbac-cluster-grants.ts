@@ -26,7 +26,7 @@ export const help: CommandHelp = {
   ],
   examples: [
     "ops check-rbac-cluster-grants",
-    "ops check-rbac-cluster-grants --code-root ~/repos/code",
+    "ops check-rbac-cluster-grants --code-root ~/repos/akasha",
   ],
 }
 
@@ -105,7 +105,7 @@ export default async function checkRbacClusterGrants(args: readonly string[]): P
     membership: {
       kind: "enumerated",
       because:
-        "the members are every `synth.ts` the discovery globs matched under the code tree, and a " +
+        "the members are every `synth.ts` the discovery globs matched under this tree, and a " +
         "synth that would not import or whose outputs do not parse is held as its error and " +
         "raised when it is examined rather than dropped from the list",
     },

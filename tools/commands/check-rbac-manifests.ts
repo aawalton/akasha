@@ -30,7 +30,7 @@ export const help: CommandHelp = {
   ],
   examples: [
     "ops check-rbac-manifests",
-    "ops check-rbac-manifests --code-root ~/repos/code",
+    "ops check-rbac-manifests --code-root ~/repos/akasha",
   ],
 }
 

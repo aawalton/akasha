@@ -32,7 +32,7 @@ export const help: CommandHelp = {
   ],
   examples: [
     "ops check-rbac-pipelines",
-    "ops check-rbac-pipelines --code-root ~/repos/code",
+    "ops check-rbac-pipelines --code-root ~/repos/akasha",
   ],
 }
 
