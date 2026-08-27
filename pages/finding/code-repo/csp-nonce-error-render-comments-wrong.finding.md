@@ -2,36 +2,34 @@
 id: 096a6177-170e-5f7d-8e65-a51e645dd68d
 page-type-slug: finding
 title: "Csp nonce error render comments wrong"
-domain-slug: repo/code-repo
+domain-slug: repo/akasha-repo
 ---
 
 # Claim
 
-A render whose root loader threw ships every script un-nonced under the full production CSP. Two of the six web apps say this is harmless for a reason that is false: `alanwalton/web/app/root.tsx` calls the un-nonced path "non-prod", and `audhdalan/web/app/root.tsx` calls it "inert because dev/error paths carry no CSP". Error paths do carry it. `temper/web/app/root.tsx` corrected the same comment, naming it "the case the prior comment missed" — the correction landed in one app, not the other two.
+Every web app passes `<Scripts>` a nonce read out of root loader data, and that data is absent on an error render, so a render whose root loader threw ships every script un-nonced under the full production CSP. Nothing in the code says so.
 
 # Evidence
 
-Every app's `Layout` reads the nonce as root loader data:
+Each app's `Layout` reads the nonce as root loader data and hands it to `<Scripts>`:
 
     const nonce = useRouteLoaderData<typeof loader>("root")?.nonce
 
-`?.` yields `undefined` where the root loader threw. `<Scripts nonce={undefined}>` emits no attribute, and `'strict-dynamic'` makes `script-src` ignore the `'self'` host-source, so the parser-inserted scripts are refused.
+`alanwalton/web/app/root.tsx:99` and `:137`; `archive-of-worlds/web/app/root.tsx:43` and `:75`; `audhdalan/web/app/root.tsx:38` and `:53`; `smilingjenny/web/app/root.tsx:29` and `:44`; `temper/web/app/root.tsx:109` and `:146`. No other web app is in the tree.
 
-The CSP is attached on content type alone, with no status test. All six `server.ts` guard the merge only by:
+Every app pins `react-router` at `7.15.1`, and that is what is installed. The chain is readable in the installed library, `node_modules/react-router/dist/development/chunk-4N6VE7H7.mjs`:
 
-    const contentType = resp.headers.get("content-type") ?? ""
-    if (contentType.startsWith("text/html")) {
+- `:6375` — `useRouteLoaderData` returns `state.loaderData[routeId]` and nothing else.
+- `:5295`-`:5312` — where a route's loader result is an error, that route's `loaderData` entry is never assigned; the error is placed on the nearest boundary instead. On the client the entry is set to `ResetLoaderDataSymbol`, which `:5375` filters back out of the merged data.
+- `:8945` — the root route's `errorElement` is the root module's own `Layout` wrapping the ErrorBoundary. So `Layout`, and the `<Scripts>` inside it, renders on the error path with root loader data gone.
+- `:9958` — `Scripts` spreads its props onto each `<script>` it emits, so `nonce={undefined}` emits no attribute.
 
-An HTML error response takes that branch and gets the full policy, so audhdalan's premise is false against its own `server.ts`.
+The policy that then applies is the full one. `shared/web-security-headers/src/build.ts:31` builds `script-src` as `'self'`, `'nonce-<n>'`, `'strict-dynamic'`; `'strict-dynamic'` makes the `'self'` host-source inert for parser-inserted scripts, so an un-nonced script is refused rather than falling back on the host match.
 
-The three comments:
+The headers are attached on content type alone, with no status test. Each app's `server.ts` guards the merge only by `if (contentType.startsWith("text/html"))` — `alanwalton/web/server.ts:68`, `archive-of-worlds/web/server.ts:53`, `audhdalan/web/server.ts:53`, `smilingjenny/web/server.ts:53`, `temper/web/server.ts:54`. An HTML error response takes that branch and gets the whole policy.
 
-- `alanwalton/web/app/root.tsx:210` — "the sidebar-boot script then ships un-nonced, which only degrades anti-flicker on those non-prod paths". A production root-loader throw is not a non-prod path.
-- `audhdalan/web/app/root.tsx:46` — "scripts then ship un-nonced, which is inert because dev/error paths carry no CSP".
-- `temper/web/app/root.tsx:202` — "in dev, AND (the case the prior comment missed) on a prod render where the root loader itself THREW. A plain 404 keeps its nonce (the root loader still ran); only a loader throw drops it."
+No comment records any of this. The comments that once described it were stripped; `alanwalton/web/app/root.tsx` still carries the bare `{}` left where two of them stood.
 
-Temper reaches an accepted trade-off: its ErrorBoundary is near-static and its "Go to Home" is a plain `<a>` working without JS. That judgment is what the other two have not made — they record a reason, and the reason does not hold. `smilingjenny/web/app/root.tsx:33` carries the same code with no comment.
+Nothing surfaces a violation either. `report-uri`, `report-to` and `Report-Only` match nowhere under `shared/web-security-headers`, so a refusal reaches the browser console and no telemetry. Development is not a route to noticing it: every app's `dev` script is `react-router dev`, and `getLoadContext` matches nowhere outside this findings store, so the nonce-supplying `server.ts` is not in the dev path and dev serves no CSP.
 
-Nothing surfaces it either way, and I ran both halves: every app's `dev` script is `react-router dev` and `getLoadContext` has zero matches repo-wide, so development serves no CSP; and `report-uri`, `report-to` and `Report-Only` have zero matches in `packages/shared/web-security-headers`, so a production violation reaches the browser console and no telemetry.
-
-Found while ingesting `dirty/knowledge/web-security-headers.md`, which states the behaviour but not the contradiction. That source has been removed.
+Unmeasured. The mechanism above is read out of the library's source, not observed: no app was booted and no browser was pointed at an error route, so nothing here is a sighting of a blocked render. Whether a root-loader throw is reachable in production, and how often, is not measured. Each app has an ErrorBoundary in its root — `alanwalton:147`, `archive-of-worlds:85`, `audhdalan:63`, `smilingjenny:59`, `temper:156` — and whether each degrades acceptably with no JS is not assessed here.

@@ -2,25 +2,21 @@
 id: 5cbf6b24-575e-524a-99f2-5f1edb945ae2
 page-type-slug: finding
 title: "Ast grep convention stated as one definition"
-domain-slug: repo/code-repo
+domain-slug: repo/akasha-repo
 ---
 
 # Claim
 
-`check-configs-ast-grep.ts`'s header says the repo holds one definition of the ast-grep rule-file convention, read by two consumers. The two consumers hold a definition each, and they agree only because both sgconfigs in the tree happen to declare the same rule directory name. A unit test is what keeps them agreeing, and the header states as a settled fact what that test states as a hazard.
+The ast-grep rule-file convention is defined twice and the two definitions differ. One reads `ruleDirs` out of each sgconfig; the other hard-codes the segment `rules` and never opens an sgconfig. They agree only because the single sgconfig in the tree happens to name its rule directory `rules`.
 
 # Evidence
 
-Read against `~/code` at `383bf60d35`.
+`infra/cluster-checks/src/lib/check-configs-ast-grep.ts` anchors on the config. `:11` declares the schema as `ruleDirs`, an array of strings. `:13`-`:19` globs `**/sgconfig.yml` and `**/sgconfig.yaml`. `:22`-`:31` parses `ruleDirs` out of each one and resolves every entry against that config's own directory. `:42`-`:56` then globs `${ruleDir}/*.yml` and `${ruleDir}/*.yaml`. The directory may carry any name the config gives it, and an entry containing a slash puts it more than one level below the config.
 
-`packages/infra/checks/src/lib/check-configs-ast-grep.ts`'s header closes: "Discovery anchors on `sgconfig.yml`, whose `ruleDirs` names where a package keeps its rules. That is the same anchor `check-yaml-usage` uses to recognise a rule file as used, so the repo holds one definition of the convention read by two consumers." Line 81 repeats it above the `findFiles` call: "Direct children only — the same shape `check-yaml-usage` recognises."
+`infra/cluster-checks/src/lib/yaml-usage.ts:150`-`:164` recognises the same files by shape alone. `isAstGrepRule` opens no sgconfig. It takes `parts.lastIndexOf("rules")`, refuses `-1` and `0`, refuses anything but `parts.length - 2`, then requires an `sgconfig.yml` or `sgconfig.yaml` exactly one level above that segment. A segment spelled literally `rules` is required, and `ruleDirs` is never read.
 
-Only the direct-child depth is shared. This file parses `ruleDirs:` out of each discovered sgconfig and globs `<ruleDir>/*.yml` and `*.yaml` beneath that config's directory, so a rule dir may be named anything and sit at any depth.
+One sgconfig survives in the tree, `infra/cluster-checks/sgconfig.yml`, whose entire body is `ruleDirs:` with the single entry `rules`. That word is the whole of the agreement. Rename it, and `check-configs-ast-grep` keeps discovering the files under the new name while `yaml-usage` stops recognising them as rules at all — every file under it then reads as orphaned yaml. Three files sit there now: `infra/cluster-checks/rules/mock-module-outside-test-file.yml`, `no-hardcoded-ast-grep-scan.yml` and `no-user-id-comparison-in-web-app.yml`.
 
-`isAstGrepRule` in `src/lib/yaml-usage.ts:74` opens no sgconfig. It takes `parts.lastIndexOf("rules")`, refuses `-1` and `0`, refuses anything but `parts.length - 2`, then tests for `sgconfig.yml`/`sgconfig.yaml` exactly one level above. A segment spelled literally `rules` is required; `ruleDirs` is never read.
+What holds the two together is a test rather than a shared definition. `infra/cluster-checks/src/lib/ast-grep-discovery.unit.test.ts:26`-`:30`, named "every rule lives under a `rules/` dir declared by a sibling sgconfig", asserts every discovered path matches `/\/rules\/[^/]+\.ya?ml$/`. That is what reddens on a rename instead of the two splitting in silence. The comment that named the hazard is gone; the test's own name is all that carries it.
 
-The two agree because both sgconfigs in the tree say the same word. `packages/infra/checks/sgconfig.yml` and `packages/infra/workflow-dsl/sgconfig.yml` are the only two, and each holds `ruleDirs:` with the single entry `rules`. Rename either and `check-configs-ast-grep` keeps discovering those rules while `check-yaml-usage` stops recognising them, so every rule file in that package reports as an orphan yaml.
-
-What holds them there is a test. `check-configs-ast-grep.unit.test.ts:36` asserts every discovered rule path matches `/\/rules\/[^/]+\.ya?ml$/`, under the comment: "If this drifts, the repo holds two definitions of one convention and rule files start reading as orphaned yaml." The test states as a hazard what the header states as settled, and it is why a rename reddens rather than splitting the two silently.
-
-Found ingesting `dirty/questions/code-repo-check-self-description.md`, now removed.
+Unmeasured. Nothing was run: the divergence is read off the two sources and the one config. Whether a second sgconfig is wanted, and which of the two definitions should give way, is not settled here.
