@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Compose a seat's system prompt: who it is, and the one read that loads what it is bound to",
-  repos: ["akasha"],
+  path: "seat boot",
 } as const
 
 import { writeFileSync } from "node:fs"
