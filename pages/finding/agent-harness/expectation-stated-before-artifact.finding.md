@@ -1,5 +1,6 @@
 ---
 id: 4f94585a-36e1-5887-be5d-8584cd75aff5
+slug: expectation-stated-before-artifact
 page-type-slug: finding
 title: "Expectation stated before artifact"
 domain-slug: domain/agent-harness

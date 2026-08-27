@@ -1,5 +1,6 @@
 ---
 id: 195b6e23-4263-504b-aa49-888beace2cbe
+slug: mailbox-row-typed-as-a-seat
 page-type-slug: finding
 title: "Mailbox row typed as a seat"
 domain-slug: domain/agent-harness

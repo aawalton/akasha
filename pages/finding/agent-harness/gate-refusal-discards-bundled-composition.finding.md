@@ -1,5 +1,6 @@
 ---
 id: 16c20af2-2fa5-5578-8e1a-eec992462c06
+slug: gate-refusal-discards-bundled-composition
 page-type-slug: finding
 title: "Gate refusal discards bundled composition"
 domain-slug: domain/agent-harness

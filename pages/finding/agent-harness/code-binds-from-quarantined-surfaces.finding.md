@@ -1,5 +1,6 @@
 ---
 id: bfc27d4e-be60-5e7a-a2af-a461271de7c0
+slug: code-binds-from-quarantined-surfaces
 page-type-slug: finding
 title: "Code binds from quarantined surfaces"
 domain-slug: domain/agent-harness

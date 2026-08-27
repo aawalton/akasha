@@ -1,5 +1,6 @@
 ---
 id: 3eea809a-7aa1-53a1-8985-20f020dab7cc
+slug: diagnostic-seat-bound-to-foreign-row
 page-type-slug: finding
 title: "Diagnostic seat bound to foreign row"
 domain-slug: domain/agent-harness

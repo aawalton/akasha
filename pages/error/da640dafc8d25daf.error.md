@@ -1,6 +1,7 @@
 ---
 page-type-slug: error
 id: 019f977f-b6b9-71b8-939f-041d22129817
+slug: da640dafc8d25daf
 title: "PanelCard is not defined"
 seq: 7957
 app: "temper"

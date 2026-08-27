@@ -1,5 +1,6 @@
 ---
 id: 4f081f05-af95-51f9-aeb3-e394b7e958b5
+slug: commit-guard-refuses-prose
 page-type-slug: finding
 title: "Commit guard refuses prose"
 domain-slug: domain/agent-harness

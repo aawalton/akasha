@@ -1,5 +1,6 @@
 ---
 id: 7f1ccd91-f958-554f-a63b-457f34628111
+slug: no-seat-on-this-workstation-receives-an-installed-plugin
 page-type-slug: finding
 title: "No seat on this workstation receives an installed plugin"
 domain-slug: domain/agent-harness

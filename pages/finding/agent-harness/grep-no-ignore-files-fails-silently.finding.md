@@ -1,5 +1,6 @@
 ---
 id: 3b38a969-6396-5359-a97c-1c6bcb680933
+slug: grep-no-ignore-files-fails-silently
 page-type-slug: finding
 title: "Grep no ignore files fails silently"
 domain-slug: domain/agent-harness

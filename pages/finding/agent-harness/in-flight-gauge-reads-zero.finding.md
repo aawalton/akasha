@@ -1,5 +1,6 @@
 ---
 id: 358d737b-76e9-51fd-b0cd-eae16f8d4f74
+slug: in-flight-gauge-reads-zero
 page-type-slug: finding
 title: "In flight gauge reads zero"
 domain-slug: domain/agent-harness

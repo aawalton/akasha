@@ -1,5 +1,6 @@
 ---
 id: 4a1c1a6f-2826-5feb-9f35-62a9e5815678
+slug: intent-clause-already-true
 page-type-slug: finding
 title: "Intent clause already true"
 domain-slug: domain/agent-harness

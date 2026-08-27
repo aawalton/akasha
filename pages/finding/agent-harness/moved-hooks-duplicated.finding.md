@@ -1,5 +1,6 @@
 ---
 id: 83433cfb-ca85-56fe-9504-151f359a3296
+slug: moved-hooks-duplicated
 page-type-slug: finding
 title: "Moved hooks duplicated"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 98fc9866-f5ad-55ef-ad82-67a1cadb667a
+slug: definition-names-two-concerns
 page-type-slug: finding
 title: "Definition names two concerns"
 domain-slug: domain/agent-harness

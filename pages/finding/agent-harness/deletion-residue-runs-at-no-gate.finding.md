@@ -1,5 +1,6 @@
 ---
 id: 483fe4f2-c72b-5d74-a02c-360f601eb27e
+slug: deletion-residue-runs-at-no-gate
 page-type-slug: finding
 title: "Deletion residue runs at no gate"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 551226e6-8225-521b-8c55-e8f0552e5c4d
+slug: fresh-provision-links-code-repo
 page-type-slug: finding
 title: "Fresh provision links code repo"
 domain-slug: domain/agent-harness

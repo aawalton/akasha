@@ -1,5 +1,6 @@
 ---
 id: b354c9ba-1922-5fbe-a706-f8b529e6f0d7
+slug: limit-death-predicate-names-its-own-verdict
 page-type-slug: finding
 title: "Limit death predicate names its own verdict"
 domain-slug: domain/agent-harness

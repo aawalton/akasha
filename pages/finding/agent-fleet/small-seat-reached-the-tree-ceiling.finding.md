@@ -1,5 +1,6 @@
 ---
 id: 34182de9-2bfd-57f4-83b4-f74c15a18da3
+slug: small-seat-reached-the-tree-ceiling
 page-type-slug: finding
 title: "Small seat reached the tree ceiling"
 domain-slug: domain/agent-fleet

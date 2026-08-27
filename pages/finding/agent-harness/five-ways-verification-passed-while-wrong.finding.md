@@ -1,5 +1,6 @@
 ---
 id: 1229e79c-33e5-5511-80d1-9673c2cd19b6
+slug: five-ways-verification-passed-while-wrong
 page-type-slug: finding
 title: "Five ways verification passed while wrong"
 domain-slug: domain/agent-harness

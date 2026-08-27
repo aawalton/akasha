@@ -1,6 +1,7 @@
 ---
 page-type-slug: error
 id: 019f28c5-eeea-7a8e-aeca-3d0e3cc8ad29
+slug: be7d3f9f4ccf098b
 title: "pages-ui-store: leader changed — replaying tab state into successor"
 seq: 2971
 app: "alanwalton"

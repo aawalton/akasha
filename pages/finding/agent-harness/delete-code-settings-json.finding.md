@@ -1,5 +1,6 @@
 ---
 id: c0563d30-a6f8-5878-9e55-ae9b677f639b
+slug: delete-code-settings-json
 page-type-slug: finding
 title: "Delete code settings JSON"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 1b97dc0e-ac64-5b39-a1a6-d1bd57889281
+slug: list-json-shape-omits-emitted-fields
 page-type-slug: finding
 title: "List JSON shape omits emitted fields"
 domain-slug: domain/agent-fleet

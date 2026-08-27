@@ -1,5 +1,6 @@
 ---
 id: 75f40260-ff51-5353-b589-94930480c212
+slug: channel-envelope-no-age
 page-type-slug: finding
 title: "Channel envelope no age"
 domain-slug: domain/agent-harness

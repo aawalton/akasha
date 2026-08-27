@@ -1,5 +1,6 @@
 ---
 id: f5b9bef4-d7a0-50da-9206-268e8e4ebf02
+slug: declared-model-comments-promise-a-helper-tier
 page-type-slug: finding
 title: "Declared model comments promise a helper tier"
 domain-slug: domain/agent-fleet

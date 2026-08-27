@@ -1,5 +1,6 @@
 ---
 id: 8dca9bb1-7f8b-5aaa-92f8-92f98696b8c3
+slug: halt-record-shape-uncovered-on-two-exits
 page-type-slug: finding
 title: "Halt record shape uncovered on two exits"
 domain-slug: domain/agent-harness

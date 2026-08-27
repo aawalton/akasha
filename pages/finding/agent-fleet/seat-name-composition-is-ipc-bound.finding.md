@@ -1,5 +1,6 @@
 ---
 id: d2795539-c79d-582c-8aa4-bf0be7961ecd
+slug: seat-name-composition-is-ipc-bound
 page-type-slug: finding
 title: "Seat name composition is ipc bound"
 domain-slug: domain/agent-fleet

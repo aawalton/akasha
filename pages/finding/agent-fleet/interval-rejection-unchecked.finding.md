@@ -1,5 +1,6 @@
 ---
 id: 25a2763f-cb2d-5659-b7b9-beba202bc514
+slug: interval-rejection-unchecked
 page-type-slug: finding
 title: "Interval rejection unchecked"
 domain-slug: domain/agent-fleet

@@ -1,5 +1,6 @@
 ---
 id: 9e97cb35-ef3b-5dbe-b5d9-b6747ecb015b
+slug: bash-server-shell-never-exits
 page-type-slug: finding
 title: "Bash server shell never exits"
 domain-slug: domain/agent-harness

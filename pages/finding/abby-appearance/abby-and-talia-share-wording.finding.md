@@ -1,5 +1,6 @@
 ---
 id: 2a1f48d7-6d49-5b8c-b84f-c4c9f5dfabd0
+slug: abby-and-talia-share-wording
 page-type-slug: finding
 title: "Abby and talia share wording"
 domain-slug: persona-appearance/abby-appearance

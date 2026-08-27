@@ -1,5 +1,6 @@
 ---
 id: 48c3b26e-54b1-5172-8cbc-3d3485c52c2a
+slug: launch-vocabulary-undeclared
 page-type-slug: finding
 title: "Launch vocabulary undeclared"
 domain-slug: domain/agent-harness

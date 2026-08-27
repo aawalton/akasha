@@ -1,5 +1,6 @@
 ---
 id: f747e4a7-0559-5166-b38c-ebc7da3841f4
+slug: cut-the-obvious-does-not-reach-portrait-prose
 page-type-slug: finding
 title: "Cut the obvious does not reach portrait prose"
 domain-slug: domain/agent-harness

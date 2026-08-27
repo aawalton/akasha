@@ -1,5 +1,6 @@
 ---
 id: cba8e3fa-a31f-5f3f-b05c-1ad73014d3cb
+slug: corpus-counts-depend-on-the-grep
 page-type-slug: finding
 title: "Corpus counts depend on the grep"
 domain-slug: domain/agent-harness

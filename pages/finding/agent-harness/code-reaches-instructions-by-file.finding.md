@@ -1,5 +1,6 @@
 ---
 id: 32202b79-c557-57b7-9411-5cca8f7de360
+slug: code-reaches-instructions-by-file
 page-type-slug: finding
 title: "Code reaches instructions by file"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 9f64cff3-1cd9-5e87-96b5-8d555fbccb4f
+slug: reaper-header-states-forbidden-ceiling
 page-type-slug: finding
 title: "Reaper header states forbidden ceiling"
 domain-slug: domain/agent-fleet

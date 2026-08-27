@@ -1,5 +1,6 @@
 ---
 id: 00235ad4-8901-5254-b43c-d17ad72b8008
+slug: defer-ceiling-comment-inverted
 page-type-slug: finding
 title: "Defer ceiling comment inverted"
 domain-slug: domain/agent-fleet

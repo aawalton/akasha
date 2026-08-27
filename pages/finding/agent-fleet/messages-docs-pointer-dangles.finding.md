@@ -1,5 +1,6 @@
 ---
 id: dbbea270-86ab-5ac3-9c46-ab5910aaa448
+slug: messages-docs-pointer-dangles
 page-type-slug: finding
 title: "Messages docs pointer dangles"
 domain-slug: domain/agent-fleet

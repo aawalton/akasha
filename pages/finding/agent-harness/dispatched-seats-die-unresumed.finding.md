@@ -1,5 +1,6 @@
 ---
 id: 790ccc11-3e63-5e23-a06b-9ee6ac86ea37
+slug: dispatched-seats-die-unresumed
 page-type-slug: finding
 title: "Dispatched seats die unresumed"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 1e290e18-f995-5640-aa00-9cebef60e970
+slug: complete-hides-failed-streams
 page-type-slug: finding
 title: "Complete hides failed streams"
 domain-slug: domain/agent-fleet

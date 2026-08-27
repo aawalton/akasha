@@ -1,5 +1,6 @@
 ---
 id: 238a7848-f13b-546c-a110-6f6de6a9c81c
+slug: arms-claim-outside-the-frame
 page-type-slug: finding
 title: "Arms claim outside the frame"
 domain-slug: persona-appearance/abby-appearance

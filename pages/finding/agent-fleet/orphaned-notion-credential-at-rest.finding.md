@@ -1,5 +1,6 @@
 ---
 id: 32638819-3219-50de-8ed6-3b8bbf7fea74
+slug: orphaned-notion-credential-at-rest
 page-type-slug: finding
 title: "Orphaned Notion credential at rest"
 domain-slug: domain/agent-fleet

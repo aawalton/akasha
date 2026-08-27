@@ -1,5 +1,6 @@
 ---
 id: fe4a5aa9-dff2-5b81-886a-a3cef6a9caca
+slug: section-govern-clause-restates
 page-type-slug: finding
 title: "Section govern clause restates"
 domain-slug: domain/global

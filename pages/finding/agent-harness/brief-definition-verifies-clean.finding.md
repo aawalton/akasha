@@ -1,5 +1,6 @@
 ---
 id: c12e0897-cd57-5072-b13e-892af9ffd76e
+slug: brief-definition-verifies-clean
 page-type-slug: finding
 title: "Brief definition verifies clean"
 domain-slug: domain/agent-harness

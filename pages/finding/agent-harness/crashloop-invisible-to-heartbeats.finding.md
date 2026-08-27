@@ -1,5 +1,6 @@
 ---
 id: 233c24d7-88f5-5226-ad9c-dab1ee127535
+slug: crashloop-invisible-to-heartbeats
 page-type-slug: finding
 title: "Crashloop invisible to heartbeats"
 domain-slug: domain/agent-harness

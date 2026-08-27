@@ -1,5 +1,6 @@
 ---
 id: 865bbdc0-ccba-5c26-b0a1-5a6733992aff
+slug: last-hook-wins-updated-input
 page-type-slug: finding
 title: "Last hook wins updated input"
 domain-slug: domain/agent-harness

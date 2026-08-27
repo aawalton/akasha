@@ -1,5 +1,6 @@
 ---
 id: 095ce2f6-230c-5cf2-a886-22ba7ef5669d
+slug: dormant-status-unwritten
 page-type-slug: finding
 title: "Dormant status unwritten"
 domain-slug: domain/agent-harness

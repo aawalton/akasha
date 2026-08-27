@@ -1,5 +1,6 @@
 ---
 id: 41ff74d6-09d1-54b9-92fa-daa342d8f24f
+slug: tier1-worktree-duplication
 page-type-slug: finding
 title: "Tier1 worktree duplication"
 domain-slug: domain/agent-context

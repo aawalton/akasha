@@ -1,5 +1,6 @@
 ---
 id: 60a0871d-8f9a-5228-b71d-77a8494c4fd3
+slug: dispatch-headroom-unenforced
 page-type-slug: finding
 title: "Dispatch headroom unenforced"
 domain-slug: domain/agent-fleet

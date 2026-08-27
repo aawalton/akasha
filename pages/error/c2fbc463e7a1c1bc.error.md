@@ -1,6 +1,7 @@
 ---
 page-type-slug: error
 id: 019f4f07-dfef-72b8-ae7d-414df1ade8d4
+slug: c2fbc463e7a1c1bc
 title: "[pages-cache] slug 'story-chapter' readiness overran 4000ms — degrading to the empty state"
 seq: 3580
 app: "alanwalton"

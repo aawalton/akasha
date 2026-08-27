@@ -1,5 +1,6 @@
 ---
 id: e9ab1d6e-2571-583c-89db-fc149fe032bb
+slug: one-relative-path-names-two-files
 page-type-slug: finding
 title: "One relative path names two files"
 domain-slug: domain/agent-evidence

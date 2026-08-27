@@ -1,5 +1,6 @@
 ---
 id: 95b72295-a872-5f33-977c-4a7b19e904c8
+slug: hook-stamp-advisory-cannot-see-a-parallel-batch
 page-type-slug: finding
 title: "Hook stamp advisory cannot see a parallel batch"
 domain-slug: domain/agent-harness

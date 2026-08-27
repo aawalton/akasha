@@ -1,5 +1,6 @@
 ---
 id: 4cc84d32-b671-5960-b294-125f816302cd
+slug: name-bind-reads-tree-from-pod
 page-type-slug: finding
 title: "Name bind reads tree from pod"
 domain-slug: domain/agent-harness

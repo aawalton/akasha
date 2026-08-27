@@ -1,5 +1,6 @@
 ---
 id: 7b245264-8361-5d9c-88a6-10a44df99f21
+slug: halt-guard-cannot-fire-off-the-stop-path
 page-type-slug: finding
 title: "Halt guard cannot fire off the stop path"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 86ce6caa-f313-5a6c-8d1e-ff3077f81801
+slug: blocked-warrant-self-named
 page-type-slug: finding
 title: "Blocked warrant self named"
 domain-slug: domain/agent-fleet

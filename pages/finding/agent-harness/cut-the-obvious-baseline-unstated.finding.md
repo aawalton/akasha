@@ -1,5 +1,6 @@
 ---
 id: d5544692-b6c4-5171-8614-7f2812c5d36e
+slug: cut-the-obvious-baseline-unstated
 page-type-slug: finding
 title: "Cut the obvious baseline unstated"
 domain-slug: domain/agent-harness

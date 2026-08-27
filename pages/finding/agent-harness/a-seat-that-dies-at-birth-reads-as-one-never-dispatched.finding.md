@@ -1,5 +1,6 @@
 ---
 id: 5d9aa639-296c-52ed-9a09-cb72e6b4013a
+slug: a-seat-that-dies-at-birth-reads-as-one-never-dispatched
 page-type-slug: finding
 title: "A seat that dies at birth reads as one never dispatched"
 domain-slug: domain/agent-harness

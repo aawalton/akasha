@@ -1,5 +1,6 @@
 ---
 id: d88323c3-4d19-5bfd-bb8b-e4aee1ba4ed5
+slug: guard-name-narrower-than-cover
 page-type-slug: finding
 title: "Guard name narrower than cover"
 domain-slug: domain/agent-harness

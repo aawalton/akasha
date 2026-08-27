@@ -1,5 +1,6 @@
 ---
 id: c2174464-e4a4-5298-9ccf-38043f414c28
+slug: proxy-rebind-orchestrators-untested
 page-type-slug: finding
 title: "Proxy rebind orchestrators untested"
 domain-slug: domain/agent-fleet

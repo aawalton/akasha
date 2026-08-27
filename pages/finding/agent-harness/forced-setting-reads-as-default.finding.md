@@ -1,5 +1,6 @@
 ---
 id: cd1107d3-556c-51e2-a4d2-6564e9fbe994
+slug: forced-setting-reads-as-default
 page-type-slug: finding
 title: "Forced setting reads as default"
 domain-slug: domain/agent-harness

@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: ab6d4e42-ade9-5027-8811-124a70d13e13
+slug: category-rule-kind-key-rides-the-stale-glob
 title: "Category rule kind key rides the stale glob"
 domain-slug: domain/agent-harness
 ---

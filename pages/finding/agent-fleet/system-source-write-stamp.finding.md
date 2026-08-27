@@ -1,5 +1,6 @@
 ---
 id: c26ae9d2-42f1-55fd-bdac-a69d883a37e4
+slug: system-source-write-stamp
 page-type-slug: finding
 title: "System source write stamp"
 domain-slug: domain/agent-fleet

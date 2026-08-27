@@ -1,5 +1,6 @@
 ---
 id: ea71364e-52b4-52f2-9f89-267c3a79dc02
+slug: date-bump-charges-a-reread
 page-type-slug: finding
 title: "Date bump charges a reread"
 domain-slug: domain/global

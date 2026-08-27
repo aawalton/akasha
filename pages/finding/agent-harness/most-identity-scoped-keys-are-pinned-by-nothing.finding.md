@@ -1,5 +1,6 @@
 ---
 id: eaf6641f-982d-5fcb-8c97-33655cb8c116
+slug: most-identity-scoped-keys-are-pinned-by-nothing
 page-type-slug: finding
 title: "Most identity scoped keys are pinned by nothing"
 domain-slug: domain/agent-harness

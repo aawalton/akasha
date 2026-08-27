@@ -1,5 +1,6 @@
 ---
 id: 35e805d6-5c1d-5317-a5cf-26d959b3f769
+slug: import-search-cannot-see-the-seam
 page-type-slug: finding
 title: "Import search cannot see the seam"
 domain-slug: domain/agent-harness

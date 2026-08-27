@@ -1,5 +1,6 @@
 ---
 id: 31f03bb1-b9f1-5b5f-83bb-f833721ed19a
+slug: acquire-discards-requested-name
 page-type-slug: finding
 title: "Acquire discards requested name"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 3330622b-f151-54b2-9528-15315a7d334a
+slug: governable-repos-outrun-gated
 page-type-slug: finding
 title: "Governable repos outrun gated"
 domain-slug: domain/global

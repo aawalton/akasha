@@ -1,5 +1,6 @@
 ---
 id: 747d2531-5790-57f7-8376-244cf87a45f6
+slug: composed-does-not-stand-aside-for-read-before-write
 page-type-slug: finding
 title: "Composed does not stand aside for read-before-write"
 domain-slug: domain/agent-harness

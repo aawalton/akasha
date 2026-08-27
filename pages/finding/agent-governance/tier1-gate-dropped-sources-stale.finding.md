@@ -1,5 +1,6 @@
 ---
 id: c504d8b5-b79e-560e-89bc-46b0d6148390
+slug: tier1-gate-dropped-sources-stale
 page-type-slug: finding
 title: "Tier1 gate dropped sources stale"
 domain-slug: domain/global

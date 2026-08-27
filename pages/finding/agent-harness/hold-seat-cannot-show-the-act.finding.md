@@ -1,5 +1,6 @@
 ---
 id: 83ed2c93-98fa-5f6c-900b-2ba76e3851b6
+slug: hold-seat-cannot-show-the-act
 page-type-slug: finding
 title: "Hold seat cannot show the act"
 domain-slug: domain/agent-harness

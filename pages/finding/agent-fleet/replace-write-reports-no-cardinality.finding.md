@@ -1,5 +1,6 @@
 ---
 id: 4a9ec9ff-ba51-5652-9bfe-cac2ca48f0ba
+slug: replace-write-reports-no-cardinality
 page-type-slug: finding
 title: "Replace write reports no cardinality"
 domain-slug: domain/agent-fleet

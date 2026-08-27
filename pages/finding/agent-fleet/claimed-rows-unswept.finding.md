@@ -1,5 +1,6 @@
 ---
 id: 121c6e43-f47e-52af-ba6d-9de373747c90
+slug: claimed-rows-unswept
 page-type-slug: finding
 title: "Claimed rows unswept"
 domain-slug: domain/agent-fleet

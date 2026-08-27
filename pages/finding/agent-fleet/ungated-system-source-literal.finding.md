@@ -1,5 +1,6 @@
 ---
 id: 0ab8b083-7041-542a-8809-523402158c23
+slug: ungated-system-source-literal
 page-type-slug: finding
 title: "Ungated system source literal"
 domain-slug: domain/agent-fleet

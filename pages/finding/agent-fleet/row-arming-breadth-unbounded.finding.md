@@ -1,5 +1,6 @@
 ---
 id: 58ba68b1-3f89-5e1c-97e0-a16492a3d74d
+slug: row-arming-breadth-unbounded
 page-type-slug: finding
 title: "Row arming breadth unbounded"
 domain-slug: domain/agent-fleet

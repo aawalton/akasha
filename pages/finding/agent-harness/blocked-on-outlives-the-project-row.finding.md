@@ -1,5 +1,6 @@
 ---
 id: c44b14f6-f8b3-57af-ac25-d4b159625951
+slug: blocked-on-outlives-the-project-row
 page-type-slug: finding
 title: "Blocked on outlives the project row"
 domain-slug: domain/agent-harness

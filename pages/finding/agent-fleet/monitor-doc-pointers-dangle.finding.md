@@ -1,5 +1,6 @@
 ---
 id: e8fe5b50-eaf4-5e95-9190-3d754394ecfd
+slug: monitor-doc-pointers-dangle
 page-type-slug: finding
 title: "Monitor doc pointers dangle"
 domain-slug: domain/agent-fleet

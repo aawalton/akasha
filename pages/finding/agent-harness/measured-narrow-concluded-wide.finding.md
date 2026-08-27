@@ -1,5 +1,6 @@
 ---
 id: 92ae76fb-b8f3-5efc-b7f9-7774e68fd1e7
+slug: measured-narrow-concluded-wide
 page-type-slug: finding
 title: "Measured narrow concluded wide"
 domain-slug: domain/agent-harness

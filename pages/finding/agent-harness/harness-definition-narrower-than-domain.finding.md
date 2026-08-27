@@ -1,5 +1,6 @@
 ---
 id: e44b38a6-d9cb-55de-8699-692c40de17ae
+slug: harness-definition-narrower-than-domain
 page-type-slug: finding
 title: "Harness definition narrower than domain"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: c5c60102-f9b6-5fff-b941-704a6aae31e2
+slug: crossings-compose-paths-not-verbs
 page-type-slug: finding
 title: "Crossings compose paths not verbs"
 domain-slug: domain/agent-harness

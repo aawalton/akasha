@@ -1,5 +1,6 @@
 ---
 id: 6c89e35e-e8e9-59f4-9fcc-a8a747cdcd7b
+slug: harness-checks-population-21
 page-type-slug: finding
 title: "Harness checks population 21"
 domain-slug: domain/agent-harness

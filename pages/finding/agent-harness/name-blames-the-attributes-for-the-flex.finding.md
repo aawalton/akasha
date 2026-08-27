@@ -1,5 +1,6 @@
 ---
 id: 1c562126-d457-5ace-8fc0-7cc39b2843fa
+slug: name-blames-the-attributes-for-the-flex
 page-type-slug: finding
 title: "Name blames the attributes for the flex"
 domain-slug: domain/agent-harness

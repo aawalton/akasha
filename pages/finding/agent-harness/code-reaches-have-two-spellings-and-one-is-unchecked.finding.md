@@ -1,5 +1,6 @@
 ---
 id: 2c5d4847-e388-5628-b115-6119e24c4a3f
+slug: code-reaches-have-two-spellings-and-one-is-unchecked
 page-type-slug: finding
 title: "Code reaches have two spellings and one is unchecked"
 domain-slug: domain/agent-harness

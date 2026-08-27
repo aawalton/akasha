@@ -1,5 +1,6 @@
 ---
 id: 7649a2a7-01af-5ae3-a19a-4b8252ce4c6e
+slug: block-record-outlives-its-only-clearer
 page-type-slug: finding
 title: "Block record outlives its only clearer"
 domain-slug: domain/agent-harness

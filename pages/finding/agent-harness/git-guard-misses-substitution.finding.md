@@ -1,5 +1,6 @@
 ---
 id: 49ba25bf-cce0-5fe2-9716-1d968003a017
+slug: git-guard-misses-substitution
 page-type-slug: finding
 title: "Git guard misses substitution"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 0f4b26a1-fe87-50ef-ab0f-f219a486fe16
+slug: live-path-unattested
 page-type-slug: finding
 title: "Live path unattested"
 domain-slug: domain/global

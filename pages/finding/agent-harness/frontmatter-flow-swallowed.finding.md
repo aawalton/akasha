@@ -1,5 +1,6 @@
 ---
 id: 65ff0207-6717-5631-be01-61b89ec0eece
+slug: frontmatter-flow-swallowed
 page-type-slug: finding
 title: "Frontmatter flow swallowed"
 domain-slug: domain/agent-harness

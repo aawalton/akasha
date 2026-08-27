@@ -1,5 +1,6 @@
 ---
 id: 87c9f517-2018-5225-8d24-c705e3bfe98f
+slug: reachable-only-by-pin
 page-type-slug: finding
 title: "Reachable only by pin"
 domain-slug: domain/global

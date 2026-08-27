@@ -1,5 +1,6 @@
 ---
 id: d768baee-8a32-5cd4-bf71-17c6603a7e74
+slug: brief-principal-frozen
 page-type-slug: finding
 title: "Brief principal frozen"
 domain-slug: domain/agent-harness

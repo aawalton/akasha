@@ -1,5 +1,6 @@
 ---
 id: c9446e4d-67bf-5b84-8821-26ce7a6541ce
+slug: decider-blocked-by-receiving-ceiling
 page-type-slug: finding
 title: "Decider blocked by receiving ceiling"
 domain-slug: domain/agent-harness

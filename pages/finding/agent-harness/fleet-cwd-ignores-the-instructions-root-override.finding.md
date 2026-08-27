@@ -1,5 +1,6 @@
 ---
 id: f3243811-1fc0-5a4c-8eb9-1149d216ec07
+slug: fleet-cwd-ignores-the-instructions-root-override
 page-type-slug: finding
 title: "Fleet cwd ignores the instructions root override"
 domain-slug: domain/agent-harness

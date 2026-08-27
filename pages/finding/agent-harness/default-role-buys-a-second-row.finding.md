@@ -1,5 +1,6 @@
 ---
 id: a86df5a0-39d4-5d8c-8298-1f913706d1e0
+slug: default-role-buys-a-second-row
 page-type-slug: finding
 title: "Default role buys a second row"
 domain-slug: domain/agent-harness

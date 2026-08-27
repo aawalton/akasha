@@ -1,5 +1,6 @@
 ---
 id: b778c279-d417-57df-81b4-4b71679c6b70
+slug: liveness-rule-move-waits-18892
 page-type-slug: finding
 title: "Liveness rule move waits 18892"
 domain-slug: domain/agent-harness

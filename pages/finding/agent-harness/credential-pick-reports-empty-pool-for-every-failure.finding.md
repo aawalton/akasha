@@ -1,5 +1,6 @@
 ---
 id: 43f574c4-d7c6-53dc-8174-833efb2560c8
+slug: credential-pick-reports-empty-pool-for-every-failure
 page-type-slug: finding
 title: "Credential pick reports empty pool for every failure"
 domain-slug: domain/agent-harness

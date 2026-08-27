@@ -1,5 +1,6 @@
 ---
 id: 48ef1e47-3f02-5308-9844-e3114bac47e5
+slug: spawn-backend-override-lapses-on-revive
 page-type-slug: finding
 title: "Spawn backend override lapses on revive"
 domain-slug: domain/agent-fleet

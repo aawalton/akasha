@@ -1,5 +1,6 @@
 ---
 id: cefeee46-63ab-5a7e-b297-e8db006812c4
+slug: rc-default-still-matches-the-whole-name
 page-type-slug: finding
 title: "Rc default still matches the whole name"
 domain-slug: domain/agent-fleet

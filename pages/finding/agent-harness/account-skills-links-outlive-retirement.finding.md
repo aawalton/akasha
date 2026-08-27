@@ -1,5 +1,6 @@
 ---
 id: aedb01e8-372d-5cc2-ae35-f16adba9dd86
+slug: account-skills-links-outlive-retirement
 page-type-slug: finding
 title: "Account skills links outlive retirement"
 domain-slug: domain/agent-harness

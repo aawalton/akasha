@@ -1,5 +1,6 @@
 ---
 id: d40924f1-d8ea-56cd-b47d-1ad494311734
+slug: guards-off-the-name
 page-type-slug: finding
 title: "Guards off the name"
 domain-slug: domain/global

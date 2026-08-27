@@ -1,5 +1,6 @@
 ---
 id: 9fab7118-5f7e-592d-8dbd-def274075e47
+slug: duplicate-hook-scripts-unmeasured
 page-type-slug: finding
 title: "Duplicate hook scripts unmeasured"
 domain-slug: domain/agent-harness

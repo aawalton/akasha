@@ -1,5 +1,6 @@
 ---
 id: cd70de1e-e011-5903-9652-5dd938a1b81a
+slug: read-failure-clear-advances-wedge-latch
 page-type-slug: finding
 title: "Read failure clear advances wedge latch"
 domain-slug: domain/agent-fleet

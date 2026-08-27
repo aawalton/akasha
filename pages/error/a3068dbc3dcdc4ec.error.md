@@ -1,6 +1,7 @@
 ---
 page-type-slug: error
 id: 019f500b-cfb5-71f6-9576-825fca03ce8d
+slug: a3068dbc3dcdc4ec
 title: "[pages-cache] slug 'temper-companion-progress' readiness overran 4000ms — degrading to the empty state"
 seq: 3655
 app: "temper"

@@ -1,5 +1,6 @@
 ---
 id: 85e59d75-bb32-587c-979b-f8ea14f45cf3
+slug: inbox-drains-what-it-truncates
 page-type-slug: finding
 title: "Inbox drains what it truncates"
 domain-slug: domain/agent-harness

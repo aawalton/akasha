@@ -1,5 +1,6 @@
 ---
 id: 01779f3d-fd69-528c-9061-c36dbf3eafe9
+slug: definition-reads-two-ways
 page-type-slug: finding
 title: "Definition reads two ways"
 domain-slug: domain/global

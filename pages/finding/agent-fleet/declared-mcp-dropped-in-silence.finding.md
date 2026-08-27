@@ -1,5 +1,6 @@
 ---
 id: e07588bd-f6a8-512f-802b-5a3095a6776e
+slug: declared-mcp-dropped-in-silence
 page-type-slug: finding
 title: "Declared MCP dropped in silence"
 domain-slug: domain/agent-fleet

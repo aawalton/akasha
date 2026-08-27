@@ -1,5 +1,6 @@
 ---
 id: 1b470db4-505b-5cae-bf3a-85b36aedb2e1
+slug: redelivery-sweep-excludes-its-own-boot-race
 page-type-slug: finding
 title: "Redelivery sweep excludes its own boot race"
 domain-slug: domain/agent-fleet

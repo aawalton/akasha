@@ -1,5 +1,6 @@
 ---
 id: b514cdbd-7034-55d7-91fd-7a763e86557f
+slug: context-exhausted-mid-work
 page-type-slug: finding
 title: "Context exhausted mid work"
 domain-slug: domain/agent-context

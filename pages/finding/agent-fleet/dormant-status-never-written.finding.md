@@ -1,5 +1,6 @@
 ---
 id: edc0e4fe-fecb-5680-b276-584ef74e358a
+slug: dormant-status-never-written
 page-type-slug: finding
 title: "Dormant status never written"
 domain-slug: domain/agent-fleet

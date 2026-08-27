@@ -1,5 +1,6 @@
 ---
 id: 2b6ab6d1-0df3-58dc-a68d-b45acb64bfe6
+slug: waker-not-read-only
 page-type-slug: finding
 title: "Waker not read only"
 domain-slug: domain/agent-fleet

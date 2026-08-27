@@ -1,5 +1,6 @@
 ---
 id: 8f2463f9-982f-5c66-a85a-ac5eea4aac04
+slug: messages-written-outside-send
 page-type-slug: finding
 title: "Messages written outside send"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 19cbb3d9-91ca-5fe7-ad54-1b46dfb8d2b0
+slug: an-instruction-producing-evidence-must-name-its-destination
 page-type-slug: finding
 title: "An instruction producing evidence must name its destination"
 domain-slug: domain/agent-harness

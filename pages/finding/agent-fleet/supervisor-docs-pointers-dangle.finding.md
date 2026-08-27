@@ -1,5 +1,6 @@
 ---
 id: 05e95a23-e834-51fc-a987-9b57dc154c3f
+slug: supervisor-docs-pointers-dangle
 page-type-slug: finding
 title: "Supervisor docs pointers dangle"
 domain-slug: domain/agent-fleet

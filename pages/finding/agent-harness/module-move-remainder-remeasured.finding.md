@@ -1,5 +1,6 @@
 ---
 id: cf479306-27f5-5909-9a36-fa4922bdeafd
+slug: module-move-remainder-remeasured
 page-type-slug: finding
 title: "Module move remainder remeasured"
 domain-slug: domain/agent-harness

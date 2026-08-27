@@ -1,5 +1,6 @@
 ---
 id: 9dfb4ab4-41b2-532f-bd00-5e4e45a3070e
+slug: citation-module-prose-outlives-its-inventory
 page-type-slug: finding
 title: "Citation module prose outlives its inventory"
 domain-slug: domain/agent-harness

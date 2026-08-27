@@ -1,5 +1,6 @@
 ---
 id: 7d02f770-3815-5153-9d3a-b6d33f150252
+slug: parsimony-yield-by-surface
 page-type-slug: finding
 title: "Parsimony yield by surface"
 domain-slug: domain/agent-context

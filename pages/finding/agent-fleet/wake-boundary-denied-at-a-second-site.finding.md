@@ -1,5 +1,6 @@
 ---
 id: f4287cc2-2204-5763-9f8d-86d891740334
+slug: wake-boundary-denied-at-a-second-site
 page-type-slug: finding
 title: "Wake boundary denied at a second site"
 domain-slug: domain/agent-fleet

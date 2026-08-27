@@ -1,5 +1,6 @@
 ---
 id: 78b796eb-ed7b-5675-9568-c66fb7fc4095
+slug: per-tree-kill-sums-shared-pages
 page-type-slug: finding
 title: "Per tree kill sums shared pages"
 domain-slug: domain/agent-fleet

@@ -1,5 +1,6 @@
 ---
 id: 193a4bb4-248e-536f-9e29-7fffb5c302eb
+slug: instructions-caller-outruns-code-deploy
 page-type-slug: finding
 title: "Instructions caller outruns code deploy"
 domain-slug: domain/agent-harness

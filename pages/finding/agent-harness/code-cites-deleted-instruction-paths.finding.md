@@ -1,5 +1,6 @@
 ---
 id: 197980cf-879d-5fc3-b1ff-3ece334297e9
+slug: code-cites-deleted-instruction-paths
 page-type-slug: finding
 title: "Code cites deleted instruction paths"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 5b3bdfba-cf72-5b8d-92a2-e2c40adcebb8
+slug: clean-close-reads-as-crash
 page-type-slug: finding
 title: "Clean close reads as crash"
 domain-slug: domain/agent-harness

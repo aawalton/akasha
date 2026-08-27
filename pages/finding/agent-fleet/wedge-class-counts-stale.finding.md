@@ -1,5 +1,6 @@
 ---
 id: 80762ead-bb0c-5dfd-add9-351b7e493306
+slug: wedge-class-counts-stale
 page-type-slug: finding
 title: "Wedge class counts stale"
 domain-slug: domain/agent-fleet

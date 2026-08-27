@@ -1,5 +1,6 @@
 ---
 id: fb8606ae-7d95-5d83-bf6b-3a78554c352d
+slug: retired-principle-cited-in-code
 page-type-slug: finding
 title: "Retired principle cited in code"
 domain-slug: domain/agent-fleet

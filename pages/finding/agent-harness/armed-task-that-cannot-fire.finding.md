@@ -1,5 +1,6 @@
 ---
 id: 2f8312b3-f1e9-5a92-a8d2-5e9438889a75
+slug: armed-task-that-cannot-fire
 page-type-slug: finding
 title: "Armed task that cannot fire"
 domain-slug: domain/agent-harness

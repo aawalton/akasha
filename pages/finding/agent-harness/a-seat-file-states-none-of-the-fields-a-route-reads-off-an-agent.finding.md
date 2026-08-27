@@ -1,5 +1,6 @@
 ---
 id: 538c7061-ccd1-5409-a3a2-7c32a16d5736
+slug: a-seat-file-states-none-of-the-fields-a-route-reads-off-an-agent
 page-type-slug: finding
 title: "A seat file states none of the fields a route reads off an agent"
 domain-slug: domain/agent-harness

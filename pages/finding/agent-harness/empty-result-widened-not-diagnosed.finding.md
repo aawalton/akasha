@@ -1,5 +1,6 @@
 ---
 id: 9f507435-bbd1-5ac7-b9e0-ed0fb7eb2e46
+slug: empty-result-widened-not-diagnosed
 page-type-slug: finding
 title: "Empty result widened not diagnosed"
 domain-slug: domain/agent-harness

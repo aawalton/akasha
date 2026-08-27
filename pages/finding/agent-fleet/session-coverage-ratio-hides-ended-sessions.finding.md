@@ -1,5 +1,6 @@
 ---
 id: cb2a2827-8931-5466-b15e-497921e3004e
+slug: session-coverage-ratio-hides-ended-sessions
 page-type-slug: finding
 title: "Session coverage ratio hides ended sessions"
 domain-slug: domain/agent-fleet

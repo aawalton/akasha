@@ -1,5 +1,6 @@
 ---
 id: 012a125a-feb2-5b85-accb-accd30a8a0d7
+slug: rc-socket-comments-claim-interactive-only
 page-type-slug: finding
 title: "Rc socket comments claim interactive only"
 domain-slug: domain/agent-fleet

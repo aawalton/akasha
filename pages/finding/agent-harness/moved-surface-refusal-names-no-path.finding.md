@@ -1,5 +1,6 @@
 ---
 id: 21d1b4d2-e10b-58b1-b079-6bcb8773523d
+slug: moved-surface-refusal-names-no-path
 page-type-slug: finding
 title: "Moved surface refusal names no path"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 87b236e0-b7fe-570c-9627-5b5e5dd48f5a
+slug: boot-scratch-in-tmpfs
 page-type-slug: finding
 title: "Boot scratch in tmpfs"
 domain-slug: domain/agent-harness

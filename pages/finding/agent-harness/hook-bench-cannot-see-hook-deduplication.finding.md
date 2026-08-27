@@ -1,5 +1,6 @@
 ---
 id: 49ea6b4a-822a-5631-befa-43e9a7be89ec
+slug: hook-bench-cannot-see-hook-deduplication
 page-type-slug: finding
 title: "Hook bench cannot see hook deduplication"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: ed7026db-e045-58a0-8838-f8bc9238a7b9
+slug: editor-extension-single-fails-then-clears
 page-type-slug: finding
 title: "Editor extension single fails then clears"
 domain-slug: domain/agent-harness

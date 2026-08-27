@@ -1,5 +1,6 @@
 ---
 id: cd8231cb-c6cc-511d-8b78-1bfb77c14d93
+slug: domain-slugs-in-code-tests
 page-type-slug: finding
 title: "Domain slugs in code tests"
 domain-slug: domain/agent-fleet

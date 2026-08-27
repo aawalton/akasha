@@ -1,5 +1,6 @@
 ---
 id: 62c37e4e-2c6c-51d2-b8a1-812fb728bfb2
+slug: custody-live-in-harness
 page-type-slug: finding
 title: "Custody live in harness"
 domain-slug: domain/agent-harness

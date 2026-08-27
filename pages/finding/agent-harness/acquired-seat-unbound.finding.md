@@ -1,5 +1,6 @@
 ---
 id: 9dc40755-1703-550d-9ee5-ea1c4422b505
+slug: acquired-seat-unbound
 page-type-slug: finding
 title: "Acquired seat unbound"
 domain-slug: domain/agent-harness

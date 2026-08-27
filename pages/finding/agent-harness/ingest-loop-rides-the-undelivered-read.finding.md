@@ -1,5 +1,6 @@
 ---
 id: 952dfa62-cfc6-52f6-9915-167f27a870b3
+slug: ingest-loop-rides-the-undelivered-read
 page-type-slug: finding
 title: "Ingest loop rides the undelivered read"
 domain-slug: domain/agent-harness

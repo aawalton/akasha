@@ -1,5 +1,6 @@
 ---
 id: b334c33b-0256-5529-af7e-8fd27f2bfe88
+slug: help-text-cites-quarantined-documents
 page-type-slug: finding
 title: "Help text cites quarantined documents"
 domain-slug: domain/agent-harness

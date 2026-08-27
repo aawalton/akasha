@@ -1,6 +1,7 @@
 ---
 page-type-slug: error
 id: 01a01d7f-6404-770c-956e-fc408cc7f6dd
+slug: be3ba2965d3ec4da
 seq: 13702
 title: pageTypeSlug is not defined
 app: alanwalton

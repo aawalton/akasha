@@ -1,5 +1,6 @@
 ---
 id: 91094fb1-d18a-55eb-9b12-00854b4408e0
+slug: claimed-message-never-reaches-the-model
 page-type-slug: finding
 title: "Claimed message never reaches the model"
 domain-slug: domain/agent-harness

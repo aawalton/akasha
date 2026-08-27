@@ -1,5 +1,6 @@
 ---
 id: 99fb64db-c406-5cb7-97a3-ea375d57d4f9
+slug: claim-docstring-pre-split-status
 page-type-slug: finding
 title: "Claim docstring pre split status"
 domain-slug: domain/agent-fleet

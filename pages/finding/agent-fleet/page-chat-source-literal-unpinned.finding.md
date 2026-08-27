@@ -1,5 +1,6 @@
 ---
 id: f7a5e016-138d-59d4-8d5e-2b031a0d0476
+slug: page-chat-source-literal-unpinned
 page-type-slug: finding
 title: "Page chat source literal unpinned"
 domain-slug: domain/agent-fleet

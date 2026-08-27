@@ -1,5 +1,6 @@
 ---
 id: 0c3776b1-d072-54f9-91ad-9e63d3b43cb1
+slug: respawn-crash-burst-filters-unemitted-cause
 page-type-slug: finding
 title: "Respawn crash burst filters unemitted cause"
 domain-slug: domain/agent-fleet

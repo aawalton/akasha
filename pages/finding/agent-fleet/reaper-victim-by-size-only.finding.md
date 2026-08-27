@@ -1,5 +1,6 @@
 ---
 id: 0f27a1d9-837a-5d98-ab80-5c81cb3b2fa8
+slug: reaper-victim-by-size-only
 page-type-slug: finding
 title: "Reaper victim by size only"
 domain-slug: domain/agent-fleet

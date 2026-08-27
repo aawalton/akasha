@@ -1,5 +1,6 @@
 ---
 id: 24e3762c-60a2-53b7-83ce-9569130c1c60
+slug: daemon-unit-claude-path-unguarded
 page-type-slug: finding
 title: "Daemon unit Claude path unguarded"
 domain-slug: domain/agent-harness

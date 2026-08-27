@@ -1,5 +1,6 @@
 ---
 id: 0374c74f-c28d-58cf-962b-ea5f27d05471
+slug: harness-repository-intent-doubled
 page-type-slug: finding
 title: "Harness repository intent doubled"
 domain-slug: domain/agent-harness

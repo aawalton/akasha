@@ -1,5 +1,6 @@
 ---
 id: 6c78add4-22e1-5ab5-ae82-3128f1c5cccd
+slug: halt-hook-coverage-narrower-than-registration
 page-type-slug: finding
 title: "Halt hook coverage narrower than registration"
 domain-slug: domain/agent-harness

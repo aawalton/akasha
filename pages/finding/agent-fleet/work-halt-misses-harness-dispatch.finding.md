@@ -1,5 +1,6 @@
 ---
 id: 01cd00a4-2293-5414-978d-99cd50fe32aa
+slug: work-halt-misses-harness-dispatch
 page-type-slug: finding
 title: "Work halt misses harness dispatch"
 domain-slug: domain/agent-fleet

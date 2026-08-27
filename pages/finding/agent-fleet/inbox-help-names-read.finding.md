@@ -1,5 +1,6 @@
 ---
 id: 70867830-bc76-5c68-9a32-ae2fef9cb0ce
+slug: inbox-help-names-read
 page-type-slug: finding
 title: "Inbox help names read"
 domain-slug: domain/agent-fleet

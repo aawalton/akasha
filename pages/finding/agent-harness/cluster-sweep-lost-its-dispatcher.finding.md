@@ -1,5 +1,6 @@
 ---
 id: 1ec363de-eae5-543d-b7f0-06950ee8d6b4
+slug: cluster-sweep-lost-its-dispatcher
 page-type-slug: finding
 title: "Cluster sweep lost its dispatcher"
 domain-slug: domain/agent-harness

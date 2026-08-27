@@ -1,5 +1,6 @@
 ---
 id: 3556bcc7-dc53-5bb5-afd1-c204369eeb8d
+slug: disconnect-artifact-unmarked
 page-type-slug: finding
 title: "Disconnect artifact unmarked"
 domain-slug: domain/agent-fleet

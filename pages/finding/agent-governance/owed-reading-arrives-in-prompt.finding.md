@@ -1,5 +1,6 @@
 ---
 id: 07b5bae2-1328-5743-b2fa-f60a28e67d45
+slug: owed-reading-arrives-in-prompt
 page-type-slug: finding
 title: "Owed reading arrives in prompt"
 domain-slug: domain/global

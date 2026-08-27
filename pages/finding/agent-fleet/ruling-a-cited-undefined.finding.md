@@ -1,5 +1,6 @@
 ---
 id: 67840c41-9f92-5f9e-9190-706907456bf6
+slug: ruling-a-cited-undefined
 page-type-slug: finding
 title: "Ruling a cited undefined"
 domain-slug: domain/agent-fleet

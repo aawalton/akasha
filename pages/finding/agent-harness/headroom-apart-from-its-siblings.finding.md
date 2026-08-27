@@ -1,5 +1,6 @@
 ---
 id: b8e21339-5008-5094-aad7-067c2d90f624
+slug: headroom-apart-from-its-siblings
 page-type-slug: finding
 title: "Headroom apart from its siblings"
 domain-slug: domain/agent-harness

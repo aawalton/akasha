@@ -1,5 +1,6 @@
 ---
 id: 3dff12b9-acb1-57dd-ba15-7fab8153441d
+slug: a-distillation-pass-charges-every-pinned-reader
 page-type-slug: finding
 title: "A distillation pass charges every pinned reader"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 20b0d04a-4ef0-5f94-859c-632d07f2572a
+slug: clear-rebind-reads-two-of-seven-slots
 page-type-slug: finding
 title: "Clear rebind reads two of seven slots"
 domain-slug: domain/agent-harness

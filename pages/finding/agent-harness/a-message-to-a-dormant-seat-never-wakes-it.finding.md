@@ -1,5 +1,6 @@
 ---
 id: e4c9231a-c2f4-5db7-b769-297f91ec10a7
+slug: a-message-to-a-dormant-seat-never-wakes-it
 page-type-slug: finding
 title: "A message to a dormant seat never wakes it"
 domain-slug: domain/agent-harness

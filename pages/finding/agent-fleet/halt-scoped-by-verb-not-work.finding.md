@@ -1,5 +1,6 @@
 ---
 id: 339e4922-e7e7-548a-89b2-2109870bae34
+slug: halt-scoped-by-verb-not-work
 page-type-slug: finding
 title: "Halt scoped by verb not work"
 domain-slug: domain/agent-fleet

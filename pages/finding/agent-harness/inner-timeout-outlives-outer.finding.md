@@ -1,5 +1,6 @@
 ---
 id: 85a6024b-2442-5e3f-9a5f-bc173aa58c1f
+slug: inner-timeout-outlives-outer
 page-type-slug: finding
 title: "Inner timeout outlives outer"
 domain-slug: domain/agent-harness

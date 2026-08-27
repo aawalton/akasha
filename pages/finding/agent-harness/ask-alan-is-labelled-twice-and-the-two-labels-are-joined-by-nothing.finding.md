@@ -1,5 +1,6 @@
 ---
 id: ec811eeb-987f-5f51-bc03-d754ae8f80f6
+slug: ask-alan-is-labelled-twice-and-the-two-labels-are-joined-by-nothing
 page-type-slug: finding
 title: "Ask Alan is labelled twice and the two labels are joined by nothing"
 domain-slug: domain/agent-harness

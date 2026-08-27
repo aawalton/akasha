@@ -1,5 +1,6 @@
 ---
 id: 88f6b086-32d7-5b74-bd7d-b7f2e660ca90
+slug: explore-reaches-the-door
 page-type-slug: finding
 title: "Explore reaches the door"
 domain-slug: domain/agent-harness

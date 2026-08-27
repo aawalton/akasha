@@ -1,5 +1,6 @@
 ---
 id: 0c4b97af-6aea-553b-a733-093c869ed4cc
+slug: seat-half-unstated
 page-type-slug: finding
 title: "Seat half unstated"
 domain-slug: domain/global

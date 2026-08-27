@@ -1,5 +1,6 @@
 ---
 id: 24028c99-073c-53e9-b39d-6e65d40652a0
+slug: orphaned-four-signal-idle
 page-type-slug: finding
 title: "Orphaned four signal idle"
 domain-slug: domain/agent-fleet

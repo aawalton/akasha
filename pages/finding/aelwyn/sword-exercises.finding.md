@@ -1,5 +1,6 @@
 ---
 id: 2da035ea-a614-5819-97a1-9f4a1af13803
+slug: sword-exercises
 page-type-slug: finding
 title: "Sword exercises"
 domain-slug: persona/aelwyn

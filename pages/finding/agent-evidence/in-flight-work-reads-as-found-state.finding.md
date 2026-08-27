@@ -1,5 +1,6 @@
 ---
 id: c4b37943-8a8c-4be2-bded-9538faa3f713
+slug: in-flight-work-reads-as-found-state
 page-type-slug: finding
 title: "In-flight work reads as found state"
 domain-slug: domain/agent-evidence

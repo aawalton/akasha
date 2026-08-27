@@ -1,5 +1,6 @@
 ---
 id: 0d9e8776-60c8-5dd9-a6ee-d037afcf97a3
+slug: default-effort-auto-not-in-accepted-set
 page-type-slug: finding
 title: "Default effort auto not in accepted set"
 domain-slug: domain/agent-harness

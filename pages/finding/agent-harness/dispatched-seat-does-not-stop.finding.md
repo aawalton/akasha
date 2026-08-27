@@ -1,5 +1,6 @@
 ---
 id: f37c947f-7a0f-5561-a9f7-e3ab3b3210f4
+slug: dispatched-seat-does-not-stop
 page-type-slug: finding
 title: "Dispatched seat does not stop"
 domain-slug: domain/agent-harness

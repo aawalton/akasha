@@ -1,5 +1,6 @@
 ---
 id: aa481a60-cd77-5a89-923d-e2d8225335bc
+slug: loop-continued-while-blocked
 page-type-slug: finding
 title: "Loop continued while blocked"
 domain-slug: domain/agent-harness

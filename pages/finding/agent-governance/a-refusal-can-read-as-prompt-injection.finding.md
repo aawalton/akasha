@@ -1,5 +1,6 @@
 ---
 id: 49435002-6968-5728-981e-21e7dcab29e8
+slug: a-refusal-can-read-as-prompt-injection
 page-type-slug: finding
 title: "A refusal can read as prompt injection"
 domain-slug: domain/global

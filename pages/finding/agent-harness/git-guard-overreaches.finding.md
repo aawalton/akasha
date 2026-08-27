@@ -1,5 +1,6 @@
 ---
 id: 55dd08fd-ac68-5afb-8c26-a32fecd30bf0
+slug: git-guard-overreaches
 page-type-slug: finding
 title: "Git guard overreaches"
 domain-slug: domain/agent-harness

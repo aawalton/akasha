@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: 013e2a15-148a-540a-9079-44d6196b25cf
+slug: a-red-on-demand-test-stands-unreported
 title: "A red on-demand test stands unreported"
 domain-slug: domain/agent-harness
 ---

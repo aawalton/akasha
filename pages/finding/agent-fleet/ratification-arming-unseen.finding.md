@@ -1,5 +1,6 @@
 ---
 id: 871c148c-ea21-57aa-a14a-e7a10e24d20f
+slug: ratification-arming-unseen
 page-type-slug: finding
 title: "Ratification arming unseen"
 domain-slug: domain/agent-fleet

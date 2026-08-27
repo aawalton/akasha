@@ -1,5 +1,6 @@
 ---
 id: 85b18c64-cdf7-5f91-b708-41d69c7570d8
+slug: exit-code-tells-nothing
 page-type-slug: finding
 title: "Exit code tells nothing"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 0a635b57-59dd-5a9a-91ee-e25c4be98bd9
+slug: refusal-omits-its-record
 page-type-slug: finding
 title: "Refusal omits its record"
 domain-slug: domain/global

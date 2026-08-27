@@ -1,5 +1,6 @@
 ---
 id: e7433c0d-b3f9-50c4-a379-105d28329a9d
+slug: block-outlives-every-seat-that-can-clear-it
 page-type-slug: finding
 title: "Block outlives every seat that can clear it"
 domain-slug: domain/agent-harness

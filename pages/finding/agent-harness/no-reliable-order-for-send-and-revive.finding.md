@@ -1,5 +1,6 @@
 ---
 id: 8f132959-4fcd-5011-8e19-d51ca06b84d4
+slug: no-reliable-order-for-send-and-revive
 page-type-slug: finding
 title: "No reliable order for send and revive"
 domain-slug: domain/agent-harness

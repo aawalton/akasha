@@ -1,5 +1,6 @@
 ---
 id: f0d9c6b4-fbf8-5d92-b1ef-8d3135b06bc4
+slug: armed-set-agreement-unstructural
 page-type-slug: finding
 title: "Armed set agreement unstructural"
 domain-slug: domain/agent-harness

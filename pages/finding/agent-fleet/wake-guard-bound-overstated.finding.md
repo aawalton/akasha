@@ -1,5 +1,6 @@
 ---
 id: f655e9de-4f2d-5c41-a8fa-f1754e81ca33
+slug: wake-guard-bound-overstated
 page-type-slug: finding
 title: "Wake guard bound overstated"
 domain-slug: domain/agent-fleet

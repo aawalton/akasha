@@ -1,6 +1,7 @@
 ---
 page-type-slug: error
 id: 019f976f-fb2e-7749-8a44-782fce044193
+slug: 20c82bdea143bfbd
 title: "[pages-cache] slug 'temper-inventory-snapshot' readiness overran 4000ms — degrading to the empty state"
 seq: 7906
 app: "temper"

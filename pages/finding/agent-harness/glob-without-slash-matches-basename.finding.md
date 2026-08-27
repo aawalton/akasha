@@ -1,5 +1,6 @@
 ---
 id: f28fa091-5263-5892-ab0e-872304e0bf55
+slug: glob-without-slash-matches-basename
 page-type-slug: finding
 title: "Glob without slash matches basename"
 domain-slug: domain/agent-harness

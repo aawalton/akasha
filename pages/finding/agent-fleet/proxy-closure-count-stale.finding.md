@@ -1,5 +1,6 @@
 ---
 id: 9f31a4c5-c93d-50e0-8e6f-f13d5389d3a5
+slug: proxy-closure-count-stale
 page-type-slug: finding
 title: "Proxy closure count stale"
 domain-slug: domain/agent-fleet

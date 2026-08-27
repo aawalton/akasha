@@ -1,5 +1,6 @@
 ---
 id: 0a4f202c-af4a-5972-a1db-88324b8533f7
+slug: classifier-docblock-names-wrong-write
 page-type-slug: finding
 title: "Classifier docblock names wrong write"
 domain-slug: domain/agent-fleet

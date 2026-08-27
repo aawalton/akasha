@@ -1,5 +1,6 @@
 ---
 id: 87d7041a-e28b-5b64-87c4-24f439a8525a
+slug: self-stop-consumer-stale
 page-type-slug: finding
 title: "Self stop consumer stale"
 domain-slug: domain/agent-fleet

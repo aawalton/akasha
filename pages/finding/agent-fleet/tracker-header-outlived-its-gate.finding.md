@@ -1,5 +1,6 @@
 ---
 id: 3cddac36-271f-5fe8-a43a-a87e7146b3c5
+slug: tracker-header-outlived-its-gate
 page-type-slug: finding
 title: "Tracker header outlived its gate"
 domain-slug: domain/agent-fleet

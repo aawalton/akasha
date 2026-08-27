@@ -1,5 +1,6 @@
 ---
 id: 2d6198db-9063-5096-a6f2-a33600db0837
+slug: name-bind-mkdirs-per-name
 page-type-slug: finding
 title: "Name bind mkdirs per name"
 domain-slug: domain/global
