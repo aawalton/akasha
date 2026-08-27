@@ -12,7 +12,7 @@ The block editor's entire keyboard grammar is absent from the two surfaces that 
 
 # Evidence
 
-No file under `shared/pages-ui/src/block-editor/` imports `useKeyboardBinding` or anything from the keyboard registry; the block editor's imports from `@shared/design-primitives` are `Button`, `Textarea`, `cn`, `surfaceClass` and `useDebouncedCallback`. Its keys are decided by an `onKeyDown` at `use-textarea-input.ts:118` against `matchBlockShortcut` and `matchDocumentExtreme`, and by a second `document` listener at `use-block-selection.ts:161` against `matchSelectionKey`, attached only while a selection is live.
+ZERO files under `shared/pages-ui/src/block-editor/` import `useKeyboardBinding` or anything from the keyboard registry — `rg -l 'useKeyboardBinding|use-keyboard-registry'` over that directory returns a count of 0, so the registry holds none of the editor's grammar rather than some of it; the block editor's imports from `@shared/design-primitives` are `Button`, `Textarea`, `cn`, `surfaceClass` and `useDebouncedCallback`. Its keys are decided by an `onKeyDown` at `use-textarea-input.ts:118` against `matchBlockShortcut` and `matchDocumentExtreme`, and by a second `document` listener at `use-block-selection.ts:161` against `matchSelectionKey`, attached only while a selection is live.
 
 Both surfaces read the registry alone. `useKeyboardBindings` in `shared/design-primitives/src/hooks/use-keyboard-registry.ts:192-212` projects the `registrations` map through `getDescriptors`. `shortcut-sheet.tsx` and `command-palette.tsx` consume that projection, the sheet through `groupByLayerAndGroup` in `shortcut-surfaces.ts`, which groups only what it is handed. Nothing merges a second source in.
 
