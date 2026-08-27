@@ -12,11 +12,11 @@ import { landedFor, type Placing, placeOf } from "../../../workspace-package/pac
 import type { Landed } from "../../../workspace-package/relocated-path.ts"
 import { tsconfigRelocated } from "../../../workspace-package/tsconfig-relocated.ts"
 import { addressOf, type Addressed, rejectUnknownFlags, relPathIn } from "../../global/address.ts"
-import { DESCRIPTION, DRY_RUN, EXITS, FLAGS, FROM, INTO, MESSAGE, MESSAGE_FILE, PLAN, TO } from "./move-help.ts"
+import { ALL, DESCRIPTION, DRY_RUN, EXITS, FLAGS, FROM, INTO, MESSAGE, MESSAGE_FILE, PLAN, TO } from "./move-help.ts"
 
 const VALUE_FLAGS = [FROM, TO, INTO, PLAN, MESSAGE, MESSAGE_FILE]
 
-const BARE_FLAGS = [DRY_RUN, "--help", "-h"]
+const BARE_FLAGS = [DRY_RUN, ALL, "--help", "-h"]
 
 const MANIFEST = "package.json"
 
@@ -62,6 +62,19 @@ export function planIn(text: string): readonly Placing[] {
     }
     return { name: entry.name as string, from: entry.from as string, to: entry.to as string }
   })
+}
+
+export function packagesOnDisk(plan: readonly Placing[], root: string): readonly Placing[] {
+  return plan.filter((one) => existsSync(`${root}/${one.from}/${MANIFEST}`))
+}
+
+export function ownerOf(packages: readonly Placing[], relPath: string): Placing | null {
+  let held: Placing | null = null
+  for (const one of packages) {
+    if (relPath !== one.to && !relPath.startsWith(`${one.to}/`)) continue
+    if (held === null || one.to.length > held.to.length) held = one
+  }
+  return held
 }
 
 function trackedUnder(at: Addressed, dir: string): readonly string[] {
